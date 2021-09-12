@@ -1,0 +1,7 @@
+{
+  "name": "BibleGems",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
