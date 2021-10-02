@@ -3,27 +3,49 @@
     <ion-menu contentId="main-content" type="overlay">
       <ion-content>
         <ion-list id="inbox-list">
-          <ion-list-header>Inbox</ion-list-header>
-          <ion-note>hi@ionicframework.com</ion-note>
-
-          <ion-menu-toggle auto-hide="false" *ngFor="let p of appPages; let i = index">
-            <ion-item routerDirection="root" [routerLink]="[p.url]" lines="none" detail="false" routerLinkActive="selected">
-              <ion-icon slot="start" [ios]="p.icon + '-outline'" [md]="p.icon + '-sharp'"></ion-icon>
-              <ion-label>{{ p.title }}</ion-label>
+          <ion-row>
+            <ion-col class="ion-text-center">
+              <img width="180px" src="assets/img/sks_header.png">
+            </ion-col>
+          </ion-row>
+           <ion-row>
+             <ion-col>
+              <ion-item   routerLink="/home"
+              (click)="global.mainItem=-1"
+              [class.selected]="global.mainItem == -1 "
+              lines="none" detail="false">
+              <ion-icon name='home' style="color:royalblue"></ion-icon>&nbsp;
+              <ion-label><b> Home </b></ion-label>
             </ion-item>
-          </ion-menu-toggle>
-        </ion-list>
+             </ion-col>
+           </ion-row>
+          <ion-row *ngFor="let mi of global.chapters;let i = index">
+            <ion-col>
+              <ion-item (click)="global.mainItem = i;global.selectedItem=-1;goToChapter(mi);sm=sm==1?0:1" lines="none"
+                detail="false" [class.selected]="global.mainItem == i ">
+                <ion-icon [name]="mi.icon"></ion-icon>&nbsp;
+                <ion-label><b>{{mi.title}}</b></ion-label>
+              </ion-item>
+              <div *ngIf="global.mainItem == i && sm==1">
+                <ion-row *ngFor="let s of mi.subs;let j = index">
+                  <ion-col style="margin-left:5px">
 
-        <ion-list id="labels-list">
-          <ion-list-header>Labels</ion-list-header>
+                    <ion-item (click)="global.selectedItem = j;global.subItem=-1;goToChapter(s); sh=sh==1?0:1"
+                      lines="none" detail="false" [class.selected]="global.selectedItem == j && global.mainItem == i ">
+                      <ion-icon name='document-text' style="color:royalblue"></ion-icon>&nbsp;
+                      <ion-label><b>{{ s.shloka }}</b></ion-label>
+                    </ion-item>
 
-          <ion-item *ngFor="let label of labels" lines="none">
-            <ion-icon slot="start" ios="bookmark-outline" md="bookmark-sharp"></ion-icon>
-            <ion-label>{{ label }}</ion-label>
-          </ion-item>
+                  </ion-col>
+                </ion-row>
+              </div>
+            </ion-col>
+          </ion-row>
         </ion-list>
+         
       </ion-content>
     </ion-menu>
+
     <ion-router-outlet id="main-content"></ion-router-outlet>
   </ion-split-pane>
 </ion-app>
