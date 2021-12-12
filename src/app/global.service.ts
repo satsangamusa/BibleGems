@@ -33,9 +33,9 @@ export class GlobalService {
       pageText:
         `
         <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        There was some history before the arrival of Jesus on earth. Even after his death, there is some history. The history written before his arrival is called the <b>Old Testament</b>. The history written after his arrival is named the <b>New Testament</b>. The Old Testament before his birth, his life in the New Testament, and how his believers propagated the Christian community after his death are important to the Christian community. The book of both Old and New Testaments is called the <b>Holy Bible</b>. Although the Christian Bible and the Hindu Bhagavad-Gita are intended to uplift and lead humans towards God, there are some differences. The Bhagavad-Gita does not have pre- or post-history of Krishna. It has only Krishna’s teachings. Whereas the Holy Bible contains the history before Jesus and after Jesus. The Christian preachers’ teachings contain the Old Testament words before Christ’s birth and his devotees’ propagation from the New Testament after Christ’s death. There is nothing wrong with this, but if we think thoroughly, we will come to know that only a portion of the Bible is instrumental for man to walk in God’s path. If there are many characters in a play, we like one of them more than the others. Similarly, if there are multiple episodes in a drama, we love one of them very much. Likewise, if the entire Bible is considered, only the portion of the New Testament from when Jesus Christ came upon the earth until he left is the most sacred and essential for liberation. Everyone should realize that the very essence of the Bible is the history of Jesus. Jesus’ words are like a bag of diamonds in the entire Bible. All that humans must grasp in the Bible is in <b>the Gospel of Matthew, the Gospel of Mark, the Gospel of Luke, and the Gospel of John</b>. The divine proximity that humans need is found in these four gospels. The highest wisdom of these four gospels resides in the Gospel of John. The wisdom found in the Gospel of John is beyond the reach of human intelligence. The entire Bible has 1029 pages, but the history of Jesus is only 102 pages in the New Testament. If the Bible is divided into ten parts, one part is better than the other nine. Those who know Jesus’ value understand the true wisdom in this one part.
+        There was some history before the arrival of Jesus on earth. Even after his death, there is some history. The history written before his arrival is called the <b>Old Testament</b>. The history written after his arrival is named the <b>New Testament</b>. The Old Testament before his birth, his life in the New Testament, and how his believers propagated the Christian community after his death are important to the Christian community. The book of both Old and New Testaments is called the <b>Holy Bible</b>. Although the Christian Bible and the Hindu Bhagavad-Gita are intended to uplift and lead humans towards God, there are some differences. The Bhagavad-Gita does not have pre- or post-history of Krishna. It has only Krishna’s teachings. Whereas the Holy Bible contains the history before Jesus and after Jesus. The Christian preachers’ teachings contain the Old Testament words before Christ’s birth and his devotees’ propagation from the New Testament after Christ’s death. There is nothing wrong with this, but if we think thoroughly, we will come to know that only a portion of the Bible is instrumental for man to walk in God’s path. If there are many characters in a play, we like one of them more than the others. Similarly, if there are multiple episodes in a drama, we love one of them very much. Likewise, if the entire Bible is considered, only the portion of the New Testament from when Jesus Christ came upon the earth until he left is the most sacred and essential for liberation. Everyone should realize that the very essence of the Bible is the history of Jesus. Jesus’ words are like a bag of diamonds in the entire Bible. All that humans must grasp in the Bible is in <b>the Gospel of Mathew, the Gospel of Mark, the Gospel of Luke, and the Gospel of John</b>. The divine proximity that humans need is found in these four gospels. The highest wisdom of these four gospels resides in the Gospel of John. The wisdom found in the Gospel of John is beyond the reach of human intelligence. The entire Bible has 1029 pages, but the history of Jesus is only 102 pages in the New Testament. If the Bible is divided into ten parts, one part is better than the other nine. Those who know Jesus’ value understand the true wisdom in this one part.
 <p>
-We are explaining some of Jesus’ words from the Gospels of Matthew, Mark, Luke, and John. Some of you may ask why I am re-writing when many fathers, pastors, and bishops have already explained Jesus’ words. Here is my answer. All preachers are teaching the verses effectively from the Old Testament and the New Testament other than the four Gospels. But there is some gap in explaining the verses of four Gospels that have the history of Christ. We said that the Hindus have not yet understood the secrets in the Bhagavad-Gita. Likewise, there are many secrets that Christians do not know in the four Gospels that have Jesus’ history. I am not saying this with jealousy on the preachers. But I say this with faith in Christ. We are
+We are explaining some of Jesus’ words from the Gospels of Mathew, Mark, Luke, and John. Some of you may ask why I am re-writing when many fathers, pastors, and bishops have already explained Jesus’ words. Here is my answer. All preachers are teaching the verses effectively from the Old Testament and the New Testament other than the four Gospels. But there is some gap in explaining the verses of four Gospels that have the history of Christ. We said that the Hindus have not yet understood the secrets in the Bhagavad-Gita. Likewise, there are many secrets that Christians do not know in the four Gospels that have Jesus’ history. I am not saying this with jealousy on the preachers. But I say this with faith in Christ. We are
 explaining the truth so that people should understand Jesus correctly, how great <b>he</b> is, and what his <b>power</b> is.
 </p><p>
 The Hindus, who look at my books that have Christ’s name, think that they are Christian books and do not want to read them. Christians do not want to read the books written by a Hindu guru and want to read only the writings of the Christians. Hindus hate me because they think the author of Christian books is not at all a Hindu. Some Christians told other Christians that these books were written to convert Christians to Hinduism hence not to read them. The Hindus accuse us of converting Hindus to Christians, and the Christians accuse us of turning Christians to Hindus. We are not converting anyone, but we are telling to know the true God. Everyone who is a child of God has the <b>right</b> to say about God. Hence, we are patiently telling God’s matter, no matter what others think.
@@ -106,6 +106,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
         Paramatma, who once created Prakruti, will absorb her into him at some point. Paramatma is the one who created her, patrons her, and eventually destroys her. He is the father, husband, and destructor of Prakruti. He is also the force in Prakruti. Paramatma, who is vast, created somewhat broad Prakruti and is playing a game called ‘Jagath.’ In this game, Paramatma, who is neither male nor female, disguised himself as purusha (male). According to the play ‘Jagath,’ Paramatma is male. He is neither male nor female outside of the play. Prakruti is divided into five elements - Sky, Air, Fire, Water, and Earth and is named Prapancha. After creating Prakruti, Paramatma wanted to create a Jagath consisting of living beings who have birth and death. He created living beings that have birth and death by Atma and built the Jagath in the Prapancha. According to the Telugu language, <b>‘ja’</b> means being born, and <b>‘gati’</b> means dying. Hence, all living beings are appropriately named ‘Jagath,’ indicating that it consists of birth and death. 
         </p><p>
         Paramatma made the Jagath consisting of living beings in Prakruti. Prakruti (female) and Paramatma (Purusha) are equal, and Jagath was born separately after that. Paramatma created both Prakruti (Prapancha) and Jagath. It would become three, including him. Initially, Paramatma, who is neither male nor female, made Prakruti. Then he became Purusha, made Prakruti as his wife, and created a unique offspring named Jagath. If these relationships are ignored, Paramatma created three parts - Prakruti, Purusha, and Jagath. Prakruti is female; Paramatma is male (Purusha); Jagath should be considered as non-binary (neither male nor female). Here the main game is that Paramatma and Prakruti drag the Jagath (non-binary) which is in between them. There are rules for the game. Although Paramatma, who defined the rules of the game, is the creator of all and superior to all, he is playing the game as per the rules he decided. This game has a time limit as other games. As football has a time limit of 90minutes and cricket has 50 overs limit, the time limit for the game of Jagath is 1000 Yugas or 108 crores of years. The game takes a break at night and continues in the day. The playing time and the relaxing time each is 108 crore (1.08 billion) years. 
+        </p><p>
         Paramatma, who is non-specific and undefined, first made Prapancha (no life- form) and then the living beings (Jagath). He created Prakruti and became recognized as Purusha. He became Purusha and divided Prakruti, which conceives with his seed, into five parts. Such Prakruti is called Pancha Bhutas or Prapancha. He divided the Jagath he created into three parts. The life-form Jagath is divided into three types – Jivatma, Atma and Paramatma. He became recognized as Paramatma after creating Jivatmas and Atma. He became recognized as Paramatma beside the Atmas (Jivatma and Atma) and as Purusha beside the Prakruti. When Prakruti and the Atmas exist, there is a basis for calling him Purusha or Paramatma. If Prakruti and the Atmas do not exist, it is not possible to define him. The life-form Jagath is born of Prakruti and Purusha. Paramatma arranged so that the mother and the father in the Jagath have the attributes of Prakruti and Purusha. 
         </p><p>
         Prakruti has opposite characteristics than Purusha. But Jagath consists of attributes of both Prakruti and Purusha. The life-form Jagath has both Paramatma related Jivatma and Atmas and Prakruti related bodies and gunas. The belief that God exists is on the soul side, and the opposite view that God does not exist is on the Prakruti side. Human beings in the Jagath have the characteristics of Prakruti and Purusha. To show Prakruti and the Purusha symbols, women's bodies were created to resemble Prakruti, and men's bodies were made to represent Paramatma. Non-binary persons were also created to resemble Jagath to tell that Jagath also exists in addition to Prakruti and Paramatma. Women, men, and non-binary symbolize Prakruti, Paramatma, and the living world. Prakruti = woman, Jagath = non-binary, Paramatma = male (Purusha). God made his creation known by resembling females to the Prakruti, non-binary persons to the living world (Jagath), and men to Paramatma. To indicate that the living world is born to Atma and Prakruti, God made children born from males and females. The visible mother, father, and offspring indicate how creation happened at the beginning. Human beings who use intelligence in everything do not think why man is different from the woman and why offspring is born from 
@@ -132,10 +133,10 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
     },
     {
-      chapterName: "The The Gospel Of Mathew",
+      chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 2,
-      verse: `<b>(1) The Gospel of Matthew, 3rd chapter, 7th verse.</b>`,
+      verse: `<b>(1) The Gospel of Mathew, 3rd chapter, 7th verse.</b>`,
       meaning: `<b> 
       (7) You brood of vipers! Who warned you to flee from the coming wrath?
       </b>`,
@@ -155,7 +156,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
     </p><p>
     When it is said, “Who warned you?”, we should talk about the one who told wisdom in the past. According to this, the one who told wisdom in the first divine scripture is the one who warned humans first. There is a reason for knowing the one who told in the past. Since only God can tell his wisdom, and God is the only one, it is the same God who will teach his wisdom whenever and wherever required. Therefore, the same one who told earlier told again in the form of verses. Hence, if we want to know the one who told the wisdom in the second divine scripture, we first should know the one who said the wisdom in the past. Hence it became necessary to ask the question - who warned you? If you can find out who said in the past, you will have the opportunity to recognize who is saying now. We request you to read this scripture with the belief that the one who told the first divine scripture told this second divine scripture. 
     </p><p>
-    Before reading the second divine scripture, we need to know what verses God, who told the first divine scripture, told in the Bible scripture. The Bible consists of 66 chapters, four of which have God’s verses, and the other 62 have verses from other gnanis. Those four chapters are 1) The Gospel of Matthew 2) The Gospel of Mark 3) The Gospel of Luke 4) The Gospel of John. These four parts are in the middle of the Bible. Hence, we can divide the Bible into three parts. The first 39 chapters are one part, the four Gospels the second, the last 23 chapters the third. We can observe that four chapters that Jesus told in his lifetime were specially labeled <b>‘Gospels.’</b> 
+    Before reading the second divine scripture, we need to know what verses God, who told the first divine scripture, told in the Bible scripture. The Bible consists of 66 chapters, four of which have God’s verses, and the other 62 have verses from other gnanis. Those four chapters are 1) The Gospel of Mathew 2) The Gospel of Mark 3) The Gospel of Luke 4) The Gospel of John. These four parts are in the middle of the Bible. Hence, we can divide the Bible into three parts. The first 39 chapters are one part, the four Gospels the second, the last 23 chapters the third. We can observe that four chapters that Jesus told in his lifetime were specially labeled <b>‘Gospels.’</b> 
     </p><p><b>
     The first part of the Bible has 39 parts. <br>
     The second part of the Bible has 4 Gospels. <br>
@@ -170,10 +171,10 @@ There is a strong reason why even the great gnanis could not recognize him and c
     },
 
     {
-      chapterName: "The The Gospel Of Mathew",
+      chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 3,
-      verse: `<b> The Gospel of Matthew, 3rd chapter, 11th verse.</b>`,
+      verse: `<b> The Gospel of Mathew, 3rd chapter, 11th verse.</b>`,
       meaning: ` <b> 
       (11) I baptize you with water for mind change. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.
       </b>`,
@@ -204,10 +205,10 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
     },
     {
-      chapterName: "The The Gospel Of Mathew",
+      chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 4,
-      verse: `<b>(3) The Gospel of Matthew, 3rd chapter, 12th verse.</b>`,
+      verse: `<b>(3) The Gospel of Mathew, 3rd chapter, 12th verse.</b>`,
       meaning: `<b> 
       (12) His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.
         </b>`,
@@ -236,10 +237,10 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
     },
     {
-      chapterName: "The The Gospel Of Mathew",
+      chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 5,
-      verse: `<b> (4) The Gospel of Matthew, 3rd chapter, 16th and 17th verses.</b>`,
+      verse: `<b> (4) The Gospel of Mathew, 3rd chapter, 16th and 17th verses.</b>`,
       meaning: `
         <b> 
         (16) As soon as Jesus was baptized, he went up out of the water. At that moment the sky was opened, and he saw the Spirit of God descending like a dove and alighting on him.
@@ -260,10 +261,10 @@ There is a strong reason why even the great gnanis could not recognize him and c
     },
 
     {
-      chapterName: "The The Gospel Of Mathew",
+      chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 6,
-      verse: `<b>(5)	The Gospel of Matthew, 4th chapter, 10th verse.</b> `,
+      verse: `<b>(5)	The Gospel of Mathew, 4th chapter, 10th verse.</b> `,
       meaning: ` <b> 
       (10) Jesus said to him, “Away from me, Satan! For it is written: Worship the Lord your God and serve him only.”
 </b>`,
@@ -283,10 +284,10 @@ There is a strong reason why even the great gnanis could not recognize him and c
 `
     },
     {
-      chapterName: "The The Gospel Of Mathew",
+      chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 7,
-      verse: ` <b>(6)	The Gospel of Matthew, 5th chapter, 10th verse.</b>
+      verse: ` <b>(6)	The Gospel of Mathew, 5th chapter, 10th verse.</b>
 `,
       meaning: `<b> 
       (10) Blessed are those who are persecuted because of righteousness (wisdom), for theirs is the kingdom of paraloka (moksha).
@@ -300,11 +301,11 @@ There is a strong reason why even the great gnanis could not recognize him and c
   </span>`
     },
     {
-      chapterName: "The The Gospel Of Mathew",
+      chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 8,
 
-      verse: ` <b> (7)	The Gospel of Matthew, 5th chapter, 17th verse.</b> `,
+      verse: ` <b> (7)	The Gospel of Mathew, 5th chapter, 17th verse.</b> `,
       meaning: ` <b> 
       (17) Do not think that I have come to abolish the Law (Dharma Shastra) or the Prophets; I have not come to abolish them but to fulfill them.
       </b> `,
@@ -323,7 +324,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
       chapterNumber: 1,
       pageNumber: 9,
 
-      verse: ` <b>(8)	The Gospel of Matthew, 5th chapter, 18th verse.</b> 
+      verse: ` <b>(8)	The Gospel of Mathew, 5th chapter, 18th verse.</b> 
 
 `,
       meaning: `<b> 
@@ -358,7 +359,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
       pageNumber: 10,
 
-      verse: ` <b>(9)	The Gospel of Matthew, 5th chapter, 19th verse.</b> 
+      verse: ` <b>(9)	The Gospel of Mathew, 5th chapter, 19th verse.</b> 
   
 `,
       meaning: `<b> 
@@ -377,7 +378,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 1,
       pageNumber: 11,
-      verse: `<b>(10)	The Gospel of Matthew, 5th chapter, 20th verse.      </b>  
+      verse: `<b>(10)	The Gospel of Mathew, 5th chapter, 20th verse.      </b>  
 `,
       meaning: ` <b> 
       (20) For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of paraloka.</b>`,
@@ -395,7 +396,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
       pageNumber: 12,
 
-      verse: `<b>(11)	The Gospel of Matthew, 5th chapter, 28th verse.</b>
+      verse: `<b>(11)	The Gospel of Mathew, 5th chapter, 28th verse.</b>
    `,
       meaning: `<b> 
       (28) But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. </b>     `,
@@ -417,7 +418,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
       pageNumber: 13,
 
-      verse: `<b>(12)	The Gospel of Matthew, 5th chapter, 29th and 30th verses.</b>
+      verse: `<b>(12)	The Gospel of Mathew, 5th chapter, 29th and 30th verses.</b>
  `,
       meaning: ` <b>
       (29) If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.      
@@ -461,7 +462,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
       pageNumber: 14,
 
-      verse: `  <b>(13)	The Gospel of Matthew, 6th chapter, 3rd and 4th verses.</b>
+      verse: `  <b>(13)	The Gospel of Mathew, 6th chapter, 3rd and 4th verses.</b>
   
   `,
       meaning: ` <b>
@@ -492,7 +493,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
 
       pageNumber: 15,
 
-      verse: `  <b>(14)	The Gospel of Matthew, 6th chapter, 6th verse.</b>  
+      verse: `  <b>(14)	The Gospel of Mathew, 6th chapter, 6th verse.</b>  
                      
                      
   `,
@@ -512,7 +513,7 @@ There is a strong reason why even the great gnanis could not recognize him and c
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 16,
-      verse: `  <b>(15)	The Gospel of Matthew, 6th chapter, 7th and 8th verses. </b>
+      verse: `  <b>(15)	The Gospel of Mathew, 6th chapter, 7th and 8th verses. </b>
           
  `,
       meaning: `  <b>
@@ -531,7 +532,7 @@ will fulfill their desires if asked with a lot of words. You should not pray lik
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 17,
-      verse: ` <b>(16)	The Gospel of Matthew, 7th chapter, 13th and 14th verses.</b>
+      verse: ` <b>(16)	The Gospel of Mathew, 7th chapter, 13th and 14th verses.</b>
   
    `,
       meaning: `  <b>
@@ -553,7 +554,7 @@ will fulfill their desires if asked with a lot of words. You should not pray lik
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 18,
-      verse: ` <b>(17)	The Gospel of Matthew, 7th chapter, 7th and 8th verses.</b>
+      verse: ` <b>(17)	The Gospel of Mathew, 7th chapter, 7th and 8th verses.</b>
      `,
       meaning: ` 
       <b>
@@ -574,7 +575,7 @@ will fulfill their desires if asked with a lot of words. You should not pray lik
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 19,
-      verse: `<b>(18)	The Gospel of Matthew, 7th chapter, 15th verse.</b>  
+      verse: `<b>(18)	The Gospel of Mathew, 7th chapter, 15th verse.</b>  
     
 `,
       meaning: ` <b>
@@ -594,7 +595,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 20,
-      verse: `<b>(19)	The Gospel of Matthew, 7th chapter, 21st verse.</b>
+      verse: `<b>(19)	The Gospel of Mathew, 7th chapter, 21st verse.</b>
   
   `,
       meaning: ` <b>
@@ -613,7 +614,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 21,
-      verse: ` <b> (20)	The Gospel of Matthew, 7th chapter, 22nd and 23rd verses. </b>  
+      verse: ` <b> (20)	The Gospel of Mathew, 7th chapter, 22nd and 23rd verses. </b>  
     `, meaning: ` <b>
     (22) Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name and in your name drive out demons and, in your name, perform many miracles?
     <br><br>
@@ -633,7 +634,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
         <br><br>
         Today in society, people consider those who do miracles in the name of God as true devotees and close to God. Even those who do wonders think that they are close to the Lord. They think that they are close to the Lord because the glory of the Lord is revealed through them. When they touch a patient praising God’s word, and the patient’s sickness is forgiven, they consider that the Lord’s miracles are unveiled through them. While it is true that miracles will happen and the Lord becomes known to all through miracles, but they did not think why the Lord does not like them according to the above verse. They forgot the Lord’s words in this case. If what they are doing is good, and it is the Lord's miracle, why did the Lord scold them? Why did Jesus say that they were walking in the evil path? If the Lord says so, it would be a hundred percent truth. 
         <br><br>
-        Unbelievable truth will be revealed when you think what the truth in the Lord’s words. It is a big mistake for a man not to realize whether the miracles done in the Lord’s name belong to God or Satan. Those who appear to be preachers and gurus in the people’s eyes think that they are in God’s path, but they are in Maya’s path. This is a very painful thing. Many preachers will get angry with my word. But remember that this is not my word, but the word of God. The Lord said in the Gospel of Matthew 7:22, <b>“This is evil. I never knew you.”</b> We need to think in what form Maya that tempted the Lord that day is tempting us today. Knowing about Maya (Satan) is also 
+        Unbelievable truth will be revealed when you think what the truth in the Lord’s words. It is a big mistake for a man not to realize whether the miracles done in the Lord’s name belong to God or Satan. Those who appear to be preachers and gurus in the people’s eyes think that they are in God’s path, but they are in Maya’s path. This is a very painful thing. Many preachers will get angry with my word. But remember that this is not my word, but the word of God. The Lord said in the Gospel of Mathew 7:22, <b>“This is evil. I never knew you.”</b> We need to think in what form Maya that tempted the Lord that day is tempting us today. Knowing about Maya (Satan) is also 
         part of the divine wisdom. If we do not know Maya, we will mistakenly follow Satan, which is not God and is in God’s form, instead of following God. Many speakers, gurus, and preachers today are mistaken in the same way. The Satan (Maya), which can change many forms, is doing magic and miracles in God’s name. Those who do not know that this is not pleasing to God cannot move forward. The terrible truth is that many people on earth blindly follow Satan, assuming that it is God. They are not able to know that what they are pursuing is not God's way but Satan's. They seem to be no chance of getting out of Satan's influence. Even if God himself said this thing, they would criticize God, but they would not change. For them, Maya appears to be God, and God seems to be a man. 
         <br><br>
         Those who want to enter God's kingdom and have faith in God should remember the above verse and think why God hated and called those who perform miracles as evildoers. Think who is God's favorite and who is not. You need to know God’s verses, God’s wisdom, and his commandments. You should fully absorb God’s wisdom and should not cross his commandment, thinking that it is a boundary drawn around you. Remember that God’s kingdom is within the boundary, and outside the boundary is Satan’s kingdom. You should be alert to Satan, remembering the boundary that Jesus has drawn around humankind in his holy scripture. 
@@ -645,7 +646,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 22,
-      verse: ` <b>(21) The Gospel of Matthew, 8th chapter, 22nd verse. </b>  
+      verse: ` <b>(21) The Gospel of Mathew, 8th chapter, 22nd verse. </b>  
     `, meaning: ` <b>
         
     (22) Jesus told him, “Follow me, and let the dead bury their own dead.”     </b>                                    
@@ -659,7 +660,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 23,
-      verse: ` <b> (22)	The Gospel of Matthew, 9th chapter, 12th and 13th verses
+      verse: ` <b> (22)	The Gospel of Mathew, 9th chapter, 12th and 13th verses
       .</b>  
     `, meaning: ` <b>
     (12) On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.”   <br><br>
@@ -674,7 +675,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 24,
-      verse: ` <b>(23) The Gospel of Matthew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>  
+      verse: ` <b>(23) The Gospel of Mathew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>  
     `, meaning: `  <b>
     (23) Then he got into the boat and his disciples followed him.
     <br><br>
@@ -698,7 +699,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 25,
-      verse: ` <b> (24)The Gospel of Matthew, 9th chapter, 6th verse.</b>  
+      verse: ` <b> (24)The Gospel of Mathew, 9th chapter, 6th verse.</b>  
     `, meaning: `<b>
     (6) I want you to know that the Son of Man has authority on earth to forgive sins. So, he said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
     </b>                                      
@@ -715,7 +716,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 26,
-      verse: ` <b>(25) The Gospel of Matthew, 10th chapter, 20th verse.</b>  
+      verse: ` <b>(25) The Gospel of Mathew, 10th chapter, 20th verse.</b>  
     `, meaning: `<b>
     (20) For it will not be you speaking, but the Spirit of your Father speaking through you.    </b>                                      
     `, pageText: `  
@@ -731,7 +732,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 27,
-      verse: ` <b>(26) The Gospel of Matthew, 10th chapter, 30th verse.</b>  
+      verse: ` <b>(26) The Gospel of Mathew, 10th chapter, 30th verse.</b>  
     `, meaning: ` <b>
     (30) Even the very hairs of your head are all numbered.
     </b>                                      
@@ -749,7 +750,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 28,
-      verse: ` <b>(27) The Gospel of Matthew, 10th chapter, 34th, 35th and 36th verses.</b>  
+      verse: ` <b>(27) The Gospel of Mathew, 10th chapter, 34th, 35th and 36th verses.</b>  
     `, meaning: `<b>
     (34) Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.    <br><br>
     (35) For I have come to turn “‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.    <br><br>
@@ -765,7 +766,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 29,
-      verse: `<b>(28)	The Gospel of Matthew, 10th chapter, 37th verse.</b>   
+      verse: `<b>(28)	The Gospel of Mathew, 10th chapter, 37th verse.</b>   
     `, meaning: `<b>                 
     (37) Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.    
     </b>                                     
@@ -781,7 +782,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 30,
-      verse: `<b>(29)	The Gospel of Matthew, 10th chapter, 38th verse.</b>   
+      verse: `<b>(29)	The Gospel of Mathew, 10th chapter, 38th verse.</b>   
     `, meaning: `<b>  
     (38) Whoever does not take up their cross and follow me is not worthy of me.    
     </b>                                      
@@ -805,7 +806,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 31,
-      verse: `<b>(30)	The Gospel of Matthew, 10th chapter, 40th verse.</b>   
+      verse: `<b>(30)	The Gospel of Mathew, 10th chapter, 40th verse.</b>   
     `, meaning: ` <b>
     (40) Anyone who welcomes (receives) you welcomes (receives) me, and anyone who welcomes (receives) me welcomes (receives) the one who sent me.     </b>                                     
     `, pageText: `   
@@ -819,7 +820,7 @@ guide (prophet). Once a person has been decided as guru, everyone has the habit 
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 32,
-      verse: `<b>(31)	The Gospel of Matthew, 11th chapter, 9th verse.</b>   
+      verse: `<b>(31)	The Gospel of Mathew, 11th chapter, 9th verse.</b>   
     `, meaning: ` <b>
     (9) What did you go out to see? A prophet? Yes, I tell you, and (I am) more than a prophet.     </b>                                     
     `, pageText: ` 
@@ -834,7 +835,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 33,
-      verse: `<b>(32)	The Gospel of Matthew, 11th chapter, 28th verse.</b>   
+      verse: `<b>(32)	The Gospel of Mathew, 11th chapter, 28th verse.</b>   
     `, meaning: ` <b>
     (28) Come to me, all you who are weary and burdened, and I will give you rest.     </b>                                      
     `, pageText: `  
@@ -850,7 +851,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 34,
-      verse: ` <b>(33)	The Gospel of Matthew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b> 
+      verse: ` <b>(33)	The Gospel of Mathew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b> 
     `, meaning: ` <b>
     (17) This was to fulfill what was spoken through the prophet Isaiah.    <br><br>
     (18) Here is my servant whom I have chosen, the one I love, in whom I delight; I will put my Spirit on him.        <br><br>
@@ -879,7 +880,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 35,
-      verse: `<b>(34)	The Gospel of Matthew, 12th chapter, 31st verse.</b>   
+      verse: `<b>(34)	The Gospel of Mathew, 12th chapter, 31st verse.</b>   
     `, meaning: `<b>
     (31) So, I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit (Atma) will not be forgiven.    </b>                                     
     `, pageText: `  
@@ -893,7 +894,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 36,
-      verse: `<b>(35)	The Gospel of Matthew, 12th chapter, 32nd verse.</b>   
+      verse: `<b>(35)	The Gospel of Mathew, 12th chapter, 32nd verse.</b>   
     `, meaning: `<b>
     (32) Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age (yuga) or in the age (yuga) to come.     </b>                                     
     `, pageText: ` 
@@ -912,7 +913,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 37,
-      verse: `<b>(36)	The Gospel of Matthew, 12th chapter, 36th and 37th verses.</b>   
+      verse: `<b>(36)	The Gospel of Mathew, 12th chapter, 36th and 37th verses.</b>   
     `, meaning: ` <b>
     (36) But I tell you that everyone will have to give account on the day of judgment for every empty word they have spoken.
     <br><br>
@@ -927,14 +928,14 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 38,
-      verse: `<b>(37)	The Gospel of Matthew, 12th chapter, 40th verse.</b>   
+      verse: `<b>(37)	The Gospel of Mathew, 12th chapter, 40th verse.</b>   
     `, meaning: ` <b>
     (40) For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth.     </b>                                     
     `, pageText: `< 
     <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
     This verse compares what had happened before Jesus and what would happen. According to verse, when a giant fish swallowed Jonah, he lived three days and three nights in the belly of the fish. “Jesus will be three days and three nights in the heart of the earth,” also said in verse. Although Jonah living three days and three nights in the belly of the fish is true, it is false saying that Jesus, Son of Man, lived three days and three nights in the heart of the earth. According to history, Jesus died on the cross Friday evening. He came out of the tomb before Sunday early morning. Putting it all together, Jesus may have died on the cross between 3:30 p.m. to 4 p.m. on Friday. After his death, his body was put in a tomb on Friday evening. According to this, it becomes known that Jesus was not in the tomb on Friday daytime. It can be said that he was in the tomb on Friday night. He was in the tomb on the entire Saturday. It was said that he came out of the tomb at dawn on Sunday. So, Jesus was in the tomb on Friday night and the entire Saturday and came out of the tomb before Sunday morning. 
     <br><br>
-    According to this, Jesus was underground for only two nights and a day. Therefore, this verse in the scripture appears false. The verse of the divine scripture is never wrong. Others asked whether this verse is false. It also appeared incorrect to me. I told them that this verse is true, and I had to answer what others asked. As I always remember what is said in Matthew 10:20, <b>“For it will not be you speaking, but the Spirit of your Father speaking through you,”</b> I thought why I should be afraid of answering. Atma is the one who asks the question, and Atma is the one who answers the question. We (Jivas) are the one who need to listen and understand what Atma says. 
+    According to this, Jesus was underground for only two nights and a day. Therefore, this verse in the scripture appears false. The verse of the divine scripture is never wrong. Others asked whether this verse is false. It also appeared incorrect to me. I told them that this verse is true, and I had to answer what others asked. As I always remember what is said in Mathew 10:20, <b>“For it will not be you speaking, but the Spirit of your Father speaking through you,”</b> I thought why I should be afraid of answering. Atma is the one who asks the question, and Atma is the one who answers the question. We (Jivas) are the one who need to listen and understand what Atma says. 
     <br><br>
     The one who is said to be the Son of Man is truly the Son of God. Although we say that Jesus is the Son of God, he is, in fact, not anyone's son but God. I say this because I am completely aware that he is God. The body-worn by God has death, but God has no death. Death is of four types. Everyone knows that death is of only one kind, but the gnanis know that death is of four types. They are 1) Natural death, 2) Un-natural death, 3) Temporary death, 4) Last death. Of these four deaths, the death that comes when God is born as a human and man attains Moksha and unite with God is the last death. Everyone says that Jesus died on the cross. However, no one knows which out of the four deaths he received. 
     <br><br>
@@ -957,7 +958,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 39,
-      verse: `<b>(38)	The Gospel of Matthew, 13th chapter, 13th, 14th and 15th verses.</b>   
+      verse: `<b>(38)	The Gospel of Mathew, 13th chapter, 13th, 14th and 15th verses.</b>   
     `, meaning: `<b>
     (13) Though seeing, they do not see; though hearing, they do not hear or understand.
     <br><br> (14) In them is fulfilled the prophecy of Isaiah: You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
@@ -973,7 +974,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 40,
-      verse: `<b>(39)	The Gospel of Matthew, 15th chapter, 7th, 8th and 9th verses.</b>   
+      verse: `<b>(39)	The Gospel of Mathew, 15th chapter, 7th, 8th and 9th verses.</b>   
     `, meaning: `<b>
     (7) You hypocrites! Isaiah was right when he prophesied about you.<br><br>
     (8) These people honor me with their lips, but their hearts are far from me. 
@@ -993,7 +994,7 @@ verse, it becomes known that Jesus is greater than prophets and is God’s incar
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 41,
-      verse: `<b> (40)	The Gospel of Matthew, 15th chapter, 11th verse.</b>   
+      verse: `<b> (40)	The Gospel of Mathew, 15th chapter, 11th verse.</b>   
     `, meaning: ` <b>                            
     (11) What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.    </b>                                     
     `, pageText: `  
@@ -1008,7 +1009,7 @@ mouth. What is noteworthy here is that there is no problem with the food going t
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 42,
-      verse: `<b> (41)	The Gospel of Matthew, 15th chapter, 12th and 13th verses.</b>   
+      verse: `<b> (41)	The Gospel of Mathew, 15th chapter, 12th and 13th verses.</b>   
     `, meaning: `<b>
     (12) Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”    <br><br>
     (13) He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.”
@@ -1027,7 +1028,7 @@ mouth. What is noteworthy here is that there is no problem with the food going t
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 43,
-      verse: `<b> (42) The Gospel of Matthew, 15th chapter, 14th verse
+      verse: `<b> (42) The Gospel of Mathew, 15th chapter, 14th verse
       .</b>   
     `, meaning: `<b> 
     (14) Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit.       </b>                                     
@@ -1042,10 +1043,10 @@ mouth. What is noteworthy here is that there is no problem with the food going t
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 44,
-      verse: ` <b> (43) The Gospel of Matthew, 16th chapter, 21st and 22nd verses.<br>
-      The Gospel of Matthew, 17th chapter, verses 22nd and 23rd verses.
+      verse: ` <b> (43) The Gospel of Mathew, 16th chapter, 21st and 22nd verses.<br>
+      The Gospel of Mathew, 17th chapter, verses 22nd and 23rd verses.
       <br>
-      The Gospel of Matthew, 20th chapter, verses 17th, 18th and 19th verses.</b>   
+      The Gospel of Mathew, 20th chapter, verses 17th, 18th and 19th verses.</b>   
     `, meaning: ` <b> 
     (16:21) From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief 
 priests, and the teachers of the law, and that he must be killed and on the third day be raised to life. (First time) <br><br>
@@ -1058,7 +1059,7 @@ priests, and the teachers of the law, and that he must be killed and on the thir
     </b>                                     
     `, pageText: ` 
     <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus foretold his future in chapters 16, 17, and 20 of the Gospel of Matthew. Ordinary humans cannot tell when they will die. The future is dark, and no one knows what would happen. Jesus foretold his death to prove to the ignorant that he was not an ordinary man and has something special in him. Not once, but three times he mentioned his death. That is not possible for anyone. Jesus could speak about it because he had predetermined his death. Atma is the only one who determines the karma of life in the body. 
+    Jesus foretold his future in chapters 16, 17, and 20 of the Gospel of Mathew. Ordinary humans cannot tell when they will die. The future is dark, and no one knows what would happen. Jesus foretold his death to prove to the ignorant that he was not an ordinary man and has something special in him. Not once, but three times he mentioned his death. That is not possible for anyone. Jesus could speak about it because he had predetermined his death. Atma is the only one who determines the karma of life in the body. 
     <br><br>
     Jesus said about his death three times. He foretold it because he predetermined his karma. Atma is the judge of the karma and is the Son of Paramatma. Jesus said many times that his father was the Holy Spirit, so Jesus is the Atma who determines the karma. So, he decided his karma for his life. According to predetermined karma, he said that he would suffer at the elders' hands and the chief priests, killed in their hands, and raised to life on the third day. It happened exactly as he said. Without worry, he said that he would be condemned to death. By doing so, every intelligent person will realize that Jesus is no ordinary man and that he has something special. 
     
@@ -1069,7 +1070,7 @@ priests, and the teachers of the law, and that he must be killed and on the thir
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 45,
-      verse: `<b>(44)	The Gospel of Matthew, 19th chapter, 23rd and 24th verses.</b>   
+      verse: `<b>(44)	The Gospel of Mathew, 19th chapter, 23rd and 24th verses.</b>   
     `, meaning: ` <b> 
         
     (23) Then Jesus said to his disciples, “Truly I tell you, it is hard for someone who is rich to enter the kingdom of paraloka.     <br><br>
@@ -1089,7 +1090,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 46,
-      verse: `<b>(45)	The Gospel of Matthew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>   
+      verse: `<b>(45)	The Gospel of Mathew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>   
     `, meaning: `
     <b> 
     (36) Teacher, which is the greatest commandment in the Law (Dharma Shastra)? <br><br>
@@ -1115,7 +1116,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
     If man wants to worship and pray, he must worship and pray the second God, Atma. No one can worship and pray to the first God. The first God does not need anything; he did not beget anyone, and he was not born. <b>“He neither begets nor is born,”</b> said in the final scripture about the first God. <b>He is not interested in anyone’s prayers, said in Surah 112.</b> The first God is not associated with prayers, but the second God is associated with prayers. Neither Christians nor Muslims knows that there are two Gods (two Allahs). They say that there is only one God, and they worship that God. The people belonging to both religions do not know that <b>the God who should be worshipped and the first God, who is the creator, are different.</b> The Hindus are not aware of God but worship many deities and are walking in the wrong path (ignorant path) altogether. 
     <br><br>
     The first God is beyond the dharmas. Therefore no one can know or worship him. Some parts of the human body are essential to worship Atma, the God with dharmas. Jiva must worship Atma, the God, with his manas and his buddhi. This is the important dharma in the Dharma Shastra. <b>“Love Atma, the God, with all your heart and with all your soul and with all your mind,”</b> said in the verse. Here love means worship. Doing so is the first and foremost commandment (dharma). <b>As the commandment means dharma, all your heart means all your buddhi. Similarly, all your soul means you, jiva. Love means worship. “You should worship Atma, the God, with your mind and your buddhi,”</b> said in Dharma Shastra. There is the second commandment as well. Let us see what it is. 
-    
+    <br><br>
     <b>“Love your neighbor as yourself,”</b> said in the second commandment. These two commandments are the basis for the Dharma Shastra and the Prophets, said in verse. It means these two are the foundation for the dharmas in the science of Brahma Vidya and the Prophets who teach dharmas. According to this verse, every man loves himself more. It means man loves his life the most. When others try to kill him, man seeks to save his life by giving away all his possessions. Thus, man seeks his well- being. Man has more hope for his life. For his life, he will pray to any God and do anything. This shows that man loves himself more. Love your neighbor as yourself, said in the verse. You must love your neighbor in the same way you seek your well- being and care about your life. 
     <br><br>
     If you look at the meaning of the word neighbor, everyone knows that a person living next door is a neighbor. But we should know that the person living very near to you (not your next-door neighbor) is your neighbor. The verse “Love your neighbor as yourself” means that you should love your neighbor as much as you love yourself. According to the verse, when you see who your neighbor is, there is none beside you in the body except your <b>Atma</b>. If you are a soul (Jivatma), there is one other soul like you, and he is the second God Atma. The first God is beyond all, unknown to anyone. Therefore, there are only three souls and there are two souls besides you. One of those two is Paramatma. It is not possible to say that Paramatma is your neighbor because he is omnipresent and all-pervading. Although there are two souls next to you, when Paramatma is kept aside, the remaining Atma is your neighbor. Everything is feminine Prakruti except Atma and Paramatma, who are males like you. 
@@ -1129,7 +1130,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 47,
-      verse: ` <b> (46)	The Gospel of Matthew, 23rd chapter, 8th, 9th and 10th verses.</b>  
+      verse: ` <b> (46)	The Gospel of Mathew, 23rd chapter, 8th, 9th and 10th verses.</b>  
     `, meaning: ` <b> 
     (8) “But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.   <br><br>
     (9) And do not call anyone on earth ‘father,’ for you have one Father, and he is in heaven.    <br><br>
@@ -1152,7 +1153,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 48,
-      verse: ` <b>(47)	The Gospel of Matthew, 23rd chapter, 15th verse.</b>  
+      verse: ` <b>(47)	The Gospel of Mathew, 23rd chapter, 15th verse.</b>  
     `, meaning: `  <b> 
         
     (15) “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.       </b>                                    
@@ -1169,7 +1170,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 49,
-      verse: `<b>(48) The Gospel of Matthew, 24th chapter, 35th verse.</b>   
+      verse: `<b>(48) The Gospel of Mathew, 24th chapter, 35th verse.</b>   
     `, meaning: ` <b> 
     (35) Sky and earth will pass away, but my words will never pass away.        </b>                                     
     `, pageText: ` 
@@ -1182,7 +1183,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 50,
-      verse: `<b> (49)	The Gospel of Matthew, 24th chapter, 42nd verse. </b>   
+      verse: `<b> (49)	The Gospel of Mathew, 24th chapter, 42nd verse. </b>   
     `, meaning: ` <b> 
     (42) Therefore, keep watch, because you do not know on what day your Lord will come.       </b>                                     
     `, pageText: ` 
@@ -1197,7 +1198,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 51,
-      verse: ` <b>(50) The Gospel of Matthew, 26th chapter, 26th, 27th and 28th verses
+      verse: ` <b>(50) The Gospel of Mathew, 26th chapter, 26th, 27th and 28th verses
       .</b>  
     `, meaning: ` <b> 
     (26) While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”
@@ -1226,7 +1227,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 52,
-      verse: `<b>(51)	The Gospel of Matthew, 28th chapter, 18th verse.</b>   
+      verse: `<b>(51)	The Gospel of Mathew, 28th chapter, 18th verse.</b>   
     `, meaning: `
     <b> 
     (18) Then Jesus came to them and said, “All authority in paraloka and on earth has been given to me.
@@ -1247,7 +1248,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       chapterName: "The Gospel Of Mathew",
       chapterNumber: 2,
       pageNumber: 53,
-      verse: ` <b> (52)	The Gospel of Matthew, 28th chapter, 19th and 20th verses.</b>  
+      verse: ` <b> (52)	The Gospel of Mathew, 28th chapter, 19th and 20th verses.</b>  
     `, meaning: ` <b> 
         
     (19) Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
@@ -1256,14 +1257,14 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
          (20) Teaching them to obey everything I have commanded you. And surely, I am with you always, to the very end of the age (Yuga).       </b>                                     
     `, pageText: ` 
     <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The Gospel of Matthew has 28 chapters. The last verses 19th and 20th of chapter 28 contain the secret of entire spiritual education. The three souls’ information mentioned here in verse 19th is the most important wisdom in the 
+    The Gospel of Mathew has 28 chapters. The last verses 19th and 20th of chapter 28 contain the secret of entire spiritual education. The three souls’ information mentioned here in verse 19th is the most important wisdom in the 
     scripture. Here in verse, the word ‘Father’ is used before the word ‘son,’ and it requires some thought to understand it. Those who think about this will know that the sequence is the Son, the Father, and the Holy Spirit. If this is explained further, <b>you must know that the son is Jivatma, the Father is Atma, the Holy Spirit is Paramatma.</b> There are no other souls in the world except these three souls. According to the Thraitha theorem, these three souls are Jivatma, Atma, and Paramatma. 
     <br><br>
     Baptism means upadesa. In Telugu, Upa (sub) means adjacent. Upadesa means a neighboring or adjacent country. Upa (sub) means adjacent. Upadesa means a neighboring or adjacent country. In more detail, it means “leaving this country where you are now and getting permission to go to the adjacent or neighboring country.” An officer must first give permission to go to the neighboring country. That officer can be called a Guru. Guru means the one who is the head of the neighboring country or Paraloka. No matter how many gurus are on earth, God, the head of Paraloka, is the true Guru. God, the ruler of Paraloka, is the true Guru who gives us true baptism when he comes to earth as a man. Although there are many gurus on earth, they are all gurus in name only. The baptism they give is in name only. 
     <br><br>
     When God, true Guru, is not on earth as a human, according to the tradition of wisdom, preachers must make some disciples and give them upadesa. Upadesa is like permission to the neighboring country. In the upadesa process, the guru instructs disciples with water, with a mantra, word, or vibhuti (sacred ash). Upadesa is permission to Paraloka, and the word or water is like a ticket that recognizes the entry to Paraloka. Most gurus use a mantra or a word in the upadesa process. Similarly, Jesus told his disciples, <b>“Go and make people of all the nations disciples.”</b> He also told his disciples to baptize them when they become disciples. When giving the disciples the permission ticket in the upadesa process, he said, “Baptize them in the name of the three souls (spirits) - the Father, the Son, and the Holy Spirit.” According to the wisdom tradition, baptism should be done this way. So, when John, a Guru, gave baptism, he administered baptism with water. According to that method, Jesus also received upadesa from John. At that time, John saw Jesus and spoke. 
-
-    This is what the Gospel of Matthew says in verse 3:14 and 3:15.<b> When Jesus came to him, John tried to deter him, saying, “I need to be baptized by you, and do you come to me?” Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b> Even Jesus said that one must receive baptism from Guru according to the tradition of wisdom. I also said the same thing about baptism. Jesus authorized his disciples to give baptism and said, “All people need to be baptized, not just a caste or a group.” He also told them to give an entry document of the Father, the Son, and the Holy Spirit. Jesus told his disciples to do the work because God could not always be on earth as a man to give upadesa. In addition to baptism, Jesus also told his disciples to teach them to obey all things he told his disciples. 
+    <br><br>
+    This is what the Gospel of Mathew says in verse 3:14 and 3:15.<b> When Jesus came to him, John tried to deter him, saying, “I need to be baptized by you, and do you come to me?” Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b> Even Jesus said that one must receive baptism from Guru according to the tradition of wisdom. I also said the same thing about baptism. Jesus authorized his disciples to give baptism and said, “All people need to be baptized, not just a caste or a group.” He also told them to give an entry document of the Father, the Son, and the Holy Spirit. Jesus told his disciples to do the work because God could not always be on earth as a man to give upadesa. In addition to baptism, Jesus also told his disciples to teach them to obey all things he told his disciples. 
     <br><br>
     He also said, “I am always with you,” without causing doubt to the disciples that they were not gurus. He notably said, <b>“I am with you always, even unto the end of yuga.”</b> Those who know about yugas may pose a question when they hear what Jesus said. The question is yuga (era) does not end; another yuga starts at the end of the current yuga. In that case, the question can be asked why he said that there is an end to yugas when there is no end to yugas. The answer is as follows. Time is eternal, lasts forever, God (Paramatma) is eternal, and time, God’s nickname, is also eternal. Since the time is Paramatma, the three souls are named after the time. Paramatma is divided into three souls – Jivatma, Atma and Paramatma. The names past, future and present tense are given to the time so that the time has these three names appear in it. The name ‘yogam,’ which is necessary to reach God, is given to the time. In this way, the four names are given to the time, and the word ‘yogam’ is appended at the end of all the four names to indicate ‘yogam’ is necessary to reach God. 
     <br><br>
@@ -1327,22 +1328,22 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
     <br><br>
     The human body consists of two parts. The human body and the body of all living beings consist of physical (visible) and non-physical(subtle) parts. In the human body, the physical body has ten parts, and the subtle body has fifteen parts. When a man dies untimely, he leaves the physical body of ten parts and lives with the subtle body of fifteen parts. Therefore, the person who received the untimely death can be said to be half dead. When the rest of the subtle body dies, it will become natural death. Then he goes to the second birth. A person who got untimely death will live without being visible. He will live with the subtle body until natural death. But no one knows about temporary death so far. In a temporary death, all the body functions in a man cease. But the Jivatma does not go out from the body but remains in the body. The Jivatma that is in the body is asleep. In the temporary death, the person appears dead because the Jivatma is still in the body. As a result, there were a lot of incidents where a person who received untimely death was counted as dead and buried. No one can find that a person who received a temporary death is not dead. So many people were buried, even though they were alive. 
     <br><br>
-    The story of Abdul Aziz in Jammu and Kashmir 
+    <b>The story of Abdul Aziz in Jammu and Kashmir</b>
     <br><br>
     On December 7, 2009, a story aired at 1:30 pm on TV9 channel. Abdul Aziz, a 60-year-old man, died a week ago on November 30, 2009, in Rajouri, a village in Jammu and Kashmir. He was buried according to Islamic tradition because he was a Muslim. Three days after he was buried, police received a complaint that he had not died normally, and someone killed him. The police immediately registered a case, went to the cemetery, and dug out Abdul Aziz's corpse in the presence of relatives. His body was sent to a government hospital for postmortem. The doctor in the hospital started doing the autopsy. The doctor first hit the head with a knife to examine the skull. The head was injured. Then to the astonishment of all, Abdul Aziz, who was dead until then, woke up and asked what was going on. The doctor could not believe it when he sat and asked. The doctor exclaimed in surprise and said, "We are doing an autopsy." Abdul Aziz replied, “I am alive.” The doctor informed Abdul Aziz's relatives of the incident, and his relatives came from outside and took him home. When Abdul Aziz died three days ago, the same doctor examined him for fifteen minutes and confirmed his death. The doctor said that the miracle had happened in Aziz's case. The people of Rajouri village also expressed surprise that Abdul Aziz, who was buried with their own hands, came to life three days later. It has been only six years and seven months since the incident. All TV channels aired this news on the same day. This incident happened 
     in the presence of doctors. Therefore, no one can deny this, nor can it be called superstitious. 
     <br><br>
-    An incident in Visakhapatnam district 
+    <b>An incident in Visakhapatnam district </b>
     <br><br>
     Srungavarapu Kota is located on the way to the Araku valley in Visakhapatnam. There is a village called Saarepuram situated 12 km from Srungavarapu Kota. The village of Saarepuram had a 67-year-old female named Samudramma. She had been diagnosed with high blood pressure and diabetes for ten years. She underwent medical treatment at Dharmalingachari, a senior doctor at Srungavarapu Kota. Dr. Dharmalingachari, M.B.B.S, was a well-known 60-year-old veteran. Six years ago, one day in the evening, at six o'clock, Samudramma was brought to Dr. Dharmalingachari. Earlier doctors in government hospital pronounced her dead and she was then taken to Dr. Dharmalingachari. When the doctor Dharmalingachari examined her, there was no pulse in her body. The doctor declared her dead because she had no breathing or pulse and said, “Take her home. She is dead. She does not need any medical treatment.” They then took her to their village, 12 km away. They wanted to bury her in the next day morning because it was already night. The rain started early in the morning and continued for two days with no chance of going out. Samudramma’ s body was kept in the verandah for three days. Three days later, on the fourth morning, she got up and called everyone. Then her relatives realized that she was alive and immediately phoned Dr. Dharmalingachari. After fifteen days, she was brought to Dr. Dharmalingachari. Then the doctor asked, “You were dead for three days. Did you see any Yama’s servants or Yamaloka?” The incident also took place six years ago in the presence of a doctor. Therefore, no one can deny this, nor can it be called superstitious. 
     <br><br>
-    A survivor from pyre (Translation from a Telugu newspaper) 
+    <b>A survivor from pyre (Translation from a Telugu newspaper) </b>
     <br><br>
     <b>Chennai: </b>Doctors confirmed that 50-year-old Muttuswamy of Krishurayapuram in Karur district of Tamil Nadu died on Tuesday. They also advised to take the body and perform the funeral rites. The relatives, who thought that Muttuswamy was dead with old age and sickness, planned for the pyre. Relatives gathered at the cemetery. The next step is to start the fire at the pyre. His sister Paapatti came to see the dead body lying on the pyre. She could not stop the grief, fell on the corpse, and cried aloud. “Brother, will you leave me?” she cried. That is it! There was a movement in Muttuswamy!! His legs and arms moved. Meanwhile, there was a slight groan. Within a few seconds, there was slight movement in the legs and arms. The relatives, who were drowned in tears, suddenly succumbed to the wonder and shouted ‘Muttuswamy ... Muttuswamy. Muttuswamy awoke from the pyre as if he had woken from sleep. What happened? He asked the relatives. All of them hugged Muttuswamy with happiness and took him back to the hospital. Muttuswamy’ s only daughter got married on Monday. 
     <b>Doctor’s negligence:</b> Relatives criticized the doctors for showing negligence on Muttuswamy, who was admitted to a local hospital ten days ago after he fell ill. They condemned the doctors on the incident. This news spread like wildfire in Karur district. There was widespread debate on this. This is another example of temporary death. 
     
     <p style="text-align-center">
-        <img src="assets/img/temporary-death.png"/>
+        <img src="assets/img/temp_death.png"/>
       </p>
       If someone gets a temporary death, he may live for up to a year or more in that state. Such a person may resurrect himself, or he may be resurrected when someone taps and wakes him up. In many cases, those who got temporary death in the morning woke up in the evening. Some woke up a week later. Recently, a man named Muttuswamy, who was on a funeral pyre, came alive in Tamil Nadu. In this way, Jesus identified the girl who had received a temporary death and resurrected her, saying that she was not dead. There is also a history that Jesus resurrected himself. It should be noted that this was all due to temporary death. We wrote about the four types of deaths and their reality in our book <b>“The Mystery of Death.”</b> Reading it will make you fully aware of types of deaths. 
         </span>
@@ -3149,7 +3150,7 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
     { title: "God's Path", component: 0, chapterNumber: 0, subs: null, icon: 'information' },
     { title: 'The Secret of Creation', component: 1, chapterNumber: 1, subs: null, icon: 'information' },
     {
-      title: 'The The Gospel Of Mathew', component: null, chapterNumber: 2, icon: 'book',
+      title: 'The Gospel Of Mathew', component: null, chapterNumber: 2, icon: 'book',
       subs: [
         {
           shloka: "3rd Chapter, 7th Verse",
@@ -3429,7 +3430,7 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
       ]
     },
     {
-      title: 'The The Gospel of Mark', component: null, chapterNumber: 3, icon: 'book',
+      title: 'The Gospel of Mark', component: null, chapterNumber: 3, icon: 'book',
       subs: [
         {
           shloka: "2nd Chapter, 19, 20 Verses",
@@ -3495,7 +3496,7 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
       ]
     },
     {
-      title: 'The The Gospel of Luke', component: null, chapterNumber: 4, icon: 'book',
+      title: 'The Gospel of Luke', component: null, chapterNumber: 4, icon: 'book',
       subs: [
 
 
