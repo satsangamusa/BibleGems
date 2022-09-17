@@ -22,20 +22,22 @@ export class VideosPage implements OnInit {
 
   videos: any = [
     {
-       
       id: "_oy_5gPxIMw"
     },
     {
-      
       id: "NE7cIYI-lZw"
     },
     {
-      
       id: "v4IQAD7ud0Q"
     },
     {
-     
       id: "BlTS1um4bWE"
+    },
+    {
+      id: "N0NOoU0-6EI"
+    },
+    {
+      id: "XEKATmRfVxk"
     },
   ];
 }

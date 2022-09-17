@@ -1355,7 +1355,7 @@ Not only arrogance that is clung to Jivatma in the body makes think, but also th
       pageNumber: 57,
       verse: `<b>(4)	The Gospel of Mark, 7th chapter, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd and 23rd verses.</b><   
     `, meaning: `<b> 
-    (15) Nothing outside a person can defile them by going into them. (16) Rather, it is what comes out of a person that defiles them. <br><br>
+    (15) Nothing outside a person can defile them by going into them. <br>(16) Rather, it is what comes out of a person that defiles them. <br><br>
     (17) After he had left the crowd and entered the house, his disciples asked him about this parable <br><br>
     (18) “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them? <br><br>
     (19) For it does not go into their heart but into their stomach, and then out of the body.” <br><br>
@@ -1920,7 +1920,8 @@ Even when God came down, the adversaries confronted him and said, “You don’t
     `, meaning: `<b> 
     (4) “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!” <br><br>
 (5) Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit (Atma). <br><br>
-(6) Flesh gives birth to flesh, but the Spirit (Atma) gives birth to spirit. (7) You should not be surprised at my saying, ‘You must be born again.’<br><br> 
+(6) Flesh gives birth to flesh, but the Spirit (Atma) gives birth to spirit. <br><br>
+(7) You should not be surprised at my saying, ‘You must be born again.’<br><br> 
 (8) The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So, it is with everyone born of the Spirit (Atma).” </b>                                     
     `, pageText: ` 
     <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
@@ -2720,7 +2721,7 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
       pageNumber: 137,
       verse: ` <b> (59)	The Gospel of John, 15th chapter, 26 and 27 verses. </b>    
     `, meaning: `<b> 
-    (26) When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—he will testify about me.  
+    (26) When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—he will testify about me.  <br><br>
     (27) And you also must testify, for you have been with me from the beginning.     </b>                                      
     `, pageText: ` 
     <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
@@ -3153,276 +3154,477 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
       title: 'The Gospel Of Mathew', component: null, chapterNumber: 2, icon: 'book',
       subs: [
         {
-          shloka: "3rd Chapter, 7th Verse",
+          shloka: "3-7. You brood of vipers...",
           component: 2,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 11th Verse",
+          shloka: "3-11. I baptize you with water...",
           component: 3,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 12th Verse",
+          shloka: "3-12. His winnowing fork...",
           component: 4,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 16, 17 Verses",
+          shloka: "3-16. As soon as Jesus was...",
           component: 5,
           subs: null
         },
         {
-          shloka: "4th Chapter, 10th Verse",
+          shloka: "3-17. And a voice from the sky...",
+          component: 5,
+          subs: null
+        },
+        {
+          shloka: "4-10. Jesus said to him, “Away from me...",
           component: 6,
           subs: null
         },
         {
-          shloka: "5th Chapter, 10th Verse",
+          shloka: "5-10. Blessed are those who are persecuted...",
           component: 7,
           subs: null
         },
         {
-          shloka: "5th Chapter, 17th Verse",
+          shloka: "5-17. Do not think that I have come to abolish...",
           component: 8,
           subs: null
         },
         {
-          shloka: "5th Chapter, 18th Verse",
+          shloka: "5-18. For truly I tell you, until sky and earth...",
           component: 9,
           subs: null
         },
         {
-          shloka: "5th Chapter, 19th Verse",
+          shloka: "5-19. Therefore, anyone who sets aside...",
           component: 10,
 
           subs: null
         },
         {
-          shloka: "5th Chapter, 20th Verse",
+          shloka: "5-20. For I tell you that unless...",
           component: 11,
           subs: null
         },
         {
-          shloka: "5th Chapter, 28th Verse",
+          shloka: "5-28. But I tell you that anyone...",
           component: 12,
           subs: null
         },
         {
-          shloka: "5th Chapter, 29, 30 Verses",
+          shloka: "5-29. If your right eye causes you...",
           component: 13,
 
           subs: null
         },
         {
-          shloka: "6th Chapter, 3, 4 Verses",
+          shloka: "5-30. And if your right hand causes...",
+          component: 13,
+
+          subs: null
+        },
+        {
+          shloka: "6-3. But when you do dharma...",
           component: 14,
 
           subs: null
         },
         {
-          shloka: "6th Chapter, 6th Verse",
+          shloka: "6-4. So that your giving may be in...",
+          component: 14,
+
+          subs: null
+        },
+        {
+          shloka: "6-6. But when you pray, go into your...",
           component: 15,
 
           subs: null
         },
         {
-          shloka: "6th Chapter, 7, 8 Verses",
+          shloka: "6-7. When you pray, do not keep...",
           component: 16,
 
           subs: null
         },
         {
-          shloka: "7th Chapter, 13, 14 Verses",
-          component: 17,
+          shloka: "6-8. Do not be like them, for your...",
+          component: 16,
+
           subs: null
         },
         {
-          shloka: "7th Chapter, 7, 8 Verses",
+          shloka: "7-7. Ask and it will be given to you...",
           component: 18,
           subs: null
         },
         {
-          shloka: "7th Chapter, 15th Verse",
+          shloka: "7-8. For everyone who asks receives...",
+          component: 18,
+          subs: null
+        },
+        {
+          shloka: "7-13. Enter through the narrow gate...",
+          component: 17,
+          subs: null
+        },
+        {
+          shloka: "7-14. But small is the gate and...",
+          component: 17,
+          subs: null
+        },
+        
+        {
+          shloka: "7-15. Watch out for false prophets...",
           component: 19,
           subs: null
         },
         {
-          shloka: "7th Chapter, 21th Verse.",
+          shloka: "7-21. Not everyone who says to me...",
           component: 20,
           subs: null
         },
         {
-          shloka: "7th Chapter, 22, 23 Verses",
+          shloka: "7-22. Many will say to me on that day...",
           component: 21,
           subs: null
         },
         {
-          shloka: "8th Chapter, 22th Verse",
+          shloka: "7-23. Then I will tell them plainly...",
+          component: 21,
+          subs: null
+        },
+        {
+          shloka: "8-22. Jesus told him, “Follow me...",
           component: 22,
 
           subs: null
         },
         {
-          shloka: "9th Chapter, 12, 13 Verses",
+          shloka: "9-12. On hearing this, Jesus said...",
           component: 23,
 
           subs: null
         },
         {
-          shloka: "8th Chapter, 23, 24, 25, 26 Verses",
-          component: 24,
+          shloka: "9-13. For I have not come to cal...",
+          component: 23,
 
           subs: null
         },
         {
-          shloka: "9th Chapter, 6th Verse",
+          shloka: "8-23. Then he got into the boat... ",
+          component: 24,
+          subs: null
+        },
+        {
+          shloka: "8-24. Suddenly a furious storm...",
+          component: 24,
+          subs: null
+        },
+        {
+          shloka: "8-25. The disciples went and wok...",
+          component: 24,
+          subs: null
+        },
+        {
+          shloka: "8-26. He replied, “You of little faith...",
+          component: 24,
+          subs: null
+        },
+        {
+          shloka: "9-6. I want you to know that the Son...",
           component: 25,
 
           subs: null
         },
         {
-          shloka: "10th Chapter, 20th Verse",
+          shloka: "10-20. For it will not be you speaking...",
           component: 26,
 
           subs: null
         },
         {
-          shloka: "10th Chapter, 30th Verse",
+          shloka: "10-30. Even the very hairs of your...",
           component: 27,
 
           subs: null
         },
         {
-          shloka: "10th Chapter, 34, 35, 36 Verses",
+          shloka: "10-34. Do not suppose that I have...",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10th Chapter, 37th Verse",
+          shloka: "10-35. For I have come to turn...",
+          component: 28,
+
+          subs: null
+        },
+        {
+          shloka: "10-36. A man’s enemies will be...",
+          component: 28,
+
+          subs: null
+        },
+        {
+          shloka: "10-37. Anyone who loves their father...",
           component: 29,
           subs: null
         },
         {
-          shloka: "10th Chapter, 38th Verse",
+          shloka: "10-38. Whoever does not take up... ",
           component: 30,
           subs: null
         },
         {
-          shloka: "10th Chapter, 40th Verse",
+          shloka: "10-40. Anyone who welcomes (receives)...",
           component: 31,
           subs: null
         },
         {
-          shloka: "11th Chapter, 9th Verse",
+          shloka: "11-9. What did you go out to see?...",
           component: 32,
           subs: null
         },
         {
-          shloka: "11th Chapter, 28th Verse",
+          shloka: "11-28. Come to me, all you who are...",
           component: 33,
           subs: null
         },
         {
-          shloka: "12th Chapter 17, 18, 19, 20, 21 Verses",
+          shloka: "12-17. This was to fulfill what was...",
           component: 34,
           subs: null
         },
         {
-          shloka: "12th Chapter, 31st Verse",
+          shloka: "12-18. Here is my servant whom...",
+          component: 34,
+          subs: null
+        },
+        {
+          shloka: "12-19. He will proclaim justice (wisdom)...",
+          component: 34,
+          subs: null
+        },
+        {
+          shloka: "12-20. A bruised reed he will not break...",
+          component: 34,
+          subs: null
+        },
+        {
+          shloka: "12-21. In his name the nations wil...",
+          component: 34,
+          subs: null
+        },
+        {
+          shloka: "12-31. So, I tell you, every kind of sin...",
           component: 35,
           subs: null
         },
         {
-          shloka: "12th Chapterలో 32nd Verse",
+          shloka: "12-32. Anyone who speaks a word against...",
           component: 36,
 
           subs: null
         },
         {
-          shloka: "12th Chapter, 36, 37 Verses",
+          shloka: "12-36. But I tell you that everyone...",
           component: 37,
           subs: null
         },
         {
-          shloka: "12th Chapter, 40th Verse",
+          shloka: "12-37. For by your words you...",
+          component: 37,
+          subs: null
+        },
+        {
+          shloka: "12-40. For as Jonah was three days...",
           component: 38,
 
           subs: null
         },
         {
-          shloka: "13th Chapter, 13, 14, 15 Verses",
+          shloka: "13-13. Though seeing, they do not...",
           component: 39,
           subs: null
         },
         {
-          shloka: "15th Chapter, 7, 8, 9 Verses",
+          shloka: "13-14. In them is fulfilled the prophecy...",
+          component: 39,
+          subs: null
+        },
+        {
+          shloka: "13-15. For this people’s heart has become...",
+          component: 39,
+          subs: null
+        },
+        {
+          shloka: "15-7. You hypocrites! Isaiah was...",
           component: 40,
           subs: null
         },
         {
-          shloka: "15th Chapter, 11th Verse",
+          shloka: "15-8. These people honor me with their lips...",
+          component: 40,
+          subs: null
+        },
+        {
+          shloka: "15-9. They worship me in vain;...",
+          component: 40,
+          subs: null
+        },
+        {
+          shloka: "15-11. What goes into someone’s mouth...",
           component: 41,
           subs: null
         },
         {
-          shloka: "15th Chapter, 12, 13th Verses",
+          shloka: "15-12. Then the disciples came to...",
           component: 42,
           subs: null
         },
         {
-          shloka: "15th Chapter, 14th Verse",
+          shloka: "15-13. He replied, “Every plant that...",
+          component: 42,
+          subs: null
+        },
+        {
+          shloka: "15-14. Leave them; they are blind...",
           component: 43,
           subs: null
         },
         {
-          shloka: "16th Chapter, 21, 22 Verses",
+          shloka: "16-21. From that time on Jesus began...",
           component: 44,
           subs: null
         },
         {
-          shloka: "19th Chapter, 23, 24 Verses",
+          shloka: "16-22. Peter took him aside and began...",
+          component: 44,
+          subs: null
+        },
+        {
+          shloka: "17-22. When they came together...",
+          component: 44,
+          subs: null
+        },
+        {
+          shloka: "17-23. They will kill him, and on the...",
+          component: 44,
+          subs: null
+        },
+        {
+          shloka: "19-23. Then Jesus said to his disciples...",
           component: 45,
           subs: null
         },
         {
-          shloka: "22nd Chapter, 36, 37, 38, 39, 40 Verses",
+          shloka: "19-24. Again, I tell you, it is easier...",
+          component: 45,
+          subs: null
+        },
+        {
+          shloka: "20-17. Now Jesus was going up...",
+          component: 44,
+          subs: null
+        },
+        {
+          shloka: "20-18. We are going up to Jerusalem...",
+          component: 44,
+          subs: null
+        },
+        {
+          shloka: "20-19. They will hand him over to...",
+          component: 44,
+          subs: null
+        },
+        {
+          shloka: "22-36. Teacher, which is the greatest...",
           component: 46,
           subs: null
         },
         {
-          shloka: "23rd Chapter, 8, 9, 10 Verses",
+          shloka: "22-37. Jesus replied: “Love the Lord...",
+          component: 46,
+          subs: null
+        },
+        {
+          shloka: "22-38. This is the first and greatest...",
+          component: 46,
+          subs: null
+        },
+        {
+          shloka: "22-39. And the second is like it...",
+          component: 46,
+          subs: null
+        },
+        {
+          shloka: "22-40. All the Law and the Prophets...",
+          component: 46,
+          subs: null
+        },
+        {
+          shloka: "23-8. But you are not to be called...",
           component: 47,
           subs: null
         },
         {
-          shloka: "23rd Chapter, 15th Verse",
+          shloka: "23-9. And do not call anyone on earth...",
+          component: 47,
+          subs: null
+        },
+        {
+          shloka: "23-10. Nor are you to be called instructors...",
+          component: 47,
+          subs: null
+        },
+        {
+          shloka: "23-15. Woe to you, teachers of the law...",
           component: 48,
           subs: null
         },
         {
-          shloka: " 24th Chapter, 35th Verse",
+          shloka: " 24-35. Sky and earth will pass away...",
           component: 49,
           subs: null
         },
         {
-          shloka: "24th Chapter, 42nd Verse",
+          shloka: "24-42. Therefore, keep watch, because...",
           component: 50,
           subs: null
         },
         {
-          shloka: "26th Chapter, 26, 27, 28 Verses",
+          shloka: "26-26. While they were eating, Jesus ...",
           component: 51,
           subs: null
         },
         {
-          shloka: "28th Chapter, 18th Verse",
+          shloka: "26-27. Then he took a cup, and when...",
+          component: 51,
+          subs: null
+        },
+        {
+          shloka: "26-28. This is my blood of the covenant...",
+          component: 51,
+          subs: null
+        },
+        {
+          shloka: "28-18. Then Jesus came to them and...",
           component: 52,
           subs: null
         },
         {
-          shloka: "28th Chapter, 19, 20 Verses",
+          shloka: "28-19. Therefore, go and make disciples...",
+          component: 53,
+          subs: null
+        },
+        {
+          shloka: "28-20. Teaching them to obey everything...",
           component: 53,
           subs: null
         },
@@ -3433,60 +3635,146 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
       title: 'The Gospel of Mark', component: null, chapterNumber: 3, icon: 'book',
       subs: [
         {
-          shloka: "2nd Chapter, 19, 20 Verses",
+          shloka: "2-19. How can the guests of the...",
           component: 54,
           subs: null
         },
         {
-          shloka: "4th Chapter, 38, 39 Verses",
+          shloka: "2-20. But the time will come when...",
+          component: 54,
+          subs: null
+        },
+        {
+          shloka: "4t-38. Jesus was in the stern,...",
           component: 55,
           subs: null
         },
         {
-          shloka: "5th Chapter, 38, 39, 40, 41, 42, 43 Verses",
+          shloka: "4-39. He got up, rebuked the wind...",
+          component: 55,
+          subs: null
+        },
+        {
+          shloka: "5-38. When they came to the home...",
           component: 56,
           subs: null
         },
         {
-          shloka: "7th Chapter, 15, 16, 17, 18, 19, 20,     21, 22, 23 Verses",
+          shloka: "5-39. He went in and said to them...",
+          component: 56,
+          subs: null
+        },
+        {
+          shloka: "5-40. But they laughed at him...",
+          component: 56,
+          subs: null
+        },
+        {
+          shloka: "5-41. He took her by the hand...",
+          component: 56,
+          subs: null
+        },
+        {
+          shloka: "5-42. Immediately the girl stood...",
+          component: 56,
+          subs: null
+        },
+        {
+          shloka: "5-43. He gave strict orders not to...",
+          component: 56,
+          subs: null
+        },
+        {
+          shloka: "7-15. Nothing outside a person...",
           component: 57,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 35th Verse",
+          shloka: "7-16. Rather, it is what comes out of a...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "7-17. After he had left the crowd and ...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "7-18. “Are you so dull?” he asked...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "7-19. For it does not go into their...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "7-20. He went on: “What comes out...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "7-21. For it is from within, out of a...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "7-22. dultery, greed, malice, deceit...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "7-23. All these evils come from inside...",
+          component: 57,
+          subs: null
+        },
+        {
+          shloka: "3-35. Whoever does God’s will is my...",
           component: 58,
           subs: null
         },
         {
-          shloka: "4th Chapter, 17th Verse",
+          shloka: "4-17. But since they have no root...",
           component: 59,
           subs: null
         },
         {
-          shloka: "4th Chapter, 21, 22 Verses",
+          shloka: "4-21. He said to them, “Do you...",
           component: 60,
           subs: null
         },
         {
-          shloka: "6th Chapter, 4th Verse",
+          shloka: "4-22. For whatever is hidden is meant...",
+          component: 60,
+          subs: null
+        },
+        {
+          shloka: "6-4. Jesus said to them, “A prophet...",
           component: 61,
           subs: null
         },
         {
-          shloka: "8th Chapter, 38th Verse",
+          shloka: "8-38. If anyone is ashamed of me and...",
           component: 62,
 
           subs: null
         },
 
         {
-          shloka: ` 9th Chapter, 7th Verse.`,
+          shloka: ` 9-7. Then a cloud appeared and covered ...`,
           component: 63,
 
           subs: null
         },
         {
-          shloka: `10th Chapter, 17, 18th Verses`,
+          shloka: `10-17. As Jesus started on his way...`,
+          component: 64,
+
+          subs: null
+        },
+        {
+          shloka: `10-18. “Why do you call me good?”...`,
           component: 64,
 
           subs: null
@@ -3501,79 +3789,122 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
 
 
         {
-          shloka: `16th Chapter, 15, 16 Verses`,
+          shloka: `16-15. He said to them, “Go into...`,
           component: 65,
-
           subs: null
         },
         {
-          shloka: `2nd Chapter, 49th Verse `,
+          shloka: `16-16. Whoever believes and is...`,
+          component: 65,
+          subs: null
+        },
+        {
+          shloka: `2-49. “Why were you searching for me?”...`,
           component: 66,
-
           subs: null
         },
         {
-          shloka: `11th Chapter, 37, 38, 39, 40, 41 Verses`,
+          shloka: `11-37. As Jesus was speaking, one...`,
           component: 67,
-
           subs: null
         },
         {
-          shloka: `12th Chapter, 4, 5 Verses`,
+          shloka: `11-38. His host was amazed to see...`,
+          component: 67,
+          subs: null
+        },
+        {
+          shloka: `11-39. Then the Lord said to him, “You...`,
+          component: 67,
+          subs: null
+        },
+        {
+          shloka: `11-40. Fools! Didn’t God make the...`,
+          component: 67,
+          subs: null
+        },
+        {
+          shloka: `11-41. So, clean the inside by giving...`,
+          component: 67,
+          subs: null
+        },
+        {
+          shloka: `12-4. I tell you, my friends, do not...`,
           component: 68,
 
           subs: null
         },
         {
-          shloka: `12th Chapter, 25th Verse`,
+          shloka: `12-5. But I will show you whom you...`,
+          component: 68,
+
+          subs: null
+        },
+        {
+          shloka: `12-25. Which of you by worrying can...`,
           component: 69,
 
           subs: null
         },
         {
-          shloka: "12th Chapter, 33, 34 Verses",
+          shloka: "12-33. Sell your possessions and give...",
           component: 70,
           subs: null
         },
         {
-          shloka: "12th Chapter, 49th Verse",
+          shloka: "12-34. For where your treasure is,...",
+          component: 70,
+          subs: null
+        },
+        {
+          shloka: "12-49. I have come to bring fire...",
           component: 71,
           subs: null
         },
         {
-          shloka: "12th Chapter, 51, 52, 53 Verses",
+          shloka: "12-51. Do you think I came to bring...",
           component: 72,
           subs: null
         },
         {
-          shloka: "13th Chapter, 3th Verse",
+          shloka: "12-52. From now on there will be five...",
+          component: 72,
+          subs: null
+        },
+        {
+          shloka: "12-53. They will be divided, father against...",
+          component: 72,
+          subs: null
+        },
+        {
+          shloka: "13-3. Unless you change your mind...",
           component: 73,
           subs: null
         },
         {
-          shloka: "14th Chapter, 26th Verse",
+          shloka: "14-26. If anyone comes to me and does...",
           component: 74,
 
           subs: null
         },
         {
-          shloka: "14th Chapter, 27th Verse",
+          shloka: "14-27. Whoever does not carry their...",
           component: 75,
           subs: null
         },
         {
-          shloka: "18th Chapter, 29th Verse",
+          shloka: "18-29. “Truly I tell you,” Jesus said to them...",
           component: 76,
           subs: null
         },
         {
-          shloka: "21st Chapter, 15th Verse",
+          shloka: "21-15. I will give you words and wisdom...",
           component: 77,
 
           subs: null
         },
         {
-          shloka: "21st Chapter, 17th Verse",
+          shloka: "21-17. Everyone will hate you...",
           component: 78,
           subs: null
         }
@@ -3587,345 +3918,469 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
       title: 'The Gospel Of John ', component: null, chapterNumber: 5, icon: 'book',
       subs: [
         {
-          shloka: "1st Chapter, 1st Verse",
+          shloka: "1-1. In the beginning was the Word...",
           component: 79,
           subs: null
         },
         {
-          shloka: "1st Chapter, 9th Verse",
+          shloka: "1-9. The true light that gives light...",
           component: 80,
           subs: null
         },
         {
-          shloka: "1st Chapter, 10th Verse",
+          shloka: "1-10. He was in the world, and though...",
           component: 81,
           subs: null
         },
         {
-          shloka: "1st Chapter, 11th Verse",
+          shloka: "1-11. He came to that which was his...",
           component: 82,
           subs: null
         },
         {
-          shloka: "1st Chapter, 12th Verse",
+          shloka: "1-12. Yet to all who did receive him...",
           component: 83,
           subs: null
         },
         {
-          shloka: "1st Chapter, 13th Verse",
+          shloka: "1-13. Men born not of natural descent...",
           component: 84,
           subs: null
         },
         {
-          shloka: "1st Chapter, 14th Verse",
+          shloka: "1-14. The Word became flesh and made...",
           component: 85,
           subs: null
         },
         {
-          shloka: "1st Chapter, 18th Verse",
+          shloka: "1-18. No man has seen God at any...",
           component: 86,
           subs: null
         },
         {
-          shloka: "1st Chapter, 51th Verse",
+          shloka: "1-51. He then added, “Very truly...",
           component: 87,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 3rd Verse",
+          shloka: "3-3. Jesus replied, “Very truly...",
           component: 88,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 4, 5, 6, 7, 8 Verses",
+          shloka: "3-4. “How can someone be...",
           component: 89,
-
           subs: null
         },
         {
-          shloka: "3rd Chapter, 13th Verse",
+          shloka: "3-5. Jesus answered, “Very truly...",
+          component: 89,
+          subs: null
+        },
+        {
+          shloka: "3-6. Flesh gives birth to flesh, but...",
+          component: 89,
+          subs: null
+        },
+        {
+          shloka: "3-7. You should not be surprise...",
+          component: 89,
+          subs: null
+        },
+        {
+          shloka: "3-8. The wind blows wherever it...",
+          component: 89,
+          subs: null
+        },
+        {
+          shloka: "3-13. No one has ever gone into...",
           component: 90,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 15th Verse",
+          shloka: "3-15. That whosoever believes in him...",
           component: 91,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 17th Verse ",
+          shloka: "3-17. For God did not send his Son...",
           component: 92,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 18th Verse",
+          shloka: "3-18. Whoever believes in him is...",
           component: 93,
           subs: null
         },
         {
-          shloka: "3rd Chapter, 19, 20, 21 Verses",
+          shloka: "3=19. This is the verdict: Light has...",
           component: 94,
           subs: null
         },
         {
-          shloka: "5th Chapter, 19th Verse",
+          shloka: "3-20. Everyone who does evil hate...",
+          component: 94,
+          subs: null
+        },
+        {
+          shloka: "3-21. But whoever lives by the truth...",
+          component: 94,
+          subs: null
+        },
+        {
+          shloka: "5-19. Jesus gave them this answer:...",
           component: 95,
           subs: null
         },
         {
-          shloka: "5th Chapter, 20th Verse",
+          shloka: "5-20. For the Father loves the Son and...",
           component: 96,
           subs: null
         },
         {
-          shloka: "5th Chapter, 21, 22, 23 Verses",
+          shloka: "5-21. For just as the Father raises...",
           component: 97,
           subs: null
         },
         {
-          shloka: "5th Chapter, 24th Verse",
+          shloka: "5-22. Moreover, the Father judges no...",
+          component: 97,
+          subs: null
+        },
+        {
+          shloka: "5-23. That all may honor the Son...",
+          component: 97,
+          subs: null
+        },
+        {
+          shloka: "5-24. Very truly I tell you, whoever...",
           component: 98,
           subs: null
         },
         {
-          shloka: "5th Chapter, 26th Verse",
+          shloka: "5-26. For as the Father has life...",
           component: 99,
           subs: null
         },
         {
-          shloka: "5th Chapter, 37th Verse",
+          shloka: "5-37. You have never heard his voice...",
           component: 100,
           subs: null
         },
         {
-          shloka: "5th Chapter, 38th Verse",
+          shloka: "5-38. Nor does his word dwell in...",
           component: 101,
 
           subs: null
         },
         {
-          shloka: "6th Chapter, 25, 26, 27 Verses",
+          shloka: "6-25. When they found him on the...",
           component: 102,
           subs: null
         },
         {
-          shloka: "6th Chapter, 32nd Verse",
+          shloka: "6-26. Jesus answered, “Very truly...",
+          component: 102,
+          subs: null
+        },
+        {
+          shloka: "6-27. Do not work for food that spoils...",
+          component: 102,
+          subs: null
+        },
+        {
+          shloka: "6-32. Jesus said to them, “Very truly...",
           component: 103,
           subs: null
         },
         {
-          shloka: "6th Chapter, 47th Verse",
+          shloka: "6-47. No one has seen the Father...",
           component: 104,
           subs: null
         },
         {
-          shloka: "7th Chapter, 37, 38 Verses",
+          shloka: "7-37. On the last and greatest da...",
           component: 105,
           subs: null
         },
         {
-          shloka: "8th Chapter, 12th Verse",
+          shloka: "7-38. Whoever believes in me, as...",
+          component: 105,
+          subs: null
+        },
+        {
+          shloka: "8-12. When Jesus spoke again to the...",
           component: 106,
           subs: null
         },
         {
-          shloka: "8th Chapter, 14th Verse",
+          shloka: "8-14. Jesus answered, “Even if I testify...",
           component: 107,
           subs: null
         },
         {
-          shloka: "8th Chapter, 19th Verse",
+          shloka: "8-19t. Then they asked him, “Where...",
           component: 108,
           subs: null
         },
         {
-          shloka: "8th Chapter, 21st Verse",
+          shloka: "8-21. Once more Jesus said to them...",
           component: 109,
           subs: null
         },
         {
-          shloka: "8th Chapter, 23, 24 Verses",
+          shloka: "8-23. But he continued, “You are from...",
           component: 110,
           subs: null
         },
+        
         {
-          shloka: "8th Chapter, 24th Verse",
+          shloka: "8-24. I told you that you would die...",
           component: 111,
           subs: null
         },
         {
-          shloka: "8th Chapter, 28th Verse",
+          shloka: "8-28.  So, Jesus said, “When you...",
           component: 112,
           subs: null
         },
         {
-          shloka: "8th Chapter, 29th Verse",
+          shloka: "8-29. The one who sent me is with...",
           component: 113,
           subs: null
         },
         {
-          shloka: "8th Chapter, 53, 54 Verses",
+          shloka: "8-53. Are you greater than our...",
           component: 114,
-
           subs: null
         },
         {
-          shloka: "8th Chapter, 55th Verse",
+          shloka: "8-54. Jesus replied, “If I glorify...",
+          component: 114,
+          subs: null
+        },
+        {
+          shloka: "8-55. Though you do not know ...",
           component: 115,
           subs: null
         },
         {
-          shloka: "8th Chapter, 57, 58 Verses",
+          shloka: "8-57. You are not yet fifty years old...",
           component: 116,
 
           subs: null
         },
         {
-          shloka: "9th Chapter, 39th Verse",
+          shloka: "8-58. Very truly I tell you,” Jesus answered...",
+          component: 116,
+
+          subs: null
+        },
+        {
+          shloka: "9-39. Jesus said, “For judgment I have...",
           component: 117,
           subs: null
         },
         {
-          shloka: "9th Chapter, 41st Verse",
+          shloka: "9-41. Jesus said, “If you were blind,...",
           component: 118,
 
           subs: null
         },
         {
-          shloka: "10th Chapter, 18th Verse",
+          shloka: "10-18. No one takes life from me...",
           component: 119,
 
           subs: null
         },
         {
-          shloka: "10th Chapter, 30th Verse",
+          shloka: "10-30.  I and the Father are one...",
           component: 120,
           subs: null
         },
         {
-          shloka: "11th Chapter, 25th Verse",
+          shloka: "11-25. Jesus said to her, “I am the...",
           component: 121,
           subs: null
         },
         {
-          shloka: "11th Chapter, 26th Verse",
+          shloka: "11-26. Whoever lives by believing in...",
           component: 122,
           subs: null
         },
         {
-          shloka: "12th Chapter, 25th Verse",
+          shloka: "12-25. Anyone who loves their lif...",
           component: 123,
           subs: null
         },
         {
-          shloka: "12th Chapter, 40th Verse",
+          shloka: "12-40. He has blinded their eyes...",
           component: 124,
           subs: null
         },
         {
-          shloka: "12th Chapter, 47, 48 Verses",
+          shloka: "12-47. If anyone hears my words...",
           component: 125,
           subs: null
         },
         {
-          shloka: "12th Chapter, 49, 50 Verses",
+          shloka: "12-48. There is a judge for the one...",
+          component: 125,
+          subs: null
+        },
+        {
+          shloka: "12-49. For I did not speak on my own...",
           component: 126,
           subs: null
         },
         {
-          shloka: "14th Chapter, 7th Verse",
+          shloka: "12-50. I know that his command leads...",
+          component: 126,
+          subs: null
+        },
+        {
+          shloka: "14-7. If you really know me, you wi...",
           component: 127,
           subs: null
         },
         {
-          shloka: "14th Chapter, 8, 9 Verses",
+          shloka: "14-8. Philip said, “Lord, show us the...",
           component: 128,
           subs: null
         },
         {
-          shloka: "14th Chapter, 10th Verse",
+          shloka: "14-9. Jesus answered: “Don’t you know...",
+          component: 128,
+          subs: null
+        },
+        {
+          shloka: "14-10. Don’t you believe that I am in...",
           component: 129,
           subs: null
         },
         {
-          shloka: "14th Chapter, 6th Verse",
+          shloka: "14-6. Jesus answered, “I am the way...",
           component: 130,
           subs: null
         },
         {
-          shloka: "14th Chapter, 16th Verse",
+          shloka: "14-16. I will ask the Father, and he will...",
           component: 131,
           subs: null
         },
         {
-          shloka: " 14th Chapter, 17th Verse",
+          shloka: "14-17. The world cannot accept him...",
           component: 132,
           subs: null
         },
 
         {
-          shloka: "14th Chapter, 20th Verse",
+          shloka: "14-20. On that day you will realize...",
           component: 133,
           subs: null
         },
         {
-          shloka: "14th Chapter, 25, 26 Verses",
+          shloka: "14-25. All this I have spoken while...",
           component: 134,
           subs: null
         },
         {
-          shloka: " 15th Chapter, 23th Verse",
+          shloka: "14-26. But the Advocate, the Holy Spirit...",
+          component: 134,
+          subs: null
+        },
+        {
+          shloka: " 15-23. Whoever hates me hates...",
           component: 135,
           subs: null
         },
         {
-          shloka: "15th Chapter, 24, 25 Verses",
-          component: 1376,
+          shloka: "15-24. If I had not done among them the...",
+          component: 136,
           subs: null
         },
         {
-          shloka: "15th Chapter, 26, 27 Verse",
+          shloka: "15-25. But this is to fulfill what is...",
+          component: 136,
+          subs: null
+        },
+        {
+          shloka: "15-26. When the Advocate comes... ",
           component: 137,
           subs: null
         },
         {
-          shloka: "16th Chapter, 7th Verse",
+          shloka: "15-27. And you also must testify...",
+          component: 137,
+          subs: null
+        },
+        {
+          shloka: "16-7. But very truly I tell you, it is for...",
           component: 138,
           subs: null
         },
         {
-          shloka: "16th Chapter, 8th Verse",
+          shloka: "16-8. When he comes, he will prov...",
           component: 139,
           subs: null
         },
         {
-          shloka: "16th Chapter, 12th Verse",
+          shloka: "16-12. I have much more to say...",
           component: 140,
           subs: null
         },
         {
-          shloka: "16th Chapter, 13th Verse",
+          shloka: "16-13. But when he, the Spirit of truth...",
           component: 141,
           subs: null
         },
         {
-          shloka: "16th Chapter, 14, 15 Verses",
+          shloka: "16-14. He will glorify me because...",
           component: 142,
           subs: null
         },
         {
-          shloka: "16th Chapter, 16th Verse",
+          shloka: "16t-15. All that belongs to the Father...",
+          component: 142,
+          subs: null
+        },
+        {
+          shloka: "16-16. Jesus went on to say, “In a...",
           component: 143,
           subs: null
         },
         {
-          shloka: "16th Chapter, 17, 18, 19, 20, 21,    22, Verses",
+          shloka: "16-17. At this, some of his disciple...",
           component: 144,
-
           subs: null
         },
         {
-          shloka: "16th Chapter, 25th Verse",
+          shloka: "16-18. They kept asking, “What does...",
+          component: 144,
+          subs: null
+        },
+        {
+          shloka: "16-19. Jesus saw that they wanted...",
+          component: 144,
+          subs: null
+        },
+        {
+          shloka: "16-20. Very truly I tell you, you wil...",
+          component: 144,
+          subs: null
+        },
+        {
+          shloka: "16-21. A woman giving birth to a child...",
+          component: 144,
+          subs: null
+        },
+        {
+          shloka: "16-22. So, with you: Now is your time...",
+          component: 144,
+          subs: null
+        },
+        {
+          shloka: "16-25. Though I have been speaking...",
           component: 145,
 
           subs: null
