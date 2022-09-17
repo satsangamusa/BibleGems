@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.threesouls.english.bible" version="0.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="org.threesouls.english.bible" version="0.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Gems In The Second Divine Scripture</name>
     <description>Gems In The Second Divine Scripture</description>
     <author email="threesouls963@gmail.com" href="http://thethreesouls.org/">The Three Souls Team</author>
@@ -19,6 +19,14 @@
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="YouTubeDataApiKey" value="AIzaSyAMGkSj_whjMpeJQZyPNI9KgKqiSeSCZv0" />
+    <preference name="WKWebViewOnly" value="true" />
+    <feature name="CDVWKWebViewEngine">
+        <param name="ios-package" value="CDVWKWebViewEngine" />
+    </feature>
+    <feature name="IntentAndNavigationFilter">
+        <param name="ios-package" value="CDVIntentAndNavigationFilter" />
+        <param name="onload" value="true" />
+    </feature>
     <platform name="android">
         <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application" xmlns:android="http://schemas.android.com/apk/res/android">
             <application android:networkSecurityConfig="@xml/network_security_config" />
@@ -49,7 +57,7 @@
         <allow-intent href="itms-apps:*" />
         <icon height="57" src="resources/ios/icon/icon.png" width="57" />
         <icon height="114" src="resources/ios/icon/icon@2x.png" width="114" />
-        <icon height="29" src="resources/ios/icon/icon-small.png" width="29" />
+        <icon height="29" src="resources/ios/icon/icon-small@1x.png" width="29" />
         <icon height="58" src="resources/ios/icon/icon-small@2x.png" width="58" />
         <icon height="87" src="resources/ios/icon/icon-small@3x.png" width="87" />
         <icon height="20" src="resources/ios/icon/icon-20.png" width="20" />
@@ -104,4 +112,5 @@
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^4.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
+    <plugin name="cordova-plugin-youtube-video-player" spec="^2.4.0" />
 </widget>

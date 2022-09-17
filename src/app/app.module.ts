@@ -1,7 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouteReuseStrategy } from '@angular/router';
-import { YoutubeVideoPlayer } from '@ionic-native/youtube-video-player/ngx';
+import { YoutubeVideoPlayer } from '@awesome-cordova-plugins/youtube-video-player/ngx';
+
 import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
@@ -28,3 +29,4 @@ import { Network } from '@ionic-native/network/ngx';
   bootstrap: [AppComponent]
 })
 export class AppModule {}
+     

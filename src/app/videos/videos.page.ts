@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { YoutubeVideoPlayer } from '@ionic-native/youtube-video-player/ngx';
+import { YoutubeVideoPlayer } from '@awesome-cordova-plugins/youtube-video-player/ngx';
 import { GlobalService } from 'src/app/global.service';
 
 @Component({

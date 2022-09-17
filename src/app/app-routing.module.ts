@@ -21,10 +21,10 @@ const routes: Routes = [
     path: 'videos',
     loadChildren: () => import('./videos/videos.module').then( m => m.VideosPageModule)
   },
-  {
-    path: 'share',
-    loadChildren: () => import('./share/share.module').then( m => m.SharePageModule)
-  },
+  // {
+  //   path: 'share',
+  //   loadChildren: () => import('./share/share.module').then( m => m.SharePageModule)
+  // },
    
 ];
 

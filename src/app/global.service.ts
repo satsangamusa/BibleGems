@@ -4415,11 +4415,11 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
       title: 'Videos', component: 152, chapterNumber: 12, subs: null, icon: 'videocam'
 
     }
-    ,
-    {
-      title: 'Share', component: 153, chapterNumber: 13, subs: null, icon: 'share'
+    // ,
+    // {
+    //   title: 'Share', component: 153, chapterNumber: 13, subs: null, icon: 'share'
 
-    }
+    // }
   ];
 
 
