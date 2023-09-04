@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bible Gems</string>
+    <string name="title_activity_main">Bible Gems</string>
+    <string name="package_name">org.threesouls.english.bible</string>
+    <string name="custom_url_scheme">org.threesouls.english.bible</string>
+</resources>

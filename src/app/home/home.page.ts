@@ -1,6 +1,5 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { GlobalService } from 'src/app/global.service';
-import { NavParams, ModalController, IonSlides } from '@ionic/angular';
 
 @Component({
   selector: 'app-home',
@@ -21,9 +20,7 @@ export class HomePage implements OnInit {
   ionViewDidEnter() {
 
   }
-  slidesDidLoad(slides: IonSlides) {
-    slides.startAutoplay();
-  }
+  
   data: any = [
     'assets/img/1.png',
     'assets/img/2.png',

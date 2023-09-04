@@ -10,7 +10,7 @@ export class GlobalService {
   public getYoutubeUrl(url: any) {
     return '//www.youtube.com/embed/' + url;
   }
-  pages: Array<{ title: string, component: any }>;
+  pages!: Array<{ title: string; component: any; }>;
   fontSize: number = 15;
   startPage: number = 0;
   endPage: number = 0;
