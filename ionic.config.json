@@ -1,10 +1,7 @@
 {
-  "name": "BibleGems",
+  "name": "biblegems",
   "integrations": {
-    "capacitor": {
-      "enabled": false
-    },
-    "cordova": {}
+    "capacitor": {}
   },
-  "type": "angular"
+  "type": "angular-standalone"
 }

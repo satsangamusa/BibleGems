@@ -1,24 +1,28 @@
 import { Component, OnInit } from '@angular/core';
-import { YoutubeVideoPlayer } from '@awesome-cordova-plugins/youtube-video-player/ngx';
+import { Browser } from '@capacitor/browser';
 import { GlobalService } from 'src/app/global.service';
+import { NgFor } from '@angular/common';
+import { IonicModule } from '@ionic/angular';
 
 @Component({
-  selector: 'app-videos',
-  templateUrl: './videos.page.html',
-  styleUrls: ['./videos.page.scss'],
+    selector: 'app-videos',
+    templateUrl: './videos.page.html',
+    styleUrls: ['./videos.page.scss'],
+    standalone: true,
+    imports: [IonicModule, NgFor],
 })
 export class VideosPage implements OnInit {
 
-  constructor(public global:GlobalService, public youtube:YoutubeVideoPlayer) { }
+  constructor(public global:GlobalService) { }
 
   ngOnInit() {
   }
 
-  openWisdomVideo(id){
-   
-    this.youtube.openVideo(id);
+  openWisdomVideo(id:string){
+
+    Browser.open({url:id})
   }
-   
+
 
   videos: any = [
     {

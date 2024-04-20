@@ -20,21 +20,13 @@
   <ion-grid>
 
 <ion-row *ngFor="let vd of videos">
-  
    <ion-col>
-
     <a class="vid-img-container" (click)="openWisdomVideo(vd.id)">
       <img class="playimg" src="/assets/images/playbutton.png">
 
       <img class="vidimg" src="http://img.youtube.com/vi/{{vd.id}}/hqdefault.jpg">
     </a>
-
    </ion-col>
-  
-
 </ion-row>
-   
-
-
   </ion-grid>
 </ion-content>

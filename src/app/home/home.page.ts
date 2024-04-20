@@ -1,11 +1,20 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { NgFor } from '@angular/common';
+import { CUSTOM_ELEMENTS_SCHEMA, Component, OnInit } from '@angular/core';
+import {
+  IonButton, IonButtons, IonCol, IonContent, IonGrid, IonHeader,
+  IonIcon, IonMenuToggle, IonRow, IonTitle, IonToolbar
+} from '@ionic/angular/standalone';
 import { GlobalService } from 'src/app/global.service';
-import { NavParams, ModalController, IonSlides } from '@ionic/angular';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.page.html',
-  styleUrls: ['./home.page.scss'],
+    selector: 'app-home',
+    templateUrl: './home.page.html',
+    styleUrls: ['./home.page.scss'],
+    standalone: true,
+    imports: [NgFor,
+    IonContent,IonRow,IonGrid,IonCol,IonButton,IonTitle,IonButtons,IonMenuToggle,IonToolbar,IonHeader,IonIcon
+    ],
+    schemas:[CUSTOM_ELEMENTS_SCHEMA]
 })
 export class HomePage implements OnInit {
 
@@ -21,8 +30,8 @@ export class HomePage implements OnInit {
   ionViewDidEnter() {
 
   }
-  slidesDidLoad(slides: IonSlides) {
-    slides.startAutoplay();
+  swiperSlideChanged(e: any) {
+    console.log('changed: ', e);
   }
   data: any = [
     'assets/img/1.png',

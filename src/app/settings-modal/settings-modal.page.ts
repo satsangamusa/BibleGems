@@ -1,18 +1,28 @@
+import { NgStyle } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
-import { NavParams } from '@ionic/angular';
+import { FormsModule } from '@angular/forms';
+import { IonCol, IonContent, IonRange, IonRow, NavParams } from '@ionic/angular/standalone';
 import { GlobalService } from 'src/app/global.service';
 
 
 @Component({
-  selector: 'app-settings-modal',
-  templateUrl: './settings-modal.page.html',
-  styleUrls: ['./settings-modal.page.scss'],
+    selector: 'app-settings-modal',
+    templateUrl: './settings-modal.page.html',
+    styleUrls: ['./settings-modal.page.scss'],
+    standalone: true,
+    imports: [
+        NgStyle,
+        FormsModule,
+        IonContent,
+        IonRange,
+        IonRow,IonCol
+    ],
 })
 export class SettingsModalPage implements OnInit {
 
   constructor(public navParams: NavParams,
     public global:GlobalService) { }
-   
+
   ngOnInit() {
   }
 

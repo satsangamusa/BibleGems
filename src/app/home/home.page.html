@@ -8,7 +8,8 @@
       </ion-menu-toggle>
       <img src="assets/img/devudimudra.png" height="60">
     </ion-buttons>
-    <ion-title class="ion-text-center" style="font-size: 17px;"><b>Gems In<br>The Second Divine<br>Scripture</b></ion-title>
+    <ion-title class="ion-text-center" style="font-size: 17px;"><b>Gems In<br>The Second
+        Divine<br>Scripture</b></ion-title>
 
     <ion-buttons slot="end">
       <img src="assets/img/sks.png" height="60">
@@ -16,11 +17,20 @@
   </ion-toolbar>
 </ion-header>
 
-  <ion-content class="ion-content-color">
-    <ion-slides [options]="slideOptions" pager="true" #slider (ionSlidesDidLoad)="slidesDidLoad(slider)">
-      <ion-slide *ngFor="let img of data">
-        <img [src]="img">
-      </ion-slide>
-    </ion-slides>
-     </ion-content>
-     
+<ion-content class="ion-content-color">
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <swiper-container  (slidechange)="swiperSlideChanged($event)"
+        [loop]="'true'" [autoplay]="{delay: 3500}" [pagination]="'true'">
+          @for(img of data;track img;let i=$index){
+          <swiper-slide>
+              <img [src]="img">
+          </swiper-slide>
+          }
+        </swiper-container>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

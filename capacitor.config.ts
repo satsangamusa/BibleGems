@@ -1,10 +1,9 @@
-import { CapacitorConfig } from '@capacitor/cli';
+import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'BibleGems',
-  webDir: 'www',
-  bundledWebRuntime: false
+  appId: 'org.threesouls.english.bible',
+  appName: 'Bible Gems',
+  webDir: 'www/browser'
 };
 
 export default config;

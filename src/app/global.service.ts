@@ -10,7 +10,7 @@ export class GlobalService {
   public getYoutubeUrl(url: any) {
     return '//www.youtube.com/embed/' + url;
   }
-  pages: Array<{ title: string, component: any }>;
+  pages: Array<{ title: string, component: any }>=[];
   fontSize: number = 15;
   startPage: number = 0;
   endPage: number = 0;
@@ -24,3122 +24,2763 @@ export class GlobalService {
   networkStatus: any = "OFFLINE";
   bible: any = [
 
-    {
-      chapterName: "God's Path",
-      chapterNumber: 0,
-      pageNumber: 0,
-      verse: ``,
-      meaning: ``,
-      pageText:
-        `
-        <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        There was some history before the arrival of Jesus on earth. Even after his death, there is some history. The history written before his arrival is called the <b>Old Testament</b>. The history written after his arrival is named the <b>New Testament</b>. The Old Testament before his birth, his life in the New Testament, and how his believers propagated the Christian community after his death are important to the Christian community. The book of both Old and New Testaments is called the <b>Holy Bible</b>. Although the Christian Bible and the Hindu Bhagavad-Gita are intended to uplift and lead humans towards God, there are some differences. The Bhagavad-Gita does not have pre- or post-history of Krishna. It has only Krishna’s teachings. Whereas the Holy Bible contains the history before Jesus and after Jesus. The Christian preachers’ teachings contain the Old Testament words before Christ’s birth and his devotees’ propagation from the New Testament after Christ’s death. There is nothing wrong with this, but if we think thoroughly, we will come to know that only a portion of the Bible is instrumental for man to walk in God’s path. If there are many characters in a play, we like one of them more than the others. Similarly, if there are multiple episodes in a drama, we love one of them very much. Likewise, if the entire Bible is considered, only the portion of the New Testament from when Jesus Christ came upon the earth until he left is the most sacred and essential for liberation. Everyone should realize that the very essence of the Bible is the history of Jesus. Jesus’ words are like a bag of diamonds in the entire Bible. All that humans must grasp in the Bible is in <b>the Gospel of Mathew, the Gospel of Mark, the Gospel of Luke, and the Gospel of John</b>. The divine proximity that humans need is found in these four gospels. The highest wisdom of these four gospels resides in the Gospel of John. The wisdom found in the Gospel of John is beyond the reach of human intelligence. The entire Bible has 1029 pages, but the history of Jesus is only 102 pages in the New Testament. If the Bible is divided into ten parts, one part is better than the other nine. Those who know Jesus’ value understand the true wisdom in this one part.
-<p>
-We are explaining some of Jesus’ words from the Gospels of Mathew, Mark, Luke, and John. Some of you may ask why I am re-writing when many fathers, pastors, and bishops have already explained Jesus’ words. Here is my answer. All preachers are teaching the verses effectively from the Old Testament and the New Testament other than the four Gospels. But there is some gap in explaining the verses of four Gospels that have the history of Christ. We said that the Hindus have not yet understood the secrets in the Bhagavad-Gita. Likewise, there are many secrets that Christians do not know in the four Gospels that have Jesus’ history. I am not saying this with jealousy on the preachers. But I say this with faith in Christ. We are
-explaining the truth so that people should understand Jesus correctly, how great <b>he</b> is, and what his <b>power</b> is.
-</p><p>
-The Hindus, who look at my books that have Christ’s name, think that they are Christian books and do not want to read them. Christians do not want to read the books written by a Hindu guru and want to read only the writings of the Christians. Hindus hate me because they think the author of Christian books is not at all a Hindu. Some Christians told other Christians that these books were written to convert Christians to Hinduism hence not to read them. The Hindus accuse us of converting Hindus to Christians, and the Christians accuse us of turning Christians to Hindus. We are not converting anyone, but we are telling to know the true God. Everyone who is a child of God has the <b>right</b> to say about God. Hence, we are patiently telling God’s matter, no matter what others think.
-</p><p>
-I will ask a question to all those who are jealous of me. <b>God came upon the earth as a man and was gone. He also said that he would come back while going. Can anyone say that God comes only once?</b> No person who knows wisdom ever says that. God said that he would come whenever there is his need on the earth. He comes when there is harm to the Dharmas. He said the same in the Bhagavad-Gita and the Bible. God comes to the earth in any form and tells his Dharmas. <b>It is a mistake if Hindus think that Krishna will come as Krishna</b>. Jesus said in the Bible that he would come again. <b>But it is Christians' fault to assume that Jesus will come as Jesus</b>. If God wants to come, there is no restriction on the timing, place, and form. He comes with new forms that no one can recognize. But he teaches the same old wisdom because Dharmas do not change over time. The Dharmas are scientific, and they never change. Therefore, when God is born anytime with any name, any form, or in any religion, he teaches the same Dharmas.
-</p><p>
-God never created any religion on earth when he came. He did not teach about any religion. God does not belong to any religion. He preached his Dharmas and did not mention any religion. Humans created religions. God’s teaching is beyond religions. When God sees wrongdoers in any religion, he pointed out their flaws. He showed the correct <b>God’s path</b> and told us to practice it correctly irrespective of the religion. He did not support any religion. Dharmas did not create religions. But humans formed religions based on their understanding of wisdom, the language they spoke, and how they behaved.
-</p><p>
-Each religion has a methodology and worships a specific God. It is customary for people belonging to a religion to follow the ritual of that religion. Humans created all these worships. But God has no religious habits and customs when he comes as a man. Similarly, he does not even worship another God. Religions and religious practices are for humans, not for God. God is responsible for guiding people in the <b>right way</b> by revealing the loopholes in devotion. Therefore, when he comes as a human, he speaks of God and God’s Dharmas. He does not indulge in the worshipping of another God, like other humans.
-</p><p>
-When God came as Krishna in the Dvapara Yuga, he did not worship anyone. He completely revealed Paramatma’s wisdom when the time came. Similarly, when
-God came as Jesus Christ in the Kali Yuga, he did not worship anyone. He preached humans what he wanted to teach. His greatness and divinity will be revealed only when he teaches <b>wisdom</b>. At other times he looks like a normal man like everyone. The ignorant will count him as an ordinary man. Those who know wisdom will recognize him as God. Those who have complete wisdom can recognize him whenever he comes upon the earth. Those who are under the influence of Maya cannot recognize him in any situation. Moreover, humans count him as an ordinary man, insult him, and cause troubles.
-</p><p>
-When God comes upon the earth in the form of a man once in a few thousand years, humans who are serpent brood cannot recognize him. It is okay not to identify him, but they begin to torture him. Why is he tortured when no one tortures fellow humans? Some may ask this question. The answer is that when God comes as a man, he does not live as a common man. He has come to teach wisdom, so he reveals the divine wisdom according to dharmas. Therefore, those who have ignorance and Maya’s wisdom and are against dharmas hate him. That hatred makes humans torture him. There will not be any enemy unless he tells wisdom. When he points the finger at the adharmas in humans, the followers of adharmas will get angry because they think that they are followers of dharmas. Humans disrespected him in every birth when he came as a man. Some were jealous of his wisdom when Jesus taught it. They did not appreciate his greatness and wisdom but sentenced him to death. He died because of the followers of religion who thought that they were gnanis. The serpent brood has the poison of ignorance. So, the life of Christ ended at the hands of the serpent brood.
-</p><p>
-God knows the matter of God, and humans know nothing. Humans will come to know God's dharmas when God reveals them. No person can himself know the things of God. Some part of God, who is present in every atom of the universe, is born as a man. There needs a system to live for some time in the world. It is called karma. The cause for the birth of humans is called karma. God does not have karma. Hence, God creates karma required for his birth and he is born with that karma. Such person is called <b>Svayambhu</b>. Svayambhu means the one who is born by himself, not by karma. The person who is born like that is called <b>Bhagavan</b> or <b>Comforter (Adarana Karta)</b>. Many times, God may have come upon the earth as Bhagavan. We do not know how many times dharmas were restored on the earth. Many of the secrets unknown to us occurred in the past millions of years. History is available only for the last few thousand years. Hence, we know some past events and some history. If history is referred, there are occasions that God came upon the earth as a man.
-</p><p>
-<b>Occasionally, God is born and dies as a man on earth</b>. If we think deeply with the wisdom we have, it becomes known that God was born about 5000 years ago in India and about 2000 years ago in Israel. The divinity was born as Jesus Christ in Israel at that time. As per the karma that had already been decided, the Divine was in the center of humans on earth for only 33 years. Jesus lived as an ordinary Jivatma for 30 years. He taught Atma’s wisdom for three years, living as Atma.
+{
+chapterName: "God's Path",
+chapterNumber: 0,
+pageNumber: 0,
+verse: ``,
+meaning: ``,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  There was some history before the arrival of Jesus on Earth. There is also some history after His death. The history recorded prior to His birth is known as the <b>Old Testament,</b> while the history documented after His arrival is called the <b>New Testament.</b> The Old Testament covering the period before His birth, His life in the New Testament, and the propagation of the Christian community after His death, holds great significance for the Christian community. The compilation of both the Old and New Testaments is known as the <b>Holy Bible.</b> While the Christian Bible and the Hindu Bhagavad-Gita both aim to uplift and guide humans towards God, they have their differences. The Bhagavad-Gita consists solely of Krishna’s teachings, while the Holy Bible encompasses historical accounts before and after Jesus. Christian teachings are drawn from the Old Testament prior to Christ’s birth and from the propagation by His devotees in the New Testament after His death. While there’s nothing inherently wrong with this, upon deeper reflection, it becomes evident that only a portion of the Bible is essential for guiding people on the path to God. Just as in a play, we tend to favor certain characters, and in a drama with multiple episodes, we may prefer one over the others, in the case of the Bible, it’s the portion of the New Testament focusing on Jesus Christ—from His arrival on Earth to His departure—that holds the utmost sanctity and importance in achieving liberation (moksham). It’s crucial to understand that the core essence of the Bible lies in the history of Jesus. Jesus’ words are like a bag of diamonds within the Bible, and all that humanity needs to grasp can be found in the <b>Gospels of Matthew, Mark, Luke, and John.</b> The divine closeness humanity seeks can be discovered in these four Gospels. The loftiest wisdom contained in these Gospels can be found in the Gospel of John, surpassing human intelligence. Despite the Bible spanning 1029 pages, the history of Jesus occupies only 102 pages in the New Testament. If the Bible were divided into ten parts, one part outshines the other nine, and those who appreciate the value of Jesus recognize the profound wisdom contained within this one part.
 
-</p><p>
-Some may have a question on what I said, “The divine is born as a man on earth. The divine (God) spread every atom of the universe”. Does God not spread out the entire universe when he is born as a man? Does God, who is said to be present in all, not present in all of us after being born as Bhagavan on the earth? Let us see the answer. Sea is full of water. Let us take some water in a small container from the sea. Now the container has seawater. Does the sea not have water? The sea is still full of water. The water in the container is called ‘the separated water.’ The water in the sea is called ‘the unseparated water.’ Both the sea and the container have the same water. There is no difference in the properties of container water and seawater other than that the container water is separated from the sea. We can compare God to the sea. Bhagavan is separated from God in a similar way water in the container is separated from the sea. The container water and the seawater are the same; Bhagavan and God are the same. When the water is taken into a container, there is no change in the sea, and the sea does not become empty. Similarly, when a part of God is born as Bhagavan, God is spread as before. There is no change in God, in his dharmas, or God’s spread when he comes as Bhagavan. A part of God is becoming as Bhagavan, but not entire God. Even though Bhagavan is only a part of God, he has the same properties. Therefore, there is nothing wrong with saying that God is born when part of God is born on earth. Hence, there is nothing wrong with saying that Jesus is God.
-</p><p>
-Here some people get another question. If Jesus is God, why did he suffer when people hurt him? Why was he tortured by humans? Why should he be humiliated by humans? You may ask why Jesus did not tell them who he was and why he did not punish them with his power when they misbehaved. Here is our answer. To understand this, we must first know a divine secret. There are three souls in an ordinary person's body – Jivatma, Atma, and Paramatma. Of these three souls, Jivatma and Atma both reside within the body. These two souls are not outside the body. The third soul, Paramatma, spread inside and outside the body and every atom of the universe. Paramatma does not do anything inside or outside of the body. The second soul, Atma, performs all the functions of the body. The first soul, Jivatma, does not do anything except experiencing both pleasure and sorrow. Many people think that we, Jivatmas, are doing everything, but that is not happening in anyone’s body. Atma that is with us in our body without our knowledge is doing all the work. Even <b>Atma</b> does not do anything according to own will. Atma works according to karma. The reason for every task is karma. According to <b>karma</b>, Jivatma should experience the pleasures and sorrows. For Jivatma to feel the pleasures and sorrows inside, Atma that spreads throughout the body must work. It also performs physiological functions like digesting food, heartbeat, separating urine and sweat from the blood, etc. Because Atma performs all functions in the body, Jivatma can survive in the body. Inside a body, Jivatma has no work except just experiences. It is the law of every human body, which will never change.
-</p><p>
-Even though God is born as a man, his body also has a system like an ordinary man. Like in other bodies, Paramatma must be in the body, and Atma must do all the work, and Jivatma must experience. This is the procedure that takes place inside God’s body when he comes as a man. When God came as Jesus, his body was no different from the ordinary human body. So, he experienced all the suffering and pleasures as a Jivatma. Jesus had to face many difficulties in life, all of which he had to experience as a Jivatma. To experience those things in his life, he created his karma and came to earth as a man. If his life is an ordinary life like us, one can ask what the difference between him and us. There is one difference. We learned that only Atma works in every human body. Even in Bhagavan’s body only Atma works. But in some cases, there is a peculiar difference. Sometimes, the three souls stop doing what they are supposed to do and function differently in Bhagavan’s body. The Jivatma will go into a state where there is no experience. Then Atma will go into Jivatma’s role. Then the words spoken from Bhagavan’s body as Atma are entirely spiritual. The true spiritual matters and God’s dharmas will be known only when Atma himself tells. In some cases, Atma himself in Bhagavan’s body will tell wisdom. Moreover, rarely, Atma and Jivatma in the body will go silent, and Paramatma speaks. Such occasions may occur once or twice in Bhagavan’s life. In the life of Jesus, Krishna, and Ravana Brahma, there are occasions where Paramatma spoke. When Paramatma speaks, nature is obliged to his words. Likewise, when Atma speaks, the real wisdom is under control of him. The following happened in the lives of Jesus, Krishna, and Ravana Brahma. <b>1) There are Paramatma’s words that ruled nature (Prakruti). 2) There are Atma’s words that spoke pure Atma’s wisdom. 3) There are Jivatma’s experiences that experienced pleasure and sorrow.</b> Paramatma spoke when a storm broke out in the sea in Jesus' life and when he ordered the storm to calm down. It became known that nature followed his words and subsided. As Atma, he spoke pure wisdom. Similarly, as a Jivatma, he also experienced many pleasures and sorrows. In the same way, it happened in the life of Krishna. He commanded the Sun and killed Saindhava. There is also an occasion where he showed universal form (vishvarupa) and said, “I am Paramatma.” As Atma, he taught complete wisdom in the form of Bhagavad-Gita. He experienced all experiences as a Jivatma in the rest of the time. At times, the play of three souls happens separately only in the Bhagavan’s body. Divinity wears a human body once in a thousand or even millions of years. When God is born on earth, he lives as a Jivatma like all others most of the time. When needed, he speaks as Atma a few times in a year for a short time. As Paramatma, he may rarely speak one or two times, or he may never talk. He needs to speak as Atma because he has come to teach dharmas. This is God’s system, but Maya’s system is different.
-</p><p>
-There is no trouble as long as God behaves like an ordinary man. Only when he teaches wisdom as Atma, Maya opposes. Maya is against God’s wisdom; So, Maya (Satan) is very careful in making sure that people do not switch from its (Maya’s) side to God’s wisdom. Moreover, Maya recognizes those who show interest and know some wisdom. It tries to drag them towards its side. Thus, people have little interest in true divine wisdom because of the influence of Maya. Hence even if some know some wisdom, they will deviate from that path. Here you may ask a question, “There are many devotees today. They are knowing wisdom from many gurus. Many people are worshipping deities with great devotion. Everyone is devoted to God other than some atheists. Can anyone change the devotees of Sai Baba and Ayyappa? In addition to old temples in the country, many new temples are being built for Shirdi Sai Baba and Ayyappa Swamy. Maya did not hinder anyone there. How can we believe your word?” Here is my answer.
-</p><p>
-Maya is entirely against God’s path and divine wisdom. Because Maya opposes God’s supreme wisdom, it becomes known that Maya is also powerful. That is why it is said <b>“Maya duratyaya”</b> in Bhagavad-Gita. God said in Bhagavad-Gita that <b>it is impossible to conquer Maya;</b> hence it becomes known that <b>Maya is unimaginably deceiving humans</b>. So far, no one knows what Maya does and how it works. Thus, Maya is cheating everyone in God’s path. Like God’s wisdom, Maya created its wisdom. God rarely comes to earth as Bhagavan once in thousands of years; Maya brings so many its replicas as Bhagavans so that no one can recognize the real Bhagavan. Maya introduces many types of wisdom. Many, unable to identify true wisdom, mistakenly believed that all kinds of wisdom belong to God. When there are many Bhagavans associated with Maya on earth, who will recognize the original Bhagavan who rarely comes upon earth? When there are Bhagavans who show many mahatyas (magics), who can recognize the true Bhagavan who shows just one or two mahatyas in life? In this way, it has become impossible to recognize God’s wisdom and Bhagavan. God showed his reality in universal form, something that no one has ever seen and that no one can ever understand. But Maya influenced some people to write that many deities showed universal form, including Saibaba and Veerabrahmam so that people do not count Krishna’s universal form as highest. Who thinks that the cosmic form shown by Krishna in Bhagavad-Gita is the greatest of all? Thus, Christians could not recognize Jesus Christ as Bhagavan, and similarly, Hindus could not know Krishna as Bhagavan. Hindus could not consider Krishna as true God. While some count Krishna as the last of all other Gods, many did not even recognize him as a trivial God, because they would say that his actions were naughty deeds. No one even counts Krishna as God, like Shirdi Sai Baba. Even though Christians have regarded Christ as the Son of God, they have not understood the very essence of his words. Because of the effect of Maya, they worship his cross instead of Jesus. They thought they would be counted as Hindus if they worshiped <b>Jesus’ idol;</b> hence, they pray to the cross. While Jesus said, <b>"He who has seen me has seen my father,"</b> is it not Maya’s work that made Christians respect the cross, which caused Jesus’ death, instead of <b>Jesus idol?</b> In this way, Maya (Satan) made humans believe that they are in God's path and is sending them far away from God's path. Even though the one who knows God’s wisdom says the truth, Maya makes him look inferior and make people not hear his words. Maya formed religions and created an illusion that there is a separate God for each religion. Although there is only one head for the universe, Maya used religion to make people think that there is a different God for every religion. The effect of Maya is very much on human beings. Hence, so many gods and religions were made. Though there is only one Christian religion, some are devotees of Mary, and some are devotees of Christ. Similarly, there are many gods in Hindu religion. In all religions and gods, at least try now to find out who is the head of all. But it is not easy to know. If we <b>first know about Maya</b> and its existence, we can find out <b>God's path later</b>. Therefore, find out whether the path you are in is God’s path or Maya’s path.
-</p><p>
-There is an infinite supernatural power that is formless, unnamed, and undetermined. Let us call it ‘Paramatma.’ No one knows about Paramatma, the source of everything. Paramatma himself must come and make known about him. While Paramatma spreads every atom, we are not able to know anything except five elements of nature (Prakruti). We can only see and hear what the senses know. We cannot know what the senses cannot grasp. Paramatma is not visible to the senses. We will know when he comes as a human, visible to our senses, and reveals his wisdom to us. Otherwise, no one knows about him, and no one can say about him. Paramatma, therefore, must incarnate in human form and tell his wisdom. He will come and reveal his dharmas. But they disappear after some time. Hence, he must return to restore them. Many times, Paramatma, the creator of the universe, creates himself as a human, wanders like a man, experiences karma like an ordinary man, and fulfills his purpose in somehow. It is tough to identify Paramatma, who comes like that. Paramatma came on earth many times. Yet humans are still unable to recognize Paramatma’s birth even today.
-</p><p>
-Those who do not recognize when Bhagavan is present begin worshiping him with great devotion after Bhagavan has gone. They are not worshiping him because he is Paramatma. They worship him with the intent that he is great in wisdom, or their desires would be fulfilled. But they still do not know that he is Paramatma. We can recognize the incarnations of Paramatma through certain principles. In this way, we can identify that Paramatma came as Krishna at the end of Dvapara Yuga and later as Jesus in the Kali Yuga. Paramatma may have come later, too, but we do not know.
-</p><p>
-No matter how many births Paramatma has had, he has no similarities from one birth to another birth, except in his dharmas. Although Paramatma’s aspect is the same in Krishna, who was born in Dvapara Yuga and Jesus, who was born in Kali Yuga, their outward life is very different. Sri Krishna enjoyed life with wealth and eight wives. He also abducted his first wife with her approval and killed enemies. His life was full of falsehood and fraud. After observing all these, no one can recognize him as Bhagavan filled with a part of Paramatma.
-</p><p>
-There were no lies and deceptions in the life of Jesus, who was born in Kali Yuga. Jesus was meek and would say to show the other cheek if the enemy slaps on one cheek. He has no lust for women. Krishna and Jesus are very different in worldly things. Even gurus in both religions are mistaken about these two. Hindu gurus criticize Jesus by asking, “Why did Jesus die in the hands of the ordinary people, not to save himself? If he had divine power to raise the dead, why did he have to die? Why did he suffer when he was nailed to the cross?” In the same manner, church pastors criticize Krishna by arguing that "how come he becomes God when he has many wives." In this way, they speak based on the worldly matters in the lives of Jesus and Krishna, but no one thinks why such events occurred in their lives. Paramatma himself told that when he comes upon the earth, no one can recognize him. His job is to pretend so that no one recognizes him. His task is to be an unidentified thief among us and rob us of ignorance.
+  We are here to elucidate some of Jesus’ words from the Gospels of Matthew, Mark, Luke, and John, which are replete with profound wisdom. One might wonder why we are reiterating these words when many Fathers, pastors, and bishops have already offered their interpretations. Here’s my answer: while preachers effectively teach verses from the Old Testament and the New Testament, there appears to be a gap in the explanation of verses from the four Gospels, which encompass the history of Christ. Just as Hindus may not yet have fully unraveled the secrets of the Bhagavad-Gita, there might be numerous hidden truths within the four Gospels that Christians have yet to discover. This is not a statement of envy towards preachers; rather, it’s an expression of faith in Christ. Our purpose is to share the truth and ensure that people can gain a correct understanding of Jesus, appreciating His <b>greatness and power.</b>
 
-</p><p>
+  Hindus, upon seeing my books featuring Christ’s name, often assume they are Christian literature and refuse to read them. Conversely, Christians may be wary of books authored by a Hindu Guru and prefer to stick to Christian texts. Hindus hate my work, thinking that a Christian author cannot be a true Hindu, while some Christians may warn against my books, believing they are intended to convert Christians to Hinduism and should be avoided. Hindus accuse us of converting their people to Christianity, and Christians accuse us of turning them into Hindus. However, it’s essential to clarify our intent. We do not seek to convert anyone, but rather, our goal is to encourage people to seek the wisdom of the true God. Every child of God has the <b>right</b> to express their beliefs about God. Thus, we patiently share God’s teachings, regardless of what others may think or assume.
 
-We earlier said that God does not make sense to anyone based on worldly matters. <b>God must be seen with God's wisdom</b>. Only then we can recognize him. Even those who claim to be gurus do not know this principle. They try to measure God with worldly matters. So, when God comes upon the earth, no one knows. When we look at those who perform mahatyas based on worldly matters, they appear to be great and gods. Then the true God is ignored. That is why no one can recognize him. God's births cannot be identified based on external worldly things. God’s incarnation can be identified based on dharmas. The same dharmas can be seen in the Bhagavad Gita and Jesus’ words. Hence, both can be recognized as one. There is no other similarity between them in the external worldly matters.
-</p><p> 
-There is only one God for the entire world. The same God is incarnating as a man many times with many names and forms to turn humans towards him. Humans, who do not realize this, created religions, and argue that my God is greater than your God. Not knowing that God in his religion and God in other religions are the same, humans argue that my religion God is true God. Humans do not love God as much as they love religions. They should not fall into such ignorance. We must know that there is only one God although we say differently. Paramatma decides his role according to the time, the nation, and the people and comes upon the earth as Bhagavan. His births will not be the same as one another. But his aim in any life is the same. That aim is to teach his dharmas. When he came as Jesus or Krishna, the dharmas he told are the same. Not only God but also his dharmas look different to us because when Paramatma was born as Krishna and Jesus, their names, country of birth, and the persons are different.
+  I have a question for those who may harbor doubts or jealousy. <b>God has come to Earth as a man and departed, but He also promised to return. Can anyone confidently assert that God only appears once?</b> Such a claim would seem incompatible with true wisdom. God has proclaimed His return whenever there is a need on Earth. He comes in times of adversity when the principles of dharma are under threat. This declaration is evident both in the Bhagavad-Gita and the Bible. God can take any form and deliver His teachings. <b>It’s a mistake for Hindus to anticipate Krishna’s return as Krishna or for Christians to expect Jesus to return as Jesus.</b> When God chooses to come, there are no constraints regarding timing, place, or form. He might manifest in forms beyond human recognition, but His message remains unchanged over time. Dharma, as divine principles, is inherently consistent and unchanging, akin to scientific laws. Consequently, God will always impart the same dharma, irrespective of His name, form, or the religion through which He is born.
 
-</p><p>
-For example, let us take dharma stated by Paramatma. Sri Krishna said in Gita, <b>“Paritranaya Sadhunam vinasaya chaturskrutam”</b> meaning <b>“I will increase the saints and destroy evil persons.”</b> Some preachers of Christianity take this word and say to Hindus that you have no protection in your religion and that your God will kill sinners in your religion. In our religion, there is protection for any sinner, and Jesus said that he came to earth to save the sinners. While your God will destroy sinners and wicked people in your religion, my God (Jesus) will protect you. Therefore, Christians say that my God is the true God. The Christians did not understand the true meaning of what Lord Jesus said in this regard, and Indus did not understand the meaning of the sloka that Krishna said in the Gita. So, Krishna’s word and Jesus’ word seem different to them. That is why they deeply understood that Krishna and Jesus are different. But they did not know that the two were the same, that the two words they uttered had the same meaning. Their words – destroying the sinners and the wicked – mean that they use the weapon of <b>‘teaching’</b> to remove the karma of sin and evil and make them pure. When the wicked become pure, they will not be caught in sins but become righteous. Then there will not be any evil persons. Then those two words - to say in the Gita that Krishna will do away with the wicked, and to say in the Bible that Jesus will protect you from sins - are the same.
-</p><p>
-Although Jesus and Krishna spoke in different languages, the meaning in their words is the same. Even though they are different persons and have different names, the purpose of their words is the same. Because people could not grasp God’s concept and interpreted his words in a manner that pleased them, they divided the God who told the same dharmas. When Hindus criticize Jesus and Christians say that Krishna is not God, Paramatma - who is the king and the Father of paraloka, is the head of the universe and spreads the whole world and is also in us - laughs that these people are blind with eyes. Krishna said in the Gita, “I will come when there is a threat to the dharmas.” But Hindus recognize him as God, only when God comes in the same way as before - with the peacock feathers, the flute, and the chakra. If God is born with a different form, then they say that you are not our God. In the Bible, Jesus Christ said that he would come again. Christians will recognize Jesus Christ only if he is born in the same way as before - with nail scars on the hands and spear marks on his left. If he comes with a different form, Christians will say that you are not our Lord. Because of the contrast in faces and behaviors, Christians could not recognize that Jesus is Krishna, and similarly, Hindus could not acknowledge that Krishna is Jesus. That is why God said in the Gita, <b>"People dishonor me, for they do not know me and my glory."</b> People did the same thing when Jesus came. Some Hindu gurus will teach wisdom and provide upadesa if Krishna comes again. Similarly, If Jesus comes again as said in the Bible, Christian preachers, who will not recognize him, will give baptism to him. As long as there are gurus who teach wisdom to Krishna if he changes his form and name, it can be said that there is ignorance in the Indu religion. Similarly, as long as there are Christians who will explain Bible verses to Jesus if he changes his body and comes in front of them, it may be said that they are not fully aware of God.
+  God has never established a specific religion on Earth when He appeared. His teachings are not bound by any particular religious framework, and He did not endorse or belong to any one religion. Instead, He conveyed His divine principles, or dharmas, without referencing any specific religion. The creation of religions is a human endeavor. When God observed wrongdoing among people of any religious group, He pointed out their errors, guided them on the <b>God’s correct path,</b> and encouraged the practice of dharma regardless of religious affiliation. Dharmas themselves did not create religions. Humans formed religions based on their understanding of divine wisdom, the language they spoke, and their behaviors.
 
-</p><p>
-There is a strong reason why even the great gnanis could not recognize him and could not understand his wisdom when God came upon the earth. Before knowing the reason, one should know about the visible <b>creation</b>. There is a significant opponent to God, which is the reason for God being not understood. Christians call it <b>‘Satan,’</b> Hindus <b>‘Maya’</b> and Muslims <b>‘Iblis.’</b> To know the secret of something which has names Maya, Satan, or Iblis, the <b>secret of creation</b> should first be understood. Let us see below for details.
-</p>
+  Each religion follows its unique methodology and worships a specific deity. It is customary for adherents of a religion to observe the rituals associated with that faith. However, it’s vital to understand that these religious practices are human creations. When God takes on human form on Earth, He does not adhere to any specific religious rituals or customs. Nor does He engage in the worship of other deities. Religious practices and rituals are for humans, not for God. Instead, God’s role is to guide people on the <b>right path,</b> revealing any shortcomings in their devotion. When God incarnates as a human, His focus is on imparting knowledge about God and God’s dharmas, rather than participating in deity worship, as humans do.
 
-      </span>
-        `
+  When God incarnated as Krishna in the Dvapara Yuga, He did not engage in the worship of any deity. Instead, He fully revealed the wisdom of Paramatma (the Supreme Soul) when the time was right. Similarly, when God incarnated as Jesus Christ in the Kali Yuga, He did not engage in deity worship but preached the wisdom He intended to convey. His true greatness and divinity become apparent when He imparts <b>wisdom.</b> During other times, He may appear as an ordinary individual, much like everyone else. The ignorant may mistake Him for a common person, but those with wisdom can recognize Him as God. Those possessing complete wisdom can identify Him whenever He descends to Earth. However, individuals under the influence of Maya fail to recognize Him in any circumstance. Moreover, humans sometimes perceive Him as an ordinary individual, subjecting Him to insults and causing various troubles.
 
-    },
-    {
-      chapterName: "The Secret of Creation",
-      chapterNumber: 1,
-      pageNumber: 1,
-      verse: ``,
-      meaning: ``,
-      pageText:
-        `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        Paramatma (God) was neither male nor female before the universe was created. Paramatma wanted to create the universe and made feminine Prakruti (nature) and Maya or Satan. He decided required characteristics and all the necessary methods for it. Since Prakruti was female, hence Paramatma stood utterly different from it. That characteristic is Purusha (male). Paramatma wanted that Prakruti should be in an entirely opposite direction to him. He gave equal authority to Prakruti because he thought that the game would be exciting when both opponents have equal strength in a game. Prakruti (Satan) is contrary to Paramatma, but not an enemy. Although it is natural for God (Paramatma) to face opposition from Satan (Prakruti), they are not enemies to each other. 
-        <p>
-        Paramatma, who once created Prakruti, will absorb her into him at some point. Paramatma is the one who created her, patrons her, and eventually destroys her. He is the father, husband, and destructor of Prakruti. He is also the force in Prakruti. Paramatma, who is vast, created somewhat broad Prakruti and is playing a game called ‘Jagath.’ In this game, Paramatma, who is neither male nor female, disguised himself as purusha (male). According to the play ‘Jagath,’ Paramatma is male. He is neither male nor female outside of the play. Prakruti is divided into five elements - Sky, Air, Fire, Water, and Earth and is named Prapancha. After creating Prakruti, Paramatma wanted to create a Jagath consisting of living beings who have birth and death. He created living beings that have birth and death by Atma and built the Jagath in the Prapancha. According to the Telugu language, <b>‘ja’</b> means being born, and <b>‘gati’</b> means dying. Hence, all living beings are appropriately named ‘Jagath,’ indicating that it consists of birth and death. 
-        </p><p>
-        Paramatma made the Jagath consisting of living beings in Prakruti. Prakruti (female) and Paramatma (Purusha) are equal, and Jagath was born separately after that. Paramatma created both Prakruti (Prapancha) and Jagath. It would become three, including him. Initially, Paramatma, who is neither male nor female, made Prakruti. Then he became Purusha, made Prakruti as his wife, and created a unique offspring named Jagath. If these relationships are ignored, Paramatma created three parts - Prakruti, Purusha, and Jagath. Prakruti is female; Paramatma is male (Purusha); Jagath should be considered as non-binary (neither male nor female). Here the main game is that Paramatma and Prakruti drag the Jagath (non-binary) which is in between them. There are rules for the game. Although Paramatma, who defined the rules of the game, is the creator of all and superior to all, he is playing the game as per the rules he decided. This game has a time limit as other games. As football has a time limit of 90minutes and cricket has 50 overs limit, the time limit for the game of Jagath is 1000 Yugas or 108 crores of years. The game takes a break at night and continues in the day. The playing time and the relaxing time each is 108 crore (1.08 billion) years. 
-        </p><p>
-        Paramatma, who is non-specific and undefined, first made Prapancha (no life- form) and then the living beings (Jagath). He created Prakruti and became recognized as Purusha. He became Purusha and divided Prakruti, which conceives with his seed, into five parts. Such Prakruti is called Pancha Bhutas or Prapancha. He divided the Jagath he created into three parts. The life-form Jagath is divided into three types – Jivatma, Atma and Paramatma. He became recognized as Paramatma after creating Jivatmas and Atma. He became recognized as Paramatma beside the Atmas (Jivatma and Atma) and as Purusha beside the Prakruti. When Prakruti and the Atmas exist, there is a basis for calling him Purusha or Paramatma. If Prakruti and the Atmas do not exist, it is not possible to define him. The life-form Jagath is born of Prakruti and Purusha. Paramatma arranged so that the mother and the father in the Jagath have the attributes of Prakruti and Purusha. 
-        </p><p>
-        Prakruti has opposite characteristics than Purusha. But Jagath consists of attributes of both Prakruti and Purusha. The life-form Jagath has both Paramatma related Jivatma and Atmas and Prakruti related bodies and gunas. The belief that God exists is on the soul side, and the opposite view that God does not exist is on the Prakruti side. Human beings in the Jagath have the characteristics of Prakruti and Purusha. To show Prakruti and the Purusha symbols, women's bodies were created to resemble Prakruti, and men's bodies were made to represent Paramatma. Non-binary persons were also created to resemble Jagath to tell that Jagath also exists in addition to Prakruti and Paramatma. Women, men, and non-binary symbolize Prakruti, Paramatma, and the living world. Prakruti = woman, Jagath = non-binary, Paramatma = male (Purusha). God made his creation known by resembling females to the Prakruti, non-binary persons to the living world (Jagath), and men to Paramatma. To indicate that the living world is born to Atma and Prakruti, God made children born from males and females. The visible mother, father, and offspring indicate how creation happened at the beginning. Human beings who use intelligence in everything do not think why man is different from the woman and why offspring is born from 
-        man and woman. If the ‘secret of creation’ basics is not known in spiritual education, spirituality will not be known. 
-        </p><p>
-        One should know that it is a friendly game between God and Prakruti. In this game, Prakruti and Paramatma are trying to pull Jivatma to their side. Paramatma’s duty is to make Jivatma come toward him by teaching his wisdom, whereas Prakruti, in the form of Maya with its weapon of gunas, makes human beings busy and does not let them think about God. Prakruti entangles everyone in their daily work, diverts their total attention into the job, and prevents man from turning to God with the help of desire, and associated gunas. The biggest game between Paramatma and Prakruti does not have a name. Prakruti, in the form of Maya, pulls everyone to its side without anyone else noticing it. If anyone has God’s thoughts in the Jagath and tries to know about God, Maya (Prakruti) mainly focusses and traps them. In the struggle between God and Satan, Maya (Satan) is stronger than God, and it currently kept 99 percent of human beings on its side. In such a case, when God’s defeat seems inevitable, Paramatma should also try to win. 
-        </p><p>
-        Therefore Paramatma, as a part of his effort, will come into the midst of human beings as a man and talk about himself and try to divert people towards him. We already said that there is no enemy in this war. In this fight, each of them has a strategy. Satan (Maya) and God both exist in every human, but the humans do not know about them. Hence humans cannot recognize God or Maya. Humans do not even know whose side they are on. Even though they do not know, God tries to free them, who are caught in the Maya’s hands. In that attempt, Paramatma is born upon the earth as the Son of God. According to the rules of the game, he should not let humans know that he is the Son of God. God comes as a man and talks about Paramatma. Paramatma himself tells his wisdom and re-establishes his dharmas; Satan (Maya) also comes up with strategy and portrays the Son of God as stupid and ignorant in humans. Maya creates gurus and makes them say that the Son of God’s words are adharmas. It also makes them propagate its (Maya’s) adharmas as dharmas. Maya, in the form of gurus and swamijis, competes with the Son of God. Maya describes its sweet words as divine wisdom, making humans not to believe in God’s wisdom and making believe in its wisdom. Maya teaches human beings its adharmas by using the words Paramatma, moksha, wisdom, and practice. Maya makes God's dharmas unrecognizable in front of Satan's adharmas. 
-        </p><p>
-        If anyone wants to seek God, Maya makes them not differentiate between dharmas and adharmas and makes them believe in whatever anyone says. It is the rule of the game that Satan (Maya) and God should not make their presence known on the earth. When Paramatma incarnates as Bhagavan on the earth, he should not say, “I am Paramatma.” As per the same rule, when Prakruti is born on the earth, it will not say that “I am Maya.” But when Maya incarnates, it can say, “I am Bhagavan.” According to this principle, Maya (Satan) says itself to be Bhagavan (the son of God), shows several miracles, and incarnates itself as many swamijis. When Paramatma is born at one place on earth, Prakruti will create many with the name of Bhagavan on earth. Paramatma is born in one place to make his dharmas known without being recognized as Bhagavan. Simultaneously, Maya creates many with the name of 
-        Bhagavan even before the birth of Paramatma. Maya makes humans hear its words and makes them not listen to real Bhagavan’s words. In this game, Maya makes its effort, and God does his work. 
-        </p><p>
-        While Maya is always in the form of gunas in the human body, God is also in the form of Atma in the body. We stated that Maya and Paramatma will come in the form of human beings on earth. It is necessary to know what bodies they will be wearing. Maya comes in a male body as Bhagavan and in a female body as Bhagavati. Paramatma always comes in a male body. Paramatma is a male and, therefore, is wearing a male body. Being a woman, Prakruti wears a female body. She also wears a male body to trick that it is a male. In Bhagavati and Bhagavan’s, it is difficult to identify real Bhagavan. One should know that Bhagavan is always born as a male. The Heavenly Father, Paramatma, was born as Jesus in the male form. He is born by himself, and no one begets him. Therefore, he was born in a virgin womb without male sperm. Paramatma himself takes birth when there is his need on the earth. <b>Jesus</b> is the one who was born like that. The Holy Spirit will be born again in the future. 
-        </p><p>
-        We wrote this scripture to let you know that no matter how many times the same Paramatma is born, he reveals the same dharmas. This scripture is written to help the reader to understand essential Jesus’ words in the New Testament of the Bible. These verses are matched with Bhagavad-Gita. By reading this, we hope that you will know Jesus’ greatness and Krishna’s inner spirit. 
-        </p>
-        
-        <p style="text-align:center"> By </p>
+  When God comes to Earth as a human once in a few thousand years, humans who are serpent brood cannot recognize him. Not only do they not recognize Him, but they also subject Him to torture. Some may wonder why He is subjected to torment when humans typically do not torture their fellow beings. The answer lies in the fact that when God incarnates as a human, He does not lead an ordinary life. His purpose is to impart divine wisdom in alignment with dharma. Consequently, those who are ignorant and lack understanding of dharma develop animosity towards Him, and this hatred can lead to the persecution of Him. In the absence of divine teachings, there would be no such adversaries. However, when He points out adharmas in human conduct, those adhering to adharmas, while believing they are following dharma, will become angered. Throughout history, humans have shown disrespect towards Him in every incarnation as a human. Some were envious of Jesus when He taught divine wisdom. They failed to appreciate His greatness and wisdom, ultimately condemning Him to death. He died because of the religious followers who thought they were gnanis. The serpent brood has the poison of ignorance. So, the life of Christ ended at the hands of the serpent brood.
 
-        <b> The only Guru of Three Religions, Originator of Thraitha Theorem, The Author of One Hundred Divine Scriptures </b><br>
-        <p style="font-size:20px;font-weight:bold">Sri. Sri. Sri Acharya Prabodhananda Yogeeshwarulu</p>
-        
-    </span>`,
+  God knows all things about God, and humans know nothing. Humans can only grasp God’s dharmas (divine principles) when God reveals them. Divine revelation is essential for humans to gain insights into God’s nature and teachings. A portion of God, present in every atom of the universe, incarnates as a human. To exist in the world for a certain period, a system known as karma is involved. The cause of human birth is attributed to karma, but God Himself is beyond karma. Therefore, God generates the karma necessary for His own birth and incarnates with that karma. Such an individual is referred to as <b>Svayambhu,</b> meaning ‘self-born,’ not bound by karma. Such a being is known as <b>Bhagavan or Comforter (Adarana Karta).</b> It is believed that God may have manifested on Earth as Bhagavan many times in the past, although the precise number of times dharma has been restored on Earth remains unknown. Many mysteries have unfolded over the past millions of years, and recorded history spans only a few thousand years. As a result, our knowledge of past events is limited, but historical records indicate instances where God incarnated as a human to guide humanity.
 
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 2,
-      verse: `<b>(1) The Gospel of Mathew, 3rd chapter, 7th verse.</b>`,
-      meaning: `<b> 
-      (7) You brood of vipers! Who warned you to flee from the coming wrath?
-      </b>`,
-      pageText:
-        `
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    In this verse, <b>‘brood of vipers’</b> is the new word. The word is said to be about humans. However, a doubt comes whether humans have offspring of the snake. It is, therefore, a question for everyone who reads this verse. In this verse, we also need to know in detail what <b>‘coming wrath’</b> means. Besides, there is also another word in this verse, <b>‘Who warned you?’</b> The word ‘Who warned you’ refers to past time. We also need to know the one who warned humans in the past. We need to know the answers to three questions in this verse. 
-    <p>
-    A bird is an enemy to a snake. The bird can kill the snake. The snake first hisses to scare the bird. But the bird is not afraid. The bird can eat the snake as food. This is the truth that everyone knows. The serpent and the bird are compared with spiritual education. Pigeon in the birds is compared with Atma, and the serpent is compared with Maya. In this verse, the bird is not mentioned, but the serpent is mentioned. When the serpent is compared to Maya (Satan), ‘brood of vipers’ means ‘offspring of Maya.’ In more detail, ‘brood of vipers’ is told instead of ‘human beings with Maya.’ 
-    </p><p>
-    Maya means the composition of gunas. Those who are always concerned about gunas and have no concern for God are referred to as brood of vipers. It becomes known that there is impending wrath for the humans who are with Maya. <b>Wrath means something terrible or difficult to bear.</b> Coming wrath means that it does not exist but will come. What humans do not have at the beginning but will get because of Maya (gunas) is good and bad karma. The experience because of bad karma is terrible. Hence, the <b>coming wrath means the karma that will come in human life.</b> Every human who is born gets karma; hence, the verse <b>“You brood of vipers! Who warned you to flee from the coming wrath?”</b> is said to warn humans. 
-    </p><p>
-    When the verse said, “who warned you?”, it seems that someone gave wisdom in the past to humans to escape from the karma. This verse shows that there was a man 
-    who had told an idea in the past to escape from the upcoming karma. So, humans must know who said the idea. We need to know who he is, what he said, and when he said. It is not easy to know what happened in the past. If the answer to the first question in the first chapter of the four Gospels is unknown, the matter in the second divine scripture will not be understood. Then the subsequent verses from the second divine scripture cannot be understood. Hence, we must know the answer to the first question. Before we know the truth about this, let us know the significance of this second divine scripture. 
-    </p><p>
-    The wisdom that God told became a scripture once about five thousand years ago. The scripture has 18 chapters and is in the middle of the 18 parvas of Mahabharata. We call those eighteen chapters as the first divine scripture. At the beginning of creation, God told wisdom through the sky. The wisdom was called <b>Japara</b> wisdom at that time. In Telugu, <b>‘Para’</b> means separate or different, while <b>'Ja’</b> means born. ‘Japara’ means ‘separate or separate from birth.’ God’s wisdom is called ‘Japara wisdom’ because God is never born. Japara wisdom became the first divine scripture and then as the second divine scripture after three thousand years. It means it became the second divine scripture two thousand years ago. The same wisdom was written about 1400 years ago as the third divine scripture. We are here writing the verses from the second divine scripture. 
-    </p><p>
-    When it is said, “Who warned you?”, we should talk about the one who told wisdom in the past. According to this, the one who told wisdom in the first divine scripture is the one who warned humans first. There is a reason for knowing the one who told in the past. Since only God can tell his wisdom, and God is the only one, it is the same God who will teach his wisdom whenever and wherever required. Therefore, the same one who told earlier told again in the form of verses. Hence, if we want to know the one who told the wisdom in the second divine scripture, we first should know the one who said the wisdom in the past. Hence it became necessary to ask the question - who warned you? If you can find out who said in the past, you will have the opportunity to recognize who is saying now. We request you to read this scripture with the belief that the one who told the first divine scripture told this second divine scripture. 
-    </p><p>
-    Before reading the second divine scripture, we need to know what verses God, who told the first divine scripture, told in the Bible scripture. The Bible consists of 66 chapters, four of which have God’s verses, and the other 62 have verses from other gnanis. Those four chapters are 1) The Gospel of Mathew 2) The Gospel of Mark 3) The Gospel of Luke 4) The Gospel of John. These four parts are in the middle of the Bible. Hence, we can divide the Bible into three parts. The first 39 chapters are one part, the four Gospels the second, the last 23 chapters the third. We can observe that four chapters that Jesus told in his lifetime were specially labeled <b>‘Gospels.’</b> 
-    </p><p><b>
-    The first part of the Bible has 39 parts. <br>
-    The second part of the Bible has 4 Gospels. <br>
-    The third part of the Bible has 23 parts. <br>
-    </b>
-    </p><p>
-    In the first and third parts, other gnanis told God’s wisdom. Jesus, who is an incarnation of the one who said the first divine scripture, again told verses in the four Gospels. Therefore, to know this, the question <b>“Who warned you to flee from the coming wrath?”</b> is asked. Therefore, it may be said that this verse, written above all, is of great significance. 
-    </p>
+  <b>It becomes evident that God incarnates and dies as a human being on Earth occasionally.</b> Upon deep reflection and with the wisdom we possess, it becomes evident that God was born approximately 5,000 years ago in India and around 2,000 years ago in Israel. This divine incarnation was known as Jesus Christ during His time in Israel. He was present among humans on Earth for a limited span of 33 years, guided by His own predetermined karma. During the first 30 years of His life, Jesus lived as an ordinary Jeevatma. It was in the subsequent three years that He imparted Atma’s wisdom to humanity while living as Atma at times.
 
-      </span>
-        `
-    },
+  Some individuals may question my statement that ‘The divinity is born as a man on earth. The divinity (God) spreads to every atom of the universe.’ Does God not spread throughout the entire universe when He is born as a man? Does God, who is said to be present in all, not present in all of us after being born as Bhagavan on the earth? Let’s explore the answer using an analogy. Consider the sea, which is full of water. If we take a portion of that water from the sea in a small container, the container now holds seawater, but the sea remains full of water. The water in the container is referred to as ‘separated water,’ while the water in the sea is ‘unseparated water.’ Both the sea and the container share the same water, with no difference in the water’s properties, except that the container water is separated from the sea. In a similar vein, we can liken God to the sea. Bhagavan is like the separated water in the container, distinct from God as the sea. Yet, the container water and seawater are one and the same; similarly, Bhagavan and God are identical. When water is placed in a container, it doesn’t deplete the sea, and the sea remains full. Likewise, when a part of God incarnates as Bhagavan, God continues to be omnipresent as before. There’s no alteration in God, His divine principles, or His omnipresence when He appears as Bhagavan. A part of God becomes Bhagavan, but not the entire God. Even though Bhagavan is only a part of God, He has the same properties. Therefore, nothing is wrong with saying that God is born, although only a part of God is born on earth. Hence, there is nothing wrong with saying that Jesus is ‘God.’
 
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 3,
-      verse: `<b> The Gospel of Mathew, 3rd chapter, 11th verse.</b>`,
-      meaning: ` <b> 
-      (11) I baptize you with water for mind change. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.
-      </b>`,
+  Some individuals may pose another question: If Jesus is God, why did He endure suffering when people harmed Him? Why was He subjected to human torture and humiliation? They may also ask why Jesus did not reveal His divine identity to them and employ His divine power to punish those who mistreated Him. Here is our response: To understand this, we must first grasp a divine secret. Within an ordinary person's body, there exist three souls – Jeevatma, Atma, and Paramatma. Among these three souls, Jeevatma and Atma both reside within the body. These two souls are not external to the body. The third soul, Paramatma, extends within and beyond the body, permeating every atom in the universe. However, Paramatma does not actively engage in actions within or outside the body. The second soul, Atma, is responsible for all bodily functions. The first soul, Jeevatma, does nothing except experiencing pleasure and sorrow. Many individuals may think that they (Jeevatma) are the ones performing every action, but that is not the case within the human body. Atma, which resides within us without our conscious awareness, carries out all the work. Even Atma does not do anything according to its own will. <b>Atma</b> works according to <b>karma</b>, which is the underlying cause of every task. According to the law of karma, Jeevatma is destined to experience pleasure and sorrow. For Jeevatma to undergo these experiences within the body, Atma, which is spread throughout the body, facilitates these bodily functions. This includes physiological processes like digesting food, regulating the heartbeat, and managing bodily functions such as the separation of urine and sweat from the blood. Atma’s role in performing these bodily functions enables Jeevatma to coexist within the body. Inside the body, Jeevatma’s primary function is to experience. This is an inherent law governing every human body, unchanging and constant.
 
-      pageText:
-        `
-        <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        This verse has the words <b>‘mind change’</b> and <b>‘baptize’</b> as well as ‘with water and with fire.’ To understand the verse completely, these four words should be understood. Even if one of these four words is not understood, the essence of this verse is unknown. So, let us understand the four words. The first word is ‘mind change.’ In our body, the mind (manas) recalls what has been learned and stored. Here the word ‘mind change’ means changing or altering the mind. The mind is the one that remembers the things in life. If the first mind changes, and the second mind comes, all the memories of the first mind are gone. The second mind has no memories of the first mind. The first mind is destroyed with death. The second mind comes with birth. When the first mind is destroyed, and the second mind comes, it can be said, ‘mind change.’ With death, everyone’s old mind is gone, and a new mind is coming. The change of mind occurs naturally with rebirth. Baptism is not required for ‘mind change’ because of death and birth. 
-        <p>
-        When a man dies and is born again, he leaves the old body and obtains the new body. The physical body change that occurs during the process is called birth. Physical means the visible body. Humans have two kinds of bodies – visible and invisible (subtle). When a man’s visible old body is gone, and the new one comes, it is called birth; similarly, if the unseen body (subtle) is gone and the new subtle body comes, Hindus (Indus) say <b>‘upadesa’</b> and Christians say <b>‘baptism.’</b> As mentioned in this verse, baptism means changing of the unseen mind. Just as the old mind filled with memories is lost in death and the new mind comes in birth, the mind is transformed in the baptism and stop reminding ignorant memories and start 
-        recalling wisdom and divine related memories. If the ignorant mind goes away and <b>wisdom-related-mind comes</b> in life, it can be said to be <b>“baptism.”</b> In baptism, an ignorant man attains change of mind in life due to the teachings of <b>Guru</b>. 
-        </p><p><b>
-        Mind Change = Turning from ignorance to wisdom. <br>
-        Baptism = Attaining upadesa from Guru. <br></b>
-        </p><p>
-        Baptist John gave upadesa with water and said, “I baptize you with water. But after me comes one who is more powerful than me. He will baptize you with the Holy Spirit and fire.” We already learned in detail what ‘change of mind’ and what baptism is. Now we need to know what water is and what fire is. Guru gives baptism. But there are two kinds of gurus. Some gurus have gnana shakti, and some do not. In general, many gurus baptize or upadesh with water. Some does with milk. Both water and milk are visible liquids. And some others upadesh with vibhuti (sacred ash), and some with 
-        incense smoke. As part of upadesa, a guru gives a mantra, a word, or an image. There are many such upadesas. Many gurus offer such upadesas. John is one of those, and he admits his approach and said, “I baptize you with water.” But he said, “the one who comes after me baptize you with the Holy Spirit and fire.” We said that baptism means the path to mind change. When a man is converted from ignorance into wisdom because of baptism, it will burn all the sins of the man. Guru gives the appropriate fire to burn the sins through his baptism. Guru must possess a fire of divinity. The first verse in the chapter of Atma Samyama Yogam in the first divine scripture Bhagavad- Gita says, “cha yogee cha na niragnir nachaakriyah”. It means <b>“He who has no fire, who has stopped doing things, is not yogi (Guru).”</b> 
-        </p><p>
-        A true yogi (Guru) does not refrain from doing things. He would not be without fire. Fire means <b>gnanagni.</b> The above verse also said, ‘baptism with fire.’ Here the fire means the fire with <b>divine power</b>. Hence “He will baptize you with the Holy Spirit and fire,” said in the verse. The divine fire is not visible. When a man receives such a fire from Guru, it will create power in man that burns his karma. That is, the fire of wisdom reaches the baptized person and begins to destroy his karma. Although a Guru named John baptizes people for the change of mind, he does not have the <b>power (gnanagni)</b> in his baptism to burn karma. Hence, he said I can only <b>baptize you with water</b>. John said to the people, “My baptism will not forgive and burn your karma. But the baptism given by the one who comes after me will burn your karma.” 
-        </p><p><b>
-        Baptism with water = Upadesa that does not burn karma <br>
-        Baptism with fire = Upadesa that burns karma <br>
-        </b></p>
+  Even though God is born as a human, His body operates with a system akin to that of an ordinary human being. In His body, Paramatma must be present, Atma performs all the work, and Jeevatma experiences. This same process occurs within God’s body when He takes human form. When God came as Jesus, His body was no different from an ordinary human body. Consequently, He experienced suffering and pleasures just as any Jeevatma would. Jesus faced numerous challenges in life, all of which He had to undergo as a Jeevatma. To undergo these experiences in His earthly life, He created His own karma and incarnated as a human. Now, you might ask what sets Him apart from us. There is indeed one significant difference. We previously learned that only Atma operates within every human body. In Bhagavan’s body, it is likewise Atma that carries out the functions. Nevertheless, there are unique instances where something different transpires within Bhagavan’s body. On certain occasions, the three souls deviate from their conventional roles and operate differently. During such moments, Jeevatma enters a state where there is no experience, allowing Atma to assume the role of Jeevatma. The words spoken from Bhagavan’s body in this state, coming from Atma, are entirely spiritual in nature. The profound spiritual truths and God’s dharmas are only revealed when Atma speaks directly. On rare occasions, Atma and Jeevatma become silent, and Paramatma takes over and speaks. Such occurrences may happen once or twice in Bhagavan’s lifetime. In the lives of Jesus, Krishna, and Ravana Brahma, there were instances when Paramatma spoke. When Paramatma speaks, Prakruti (the material nature) follows His words. Similarly, when Atma speaks, profound wisdom is under His control. In the lives of these divine incarnations, the following happened: <b>1) Paramatma’s words wielded command over Prakruti. 2) Atma’s words conveyed pure Atma wisdom. 3) Jeevatma experienced pleasure and sorrow.</b> Paramatma spoke when a storm broke out in the sea during Jesus’ life and when He commanded the storm to calm down. It became evident that Prakruti followed His words and subsided. As Atma, He expressed pure wisdom. He also experienced various joys and sorrows as a Jeevatma during the rest of His life. Similar events occurred in Krishna’s life, where He commanded the Sun and killed Saindhava. There was also an occasion when Krishna revealed a universal form and declared, “I am Paramatma.” As Atma, He conveyed profound wisdom in the form of the Bhagavad-Gita, and experienced life’s pleasures and sorrows as a Jeevatma for the remaining time. This interplay of the three souls taking on distinct roles happens exclusively within Bhagavan’s body. Divinity assumes human form only once in thousands or even millions of years. When God is born on Earth, He predominantly lives as a Jeevatma, akin to others. However, He occasionally speaks as Atma a few times a year for brief periods when needed. Speaking as Paramatma happens very rarely, if at all. The necessity for speaking as Atma arises because He has come to impart dharmas. This represents God’s system, distinct from Maya’s system.
 
-      </span>
+  There is no trouble as long as God behaves like an ordinary man. Maya, however, opposes when God imparts wisdom as Atma. Maya is fundamentally opposed to God’s wisdom. Therefore, Maya, often referred to as Satan, is vigilant in preventing individuals from shifting their allegiance from Maya’s side to embracing God’s wisdom. Furthermore, Maya actively seeks out those who exhibit an interest in and understanding of wisdom, attempting to divert them back to its side. This is why many people have only limited interest in embracing true divine wisdom, largely due to the influence of Maya. Consequently, even those who possess some wisdom may veer off the path. You might raise a question at this point: “There are numerous devotees today who are deeply committed to their faith. They seek wisdom from various spiritual gurus and display unwavering devotion to deities. Almost everyone is devoted to God, except for a few atheists. Is it possible to change the devotees of Sai Baba and Ayyappa? Besides the longstanding temples in the country, numerous new temples are being constructed in honor of Shirdi Sai Baba and Ayyappa Swamy. It seems that Maya has not obstructed their devotion. How can we accept your perspective?” Here is my response.
 
-        `,
+  Maya stands in direct opposition to God’s path and supreme wisdom. Its opposition to God’s profound wisdom demonstrates the great power of Maya, which is referred to as <b>‘Maya duratyaya’</b> in the Bhagavad-Gita. God said in Bhagavad-Gita that <b>it is impossible to conquer Maya;</b> hence it becomes known that <b>Maya is unimaginably</b> <b>deceiving humans.</b> Thus, the workings of Maya remain largely elusive and mysterious, leaving individuals susceptible to its deceptions. Maya operates by creating its own version of wisdom. As God rarely incarnates on Earth as Bhagavan once in thousands of years, Maya produces numerous imitations of Bhagavans to confuse and divert people from recognizing the genuine Bhagavan. It introduces many types of wisdom, making it difficult for many to distinguish true wisdom from the counterfeit. When there are many Bhagavans associated with Maya on earth, who will recognize the true Bhagavan who rarely comes upon earth? When there are Bhagavans who exhibit numerous supernatural feats and miracles (mahatyas), who can identify the true Bhagavan who demonstrates only one or two mahatyas in a lifetime? In this way, it has become impossible to recognize God’s wisdom and Bhagavan. God showed His reality in the universal form, something that no one has ever seen and can ever understand. But Maya influenced some people to write that many devatas showed universal form, including Saibaba and Veerabrahmam so that people do not count Krishna’s universal form as the highest. Who thinks the universal form Krishna showed in Bhagavad-Gita is the greatest of all? Thus, Christians could not recognize Jesus Christ as Bhagavan; similarly, Hindus could not know Krishna as Bhagavan. Hindus could not consider Krishna as the true God. While some view Him as the last of all other Gods, others fail to recognize Him as even a minor deity due to their perception of His actions as mischievous. No one even counts Krishna as God, like Shirdi Sai Baba. Similarly, in the Christian tradition, despite considering Jesus Christ as the Son of God, many have not grasped the essence of His teachings. Under the influence of Maya, Christians venerate the cross, which was instrumental in Jesus’ crucifixion, instead of Jesus Himself. They thought they would be counted as Hindus if they worshipped <b>Jesus’ idol;</b> hence, they pray to the cross. While Jesus said, <b>“He who has seen me has seen my Father,”</b> is it not Maya’s work that made Christians respect the cross, which caused Jesus’ death, instead of Jesus’ idol? Maya strategically leads people away from God’s path, even when they believe they are firmly on that path. It works to undermine the credibility of those who understand God’s wisdom and speak the truth, making their words appear inferior or unheard. Moreover, Maya has contributed to the formation of various religions and the illusion that distinct Gods exist for each religion. Despite there being one supreme power governing the universe, Maya has fostered the belief in multiple Gods corresponding to different religions. The influence of Maya is profound, leading to the emergence of a multitude of Gods and religious beliefs. Within the Christian faith alone, some devotees worship Mary while others worship Christ. Similarly, Hinduism boasts numerous deities. In light of this diversity, it is now essential to embark on a quest to discern the ultimate head of all deities and religions. However, this task is not easy. <b>By first recognizing Maya and its impact, we can subsequently seek the path to God.</b> Therefore, it is important to determine whether the path you are currently on leads to God or is influenced by Maya.
 
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 4,
-      verse: `<b>(3) The Gospel of Mathew, 3rd chapter, 12th verse.</b>`,
-      meaning: `<b> 
-      (12) His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.
-        </b>`,
-      pageText:
-        ` 
-          <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-                  <p style="text-align:center">
-                  <img src="assets/img/chaata.png"/>
-                  </p>
+  There is an infinite supernatural power that is formless, nameless, and undefined. Let’s refer to it as ‘Paramatma.’ Very little is known about Paramatma, the source of all existence. Paramatma must personally manifest and reveal Himself because, despite permeating every atom, we remain limited to understanding only the Pancha Bhutas (five basic elements). Our senses can only perceive what is within their range, and Paramatma is beyond the grasp of our senses. We can only comprehend Him when He takes on human form, making Himself visible and revealing His wisdom. Otherwise, we remain unaware of Him. Therefore, Paramatma must incarnate as a human and impart His wisdom. He emerges to disclose His dharmas, but these teachings fade over time, necessitating His return to reinstate them. Paramatma, the creator of the universe, often chooses to manifest as a human, leading an existence similar to an ordinary person, and fulfilling His purpose. Identifying Paramatma in such a form is a challenging task. Despite Paramatma’s numerous incarnations on Earth, humans have struggled to recognize His presence even to this day.
 
-                  <p style="text-align:center">
-                  <img src="assets/img/kallam.png"/>
-                  </p>
-                  A Guru named John told this verse. During that period, he gave upadesa (baptism) to people. John, the great gnani in that time, foretold the coming of Jesus. He baptized Jesus Christ (Bhagavan), the Son of God. He is also the Guru of Jesus. Although John was famous guru at that time and had baptized many people, he was very humble. Before he baptized Jesus, he showed humility by saying, “the one who comes after me is more powerful than me, whose sandals I am not worthy to carry.” When Jesus came to him and asked for baptism, John said, <b>“You should baptize me. Do you come to me for baptism?”</b> John told the above verse when he foretold the coming of the Lord. The verse also has words <b>winnowing tray,wheat,</b> and <b>unquenchable fire</b>. Some people may ask what greatness in this verse is. If the wheat is gathered into winnowing fork (basket), produce flour, and roasted with fire, it becomes bread. We see <b>winnowing tray, wheat,</b> and <b>fire</b> all the time. Hence, some may ask that there is nothing so important in this verse. Here is the answer. This verse is from the second divine scripture. Hence, every verse from this scripture will tell divine wisdom. If the verse is seen with gnana drushti, it has a special meaning. This verse tells the greatness of Jesus Christ. 
-                  <p>
-                  In olden days, children born were put on the winnowing tray (basket) first. As soon as the baby was born, it was customary to pour rice into the winnowing tray, flatten and lay the baby first on it. Everyone - the poor or the rich, the known, the ignorant - used to do like that. They believe that Brahma will write the infant's future (karma writing) on the forehead when the baby laid on the winnowing tray for at least two minutes. <b>‘Karma writing’</b> is also called <b>‘Brahma vrata’.</b> No matter what people think, John spoke the truth in the case of Jesus. John compared the deeds with wheat. Everyone knows that the wheat is food. Man eats food and lives. When you eat food, the food runs out. Likewise, Jivatma experiences karma in the form of deeds. When you experience the karma, it keeps running out. John described the deeds we experience because of karma as wheat. The karma we experience was written in our body. We call it karma writing or forehead-writing or God’s judgment. We are experiencing our karma from the forehead-writing. John described karma- experiences as wheat and the head that stores karma as a winnowing tray. We take the grains 
-                  from the winnowing tray to cook food. Therefore, the head that stores the karma which we experience is described as a winnowing tray. 
-                  </p><p>
-                  The karma is written in human being’s head without them knowing it. So, no one knows what will happen in the future. Every human is in a state where they cannot escape from karma. While all humans play like puppets in the hands of karma, the Holy Spirit or Paramatma is not in the control of karma. When such God wants to be born as a man, he creates his own karma; that is, he writes his own karma on his head and comes upon the earth. He has no karma but writes his own karma and comes for the sake of telling wisdom to humans. Regarding God, who writes his own karma, John said, <b>“His winnowing tray is in his hand.”</b> No one in the world has their winnowing tray in their hand. While this is the condition of humans, God creates his own karma and comes as a human being on the earth to tell people wisdom. Be aware that what Jesus experienced from birth to death is because of self-constructed karma. Due to self-created karma, he was born in a barn, was tortured, and died on the cross. No power can neither give birth to him nor torture him without his knowledge. He decided how he wanted to live his life on the earth. It is true that he had his winnowing tray in his hand. 
-                  </p><p>
-                  All ordinary people get new karma in every deed they do. Every deed on the earth produces new karma. As the smoke is associated with fire, karma is associated with every deed. It is Prakruti’s policy that every action has karma. When God incarnates and comes as the Son of God (Bhagavan), every deed he does also produces new karma. An ordinary person cannot escape from the coming karma. But Bhagavan Jesus can escape from the coming karma. Because Bhagavan has full fire of wisdom. Using gnanagni, he burns the karma that comes naturally in the deeds. Christ, who is complete gnani, has full gnanagni all the time. All the karma burns in the unquenchable fire of wisdom. Deeds are associated with karma; similarly, grains relate to chaff. John said, <b>“He burns the chaff with unquenchable fire”</b> because Christ burns up the karma associated with deeds by his gnanagni. Jesus cleanses his body from gunas’ dust and burns the karma in the deeds. John compared Jesus’ body to the threshing floor, removing the effect of gunas on him to cleaning the threshing floor, deeds to wheat, karma that comes from the deed to chaff, the fire that burns the karma to the unquenchable fire. John described the greatness of Jesus in a single sentence, but, unfortunately, we have not yet understood it. 
-                  </p><p>
-                  The verse seems to be straightforward, but it has so much subtle (hidden) meaning. The four Gospels have many verses of this kind. As my wisdom is limited, I have not written explanations for the entire Bible 66 chapters but wrote descriptions for important four Gospels and rarely other parts. 
-                  </p>
-                  </span>`
+  Those who fail to recognize Bhagavan when He is present often begin to worship Him with great devotion after He has left. They do not worship Him because He is Paramatma, but rather because they believe He possesses great wisdom or that their desires will be fulfilled. However, they still do not realize that He is Paramatma. We can recognize the incarnations of Paramatma through certain principles. In this way, we can identify that Paramatma came as Krishna at the end of the Dvapara Yuga and later as Jesus in the Kali Yuga. Paramatma may have also come at a later time, but we do not know.
 
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 5,
-      verse: `<b> (4) The Gospel of Mathew, 3rd chapter, 16th and 17th verses.</b>`,
-      meaning: `
-        <b> 
-        (16) As soon as Jesus was baptized, he went up out of the water. At that moment the sky was opened, and he saw the Spirit of God descending like a dove and alighting on him.
-              <br><br>
-              (17) And a voice from the sky said, “This is my Son, whom I love; with him, I am well pleased.”
-               </b>
-        `,
-      pageText:
-        ` 
-          <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-          John baptized Jesus with water. Baptism is also called upadesa. In Telugu, upadesa means a country adjacent to your country. In other words, it is also called a neighboring country. A neighbor lives in a neighboring country. There is a neighboring country in your body. There is a neighbor in the neighboring country of your body. Every human has a neighboring country and a neighbor. The neighboring country, as well as the neighbor, are not visible in a human being. Guru shows the unseen neighboring country in baptism or upadesa. John baptized Jesus with water. There is no fire in that upadesa. Hence it is an upadesa to the name and does not have a neighboring country and a neighbor. Yet, the program of upadesa must be done in that way. Hence, Jesus said in verse 3:15, <b>“Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b>
-          <p>
-          Although Jesus took upadesa with water, he knows the neighboring country in his body. All the time, he sees the visible outside country as well as the invisible neighboring country. Therefore, it was counted as true upadesa even though the upadesa John gave him is only to the name. Jesus was baptized after living thirty years as an ordinary Jivatma. From then on, he began to tell divine related things, not as Jivatma but as Atma. To prove that Jesus, as Atma, told Paramatma’s wisdom, Atma descended like a dove and alighted on him as soon as he came out of the water after baptized. Besides, Paramatma (the Holy Spirit) said, <b>“This is my son, whom I love; with him, I am well pleased.”</b> The Holy Spirit, God, said that Atma was his beloved son, and he was rejoicing in his beloved son, Jesus. By this, it becomes known that the Holy Spirit is the Father, and Atma is a Son called Jesus. All this reveals that the Holy Spirit, Paramatma, did not appear to be Atma but lived in this world as an ordinary man appearing as Jivatma. I did not say this to praise Christians or propagate Christianity. I am telling you one hundred percent truth and the way God came upon the earth. 
-          </p>
-          
-          </span>`,
+  Regardless of how many births Paramatma has had, there are no similarities from one birth to another except in His dharmas. Although Paramatma’s essence remains the same in Krishna, who was born in the Dvapara Yuga, and Jesus, who was born in the Kali Yuga, their outward lives are vastly different. Sri Krishna enjoyed a life of wealth and had eight wives. He also abducted His first wife with her consent and killed His enemies. After observing all of this, it becomes challenging for anyone to recognize Him as Bhagavan, who is imbued with a part of Paramatma.
 
-    },
+  There were no lies or deceptions in the life of Jesus, who was born in the Kali Yuga. Jesus was meek and would turn the other cheek if slapped by an enemy. He had no lust for women. Krishna and Jesus are very different in worldly matters. Even Gurus in both religions are mistaken about these two. Hindu Gurus criticize Jesus by asking, “Why did Jesus die at the hands of ordinary people, and why did He not save himself? Why did He have to die if He had the divine power to raise the dead? Why did He suffer when He was nailed to the cross?” Similarly, church pastors criticize Krishna by arguing, “How can He become God when He had many wives?” In this way, they focus on the worldly aspects of the lives of Jesus and Krishna, but no one contemplates why such events occurred in their lives. Paramatma Himself said that no one could recognize Him when He came to the Earth. His role is to pretend so that no one recognizes Him. His mission is to be an unidentified thief among us, stealing our ignorance.
 
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 6,
-      verse: `<b>(5)	The Gospel of Mathew, 4th chapter, 10th verse.</b> `,
-      meaning: ` <b> 
-      (10) Jesus said to him, “Away from me, Satan! For it is written: Worship the Lord your God and serve him only.”
+  Earlier, we mentioned that God cannot be understood through worldly matters. <b>God can only be recognized through God’s wisdom.</b> Even those who claim to be Gurus often fail to grasp this principle and attempt to measure God using worldly standards. Consequently, when God comes to Earth, no one recognizes Him. Those who perform miracles based on worldly matters may appear great and godlike, but the true God is often overlooked. This is because God’s presence cannot be identified based on external, worldly factors. Instead, God’s incarnation can be recognized based on dharma. The same dharma can be found in the Bhagavad-Gita and in the teachings of Jesus, which allow us to recognize them as one. However, there are no other similarities between them in external, worldly matters.
+
+  There is only one God for the entire world, who incarnates as a man with many names and forms to guide humanity toward him. Unfortunately, many humans fail to realize this and create religions that argue over whose God is greater. They fail to understand that God in their religion and God in other religions are the same. Humans tend to love their religion more than God, which is a great ignorance. It is essential to know that there is only one God, even though we call Him by different names. Paramatma decides His role based on time, nation, and people, and incarnates as Bhagavan to teach His dharmas. His births are not the same, but His aim is always the same - to teach His dharmas. When He came as Jesus or Krishna, the dharmas He taught were the same. God and His dharmas may appear different because when Paramatma was born as Krishna and Jesus, their names, countries of birth, and personalities differed.
+
+  Let’s take the dharma stated by Paramatma as an example. Sri Krishna said in the Gita, <b>‘Paritranaya Sadhunam vinasaya chaturskrutam,’</b> which means, <b>“I will protect the righteous and destroy the wicked.”</b> Some Christian preachers take these words and say to Hindus, “Your religion offers no protection, and your God will only kill sinners.” However, in our religion, there is protection for all sinners, and Jesus came to Earth to save sinners. While your God may destroy sinners and wicked people in your religion, my God (Jesus) will protect you. Therefore, Christians claim that their God is the true God. The Christians did not understand the true meaning of what Lord Jesus said in this regard, and the Hindus did not understand the meaning of the sloka that Krishna said in the Gita. Thus, Krishna’s words and Jesus’ words seem different to them. They believed that Krishna and Jesus were different, but they did not know that they were the same and that the words they uttered had the same meaning. The words ‘destroying the sinners and the wicked’ mean that they use the weapon of <b>‘teaching’</b> to remove the karma of sin and evil and make them pure. When the wicked become pure, they will not be caught in sins but become righteous. Then there will not be any evil people. Thus, the two phrases, ‘to say in the Gita that Krishna will do away with the wicked’ and ‘to say in the Bible that Jesus will protect you from sins,’ mean the same thing.
+
+  Even though Jesus and Krishna spoke different languages, were different individuals, and had different names, the purpose of their words was the same. Due to people’s inability to fully grasp God’s concept and their tendency to interpret His words to suit their preferences, they divided the God who proclaimed the same dharma. When Hindus criticize Jesus, and Christians claim that Krishna is not God or Paramatma, the King and Father of paraloka, the Head of the universe who pervades the entire world and resides within us, laughs, knowing that these people are blind despite having eyes. Krishna said in the Gita, “I will come when there is a threat to dharma.” However, Hindus recognize Him as God only if He appears in the same way as before - with peacock feathers, a flute, and the chakra. If God is born in a different form, they say, “You are not our God.” In the Bible, Jesus Christ said that He would come again. Christians will recognize Jesus Christ only if He appears in the same way as before - with nail scars on His hands and spear marks on His side. They will say, “You are not our Lord,” if He comes in a different form. Due to the differences in their appearances and behaviors, Christians could not recognize that Jesus was Krishna, and similarly, Hindus could not acknowledge that Krishna was Jesus. That is why God said in the Gita, <b>“People dishonor me, for they do not know me and my mahatya.”</b> Some Hindu gurus will teach wisdom and provide upadesa to Krishna if He comes again. Similarly, if Jesus comes again, as mentioned in the Bible, Christian preachers, who may not recognize Him, will baptize Him. As long as there are Gurus who will teach wisdom to Krishna if He changes His form and name, it can be said that there is ignorance in the Hindu religion. Similarly, as long as there are Christians who will explain the Bible verses to Jesus if He changes His form and appears before them, it may be said that they are not fully aware of God.
+
+  There is a strong reason why even the great gnanis could not recognize God or understand God’s wisdom when God came upon Earth. Before understanding the reason, one should be familiar with the visible <b>creation.</b> There is a significant opponent to God, which is why God is not fully understood. Christians call it ‘Satan,’ Hindus refer to it as ‘Maya,’ and Muslims call it ‘Shaitan. ’ To comprehend the secret of something with names like <b>Maya, Satan, or Shaitan,</b> one must first understand the secret of creation. Let’s delve into the details below.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Secret of Creation",
+chapterNumber: 1,
+pageNumber: 1,
+verse: ``,
+meaning: ``,
+pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Paramatma (God) was neither male nor female before the universe was created. Paramatma wanted to create the universe and thus brought into existence feminine Prakruti or Maya (Satan). He determined the required characteristics and all the necessary methods for it. Since Prakruti was female, Paramatma stood in stark contrast to her, and this characteristic is known as Purusha (male). Paramatma desired Prakruti to be entirely opposite to Him, so He granted her equal authority because He believed that the game would be more exciting when both opponents possessed equal strength. Prakruti (Satan) is contrary to Paramatma but not an enemy. Although it is natural for God (Paramatma) to face opposition from Satan (Prakruti), they are not enemies of each other.
+
+  Paramatma, who created Prakruti, will eventually absorb her into Himself. He is the father, husband, and destructor of Prakruti, as well as the force within her. Paramatma, who is vast, created Prakruti and is engaged in a game called ‘Jagath.’ In this game, Paramatma disguises Himself as Purusha (male) even though outside of the play, He is neither male nor female. Prakruti is divided into five elements - Sky, Air, Fire, Water, and Earth - and is named Prapancha. After creating Prakruti, Paramatma desired to create a Jagath consisting of living beings that experience birth and death. He achieved this by creating living beings with Atma and constructing Jagath within the Prapancha. In Telugu, <b>‘Ja’</b> means birth, and <b>‘Gati’</b> means death. Hence, all living beings are aptly named <b>‘Jagath,’</b> indicating that it consists of birth and death.
+
+  Paramatma created Jagath, consisting of living beings within Prakruti. While Prakruti (female) and Paramatma (Purusha) are considered equals, Jagati was born separately later. Thus far, Paramatma has created Prakruti (Prapancha) and Jagath, resulting in three components, including Paramatma. Initially, Paramatma, who was neither male nor female, created Prakruti. Then, Paramatma transformed into Purusha (Atma), took Prakruti as His wife, and together, they brought forth a unique offspring named Jagath. If we disregard these relationships, Paramatma created three distinct parts - Prakruti, Purusha, and Jagath. Prakruti is female, Paramatma is male (Purusha), and Jagath should be considered as non-binary (neither male nor female). The primary game is that Paramatma and Prakruti drag Jagath (non-binary), which exists between them. There are rules for this game. Although Paramatma defined the rules, He participates in the game according to the very rules He established, even though He is the creator of all and superior to all. This game, like others, has a time limit. The time limit for the game of Jagath is 1000 Yugas or 108 crores of years, similar to how football has a 90-minute time limit or cricket has a limit of 50 overs. The game experiences break during the night and continues during the day, with each playing and resting period spanning 108 crores (1.08 billion) years.
+
+  Paramatma, non-specific and undefined, initially created Prapancha (without life- form) and subsequently brought forth the living beings (Jagath). Paramatma created Prakruti and became recognized as Purusha. He created Atma and divided Prakruti, which conceives with Atma’s seed, into five parts. Such Prakruti is called Pancha Bhutas or Prapancha. Paramatma divided Atma and Jeevatma into three parts: Jeevatma (the life-form Jagath), Atma, and Paramatma. He became recognized as Paramatma after creating Jeevatmas and Atma. He became recognized as Paramatma alongside Atmas (Jeevatma and Atma) and as Purusha alongside Prakruti. There is a basis for calling Him Purusha when there is Prakruti and Paramatma when souls are present. If Prakruti and Atmas do not exist, it is not possible to define Him. The life-form Jagath was born of Prakruti and Purusha. Paramatma planned so that the mother and father in Jagath have the attributes of Prakruti and Purusha.
+
+  Prakruti possesses characteristics opposite to those of Purusha. However, Jagath consists of attributes from both Prakruti and Purusha. The life-form Jagath embodies both Paramatma-related Jeevatma and Atmas, as well as Prakruti-related bodies and gunas. The belief in the existence of God aligns with Atma, while the opposing view that God does not exist aligns with Prakruti. Human beings in Jagath exhibit characteristics of both Prakruti and Purusha. To symbolize the traits of Prakruti and Purusha, women’s bodies were created to resemble Prakruti, while men’s bodies were designed to represent Paramatma. Non-binary individuals were also created to symbolize Jagath, indicating that Jagath exists in addition to Prakruti and Paramatma. Women, men, and non-binary individuals symbolize Prakruti, Paramatma, and the living Jagath. Prakruti = Women, Jagath = Non-binary, and Paramatma = Purusha (Male). God made His creation known by creating females to resemble Prakruti, non-binary individuals to symbolize Jagath, and males to represent Paramatma. God brought children into the world through the union of males and females to illustrate that the living Jagath is born of Atma and Prakruti. The visible mother, father, and offspring illustrate how creation initially occurred. Many individuals, despite their intelligence, often do not contemplate why men differ from women and why offspring are born from both men and women. To truly grasp spirituality, it is essential to understand the basics of the <b>‘Secret of Creation’</b> in spiritual education.
+
+  It is important to understand that the game between God and Prakruti is friendly in nature. Prakruti and Paramatma engage in a gentle tug-of-war, each attempting to draw Jeevatma to their respective sides in this game. Paramatma’s duty is to impart wisdom to Jeevatma, guiding them towards Him. Conversely, Prakruti, in the form of Maya with its weapon of gunas, keeps human beings occupied, preventing them from contemplating God. Prakruti ensnares individuals in their daily activities, diverting their full attention towards worldly pursuits, and obstructing them from turning towards God through the influence of desire and associated gunas. The grandest game between Paramatma and Prakruti remains nameless. In the form of Maya, Prakruti subtly pulls everyone toward its side, often without their awareness. If anyone within Jagath thinks about God and seeks knowledge about Him, Maya (Prakruti) tends to focus on and ensnare them. Maya (Satan) appears stronger than God in this ongoing struggle between God and Satan. Currently, it holds the allegiance of 99 percent of human beings. In such a scenario, when God’s defeat may seem inevitable, Paramatma should strive to prevail.
+
+  As part of His endeavors, Paramatma will incarnate as a human among humanity and speak of Himself, aiming to guide people toward Him. As previously mentioned, there is no true adversary, and each side employs its own strategy. Both Satan (Maya) and God coexist within every human being, but individuals are often unaware of their presence and struggle to recognize God or Maya. Humans frequently remain oblivious to whose side they are on. God strives to liberate individuals ensnared by Maya’s influence, and in this pursuit, Paramatma is born on Earth as the Son of God. However, following the rules of the cosmic game, He must not reveal His identity as the Son of God. Thus, when God incarnates as a human, He speaks of Paramatma as an ordinary individual. Paramatma imparts His wisdom and re-establishes His dharma. Conversely, Maya formulates strategies to depict the Son of God as ignorant and foolish. It creates Gurus and Swamijis who promote Maya’s adharmas as dharmas and present the Son of God’s teachings as adharmas. Maya competes with the Son of God through these Gurus and Swamijis, leading humans to embrace its teachings instead of God’s wisdom. Maya employs terms such as Paramatma, moksham, wisdom, and practice to convey its adharmas to humans, making it challenging to distinguish God’s dharma from Satan’s adharmas.
+
+  If someone seeks to find God, Maya renders them unable to distinguish between dharmas and adharmas, leading them to believe whatever is presented to them. It is a fundamental rule of the cosmic game that both Satan (Maya) and God should not overtly reveal their presence on Earth. When Paramatma incarnates as Bhagavan on Earth, He refrains from declaring, “I am Paramatma.” By the same rule, when Prakruti is born on Earth, it does not proclaim, “I am Maya.” However, when Maya incarnates, it can assert, “I am Bhagavan.” Following this principle, Maya (Satan) proclaims itself as Bhagavan (the Son of God), performs numerous miracles, and manifests in the form of various Swamijis. When Paramatma is born in one place on Earth, Prakruti creates many individuals bearing the name Bhagavan. Paramatma’s birth is intended solely to impart His dharmas without being openly recognized as Bhagavan. Concurrently, Maya generates many with the name Bhagavan even before the birth of Paramatma. Maya causes humans to hear its words and prevents them from listening to the words of the genuine Bhagavan. In this cosmic game, Maya exerts its influence, and God fulfills His purpose.
+
+  While Maya continually takes the form of gunas within the human body, God exists in the form of Atma within the body. We previously mentioned that Maya and Paramatma would incarnate as human beings on Earth. It is important to understand the bodies they will assume. Maya incarnates in a male body as Bhagavan and a female body as Bhagavati. Paramatma consistently incarnates in a male body. Prakruti, as a female, typically wears a female body, but she can also manifest in a male body to deceive others. It may be challenging to discern the true Bhagavan in the forms of Bhagavati and Bhagavan. It’s crucial to note that Bhagavan is always incarnated as a male. The Heavenly Father, Paramatma, was incarnated as Jesus in male form. His birth occurred through a virgin womb without the involvement of a human father. Paramatma incarnates on Earth when the need arises, with <b>Jesus</b> being one such incarnation. The Holy Spirit is also expected to be incarnated on Earth in the future. We have written this scripture to inform you that no matter how many times the same Paramatma is born, He will reveal the same dharmas. The purpose of this scripture is to help readers understand the essential words of Jesus in the New Testament of the Bible and to compare them with the teachings of the Bhagavad-Gita. By reading this, we hope you will come to know the greatness of Jesus and the inner spirit of Krishna.
+</div></div>
+<ion-row><ion-col class="ion-text-center">
+<b>By  <br><br>
+The only Guru of Three Religions, Originator of Thraitha Theorem, The Author of One Hundred Divine Scriptures </b><br><br>
+<span style="font-size:20px;font-weight:bold">Sri. Sri. Sri Acharya Prabodhananda Yogeeshwarulu</span>
+</ion-col></ion-row>
+</span>`,
+
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 2,
+verse: `<b>(1) The Gospel of Mathew, 3rd chapter, 7th verse.</b>`,
+meaning: `<b>
+(7) You brood of vipers! Who warned you to flee from the coming wrath?
 </b>`,
-      pageText: ` 
-          <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-          The word <b>Satan</b> is new in this verse. In the preceding verses, Satan is sometimes referred to as a ‘tempter’ and elsewhere as a ‘devil.’ The equivalent words for tempter and devil in Telugu are ‘shodakudu’ and ‘apavadi.’ Apavadi means slanderer. Similarly, shodakudu means someone who is searching for evil in you. If evil exists in you, shodakudu brings it out. The word Satan is used many times in this scripture. In spiritual education, the word Satan is used instead of the word <b>“Maya.”</b> Since Satan and Maya are the same, the description of Maya is also applicable to Satan. 
-          <p>
-          In the first divine scripture, Maya means the essence of gunas in the head. About Maya in the first divine scripture, it is said, <b>“Gunamayee mama maaya.”</b> In this, ‘mama maaya’ means “Maya is mine,” said God. God created all things. God created Maya, as well. Therefore, God said that Maya is mine. Maya is feminine gender. God and the two souls, Atma and Jivatma, separated from God are males (total three), and the rest is not. Therefore, Maya is said to be a feminine gender. We should not think that Maya is somewhere. Maya, which tempted Jesus, is in his head. Being in his head, Maya tempted Jesus and argued with him. Similarly, gunas in every man’s head are Maya to them and are tempting and arguing against them every day. After Jesus was baptized, Maya tempted him three times initially. Jesus answered the Maya with his wisdom three times. 
-          </p><p>
-          Jesus set an example in his life, which humans should follow. Whenever Maya searched Jesus, he answered with wisdom. So, every man must know how to do the same. When Satan asked Jesus to bow down to her, Jesus gave Satan (Maya) the appropriate answer. Jesus answered to Satan, <b>“Worship the Lord your God, and serve him only.”</b> Jesus said the word, but we should know that the Atma in his body spoke the word. The Holy Spirit, Paramatma, himself does not speak to anyone. Thus, he tells his wisdom through Atma. So, we should know that Paramatma himself told the wisdom, although Atma in the body told it. In the third and final divine scripture 3:7, God said, “God’ wisdom is not known to any man except God.” By this, we should know that the complete wisdom revealed by Atma in the body is told by Paramatma (God). 
-          </p><p>
-          There are twelve religions in the world today, and all devatas who do not present in any religion are in Hinduism. God created devatas and human beings. Humans forsook God and are worshiping devatas without knowing God’s wisdom. By doing so, it becomes clear that humans do not care for God’s word in the scriptures. Those who forsake God and worship devatas can be said to be in Maya, hearing Maya's words. There are only two parties - God's side and Maya’s side. However, people in some religions do not worship any other devatas and pray to God alone. Only in Hinduism, people are on the side of Maya and worship many devatas except God. It becomes clear that all those who worship devatas are on Maya’s side. 
-          </p> 
-                 
-        </span>
+pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> In this verse, <b>‘brood of vipers’</b> is a new term. The term was used to refer to humans. However, there is doubt about whether humans can be considered the offspring of snakes. This raises a question for anyone who reads this verse. In this verse, we also need to delve into the detailed meaning of <b>‘coming wrath.’ </b>Additionally, another word in this verse is <b>‘Who warned you?’</b> This phrase refers to a past time, and we should seek to understand who warned humans in the past. There are three questions we need answers to in this verse.
 
-`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 7,
-      verse: ` <b>(6)	The Gospel of Mathew, 5th chapter, 10th verse.</b>
+  A bird is an enemy to a snake. The bird can kill the snake. The snake initially hisses to scare the bird, but the bird is not afraid. The bird can eat the snake as its food. This is common knowledge. The serpent and the bird are used as metaphors in the context of spiritual education. The pigeon among the birds is compared to Atma, while the serpent is compared to Maya. Although the verse doesn’t mention the bird, it does mention the serpent. When the serpent is compared to Maya (Satan), ‘brood of vipers’ can be understood as ‘offspring of Maya.’ To be more precise, ‘brood of vipers’ is used instead of ‘human beings with Maya.’
+
+  Maya refers to the composition of gunas. Those who are constantly preoccupied with gunas and show no concern for God are referred to as the ‘brood of vipers.’ It becomes known that impending wrath awaits those who are entangled in Maya. <b>Wrath, in this context, signifies something terrible or difficult to bear.</b> The term ‘coming wrath’ suggests that it does not currently exist but will manifest in the future. What humans do not initially possess but will acquire due to Maya (gunas) are all kinds of good (punya) and bad karma (sin). The experiences resulting from bad karma can be quite terrible. Therefore, <b>‘coming wrath’ alludes to the karma that will manifest in human life.</b> Every human who is born accumulates karma, which is why the verse <b>‘You brood of vipers! Who warned you to flee from the coming wrath?’</b> serves as a warning to humans.
+
+  When the verse mentions, ‘who warned you?’ it suggests that someone in the past provided humans with wisdom to escape karma. This verse implies that there was an individual who told an idea in the past to help people evade impending karma. Consequently, it’s important for humans to uncover the identity of this person, understand what he said, and determine when he conveyed this wisdom. Recalling historical events from the past can be a challenging task. If the answer to the initial question posed in the first chapter of the four Gospels is not known, the matter in the second divine scripture will not be understood. Subsequently, the following verses from the second divine scripture cannot be understood. Thus, it is essential to discern the answer to the initial question. Prior to uncovering the truth in this regard, let’s explore the significance of this second divine scripture.
+
+  The wisdom God imparted became a scripture approximately five thousand years ago. This scripture comprises 18 chapters and is situated in the middle of the 18 parvas of the Mahabharata. These eighteen chapters are referred to as the first divine scripture. At the beginning of creation, God communicated wisdom through the Sky. This wisdom was known as <b>‘Japara</b> wisdom’ at that time. In Telugu, <b>‘Para’</b> signifies separate or different, while <b>‘Ja’</b> means born. ‘Japara’ thus translates to ‘separate or distinct from birth.’ It earned this name because God is never subject to birth. Japara wisdom initially became the first divine scripture and also became the second divine scripture after three thousand years i.e. approximately two thousand years ago from now. Roughly 1400 years ago, the same wisdom was transcribed as the third divine scripture. We are now interpreting the sentence from the second divine scripture.
+
+  When the question ‘Who warned you?’ is raised, we should talk about the one who told wisdom in the past. According to this, the one who told wisdom in the first divine scripture is the one who warned humans first. There is a reason for knowing the one who told in the past. Since only God can tell His wisdom and God is the only one, the same God teaches His wisdom whenever and wherever required. Therefore, the same one who told earlier told again in verses. Hence, if we want to know the one who told the wisdom in the second divine scripture, we first should know the one who said the wisdom in the past. Hence it became necessary to ask the question - who warned you? If you can find out who said it in the past, you will have the opportunity to recognize who is saying it now. We encourage you to approach this scripture with the <b>belief</b> that the individual who communicated the first divine scripture is also the source of the second divine scripture.
+
+  Before reading the second divine scripture, we need to know what verses God, who told the first divine scripture, told in the Bible scripture. The Bible comprises a total of 66 chapters, of which four contain verses directly spoken by God. The other 62 chapters have verses from other gnanis. These chapters are known as 1) The Gospel of Matthew, 2) The Gospel of Mark, 3) The Gospel of Luke, and 4) The Gospel of John. These four Gospel accounts are situated in the central portion of the Bible, effectively dividing it into three main sections. The initial 39 chapters form the first part, followed by the four Gospels as the second part, with the remaining 23 chapters constituting the third part. Of particular note is the designation of these four chapters as <b>‘Gospels,’</b> emphasizing their significance as they contain the words of Jesus during His earthly life.
+
+  <b>
+  The first part of the Bible has 39 parts.
+  The second part of the Bible has 4 Gospels.
+  The third part of the Bible has 23 parts.
+  </b>
+
+  In the first and third parts, other gnanis conveyed God’s wisdom. Jesus, an incarnation of the one who delivered the first divine scripture, reiterated verses in the four Gospels. Therefore, to understand this, the question, <b>‘Who warned you to flee from the coming wrath?’</b> is posed. Hence, it can be said that this verse, placed above all others, holds great significance.
+</div></div>
+</span>`
+},
+
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 3,
+verse: `<b>The Gospel of Mathew, 3rd chapter, 11th verse.</b>`,
+meaning: ` <b>
+(11) I baptize you with water for mind change. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.
+</b>`,
+pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This verse contains the words <b>‘change of manas’</b> and <b>‘baptize,’</b> as well as ‘with water and with fire.’ To fully grasp the meaning of this verse, it’s essential to understand these four words. If any one of these words remains unclear, the essence of the verse remains elusive. So, let’s delve into the meanings of these four words. The first word is ‘change of manas. ’ Manas (mind) in our body retains and recalls what has been learned and stored. Here, ‘change of manas’ refers to the alteration of manas. Manas is responsible for remembering the events of our life. When the first manas undergoes a change and the second manas takes its place, all the memories of the first manas are erased. The second manas has no recollection of the first manas. The first manas ceases to exist with death, and the second manas emerges with birth. When the first manas is replaced by the second manas, it’s termed a ‘change of manas. ’ This natural transition of manas happens with each cycle of birth and death. Baptism is unnecessary for the ‘change of manas’ because it occurs naturally with the process of death and rebirth.
+
+  When a person dies and is reborn, they shed their old body and acquire a new one. This physical transformation that occurs is known as birth. It’s important to recognize that humans possess two distinct types of bodies: the visible (physical) and the invisible (subtle). Just as the old, visible body is replaced by a new one in the process of birth, similarly, when the unseen, subtle body undergoes a change, Hindus (Indus) refer to it as <b>‘upadesa,</b> ’ while Christians term it <b>‘baptism.</b> ’ As mentioned in this verse, baptism signifies the transformation of the unseen manas. Much like how the old manas, laden with memories, fades away in death, and a new manas emerges in birth, during baptism, the manas undergoes a profound change. It ceases to remind us of mundane, ignorant memories and begins to <b>recall wisdom and divine-related memories</b>. Baptism is the process through which an individual, guided by the teachings of a <b>Guru</b>, attains a change of manas in life. In this transformation, an ignorant manas is replaced with one that is attuned to wisdom.
+  <b>
+  Change of Manas = Turning from ignorance to wisdom.
+  Baptism = Attaining upadesa from Guru.</b>
+
+  Baptist John offered ‘upadesa’ with water, declaring, “I baptize you with water, but someone more powerful than me will come after, who will baptize you with the Holy Spirit and fire.” We’ve previously explored the concepts of ‘change of manas’ and ‘baptism’ in detail. Now, let’s delve into the meanings of ‘water’ and ‘fire (the opposite of water). ’ We obtain baptism from Guru, but there are two types of Gurus. Some possess wisdom power (Gnana Shakti), while others do not. Many Gurus commonly perform baptism or ‘upadesa’ using water. Some may use milk, both of which are visible liquids, while others use sacred ash or incense smoke as part of the process. Additionally, during ‘upadesa,’ a Guru imparts a mantra, a word, or an image, and there are numerous such ‘upadesas’ in existence, offered by various Gurus. John was one of these Gurus, and he openly admitted to his method, stating, “I baptize you with water.” However, he also foretold the arrival of someone greater, who would baptize with the Holy Spirit and fire. We’ve defined ‘baptism’ as the path to the transformation of the manas from ignorance to wisdom. When this transformation occurs through baptism, it has the power to cleanse all of a person’s sins. Guru gives the appropriate divine fire through his baptism to burn sins. Guru should possess the divinity of fire. The first verse in the chapter of ‘Atma Samyama Yoga’ in the Bhagavad-Gita, the first divine scripture, emphasizes the necessity of this divine fire, stating, ‘cha yogee cha na niragnir nachaakriyah,’ meaning <b>“One who lacks this divine fire (Gnana Shakti), and ceases to act is not a yogi (Guru).”</b>
+
+  A genuine yogi (Guru) is not one who refrains from action but is characterized by the presence of inner fire, which symbolizes <b>wisdom power.</b> This is what the verse mentioned as ‘baptism with fire.’ Here, ‘fire’ signifies the <b>divine power (Gnana Shakti),</b> which is not visible to the naked eye. When a person receives this divine fire from their Guru, it ignites a transformative power within them, capable of burning away their accumulated karma. The fire of wisdom (Gnana Shakti) bestowed upon the baptized individual begins to destroy his karma. While a guru like John administered baptism for the purpose of ‘change of manas,’ he <b>did not possess the wisdom power</b> in his baptism required to burn away karma. Thus, he stated, “I can only baptize you with water.” John explained to the people that his baptism, <b>performed with water</b>, would not burn away their karma. Instead, he anticipated that the one who would come after him would administer a baptism capable of accomplishing this.
+  <b>
+  Baptism with water = Upadesa that does not burn karma.
+  Baptism with fire = Upadesa that burns karma
+  </b>
+</div></div>
+</span>`,
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 4,
+verse: `<b>(3) The Gospel of Mathew, 3rd chapter, 12th verse.</b>`,
+meaning: `<b>
+(12) His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+  <ion-row><ion-col class="ion-text-center">
+  <img src="assets/img/chaata.png"/><br>
+  <img src="assets/img/kallam.png"/>
+  </ion-col></ion-row>
+<div class="poem"><div class="poemtext"> John, a renowned guru of his time, was the one who spoke the verse in question. During that era, he imparted ‘upadesa’ (baptism) to many people. John was a great ‘gnani (wise person)’ and had foreseen the arrival of Jesus. He baptized Jesus Christ (Bhagavan), the Son of God. He was also the guru of Jesus. Although John was a famous guru and baptized many people at that time, he was humble. Before he baptized Jesus, he showed humility by saying, “the one who comes after me is more powerful than me, whose sandals I am not worthy to carry.” When Jesus approached him for baptism, John acknowledged Jesus’s greater spiritual power, saying, <b>“You should baptize me. Are you coming to me for baptism?”</b> These words were spoken by John when he foresaw about the arrival of the Lord. The verse also contains references to <b>a winnowing tray, wheat,</b> and an <b>unquenchable fire.</b> Some might wonder about the significance of these elements since they appear commonplace. If the wheat is picked up with the winnowing tray and crushed and burned with fire, it becomes bread. We are all looking at the winnowing tray, the wheat, and the fire in the oven. Some may ask what is so great about this sentence. This verse is part of the second divine scripture, and every verse from this scripture conveys divine wisdom. When viewed with wisdom and spiritual insight, this verse holds a special meaning, emphasizing the greatness of Jesus Christ.
+
+  In ancient times, it was customary to place newborn babies on a winnowing tray (basket). As soon as a baby was born, rice would be poured into the winnowing tray, flattened, and the baby laid on it according to the custom. This practice was prevalent across all sections of society, from the poor to the wealthy, from the knowledgeable to the ignorant. The belief was that Brahma, the creator deity, would inscribe the infant’s future, often referred to as <b>‘karma writing’ or ‘Brahma Vrata,’</b> on the baby’s forehead during the two minutes they spent on the winnowing tray. Regardless of personal beliefs, John’s words, particularly in the context of Jesus, hold true. John used an analogy, comparing deeds to wheat. Wheat, as a staple food, sustains life, but it depletes as we consume it. In a similar vein, Jeevatma experiences karma in the form of deeds. As we undergo karmic experiences, the ‘karma’ of our deeds diminishes. Karma writing, also known as forehead writing or God’s judgment, signifies that the karma we experience is inscribed in our body, and our life experiences reflect this inscription. John likened the deeds influenced by our karma to wheat, and the ‘winnowing tray’ was symbolically the head where these deeds were stored. Just as we harvest grains from a winnowing tray to prepare food, our head is described as a ‘winnowing tray’ because it stores the karma we experience.
+
+  Karma is inscribed in a human being’s head without their awareness. As a result, no one can predict the future. Every human is bound by karma and cannot escape its influence. While all humans seem to be mere puppets manipulated by karma, the Holy Spirit or Paramatma remains outside the control of karma. When God chooses to incarnate as a human, He creates His own karma by writing it upon His own head, thus coming to Earth. He possesses no inherent karma but deliberately authors His own destiny to impart wisdom to humanity. Concerning God, who takes charge of His own karma, John expressed, <b>‘His winnowing tray is in His hand.’</b> No one else in the world possesses such control over their karma. In contrast to human limitations, God shapes His own karma and descends as a human being on Earth to share His wisdom. It’s essential to understand that Jesus’ life, from birth to death, was a consequence of self- constructed karma. His birth in a humble barn, his suffering, and his crucifixion were all products of his self-created destiny. No external force could bring about His birth or torment Him without His consent. He determined the course of His earthly existence, indeed holding His own winnowing tray.
+
+  All ordinary people accrue new karma for every deed they perform. Each action on Earth generates new karma. Just as smoke is closely linked to fire, karma is intrinsically associated with deeds. It is a fundamental principle of Prakruti that every action carries karmic consequences. When God incarnates and appears as the Son of God (Bhagavan), every action He undertakes also generates new karma. Ordinary individuals are unable to escape the impending karma. However, Bhagavan Jesus possesses the full fire of wisdom (Gnana Shakti), allowing Him to burn the karma naturally arising from His actions. Christ, the consummate gnani, always has full wisdom power. All karma is consumed in the unquenchable fire of wisdom. Actions are intrinsically connected to karma, much like grains are linked to chaff. John expressed this as, <b>‘He burns the chaff with unquenchable fire,’</b> signifying how Christ eradicates the karma associated with deeds through His wisdom. Jesus purifies Himself from the dust of gunas and incinerates the karma entwined with His actions. John compared Jesus’ body to a threshing floor, symbolizing His removal of the influence of gunas, just as one cleanses a threshing floor. He equated deeds to wheat, the karma originating from those deeds to chaff, and the fire that consumes the karma to an unquenchable fire. John encapsulated the greatness of Jesus in a single sentence, yet, regrettably, we have not fully grasped its significance.
+
+  The verse may appear straightforward, but it contains profound and subtle meanings. The four Gospels are rich in verses with similar depth. Due to my limited wisdom, I haven’t provided explanations for all 66 chapters of the Bible but have focused on descriptions for the crucial four Gospels, rarely touching on other sections.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 5,
+verse: `<b>(4) The Gospel of Mathew, 3rd chapter, 16th and 17th verses.</b>`,
+meaning: `
+<b>
+(16) As soon as Jesus was baptized, he went up out of the water. At that moment the sky was opened, and he saw the Spirit of God descending like a dove and alighting on him.
+<br><br>
+(17) And a voice from the sky said, “This is my Son, whom I love; with him, I am well pleased.”
+</b>
 `,
-      meaning: `<b> 
-      (10) Blessed are those who are persecuted because of righteousness (wisdom), for theirs is the kingdom of paraloka (moksha).
-  </b>`,
-      pageText: ` 
-  <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-  The verse has the word ‘righteousness.’ But it should be <b>wisdom instead of righteousness.</b> Jesus would have used the word ‘wisdom’ in the Hebrew language. But when translated into English, the translators did not write the correct word that was equivalent to the word in Hebrew and used the word righteousness instead of wisdom. Righteousness is different from wisdom. <b>Righteousness and justice are  related to worldly things. Wisdom and dharma are divine.</b> Righteousness and justice bring karma. Wisdom and dharma burn karma. Therefore, righteousness is worldly, and wisdom is divine. There is righteousness, corruption, justice, and injustice in the world. Righteousness brings good karma, and corruption causes bad karma. Similarly, justice produces good karma, and injustice creates bad karma. According to this, the above verse should have wisdom in the place of righteousness. 
-  <p>
-  Those who are persecuted for wisdom and who are persecuted for being in the wisdom path by others can be said to be blessed. Because they will get moksha for getting tortured for the sake of wisdom. Moksha means liberation from the bondage of karma. When a man attains moksha, he will not be in this world and will be in a different state than the world. The one, who has attained that state, is said to be gone to paraloka. Paraloka is a state of no experience. In some lives, there will be torture for the sake of wisdom. Do not think that there will be violence in everyone's lives for the sake of wisdom. Without any hindrance, some will know wisdom and attain moksha (paraloka). 
-  </p>
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> John baptized Jesus with water. Baptism is also referred to as ‘upadesa.’ In Telugu, ‘upadesa’ means a country adjacent to your own. In other words, it’s synonymous with a neighboring country. A neighbor resides in a neighboring country. There is a neighboring country within your body, and within that neighboring country of your body resides a neighbor. Every human has a neighboring country and a neighbor, although these entities are not visible in a human being. The Guru reveals the unseen neighboring country during baptism or ‘upadesa.’ John baptized Jesus with water, and there is no fire involved in this ‘upadesa.’ Therefore, it pertains to the name and lacks a neighboring country and neighbor. Nevertheless, the process of ‘upadesa’ must be carried out in this manner. This is why Jesus said in verse 3:15, <b>“Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b>
+
+  Although Jesus received upadesa with water, He was aware of the neighboring country within His body. He could see both the visible external world and the invisible neighboring country all the time. Therefore, it was considered genuine upadesa, even though the upadesa given by John pertained only to the name. Jesus was baptized after living thirty years as an ordinary Jeevatma. From that point on, He began to speak about divine matters in the form of wisdom not as a Jeevatma, but as Atma. To demonstrate that Jesus, as Atma, conveyed Paramatma’s wisdom, Atma descended like a dove and landed on him immediately after He emerged from the water following His baptism. Furthermore, Paramatma (the Holy Spirit) declared, <b>“This is my son, whom I love; with him, I am well pleased.”</b> The Holy Spirit (God) affirmed that Atma was His beloved Son, and He expressed His joy in His beloved Son, Jesus. By this, it becomes evident that the Holy Spirit is the Father, and Atma is the Son known as Jesus. All of this indicates that the Holy Spirit (Paramatma) did not appear as Atma but instead lived in this world as an ordinary man, appearing as a Jeevatma. I did not say this to praise Christians or promote Christianity. I am sharing with you what I believe to be the absolute truth about how God manifested on Earth.
+</div></div>
+</span>`,
+},
+
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 6,
+verse: `<b>(5)	The Gospel of Mathew, 4th chapter, 10th verse.</b> `,
+meaning: ` <b>
+(10) Jesus said to him, “Away from me, Satan! For it is written: Worship the Lord your God and serve him only.”
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> The word <b>‘Satan’</b> is introduced in this verse. In the preceding verses, Satan is occasionally referred to as a ‘tempter (shodakudu in Telugu)’ and in other instances as a ‘defamer (apavadi in Telugu). ’ The term "apavadi" means one who judges wrongly and tells lies, while "shodakudu" implies someone who seeks out evil within you and, if it exists, brings it to the surface. ‘apavadi’ or ‘shodakudu’ is referred to as Satan in this sentence. Both ‘apavadi’ and ‘shodakudu’ belong to the Telugu language, but the word ‘Satan’ is not from Telugu. The word ‘Satan’ appears frequently in this scripture. In the realm of spiritual education, ‘Satan’ is used interchangeably with <b>‘Maya.</b> ’ Since Satan and Maya are essentially the same, descriptions of Maya can also be applied to Satan.
+
+  In the first divine scripture, Maya refers to the essence of gunas within the head. Concerning Maya, the first divine scripture states, <b>‘Gunamayee mama maaya,’</b> where ‘mama maaya’ means ‘Maya is mine,’ as proclaimed by God. According to this, it is said that Maya is the combination of gunas. God is the creator of all things, including Maya, and thus, God declared that Maya is His own. Maya is of feminine gender, while God and the two souls, Atma and Jeevatma, who separated from God, are masculine (a total of three). Everything else created by God can be said to be feminine. Therefore, Maya is referred to as feminine. We should not consider Maya as being external; rather, the Maya that tempted Jesus was within His own head. Residing in His head, Maya tempted Jesus and engaged in arguments with him. Similarly, the gunas within the head of every person act as their Maya, constantly tempting and debating with them. Following Jesus’ baptism, Maya initially tempted him three times, and Jesus responded with His wisdom on all three occasions.
+
+  Jesus set an example in His life that humans should emulate. Whenever Maya tested Jesus, He responded with wisdom. Therefore, every person should learn to do the same. When Satan asked Jesus to bow down to her, Jesus gave Satan (Maya) a fitting reply. Jesus responded to Satan, saying, <b>“Worship the Lord your God, and serve Him alone.”</b> Jesus uttered these words, but it’s crucial to understand that it was the Atma within His body that spoke those words. The Holy Spirit, Paramatma, doesn’t communicate directly with anyone. Instead, He conveys His wisdom through the Atma. So, we should recognize that the wisdom was imparted by Paramatma Himself, even though it was expressed by Atma within the body. In the third and final divine scripture, in 3:7, God states, “God’s wisdom is not known to any person except God.” This emphasizes that the complete wisdom revealed by the Atma within the body is conveyed by Paramatma (God).
+
+  There are twelve major religions in the world today, and Hinduism is unique in that it encompasses all devatas not present in other religions. God created both devatas and human beings. However, humans have forsaken God and turned to the worship of devatas, without fully understanding God’s wisdom. This choice underscores that humans did not prioritize God’s teachings as found in their scriptures. Those who abandon God and worship devatas can be seen as being under the influence of Maya, heeding the words of Maya. In the grand scheme, there are essentially two sides: God’s side and Maya’s side. However, in some religions, people exclusively worship God without turning to other devatas. It’s primarily within Hinduism that worship of multiple devatas, apart from God, is more common. Consequently, it becomes evident that those who worship devatas are aligning themselves with Maya’s influence.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 7,
+verse: ` <b>(6)	The Gospel of Mathew, 5th chapter, 10th verse.</b>`,
+meaning: `<b>
+(10) Blessed are those who are persecuted because of righteousness (wisdom), for theirs is the kingdom of paraloka.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> The verse includes the word ‘righteousness,’ but it should be <b>‘wisdom’ instead of ‘righteousness.’</b> In the Hebrew language, Jesus likely used the word ‘wisdom.’ However, when translated into English, the word equivalent to the Hebrew term was not accurately represented, and ‘righteousness’ was used instead of ‘wisdom.’ It’s essential to distinguish between ‘righteousness’ and ‘wisdom.<b>’ Righteousness and justice are concepts related to worldly matters, while wisdom and dharma are of a divine nature.</b> Righteousness and justice are associated with karma, while wisdom and dharma have the power to burn karma. This distinction underscores that righteousness pertains to the material realm, while wisdom is of a divine nature. In the world, we encounter righteousness, corruption, justice, and injustice. Righteousness leads to punya (good karma), whereas corruption results in sin. Similarly, justice yields punya, while injustice gives rise to sin. In light of these differences, it’s clear that the verse in question should use ‘wisdom’ in place of ‘righteousness.’
+
+  Those who face persecution for their pursuit of wisdom and those who endure hardships on the path of wisdom can be considered blessed. This is because, through their suffering for the sake of wisdom, they can attain moksham, which signifies liberation from the bondage of karma. When a person achieves moksham, they transcend this worldly existence and enter a different state beyond the world. Such an individual is said to have entered paraloka, which is a state devoid of worldly experiences. It’s important to note that not everyone’s journey toward wisdom involves persecution or violence. Some individuals will acquire wisdom and attain moksham (paraloka) without any obstacles.
+</dv></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 8,
+verse: ` <b>(7)	The Gospel of Mathew, 5th chapter, 17th verse.</b> `,
+meaning: ` <b>
+(17)Do not think that I have come to abolish the Law (Dharma Shastra) or the Prophets; I have not come to abolish them but to fulfill them.
+</b> `,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> No one can condemn the Dharma Shastra. It cannot be condemned. It has been in existence since the dawn of creation, with numerous prophets and teachers imparting its wisdom. When Paramatma (the Supreme Being) descends to Earth as Bhagavan, He not only practices the Dharma Shastra but also makes its principles understandable to all. However, when Bhagavan, as the Son of God, reveals and practices the dharmas outlined in the Dharma Shastra, they may not appear as dharmas to some individuals. This discrepancy arises from the fact that some people mistakenly believe adharmas to be dharmas. Consequently, the true dharmas may seem like adharmas when Bhagavan imparts His teachings. This is why Jesus stated in the verse above, <b>‘Do not think that I have come to abolish the Law (Dharma Shastra) but to fulfill it.’</b>
+
+  People in the world have fallen into the influence of Maya (Satan) and have come to believe that adharmas are dharmas. Consequently, they engage in various forms of worship, thinking it to be sincere devotion. Maya has redirected people’s understanding of God towards itself, leading them to believe they are progressing towards God. In this process, it steers them to practice adharmas rather than dharmas, effectively leading them in the opposite direction of God. In such a state, even when God incarnates as a human and practices the true dharmas, those actions may appear misleading to those influenced by Maya. People may mistakenly think that what they are doing is the true dharma and that they are genuine believers. They might accuse God who has come as a human of following adharmas and may even label Him as a blasphemer. When the real God came to Earth as Jesus, what He said and practiced were indeed dharmas. However, these dharmas appeared to contradict the teachings of scholars, swamis, and gurus. This discrepancy is why the chief priests, scribes, and Caiaphas opposed and denounced Jesus. Hence, Jesus emphasized in the verse, <b>“I have not come to abolish them but to fulfill them.”</b>
+</div></div>
+</span>  `
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 1,
+pageNumber: 9,
+verse: ` <b>(8)	The Gospel of Mathew, 5th chapter, 18th verse.</b>`,
+meaning: `<b>(18) For truly I tell you, until sky and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law (Dharma Shastra) until everything is accomplished.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In this verse, the term <strong>&lsquo;Dharma Shastra&rsquo;</strong> is unique, and some may wonder what it means. To address such inquiries, it&rsquo;s essential to understand the concept of shastra (science), the various types of sciences, and the distinctiveness of Dharma Shastra within the field of sciences. First, if we grasp the meaning of the word <strong>&lsquo;shastra&rsquo;</strong>, we will understand shastra to some extent. The word &lsquo;shastra&rsquo; is derived from the Telugu word &lsquo;<strong>shasanam</strong>, &rsquo; which conveys the idea of <strong>&lsquo;must be enforced.&rsquo;</strong> Consequently, &lsquo;shastra&rsquo; implies <strong>&lsquo;whatever is stated must come to pass.&rsquo;</strong> Additionally, the term &lsquo;<strong>shapam</strong>&rsquo; is derived from &lsquo;shastra,&rsquo; and it signifies<strong> &lsquo;must be executed.&rsquo;</strong> Thus, all three words - <strong>shasanam&rsquo; (statute), &rsquo;shapam&rsquo; (curse), and &rsquo;shastra&rsquo; (science)</strong> share the same underlying meaning. Shastra is typically categorized into six distinct areas of study. Some may argue that the six sciences can be grouped into two kinds, while others propose three categories. Broadly speaking, shastras can be considered two types. In other words, we can describe shastras as threefold. If we categorize them as two types, one set is related to worldly matters, and the other pertains to matters related to Paramatma (the Supreme Being). In the threefold classification, four shastras are associated with worldly concerns, one relates solely to Paramatma, and other falls into the category of being partially related to Paramatma and partially related to worldly matters.
+
+The six shastras are as follows: 1) Mathematics, 2) Astronomy, 3) Chemistry, 4) Physics, 5) Astrology, and 6) Brahma Vidya. Of these, the first four are concerned with worldly matters, while the fifth, Astrology, has connections with both worldly concerns and the divine. Alternatively, if Astrology is also considered within the category of worldly shastras, the first five shastras are classified as worldly, while Brahma Vidya Shastra remains as the sole science related to the Divine. There are a total of six sciences, with Brahma Vidya being the most significant. This is why it is known as the Brahma Vidya shastra, with ‘Brahma’ signifying greatness. ‘Brahma’ is not a name, but a term used to denote God’s greatest and supreme nature. <b>As it is a science dedicated to the understanding of God, it is appropriately named the Brahma Vidya shastra.</b> Given that Brahma Vidya pertains to the science of God, it carries the ‘vidya’ designation. The other five worldly sciences, namely Mathematics, Astronomy, Chemistry, Physics, and Astrology, lack the <b>‘vidya’</b> suffix in their names. The term ‘vidya’ is reserved for the science related to God. Some may wonder about the reason for this distinction, and the answer is as follows.
+
+  Sciences can be divided into two types: worldly-related and Paramatma-related. The five material sciences can be fully comprehended by anyone. However, Brahma Vidya, the greatest of all, which reveals God’s dharmas, is the only one that includes the term ‘vidya’ in its name, earning it the title of the greatest Vidya shastra. The word ‘vidya’ (education) originates from the sound <b>‘vith,</b> ’ which means knowing. Vidya implies knowledge that should be acquired. A ‘vidyarthi’ (student) is someone who seeks knowledge, asking for something they do not yet possess and acquiring it from those who possess the knowledge. Students acquire essential education from knowledgeable teachers. Vidya refers to knowledge that can be known but not fully comprehended. In a similar manner, no one can claim to fully understand the subject of God. No one can assert that they possess complete knowledge of God. Learning about God is a lifelong pursuit, and people continue to gain understanding throughout their lives. There is no one who can say that this is the limit and that they know everything. Humans will always continue to learn about the matter of God, but will never know it fully. Therefore, the science of God is always referred to as Vidya shastra, and it is perpetually the Brahma Vidya shastra. In contrast, one can fully grasp the other five sciences, leaving nothing more to be known. As a result, the term ‘vidya’ is not added to their names.
+
+  The one who possesses complete knowledge of God (the Brahma) can share this wisdom with others. If an individual lacks knowledge of God’s wisdom, who else can confidently convey it? Our response to this question is as follows: Only God himself fully knows His own wisdom. Consequently, God must personally convey His wisdom. However, God does not communicate directly with anyone. Instead, God, while not appearing as God, imparts His wisdom by taking on the form of a man. It is important to note that while God may come in a human-like form, He is not a human being. In the guise of a man, God has revealed His wisdom in its entirety, presenting it as a science with prescribed principles and ordinances. Therefore, what God has revealed is referred to as the Brahma Vidya shastra. God Himself communicated the Brahma Vidya shastra, and it is incumbent upon humanity to comprehend it. When a person gains full understanding of the Brahma Vidya, they are liberated from karma and can unite with God. Consequently, individuals must persist in acquiring knowledge of God’s science until they attain moksham (liberation). Therefore, it is aptly named Brahma Vidya, as it is the highest form of education in the world.
+
+  God’s dharmas are articulated in the Brahma Vidya shastra, which is why it is referred to as the Dharma Shastra in the divine scriptures. God initially revealed His shastra with ordinances at the very dawn of creation. Subsequently, three divine scriptures emerged at different times and in distinct locations. These three divine scriptures can be regarded as the three Dharma Shastras, all of which exclusively contain dharmas. Consequently, all three Dharma Shastras share the same principles and are rooted in God’s dharmas. They are unified in their adherence to the Brahma Vidya and teach God’s dharmas. As a result, the three Dharma Shastras mutually corroborate with one another and do not contradict each other. <b>The first divine scripture is known as the Bhagavad-Gita, the second divine scripture is named the Bible, and the third divine scripture (the final divine scripture) is called the Quran.</b> While these three scriptures bear different names, they convey the dharmas of the same God.
+
+  Following the Brahma Vidya shastra, three prophets conveyed God’s wisdom, which subsequently became three distinct divine scriptures. Although these three divine scriptures are separate, they all expound on the same God’s dharmas from three different perspectives. Since the dharmas presented within these scriptures are based on science, they will be realized exactly as they have been stated, as affirmed in the verse <b>‘until sky and earth disappear.’</b> The outer world’s Sky and Earth are eternal, as God has made them so. However, the invisible counterparts of Earth and Sky within the human body are entirely perishable. Hence, the phrase ‘until sky and earth disappear’ must be understood as ‘until the human body dies (disappears).’ When an individual seeks God’s wisdom, they must adhere to all of God’s commandments (dharmas). Without wholeheartedly practicing God’s dharmas, one cannot attain paraloka. As outlined in the Dharma Shastra, moksham (liberation) can only be achieved when all the dharmas have been fulfilled. Even if a person does not practice even a little of what is outlined in the Dharma Shastra, they will not attain moksham. Instead of merely suggesting, <b>‘even if a little thing is not followed from the prescribed dharmas,’</b> it is expressed <b>as ‘not the smallest letter, not the least stroke of a pen.’</b> Therefore, it is crucial to follow every aspect of the Dharma Shastra without leaving anything overlooked. It is important to know that the letter and stroke of a pen mentioned are not related to the writing in the book.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 10,
+verse: ` <b>(9)	The Gospel of Mathew, 5th chapter, 19th verse.</b>`,
+meaning: `<b>
+(19) Therefore, anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of paraloka, but whoever practices and teaches these commands will be called great in the kingdom of paraloka. </b> `,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> While there are some fundamental dharmas outlined in the Dharma Shastra, many are interconnected with them. God’s dharmas are also referred to as <b>commandments.</b> There are primarily <b>two</b> most essential of God’s commandments, but several others are connected to them. Anyone who transgresses even the tiniest of these connected commandments and imparts such teachings is acting against righteousness. A person should not transgress any of the dharmas, whether they are minor or significant, as instructed by God. Every single dharma, no matter how small, should be diligently practiced without exception. However, some individuals, instead of adhering to even the smallest dharmas, have strayed from the path of dharmas. They have not only embraced adharmas but also spread such teachings. Despite being regarded as Gurus by society, they have failed to comprehend God’s commandments correctly. Regrettably, they have misconstrued God’s dharmas as adharmas and have become proponents of adharmas. They misguide people by imparting such teachings, asserting that they are imparting true wisdom and the genuine commandments of God. Even though they may be esteemed as great Gurus in the eyes of the world, in God’s eyes, they are considered the least.
+
+  Those who grasp the dharmas accurately impart them as dharmas to those interested, even if they are not well-known Gurus. Some individuals misinterpret God’s dharmas as adharmas and, in turn, teach these adharmas. Consequently, those who teach adharmas cannot attain the kingdom of paraloka. The ignorant will never attain the kingdom of paraloka, as it remains permanently closed to them, deeming them unworthy. Even if someone who comprehends God’s commandments from the scriptures is not considered a Guru, they will attain a significant place in paraloka when they teach the dharmas they know. Such an individual is not just known as a follower of dharmas but also holds high regard in God’s eyes. A true dharma follower is one who meticulously imparts even the smallest of God’s dharmas in great detail.
+</div></div>
+
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 1,
+pageNumber: 11,
+verse: `<b>(10)	The Gospel of Mathew, 5th chapter, 20th verse.</b> `,
+meaning: ` <b>
+      (20) For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of paraloka.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In the world, there are many Pharisees, devotees, and teachers. It is essential to possess a greater depth of wisdom than they do. God has stated that those who possess less wisdom than Pharisees, devotees, and teachers cannot enter paraloka. As the verse suggests, when you possess more wisdom than Swamis and Pharisees, who engage in yajnas (ritual sacrifices) and act contrary to what God has instructed, you will easily attain paraloka.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 12,
+verse: `<b>(11)	The Gospel of Mathew, 5th chapter, 28th verse.</b> `,
+meaning: `<b>
+(28) But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. </b>     `,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Human actions can be categorized into two distinct approaches: external actions that are observable and internal actions that occur within a person's thoughts and feelings. Both of these dimensions are present in every individual. In one approach, a person engages in actions related to their gunas with internal thoughts and emotions. In the other approach, the same actions are performed through the interaction of gunas and the physical body. The consequences of these actions result in either punya (good karma) or sin (bad karma). It is important to note that there are two types of actions: physical (visible) and non-physical (invisible). <b>When evaluating a person’s character, society often relies on their observable physical actions to determine whether they are considered good or bad. However, it becomes more challenging to make such judgments when a person’s actions are internal, involving thoughts and emotions, as they are not readily discernible.</b> It is difficult to ascertain whether a person is good or bad when we are unaware of their actions.
+
+  A person’s <b>aham</b> (the ego or sense of self), whether present in their physical actions or non-physical thoughts, plays a crucial role in the generation of karma. Sin or punya karma is received by an individual due to the presence of aham in their body. While the external organs of the body are involved in physical actions, it is the functioning of aham that influences the karmic outcome of those actions. Even when a person does not physically engage in an action, their aham, located next to buddhi (intellect), attaches karma based on what aham senses in the thoughts of buddhi when contemplation is undertaken with the influence of gunas. If aham is not active, a person will not accumulate karma, even if they are involved in physical or non-physical work. This concept is reflected in the first divine scripture, specifically in the 17th verse of Moksha Sanyasa Yoga, which states, <b>“Although a person eliminates all beings in the world without the presence of aham in their feelings, they will not incur sin for the act of killing, and they will not be considered a murderer.”</b> This emphasizes the importance of aham in determining the moral consequences of one’s actions. Jesus also conveyed a similar message when He said, <b>‘You will incur sin through your thoughts because of aham, even if you haven’t physically carried out the action.’</b> This reveals the unity in the teachings of both the first and second divine scriptures, as well as the consistency of the wisdom conveyed. A person’s actions performed without aham are considered as if they were not done, and thoughts that involve aham are treated as if the action was executed. Hence, the presence of aham within the body influences the accumulation of punya and sin by the Jeevatma. Consequently, it was stated from the outset of creation that ‘performing actions without aham is Karma Yogam,’ a concept reiterated in both the first and second divine scriptures.
+</div></div>
+</span>`
+    },
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 13,
+verse: `<b>(12)	The Gospel of Mathew, 5th chapter, 29th and 30th verses.</b>`,
+meaning: ` <b>
+(29) If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
+<br><br>
+(30) And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> Verse 29 mentions <b>‘eye,’</b> and verse 30 mentions <b>‘hand.’</b> Upon closer examination, it becomes apparent that the human body consists of two types of body parts: physical or visible and non-physical or subtle. There are a total of ten (10) physical body parts and fifteen (15) subtle body parts, bringing the combined count to 25, including Jeevatma. Each body part corresponds to a distinct function within the body. The human body possesses five gnanendriyas (sensory organs) and five karmendriyas (motor organs). These two sets of organs collectively enable physical actions. The gnanendriyas, which include the eye, ear, nose, tongue, and skin, serve as receptors that transmit external information to the inner faculties. Similarly, there are five karmendriyas- hands, legs, mouth, anus, and sexual organ. The manas (mind) then conveys this information from the senses to the buddhi (intellect). While the gnanendriyas serve to transmit external information from the surroundings into the internal faculties, the inner buddhi conveys instructions through the manas to the karmendriyas, which subsequently carry out the actions as directed by the buddhi.
+
+  Humans perform actions coordinated by the interplay of gnanendriyas (sensory organs) and karmendriyas (motor organs). Notably, the <b>eye</b> among the gnanendriyas and the <b>hand</b> among the karmendriyas hold particular importance, which is why both are mentioned in these verses. Even if the buddhi (intellect) does not direct the karmendriyas to carry out a task, sin can still be attributed to a person based on the thoughts of the buddhi when aham (ego), closely connected to the buddhi, is active. This underscores the pivotal role of the eye in potential sin. For example, when a person gazes at a woman with lustful thoughts, they may incur sin due to the influence of aham, even if they haven’t physically harmed the other person. The eye, in this manner, creates the possibility of attaching sin to an individual for actions that may never occur in the physical realm. Therefore, the verse advises us to ‘gouge the eye out and throw it away.’ However, it’s essential to note that this should not be taken literally, as physically removing one’s eye is not the intended meaning of the verse. The verse specifically mentions ‘your right eye,’ but it’s important to understand that both the right and left eye are capable of leading to similar outcomes. Sin can arise from both eyes. The mention of the right eye alone prompts contemplation about the reason behind this distinction.
+
+</div></div>
+<ion-row><ion-col class="ion-text-center">
+<img src="assets/img/gnanendriyalu.png"/>
+</ion-col></ion-row>
+
+  The human body naturally exhibits differences between its right and left sides, often associated with strength and weakness. In the mentioned verse, both right-side body parts, namely the right eye and right hand, are specified. Another essential point to consider in this verse is the statement, <b>“It is better for you to lose one part of your body than for your whole body to be thrown into hell.”</b> It's crucial to recognize that neither the eye nor the hand, as external body parts, are the direct sources of sin. The primary driver of sin is the presence of aham (ego) within the body. This perspective aligns with the teachings found in both the first and second divine scriptures. Hence, it becomes evident that external bodily components have no direct involvement in the acquisition or experience of sin. <b>It is the feeling of aham within the body that brings sin. The Jeeva residing in the body experiences the sin.</b> The responsibility for karma acquisition lies with the feeling of aham, and it is the duty of Jeeva to experience the repercussions of karma. Therefore, the external eye (gnanendriya) and hand (karmendriya) function without regard to karma.
+
+  Some may wonder why Jesus advised gouging out the eye and cutting off the hand when they are unrelated to karma. Our response is that when the eye transmits external information, it reaches the buddhi (intellect). Subsequently, the buddhi processes this information in accordance with the gunas. However, if the <b>aham (ego) is suppressed and disengaged</b> from these sensory inputs, it prevents sin and punya from manifesting in the gunas that the buddhi processes or in the sight perceived by the eye. By dissociating the inner aham from the information provided by the eye, one can effectively prevent the sin associated with the eye, akin to removing the eye itself. Similarly, when the aham is not connected to what is heard, it’s as if the ear were removed. It’s essential to recognize that sin and punya originate not only from the eyes but also from the other four senses. Given the critical role of the eye among the gnanendriyas and the natural predominance of the right eye in visual perception, Jesus emphasized ‘gouge the right eye out’ in the verse. While the verse may seem straightforward, its subtle significance should be understood.
+
+  Likewise, the mention of the right hand among the karmendriyas carries significance. Karma does not solely emanate from the right hand but also from the actions performed by other karmendriyas. Karma occurs even when the gnanendriyas do not engage in physical tasks and is generated through the functioning of the karmendriyas. When referring to the five gnanendriyas, we group the two eyes as one entity, just as both ears are counted as one. Although there are two nostrils, they are collectively treated as one nose. The remaining components consist of the skin and the tongue. Similarly, in the karmendriyas, the two hands are considered as one, and the same applies to the two legs. The remaining three are the mouth, the anus, and the sexual organ and are not in pairs. Given that the right eye and right hand are comparatively more dominant in these paired organs, the verse singles out the right eye and right hand. The right eye possesses superior vision, and the right hand is more versatile in executing tasks. In a subtler interpretation of the verse, Jesus told us to <b>suppress aham to prevent sin arising from the sight of the eye and the actions of the hand.</b> However, it’s crucial to grasp that eliminating the right eye or right hand does not halt the inflow of karma, as other bodily organs can also give rise to karma. This verse underscores the idea that aham is the fundamental source of sin, emphasizing the need to control it. The body’s organs do not generate sin, nor do the body bear the burden of sin. Instead, it’s the aham that accumulates sin within the body. Moreover, Jeevatma, a component of the body, experiences bad and good karma. The body encompasses five gnanendriyas, five karmendriyas, five vayus, five tanmatras, and five antahkaranas, with the Jeevatma being part of the antahkaranas. This sums up to a total of twenty-five components, including the Jeevatma within the body’s framework. In essence, a profound understanding of the body’s mechanisms can lead to a deeper comprehension of Jesus’ verses. A true gnani recognizes this intricate composition of the body. As a spiritualist once poetically conveyed, anyone lacking such knowledge should not be deemed a gnani.
+
+        <i>
+      Panchatatvamulanu panchikarinchaka
+      Manchi yatulamanna maatalanna
+      Kunchamandu gajamu gruddupettina chandambu
+      Akhila jivasanga aatmalinga.
+  </i>
+<b>Meaning: -</b> The term sankhya refers to the comprehensive knowledge of Pancha Bhutas, which include Sky, Air, Fire, Water, and Earth. This knowledge encompasses the understanding of how each of these elements was created, how they were divided into five distinct components, and how these twenty-five parts collectively form the various organs and components of the body, both visible and invisible. Assuming oneself to be a gnani (a knower or enlightened individual) without possessing a deep understanding of the Sankhya of the body is akin to making a false claim. It’s tantamount to asserting that an elephant laid an egg beneath a basket. In reality, even if an elephant were to be securely tethered with chains and placed beneath a basket, it would not lay eggs. Therefore, the assertion that an elephant laid eggs beneath a basket is entirely baseless. In a similar vein, it is erroneous for an individual to declare themselves a gnani when they lack knowledge of the intricate details concerning the body's organs. True wisdom requires a profound understanding of the body’s composition, including its visible and invisible parts.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 14,
+verse: `  <b>(13)	The Gospel of Mathew, 6th chapter, 3rd and 4th verses.</b>`,
+meaning: ` <b>
+(3) But when you do dharma, do not let your left hand know what your right hand is doing.
+<br><br>
+(4) So that your giving may be in secret. Then your father, who sees what is done secretly, will reward you.
+</b>`,
+pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Many preachers have misinterpreted this verse, suggesting that it pertains to donation. In certain places of worship, it is even suggested that the money given for God’s service should be so discreet that “the right hand should not know what the left hand is doing.” As a result, contributions are often hidden or wrapped in one's hand before being donated. However, it is important to clarify that this verse is not about donation; it is about dharma. There is a significant difference between dharma and donation. <b>Donation involves giving to others, while dharma refers to the principles one practices.</b> To truly understand how to practice dharma, it is essential to comprehend what these dharmas entail. In this verse, there is no mention of donation; rather, it emphasizes dharma. God’s dharmas are primarily two, as outlined in the divine scripture. The third one is physical. There are also other dharmas that are interconnected with these three primary ones. To reach God, a person primarily needs to focus on these three essential dharmas, while other dharmas revolve around aspects of God. These three core dharmas are the key practices for attaining God.
+
+  The three dharmas, Brahma, Karma, and Bhakti Yoga, are necessary to reach God. Two of them involve internal practice with feelings or thoughts, while one involves external practice. The practice of the first two dharmas is not recognizable by others. However, when it comes to the third dharma, there is a possibility of it being noticed b others. This is why, in the verse, Jesus refers to a singular ‘dharma’ rather than ‘dharmas.’ He emphasizes that one should practice a dharma that might be noticed by others with caution and in secret. He conveys this by saying, <b>“do not let your left hand know what your right hand is doing.”</b> The underlying message is that when others observe your dharma practice, they might misinterpret it or become influenced negatively. Hence, Jesus advises that when practicing dharma, it should be done discreetly and without seeking recognition from others.
+</div></div>
+</span>`
+},
+{
+  chapterName: "The Gospel Of Mathew",
+  chapterNumber: 2,
+  pageNumber: 15,
+  verse: `  <b>(14)	The Gospel of Mathew, 6th chapter, 6th verse.</b> `,
+  meaning: `<b>
+  (6) But when you pray, go into your room, close the door, and pray to your Father, who is unseen. Then your father, who sees what is done secretly, will reward you.</b>`,
+  pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When praying to God, it is essential to ensure that your prayers are filled with dharma. Mere verbal expressions without dharma do not constitute genuine prayer and won’t connect you with God. Therefore, when engaging in prayer that may be observed by others, Jesus told to go into a private room, close the door, and offer your prayers to the inner Atma, the divine presence within you. Atma, who is in the body, is the father of humans. A prayer that may be known to others should be conducted in such a way that no one is aware of it. By doing so, Atma, who is secretly in the body, shall reward you. In the first divine scripture, this practice is referred to as <b>‘Brahma (Great) Yogam.’</b>
+</div></div>
   </span>`
     },
     {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 8,
-
-      verse: ` <b> (7)	The Gospel of Mathew, 5th chapter, 17th verse.</b> `,
-      meaning: ` <b> 
-      (17) Do not think that I have come to abolish the Law (Dharma Shastra) or the Prophets; I have not come to abolish them but to fulfill them.
-      </b> `,
-
-      pageText: ` 
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      No one can condemn the Dharma Shastra. It cannot be condemnable. The Dharma Shastra was born at the beginning. Many prophets and speakers taught this. When Paramatma comes upon the earth as Bhagavan, he will practice it and make it understandable to all. When Bhagavan, the Son of God, reveals and practices the dharmas of the Dharma Shastra, they do not appear to be dharmas for some. Because some people believe that adharmas are dharmas, there is a possibility that the real dharmas appear to be adharmas when Bhagavan teaches. That is why Jesus said in verse above, <b>“Do not think that I have come to abolish the Law (Dharma Shastra) but to fulfill them.” </b>
-      <p>
-      People in the world fell into the hands of Satan (Maya) and believe adharmas are dharmas. Hence, they perform various forms of worship against God, thinking that it is sincere devotion. Satan turned the notion of God in people towards it and made them believe that they are going towards God. It made them practice adharmas instead of dharmas. Satan is leading them in the opposite direction of God. In such a state, although God comes as a man and practices the dharmas, those dharmas would appear to be misleading to them. People think that what they are doing is real dharmas and are true believers. They will accuse God, who has come as a man, of pursuing adharmas. They also advertise God as a blasphemer. When the real God came to the earth as Jesus, what he said and practiced were dharmas. But the dharmas appeared to be contrary to scholars, swamis, and gurus. That is why the chief priests, the scribes, and Caiaphas opposed and denounced Jesus. Hence, Jesus said in verse, <b>“I have not come to abolish them but to fulfill them.” </b>
-      </p>
-     
-      </span>  `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 1,
-      pageNumber: 9,
-
-      verse: ` <b>(8)	The Gospel of Mathew, 5th chapter, 18th verse.</b> 
-
-`,
-      meaning: `<b> 
-      (18) For truly I tell you, until sky and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law (Dharma Shastra) until everything is accomplished.      </b> 
-`,
-
-      pageText: `
-      
-        <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        In this verse, the word <b>‘Dharma Shastra </b>is unique. Some people may get the question of what Dharma Shastra is. Before such doubts can be answered, one should know what shastra (science) is, how many types of sciences, and the specialty of Dharma Shastra in the sciences. Let us first understand the word shastra. The word shastra is derived from <b>shasanam</b> in Telugu. Shasanam means<b> ‘must be enforced.’</b> Accordingly, shastra means <b>‘whatever said must happen.’</b> The word shapam (curse) is derived from shastra. Shapam means <b>‘must be executed.’</b> All three words -<b> shasanam, shapam, shastra </b>have the same meaning. The shastras are divided into six categories. Some say that the six sciences are two kinds, and some say three. In a way, the shastras are two kinds. In other words, we can say that the shastras are of three types. If we say shastras are two types, then one is worldly-related, and the other is Paramatma-related. If we say shastras are three types, the four shastras are worldly-related, and one is Paramatma-related. Another one is partly on Paramatma- related and partly on worldly-related. 
-        <p>
-        The six shastras are respectively 1) Mathematics 2) Astronomy 3) Chemistry 4) Physics 5) Astrology 6) Brahma Vidya. Of these, the first four are worldly-related, and the fifth Astrology is linked with the world and Paramatma. In another way, if Astrology is also included in the worldly shastras, the first five shastras will become worldly, while Brahma Vidya shastra is the only one related to the Divine. The total number of sciences is six, and the greatest of all is Brahma Vidya. That is why it is called the Brahma Vidya shastra. Brahma means great. But Brahma is not a name. God is the biggest and the greatest of all; therefore, he is called Brahma. <b>As it is a science of God, it is called Brahma Vidya shastra.</b> The other five worldly sciences, namely Mathematics, Astronomy, Chemistry, Physics, and Astrology, have only their names without the word vidya. Only in the science of God is the word <b>vidya.</b> Some may question the reason for that. The answer is as follows. 
-        </p><p>
-        Sciences are divided into two types - worldly-related and Paramatma-related. Anyone can know the five worldly sciences completely. Brahma Vidya, which is the greatest of all and reveals God’s dharmas, is the only one that has the word vidya in its name. It is called the greatest Vidya shastra. The word vidya is originated from the sound of <b>vith</b>. Vith means knowing. Vidya (education) implies something that should be known. Vidyarthi (student) means a person who wants vidya (education). A student (vidyarthi) asks for something that he does not have and gets from others who have it. The students learn the necessary education from the teachers who know. Vidya means something that will be known but not fully known. Similarly, no one can fully know the matter of God. No one can claim that they are fully aware of God’s subject. One 
-        must keep learning it for an entire lifetime. Therefore, people cannot know the complete God’s information, but they will keep learning forever. Therefore, the science of God is always said to be Vidya shastra. Therefore, it is Brahma Vidya shastra forever. Man can fully know the other five sciences. Then there is nothing to be known after that. Therefore, the word ‘vidya’ is not placed behind their names. 
-        </p><p>
-        The one who fully knows the information of God (the Brahma) can tell others. If man does not know God’s information, who can tell about it without a doubt? Our answer to this is as follows. No one except God knows God’s wisdom. Therefore, God must tell his wisdom. But God does not speak to anyone directly. Therefore, God, not as God, tells his wisdom, disguising as a man. But we cannot say that God is human. God comes like a man, but he is not a human being. God, disguised as a man, told his wisdom entirely as a science with ordinances. Thus, what God said is called Brahma Vidya shastra. God himself told Brahma Vidya shastra. Man must know it. When a man is fully aware of the Brahma Vidya, he will not have any karma and unite with God. Thus, man must keep knowing God’s science until he attains moksha. Therefore, it was named Brahma Vidya appropriately. It is called Brahma Vidya because it is the highest education in the world. 
-        </p><p>
-        God’s dharmas are stated in the Brahma Vidya shastra. Hence, Brahma Vidya shastra is called the Dharma Shastra in the divine scriptures. God said his shastra with ordinances at the very beginning of creation. Based on it, three divine scriptures were stated at three different times in three different places. Those three divine scriptures can be said three Dharma Shastras. Dharma Shastras contain only dharmas. Hence, all three Dharma Shastras have the same doctrine and God’s dharmas. All three Dharma Shastras adhere to Brahma Vidya. Therefore, the three Dharma Shastras provide testimony to each other, but not contradictory. Therefore, <b>the first divine scripture is called the Bhagavad-Gita, the second divine scripture is named the Bible, and the third divine scripture (the last divine scripture) is called the Quran.</b> Although the names of these three scriptures are different, they tell the dharmas of the same God. 
-        </p><p>
-        Following the Brahma Vidya shastra, three prophets told the wisdom, and it became three divine scriptures. Though these three divine scriptures are separate, they spoke the same God’s dharmas from three angles. Because the dharmas stated therein are scientific, everything will be fulfilled as it was said. It is said in the verse, <b>“until sky and earth disappear”. </b>The earth and the sky that appear outside are never perishable. God made them eternal. The earth and the sky that appear outside are also in the human body invisibly. But the invisible earth and sky are perishable completely. Thus, the phrase “until sky and earth disappear” must be understood as “until the human body die (disappear).” When man strives for God’s wisdom, he must obey all God’s commandments (dharmas). Unless man practices God’s dharmas entirely, he cannot get paraloka. Man can attain moksha only when he has fulfilled it according to Dharma Shastra. Even If a man does not follow little thing as said in the Dharma Shastra, he cannot obtain mukti. Instead of saying <b>“even if little thing is not followed from said dharmas,”</b> it is said, <b>“not the smallest letter, not the least 
-        stroke of a pen.”</b> According to this, everything said in the Dharma Shastra must be practiced without leaving a little thing. 
-        </p>
-        
-        </span>
-      `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-
-      chapterNumber: 2,
-
-      pageNumber: 10,
-
-      verse: ` <b>(9)	The Gospel of Mathew, 5th chapter, 19th verse.</b> 
-  
-`,
-      meaning: `<b> 
-      (19) Therefore, anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of paraloka, but whoever practices and teaches these commands will be called great in the kingdom of paraloka.
-      </b> `,
-
-      pageText: `  
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      While there are some essential dharmas in the Dharma Shastra, there are many that are linked to them. God’s dharmas are also known as the <b>commandments.</b> There are only <b>two</b> most important of God's commandments, but they are more connected to them. The one who violates the smallest of all the connected commandments and teaches is the vilest. Man should not violate whether it is small or significant dharma, which God told. He must practice even the smallest dharma without leaving. But some people, instead of practicing the smallest dharma, became spoiled. They not only became a follower of adharmas but also teaches adharmas. They earned a reputation as gurus. Although they are gurus in the world, they did not correctly understand God’s commandments. They grasped God’s dharmas as adharmas and became followers of adharmas. They mislead people by teaching those adharmas. They claim what they tell are true wisdom and true God’s dharmas. Even though they are the great gurus in the eyes of the people, they are the least in God's eyes. 
-      <p>
-      Those who understood dharmas correctly teach dharmas as dharmas to the interested people, although they are not well-known gurus. Some interpreted God’s dharmas as adharmas and teach the same adharmas. Thus, those who teach the adharmas cannot get the kingdom of paraloka. The ignorant will never gain the kingdom of paraloka. Paraloka was permanently closed for them. They are not worthy of the kingdom of paraloka. Although they gained a reputation as a great guru in the world, they will not get moksha. Although someone who understands God’s commandments from the scriptures is not a guru, he will have a great place in paraloka when he teaches dharmas known to him. Not only is such a person called the follower of dharmas, but he is also counted as high in God's eyes. The true dharma follower is the one who teaches even the smallest God’s dharma in detail. 
-      </p>       
-      </span>`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 1,
-      pageNumber: 11,
-      verse: `<b>(10)	The Gospel of Mathew, 5th chapter, 20th verse.      </b>  
-`,
-      meaning: ` <b> 
-      (20) For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of paraloka.</b>`,
-      pageText: ` 
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      There are many Pharisees, devotees, and teachers in the world. You should know more wisdom than they know. God said that those who know less wisdom than
-      Pharisees, devotees, and teachers cannot enter paraloka. According to the verse, when you know more wisdom than swamis and Pharisees who perform yajnas and act contrary to what God told, you will get paraloka easily.
-            </span> 
-`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-
-      chapterNumber: 2,
-
-      pageNumber: 12,
-
-      verse: `<b>(11)	The Gospel of Mathew, 5th chapter, 28th verse.</b>
-   `,
-      meaning: `<b> 
-      (28) But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. </b>     `,
-
-      pageText: `
-      
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      Man does deeds in two ways. One way is doing externally, and another way is doing internally without knowing anyone. The two-pronged approach is in every human. In one approach, he does gunas-related work with internal feelings or thoughts. In another way, he does the same job with gunas and the physical body. Good and bad karma comes through the deeds man does. There are, however, two kinds of deeds – physical (visible) and non-physical (invisible). <b>People judge whether a person is good or bad based on what he does with the physical body. But they cannot decide whether a person is good or bad if he does a deed internally with feelings or thoughts.</b> We cannot identify whether a person is good or bad if we do not know what he is doing. 
-      <p>
-      Man’s ego (aham), whether it be in his physical deed or his non-physical (thoughts) deed, brings forth karma. Man receives bad or good karma because of aham in the body. The external organs of the body function in the physical deed. But the good and bad karma in the act gets into man’s karma-chakra because of the functioning of the aham. Although man does not work with the physical body, when the buddhi (intellect) contemplates with the feeling of gunas, the aham which is next to buddhi attaches karma to him based on what aham senses in the thoughts of buddhi. If the aham does not function, man does not get karma, although he does physical or non-physical work. If aham works, man gets good and bad karma from the thoughts, although he does not do any physical work. Therefore, it is said in the first divine scripture, in verse 17th of Moksha Sanyasa Yogam, “<b>Although a man kills all those who are in the world without ego in his feelings, he will not get any sin in murder. He will not be counted as a murderer.”</b> As the feeling of ego is important, the murderer will not get any sin in the murder and will not be counted as a murderer if the murder is done without feeling ego. Jesus said the same thing, <b>“You will get sin from the thought because of ego even though you haven’t done the work physically.”</b> According to this, it becomes known that it is the same person who told both the first divine scripture and the second divine scripture, and the wisdom in both the scriptures is also the same. Although a man does physical work without aham in it, it would be counted as if it had not been done. Similarly, although a man thinks about the work without doing the work physically, it would be counted as if it were done because the aham is present in the thought. Thus, the ego inside the body causes bad and good karma to the Jivatma. Therefore, it was said at the beginning of the creation that ‘doing things without ego is Karma yogam.’ The same thing was said in both the first divine scripture and the second divine scriptures. 
-      </p>	    
-      </span>
-      `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-
-      chapterNumber: 2,
-
-      pageNumber: 13,
-
-      verse: `<b>(12)	The Gospel of Mathew, 5th chapter, 29th and 30th verses.</b>
- `,
-      meaning: ` <b>
-      (29) If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.      
-      <br><br>
-      (30) And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.</b>`,
-      pageText: `  
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      Verse 29 mentions <b>‘eye’,</b> and verse 30 mentions <b>‘hand’.</b> If you take a closer look at what is said here, man has two kinds of body parts: physical or visible and non- physical or subtle. There are ten (10) physical body parts and fifteen (15) subtle body parts. The total physical and subtle body parts are 25, including Jivatma. An organ that performs a distinct function in the body will be identified as a body part. There are five gnanendriyas and five karmendriyas. Two types of organs are required to do physical work. The gnanendriyas (five senses) communicate the information from outside to inside, the mind (manas) passes the same information from the senses to buddhi. Manas conveys the information from the buddhi to the external karmendriyas. The five gnanendriyas (five senses) are eye, ear, nose, tongue, and skin. The five karmendriyas are hand, leg, mouth, anus, and sexual organ. While the gnanendriyas transport external information inside, the information provided by the inner buddhi is conveyed through manas to the karmendriyas. The karmendriyas implement what the intellect (buddhi) says. 
-      <p>
-      Man can do deeds with the coordination of gnanendriyas and karmendriyas. <b>Eye</b> in gnanendriyas and <b>hand</b> in karmendriyas are important. Hence, the eye and the hand are mentioned in both the verses. Even though buddhi does not order karmendriyas to perform a task when the eye conveys the information to inside, a man may still get sin from the thought of the buddhi when aham, which is adjacent and connected to the buddhi, acts. Therefore, the eye is the primary reason for the sin. When a man sees a woman and thinks lustfully, he may become sinner from the feeling of ego, although he has not done any harm to the woman. The eye is creating the possibility of attaching sin to a man for the never-happened physical work. Hence, it is said, ‘gouge the eye out and throw it away.’ But we should not pluck the physical eye, as said in verse. The verse mentions ‘your right eye.’ It cannot be said the right eye alone causes the sin because the left eye also does the same thing that the right eye does. Sin comes from both the eyes. Hence, we need to think about why the verse mentions the right eye alone. 
-      </p>    
-      <p style="text-align:center">
-      <img src="assets/img/gnanendriyalu.png"/>
-      </p><p>    
-      The human body has two parts, right and left. It is natural to have strength on the right and weakness on the left. In the verse, both right side parts – right eye and right hand - are mentioned. There is another point to consider in this verse. <b>‘It is better for you to lose one part of your body than for your whole body to be thrown into hell,’</b> said in the verse. In fact, neither eye nor hand is responsible for the sin. The main cause of sin is the aham in the body. Both first and second divine scriptures state the same thing. Therefore, the external body parts have nothing to do with acquiring or experiencing sin. <b>It is the feeling of the aham in the body that gives the sin to a man. The Jiva in the body is the one who experiences the sin.</b> Because the feeling of ego (aham) is responsible for acquiring karma, and the Jiva is obligated to experiencing karma, the external gnanendriya eye and karmendriya hand are working without regard to karma. 
-      </p><p>
-      Some may wonder why Jesus said to gouge the eye out and cut the hand off when they are not related to karma. Our answer to this is that when your eye provides external information, it reaches buddhi. Then the buddhi thinks with gunas. But when the <b>aham is suppressed</b> and is not associated with the matter, there will not be either bad or good karma in the gunas with which buddhi thought or in the sight provided by the eye. If a man disassociates the inner ego with the information provided by the eye, he can avoid the sin of the eye as if he removed the eye. Similarly, if the aham is not associated with what is heard, it will be equal to as if the ear were removed. Good and bad karma comes not only from the eyes but also from the other four senses. As the eye is vital in gnanendriyas, and the right eye has more vision than the left eye naturally, he said ‘gouge the right eye out’ in verse. Although the verse appears to have a direct meaning, it should be understood subtly. 
-      </p><p>
-      Similarly, the right hand in the karmendriyas is mentioned. Karma comes not only from the right hand but also in the deeds done by other karmendriyas. Karma comes although the gnanendriyas do not do physical work, and it comes when the karmendriyas perform tasks. When we say gnanendriyas are five, we count the two eyes as one. Similarly, we have counted both ears as one. Although we have two nostrils, it is counted as one nose. The remaining are skin and a tongue. Similarly, in 
-      karmendriyas, two hands are counted as one and two legs as one. The remaining three are a mouth, an anus, and a sex organ. As the right eye and the right hand are stronger in the organs that are in pairs, hence the right eye and right hand are specially stated in the verse. Because the right eye has more sight, and the right hand can do more tasks. According to the subtle meaning of the verse, he told us to <b>suppress the aham to avoid sin from the sight of the eye and the deed of the hand.</b> Karma does not stop coming even if the eye is plucked out, and the hand is cut off. Other organs also cause the karma. It must be known from the verse that aham is the root cause of sin. Hence aham should be suppressed. The body organs do not bring sin. The body does not suffer sin. It is the aham that is acquiring sin in the body. Similarly, Jivatma, who is also a part of the body, experiences bad and good karma. The body has five gnanendriyas, five karmendriyas, five vayus(airs), five tanmatras, and five antahkaranams. Jivatma is also included in antahkaranams. Thus, the body has twenty-five parts (25), including Jivatma. If you know the mechanism of the body very well, you will understand these Jesus’ verses. A gnani knows that the body is divided into 25 parts. In his poem, a spiritualist said that the one who does not know this should not be called gnani. 
-      </p>
-
-            <p>
-              <i>
-              Panchatatvamulanu panchikarinchaka<br>
-      Manchi yatulamanna maatalanna<br>
-      Kunchamandu gajamu gruddupettina chandambu Akhila jivasanga aatmalinga.
-
-        </i>
-        </p>
-        <p>
-        <b>Meaning: -</b> Knowing how Pancha Bhutas - sky, air, fire, water, and earth - were created, how each one of them was divided into five parts, and how the split 25 parts combine with each other to form body parts is called Sankhya (body visible and invisible parts). If one thinks that he is gnani without knowing Sankhya of the body, it is like saying that an elephant laid an egg under the basket. Even if an elephant is tied with chains and kept under the basket, it will not lay eggs. Hence, it is false to assume that an elephant laid eggs under a basket. Similarly, it is incorrect for a person to say himself gnani when he does not know the details of the body's organs.
-
-        </p>
-      </span>`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-
-      chapterNumber: 2,
-
-      pageNumber: 14,
-
-      verse: `  <b>(13)	The Gospel of Mathew, 6th chapter, 3rd and 4th verses.</b>
-  
-  `,
-      meaning: ` <b>
-          
-      (3) But when you do dharma, do not let your left hand know what your right hand is doing.
-      
-      <br><br>
-      (4) So that your giving may be in secret. Then your father, who sees what is done in secret, will reward you.
-      </b>
-  `,
-
-      pageText: `
-      
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      Many preachers distorted the verse and said dharma as donation. It is said in some chapels that the money given for God’s service with the right hand should not be known to the left hand. Hence the gifts are wrapped in the hand and donated. The verse, in fact, says about dharma, not about donation. There is a massive difference 
-      between dharma and donation. <b>Donation means giving to others. Dharma means something one practices.</b> If you know what dharmas are, then you will know how to practice them later. In this verse, donation is not at all mentioned. It only talks about dharma. God’s dharmas are mainly two, as stated in the divine scripture. Besides, the third one is physical. Some other dharmas are linked to these three dharmas. Three essential dharmas make a man reach God, while there are some other dharmas which are about God. There are only three main dharmas that man must practice for reaching God. 
-      <br><br>
-      The three dharmas Brahma, Karma, and Bhakti yogams, are required to reach God. Two of them involve practice with internal feelings and one with external practice. Other people cannot recognize the practicing of two dharmas. But there is a possibility to recognize when the third dharma is practiced. Hence, in verse, the singular word ‘dharma’ is said but not the plural word ‘dharmas.’ Jesus said that one dharma, which is likely to be known to others, should be practiced cautiously in secret. To tell to do so, he said in verse, <b>"do not let your left hand know what your right hand is doing."</b> When others see you practice the dharma, they are more likely to get spoiled than getting better. Therefore, when you do (practice) dharma, you should do it without knowing to others, said in verse. 
-
-     
-      </span>
-`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-
-      chapterNumber: 2,
-
-      pageNumber: 15,
-
-      verse: `  <b>(14)	The Gospel of Mathew, 6th chapter, 6th verse.</b>  
-                     
-                     
-  `,
-      meaning: `<b>
-      (6) But when you pray, go into your room, close the door, and pray to your Father, who is unseen. Then your father, who sees what is done in secret, will reward you.</b>`,
-      pageText: ` 
-       
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      Humans should pray to God with dharma. Prayer must adhere to dharma. Doing prayer in the form of words from the mouth without dharma is not related to dharma and does not reach God. Therefore, when you pray with the dharma that will be known to others, you should go into the room, close the door, and pray to the secret Atma. Atma, who is in the body, is the father of humans. The prayer that will be known to others should be made without anyone knowing it. By doing so, Atma, who is in the body secretly, shall reward you. In the first divine scripture, Atma’s worship is called 
-      <b>‘Brahma Yogam.’</b>
-
-          
-      </span>
-  `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 16,
-      verse: `  <b>(15)	The Gospel of Mathew, 6th chapter, 7th and 8th verses. </b>
-          
- `,
-      meaning: `  <b>
-      (7) When you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words.
-      <br><br>
-      (8) Do not be like them, for your father knows what you need before you ask him.</b>`,
-
-      pageText: ` 
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      Many people in the society today pray with futile words rather than praying with <b>‘yogam’</b> which adhere to dharma to reach God. Because they assume that God
-will fulfill their desires if asked with a lot of words. You should not pray like them. You are not praying to unite with God. You are praying for worldly desires and benefits. Before you ask your father Atma, he knows everything. He knows what should be or should not be given to you. Therefore, it is of no use to ask about the materialistic benefits. Your father, Atma, leads you according to your karma. Therefore, Atma gives you, according to the karma you earned in the past. Whether you asked or not, Atma gives everything according to karma. Atma is the father of all humans, and the Holy Spirit, the father of Atma, is the witness of all things.
-      </span>
-         `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 17,
-      verse: ` <b>(16)	The Gospel of Mathew, 7th chapter, 13th and 14th verses.</b>
-  
-   `,
-      meaning: `  <b>
-      (13) Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it.
-      <br><br>
-      (14) But small is the gate and narrow the road that leads to life, and only a few find it.      
-      </b> `,
-      pageText: ` 
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      There are two paths in this world which has experiences. One path is Paramatma (The Holy Spirit); the other path is Maya. There are very few who seek God, but many are looking for vast Maya’s path. The gate to moksha is narrow and hard to go in the way. God’s path is narrow and there are very few who find it. 
-      <br><br>
-      The verse mentions God’s gate (entrance) and road. The first is the entrance, and the next is the path. There are only two roads for all human beings. One is narrow, and the other is wide. The gate to the narrow road is narrow, and the entrance to the broad road is wide. The entrance and the path must be a few times larger than the one who enters. Then only it is possible to enter the gate and the road. The narrow gate's size and the width of the narrow path are equal to the size of the person who enters. But in the second choice, the wide gate's size and the width of the broad road are 108 times bigger than the person who enters. In this way, there are only two paths in this world – one is 108 times wide gate, broad road, and another one is exact size gate and path. The Lord compared these two types of gates and paths to wisdom and ignorance. The path of wisdom is very narrow, and the size of the entrance is limited, and therefore, it is challenging to walk. The ignorant path is 108 times larger and is free from hindrances. The wisdom path is narrow and has obstacles, but its destination is Paramatma. Even though there are no obstacles in the wide gate and the broad ignorant path, it leads to Satan. Paramatma's path is without birth and death, without destruction, and is always in the state of no change. Satan’s path has birth, death, and destruction, and is always in the state of change. Although the Paramatma’s path is far superior, and Satan’s way is the worst, everyone walks in Satan’s road. When a person enters Satan’s path, all his associates support him and do not cause any trouble. There will be no financial difficulties. Life feels comfortable. When a person enters the wisdom path, his relatives and spouses become enemies and obstruct his path. His life will be hard. Hence, there is not even one in the millions who enter the path of wisdom. 
-      <br><br>
-      Many people are moving along the vast ignorant path, which has no hindrance and no opposition. Surprisingly, they do not even know the existence of a narrow passage that leads to moksha and the father of paraloka. Krishna said in Bhagavad- Gita that there is not even one among the thousands who wish to travel on the narrow path. If someone seldom enters, it is rare to get to the destination due to obstacles from Maya. Krishna said in the Bhagavad-Gita that the person who overcomes obstacles and attains the destination is ‘the blessed one’ and that such a person will join eternal Paramatma. Krishna and Jesus are the representatives of Paramatma. Krishna told about the paths of wisdom and ignorance in Bhagavad-Gita form at the end of Dvapara Yuga. Jesus said the same thing in the Bible after three thousand years of Kali Yuga. Those who know the paths of wisdom and ignorance told by Sri Krishna and Jesus Christ should travel towards suggested wisdom path and, despite all obstacles, continue journey, and finally attain moksha. 
-      
-      </span>`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 18,
-      verse: ` <b>(17)	The Gospel of Mathew, 7th chapter, 7th and 8th verses.</b>
-     `,
-      meaning: ` 
-      <b>
-      (7) Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.<br><br>
-      (8) For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.     
-      </b> `,
-      pageText: `  
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      There are three vital verbs – <b>ask, seek, and knock</b> – in verse. Jesus told us to do these three things spiritually. The Lord did not tell the worldly things like everyone else. Many understood this verse as worldly-related. Hence, people began to ask favors from the Lord, who said the word. Although people read the Holy Bible, Satan entered, made them not understand what Jesus said, and caused them to ask worldly favors. Man does not want to transgress God’s word. Satan uses man’s lack of understanding to make man believe that he is not violating God’s word. But, in fact, it makes man transgress God’s word. Satan, which was created by God, is also present where God is present. Wherever God’s word is, there is also the influence of Satan. Therefore, we need to understand God’s verses carefully. Ensure that Satan does not influence you in understanding the verse. 
-      <br><br>
-      We should ask for God, seek God, and knock for God. Doing so is God’s way. If you ask for anything else or seek anything else, it will be Satan’s (Maya) way. Those who enter God’s path will ask for God’s wisdom. You may have a lot of questions. How is God? How to reach God? How to know all details of God? Do not assume that no person on earth can answer these questions. God comes and gives you the answer you want when all humans on earth cannot tell God’s information because of Satan’s influence. You can get the answers to your questions but cannot know who comes and provides answers. Even though God himself is born on earth and gives us answers, we cannot recognize him as God, but we will identify him as a man. If you ask, you will get complete wisdom. If you search, you will know the God who came on the earth as a 
-      man. When God incarnates on earth, he does not claim to be God and does not tell anyone. That is his rule. According to the rule, those who do not search do not see, but the seeker will see. Since few asked for wisdom when the Lord Jesus was a man, he told them the wisdom. Because there were no seekers, he did not appear to be God to anyone. He looked like an ordinary man to everyone. All his twelve disciples understood him as a preacher. They do not know that Paramatma, who pervaded the whole universe, incarnated as Jesus. He also acted in such a way that no one recognized him as God. 
-      <br><br>
-      The king of paraloka, Paramatma, washed his disciples’ feet when he was on the earth as a man. By doing so, there was no chance for his disciples and the rest to recognize him. Unable to recognize him as the Lord, people treated him disrespectfully as if he were an ordinary man, spat on his face, put a crown of thorns on his head, beat along the way, and crucified him. When Jesus died and rose again on the third day with the same body, his disciples thought him to be a devil. This shows that his disciples were askers but not seekers. As the saying goes, <b>“seeing is greater than listening,”</b> those who saw him are higher than those who listened to his wisdom. People may have seen him directly when God of the entire world came as Jesus. But it was as if they had not seen him. In that matter, the Lord said that his disciples were blind, although they had eyes. To avoid being blind, you should start looking for God. It is said in verse that everyone who asks receives and who seeks finds. Therefore, the asker has been given God’s words, and the seeker has been given God’s image. As the spectator is greater than the listener, a person who experiences is higher than a spectator. Following that principle, he said, ‘to the one who knocks, the door will be opened.’ Knocking does not mean knocking on a neighbor's door or opposite house door. The gate of the empire of moksha must be knocked. The doors of the kingdom of paraloka must be knocked. Those who seek salvation (moksha) are united with Paramatma and experience the very essence of him. The one who is accustomed to asking and seeking will surely try to unite with God. Hence, he will indeed become the one who knocks. By asking, searching, and knocking, anyone can unite with God. Therefore, every man should have these three essential qualities that God said in the above verse. According to God’s word, the asker gets wisdom, the seeker finds Bhagavan, and the one who knocks obtains the house of moksha. 
-      </span>`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 19,
-      verse: `<b>(18)	The Gospel of Mathew, 7th chapter, 15th verse.</b>  
-    
-`,
-      meaning: ` <b>
-      (15) Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.      
-      </b>
-`, pageText: `
- 
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      Man needs guidance to reach God. Guidance must come from others. For a man to walk in God’s path, he must rely on another person. The followers on the path depend on the guide who shows the way. Because the follower must walk in the path that guide shows. The follower is dependent on the guide. If the guide shows the correct way, the follower walks correctly. The follower goes on the wrong path if the guide does not show the right direction. The goal of an ordinary man depends on the 
-guide (prophet). Once a person has been decided as guru, everyone has the habit of believing that what he says is true throughout life. Hence, you should be careful when you first choose a person as your guru (guide). Therefore, in verse above, the Lord said, <b>“Beware of the false prophets.”</b> He said that some present-day gurus are not gurus and come to you in sheep’s clothing pretending to be gurus, but inwardly they are ferocious wolves. According to Jesus’s words, many are dressing as gurus and teaching. But they are not gurus, and their way will not take you to God. They seem to be speaking about God because they use words like God, wisdom, and Atma in their teachings. The wolf is not a sheep, although it wears sheep’s skin. Similarly, they are not gurus, although they appear to be great gurus. Therefore, the Lord told us to beware of false prophets so as not to waste life by believing such prophets. 
-
-      </span>
-                                 
-`
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 20,
-      verse: `<b>(19)	The Gospel of Mathew, 7th chapter, 21st verse.</b>
-  
-  `,
-      meaning: ` <b>
-      (21) Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of paraloka, but only the one who does the will of my father who is in paraloka.      </b>
-`, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The Lord Jesus came from Paramatma. Jesus is Bhagavan wearing a body, while Paramatma, the father of paraloka, is God without a body. The God without the body is pervading the whole universe. When Bhagavan with the body was on earth in the name of Jesus, some saw the Lord's greatness and showed reverence to him for the sake of their desires. They called him ‘Lord, Lord,’ for their benefit. It is of no use to approach the Lord, who is in the seeable form, and call him great without divine wisdom. Although the one in seeable (visible) and unseeable (invisible) form is the same, there are many limitations to the one in seeable form. There are no limits to the unseeable father of paraloka. The limitless Paramatma sends a form from him to reveal his dharmas to humans. Jesus is the form sent by Paramatma. Although the Lord appeared to us as Jesus, the father of paraloka spoke those words as Jesus. God came to earth as Jesus for the proclamation of his dharmas. 
-    <br><br>
-    Whoever does not practice and does not recognize the wisdom according to the will of the father of paraloka does not get any benefit from calling Jesus “Lord.” The one who practices God's wisdom is higher than the one who utters the Lord’s name. The person who walks according to God’s commandment is the follower of God’s will. Such a person will enter paraloka (moksha). God is not pleased to flattery and does not surrender to it. God surrenders to the practitioners of his wisdom and is pleased to see them. Therefore, it is better to practice God’s words than to praise God. God knows the feelings of all. He can see the difference in the feeling of wisdom known person and wisdom unknown person. Whoever knows God’s wisdom and acts according to it is important to God. Whoever understands the wisdom differently and does not act according to the will of God cannot attain moksha. 
-    
-    </span>
-
- `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 21,
-      verse: ` <b> (20)	The Gospel of Mathew, 7th chapter, 22nd and 23rd verses. </b>  
-    `, meaning: ` <b>
-    (22) Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name and in your name drive out demons and, in your name, perform many miracles?
-    <br><br>
-    (23) Then I will tell them plainly, ‘I never knew you. Away from me, you evildoers!’     </b>                                     
-    `, pageText: `
-     
-        <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        Some people who know the greatness of the Lord (Jesus) forget Paramatma, the ruler of paraloka, and praise Jesus only. Paramatma, the father of the entire world, sent a part of him as Jesus. Jesus has as much power as Paramatma. Praising the Lord Jesus is like praising the father, Paramatma. Many people praise the Lord. But some are selfish, and some are selfless towards God. The father of paraloka proclaimed his words many times through Jesus, whom he sent. Many know the words of the Supreme father but do not know his true nature. It may be said that not even one out of millions who read the Father’s words, hear, and praise does not understand the Father’s real state. The Lord declared God’s commandments, wisdom, and words. The visible Lord (Jesus) is the symbol of the invisible God. The Lord is the image and representative of God. Whoever does not understand the wisdom and commandments from the verses cannot gain full benefit, although they praise the Lord. 
-        <br><br>
-        Humans can gain only some profit by praising the Lord as high. One need to know that the full benefit of man is to attain paraloka. The most significant benefit that a man can achieve is paraloka. It must be known that the ultimate benefit of anyone is to be released from Satan’s (Maya) world and enter God’s world. The last most significant benefit of man is to join God’s paraloka without ever coming back into this world where Satan resides. There is nothing valuable for a man than gaining access to paraloka. God's wisdom must be fully understood to gain such a huge profit and avoid Satan's relationship. Those who do not know the in-depth wisdom of Jesus’ verses and his commandment limit will only become a partial devotee but not a complete believer. Blessed is the one who applies all the wisdom that the Lord told without transcending the limits of the Lord commandments. Whoever does not know Paramatma’s wisdom entirely is not a total believer, even though such a person is a great preacher and praises the Lord. It should be noted that such a person is not being omitted. It is to say that he trusts in God but is not a complete believer. Man has some mistrust hidden in him until he knows God's wisdom entirely. While it may not be visible now, it will come out someday. Even great preachers who think they are complete devotees of the Lord will have some degree of disbelief hidden somewhere in them until they know God’s wisdom completely. Hence, the Lord said, <br>“The one who trusts me with his mind (manas) is better than the one who flatters me.”</b> To get complete faith, man requires the full wisdom of God. 
-        <br><br>
-        It can be said that those who do not know that Jesus and God are the same, and those who think that Jesus will return as Jesus do not understand the vastness of God. The one who does not know that God is eternal, that he has no beginning and end, that God has descended upon earth so many times, and that he will come whenever he needs to, is not complete gnani. One who has a perfect wisdom can recognize the coming of God. Whoever has perfect wisdom can recognize the coming of God. Whoever does not have absolute wisdom cannot recognize the coming of God. Even though God has come as a human and stood in front of a man, the man who sees only his (God’s) outward appearance and his deeds cannot recognize God. When the Lord comes in disguise, such Christians would not recognize him and be ready to baptize him. 
-        <br><br>
-        On earth, believers are better than non-believers, and absolute (complete) believers are better than believers. Only absolute believers can enter paraloka. God does not accept them until they become absolute believers. God recognizes only absolute gnanis when they enter the paraloka. God will say that I do not know of them if they are not absolute gnanis. Therefore, one must strive to become absolute gnani. Many want to get close to God and enter God’s kingdom. But because they are in Satan's kingdom (Maya), Satan tries its best not to lead them to God and not to become complete gnani. Even preachers who knew that Satan is against God do not know what Satan’s work is. Those who do not know Satan’s details are in Satan’s path and are fantasizing that they are in God’s way. That is why God said that preachers who think that they are close to God could not enter him. 
-        <br><br>
-        In verse, Jesus said, <b>“Although you drive out demons(ghosts) on my name, perform miracles and heal sick on my name, you are evildoers. Go away from me.” </b>
-        <br><br>
-        Today in society, people consider those who do miracles in the name of God as true devotees and close to God. Even those who do wonders think that they are close to the Lord. They think that they are close to the Lord because the glory of the Lord is revealed through them. When they touch a patient praising God’s word, and the patient’s sickness is forgiven, they consider that the Lord’s miracles are unveiled through them. While it is true that miracles will happen and the Lord becomes known to all through miracles, but they did not think why the Lord does not like them according to the above verse. They forgot the Lord’s words in this case. If what they are doing is good, and it is the Lord's miracle, why did the Lord scold them? Why did Jesus say that they were walking in the evil path? If the Lord says so, it would be a hundred percent truth. 
-        <br><br>
-        Unbelievable truth will be revealed when you think what the truth in the Lord’s words. It is a big mistake for a man not to realize whether the miracles done in the Lord’s name belong to God or Satan. Those who appear to be preachers and gurus in the people’s eyes think that they are in God’s path, but they are in Maya’s path. This is a very painful thing. Many preachers will get angry with my word. But remember that this is not my word, but the word of God. The Lord said in the Gospel of Mathew 7:22, <b>“This is evil. I never knew you.”</b> We need to think in what form Maya that tempted the Lord that day is tempting us today. Knowing about Maya (Satan) is also 
-        part of the divine wisdom. If we do not know Maya, we will mistakenly follow Satan, which is not God and is in God’s form, instead of following God. Many speakers, gurus, and preachers today are mistaken in the same way. The Satan (Maya), which can change many forms, is doing magic and miracles in God’s name. Those who do not know that this is not pleasing to God cannot move forward. The terrible truth is that many people on earth blindly follow Satan, assuming that it is God. They are not able to know that what they are pursuing is not God's way but Satan's. They seem to be no chance of getting out of Satan's influence. Even if God himself said this thing, they would criticize God, but they would not change. For them, Maya appears to be God, and God seems to be a man. 
-        <br><br>
-        Those who want to enter God's kingdom and have faith in God should remember the above verse and think why God hated and called those who perform miracles as evildoers. Think who is God's favorite and who is not. You need to know God’s verses, God’s wisdom, and his commandments. You should fully absorb God’s wisdom and should not cross his commandment, thinking that it is a boundary drawn around you. Remember that God’s kingdom is within the boundary, and outside the boundary is Satan’s kingdom. You should be alert to Satan, remembering the boundary that Jesus has drawn around humankind in his holy scripture. 
-
-        </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 22,
-      verse: ` <b>(21) The Gospel of Mathew, 8th chapter, 22nd verse. </b>  
-    `, meaning: ` <b>
-        
-    (22) Jesus told him, “Follow me, and let the dead bury their own dead.”     </b>                                    
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The above verse was the response from Jesus when one of the disciples said to him, “Lord, first let me go and bury my father.” What Jesus said seem to be unclear. Hence, some people wonder what Jesus said. If we think about this, humans can be divided into two types. Those who know the wisdom and practice it as yogam to get eternal life (moksha). They are rare on the earth. Those who are eligible for everlasting life will not be counted as dead. Whoever receives everlasting life will never be dead. The person can be said to have attained moksha. Those who are ignorant and those who do not practice yogam can be said dead. Such a man does not have eternal life and can be said dead. It can be said that the person gets death someday. The ignorant bury the ignorant. Therefore, Jesus said, “let the dead bury the dead.” All those that do not know wisdom are called dead in the verse, counting them as dead persons. Whoever knows the wisdom should not associate with the ignorant. Hence, Jesus said to the disciple, “You know the wisdom and follow me. Let the ignorant bury the ignorant.”
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 23,
-      verse: ` <b> (22)	The Gospel of Mathew, 9th chapter, 12th and 13th verses
-      .</b>  
-    `, meaning: ` <b>
-    (12) On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.”   <br><br>
-    (13) For I have not come to call the righteous (gnanis), but sinners.    </b>                                    
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    We already said that God would come upon the earth occasionally for establishing dharmas. Likewise, Jesus said that he came to send the ignorant into the wisdom path. He said that he came to call sinners, but not righteous. Here sinners mean the ignorant who do not know the wisdom. Similarly, the righteous means the ones who know the wisdom. God comes upon the earth in the form of a physician called a preacher to cure those who are sick with ignorance by giving them the medicine of wisdom. Those who are healthy with wisdom do not need a physician called preacher. When the ignorance disease is spread worldwide, and all men in the world are sick with ignorance, God incarnates for them, gives his medicine of dharmas, and transforms the ignorant into gnanis. If God does not become a physician, the entire world will be sick with ignorance. Hence, God incarnates and reveals his wisdom to the ignorant.
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 24,
-      verse: ` <b>(23) The Gospel of Mathew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>  
-    `, meaning: `  <b>
-    (23) Then he got into the boat and his disciples followed him.
-    <br><br>
-    (24) Suddenly a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping.
-
-    <br><br>
-    (25) The disciples went and woke him, saying, “Lord, save us! We’re going to drown!”    <br><br>
-    (26) He replied, “You of little faith, why are you so afraid?” Then he got up and rebuked the winds and the waves, and it was completely calm.    </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    This was an event occurred in Jesus’ life. There is nothing Jesus taught here, but there is so much we need to know from this event. Both the sea and the storm are related to Prakruti. Both the air in the storm and the water in the sea are parts of Prakruti. Prakruti is only controlled by Paramatma. Prakruti is composed of five parts - sky, air, fire, water, and earth. Even Atma, which has divinity after Paramatma, has no power over Prakruti. The Atma of the body has control only over the changing or Chara Prakruti, which is in the body's form. Atma has no authority over the unchanging or Achara Prakruti. Prakruti does not listen to Atma. The Prakruti that appears outside listens only to Paramatma’s word. Prakruti is composed of five bhootas. Bhoota means jiva. Since five parts of Prakruti are five jivas, five bhootas respect God’s word. They will follow what Paramatma says. 
-    <br><br>
-    Because Jesus was the Holy Spirit who looked like an ordinary man, the storm in the sea stopped in honor of Jesus' words. Only God can control Prakruti, so Jesus can be said to be God’s incarnation. It is said in the verses 7th, 8th, and 9th of Gnana Yogam of Bhagavad-Gita, the first divine scripture, that God comes upon the earth as 
-    a man and tells his wisdom. When God comes in the form of a man, he looks just like a normal man, although he is not a normal man. Because he appears to be an ordinary man, no one can identify him. If God comes as a human being, it is impossible to find him, but there are two pieces of evidence to recognize him. <b>One is that wherever the divine dharmas are taught, there may be God’s incarnation. Two is that one who commands Prakruti can be recognized as God’s incarnation.</b> When Jesus asked the sea to calm down, it calmed down; only God can do this. When dharmas are told, and Prakruti is commanded, the human form of God can be identified. Jesus taught God’s wisdom and practiced the same. He also commanded Prakruti. Therefore, Jesus can be identified as God in disguise. When the storm on the sea was rebuked, it immediately stopped and proved that Jesus was God. 
-    
-      
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 25,
-      verse: ` <b> (24)The Gospel of Mathew, 9th chapter, 6th verse.</b>  
-    `, meaning: `<b>
-    (6) I want you to know that the Son of Man has authority on earth to forgive sins. So, he said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
-    </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus himself said that the Son of Man has authority on earth to forgive sins. When a paralyzed man was brought to Jesus, Jesus said to him that your sins were forgiven. Some of the teachers of the law said to themselves that Jesus was blaspheming. Knowing their thoughts, Jesus said, “Why do you entertain evil thoughts in your hearts? Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk?’ But I want you to know that the Son of Man has authority on earth to forgive sins. So, he said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home. 
-    <br><br>
-    If this is observed, Jesus did so because the teachers of the law thought evil about him. Jesus also said that the Son of Man has authority on earth to forgive sins. Although he came to earth as the Son of God, he reduced himself and claimed to be the Son of Man. He also showed the evidence that he alone has the authority on earth to forgive sins. Whoever knows that God (The Holy Spirit) alone can forgive sins will come to know who came as Jesus. Jesus claimed to be the Son of Man so that no one recognizes him as God, although he came from the Holy Spirit. The paralyzed man got up and went home as soon as Jesus told him. When the crowd saw this, they were surprised. Although Jesus had done such a great deed, he was treated as an ordinary man and brought to court as a guilty person. Hence, human beings can be said to forget the help they received. 
-                 
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 26,
-      verse: ` <b>(25) The Gospel of Mathew, 10th chapter, 20th verse.</b>  
-    `, meaning: `<b>
-    (20) For it will not be you speaking, but the Spirit of your Father speaking through you.    </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Although the verse appears to be ordinary, it is a crucial verse. It contains the most secret wisdom in spiritual education. It should be known that the word <b>‘your Father’</b> in this verse does not refer to the father of the physical body, but it refers to the Father of non-physical Jivatma. Atma, the Father of Jivatma, lives in the body and leads the body. We should not forget that the Father of Jivatma is Atma and the Father of Atma is Paramatma. Every human being is a Jivatma. According to man’s karma, Atma controls him (Jivatma) and makes him experience karma (bad and good karma). Atma performs every function in the body and makes Jivatma experience pleasures and pain in the body. 
-    <br><br>
-    The Jiva (Jivatma) does not perform any function in the body. Even though he does not do anything, he silently experiences pleasures and sorrows in the deeds. Although Jivatma claims to be the man in the body, he is incapable and cannot do anything. But Atma does all the things that happen in the body. With Ignorance, Jivatma thinks that he is doing all the work by listening to the words of ego (aham). Although Atma is the doer in the body, Jivatma considers himself to be the doer, forgetting Atma’s presence. Jesus said the above verse so that the ignorant will know wisdom. He said, <b>“Your Father, Atma, is in you and is speaking through you. You are not speaking.”</b> Based on the verse, it becomes known that Jivatma cannot do anything and cannot speak, but Atma speaks. Jesus said that it is the utter ignorance of humans to think that they are speaking. Jivatma has not done any deed performed by ten karmendriyas. Atma does everything with organs. Knowing this truth is the best wisdom in all kinds of wisdom. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 27,
-      verse: ` <b>(26) The Gospel of Mathew, 10th chapter, 30th verse.</b>  
-    `, meaning: ` <b>
-    (30) Even the very hairs of your head are all numbered.
-    </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Man says many things to God in his mind in a temple. He thinks that God does not know what he thinks. With that feeling, he shows respect and fear in front of God in the temple, but he behaves differently after coming out of the temple. He shows devotion in the temple. But after coming out of the temple, he occupies two seats in the train for himself without letting other passengers sit. Although it is not good behavior, the reason why he is doing it so because he thinks that God knows it when he is in the temple and does not know when he is on the train. <b>He does not know that God is omniscient and omnipresent and can see mistakes done even in a deserted place.</b> Since humans assume that God does not know all, Jesus said the above verse about the glory of God. 
-    <br><br>
-    From the above verse, we understand how careful God towards humans. God established a system for human beings through which everything is realized and fulfilled. Even small calculations such as ‘karma-visarga (dividing karma into tiny parts)’ are present with God. With it, God decides how many times a person should open and close the eyelids in his life and makes sure that the count matches precisely. It is decided how many hairs should be in our head and when and what hair to fall off 
-    through karma-visarga. God subtly decides what dangers man should get and how much he should suffer from them. The Lord also said in Bhagavad-Gita that God knows everything that happened, that is happening, and that will happen on earth. From this, it becomes clear that there is nothing that God does not know. 
-    
-      </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 28,
-      verse: ` <b>(27) The Gospel of Mathew, 10th chapter, 34th, 35th and 36th verses.</b>  
-    `, meaning: `<b>
-    (34) Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.    <br><br>
-    (35) For I have come to turn “‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.    <br><br>
-    (36) A man’s enemies will be the members of his own household.
-        </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    These three verses seem to be the opposite to the world. While it may not seem fair to say that Jesus came to create conflict between humans, it is true that it is happening. Jesus did not create conflict among humans intentionally. He came to lead humans from ignorance to wisdom, but not to create conflict. He told wisdom to people with good intentions, but it is turning into a dispute among men. When cold water is sprayed on the sand, the sand is cooled, but limestones warm up more, change their appearance, and become lime. While gnanis are happy with Jesus' wisdom, conflicts are generated in the ignorant. If the husband tries to know wisdom, the wife disagrees. Similarly, if the wife decides to know the wisdom in some places, the husband does not agree. In this way, some people who are incapable of understanding Jesus’ wisdom argue with those who want to understand it. Due to this unexpected consequence, in the same house, the father becomes an enemy against the son, the mother becoming an enemy against the daughter, and the mother-in-law becoming an enemy against daughter-in-law. Although Jesus’ intention is good, it is unexpectedly making humans forget kinship and causing enmity. Therefore, if Jesus gives a flower, it becomes a thorn. If he provides a bendable stick, it becomes a stiff knife. It is not his mistake because all of this is the effect of gunas in men.   
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 29,
-      verse: `<b>(28)	The Gospel of Mathew, 10th chapter, 37th verse.</b>   
-    `, meaning: `<b>                 
-    (37) Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.    
-    </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    It is natural for parents to love their children. It is also natural for children to love their parents. There is so much love between parents and children. Parents love their offspring more than they love any other thing in the world. Similarly, the influence of gunas in the human brain is also strong. When a man shows extreme love on <b>wisdom and God,</b> he will move towards wisdom instead of material (worldly) things. If he shows more love on anything other than wisdom, he cannot move towards 
-    wisdom. There are six good and bad gunas in man. Both good and bad gunas are like golden and iron shackles, respectively. The purpose of the shackles, irrespective of the metal they are made with, is to detain a man. Likewise, both love (good guna) and jealousy (bad guna) do not lead man to wisdom. The interest in wisdom is more important than gunas. The six bad qualities (gunas) are greed (kaama), anger (krodha), selfishness (lobha), emotional attachment (moha), arrogance (mada), jealousy (matsara). Similarly, six good qualities are charity (dana), mercy (daya), unselfishness (audarya), detachment (vairagya), humility (vinaya), kindness (prema). 
-                       
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 30,
-      verse: `<b>(29)	The Gospel of Mathew, 10th chapter, 38th verse.</b>   
-    `, meaning: `<b>  
-    (38) Whoever does not take up their cross and follow me is not worthy of me.    
-    </b>                                      
-    `, pageText: `
-    
-        <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        Christians sometimes speak and hear the word cross. Every Christian wears a cross on their neck. Moreover, every Christian respects the cross. Everyone knows that Jesus was punished and died on the cross. When you think of why Christians love so much the cross, which was used as a weapon for Jesus' death, everyone follows the person more significant than them and does the same thing what he does. But no one has ever thought why the cross, which was used as a weapon in the Lord's death, should be significantly seen. Knowingly or unknowingly, the mistake happened so far. Let us have some thought about the cross and find out the details about it. 
-        <br><br>
-        In verse, Jesus warned that <b>if you take up the cross, you can walk in God’s path, and if the cross picks you up, you walk in the Satan’s way.</b> The same thing is said, “Whoever does not take up the cross and follow me is not worthy of me.” It means that whoever does not pick the cross up is not worthy of God. We should understand that the cross is Satan. To understand this point in detail, read my book <b>“Is the cross God?”</b> 
-        <br><br>
-        The cross means serpent. It is common in spirituality to compare serpent with Satan and dove with Atma. Satan (Maya) is within the body of man. Satan picked up man and is going in the ignorance path. If Satan lifts man, it means man is weak, and Satan is strong. Similarly, if man picks up the cross, it means man’s strength is greater than Satan’s. Therefore, Jesus carried the cross for some time in his life and showed. He did it like that to show that man has conquered Satan. The same Jesus ascended on the cross for some time. It indicates that the cross is carrying Jesus. It means that Satan can bring anyone into its path. Human beings should carry their cross if they want to walk in the wisdom path. Hence, in verse, Jesus said, “Whoever does not take up their cross and follow me is not worthy of me.” 
-        <br><br>
-        We show Satan in the form of a cross. The cross means a giant snake or a serpent or huge Maya. Maya leads man whatever the path Maya likes and sends man far away from God. To conquer such Satan (Maya), we must analyze Maya. If it is analyzed, the group of gunas in man's head is called Maya. Whoever walks according to gunas goes in the ignorance path. It may be said that Maya is carrying such a person with its strength. The person who conquers gunas and does not listen to them 
-        can be said to have defeated Maya (Satan). It can be said that such a person will pick Maya up with their strength and walk the wisdom path. Thus, if a person conquers the cross (Maya), take it up, and walk in the wisdom path, he shall be worthy of God’s grace. This is what Jesus said in verse. We should not assume that the cross is made of wood. It must be counted as python, which is the symbol of Satan. Elders say the cross is a symbol of Maya, and the bird is a symbol of Atma. When Jesus was baptized by John and came out of the water, it was said that the Spirit (Atma) came like a dove and entered Jesus’ body. The opponent of Atma is the cross. Therefore, in verse, Jesus said that when a person walks taking up the cross with their wisdom strength, the person is worthy of God and paraloka. 
-
-
-        </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 31,
-      verse: `<b>(30)	The Gospel of Mathew, 10th chapter, 40th verse.</b>   
-    `, meaning: ` <b>
-    (40) Anyone who welcomes (receives) you welcomes (receives) me, and anyone who welcomes (receives) me welcomes (receives) the one who sent me.     </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    While human beings are Jivatmas, Atma created them. Paramatma (the Holy Spirit) created both Atma and Prakruti. But when Paramatma comes as a man, the question is whether he should be called Atma or Jivatma. If God comes as a man, he must be counted as a Jivatma based on appearance. When human beings (Jivatmas) die, Atma includes them into him. Just as Atma includes human beings, Atma also includes God, who came as a man and appeared to be a Jivatma. The same thing is said in verse, <b>“Whoever receives you also receives me.”</b> The one who came as a human being (Jivatma) is literally God. But it was God who sent the man (Jesus). When Atma includes the man, who is like a Jivatma, it is as if God who sent the man was included into Atma. Hence, in the verse, Jesus said, <b>“The one who receives me receives the one who sent me.”</b> 
-
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 32,
-      verse: `<b>(31)	The Gospel of Mathew, 11th chapter, 9th verse.</b>   
-    `, meaning: ` <b>
-    (9) What did you go out to see? A prophet? Yes, I tell you, and (I am) more than a prophet.     </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">    
-    Prophet (pravaktha) is a preacher of wisdom that no one will tell. In Telugu, <b>‘Pra’</b> means important, and <b>‘Vaktha’</b> means the one who speaks. The one who tells crucial wisdom is called a prophet. But Jesus said that he is more than a prophet. Only one person is more than a prophet and tells wisdom greater than a prophet’s wisdom. <b>“God did not pass his wisdom upon any human being. God’s wisdom is unknown to any human being except God.”</b> Therefore, In the last divine scripture, it was said in verse 3:7 that God must tell God’s wisdom. Based on this, although God comes as a prophet and tells wisdom, he is more than a prophet. “<b>God does not speak directly to humans,”</b> said in 42:51 of the last divine scripture. But God can come and speak as a man in disguise. Whenever God comes as a man, he is more than a prophet, even if he is said to be a prophet. According to what Jesus said in this 
-verse, it becomes known that Jesus is greater than prophets and is God’s incarnation. On many occasions, Jesus said who he was, but people could not recognize him. 
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 33,
-      verse: `<b>(32)	The Gospel of Mathew, 11th chapter, 28th verse.</b>   
-    `, meaning: ` <b>
-    (28) Come to me, all you who are weary and burdened, and I will give you rest.     </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Everyone knows that only when people carry weight, they get weary. But human beings are getting tired even though they do not carry any weight. The invisible burden is sin (karma). Everyone who experiences karma somehow gets weary. Human beings always experience karma. They do not experience karma only during sleep. Even in a dream, they keep experiencing karma somehow. It means they are always laboring. Since everyone is suffering from karma, Jesus said to all the people, <b>“Come to me. I will give you rest.” </b>
-    <br><br>
-    The question is how we can get rest when we go to Jesus as we always keep experiencing karma. Our answer to this is as follows. When Jesus teaches divine wisdom to the people who come to him, the karma of all who know the wisdom is burned in the gnanagni. When karma is destroyed, people escape from the experience of karma, the labor of suffering is reduced, and they will get rest. As this is good for all people irrespective of caste and religion, Jesus said, <b>“All come to me.”</b> Many people, in this case, call Jesus Christian guru and Christian prophet. If he had called only Christians, there was a possibility to label him a Christian teacher. He called not only Christians but for all the people. Therefore, it is unjust to call Jesus a Christian. Those who believed his word and went to him should not be labeled Christians. God and God’s wisdom is necessary for all; hence Jesus said,<b> “All come to me.”</b> 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 34,
-      verse: ` <b>(33)	The Gospel of Mathew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b> 
-    `, meaning: ` <b>
-    (17) This was to fulfill what was spoken through the prophet Isaiah.    <br><br>
-    (18) Here is my servant whom I have chosen, the one I love, in whom I delight; I will put my Spirit on him.        <br><br>
-    (19) He will proclaim justice (wisdom) to the nations; He will not quarrel or cry out; no one will hear his voice in the streets.         <br><br>
-    (20) A bruised reed he will not break, and a smoldering wick he will not snuff out, till he has brought justice (wisdom) through to victory.        <br><br>
-    (21) In his name the nations will put their hope.    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    About 350 years ago, a great man named Veerabrahmam foretold the events that would take place and the natural disasters that were about to take place. Similarly, a great man named Isaiah foretold the coming of Jesus. The same thing is said in the above verses. If we look at Isaiah's words in detail, the greatness in Isaiah's words will become known to all. It becomes known whom Isaiah was talking about. Isaiah lived many years ago before Jesus was born. Isaiah told a few more things in the 13th chapter. Looking at these verses here, it becomes known that God, the Holy Spirit, was speaking of Jesus. Looking at the verses Jesus said about himself in the scripture and the verses that the Holy Spirit said about Jesus, it becomes known that the one (the Holy Spirit) who spoke about Jesus and Jesus are the same. 
-    <br><br>
-    <b>“Here is my servant,”</b> said in the first verse. There are many types of worldly services. But here, materialistic service is not mentioned. The verse says about the service of Paramatma. There is only one Paramatma’s service. <b>The real Paramatma’s service is to preach and spread God’s wisdom to others.</b> Because Jesus was spreading God’s wisdom, the Holy Spirit said, ‘Here is my servant.’ Whoever propagates God’s wisdom, the person will become <b>the most favorite</b> to God. Hence, Paramatma said about Jesus, <b>“I love him and am delighted in him.”</b> It is said in <b>15:28, 29 and 30 of the final divine scripture</b> that the Holy Spirit creates a human being with clay and breath his soul (the Holy Spirit’s soul) into him, then angels recognize the human being as God and prostrate to him. Therefore, Isaiah said in his words, “The Holy Spirit will put his spirit upon him.” According to this verse, it becomes known that Jesus, who is in the human incarnation, is Paramatma’s soul. 
-    <br><br>
-    “He will proclaim <b>justice</b> to the nations,” said in 19th verse. It seems that those who translated the Bible into English did not use the correct word. It is supposed to be written as <b>wisdom</b> instead of <b>justice</b>. Justice is related to the material world. Therefore, the term justice should not be used. <b>While righteousness and justice are related to the worldly things, wisdom (gnana) and dharma are associated with Paramatma.</b> Using righteousness and justice instead of wisdom seems to be a translation error. In this way, there were many translation errors. They were revised and written. 
-    <br><br>
-    “He will proclaim justice to the nations,” said in 19th verse. Here proclaim means preach (teach). The verse should be amended and read as <b>“He will spread wisdom to the nations.” </b>After 30 years of life, Jesus taught his wisdom for about two years and three months; hence this verse said about Jesus. He unselfishly preached his wisdom in many places. He also cured many people who came to him with different kinds of diseases. He gave sight to the blind and the walk to the lame man. He healed leprosy patients and raised the dead. Then some accused Jesus of a wizard and blamed him that he was doing things contrary to God. Even then, he did not quarrel or scream at anyone. Hence it is said, <b>“He will not quarrel or cry out.” </b>
-    <br><br>
-    Jesus told his wisdom to the people who came to him, but he did not shout in the streets. Hence it is said in verse, “no one will hear his voice in the streets.” The verse also says that he will not break a bruised reed because he did not do anything 
-    other than spreading the wisdom. Moreover, he makes sure that the gnanagni after started in a person is not extinguished until it burns all the karma of the person. Since karma is many kinds, it is compared to wick, which is comprised of many strands. Hence, <b>“He will not snuff out a smoldering wick,”</b> said in the verse. Some are waiting for his wisdom, hence said, <b>“In his name, the nations will put their hope.” </b>
-
-
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 35,
-      verse: `<b>(34)	The Gospel of Mathew, 12th chapter, 31st verse.</b>   
-    `, meaning: `<b>
-    (31) So, I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit (Atma) will not be forgiven.    </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    This verse is more important than the rest in this scripture. If human beings know God’s wisdom, that wisdom becomes fire (gnanagni), and that fire burns their many kinds of sins (karma). It is possible that humans can avoid any sin that is not related to Atma by knowing divine wisdom. But even the gnanagni cannot burn any sin that comes because of blasphemy and actions done against Atma. It means it will not be forgiven.
-  
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 36,
-      verse: `<b>(35)	The Gospel of Mathew, 12th chapter, 32nd verse.</b>   
-    `, meaning: `<b>
-    (32) Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age (yuga) or in the age (yuga) to come.     </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    All human beings can be said to be the sons of man. All ordinary people say that their parents are human. But Jesus, who looks like an ordinary man, should not be said the son of man. When Jesus spoke of his father, he said that his father was in paraloka. He did not tell that his father was a man on the earth (ihaloka). Therefore, Jesus can be said the son of God. According to this, all people are the son of man. Although Jesus appeared with name and experiences of an ordinary man, he should be called the Son of God. 
-    <br><br>
-    The seed donor to the ordinary person is not a human. Any man claiming to have children is not actually a father. Atma, who is the head of the body and does everything in the body, is the seed donor for humans and all living beings. But humans do not know this. Hence, a man claims to be the father of another human. But a man cannot do any work in the body. It is said many times in the first and second divine scriptures that Atma is doing all things. It can be said that a person himself did not commit any sin, because he cannot do anything. However, because he thinks that he has done everything, the sin resulting from the action goes into his (Jivatma’s) account. In this way, a person himself is becoming responsible for the sin 
-    he did not commit. Similarly, although Atma is the father of a man, man is considered as the son of a human being when he says his father is a man. 
-    <br><br>
-    Jesus, in fact, know that his father is paraloka Father. He was not born of Atma like everyone else. He knows that he was the Son of God, the Holy Spirit. In the Bible scripture, Jesus is referred to as the Son of God because he said in many instances that his Father was the Holy Spirit. God’s wisdom forgives the sin of the abuse against the ordinary man. But the sin of the blasphemy against the Son of God will never be forgiven. The sin of blasphemy must be experienced for <b>two yugas</b> - in this yuga and the next yuga. 
-      
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 37,
-      verse: `<b>(36)	The Gospel of Mathew, 12th chapter, 36th and 37th verses.</b>   
-    `, meaning: ` <b>
-    (36) But I tell you that everyone will have to give account on the day of judgment for every empty word they have spoken.
-    <br><br>
-    (37) For by your words you will be acquitted, and by your words you will be condemned.     </b>                                    
-    `, pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Man does many things since born. Also, man must speak many words. Man thinks that he has done every small deed or spoken every little word, but he has not done anything. Atma in the body does everything. Yet the man who does not know this is assuming that he is speaking every word and doing everything. If there is any karma in the deed or spoken word, it will reach the man. Thus, all the karma that occurred in life is stored by Atma in the karma chakra. The karma that is earned in the life of a man on the day of death is enquired. Then Atma gives judgment for the karma in every deed the man did and every word the man spoke. On the judgment day, Atma counts bad (paapa karma) and good (punya karma) karma in every word the man spoke. Atma also considers whether a man is gnani or ignorant. The man is judged according to every bad and good karma. A person is considered gnani if he acquires wisdom in his life. Similarly, the person is counted as ignorant if he performs deeds with ignorance. Atma determines whether a man is gnani or ignorant and decides his next life accordingly. The Holy Spirit does not judge a man according to the karma. Atma, which does everything in the body, judges the man <b>on the day of death (judgment day) </b>and sends Jiva to the next life. The day of death is also called ‘judgment day.’ The day of death can be said to be the final day and can also be called the first day of the next life (birthday). Atma is the boss for the last day of life and the first day of life. One should know that the Holy Spirit does not do anything. The last day can be said to be the day of the counting of karma. Atma is the one who performs all the functions of the body. If a man, knowing this, thinks that he has not done anything, he is neither considered as a sinner nor a virtuous (punyatma) person. One should know that Atma determines the karmas in the man’s deeds and sends him to the next birth. Based on his feeling, a person is judged gnani or agnani and punyatma or sinner. 
-   
-</span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 38,
-      verse: `<b>(37)	The Gospel of Mathew, 12th chapter, 40th verse.</b>   
-    `, meaning: ` <b>
-    (40) For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth.     </b>                                     
-    `, pageText: `< 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    This verse compares what had happened before Jesus and what would happen. According to verse, when a giant fish swallowed Jonah, he lived three days and three nights in the belly of the fish. “Jesus will be three days and three nights in the heart of the earth,” also said in verse. Although Jonah living three days and three nights in the belly of the fish is true, it is false saying that Jesus, Son of Man, lived three days and three nights in the heart of the earth. According to history, Jesus died on the cross Friday evening. He came out of the tomb before Sunday early morning. Putting it all together, Jesus may have died on the cross between 3:30 p.m. to 4 p.m. on Friday. After his death, his body was put in a tomb on Friday evening. According to this, it becomes known that Jesus was not in the tomb on Friday daytime. It can be said that he was in the tomb on Friday night. He was in the tomb on the entire Saturday. It was said that he came out of the tomb at dawn on Sunday. So, Jesus was in the tomb on Friday night and the entire Saturday and came out of the tomb before Sunday morning. 
-    <br><br>
-    According to this, Jesus was underground for only two nights and a day. Therefore, this verse in the scripture appears false. The verse of the divine scripture is never wrong. Others asked whether this verse is false. It also appeared incorrect to me. I told them that this verse is true, and I had to answer what others asked. As I always remember what is said in Mathew 10:20, <b>“For it will not be you speaking, but the Spirit of your Father speaking through you,”</b> I thought why I should be afraid of answering. Atma is the one who asks the question, and Atma is the one who answers the question. We (Jivas) are the one who need to listen and understand what Atma says. 
-    <br><br>
-    The one who is said to be the Son of Man is truly the Son of God. Although we say that Jesus is the Son of God, he is, in fact, not anyone's son but God. I say this because I am completely aware that he is God. The body-worn by God has death, but God has no death. Death is of four types. Everyone knows that death is of only one kind, but the gnanis know that death is of four types. They are 1) Natural death, 2) Un-natural death, 3) Temporary death, 4) Last death. Of these four deaths, the death that comes when God is born as a human and man attains Moksha and unite with God is the last death. Everyone says that Jesus died on the cross. However, no one knows which out of the four deaths he received. 
-    <br><br>
-    Here the verse said that Jesus had been in the heart of the earth for three nights and three days but did not say he was dead. When Jesus was crucified, everyone said that he died on the cross, but Jesus said after coming out of the tomb on Sunday morning that he did not die. When his disciples did not believe him, he showed markings of nails on wrists and feet and spear onto his side. It becomes clear to us that he did not die. But it was also real that his body was brought down and put 
-    in a tomb after Jesus died on Friday evening. Although he died on Friday, why he appeared on Sunday as if he did not die? Although the 40th verse says, <b>“He will be three days and three nights in the heart of the earth,”</b> he was, in fact, in the tomb for only two nights and a day. When asked what the reason behind such an obvious lie is, it becomes known that both are true. Let us see how truth is hidden in the glaring falsehood. 
-    <br><br>
-    It is real that Jesus died on the cross, but no one knew that it was <b>temporary death.</b> Jesus got a temporary death out of four kinds of deaths, got up again early Sunday morning from temporary death, and told his disciples that he was not dead. If he had got ‘natural death’, he would not get up again. However, he got up on the third day because he got ‘temporary death.’ Therefore, Jesus died on the cross is an illusion but not real. Similarly, the verse that says that Jesus was in the tomb for three days is entirely true, but we need to know a lot from it. 
-    <br><br>
-    Jesus is living in the body as Jivatma. Likewise, Atma, who is the father of all, dwells in the body. While Jivatma experiences karma in every human body, Atma performs the necessary functions according to karma. Atma is spread in every corner of the body while Jivatma is inside the head. Atma moves the body with the ten body parts. If the body moves, we assume that man is alive. We assume that man is dead when his ten parts and organs do not work and no breathing in the body. Both Atma and Jivatma move out of the body in man’s natural death. Then the body is immobilized due to the absence of Atma. 
-    <br><br>
-    In the temporary death, neither Atma nor Jivatma leaves the body. Atma shrinks from the outer edges to a tiny size and enters the head like Jivatma. None of the organs in the body functions as Atma does not work. Breathing also stops. Everyone thinks that the man is dead because the external and internal organs in the body cease to work. If at any time, Atma comes out and starts working as usual, the man can be said to be resurrected. The same thing happened in the case of Jesus. When Jesus was put on the cross, Atma shrank in his body. It stayed that way in the body on Friday night and the entire Saturday. Atma came back to normal on Sunday, early morning, and came alive out of the tomb. Atma <b>died temporarily</b> for only two nights and a day. While the Atma in Jesus’ body is in the tomb for two nights and a day, it is also true to say that Jesus (Jivatma) in the body is in the tomb for three nights and three days. A process unknown to us took place in Jesus’ body. Let us see what it was. 
-    <br><br>
-    While it can be said that Jesus was resurrected because of what Atma did in his body, but the Jivatma had been buried in the body even before the Atma died on the cross. The connection between Jivatma and buddhi was severed in Jesus’s body after knowing that he would be arrested on Thursday. Jesus got into a state of unknown. Jesus did not know that he was arrested, taken to court, flogged, and crucified. He was buried in his body tomb. He was not aware of anything for three days as if he were buried in a grave. Even though Jesus did not know anything, Atma performed all 
-    functions in the body. But Jesus did not know what was happening. Jesus’ Atma sent Jesus into an unknown state so that Jesus would not experience anything. Jesus went into an unknown state like sleep; hence he did not experience any pain associated with being flogged and crucified. Thus, the Jivatma, buried in the body, did not come to his senses until Atma woke him up on Sunday morning. Hence, “Jesus was in the tomb for three days and three nights,” said in the verse. People knew that Jesus’ body went into the tomb. But the Jivatma in his body had gone into a state of the unknown before that. After that, Jesus’ Atma went into temporary death on Friday evening. But the people, who could only see visible things, did not know the workings of Atma and Jivatma in Jesus’ body. It is real that Jesus went into the grave for three days and three nights, and the Atma went into the grave for two nights and a day. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 39,
-      verse: `<b>(38)	The Gospel of Mathew, 13th chapter, 13th, 14th and 15th verses.</b>   
-    `, meaning: `<b>
-    (13) Though seeing, they do not see; though hearing, they do not hear or understand.
-    <br><br> (14) In them is fulfilled the prophecy of Isaiah: You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
-    <br><br> (15) For this people’s heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise, they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.
-    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The prophet Isaiah foretold this long time ago. Ignorant people existed that day and today. They see with eyes, hear with ears, and divert the mind (manas) even after grasping with buddhi. Because of their lack of interest in what they saw, heard, and knew, their buddhi slowed down so as not to destroy their karma by Jesus. Their ears became deaf to divine wisdom. They listen to everything that is told but do not grasp what is heard and become involved in material things. They cannot see anything except money. For them, those who know wisdom appear foolish.
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 40,
-      verse: `<b>(39)	The Gospel of Mathew, 15th chapter, 7th, 8th and 9th verses.</b>   
-    `, meaning: `<b>
-    (7) You hypocrites! Isaiah was right when he prophesied about you.<br><br>
-    (8) These people honor me with their lips, but their hearts are far from me. 
-    <br><br>(9) They worship me in vain; their teachings are merely human rules.    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      
-    We many times said, “God knows the matter of God; humans do not know.” God can say about God. Humans will come to know when God tells how to worship 
-    God. While God foretold how he should be worshiped, many tell other ways different from what God said. Many swamis and gurus are teaching the people human-created rules like upadesas and other worshiping methods. God himself is revealing that ‘such upadesas and worships are futile’ and cannot bring humans close to him. Many swamis and gurus speak of God in their speeches and preach anti-God, God- unspoken worships and upadesas. Even though such gurus and swamis say about God and wisdom, they do futile worships without knowing divine wisdom and make others do the same. For example, God’s worship has nothing to do with fasting. They are not only suffering because of fasting, but they are also bothering God inside. That is how they are harming the God inside. Similarly, <b>“You cannot know and reach me by studying the Vedas, by donations, by performing sacrifices and yagnas,”</b> said in Bhagavad-Gita five thousand years ago. In Bhagavad-Gita, God said that many people highly honor me but worship me in vain in the adharma manner. Now in the holy scripture, the Lord said the same thing. 
-    <br><br>
-    Words come through the mouth. Feelings come from the heart. Though words of mouth speak great about God, the heart's feelings should not be against God. Although many people’s words on earth today magnify God, they do not have God’s dharmas in their hearts. Maya’s dharmas took place in their heart. They speak about God, but what they do under the influence of Maya is anti-God worships. Many gurus named God’s wisdom for what they say, and but the worships they are performing, God said, will not unite them with God. It is also warned in Gita that those worships are on the wrong path. However, famous Peetadipatis are performing futile yagnas, donations, fasting, Vedic chanting, and penance. In the Holy Bible and the Bhagavad- Gita, God made known that those who did such things are far from me. Therefore, from now on, let us not only glorify God in our words but also follow what God said, leaving behind futile and anti-God worships. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 41,
-      verse: `<b> (40)	The Gospel of Mathew, 15th chapter, 11th verse.</b>   
-    `, meaning: ` <b>                            
-    (11) What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.    </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Man eats food through the mouth. Man’s food is of many types, not just one. Some are vegetarians and others non-vegetarians. Some swamis and gurus say that those who want to know God’s wisdom should be vegetarians and not eat meat. Here the Lord said, <b>“What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”</b> Some people have different opinions about food. If you want to follow the divine wisdom path, some say not to eat mainly non-vegetarian food, and some say to eat only uncooked raw food. Some others say that the vegetarian diet should be eaten only one meal a day and not eat any other food. Some people have this kind of diet restriction. Whatever food we eat is related to body health and sickness, but not related to sanctity and uncleanness. Any food taken by a man does make him neither holy nor unclean. The food that the man eats will not become an obstacle to divine wisdom. Man eats with his mouth and speaks with his 
-mouth. What is noteworthy here is that there is no problem with the food going through the mouth, but only the words that come out of the mouth defile the man. Although man acts and speaks, his nature is exposed by words. <b>Elders’ opinion is that the one who knows divine wisdom is holy, and the one who does not know wisdom is unclean.</b> A man who has wisdom can be said to be clean based on what he speaks. Similarly, ignorance is exposed in words of a man who does not know wisdom. A man’s defilement will be exposed based on what he speaks; hence Jesus said the above verse. According to the Bible and the Bhagavad-Gita, food does not defile a man. One’s karma provides his food. The one who is in the wisdom path does not have any dietary restrictions. It does not matter to God whatever food is taken according to your habit. 
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 42,
-      verse: `<b> (41)	The Gospel of Mathew, 15th chapter, 12th and 13th verses.</b>   
-    `, meaning: `<b>
-    (12) Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”    <br><br>
-    (13) He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.”
-    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When the Lord said that man is not defiled by food and can take any food and travel in God’s path, the Pharisees objected. Pharisees said what Jesus told was not divine wisdom and rejected the Lord’s words. They said the Lord was teaching ignorance and questioned who gave him the authority to do so. They also said that they have the authority to teach about God. They claimed to be great teachers and said that the Lord does not have the authority to teach about God. When the disciples told Jesus about this, he replied, <b>“Every plant that my heavenly Father has not planted will be pulled up by the roots.” </b>
-    <br><br>
-    The Paraloka Father, Paramatma, established his dharmas. His established dharmas are occasionally weakened on the earth, but they do not perish. When there is a weakness in dharmas, Paramatma incarnates as Bhagavan and strengthens his dharmas. When dharmas are diminished, adharmas will also spread everywhere. Dharmas belong to God, and adharmas belong to Satan. Paramatma plants dharmas, and Satan plants adharmas. After Paramatma himself incarnates on earth and teaches his dharmas, Satan manifests in the form of scholars, Pharisees, teachers, and swamis. Satan teaches humans its dharmas, convincing its dharmas as God’s dharmas. Satan’s (Maya) dharmas occasionally weaken Paramatma’s dharmas. Some may ask if God’s dharmas are so powerful, why Maya’s dharmas weaken them. The answer is that Paramatma is born as Bhagavan in one place and propagates his dharmas. Even if the dharmas get strength at that time, they will weaken after a few thousand years. The reason for this is that if God came once as Bhagavan, he would return only when needed. Unlike God, Maya creates gurus and swamis always, convince them its wisdom is God’s wisdom, and propagates its dharmas through them. 
-    <br><br>
-    People are attracted to the swamis, gurus, and babas who always exist under Maya's influence than the unidentified Bhagavan who comes once in a thousand years. God comes in one place at a time, but Satan will be born in many places in many forms (swamis, gurus, and babas) and reduces God’s dharmas. When the weeds are so many in the field, the trees planted by the farmer will wane. Then the farmer himself plows the weeds, including roots, to strengthen the tree he has sown. After some time, many weeds will grow again without anyone sowing them. Paramatma, like a farmer, planted his dharmas. Satan makes weeds (adharmas) grow around God’s plant (dharmas). Naturally, God’s plant is weakened by the influence of Maya’s weeds. At such a time, God comes and <b>plucks out many of Maya’s dharmas</b> surrounding his dharma. That is why Jesus said the above verse. God destroys Satan’s dharmas that are undermining his dharmas and strengthens his dharmas. 
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 43,
-      verse: `<b> (42) The Gospel of Mathew, 15th chapter, 14th verse
-      .</b>   
-    `, meaning: `<b> 
-    (14) Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit.       </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Humans who are under the influence of Maya and Pandits and Pharisees, who are part of Maya, criticized Bhagavan Jesus. They do not know God's wisdom. They do not have gnana drushti. They are blind without gnana drushti. How can those who do not know God’s wisdom tell others God’s wisdom? They pretend to have gnana drushti and spread God’s wisdom as if they knew wisdom. People believe in such preachers and receive guidance from them, assuming they know complete God’s wisdom. They follow them with confidence that there is one who will guide them. But the people do not know that even the one they are holding is blind, like them. Assume that a blind person is holding the hands of other blind people and tells them that he has eyes to show them the way. The blind person leading other blind persons falls into the pit first if there are any pits along the way. Then the others fall upon him. Similarly, those who do not know God’s wisdom will ridicule the gnanis, claiming to be great gurus. Those who know wisdom need not argue with them. Those who do not have gnana drushti cannot climb the peak of moksha. Although many people follow a guru who does not have gnana drushti, none of them attain moksha. But they will fall into the<b> pit of gunas. </b>
-  
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 44,
-      verse: ` <b> (43) The Gospel of Mathew, 16th chapter, 21st and 22nd verses.<br>
-      The Gospel of Mathew, 17th chapter, verses 22nd and 23rd verses.
-      <br>
-      The Gospel of Mathew, 20th chapter, verses 17th, 18th and 19th verses.</b>   
-    `, meaning: ` <b> 
-    (16:21) From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief 
-priests, and the teachers of the law, and that he must be killed and on the third day be raised to life. (First time) <br><br>
-(16:22) Peter took him aside and began to rebuke him. “Never, Lord!” he said. “This shall never happen to you!” <br><br>
-(17:22) When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men.” <br><br>
-(17:23) They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief. (Second time) <br><br>
-(20:17) Now Jesus was going up to Jerusalem. On the way, he took the Twelve aside and said to them. <br><br>
-(20:18) We are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death. <br><br>
-(20:19) They will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!” (Third time) 
-    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus foretold his future in chapters 16, 17, and 20 of the Gospel of Mathew. Ordinary humans cannot tell when they will die. The future is dark, and no one knows what would happen. Jesus foretold his death to prove to the ignorant that he was not an ordinary man and has something special in him. Not once, but three times he mentioned his death. That is not possible for anyone. Jesus could speak about it because he had predetermined his death. Atma is the only one who determines the karma of life in the body. 
-    <br><br>
-    Jesus said about his death three times. He foretold it because he predetermined his karma. Atma is the judge of the karma and is the Son of Paramatma. Jesus said many times that his father was the Holy Spirit, so Jesus is the Atma who determines the karma. So, he decided his karma for his life. According to predetermined karma, he said that he would suffer at the elders' hands and the chief priests, killed in their hands, and raised to life on the third day. It happened exactly as he said. Without worry, he said that he would be condemned to death. By doing so, every intelligent person will realize that Jesus is no ordinary man and that he has something special. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 45,
-      verse: `<b>(44)	The Gospel of Mathew, 19th chapter, 23rd and 24th verses.</b>   
-    `, meaning: ` <b> 
-        
-    (23) Then Jesus said to his disciples, “Truly I tell you, it is hard for someone who is rich to enter the kingdom of paraloka.     <br><br>
-    (24) Again, I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.
-    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus said a parable here,<b> “it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.”</b> As it is impossible for a camel to go through the eye of a needle, similarly, a rich cannot enter the kingdom of God. Some elders say that if a man is rich, he is also arrogant. One of the six bad qualities (gunas) is called arrogance (madam). The fifth bad quality out of six bad qualities - greed (kaama), anger (krodha), selfishness (lobha), emotional attachment (moha), arrogance (madam), jealousy (matsara) – is arrogance. A man without arrogance is not on earth. There is some amount of arrogance in every human being. Man may not have 100 percent arrogance, but his arrogance level maybe 90, 80,70,60,50,40, or 30 percent. One may have 90 percent and the other may have 80 percent. Some may have 30 percent arrogance. 
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 16,
+verse: `  <b>(15)	The Gospel of Mathew, 6th chapter, 7th and 8th verses. </b> `,
+meaning: `  <b>
+(7) When you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words.
 <br><br>
-Not only arrogance that is clung to Jivatma in the body makes think, but also the other associated five gunas will also participate. There may be less arrogance in the poor. The rich have more arrogance. The arrogance of the one who has millions of dollars is even greater. The rich man has more arrogance and more other gunas. Money can change a man in any way. Therefore, man gets away from wisdom because of wealth. When moksha is compared with the needle's eye, the rich can be compared with the camel. As the camel cannot go through the eye of the needle, the rich cannot reach moksha. A camel does not go through the needle’s head; Similarly, the rich man with the strength of gunas like a camel cannot enter the paraloka. 
-
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 46,
-      verse: `<b>(45)	The Gospel of Mathew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>   
-    `, meaning: `
-    <b> 
-    (36) Teacher, which is the greatest commandment in the Law (Dharma Shastra)? <br><br>
-(37) Jesus replied: “Love the Lord your God with all your heart and with all your soul and with all your mind.”  <br><br>
-(38) This is the first and greatest commandment. 
-<br><br>(39) And the second is like it: ‘Love your neighbor as yourself.’ 
-<br><br>(40) All the Law and the Prophets hang on these two commandments.    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Some people came to Jesus and asked him what the most important commandment in the law (Dharma Shastra) was. They intended to test Jesus and mock if Jesus did not answer. Jesus replied immediately, <b>“Love the Lord your God with all your heart and with all your soul and with all your mind.”</b> He said that that was the first and greatest commandment. He also said about the second commandment immediately afterward. Now let us learn about the first commandment. 
-    The word commandment is said in this verse. In the end, it is said that these two commandments are the basis for all the law and the Prophets. Its explanation is as follows. 
-    <br><br>
-    Commandment means to give a command. Here the question is who commanded. The answer is that the elder gives commands to the younger. God who created the world is the greatest of all. What God commandingly said is a commandment or law. The law comprised of unalterable acts, and another name for it is dharma. The <b>law</b> or <b>commandment</b> is called dharma because it is unalterable. For example, if you take a chili pepper, what does not change in it is its spiciness. The spiciness is the characteristic (dharma) of chili pepper. The spiciness is ever-present to chili pepper because it is its dharma. Similarly, sourness is the dharma of tamarind, and bitterness is the dharma of neem. 
-    <br><br>
-    Dharma consists of a set of rules and regulations. If one asks who has dharma(s), everything created has dharma(s), just like the created tamarind, chili pepper, and neem have dharma. Since God is the Creator, he has no dharmas. God, the Creator, is beyond the dharma. The created Atma and Jivatma, except for the creator God, also have dharmas. When Atma and Jivatma, which are parts of Paramatma, have dharmas, the created nature (Prakruti) should possess the dharmas. What we need to know, however, is Brahma Vidya, spiritual education. Hence, we need to know the dharmas of Atma and Jivatma. Since Jivatma is supposed to know Brahma Vidya, <b>he only needs to know the dharmas of Atma.</b>
-    <br><br> 
-    In this verse as well, the method of knowing Atma is told. The verse also says that it is essential to know that. The Dharma Shastra speaks about Atma. Therefore, when asked what the most important dharma in the Dharma Shastra is, he said, <b>“Loving the Lord your God is the first and greatest commandment.”</b> Here mentioned the Lord your God. The Lord (Prabhu) means mainly the one who is born. Jesus said that the most important commandment is to love the God, who was born. We already said that God is the creator and uncreated, and he has no dharma. Here comes the question. When the creator of all that is created is God, how can the mainly born (the Lord) is God? We get a doubt whether the self-existed is God, or the one who is born is God. The answer is as follows. 
-    <br><br>
-    God was not born. God, who was unborn and creator, first created Prakruti only. After creating Prakruti, God (Paramatma) wanted to create living beings. Once God created Prakruti, he decided not to do any work by himself. After creating living Pancha Bhutas - sky, air, fire, water, and earth - God wanted to be idle. As soon as God wished to be born of himself, <b>Atma </b>(the Lord) got created to make living beings, rule them, and kill them. Atma creates, rules, and kills all living things. Since Atma is the one who created all living beings, Atma must also be called God. <b>Thus God, the creator of Prakruti, is the first one, and the God, the creator of living organisms in Prakruti, is the second one. </b>
-    <br><br>
-    The first God, who created Atma, who is God to Atma and who is separate from Atma, is called Paramatma. The second God who created the living beings is called Atma. Although both Paramatma and Atma are the creators and Gods, <b>the first God Paramatma, is beyond dharmas. The second God Atma has dharmas. The God without dharmas is the first creator, and the God with dharmas is the second creator.</b> No one really knows that there are two Gods in the world. Although there are two Gods and the first God is greatest, Atma is God to humans because he created human beings. Man should worship only Atma. Human beings are supposed to know the dharmas of the second God. It is to be known that all the dharmas revealed in the scriptures are about the Atma. 
-    <br><br>
-    If man wants to worship and pray, he must worship and pray the second God, Atma. No one can worship and pray to the first God. The first God does not need anything; he did not beget anyone, and he was not born. <b>“He neither begets nor is born,”</b> said in the final scripture about the first God. <b>He is not interested in anyone’s prayers, said in Surah 112.</b> The first God is not associated with prayers, but the second God is associated with prayers. Neither Christians nor Muslims knows that there are two Gods (two Allahs). They say that there is only one God, and they worship that God. The people belonging to both religions do not know that <b>the God who should be worshipped and the first God, who is the creator, are different.</b> The Hindus are not aware of God but worship many deities and are walking in the wrong path (ignorant path) altogether. 
-    <br><br>
-    The first God is beyond the dharmas. Therefore no one can know or worship him. Some parts of the human body are essential to worship Atma, the God with dharmas. Jiva must worship Atma, the God, with his manas and his buddhi. This is the important dharma in the Dharma Shastra. <b>“Love Atma, the God, with all your heart and with all your soul and with all your mind,”</b> said in the verse. Here love means worship. Doing so is the first and foremost commandment (dharma). <b>As the commandment means dharma, all your heart means all your buddhi. Similarly, all your soul means you, jiva. Love means worship. “You should worship Atma, the God, with your mind and your buddhi,”</b> said in Dharma Shastra. There is the second commandment as well. Let us see what it is. 
-    <br><br>
-    <b>“Love your neighbor as yourself,”</b> said in the second commandment. These two commandments are the basis for the Dharma Shastra and the Prophets, said in verse. It means these two are the foundation for the dharmas in the science of Brahma Vidya and the Prophets who teach dharmas. According to this verse, every man loves himself more. It means man loves his life the most. When others try to kill him, man seeks to save his life by giving away all his possessions. Thus, man seeks his well- being. Man has more hope for his life. For his life, he will pray to any God and do anything. This shows that man loves himself more. Love your neighbor as yourself, said in the verse. You must love your neighbor in the same way you seek your well- being and care about your life. 
-    <br><br>
-    If you look at the meaning of the word neighbor, everyone knows that a person living next door is a neighbor. But we should know that the person living very near to you (not your next-door neighbor) is your neighbor. The verse “Love your neighbor as yourself” means that you should love your neighbor as much as you love yourself. According to the verse, when you see who your neighbor is, there is none beside you in the body except your <b>Atma</b>. If you are a soul (Jivatma), there is one other soul like you, and he is the second God Atma. The first God is beyond all, unknown to anyone. Therefore, there are only three souls and there are two souls besides you. One of those two is Paramatma. It is not possible to say that Paramatma is your neighbor because he is omnipresent and all-pervading. Although there are two souls next to you, when Paramatma is kept aside, the remaining Atma is your neighbor. Everything is feminine Prakruti except Atma and Paramatma, who are males like you. 
-    <br><br>
-    Atma is the only one who is masculine like you. Therefore, we must say that your neighbor is Atma, the God. No one can worship the first God Paramatma. He is beyond all dharmas and worships. He does not have a relationship with anyone. No one is eligible to worship him. Hence, the three divine scriptures say that the Atma is worthy of worship in all respects.<b> He is your Allah, and you worship him,”</b> said several times about Atma in the final divine scripture. This is said in Surah 6:102, 3:18, and 16:51. The two commandments, “Love your neighbor Atma as yourself,” are important in Dharma Shastra. <b>For gurus and preachers, who are prophets, the foremost dharma is to worship Atma.</b> When a Pharisee asked what the foremost dharma in the law is, Jesus told this verse as the correct answer. You should retrospect whom you are worshipping based on this verse. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 47,
-      verse: ` <b> (46)	The Gospel of Mathew, 23rd chapter, 8th, 9th and 10th verses.</b>  
-    `, meaning: ` <b> 
-    (8) “But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.   <br><br>
-    (9) And do not call anyone on earth ‘father,’ for you have one Father, and he is in heaven.    <br><br>
-    (10) Nor are you to be called instructors, for you have one Instructor, the Messiah.      </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Some call the preacher a father. Some even say that Gurus, who preach, are equal to a father. But according to the verse, no man should be called a preacher. Do not be called Rabbi, for one is your Master, and you are all brethren, said in verse. Preacher means the one who teaches. The one who gives others knowledge is called a preacher, but the verse refers to the one who teaches divine wisdom. As per the verse, there is only one teaches divine wisdom. According to this, no one knows divine wisdom except one. Why the rest of them do not know? Who is the one who knows? The answer to those questions is as follows. 
-    <br><br>
-    God’s wisdom is unknown to anyone except to God, said in the divine scriptures. It is also said in the divine scriptures that God did not pass God’s wisdom on any human being. It means that no man knows God’s wisdom. Therefore, no one can teach God’s wisdom. Hence you should not get called Rabbi, said in verse. Only God can teach the wisdom of God. So, it is said in verse that your master is only one, and he is God. A human being is not a master (teacher), and all human beings are brethren, said in the verse. 
-    <br><br>
-    Every man has birth parents. Everyone believes that visible parents since childhood are real parents. Many elders advise that you should respect your parents. Everyone respects birth parents. It may be said that there is no other mother or father except visible parents. All this is worldly-related. But every man has invisible, unknown parents according to divine wisdom. If asked whether visible parents are real parents or invisible parents are real parents, it becomes known that invisible parents are real parents. Why we are saying is that the father is the seed donor for every human being. Accordingly, <b>God (Atma), the unseen Father, is the seed donor of all living beings.</b> Hence, the invisible father becomes the real father. Whether we know or not, our birth Father is Atma. Hence, <b>call no man your father upon the earth: for one is your Father, who is in paraloka,</b> said in verse. 
-    <br><br>
-    The visible preacher is not the true preacher, the birth father is not the true father, and the visible guru is not the right guru, said in verse. Many teach something and be called a guru. If you be called a guru, then you are playing a role that is not suitable for you. God alone can come to earth as a Guru at any time. When God incarnates as a human being, he becomes Guru and teaches wisdom. Therefore, we should know that <b>the incarnation of God as a man on earth is the true Guru.</b> 
-
-        
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 48,
-      verse: ` <b>(47)	The Gospel of Mathew, 23rd chapter, 15th verse.</b>  
-    `, meaning: `  <b> 
-        
-    (15) “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.       </b>                                    
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Religion did not exist until three thousand years after Kali Yuga. Two thousand years ago, when Christianity was born, Christians initially emerged as groups and later became a Christian community. After some time, the Christian community claimed themselves to be a Christian religion. Thus, first religion was born. After claiming to be a Christian religion, they tried to expand their religion. Others later professed themselves as a religion based on their teachings. Thus, the religions were created one after the other. Very soon, twelve religions formed on earth. After the creation of religions, some people became involved in expanding their religions. They traveled over land and sea to convert others into their religion. 
-    <br><br>
-    Religion is made by people’s will but not by God’s wisdom. In the religions made with the people's minds, there appears to be divine wisdom, but the wisdom in it is contrary to the wisdom told by God. Therefore, a person who relies on divine wisdom and scriptures, regardless of religion, will know God’s dharmas and wisdom. If a person is associated with religion and says that he belongs to a particular religion, he will know Maya’s wisdom. If a man adopts religion, he will become a sinner. A man without religion will become eligible to join the kingdom of paraloka. 
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 49,
-      verse: `<b>(48) The Gospel of Mathew, 24th chapter, 35th verse.</b>   
-    `, meaning: ` <b> 
-    (35) Sky and earth will pass away, but my words will never pass away.        </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Paramatma, God, does not speak. Atma, who is in the body, can speak. Atma is the second creator and the second God. Atma, who is in the body, speaks from the body. The second God, Atma, teaches so much wisdom from a man. The wisdom taught in that way is in the form of words. Atma's words from the body in the form of teaching will never pass away even if the sky and earth pass away, said in the verse. What is important to note here is that <b>the sky and earth will pass away, but my words will never pass away</b>. But the sky and the earth will never pass away. But the verse says that the sky and the earth will pass. Therefore, we should know that both the sky and earth mentioned in verse are not the sky and earth we see. The sky and the earth told in verse are perishable. The earth and the sky that never perishes are one type, and the perishable earth and sky are another kind. In the Prakruti that is in the form of the human body, there is the sky, air, fire, water, and earth. All of them – the first sky, the last earth, and the remaining air, fire, and water – that are in the form of the body are perishable. The <b>human body will perish, but the wisdom told from the man will never pass away. </b>
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 50,
-      verse: `<b> (49)	The Gospel of Mathew, 24th chapter, 42nd verse. </b>   
-    `, meaning: ` <b> 
-    (42) Therefore, keep watch, because you do not know on what day your Lord will come.       </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Whenever there is a threat to God's dharmas on earth and Satan's dharmas spread extensively, then God sends a part of him to the earth to protect his commandments (dharmas). Whenever there is a need, God must come as a human being. Krishna in the Dvapara Yuga and the Lord Jesus in the Kali Yuga came in that manner. What is remarkable is that we were able to identify them after they arrived and went, but when they were on earth, we could not identify them who they were. No one identified when God himself came as Lord. Even those who saw his glory could not know that he was God but thought he was great. In Dvapara Yuga, Krishna said, <b>“I will come when dharmas are polluted.”</b> He came again as Lord Jesus and told his dharmas. There will not be any difference in the commandments he told, either in Dvapara Yuga and Kali Yuga. But there are no similarities in their names, lives, and 
-    lifestyles. Hence, Satan showed the outside differences between them and tricked humans not to know that both were the same. Man needs some wisdom to know when God came and when he will come. As long as man is in ignorance, he does not know God’s coming and does not know even after God came and gone. Even though God is on earth now, ignorant man cannot know. Therefore, if people want to know God’s arrival and recognize him, they must know <b>God’s related wisdom.</b> Nowadays, God’s wisdom is not known, and Satan’s wisdom is spread everywhere. Hence, <b>“You do not know on what day your Lord will come,”</b> said in the verse. <b>“Stay awake to know him,”</b> also said in the verse. <b>Here stay awake means having wisdom. </b>
-                     
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 51,
-      verse: ` <b>(50) The Gospel of Mathew, 26th chapter, 26th, 27th and 28th verses
-      .</b>  
-    `, meaning: ` <b> 
-    (26) While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”
-”
-    <br><br>
-    (27) Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.   <br><br>
-    (28) This is my blood of the covenant (God’s wisdom without the bonds of ignorance), which is being poured out for many for the forgiveness of sins.       </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    While Jesus and his twelve disciples were eating, Jesus took bread, blessed it, broke it, and gave it to his disciples, and said, <b>“Take and eat; this is my body.”</b> Also, he took grape juice in a cup and said, “All of you drink from it; this is my blood.” Not only he compared grape juice to his blood, but he also said more about blood, <b>“This is my blood of the covenant, which is being poured out for many for the forgiveness of sins.”</b> These words of Jesus, while seemingly ordinary, should be counted as the most important of his teachings. Christians, who did not know the essence of these words told at mealtime, did not elaborate on these words' importance. Some interpreted that Jesus said these words about his past or his future. 
-    <br><br>
-    Jesus gave grape juice in a cup and said, “this is my blood,” but he did not say that ‘this is my body’s blood’ that will be poured on the cross. But many Christian preachers attribute the blood mentioned in this verse to Jesus body’s blood shed on the cross. They say that man’s sin is forgiven because Jesus spilled his blood on the cross for the sinners. What man said is different from what Jesus said. Jesus did not mention his body's blood in verse. In such cases, it would be unfair to say that Jesus shed his blood for sinners. On that day, those who put Jesus on the cross and made him spill his blood and caused his death on the cross got a terrible and unforgivable sin. But it would be contrary to say that the people’s sins were forgiven and will be forgiven by Jesus’ death. 
-    <br><br>
-    Jesus gave grape juice and asked disciples to drink it and said, <b>“this is the blood of the covenant, which is being poured out”</b> for many for the remission of 
-    sins. Here Jesus used the word ‘is being poured’ to speak in the present tense and did not mention a future thing. Jesus did not mention the blood, which will be spilled on the cross. Yet it would be foolish to say that the blood spilled on the cross was for the sinners and the forgiveness of sins. <b>Those who caused Jesus to spill his blood on the cross got sin instead of remission of sin because he shed his body’s blood.</b> What Jesus said was about the blood of covenant, not the body’s blood. Covenant means God’s wisdom, which is not bound by ignorance. Jesus told the divine wisdom to the people every day; He used the word “I am pouring it out for many.” He taught fire of wisdom every day so that the humans' sins would be burned. He compared his teachings of wisdom to covenant blood coming from his mouth. The truth of what is said in verse is revealed only when analyzed. 
-    <br><br>
-    The meaning of what is said is poorly understood since the word ‘covenant’ is omitted from the word ‘covenant blood,’ and only the word ‘blood’ is considered. It is not realized that covenant means dharma-related-wisdom. There is another reason for saying blood in the verse. But it is not the blood in the physical body. The physical body is full of blood. As long as there is blood in the body, the body is alive. If the body sheds the blood, the body receives death. According to this, it becomes known that the essence in the body is blood. While they were eating, Jesus first took bread and gave it to his disciples, saying, <b>“Take and eat; this is my body.”</b> Here he compared bread with his body. Then he took grape juice in a cup and gave it to them, saying, <b>“This is my blood of the covenant.”</b> He said about the first one given, ‘This is my body. Eat this’. Jesus compared the bread to his body and told them to eat it. If you eat bread, then you are eating Jesus’s body. The basis and the essence of the body is its blood. 
-    <br><br>
-    When the divine wisdom is compared with the covenant blood, the body of bread can be compared with the holy scripture with God's wisdom. In that way, <b>the body contains blood; the scripture contains wisdom. Eating the body means reading the scripture. If you read the scripture, you will know the essence of the wisdom in it. Knowing wisdom should mean drinking blood.</b> But man is looking at the bread and the grape juice which Jesus gave, but do not know that the bread is divine scripture, and the grape juice is the wisdom in the scripture. <b>Jesus compared scripture as the body (bread) and wisdom as blood (grape juice). The blood of the covenant that is being shed means the wisdom with dharmas currently being taught.</b> Humans did not realize that Jesus compared the scripture to his body, and the wisdom of the scripture to blood in the body. Hence, they mistakenly said that the blood that Jesus shed on the cross was for the forgiveness of sins. 
-
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 52,
-      verse: `<b>(51)	The Gospel of Mathew, 28th chapter, 18th verse.</b>   
-    `, meaning: `
-    <b> 
-    (18) Then Jesus came to them and said, “All authority in paraloka and on earth has been given to me.
-    </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Loka means having experiences. In the loka, we are experiencing many hardships and pleasures. The experience of pleasures is named Svarga Loka (heaven), 
-    and the experience of hardships is called Naraka Loka (hell). Loka is neither a separate country nor a special place. Loka means experiences. According to the experience of pleasure and sorrow. loka is divided into heaven and hell. All the experiences together are called loka. Since man receives all experience on earth, heaven and hell are on earth. Depending on the experiences, we call them heaven and hell, but heaven and hell are on earth. 
-    <br><br>
-    There are two kinds of lokas on earth – Ihaloka and Paraloka. <b>Ihaloka has experiences, but Paraloka does not have any experiences.</b> Both Ihaloka and Paraloka exist on earth. Para means different or separate. Paraloka means something different from experiences. In other words, Paraloka does not have any experiences and is different from the loka. In Telugu, man means the one who acquires experiences through the mind (manas). Therefore, all people on earth belong to Ihaloka. No man has seen Paraloka. A body-wearing man is never without experiences. Therefore, it can be said that every man belongs to the loka and is living in Ihaloka. It may be said that the one who has no experience is in Paraloka. <b>“All authority in paraloka and on earth has been given to me,”</b> said in above verse. 
-    <br><br>
-    If Jesus were an ordinary man, he would be in the Ihaloka, and he would not know Paraloka. Although Jesus appears to be an ordinary man, his body has only Atma but not Jivatma. Atma lived in Jesus’s body and pretended to be a Jivatma. While both Atma and Jivatma exist in all humans, Atma performs all body functions, and Jivatma experiences the joy and sorrow in work. In this way, it can be said that Jivatma in a man’s body is in heaven for some time and in hell for a while. But when God comes as a human being, his body does not have Jivatma. Although Atma works in the body of the Son of God, Atma does not experience anything. Therefore, it can be said that he is in Paraloka. Since Jesus was no ordinary man, he has authority on earth (Ihaloka) and Paraloka. Paramatma, the Holy Spirit, gave the complete authority to Atma (Jesus). Jesus, who is Atma, is also the head of the divine wisdom. <b>God’s wisdom is not known to man except God.</b> Therefore, the subject of souls is unknown to the people. Jesus taught the wisdom of three souls. He instructed the disciples, who know the souls’ wisdom, to teach Atma’s wisdom to all the people. 
-        
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel Of Mathew",
-      chapterNumber: 2,
-      pageNumber: 53,
-      verse: ` <b> (52)	The Gospel of Mathew, 28th chapter, 19th and 20th verses.</b>  
-    `, meaning: ` <b> 
-        
-    (19) Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
-
-         <br><br>
-         (20) Teaching them to obey everything I have commanded you. And surely, I am with you always, to the very end of the age (Yuga).       </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The Gospel of Mathew has 28 chapters. The last verses 19th and 20th of chapter 28 contain the secret of entire spiritual education. The three souls’ information mentioned here in verse 19th is the most important wisdom in the 
-    scripture. Here in verse, the word ‘Father’ is used before the word ‘son,’ and it requires some thought to understand it. Those who think about this will know that the sequence is the Son, the Father, and the Holy Spirit. If this is explained further, <b>you must know that the son is Jivatma, the Father is Atma, the Holy Spirit is Paramatma.</b> There are no other souls in the world except these three souls. According to the Thraitha theorem, these three souls are Jivatma, Atma, and Paramatma. 
-    <br><br>
-    Baptism means upadesa. In Telugu, Upa (sub) means adjacent. Upadesa means a neighboring or adjacent country. Upa (sub) means adjacent. Upadesa means a neighboring or adjacent country. In more detail, it means “leaving this country where you are now and getting permission to go to the adjacent or neighboring country.” An officer must first give permission to go to the neighboring country. That officer can be called a Guru. Guru means the one who is the head of the neighboring country or Paraloka. No matter how many gurus are on earth, God, the head of Paraloka, is the true Guru. God, the ruler of Paraloka, is the true Guru who gives us true baptism when he comes to earth as a man. Although there are many gurus on earth, they are all gurus in name only. The baptism they give is in name only. 
-    <br><br>
-    When God, true Guru, is not on earth as a human, according to the tradition of wisdom, preachers must make some disciples and give them upadesa. Upadesa is like permission to the neighboring country. In the upadesa process, the guru instructs disciples with water, with a mantra, word, or vibhuti (sacred ash). Upadesa is permission to Paraloka, and the word or water is like a ticket that recognizes the entry to Paraloka. Most gurus use a mantra or a word in the upadesa process. Similarly, Jesus told his disciples, <b>“Go and make people of all the nations disciples.”</b> He also told his disciples to baptize them when they become disciples. When giving the disciples the permission ticket in the upadesa process, he said, “Baptize them in the name of the three souls (spirits) - the Father, the Son, and the Holy Spirit.” According to the wisdom tradition, baptism should be done this way. So, when John, a Guru, gave baptism, he administered baptism with water. According to that method, Jesus also received upadesa from John. At that time, John saw Jesus and spoke. 
-    <br><br>
-    This is what the Gospel of Mathew says in verse 3:14 and 3:15.<b> When Jesus came to him, John tried to deter him, saying, “I need to be baptized by you, and do you come to me?” Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b> Even Jesus said that one must receive baptism from Guru according to the tradition of wisdom. I also said the same thing about baptism. Jesus authorized his disciples to give baptism and said, “All people need to be baptized, not just a caste or a group.” He also told them to give an entry document of the Father, the Son, and the Holy Spirit. Jesus told his disciples to do the work because God could not always be on earth as a man to give upadesa. In addition to baptism, Jesus also told his disciples to teach them to obey all things he told his disciples. 
-    <br><br>
-    He also said, “I am always with you,” without causing doubt to the disciples that they were not gurus. He notably said, <b>“I am with you always, even unto the end of yuga.”</b> Those who know about yugas may pose a question when they hear what Jesus said. The question is yuga (era) does not end; another yuga starts at the end of the current yuga. In that case, the question can be asked why he said that there is an end to yugas when there is no end to yugas. The answer is as follows. Time is eternal, lasts forever, God (Paramatma) is eternal, and time, God’s nickname, is also eternal. Since the time is Paramatma, the three souls are named after the time. Paramatma is divided into three souls – Jivatma, Atma and Paramatma. The names past, future and present tense are given to the time so that the time has these three names appear in it. The name ‘yogam,’ which is necessary to reach God, is given to the time. In this way, the four names are given to the time, and the word ‘yogam’ is appended at the end of all the four names to indicate ‘yogam’ is necessary to reach God. 
-    <br><br>
-    The time is divided into four parts, and they are named Krut, Traita, Dvapara, and Kali, respectively. As the word yogam is appended at the end of all the names, they are called Kruta Yuga, Traita Yuga, Dvapara Yuga, and Kali Yuga. <b>Kruta means the one (Atma) who does. Traita means three. Dvapara means the one (third), which is separate from two. Kali means the one (Jivatma) who gets destroyed.</b> These three are <b>Kshara, Akshara and Purushottama,</b> said in the first divine scripture. In Telugu, Kshara means destructible Jivatma. Akshara means indestructible Atma. Purushottama means Paramatma, who is better than Jivatma and Atma. In the final divine scripture 50:21, these three males are called <b>Passenger, Driver, and Witness</b>. Similarly, they are called <b>the Son, the Father, and the Holy Spirit</b> in the second divine scripture. <b>Yogam</b> is necessary to know these three males (purusha). Hence, the word yogam is appended at the end of four yuga names. Through yogam, Jivatma can know himself, hence called Kali Yogam. With yogam, Atma will be known; hence it is called Kruta Yogam. By yogam, one can reach Paramatma, therefore called Traita Yogam and Dvapara Yogam. People who are rich in divine wisdom gave these names. Over time, however, the term Traita is being pronounced Treta. Similarly, the word yogam is called yuga. Thus, in the above verse, <b>‘end of the yuga’</b> was written in the place of <b>‘end of the yogam.’</b> When the right word is used, Jesus said, “I will always be with you until the end of yogam.” If explained, it will be “I am with you until the conclusion of yogam.” When a man (Jivatma) attains the end of yogam, he is united with God. When God and Jiva are separate, yogam is necessary to union with God. <b>When yogam is completely ended, Jiva will join with God.</b> Till then, there will be God along with Jiva. Then there is no need for God to be with Jiva. Then the two will unite. Therefore, <b>“until the end of the yuga,”</b> said in the verse. 
-
-           
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 54,
-      verse: ` <b>(1)	The Gospel of Mark, 2nd chapter, 19th and 20th verses.</b>   
-    `, meaning: `<b>    
-    (19) How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them.    <br><br>
-    (20) But the time will come when the bridegroom will be taken from them, and on that day they will fast.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Some people came and asked Jesus, “How is it that John’s disciples and the disciples of the Pharisees are fasting, but yours are not?” Jesus replied with the above verses. Here fasting means abstaining from food. It is the common worldly meaning. In Telugu, the bridegroom is called pellikoduku. The equivalent meaning of the pellikoduku in English is the son of marriage. In Telugu, the word ‘son of marriage’ has a special meaning. In Telugu, the word ‘marriage’ (Pelli in Telugu) means God in the spiritual sense. According to it, the son of marriage (bridegroom) means the Son of God. When Jesus, the Son of God, is with the guests, they will be happy and not fast. When the bridegroom (the Son of God) is forcibly taken away from them, all those with the Son of God will fast with grief that he is going away from them. Similarly, the disciples of Jesus (the Son of God), who claims to be the son of man, will not be fasting because they are happy as long as he is with them. When Jesus is absent from them, they will fast in grief. The bridegroom (the son of marriage) should be understood as the Son of God.
-      
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 55,
-      verse: `<b>(2) The Gospel of Mark, 4th chapter, 38th and 39th verses.</b>   
-    `, meaning: ` <b> 
-    (38) Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?” <br><br>
-    (39) He got up, rebuked the wind and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm.
-    </b>                                      
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When Jesus and his disciples were crossing a sea in a small boat, the boat was caught in a storm. The boat was filled with water due to the waves. Then the disciples were terrified and worried that they would be drowned in the sea. The disciples woke Jesus up and told him that the boat was in a storm and that it was in danger of sinking. Jesus got up, rebuked the wind, and ordered the waves to become quiet. Then the wind died down, and it was completely calm. They were terrified and asked each other, “It is a big wonder, and how did it happen?” They thought that Jesus was glorious, but they did not know the reason. There is very remarkable wisdom in the incident.
-    <br><br>
-    Jesus is not an ordinary man. Yet it must be said that he is God, who looked and behaved like an ordinary man. When God, the Holy Spirit, comes in human form, no one can recognize him. The birth of God is a secret when he is a human being. No one can ever know him with the material intellect. It may be possible to know him only through wisdom. There are two ways to know God’s incarnation based on wisdom. 1) It can be known that there is God’s incarnation wherever God’s dharmas, which no one told, are revealed scientifically. 2) It can be said that Paramatma is in human form wherever nature (Prakruti) is governed. No one can recognize God’s incarnation apart from these two methods. Devatas bowed down to Ravana Brahma in Traita Yuga. When he ordered nine planets, it became known that he was no ordinary man. Ravana Brahma taught divine dharmas, which were unknown to anyone, and made people practice them. Thus, it became known that Ravana Brahma is God’ incarnation. Similarly, it became known that Krishna in Dvapara Yuga is God’s incarnation when he commanded the Sun and taught dharmas in Bhagavad-Gita. Jesus, who came as a man two thousand years ago, became recognized as God in two ways - by commanding the sea and teaching divine dharmas. It appears that the storm formed in sea voyage to make people aware who Jesus was. Even though God’ incarnation is secret, God provided this opportunity to know.
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 56,
-      verse: `<b>(3)	The Gospel of Mark, 5th chapter, 38th, 39th, 40th, 41st, 42nd and 43rd verses.</b>   
-    `, meaning: `<b> 
-      
-    (38) When they came to the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly. <br><br>
-    (39) He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.” <br><br>
-    (40) But they laughed at him. After he put them all out, he took the child’s father and mother and the disciples who were with him and went in where the child was. <br><br>
-    (41) He took her by the hand and said to her, “Talitha koum!” (which means “Little girl, I say to you, get up!”). <br><br>
-    (42) Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished. <br><br>
-    (43) He gave strict orders not to let anyone know about this and told them to give her something to eat.    
-    </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    It is a great surprise when a man comes alive after declared dead. Jesus woke up the dead persons in his life. Not only did he raise other dead people, but he also came alive from his death. If we think about how this happened, some unknown secret will be revealed. Death is of four types. They are 1) Natural death, 2) Un-natural 
-    (untimely) death, 3) Temporary death, 4) Last (final) death. Man will not be born again when he receives the last death. He attains liberation (moksha) with the last death. Natural death is the most common occurrence. In a natural death, man leaves the present body and goes to the second birth. There is no option other than going to second birth in natural death. In an untimely death, man does not completely die but loses half of his body and lives with the remaining half body. Although it is somewhat surprising, this is what happens. 
-    <br><br>
-    The human body consists of two parts. The human body and the body of all living beings consist of physical (visible) and non-physical(subtle) parts. In the human body, the physical body has ten parts, and the subtle body has fifteen parts. When a man dies untimely, he leaves the physical body of ten parts and lives with the subtle body of fifteen parts. Therefore, the person who received the untimely death can be said to be half dead. When the rest of the subtle body dies, it will become natural death. Then he goes to the second birth. A person who got untimely death will live without being visible. He will live with the subtle body until natural death. But no one knows about temporary death so far. In a temporary death, all the body functions in a man cease. But the Jivatma does not go out from the body but remains in the body. The Jivatma that is in the body is asleep. In the temporary death, the person appears dead because the Jivatma is still in the body. As a result, there were a lot of incidents where a person who received untimely death was counted as dead and buried. No one can find that a person who received a temporary death is not dead. So many people were buried, even though they were alive. 
-    <br><br>
-    <b>The story of Abdul Aziz in Jammu and Kashmir</b>
-    <br><br>
-    On December 7, 2009, a story aired at 1:30 pm on TV9 channel. Abdul Aziz, a 60-year-old man, died a week ago on November 30, 2009, in Rajouri, a village in Jammu and Kashmir. He was buried according to Islamic tradition because he was a Muslim. Three days after he was buried, police received a complaint that he had not died normally, and someone killed him. The police immediately registered a case, went to the cemetery, and dug out Abdul Aziz's corpse in the presence of relatives. His body was sent to a government hospital for postmortem. The doctor in the hospital started doing the autopsy. The doctor first hit the head with a knife to examine the skull. The head was injured. Then to the astonishment of all, Abdul Aziz, who was dead until then, woke up and asked what was going on. The doctor could not believe it when he sat and asked. The doctor exclaimed in surprise and said, "We are doing an autopsy." Abdul Aziz replied, “I am alive.” The doctor informed Abdul Aziz's relatives of the incident, and his relatives came from outside and took him home. When Abdul Aziz died three days ago, the same doctor examined him for fifteen minutes and confirmed his death. The doctor said that the miracle had happened in Aziz's case. The people of Rajouri village also expressed surprise that Abdul Aziz, who was buried with their own hands, came to life three days later. It has been only six years and seven months since the incident. All TV channels aired this news on the same day. This incident happened 
-    in the presence of doctors. Therefore, no one can deny this, nor can it be called superstitious. 
-    <br><br>
-    <b>An incident in Visakhapatnam district </b>
-    <br><br>
-    Srungavarapu Kota is located on the way to the Araku valley in Visakhapatnam. There is a village called Saarepuram situated 12 km from Srungavarapu Kota. The village of Saarepuram had a 67-year-old female named Samudramma. She had been diagnosed with high blood pressure and diabetes for ten years. She underwent medical treatment at Dharmalingachari, a senior doctor at Srungavarapu Kota. Dr. Dharmalingachari, M.B.B.S, was a well-known 60-year-old veteran. Six years ago, one day in the evening, at six o'clock, Samudramma was brought to Dr. Dharmalingachari. Earlier doctors in government hospital pronounced her dead and she was then taken to Dr. Dharmalingachari. When the doctor Dharmalingachari examined her, there was no pulse in her body. The doctor declared her dead because she had no breathing or pulse and said, “Take her home. She is dead. She does not need any medical treatment.” They then took her to their village, 12 km away. They wanted to bury her in the next day morning because it was already night. The rain started early in the morning and continued for two days with no chance of going out. Samudramma’ s body was kept in the verandah for three days. Three days later, on the fourth morning, she got up and called everyone. Then her relatives realized that she was alive and immediately phoned Dr. Dharmalingachari. After fifteen days, she was brought to Dr. Dharmalingachari. Then the doctor asked, “You were dead for three days. Did you see any Yama’s servants or Yamaloka?” The incident also took place six years ago in the presence of a doctor. Therefore, no one can deny this, nor can it be called superstitious. 
-    <br><br>
-    <b>A survivor from pyre (Translation from a Telugu newspaper) </b>
-    <br><br>
-    <b>Chennai: </b>Doctors confirmed that 50-year-old Muttuswamy of Krishurayapuram in Karur district of Tamil Nadu died on Tuesday. They also advised to take the body and perform the funeral rites. The relatives, who thought that Muttuswamy was dead with old age and sickness, planned for the pyre. Relatives gathered at the cemetery. The next step is to start the fire at the pyre. His sister Paapatti came to see the dead body lying on the pyre. She could not stop the grief, fell on the corpse, and cried aloud. “Brother, will you leave me?” she cried. That is it! There was a movement in Muttuswamy!! His legs and arms moved. Meanwhile, there was a slight groan. Within a few seconds, there was slight movement in the legs and arms. The relatives, who were drowned in tears, suddenly succumbed to the wonder and shouted ‘Muttuswamy ... Muttuswamy. Muttuswamy awoke from the pyre as if he had woken from sleep. What happened? He asked the relatives. All of them hugged Muttuswamy with happiness and took him back to the hospital. Muttuswamy’ s only daughter got married on Monday. 
-    <b>Doctor’s negligence:</b> Relatives criticized the doctors for showing negligence on Muttuswamy, who was admitted to a local hospital ten days ago after he fell ill. They condemned the doctors on the incident. This news spread like wildfire in Karur district. There was widespread debate on this. This is another example of temporary death. 
-    
-    <p style="text-align-center">
-        <img src="assets/img/temp_death.png"/>
-      </p>
-      If someone gets a temporary death, he may live for up to a year or more in that state. Such a person may resurrect himself, or he may be resurrected when someone taps and wakes him up. In many cases, those who got temporary death in the morning woke up in the evening. Some woke up a week later. Recently, a man named Muttuswamy, who was on a funeral pyre, came alive in Tamil Nadu. In this way, Jesus identified the girl who had received a temporary death and resurrected her, saying that she was not dead. There is also a history that Jesus resurrected himself. It should be noted that this was all due to temporary death. We wrote about the four types of deaths and their reality in our book <b>“The Mystery of Death.”</b> Reading it will make you fully aware of types of deaths. 
-        </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 57,
-      verse: `<b>(4)	The Gospel of Mark, 7th chapter, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd and 23rd verses.</b><   
-    `, meaning: `<b> 
-    (15) Nothing outside a person can defile them by going into them. <br>(16) Rather, it is what comes out of a person that defiles them. <br><br>
-    (17) After he had left the crowd and entered the house, his disciples asked him about this parable <br><br>
-    (18) “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them? <br><br>
-    (19) For it does not go into their heart but into their stomach, and then out of the body.” <br><br>
-    (20) He went on: “What comes out of a person is what defiles them. <br><br>
-    (21) For it is from within, out of a person’s heart, that evil thoughts come— sexual immorality, theft, murder, <br><br>
-    (22) adultery, greed, malice, deceit, lewdness, envy, slander, arrogance, and folly. <br><br>
-    (23) All these evils come from inside and defile a person.     </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Man is born with six bad gunas and six good gunas. Gunas also grow along with the man. Gunas influence buddhi, which is in the head, and make the outside deeds happen with buddhi's commandment. Buddhi instructs karmendriyas to do things outside the body. It works according to gunas. Because man’s bad gunas affect buddhi, the buddhi orders the actions of gunas, and the external senses act according to buddhi’s command. These gunas cause the bad qualities of greed (kaama), anger (krodha), selfishness (lobha), emotional attachment (moha), arrogance (mada), jealousy (matsara). The gunas first reach the buddhi and command the body from there. Any instruction must come through the buddhi. One must know that the gunas within the body cause all the atrocities committed by humans.
-    <br><br>
-    Food taken from the outside is useful for the body’s health but does not influence the buddhi. Food is converted into nutrients for the body and keeps a person healthy. The food that humans eats has nothing to do with the buddhi. It directly goes into the body and works on health. When the food is useful for the body, the body is strong and healthy. Therefore, the food which goes into the body from outside does not
-    cause any bad behavior to man. The effect of the gunas that come out of the body causes bad behavior in a man. Therefore, it is okay not to follow the dietary rules but should have control of gunas.
- 
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 58,
-      verse: ` <b>(5)	The Gospel of Mark, 3rd chapter, 35th verse.</b>  
-    `, meaning: ` <b> 
-    (35) Whoever does God’s will is my brother and sister and mother.      </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-     
-    When we first question what God's will is, we know that God's commandments are his will. If we obey his commandments (dharmas), we are doing as per God's will. If we behave as we please without obeying his commands, we are violating his commandments and walking according to Satan’s will. When God is born upon the earth as Bhagavan, those who know his wisdom, act according to his wisdom, propagate his wisdom, and spread commandments will become close to Bhagavan. All who are in Satan's path will become enemies of God. All those who propagate God’s words and follow God’s commandments are counted as sisters, brothers, and closest to him. When God is on earth or not, one should know that gnanis who are behind his boundary and obey his commands will be counted close to God.
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 59,
-      verse: ` <b>(6)	The Gospel of Mark, 4th chapter, 17th verse.</b>  
-    `, meaning: `<b> 
-    (17) But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away.
-        </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Lord Krishna said in Gita that there are four kinds of devotees. 1) Aarthi (those who worship in trouble) 2) Artharthi (those who pray for wealth) 3) Jignashi (those who try to know about God) 4) Gnani (those who know wisdom). The Lord said in Gita that <b>he likes gnanis</b>. Even here, the Lord Jesus said about the four types of devotees. But the verse talks about one of a kind. Some people who are curious to know God’s wisdom hear the word and want to obey it. Satan begins to tempt them in its way. They face many troubles in that process. When they face some trouble because of wisdom, Satan begins to preach in their head. Satan says to them, “You are facing troubles because you know wisdom. You can escape the problems by pretending to be in the wisdom path.” The man who does not know the essence of wisdom begins to act accordingly. After some time, if the person gets a problem because of wisdom or Guru and the problem leads to quarrel with others or thinks that he may be persecuted because of it, Maya will get an excellent opportunity. Then Maya creates this kind of thoughts in the person’s head. It would be nice if I were smarter from the beginning. I got into this situation because I followed the Guru for wisdom even after my close relatives told me not to do it. Why should I get beaten by others for this wisdom? It is better to leave this wisdom and the Guru. If we follow the wisdom blindly, it will ultimately ruin me. It will ruin my family, as well. Since we are in the world, we must follow the world. For those who are in the forest, there are no problems, no matter how they do. As we are in the village, it would be foolish if we go against others for the sake 
-    of wisdom. Such thoughts pop up in their heads, and they try to distance themselves from wisdom. Such thoughts pop up in their heads, and they try to distance themselves from wisdom. Therefore, even those who have been in the wisdom path for some time will slowly disappear when trouble or persecution comes because of the wisdom, said in verse. 
-    <br><br>
-    Whoever knows God’s value and complete wisdom will not succumb to Satan’s temptations. Man cannot escape the clutches of Satan unless he values wisdom and Guru more than his wife, more than a close friend, and more than his own life even after knowing that he will be persecuted or killed in the wisdom path. Even the Lord Jesus’ disciples were afraid of guards on that day and left their Guru to save their lives. They fled with fear because of trouble and persecution. Their life would have been blessed if they were also prepared for death along with the Lord Jesus on that day. Maya searched the Lord’s disciples that day and blocked their way partially. Unlike them, we must stand if any trouble or persecution comes on the wisdom path. Blessed is he who does not care death in the divine path than to live long with fear in ignorance path. In the Bhagavad-Gita, the Lord said, <b>“It is better to die in Paramatma’ dharma, which is your dharma, than to fear in the path of Satan, which is not your dharma.”</b> 
-    
-            
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 60,
-      verse: ` <b>(7)	The Gospel of Mark, 4th chapter, 21st and 22nd verses.</b>  
-    `, meaning: `<b> 
-    (21) He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand?
-    <br><br>
-    (22) For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.       </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    In the present time, many gurus are saying that the disciples should not share their wisdom with others. They say that their wisdom is confidential, not to be told to others, but only to those who received upadesa. When someone asks them a question, they avoid answering it. Wisdom should not be concealed. God himself comes in human form and takes troubles to convey wisdom. Although we do not know the true wisdom, we make excuses for sharing little wisdom that we know. Think about whether it is a good idea to do so. Wisdom is like a lamp that removes the ignorance in others. As the object in darkness can be seen in the lamp's light, the unknown thing in ignorance is known with wisdom. Wisdom is needed to dispel ignorance, just as a lamp is required to dispel darkness. It is foolish to light a lamp for the light and keep it under a bowl. Similarly, it is unwise not to tell wisdom that you know. Even the secret is meant to be disclosed. Bhagavan revealed the best divine wisdom in the world. In that case, anything that value less than wisdom will not be concealed. No mystery in the world can be concealed; it surely can get out. God's wisdom is necessary for everyone. It should not be kept a secret. Those who want to conceal cannot conceal it.
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 61,
-      verse: `<b>(8)	The Gospel of Mark, 6th chapter, 4th verse.</b>   
-    `, meaning: `<b> 
-    (4) Jesus said to them, “A prophet is not without honor except in his own town, among his relatives and in his own home.”        </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    
-    In Telugu, prophet means the one who teaches something important. Paramatma’s wisdom is the most essential thing for every human being. A person who teaches Paramatma’s wisdom is called a prophet. Ordinary humans do not know Paramatma’s wisdom, except the one who comes from Paramatma. The one who comes from the Paramatma and is born as a man is called Bhagavan or Prophet. The Prophet is not honored in his own home, among his relatives, and in his own town because he appears to be an ordinary man. No matter how great one is, it is natural to be underestimated at home and by relatives. Because they have seen the Prophet since childhood, the family members, and the relatives ridicule that there is no greatness in him, and only fools will listen to him. They also ridicule that he does not know anything more than what they know. Even God cannot become a Prophet to the family members. Even when others recognize and talk about his greatness, his relatives and family members question what excellence is in him. They do not recognize the importance in him and ridicule him, saying that he was bed-wetter and pooped in his underwear in his childhood. Therefore, he is Prophet to other people, but he is not honored in his own home and his town. According to this principle, the Lord Jesus was not recognized as a prophet by his family and relatives.
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 62,
-      verse: `<b> (9)	The Gospel of Mark, 8th chapter, 38th verse.</b>   
-    `, meaning: `<b> 
-    (38) If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of them when he comes in his Father’s glory with the holy angels.
-       </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Some people are learning wisdom in society, but they want to keep it secret. They feel that knowing wisdom is a mistake; hence they do it confidentially. Some feel that it is shameful to go to guru and learn wisdom from him; hence they keep it from anyone knowing. Some are in the quest to become disciples, but they want wealthy guru because they are rich and have status. Hence, they are ashamed to go to a poor guru and select a wealthy guru who does not know much wisdom. Hence, they select a wealthy guru although he does not know much wisdom because they are ashamed to go to a poor guru. Although some learned wisdom from a guru, but they do not like to be called the disciples of that guru. In this way, many are ashamed and careful not to be revealed. 
-    <br><br>
-    One may be ashamed of worldly-related things but should not be ashamed of Paramatma's wisdom. Let us see an example. Two persons are going on the road. One is handsome, and another one is unattractive. The handsome person is poor and unintelligent, but the unattractive person is rich and intelligent. Both are close 
-    relatives. Those who go on the road will see outward appearance but not their intelligence. After some time, a traveler sees them and asks the handsome person who the second person is. The first person is ashamed to say that the second person is his close relative because his relative is not attractive. Hence, the handsome person says that they just know each other. The second person thinks that I am introduced as an acquaintance rather than a close relative because I am ugly. After some time, another traveler sees them and asks the unattractive person who the other person is. Being intelligent, the unattractive person says similarly that the other person is an acquaintance. The handsome person is happy for being introduced to the traveler as an acquaintance rather than a close relative. The unattractive person thinks that I am also ashamed to introduce this stupid person as my close relative because he is ashamed to introduce me as his close relative. The unattractive person followed the behavior of the handsome person. 
-    <br><br>
-    The second traveler who asked the unattractive person has had a rule for many years. His rule is that he wants to give 10,000 coins if he meets close relatives. Although they are close relatives, they could not get 10,000 coins because they have not introduced themselves as close relatives. So, the first poor person has not received any money. Since the second person is rich, he does not care if he gets money or not. The first person has lost money because he is first ashamed and lied. If you are ashamed of wisdom just because others do not like it, then the wisdom is also ashamed of you. The first person has lost money because he is first ashamed and lied. Hence, you will not get the future profit, moksha. According to this, the Lord said, <b>“If anyone is ashamed of me and my words, I am also ashamed of them.”</b> Based on the Lord’s word, one should understand that it is okay to be ashamed of worldly- related-matter but should not be ashamed of Paramatma’s wisdom. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 63,
-      verse: `<b>(10)	The Gospel of Mark, 9th chapter, 7h verse.</b>   
-    `, meaning: ` <b> 
-    (7) Then a cloud appeared and covered them, and a voice came from the cloud: “This is my Son, whom I love. Listen to him!”         </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Most people are not aware of the clouds in the sky. During the rainy season, the clouds produce thunders and make a loud noise. The clouds are alive. They do many things. But no one knows the tasks of the clouds. History tells us that the Sun heard when clouds first revealed the divine wisdom at the beginning of creation. There is no unknown secret to the clouds on earth. In the form of clouds, God behind the clouds said about Jesus, <b>“This is my beloved Son, Listen to him.”</b> Hence, it is God’s will that people should hear God’s wisdom from Jesus. What God says as a man is God’s wisdom, but God spoke from the clouds when humans do not listen. Humans may not respect what the other person says, but they value what the clouds say; hence, God told from the clouds in the sky. 
-
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Mark",
-      chapterNumber: 3,
-      pageNumber: 64,
-      verse: ` <b> (11)	The Gospel of Mark, 10th chapter, 17th and 18th verses.</b>  
-    `, meaning: ` <b> 
-    (17) As Jesus started on his way, a man ran up to him and fell on his knees before him. “Good teacher,” he asked, “what must I do to inherit eternal life?”
-    <br><br>
-    (18) “Why do you call me good?” Jesus answered. “No one is good—except God alone.    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Some Christians say that the Bible was first written in Hebrew. After that, it was translated into many languages from the Hebrew language. Hence some words were not translated correctly. The first verse used the word ‘Good teacher,’ and the second used ‘God is good.’ Based on what Jesus said, “No one is good—except God alone,” the word should neither be ‘Good teacher’ nor ‘Good God.’ One who teaches wisdom eloquently can be called a good teacher. One who does good deeds is called a good person. 
-    <br><br>
-    There are good teachers and good people on earth. Therefore, it would be belittling God to compare with them and say, “No one is good—except God alone.” The second divine scripture, the Bible, has been translated into more languages than the other two holy scriptures. The Bible was translated into 1400 languages. The Bible, the second divine scripture, is the only scripture that has been translated into most languages. 
-    <br><br>
-    The first divine scripture is the basis for the second divine scripture, the Bible, and the last divine scripture, the Quran. The last divine scripture, the Quran, provides testimony in 5:44, 5:46, 5:48, and 5:68 that <b>the wisdom of the first divine scripture, the Taurat (the Bhagavadgita), is also present in the other two scriptures.</b> Therefore, if we think what word could have been used in the Gospel of Mark, 10:17 and 10:18, there could be many good teachers and good people in the world, but there is no Uttama Purusha in men. Hence, <b>“God alone is Purushottama,”</b> said in Bhagavadgita. So, it can be said that unrelated words were used in the above verses where the word should be Purushottama. This is well understood when you look at slokas 16,17 and 18 in the 15th chapter of the Bhagavadgita, the Purushottama Prapti Yogam. 
-    <br><br>
-    According to the first divine scripture, there is only one Purusha. Although there is only one Purusha, God is divided into three -Jivatma, Atma, and Paramatma. In three males, <b>the male who is better than Jivatma and Atma is Paramatma, and he is also called Purushottama,</b> said in Bhagavadgita. It can be said that all except the three males are nature (Prakruti), that nature is feminine, and that men and women in the world are all related to the feminine nature. Therefore, Jesus said in verse, <b>“Don’t call me Purushottama (Uttama Purusha). God alone is Uttama Purusha.”</b> There are three main religions on earth. The people of each religion took a divine scripture and said this is our scripture. Their religion makes them feel that way. In fact, these three scriptures are not related to any religion. These three scriptures provided wisdom to all human beings, so they must be counted as the scriptures told to all human beings. 
- 
-
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 65,
-      verse: `<b>(12)	The Gospel of Mark, 16th chapter, 15th and 16th verses.</b>   
-    `, meaning: `<b> 
-    (15) He said to them, “Go into all the world and preach the gospel to all creation.<br><br>
-    (16) Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    After Jesus was crucified and kept in the tomb, he rose from the tomb at dawn on Sunday morning. He first appeared to Mary Magdalene then to other disciples. Jesus appeared thirty-three times to the disciples after coming out of the tomb. He told the above two verses when he appeared to the eleven disciples when they sat together for a meal. As all the humans in the world are immersed in ignorance, he told his disciples to go to them and <b>preach the gospel, God’s wisdom.</b> The same thing is said in the 15th verse, <b>“Go into all the world and preach the gospel to all creation.”</b> Here all the world does not mean different worlds. It means people who do many things for a living on earth and suffer many ways. 
-    <br><br>
-    He also said, “Preach the gospel to all creation.” It means preaching the gospel, divine wisdom, to the people of all ages. He said to preach them divine wisdom and give them the permission, ‘baptism,’ to go to Paraloka. Baptism is like a permit to moksha (Paraloka). Those who have been granted permission to Paraloka will be saved by my wisdom and escape from the experience of sin. He said that the troubles of sins would punish those who are not baptized as they do not have protection from sins. 
-
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 66,
-      verse: `<b>(1)	The Gospel of Luke, 2nd chapter, 49th verse.</b>   
-    `, meaning: ` <b> 
-    (49) “Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s business?”       </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus’ parents were looking for him, and when they saw him, they were astonished. His mother said to him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.” In response, Jesus said, <b>“Why were you searching for me? Didn’t you know I had to be in my Father’s business?”</b> Jesus’s father was also there. But Jesus replied, “I must be on my Father's work.” Jesus’ visible (physical) father was there in those who were looking for him, but what Jesus said was about his invisible (non-physical) father. It is important to know which father Jesus was referring to. If we know which father Jesus was referring to, we will know that father’s tasks. Then we understand what tasks Jesus would be doing and for what purpose he left his mother and father. 
-    <br><br>
-    In his own words, Jesus declared himself to be the Son of Man. On some occasions, he also claimed himself to be the Son of God. In this way, he is the Son of Man as well as the Son of God. If one asks whose sons all these people are, it can be said that all humans are sons of man. There is some secret involved here. For a man to be born, a seed donor is required. However, it is natural to assume that the father is the reason (seed donor) for a man's birth. Although a man seems to be a male in appearance, he cannot be counted as a male because he is created as a model for a male. Both he and his wife will be counted under the feminine nature. 
-    <br><br>
-    Although Jivatma, who is in a human body, is Atma-related-male, he will be born, but he cannot beget someone. The Atma in the body made every human born. We already said that Atma does all the tasks in the body, and he is the seed donor for all creation. As Atma makes humans born from humans, the born is called the son of man. “I am the Son of Man,” said Jesus, as if he were an ordinary man. Here Jesus said that his father is not visible ‘Joseph’, but Atma that is in everyone’s body. The first divine scripture says that the father is Atma, and the mother is Prakruti for every living entity born from a mother’s womb. Jesus was born directly without a physical father. He was not usually born like everyone else. He is the Son of the Holy Spirit (Paramatma), who is different from Atma. Because he is the Son of the Holy Spirit, he is called the Son of God. When Jesus met his parents, he said, “I must be on my Father’s work,”. But he did not mention which father (Atma or the Holy Spirit) he was referring to. If we ask ourselves whose son he was, in his opinion, he considered himself to be the Son of God. Jesus did not do the work of the Atma, who is in the body. He was spreading God’s wisdom. Spreading divine wisdom is the task of the omnipresent Paramatma. So, he said that he intended to do his father's (the Holy 
-    Spirit) work. Paramatma himself created a body and filled it with his soul. Although he is God, he said that he was the Son of Man sometimes, and he was the Son of God other times, so that no one recognizes him. 
- 
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 67,
-      verse: `<b>(2)	The Gospel of Luke, 11th chapter, 37th, 38th, 39th, 40th and 41st verses.</b>   
-    `, meaning: `<b> 
-    (37) As Jesus was speaking, one of the Pharisees invited him home for a meal. So, he went in and took his place at the table. <br><br>
-    (38) His host was amazed to see that he sat down to eat without first performing the hand-washing ceremony required by Jewish custom.  <br><br>
-    (39) Then the Lord said to him, “You Pharisees are so careful to clean the outside of the cup and the dish, but inside you are filthy—full of greed and wickedness!  <br><br>
-    (40) Fools! Didn’t God make the inside as well as the outside?  <br><br>
-    (41) So, clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.     
-    </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The last verse says, <b>“Clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.”</b> Humans could not understand the verse correctly. They are interpreting differently of what Jesus said. When it says, ‘giving gifts,’ people interpreted it as donating money, clothes, and food to poor people. Jesus did not say that. Donating external things will not purify you inside. So, he did not say to donate external items. He intends that if the dharma is practiced inside, all the inside evil will be cleansed. Jesus did not give importance to external cleanliness. He gave preference to cleaning inside gunas. Therefore, he told to follow according to the dharma of the divine path, walking against gunas. Jesus wanted others to walk the dharma path because he is purified inside and is following dharma.
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 68,
-      verse: `<b>(3)	The Gospel of Luke, 12th chapter, 4th and 5th verses</b>   
-    `, meaning: ` <b> 
-    (4) I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.    <br><br>
-    (5) But I will show you whom you should fear: Fear him who, after your body has been killed, has authority to throw you into hell. Yes, I tell you, fear him.        </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Humans can kill the body but cannot kill the inside Jivatma. Jivatma cannot be seen from outside. Because the body is visible, others can kill it. They cannot do anything more than that. You do not have to be afraid of such people. There is only one whom you should fear. Even after you die, he will count your sins and punish you
-    for your sins, and make you suffer. The relationship between man to man is severed after death. Even If the dead man is born again in the murderer's house, the dead man cannot recognize the murderer as an enemy. God recognizes the Jivatma even after the death, and he knows the next birth of the Jivatma. You should fear God, who makes you suffer for your karma after death but should not fear another man who does not recognize you after death.
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 69,
-      verse: `<b>(4)	The Gospel of Luke, 12th chapter, 25th verse.</b>   
-    `, meaning: ` <b> 
-    (25) Which of you by worrying can add to his stature one cubit?       </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      
-    Even though man thinks that he is doing everything with his intelligence, there is no relation between him and his intelligence. Man is not independent and incapable of doing anything by himself. He is like a puppet in the hands of karma. One who thinks he can do whatever he wants is in a state of ignorance about himself. According to the structure God built, karma is in God’s hand, and man is in karma’s hand. As karma controls him, he cannot make any decision on his own. No matter how much he plans and uses his intelligence, he cannot reduce or add his height. If every man knows himself and thinks about the extent of his power, he will know that he is tiny, and God is infinitely greater than him.
-
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 70,
-      verse: `<b>(5)	The Gospel of Luke, 12th chapter, 33rd and 34th verses.</b>   
-    `, meaning: ` <b> 
-    (33) Sell your possessions and give to the poor. Provide purses for yourselves that will not wear out, a treasure in paraloka that will never fail, where no thief comes near, and no moth destroys.    <br><br>
-    (34) For where your treasure is, there your heart will be also.       </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    There are two types of wealth. You can buy anything in the world with one kind of wealth. With another type of money, you can buy God who is beyond the world. The wealth that buys the world is among us. God created wisdom wealth that can even buy God. Every day, we can see money created by human beings, and we are buying things with it. The wisdom wealth created by the divine is not visible. There are many differences between wisdom wealth, and worldly wealth. Thieves can steal the worldly wealth. But they cannot loot the wisdom wealth because it is not visible. Moths can destroy worldly wealth, but it cannot damage wisdom wealth. You cannot get rid of even the smallest karma with worldly wealth. But you can get rid of even the big karma with the wisdom wealth. You will get wealth when you work, but you will gain wisdom wealth when you are intimate with divinity. The worldly wealth can be estimated, but the wisdom wealth cannot be appraised. The connection between wealth and man is severed when a man dies, and even a penny does not go with the Jivatma. But, the wisdom wealth, even after man’s death, goes along with Jivatma. All the wisdom that one has gained goes along with him in all births. Those who are rich
-    in the world will be respected among the people in society, but not in God's presence. God recognizes those who have wisdom wealth, but humans do not respect them. In this way, there are many differences between worldly wealth and wisdom wealth.        
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 71,
-      verse: `<b>(6)	The Gospel of Luke, 12th chapter, 49th verse.</b>   
-    `, meaning: ` <b> 
-    (49) I have come to bring fire on the earth, and how I wish it were already kindled.       </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Here fire does not mean the fire we see every day. Fire is of two types. One is an ordinary fire, and the other is an extraordinary fire. The ordinary fire can burn firewood and other objects. <b>Gnanagni, an extraordinary fire, burns firewood of karma.</b> Because humans are caught in the sin and suffer grievous hardships, God comes down to bring the wisdom fire (Gnanagni) on the earth to get them out. God thinks that when the wisdom fire enters humans, it burns their karma, liberates them from births, and make them reach God. God compared wisdom with fire when he came upon earth to teach wisdom because man can achieve liberation by wisdom. God brought his fire on the earth in the past. Then it kindled for some time and disappeared; hence Jesus came to bring fire again. He wants the fire to continue kindled. Hence, Jesus said that he came to start a fire where there is no fire, and he wants the fire, which he started earlier, to continue kindled. 
-            
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 72,
-      verse: `<b>(7)	The Gospel of Luke, 12th chapter, 51st, 52nd and 53rd verses.</b>   
-    `, meaning: `<b> 
-    (51) Do you think I came to bring peace on earth? No, I tell you, but division.
+(8) Do not be like them, for your father knows what you need before you ask him.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Many people in society today pray with futile words rather than <b>‘Yogam,’</b> which adheres to dharma in reaching God. They assume that God will fulfill their desires if they use many words. Their intention is not to unite with God, but rather to seek worldly desires and benefits. However, you should not pray like them. Your father, Atma, already knows everything even before you ask. He knows what should or should not be granted to you. Therefore, it is of no use to inquire about material benefits. Your Father, Atma, guides you according to your karma. Hence, Atma provides you with what you have earned through your past karma. Whether you ask or not, Atma bestows everything according to karma. Atma is the Father of all humans, and the Holy Spirit, the Father of Atma, is the witness to all things.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 17,
+verse: ` <b>(16)	The Gospel of Mathew, 7th chapter, 13th and 14th verses.</b> `,
+meaning: `<b>
+(13) Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it.
 <br><br>
-(52) From now on there will be five in one family divided against each other, three against two and two against three.    <br><br>
-(53) They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter- in-law and daughter-in-law against mother-in-law.   </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Paramatma reveals his wisdom when he incarnates on earth in Bhagavan’s form. Bhagavan’s wisdom creates opposite feelings for all those who are in Satan’s path. In such cases, there will be differences of opinion between those who know the wisdom and those who do not know the wisdom. Those who know wisdom will disagree with those who do not know. When such a situation happens in the same house, the household members become hostile to each other. If anyone tries to know wisdom at home, Satan will be careful. Satan divides them, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law, and daughter-in-law against mother-in-law. Even Bhagavan, Guru, will tell you to disagree with those who disagree with you on wisdom when he knows that a husband and wife are fighting because of his wisdom. Hence, their quarrel will increase rather than diminishing. <b>Hence, the Lord said, “I did not come  to bring reconciliation but division.”</b> Do you think Bhagavan, who has come to teach wisdom on earth, tells you to listen to your household and not learn his wisdom? Do you think the Lord, who told you to cut off your hand if it obstructs God’s wisdom, asks you to reconcile with your wife and relatives? Never. He told you not to compromise with them even if you lose your life. Therefore, there are many fights in many families because of God’s wisdom. It is noteworthy that wherever true wisdom is proclaimed, there will be hostility within the household. There are no disagreements when Satan’s wisdom is told in the name of divine wisdom. All will be supportive of such wisdom. One can know that if all the household members become enemies because of divine wisdom, then such divine wisdom would be true God’s wisdom. 
+(14) But small is the gate and narrow the road that leads to life, and only a few find it.
+</b> `,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  There are two paths in this world: one is the path of Paramatma (The Holy Spirit), and the other is the path of Maya. While there are very few who seek God, many are drawn to the vast path of Maya. The gateway to moksham is narrow and challenging to traverse. God’s path is likewise narrow, and only a few manage to discover it.
 
-    
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 73,
-      verse: `<b>(8)	The Gospel of Luke, 13th chapter, 3rd verse.</b>   
-    `, meaning: `<b>(3) Unless you change your mind, you too will all perish.
-    </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Mind (manas) is the most important of the body. Manas is so named because it remembers things. It is always under the control of Maya (Satan). It always empowers Satan and reminds us of worldly matters. Since man’s birth, the mind has been working on Satan’s side but never acted on God’s side. The conversion of such a mind from Satan’s side to God’s side is called a ‘change of mind.’ No one can go to God’s side unless the mind is changed. When the mind changes, gnanagni begins to generate. Man unites with God without birth and death when gnanagni destroys entire karma. If the mind does not change and control thoughts, man must be born and die and bear the pangs of hell. So, everyone should change their mind.
- 
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 74,
-      verse: ` <b> (9)	The Gospel of Luke, 14th chapter, 26th verse.</b>   
-    `, meaning: `<b> 
-    (26) If anyone comes to me and does not hate father and mother, wife and children, brothers, and sisters—yes, even their own life—such a person cannot be my disciple.       </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    If anyone listens to this, they will get surprised and ask – what kind of wisdom is this? What kind of Guru? What kind of disciples? One may come to Guru and question him, “Does any Guru say to his disciples that you are not my disciple unless you scold your family?” We need to think here. If a man scolds all his household, Guru is not a madman to get pleased and accept him as a disciple. Here it is not said to hate everyone in a row. Guru becomes indeed happy when his disciple hates the ignorant who walk in Satan’s path. When a disciple, in line with the Guru sentiment, scolds the ignorant, Guru thinks that the disciple is on his side and accepts him as a disciple. If a disciple supports instead of contradicting the ignorant, Guru will not admit him as a disciple. Hatred is common between two groups - gnanis and agnanis (the ignorant). If father and mother, wife and children, brothers and sisters are in the ignorant list, the disciple should hate them. The Lord said that one who does not hate the ignorant and favors relatives is not my disciple. It becomes known that one should not compromise
-    on ignorance. Jesus said that the disciple should abandon mother, father, brothers and sisters, and wife and children if they block his wisdom path.    
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 75,
-      verse: ` <b>(10)	The Gospel of Luke, 14th chapter, 27th verse.</b>   
-    `, meaning: `<b> 
-    (27) Whoever does not carry their cross and follow me cannot be my disciple.       </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When firewood is bundled, it is easy to pick it up and carry for long-distance. It is not possible to carry if it is not packed. Similarly, when the 108 gunas in your head are tied together in a dysfunctional condition, they become a bundle in the hands of man. There are two kinds of gunas - good and bad- in the body of a man. <b>The six bad qualities(gunas) are greed (kaama), anger (krodha), selfishness (lobha), emotional attachment (moha), arrogance (mada), jealousy (matsara). Similarly, six good qualities are donation (dana), mercy (daya), unselfishness (audarya), detachment (vairagya), humility (vinaya), kindness (prema).</b> Each of the six bad gunas and six good gunas is divided into nine parts. Thus, six bad gunas are divided into 54 parts, and six good gunas are divided into 54 parts. Both good and bad gunas together are 108. 
-    <br><br>
-    Gunas, which are in 108 parts, is called Maya in the first divine scripture. They are called <b>Satan</b> in the second divine scripture. In the final divine scripture, these gunas are named Iblis. God himself spoke of the Maya as “Guna-mayi mama maya” in the first divine scripture. It means that Maya, which was created by God, is in the form of gunas in the human body. Maya was mainly created by God to stop humans from going in the divine path. Maya can make man stay by its side instead of going to God’s way. It can be said that Maya is guna or guna is Maya. Maya means invisible. Maya is in the head without being seen. Maya, which is in our body, is also called the Cross. In the spiritual sense, Maya is compared with a python. Atma has been compared to a dove and Maya as a python. 
-    <br><br>
-    Python is a mighty serpent. One who has been caught by it cannot become free. That means Maya is strong. Jesus said that whoever controls, bundles, and holds such strong Maya in their hand is my disciple. Jesus said that the conqueror of Maya was truly my disciple. <b>Whoever captures Maya (the Cross) and follows God’s path by carrying it is a true disciple of God.</b> One who carries the cross that we talk about great today and follows Jesus is his disciple, said in verse. 
-        </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 76,
-      verse: `<b> (11)	The Gospel of Luke, 18th chapter, 29th verse.</b>   
-    `, meaning: `<b>  
-    (29) “Truly I tell you,” Jesus said to them, “no one who has left home or wife or brothers or sisters or parents or children for the sake of the kingdom of God will fail to receive many times as much in this age, and in the age to come eternal life.”   </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      The kingdom of God means moksha. If a man gets moksha, he will not be born again on earth. When he is not born on earth, he will not suffer from Satan. Moksha means getting released from Satan and joining God. In other words, a man becomes God. It is so great when Jiva, who has a shape and is very small in Prakruti, will unite with God, who is infinitely vast, limitless, and omnipresent. To obtain such a position, man should enter wisdom path and abandon wife and children, father and mother, brothers and sisters and house if they obstruct him. Such a person becomes complete gnani in this world and obtains God in Paraloka. Giving up wife and children, brothers and sisters, and father and mother is a big deal. Because Maya surrounds the man and restrains his legs with his near and dear. Prahlada did not count his father, Mirabai left her husband and relatives, and Buddha left behind a young wife and one- year-old son, parents, home, and kingdom for wisdom. Similarly, those who keep their dear ones distant will get closer to God, who is alien to them. For getting someone who is eternal, leaving someone who stays with you for a while is an intelligent decision. But it appears foolish in the world. Such a man will be counted as foolish. It is rare to find a man who leaves everyone in the world of Satan's kingdom for God's sake. Because if anyone gets the idea of God in their mind, Satan mainly focuses on them and diverts them from the thought and the wisdom path. It is impossible for a man to overcome Satan’s power and conquer it, said in Bhagavad-Gita, Vignana Yogam, verse 14. Here may get a doubt. How does a man go to God when Satan's power is so great that man cannot overcome it? Why attempt and fail? If man completely trusts God and continues his endeavors knowing he cannot stand before Satan, God himself will pull him away from Satan to his side. Therefore, if the tiniest human wants to defeat Satan, the only way is to surrender to God completely. <b>“Maya metam tarantite,”</b> said in Bhagavad-Gita about the one who completely trusts God. That means <b>“I will get him out of Maya.”</b> Therefore, God can save man from Satan if he puts his complete trust and burden on God. 
+  The verse mentions God’s gate (entrance) and the road. The first is the entrance, and the next is the path. There are only two roads for all human beings. One is narrow, and the other is wide. The gate to the narrow road is narrow, and the entrance to the broad road is wide. The entrance and the path must be a few times larger than the one who enters. Then it is only possible to enter the gate and the road. The narrow gate’s size and the narrow path’s width equal the size of the person who enters. But in the second choice, the wide gate’s size and the width of the broad road are 108 times bigger than the person who enters. In this way, there are only two paths in this world—one with a gate 108 times wider and a broad road, and the other with a gate and path of exact size. The Lord compared these two types of gates and paths to wisdom and ignorance. The path of wisdom is very narrow, and the entrance size is limited, making it challenging to walk. The ignorant path is 108 times larger and is free from hindrances. The path of wisdom is narrow and has obstacles, but its destination is Paramatma. Even though there are no obstacles on the wide gate and the broad ignorant path, it leads to Satan. Paramatma’s path is without birth and death, without destruction, and is always in a state of no change. Satan’s path has birth, death, and destruction and is always in a state of change. Although the path of Paramatma is far superior, and Satan’s way is the worst, most people choose to walk on Satan’s road. When a person enters Satan’s path, all their associates support them and do not cause any trouble. There will be no financial difficulties, and life will feel comfortable. However, when a person chooses the path of wisdom, their relatives and spouses may become enemies and obstruct their journey. Life may become challenging. Hence, very few, if any, among the millions choose the path of wisdom.
 
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 77,
-      verse: `<b>(12)	The Gospel of Luke, 21st chapter, 15th verse.</b>  
-    `, meaning: ` <b> 
-    (15) I will give you words and wisdom that none of your adversaries will be able to resist or contradict.       </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-     
-    When young children who know some wisdom question the teachings of renowned preaches and gurus in the world, they will not get an answer in their teachings. Therefore, the preachers put a rule that no one should question their wisdom in the world. The main reason for the lack of answers in their teachings is that it is not scientific. Unscientific teachings cannot answer rational questions. They keep teaching but do not answer if asked. When Paramatma incarnates as Bhagavan, he teaches the true Paramatma’s wisdom. Hence, those who know the wisdom told by Bhagavan can teach and answer if anyone asks any question. Seeing Bhagavan’s devotees, who know Paramatma’s wisdom, adversaries come to them with the ego that they are gurus and gnanis and speak contradictorily. At such a time, the wisdom which adversaries cannot speak against was already told to devotees. The word of God says that many are jealous and increase rivalry against those who know true wisdom.
-Even when God came down, the adversaries confronted him and said, “You don’t know wisdom yet and go to a specific place to learn genuine wisdom.” Some people on earth came to me and said that I do not know the wisdom. Such people will also come to you. God said in the above verse that he would give you the wisdom to answer them.
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of Luke",
-      chapterNumber: 4,
-      pageNumber: 78,
-      verse: ` <b>(13)	The Gospel of Luke, 21st chapter, 17th verse. </b>  
-    `, meaning: `<b> 
-    (17) Everyone will hate you because of me.      </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The wisdom that Bhagavan, the Son of God, revealed is against the people whom Satan possessed. The ordinary people have a chance of misunderstanding the wisdom. It also appears to be entirely against preachers and gurus, who have some wisdom. Pandits, preachers, and gurus do not like the words of those who preach the name of God. They and the people who follow them begin to hate those who preach God’s path because they find God’s words contrary to them. Hence, God said in the above verse, 
-    <b>“Everyone will hate you because of me.”</b>
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 79,
-      verse: `<b>(1)	The Gospel of John, 1st chapter, 1st verse.</b>   
-    `, meaning: `<b>(1) In the beginning was the Word, and the Word was with God, and the Word was God.</b>`, pageText: ` 
-        <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        The Gospel of John has 21 chapters. Here I write an explanation for only some of the verses in the Gospel of John. I chose verses which humans failed to understand, did not understand correctly, or have the possibility of interpreting wrongly. As this is a part of God’s service, I feel I am just a pen, and God makes me do this work. I previously illustrated some of the verses from the first divine scripture Bhagavad-Gita and the third divine scripture Quran. As it is my deepest desire to explain all three divine scriptures, I illustrate some of the verses from the second divine scripture Injeel (Bible). The wisdom provided here is scientific and genuine. Now we write the first verse from the first chapter of the Gospel of John. The first verse in the Gospel of John contains three short sentences. These three short sentences must be explained to understand the first verse completely.
-        <p></p>
+  Many people are journeying along the vast, ignorant path, which presents no hindrance or opposition. Surprisingly, they remain oblivious to the existence of a narrow passage leading to moksham and the Father of the paraloka. In the Bhagavad-Gita, Krishna states that not even one among thousands wishes to traverse the narrow path. Rarely does someone enter it, and even rarer is reaching the destination due to obstacles posed by Maya. Krishna, in the Bhagavad-Gita, further emphasizes that the person who overcomes these obstacles and reaches the destination is considered ‘the blessed one,’ and such an individual will unite with the eternal Paramatma. Both Krishna and Jesus represent the Paramatma. Krishna elucidated the paths of wisdom and ignorance in the Bhagavad-Gita towards the end of Dvapara Yuga, while Jesus conveyed a similar message in the holy text, three thousand years into Kali Yuga. Those who comprehend the paths of wisdom and ignorance as explained by Sri Krishna and Jesus Christ should embark on the suggested path of wisdom, persisting despite all obstacles, until they ultimately reach Paramatma, which is eternal moksham.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 18,
+verse: ` <b>(17)	The Gospel of Mathew, 7th chapter, 7th and 8th verses.</b>
+`,
+meaning: `
+<b>
+(7) Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.<br><br>
+(8) For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+</b> `,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> In this verse, three essential verbs—<b>ask, seek, and knock.</b> Jesus instructed us to perform these three things in a spiritual context. The Lord’s teachings do not revolve around worldly matters, unlike many others. Unfortunately, many have misunderstood this verse, interpreting it as a call for material blessings. Consequently, people began requesting earthly favors from the Lord, contrary to His original message. Even though people read the Holy Bible, Satan has entered their hearts, clouding their understanding of Jesus’s teachings and leading them to seek material desires. Man’s intent is not to transgress God’s word, but Satan capitalizes on their lack of comprehension, deceiving them into thinking they are not violating divine commandments. In reality, this leads them to transgress God’s word. Satan, a creation of God, exists wherever God’s presence is felt. Wherever God’s word abides, the influence of Satan may also be present. Therefore, it is crucial to diligently comprehend God’s verses and safeguard ourselves against the influence of Satan when interpreting the scripture.
 
-        Let us now discuss the first three words of the Gospel of John in the second divine scripture.
-        <p></p>
-        Word was at the beginning. <br>
-        Word was with God.<br>
-        Word was God.
-        <p>
-        In the Bible's teaching, let us call these three verses the beginning verses of the Bible. Others may ask that the Genesis' verses should be called the firsť words of the Bible. We already told you the details. We take the teaching that man needs as scripture and will discuss the first verses from it. According to this method, the Bhagavan Jesus told the four Gospels. Although the Gospel of John was the last one out of four Gospels, it started with the teaching. According to the same principle, we took the 11th verse of the second chapter as the Bhagavad-Gita beginning. Because God's wisdom started from there, we took verses 11th, 12th, and 13th from Sankhya- yogam as the first three sentences. Similarly, the first verses were taken from the 43rd chapter of Injeel (the Bible). We took three verses from the Tourat (Bhagavad-Gita) as the first three sentences. Here, however, we took three sentences from one verse in the Gospel of John as the first three sentences. We did not take three consecutive verses as the first three sentences. The sequence of sentences is not important. We took the ones filled with three meanings as three sentences. Although these are three short sentences, each one of them has profound meaning.
-        <br><br>
-        These three sentences have subtle meaning. The first three sentences of the Bhagavad-Gita said about Jivatma and Atma. However, the first words of the Gospel of John teach a special meaning. The beginning of the Bhagavad-Gita says about the three parts - Jivatma, Atma, and the body. But the three first sentences of the Gospel of John say about the three aspects - Wisdom, Atma and Paramatma. But in these three sentences, it is not clear where Atma is and where Paramatma is. In these three sentences, the word God is mentioned in two sentences. Except that, wisdom and Atma are not recognizable in the three sentences. Now let us take the first sentence from the three sentences. 
-        
-        </p>
-        The first sentence is <b>Word was at the beginning.</b> Word is produced in a speech. Sound from the mouth comes in a speech. One can hear a sound. Sound may be bigger or smaller. One can say whether a sentence is big or small, depending on the sound that is heard. The sentence may not be in the language you know and can be long or short. One cannot say whether the word (sentence) has been told with a low sound or a loud sound. Let us take the sentence <b>Word was at the beginning.</b> We know that the word was told in the beginning. But humans do not know any language in the beginning. Then the question may arise as to in what language the word was told. To get an answer, let us see what happened at the beginning. 
-        <br><br>
-        If we ask where the sound came from in the beginning, we can say that the sound heard by man’s ear is from Prakruti. Prakruti consists of five great bhootas - Earth, Water, Air, Fire, and Sky - and each has life. The Sky, which has life, produced the sound at the beginning. Then the question may arise as to how the Sky produced sound when it is void. This question is rational. If we know the answers, then it becomes science. According to Brahma Vidya science, did the Sky itself make the sound? As the Sky is a Jiva, Jivatma is not capable and cannot do anything as per the science. It is Jivatma’s dharma. Paramatma also has a dharma. Paramatma (God) does not have a name, form, and work. This is the first and foremost dharma of God. God is not a man of action; he does not work. According to Jivatma’s dharma, he is not capable and cannot perform any work. God does not do anything, although he is capable. Thus, Jivatma and God have opposite dharmas. In the beginning the word came through the Sky. As the Sky is also a Jiva, it did not make that sound. The sound which came from the Sky is a fact. But the Jiva of the Sky is not capable and cannot produce any sound. So, someone who was behind the Sky may have sounded. God did not make the sound because he does not work. Although the sound which came from the Sky is true, the reason for the sound is neither the Jiva of the Sky nor God. One may get a doubt that there was someone apart from both. 
-        <br><br>
-        To clarify this doubt, we need to know who are in the universe. God, existing as God, first created Prakruti from him. He created the Prakruti as five parts. Then he created both Atma and Jivatma from him to give mobility to nature because the Prakruti was lifeless. Like himself, God created masculine (Purusha) Atma and Jivatma and made Jivatma the passenger and Atma the driver. He appointed Atma to do all things. In everyone, Atma performs all things in the body, living with Jivatma. God, in his scripture, said that even great gnanis do not know about Atma. Only those trying yogis can know about Atma, said in the Bhagavad-Gita Purushottama Prapti Yogam 11th verse. One should know that Atma is hidden in the body without being known. 
-        <br><br>
-        If God does not work, some may ask how he made Prakruti, Atma, and Jivatma. My reply is that it is true that God does not work. He said this dharma after he created Prakruti, Atma, and Jivatma. Before creation, God used to work, and God was the only one. There was no one except God before creation. Therefore, God worked before creation. God created the Prakruti. After the Prakruti, God created Jivatma and Atma. Then God created his dharma. God did not work after the creation but worked before the creation. God assigned all the tasks to Atma and decided to get all the tasks done by Atma. Thus, Paramatma ceased doing what he used to do after he created Atma. Atma does all the things which God is supposed to do. Because Atma does all the tasks, Paramatma does not do anything, but he became a witness. 
-        <br><br>
-        God does not work, Jiva cannot do anything, and Atma does all things. Hence, Atma made the sound from the sky at the beginning. Atma, hiding in the sky, made the sound from the sky. The sound which Atma made became God's wisdom. Hence the sound is called ‘word.’ Word means ‘the sound with a meaning.’ To say that the meaningful sound came from the sky at the time of creation, the sentence <b>“Word was at the beginning”</b> is said. We learned what the word is and who told it. The word was with God’s wisdom. Atma spoke the word in the form of sound. What Atma told from the sky is the first wisdom to the world. Although the sound which came from the sky was wisdom, the wisdom was a loud sound in the form of thunders. It was not in a language that humans could understand. The Sun understood the sound of thunder in the sky. Knowing that it was not an understandable language for humans, the Sun told a man named Manu on the earth in the human language. 
-        <br><br>
-        God’s wisdom came in the form of unintelligible sound at the beginning of creation. Hence, it is said in the first sentence of the first chapter of John's Gospel that <b>Word was at the beginning</b>. Humans did not know on that day that the sound was God’s wisdom. They understood somewhat when the Sun told it. Krishna told the same wisdom in the form of Bhagavad-Gita. Although Krishna said that it was the same wisdom told at the beginning of creation, man’s attention did not go to the sound of thunders at the beginning. No one knows so far that the sound of thunder is the Bhagavad-Gita’ wisdom. The Sun told Manu the same wisdom that Krishna said. The Sun told the wisdom that came from the sky in thunder. The wisdom from the sound of the sky came from the Atma of the sky. Atma’s wisdom came from the Atma. Atma itself became the wisdom, and the same wisdom came out of the Atma. Thread comes out of the cotton. Similarly, wisdom came out of Atma. Just as the cotton becomes the thread and the thread comes out of the cotton, the wisdom is coming out of the Atma. Cotton and thread are different, but the cotton becomes the thread. Similarly, Atma and wisdom are different, but Atma’s wisdom is coming out of Atma. If the thread is divided, it has cotton wafers. Similarly, if Atma’s wisdom is divided, it has Atma’s system. 
-        <br><br>
-        In the beginning, God told his wisdom through the sound of the sky. God reveals his wisdom in three ways. One of those methods is the revelation from the sky, as said in Quran 42:51. God told his wisdom through the Atma of the sky at the beginning. Humans did not understand the wisdom that came in the form of thunders because it was not human’s language. Hence, the Sun, who grasped the wisdom in the 
-        thunders, told a man on earth in human language. Later it spread throughout the earth. In time, adharmas took the place of dharmas. Hence the wisdom told at the beginning disappeared from humans. Then Bhagavan came in Krishna’s form and told Arjuna in Dvapara Yuga that he was telling the same wisdom that Sun had told. Although the same wisdom is in front of us in the form of Bhagavad-Gita, the first divine scripture, we do not remember that it is the same wisdom which the Sun told. Everyone forgot what happened in the past. 
-        <br><br>
-        As humans forgot the wisdom sent by God, the first three sentences were told in the Gospel of John 3000 years after Bhagavad-Gita was said. The sentence <b>Word was at the beginning</b> is now understood. It became known that the wisdom in the thunders form came from the sky’s Atma based on the second sentence. Hence, it is said that <b>Word was with God.</b> Further insight tells that the sound of the word was born out of Atma. Just as the twisted thread comes out from cotton fiber, Atma’s mobility became the power, and the wisdom in the energy came out in the form of sound. The thread has cotton fiber. Similarly, the sound of wisdom has Atma’s power. Atma’s wisdom is in the form of Atma’s power and Atma. Hence, Atma’s wisdom and Atma are one and the same. Hence it is said <b>Word was God. </b>
-        <br><br>
-        So far, we said that God created Jivatma and Atma. God worked before creation. After creation, he empowered Atma to do the work, and he vanished as if he did not exist. God did not do any tasks and made his presence unknown to anyone. After God severed his relationship with the world, he became equal to the one who did not exist. Then Atma had to do the God's works. Atma is doing the tasks of Jivatma and Paramatma, but Atma is unknown to anyone. The above sentences reveal Atma’s entire working process. There were three souls when Paramatma made the creation. After that, only two souls are known. While Jivatma and Atma are in existence, Paramatma is without presence. Therefore, Atma took the place of Paramatma after creation. That is why Atma can also be called God. Although Atma is not God (Paramatma), he is doing God’s tasks, occupying God’s place. 
-        <br><br>
-        The wisdom of Atma came from Atma. By claiming that Atma is God, it is said <b>Word was with God</b>. This word is correct when we consider Atma to be God. Atma, though not God, must be said to be God. God gave Atma the authority to be God. Thus, when the word (wisdom) is Atma, it can be said that the same wisdom (Atma) is God. Hence, it is said <b>Word was God</b> in the Gospel of John. After answering questions such as ‘What is the word,’ ‘How the word is Atma,’ and ‘Why is Atma said to be God,’ I assume that the meaning of the first three sentences from the Gospel of John 1:1 is completely understood. If one does not understand this after such detail, then Atma’s wisdom will never be understood. If Atma’s wisdom is not understood, then God’s system is not known at all. To know God’s way, one must begin with the wisdom of the word. If wisdom is known, it becomes known that wisdom is Atma, and the Atma is God. 
+  We should ask God, seek God, and knock on God’s door. This is the way of God. If you ask for something else or seek something else, it will be the way of Satan (Maya). Those who follow God’s path seek God’s wisdom. You may have many questions: How is God? How can we reach God? How can we understand all the details about God? Do not assume that no one on Earth can answer these questions. God comes and provides the answers you seek when humans on Earth are unable to access God’s information due to the influence of Satan. You can find answers to your questions, but you may not recognize who provides these answers. Even when God is born on Earth and offers answers, we often perceive Him as a regular human being rather than God. If you ask, you will gain complete wisdom. If you search, you will discover that God has come to Earth in human form. When God incarnates on Earth, He does not claim to be God and does not reveal Himself to anyone. This is His rule. According to this rule, those who do not seek will not find, but the seekers will recognize Him. Since only a few asked wisdom when the Lord Jesus was on Earth, He shared His wisdom with them. Because there were so few seekers, He did not appear as God to anyone; to all, He seemed like an ordinary man. His twelve disciples, too, perceived Him as a preacher and were unaware that Paramatma, who encompassed the entire universe, had incarnated as Jesus. He intentionally behaved in a manner that prevented anyone from recognizing Him as God.
 
+  The King of Paraloka, Paramatma, washed the feet of His disciples during His time on Earth as a man. This humble act made it challenging for His disciples and others to recognize Him. Regrettably, people failed to identify Him as the Lord and treated Him disrespectfully, regarding Him as an ordinary man. He endured spitting on His face, a crown of thorns on His head, beatings, and crucifixion. Even when Jesus died and rose again with the same body on the third day, some of His disciples mistook Him for a devil. This highlights that His disciples were inquisitive but not truly seeking. As the saying goes, <b>"seeing is greater than listening,"</b> those who witnessed Him in person held a higher status than those who merely heard His teachings. While people had the opportunity to see the God of the entire world in the form of Jesus, it was as if they hadn’t truly seen Him. In this context, the Lord described His disciples as blind, despite having physical sight. To avoid such blindness, one should actively seek God. As the verse suggests, everyone who asks receives, and everyone who seeks finds. Therefore, the asker receives God’s words, the seeker gets God’s form. The one who sees is greater than the one who listens and the one who experiences is greater than the one who sees. Based on this principle, the one who knocks gains access to the realm of moksham. Knocking, in this context, isn’t about knocking on a neighbor’s or a stranger’s door but rather about seeking entry into the kingdom of moksham and the gates of the kingdom of Paraloka. Those who seek moksham unite with Paramatma and experience His true essence. Those accustomed to asking and seeking should definitely try to unite with God. That means they will definitely become a knocker. Through the processes of asking, seeking, and knocking, anyone can come into union with God. Thus, these three essential qualities should be cultivated by every individual, as outlined in the aforementioned verse. Following God’s guidance, the asker gains wisdom, the seeker finds Bhagavan, and the one who knocks gains access to the house of moksham.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 19,
+verse: `<b>(18)	The Gospel of Mathew, 7th chapter, 15th verse.</b>`,
+meaning: ` <b>
+(15) Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   Human beings require guidance to find their path to God, and this guidance often comes from others. To walk in God’s path, a person must place their trust in another. Those who follow this spiritual path rely on their guides to show them the way. The follower’s journey depends on the guide, as they must follow the path the guide illuminates. This makes the follower reliant on the guide, and if the guide provides the correct direction, the follower will progress correctly. Conversely, if the guide offers the wrong direction, the follower may stray from the path. The ultimate destination of an ordinary person is strongly influenced by the chosen guide or guru. Once a person is recognized as a guru, individuals tend to believe and trust their guidance throughout their lives. Therefore, great care should be exercised when selecting someone as your guru or guide. In the verse mentioned above, the Lord warned, <b>‘Beware of false prophets.’</b> He cautioned that some contemporary gurus may not be genuine guides. They may present themselves in sheep’s clothing, pretending to be genuine gurus, but in reality, they are like ferocious wolves in disguise. According to the teachings of Jesus, many individuals may dress and act like gurus, even using words such as God, wisdom, and Atma in their discourse. However, their true nature may not lead you closer to God. Just as a wolf concealed under sheep’s skin is not a sheep, these individuals, despite their appearance, are not genuine gurus. Therefore, the Lord’s advice is to be vigilant and cautious about false prophets to avoid wasting one’s life by following those who do not offer true guidance.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 20,
+verse: `<b>(19)	The Gospel of Mathew, 7th chapter, 21st verse.</b>`,
+meaning: ` <b>
+(21) Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of paraloka, but only the one who does the will of my Father who is in paraloka. </b>
+`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Lord Jesus emanated from Paramatma. Jesus is Bhagavan incarnate in human form, whereas Paramatma, the Father of Paraloka, is God in a formless state, omnipresent throughout the entire universe. When Bhagavan, embodied as Jesus, walked the Earth, some recognized His divine magnificence and revered Him for their material desires. They addressed Him as ‘Lord, Lord,’ seeking personal gains. However, approaching the visible form of the Lord and calling Him great without attaining divine wisdom is insufficient. Although the one in a visible form and the one in an invisible form are the same, there are inherent limitations to the visible form, whereas the invisible Father of Paraloka is limitless. The boundless Paramatma occasionally assumes a tangible form to impart His divine teachings to humanity. Jesus is the form chosen by Paramatma for this purpose. While the Lord presented Himself to us as Jesus, the Father of Paraloka spoke through the words of Jesus. God incarnated as Jesus to proclaim His dharmas.
 
+  Merely calling Jesus ‘Lord’ without putting God’s wisdom into practice and aligning with the will of the Father of Paraloka brings no real benefits. The one who actively practices God’s wisdom stands higher than the one who merely utters the Lord’s name. The one who abides by God’s words is more important than the one who merely salutes to God. A person who lives in accordance with God’s commandments is truly following God’s will, and such individuals are destined for Paraloka (moksham). God does not seek flattery and does not yield to it; rather, God is pleased by those who embrace and apply His wisdom. Therefore, it is more meaningful to practice God’s teachings rather than merely offering praise. God possesses an understanding of the thoughts and intentions of all beings and can distinguish between those who truly comprehend and live by His wisdom and those who do not. Those who comprehend and live by God’s wisdom hold special importance to God. Those who misunderstand or disregard wisdom and fail to act in accordance with God’s cannot attain moksham.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 21,
+verse: ` <b>(20)	The Gospel of Mathew, 7th chapter, 22nd and 23rd verses. </b>`,
+meaning: ` <b>
+(22) Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name and in your name drive out demons and, in your name, perform many miracles?
+<br><br>
+(23) Then I will tell them plainly, ‘I never knew you. Away from me, you evildoers!’</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Some people who recognize the greatness of the Lord (Jesus) may overlook Paramatma, the ruler of paraloka, and focus solely on praising Jesus. Paramatma, the Father of the entire world, sent a part of Himself as Jesus. Jesus possesses as much power as Paramatma. Praising the Lord Jesus is akin to praising the Father, Paramatma. Many people offer their praise to the Lord, but there are those who do so out of selfish motives, while others are selfless in their devotion to God. The Father of paraloka conveyed his message through Jesus, whom He sent, on numerous occasions. Many are familiar with the words of the Supreme Father but do not comprehend His true nature. It might be asserted that not even one out of millions who read the Father’s words, listen, and offer their praise, truly understands the Father’s actual essence. The Lord proclaimed God’s commandments, wisdom, and verses. The visible Lord (Jesus) serves as the symbol of the invisible God, and He is the image and representative of God. Those who fail to grasp the wisdom and commandments contained in the verses cannot fully benefit from their praise of the Lord.
 
-      <ion-row>
-        <ion-col><b>At creation </b></ion-col>
-        <ion-col><b>God (Paramatma) </b></ion-col>
-        <ion-col><b>Prakriti Atma Jivatma </b></ion-col>
-      </ion-row>
-      <ion-row>
-        <ion-col><b>After creation </b></ion-col>
-        <ion-col><b> (Paramatma)</b></ion-col>
-        <ion-col><b>Prakriti Atma Jivatma </b></ion-col>
-      </ion-row>
-      <ion-row>
-        <ion-col><b>After creation </b></ion-col>
-        <ion-col><b> Atma (God)</b></ion-col>
-        <ion-col><b>Prakriti Atma Jivatma </b></ion-col>
-      </ion-row>
-      God worked at creation and made feminine Prakruti and masculine Atma and Jivatma. God was purusha and made two souls like him. Those two souls are Atma and Jivatma. After God made creation (Prakruti, Atma, and Jivatma), God became a witness to Prakruti, Atma, and Jivatma without any work. As God does not work, it becomes as if there was no God though he exists. Whenever dharmas are threatened, and adharmas become widespread on earth, God sends his soul as Bhagavan to establish dharmas again. God sends his representative to establish dharmas; hence he does not need to work. But Atma does all other work. As God is not in his place after creation, Atma works as God and makes everyone believe in God's existence. After creation, God became useless and remained doing nothing. Hence, it can be said that God does not exist. Atma fulfilled the deficit of God. Atma himself became God to make us unaware of the lack of God. Hence, <b>Word was God,</b> said in the second divine scripture. From this sentence, it becomes known that God and the word are separate. Although the word is not God, the word became God. The sentence <b>Word was God </b>makes it known that the word became God. As the word (wisdom) is Atma and the Atma is God, it is said that the Atma, which is the word, is God. All are mistaken in knowing who God is and who Atma is. 
-      <br><br>
-      In fact, God is no more after creation. Atma replaced God without knowing that there is no God in the world. Therefore, Atma performs Jivatma’s duties and Prakruti’s duties on one side, and on the other hand, Atma became like God and is in God’s place. After creation, God became one who does not have a name, form, and work. He is nothing and does nothing. It is better to say that such God is not existing than to say existing. As there is no God in God’s place, Atma became God. Hence, <b>Word was God,</b> said in the third sentence. Many are hearing and studying these sentences. However, the mysterious secrete is not known. 
-      <br><br>
-      To convey the reality about Atma, who is God, it is said <b>Word was God.</b> When Atma, who plays God's role, does any work, it says Jivatma did it, or God did it. Hence, all are convinced that God is there. Some may ask that who has authority over the universe if there is no God. They may also ask whether I am teaching God’s wisdom or atheism. Here is my answer to this question. We said that God is not in God’s place, but we did not say no God. It is not known what God is doing. We said that God does not work. We said that God has no relationship with humans, but we did not say that God is not there. God exists, but he has no name, no work, and no form. So, he has no relationship with humans. Whenever there is a threat to dharmas, God sends his representative to establish dharmas again. He does the work through his representative. Even then, he does not say that he is God. Although God's representative is equal to God, he does not say I am God. He goes with the nickname Bhagavan. No one knows who God is and what qualities God has. Since creation, no one saw God or spoke to God. One can say about anything in the world, but not about God. Therefore, God was called ‘Allah’ in Kruta Yuga. It means that he has no limits and boundaries. God is called ‘Parabrahma’ because he is greater than Atma, who plays all. God is also called Paramatma because he is separate from Atma. God is 
-      called ‘Purushottama’ because he is the best purusha than Jivatma and Atma. It is better to admit that neither you nor I know about God. 
-      
-      
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 80,
-      verse: ` <b> (2) 	The Gospel of John, 1st chapter, 9th verse.</b>  
-    `, meaning: `    <b> 
-    (9) The true light that gives light to everyone was coming into the world.       </b>                                   
-    `, pageText: `
-    
-      <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      If there is light in the outside world, it is because of the burning fire. Here, however, the true light is mentioned in verse. The true light is lighted without fire. The light without fire comes into every human, lighting the entire human body from feet unto the head. There is only one such light without fire. That is Atma that came from God and is designated by God, the Creator. Atma provides light of mobility to the entire body. Atma enters the human body, providing the light of mobility throughout the human body. When Atma enters the body, the 25 trillion cells in the human body will be filled with Atma’s light. Every cell has a burning lamp without fire. The light of the lamp has a specific temperature. The human body has a temperature of 98.4 °F because of Atma’s light. When Atma leaves the body, the body becomes cold without any heat. The body without Atma’s light is called a dead body. <b>“Atma is the light, and the body is niche”,</b> said in 24:35. It can be said that Atma, which gives the light to the body, can be called true light. 
+  Humanity can only derive some profit from praising the Lord as supreme. It is imperative to recognize that the ultimate benefit for a person is to attain paraloka. The most significant achievement one can reach is paraloka. It is crucial to understand that the ultimate goal for anyone is to break free from Satan’s (Maya) world and enter God’s realm. The ultimate and most significant gain for humanity is to unite with God’s paraloka without ever returning to this world where Satan resides. There is nothing more valuable for a person than gaining access to paraloka. To reap such enormous benefits and avoid entanglement with Satan, one must fully grasp God’s wisdom. Those who do not delve into the profound wisdom contained in Jesus’ verses and His commandments will only be partial devotees rather than complete believers. Blessed is the one who follows all of the Lord’s teachings without exceeding the boundaries of His commandments. Even those who may not fully comprehend Paramatma’s wisdom are not complete believers, despite being great preachers and fervent praisers of the Lord. This is not to dismiss such individuals, but to emphasize that they have faith in God without being complete believers. Doubt lies within every person until they completely understand God’s wisdom, even if it may not be apparent now. Great preachers who believe they are wholehearted devotees of the Lord may still harbor doubts until they gain a thorough understanding of God’s wisdom. Therefore, the Lord proclaimed, <b>“The one who places trust in me with their manas is superior to the one who flatters me.”</b> Complete faith requires the full wisdom of God.
 
-      </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 81,
-      verse: ` <b> (3)	The Gospel of John, 1st chapter, 10th verse.</b>  
-    `, meaning: ` <b> 
-    (10) He was in the world, and though the world was made through him, the world did not recognize him.        </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The world (Loka) means something which has experiences. Atma is in humans who have experiences. Atma created all human beings. But humans did not know about Atma. What we need to know a little more here is that Atma and God are different. God created Atma, and Atma made humans. What we need to know from this is that God did not directly create humans. God created the entire Prapancha. But the Prapancha was without any living beings. God, who first made nature (Prakruti), later made Atma. He empowered Atma to produce, rule, and kill human beings. Atma has been creating human beings ever since. Atma became the light and has been sustaining life in human beings. Atma makes human beings die and reborn again. Yet, human beings are ignorant of Atma, which is close to humans, light in humans, and God to humans. Atma is giving birth to human beings; hence it is the father to humans. God created Atma; hence he is the father to Atma. Although Atma is said to be God in some cases, the creator of Atma is true God. Therefore, the man says that the true God is the Holy Spirit and the Atma is the father.
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 82,
-      verse: ` <b>(4)	The Gospel of John, 1st chapter, 11th verse.</b>  
-    `, meaning: `  <b> 
-    (11) He came to that which was his own, but his own did not receive him.        </b>                                    
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    His own means that all those who were created by him. Atma created humans by the commandment of the Holy Spirit and came to humans in the form of divine wisdom (Word). Even though Atma came to humans in wisdom form, humans think that what they know is great without accepting wisdom.
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 83,
-      verse: `  <b>(5)	The Gospel of John, 1st chapter, 12th verse. </b> 
-    `, meaning: `<b> 
-    (12) Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.     </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    All those, who know Atma’s wisdom provided by Atma, will accept Atma. Those who know Atma’s wisdom and believe in Atma have an opportunity to become Atma’s heirs. Hence, “He gave the right to become children of God,” said in the verse. God’s children mean those who know Atma’s wisdom.    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 84,
-      verse: ` <b>(6)	The Gospel of John, 1st chapter, 13th verse.</b>  
-    `, meaning: ` <b> 
-    (13) Men born not of natural descent, nor of human decision or a husband’s will, but born of God.        </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-            
-    All human beings are born of Atma. They are not born of women’s blood, nor of the will of males and females.
-        
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 85,
-      verse: `<b>(7)	The Gospel of John, 1st chapter, 14th verse.</b>   
-    `, meaning: ` <b> 
-    (14) The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.     </b>                                     
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-            
-    Atma (Wisdom), the God, was wearing the body, appeared like a human, and lived amid humans, with grace and wisdom.
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 86,
-      verse: `  <b>(8)	The Gospel of John, 1st chapter, 18th verse.</b>  
-    `, meaning: ` <b> 
-    (18) No man has seen God at any time; the only begotten Son, which is in the bosom of the Father, revealed him.     </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The word ‘God’ is used for both Atma and Paramatma. In the final divine scripture, the word ‘Allah’ is used for both Gods - Atma and Paramatma. Hence, Muslims could not recognize two Gods. To avoid such a mistake, it is said in the Bible said that Atma is the Father and Paramatma is the Holy Spirit. The begotten Son means <b>the only Son created by God.</b> Paramatma or the Holy Spirit is forever. After creating Prakruti in the beginning, Paramatma created a son called Atma to make all living beings. Atma created all the living beings as per the commandment of the Holy Spirit. Therefore, there is only one Father for all living beings. He is the created-God. 
-    The Father of the created Atma is the Holy Spirit. <b>“No one has ever seen God (the Holy Spirit or Paramatma),”</b> said in the verse. The God, the Holy Spirit, does not have form, name, and work. Hence, no one has ever seen Paramatma. Atma, the only begotten Son, reveals the unseen God through his wisdom. Atma is the only begotten Son, who separated from the heart of the Great God, Paramatma. Because no one has seen the Holy Spirit, only Atma can say about his Father, the Holy Spirit. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 87,
-      verse: ` <b> (9)	The Gospel of John, 1st chapter, 51st verse.</b>  
-    `, meaning: `
-    <b>  
+  It can be said that those who do not understand that Jesus and God are one and those who believe that Jesus will return as Jesus do not comprehend the vastness of God. The one who does not realize that God is eternal, without a beginning or an end, that God has descended to Earth many times, and that He will come whenever necessary, lacks complete wisdom. Those with perfect wisdom can discern the arrival of God, while those without absolute wisdom cannot recognize His coming. Even when God has taken human form and stood before a person, the one who only sees His outward appearance and actions may fail to recognize God. When the Lord comes incognito, some Christians may not recognize Him and may be unaware of His presence, even to the point of attempting to baptize Him.
 
-    (51) He then added, “Very truly I tell you, you will see ‘sky opens, and the angels of God ascending and descending on the Son of Man.”  </b>                                      
-    `, pageText: `   
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    This is the word which Jesus himself spoke to Nathanael. Jesus claimed that he was the Son of Man. Earlier, Nathanael said to Jesus that you are the son of God. Jesus, however, did not say that he was the son of God, but he reduced himself to the Son of Man. Jesus said that Nathanael and others would see extraordinary things. We said many times in the past that angels of God (God’s servants) are the rulers of the humans in the world. The angels of God are as many as billions in the sky and are called bhootas and planets (grahas). The angels of God came from the sky and bowed down before Jesus because they knew who Jesus was. Human beings do not know who Jesus is. Hence, they do not bow down before him. The same thing is said in Quran, the final divine scripture, in verses 15:28,15:29, and 15:30. Hence, it was said in the verse that you would see bhootas and grahas ascending and descending on the Son of Man as if the doors to the sky opened. Here ascending and descending means coming and going. Descending on the Son of Man means coming to Jesus. When Nathanael said to Jesus that you are the Son of God, Jesus said in verse 50 that you will see greater things than that. This is what Jesus said in verse 51 after verse 50. Because Nathanael had some gnana drushti, he recognized Jesus as the Son of God. Then Jesus recognized the merit in Nathanael and said in verse 51 that with gnana drushti, Nathanael could see greater things, which others could not see with ordinary eyes. The deeds said in verse 51 are visible only to the gnanis. With this verse, those with perception will know who Jesus is.
+  On Earth, believers are better than non-believers, and absolute believers surpass ordinary believers. Only absolute believers can enter paraloka. God does not accept them until they become absolute believers. When entering paraloka, God acknowledges only absolute gnanis. If someone is not an absolute gnani, God will say, “I do not know them.” Hence, one must strive to attain absolute wisdom. Many aspire to draw near to God and enter His kingdom. However, as they are within Satan’s dominion (Maya), Satan exerts its utmost efforts to prevent them from reaching God and from becoming complete gnanis. Even preachers who are aware of Satan’s opposition to God may not fully comprehend the extent of Satan’s influence. Those who lack a comprehensive understanding of Satan’s activities may inadvertently follow Satan’s path while believing they are on the path to God. This is why God has stated that preachers who assume they are close to God may still fall short of entering His presence.
 
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 88,
-      verse: `<b>(10)	The Gospel of John, 3rd chapter, 3rd verse.</b>   
-    `, meaning: ` <b> 
-    (3) Jesus replied, “Very truly I tell you, no one can see the kingdom of God unless they are born again.       </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The verse should not be understood as it is. It has subtle meaning. God is not visible. Similarly, God’s kingdom is not visible to anyone. Jesus himself said that when a man wants to see and know God’s kingdom, he should be born again. But do not think that he should die and be born again to see God’s kingdom. If so, those who want to know God would have to die. Therefore, it is a mistake to think so. Nicodemus, who thought in that way, questioned like this.  
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 89,
-      verse: `<b>(11)	The Gospel of John, 3rd chapter, 4th, 5th, 6th, 7th and 8th verses.</b>   
-    `, meaning: `<b> 
-    (4) “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!” <br><br>
-(5) Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit (Atma). <br><br>
-(6) Flesh gives birth to flesh, but the Spirit (Atma) gives birth to spirit. <br><br>
-(7) You should not be surprised at my saying, ‘You must be born again.’<br><br> 
-(8) The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So, it is with everyone born of the Spirit (Atma).” </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    
-    When a man dies and is reborn, it is called rebirth. If the rebirth happens physically, all organs of man will change. If that happens, the desire to see God and God’s kingdom will also vanish. The body should not die to keep the organs and ambitions as they are. The body contains both wisdom and ignorance. But the ignorance in the body should die completely. When a man gets rid of ignorant thoughts and desires, he is considered dead in ignorance and born of wisdom. One who gets rid of ignorance and gets wisdom can be said to be born of Atma. <b>The duty of man is to know Atma in the body.</b> To know Atma, one must know Atma’s wisdom. When a man knows wisdom for Atma, he is considered born of Atma. When the body dies, man gets new body. But changing own will in the same body without getting a new body is like a new birth. The wind blows wherever it pleases. We hear its sound depending on what it blows. As the wind changes its direction, if a man changes his purpose, it will be a new birth for him. One who desires Atma knows Atma in the same body and the same life. There is no need to go to another life to know Atma. 
+  In the verse, Jesus said, <b>“Even though you cast out demons and perform miracles in my name, and heal the sick in my name, you are evildoers. Depart from me.”</b>
 
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 90,
-      verse: ` <b>(12)	The Gospel of John, 3rd chapter, 13th verse. </b>  
-    `, meaning: ` <b> 
-    (13) No one has ever gone into Paraloka except the one who came from Paraloka —the Son of Man.
-     </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Ihaloka (Bhuloka), heaven (Swarga-Loka), hell (Naraka-Loka), and Paraloka are the names of the four worlds. The world (Loka) where we all see and live is called Ihaloka. Heaven and hell are not separate worlds, and both are on the earth. Loka is neither a kingdom nor a territory. The place to be experienced and the time to be experienced together are called loka. The place at the time of experiencing hardship is called Yamaloka or Naraka-Loka or hell. Similarly, the place at the time of experiencing happiness is called Swarga-Loka or heaven. Since these two experiences 
-    (hardship and happiness) are on earth (Bhuloka), it can be said that this world (Ihaloka) is heaven and hell. But Paraloka is different from hell and heaven. Both hell and heaven have experiences, but Paraloka does not have any experiences. The state in which there is no experience is called Paraloka. When a man gets out of karma, he does not experience any happiness and sorrow. Such people will receive Paraloka. It is called the state of being in God or Mukti or Moksha. A man who is in Ihaloka (world) is always tied to bad (sin) and good (punya) karma. Whoever is in Paraloka will not have any karma. If a person dies in the Ihaloka, he cannot go into Paraloka but returns to the Ihaloka. Also, whoever is in Paraloka, whenever he comes into this world for necessity, he will go back to Paraloka. Therefore, although the resident of Paraloka who came from Paraloka stays in this world for some time according to his will, he will later enter Paraloka. Hence, <b>“No one has ever gone into Paraloka except the Son of Man who is in Paraloka,”</b> said in the verse. It can be said that the one who is in Paraloka is God. Even though one who became God is born as a man, he will again go to Paraloka. The same thing is said in John 3:13. 
-    
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 91,
-      verse: ` <b> (13)	The Gospel of John, 3rd chapter, 15th verse.</b>   
-    `, meaning: `  <b> 
-    (15) That whosoever believes in him should not perish but have eternal life.       </b>                                    
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Everyone who believes in God will receive eternal life without death. Paramatma is spread out in the body and outside the body. <b>When Jivatma joins Paramatma, it can be said that Jivatma obtained Paraloka. It can also be said that Jivatma received eternal life (moksha).</b> Paraloka can also be called the kingdom of God. “Whoever believes in God will eventually be free from karma and receive eternal life,” said in the verse. Wherever you are, Paraloka (eternal life) also exists there. Therefore, whoever obtains moksha, he unites with the Holy Spirit (Paramatma) in his body. 
+  In today’s society, people often regard those who perform miracles in the name of God as true devotees, believing them to be close to the Lord. Even those who work wonders themselves may think they are in close communion with the Lord. This perception arises because they see the glory of the Lord manifested through their actions. When they lay their hands on a patient while reciting God’s words, and the patient experiences healing, they attribute it to the Lord’s miracles occurring through them. While it is true that miracles can indeed happen, making the Lord’s presence known to all, they overlook why the Lord expressed displeasure with such actions, as mentioned in the above verse. In doing so, they forget the Lord’s words. The question arises: Why did the Lord reprimand them if what they were doing seemed to be good and a manifestation of the Lord’s miracles? Why did Jesus state that they were walking on an evil path? If the Lord has said so, it is undoubtedly true.
 
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 92,
-      verse: `<b>(14)	The Gospel of John, 3rd chapter, 17th verse.</b>   
-    `, meaning: `<b>  
-        
-    (17) For God did not send his Son into the world to judge the world, but to save the world through him.     </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    God sends his Son, who is a man, into the world. The Son of God saves humans but does not judge them. God sent his Son to save humans but not to judge. The responsibility of the man who came from God is to teach God’s wisdom to humans and save them from their sins. He did not come to judge papa (sin) and punya of human beings. God did not send his representative to earth for judgment. God came to save people but did not come to judge. This verse is crucial in the Bible. Atma judges a man when he dies. Atma does the task of judging humans, and the one from God teaches them the plan to escape from karma.
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 93,
-      verse: `<b>(15)	The Gospel of John, 3rd chapter, 18th verse. </b>   
-    `, meaning: `<b> 
-        
-    (18) Whoever believes in him is not judged, but whoever does not believe stands judged already because they have not believed in the name of God’s one and only Son.    </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-     
-    ‘One who believes in him,’ said in the verse. Here ‘He’ can be understood as invisible God or the visible God’s representative who came from God. ‘They have not believed in the name of God’s one and only Son,’ said at the end of the verse. Hence it should be understood that this verse says about God’s representative, who came from God. Disguising as a man, God himself comes on earth to teach wisdom to humans. But he said, <b>“I am the Son of God, or the Son of Man or God’s one and only Son,”</b> so as not to recognize him. Hindus called Bhagavan when God disguised and came to earth as a man. Krishna is the one who came like that. Hence, he is called Bhagavan in Bhagavad-Gita. Although Jesus, who is the Son of God, appeared as a man, he should also be called Bhagavan. When God incarnates as a man on earth, Hindus call him Bhagavan, and the Christians call him the Son of Man. Although it is said in final divine scripture 15:28,29,30 that <b>God sends his representative by breathing his soul into him,</b> Muslims say that God does not come as a man. Whoever does not have faith in God’s representative, the son of God, is already judged. 
+  The unbelievable truth becomes evident when you contemplate what the truth means in the Lord’s teachings. It is a grave mistake for a person not to discern whether the miracles performed in the Lord’s name are of God or Satan. Many who appear as preachers and gurus in the eyes of the people believe they are on God’s path but are, in fact, on Maya’s path. This realization can be quite distressing. It’s possible that many preachers may become upset with my words, but please remember that these are not my words; they are the words of God. As stated in the Gospel of Matthew 7:22, the Lord said, <b>“This is evil. I never knew you.”</b> We should acknowledge that the same Maya (Satan) that tempted the Lord in the past is still attempting to deceive us today. Understanding Maya (Satan) is also an essential part of divine wisdom. Without recognizing Maya, we may mistakenly follow Satan, who assumes the guise of God, instead of following God. Today, many speakers, gurus, and preachers make the same mistake. Satan (Maya), which can assume many forms, performs tricks and miracles in the name of God. Those who are unaware that this is not pleasing to God cannot progress. The distressing truth is that many people on Earth blindly follow Satan, believing it to be God. They are oblivious to the fact that they are pursuing Satan’s path, not God’s. It may seem almost impossible for them to break free from Satan’s influence. Even if God Himself were to convey this truth, they might criticize God but remain unchanged. To them, Maya appears as God, and God appears as a mere human being.
 
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 94,
-      verse: `<b> (16) The Gospel of John, 3rd chapter, 19th, 20th, 21st verses.</b>   
-    `, meaning: ` <b> 
-    (19) This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil.    <br><br>
-    (20) Everyone who does evil hates the light and will not come into the light for fear that their deeds will be exposed.
-    <br><br>
-    (21) But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God.           </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Paramatma, who is unknown to anyone, is the darkness. Atma, created by him, is the true light. Paramatma has created two sons – an unseen soul which is the light of the body, and another soul with the body lives as a man among humans. Atma, who is unseen and the light of the body, is called Son, and another Atma, who comes looking like a man, is specially called <b>the only begotten Son</b>. Jesus, the only begotten son, came on the earth. Yet, because their deeds were evil, they loved their own darkness without coming to Jesus, the light of wisdom. 
-    <br><br>
-    Every ignorant man hates God’s representative who gives <b>wisdom light</b> to the world. They are afraid that their evil deeds will come to light when they come to God’s representative. Hence, they do not come to the light to hide their deeds. The Ignorant people, who think that God’s light, which is in human form on the earth, will expose their dark evil deeds and thus they will remain evil on earth, will not come to the Son 
-    of God when he comes upon the earth. Those who walk according to God’s wisdom know that Atma does all their deeds in the body. They come to God’s Son because all their deeds are in <b>God’s light (according to wisdom).</b> Very few on the earth know that Atma, who is God, does all their deeds. Therefore, very few come to him when the Son of God comes upon the earth. Because the earth is filled with those who think that they themselves are doing all the deeds, they will not come to the Son of God (Bhagavan). Not only do they not come to the Son of God, but they also hate and insult God’s representative, who rarely comes upon the earth. They not only insult the Son of God but also make him suffer many hardships. 
-              
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 95,
-      verse: ` <b>(17)	The Gospel of John, 5th chapter, 19th verse.</b>    
-    `, meaning: ` <b> 
-        
-    (19) Jesus gave them this answer: “Very truly I tell you, the Son can do nothing by himself; he can do only what he sees his Father doing, because whatever the Father does the Son also does.
-    </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    In this verse, it is not only mentioned ‘Father and Son’ but also said ‘The Son will do the things which the Father does.’ Notably, one should understand ‘Who is the Father and who is the son?’ Because the Holy Spirit (God) is the only one. Although God has only one eternal Son, he has another Son who occasionally comes upon the earth. It is necessary to know which son the verse said about. The verse John 3:17, <b>“For God did not send his Son into the world to condemn the world, but to save the world through him,”</b> said about God’s son who came upon the earth. This verse says about the Son, Atma, who is the light of the human’s body. Atma is eternal on the earth, providing <b>‘the light of mobility’</b> to everyone’s body. The verse John 5:19 said about Atma. In this verse, God speaks of his eternal Son, Atma, saying that Atma does what the Holy Spirit does, and does nothing of his own, and does inherited tasks what his Father does. 
+  Those who aspire to enter God’s kingdom and have faith in God should reflect upon the previously mentioned verse and contemplate why God disapproved of and referred to those who perform miracles as evildoers. Consider who is favored by God and who is not. It is essential to familiarize yourself with God’s verses, wisdom, and commandments. You should fully embrace God’s wisdom without transgressing His commandments, recognizing them as the boundaries set around you. Keep in mind that God’s kingdom is within these boundaries, while Satan’s dominion lies outside. Stay vigilant in the face of Satan’s influence, remembering the boundaries delineated by Jesus in his holy scripture for all of humanity.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 22,
+verse: ` <b>(21) The Gospel of Mathew, 8th chapter, 22nd verse. </b>`,
+meaning: ` <b>
+(22) Jesus told him, “Follow me, and let the dead bury their own dead.”</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The above verse mentioned was Jesus’s response when one of His disciples said to Him, “Lord, first let me go and bury my father.” Jesus’s words may seem unclear to some, prompting questions about their meaning. When we consider this, we can classify humanity into two categories: those who possess wisdom and practice it as yogam will attain eternal life (moksham). Such people are very few in number. Those who are eligible for everlasting life will not be counted among the dead. Those who attain everlasting life will never truly experience death and can be said to have achieved moksham. On the other hand, those who are ignorant or do not engage in the practice of yogam can be considered as spiritually dead. Such individuals do not possess eternal life and will ultimately face death. It can be said that they are destined to experience death at some point. The ignorant are often buried by other ignorant individuals. Hence, Jesus’s statement, “Let the dead bury the dead,” conveys the idea that those who lack wisdom are referred to as the spiritually dead. It emphasizes that those who possess wisdom should not associate themselves with the ignorant. Therefore, Jesus told the disciple, “You understand the wisdom and follow me. Let the ignorant bury the ignorant.”
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 23,
+verse: ` <b>(22)	The Gospel of Mathew, 9th chapter, 12th and 13th verses.</b>`,
+meaning: ` <b>
+(12) On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.”
+<br><br>
+(13) For I have not come to call the righteous, but sinners.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  As we’ve previously discussed, God occasionally descends upon the Earth to establish dharmas. Similarly, Jesus stated that He came to guide the ignorant onto the path of wisdom. He mentioned that He came to call sinners, not the righteous. Here ‘sinners’ represent those who are ignorant and lack wisdom, while the ‘righteous’ denote those who possess wisdom. God takes on the role of a spiritual physician, often referred to as a preacher, to heal those afflicted by the ailment of ignorance. Through the medicine of wisdom, He cures the spiritually sick. Those who are already spiritually healthy with wisdom do not require the guidance of such a physician or preacher. When the disease of ignorance spreads globally, affecting all people, God incarnates to provide His divine medicine of dharmas and transform the ignorant into gnanis (wise individuals). If God did not assume this role as a spiritual physician, the entire world would be plagued by ignorance. Therefore, God incarnates to reveal His wisdom to those in need.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 24,
+verse: ` <b>(23) The Gospel of Mathew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>`,
+meaning: `<b>
+(23) Then He got into the boat and His disciples followed Him.
+<br><br>
+(24) Suddenly a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping.
+<br><br>
+(25) The disciples went and woke Him, saying, “Lord, save us! We’re going to drown!”
+<br><br>
+(26) He replied, “You of little faith, why are you so afraid?” Then He got up and rebuked the winds and the waves, and it was completely calm.   </b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This event is a significant incident from Jesus’ life. While Jesus may not have directly taught a lesson here, there is much we can learn from this event. Both the sea and the storm are connected to Prakruti. The air in the storm and the water in the sea are integral components of Prakruti. Prakruti is under the sole control of Paramatma, the supreme divine entity. Prakruti consists of five elements: Sky, Air, Fire, Water, and Earth. Even Atma, which possesses divinity following Paramatma, holds no authority over Prakruti. Atma within the body governs only the Chara (Changeable) Prakruti, which exists in the form of the body. It does not exert any authority over the Achara (Unchangeable) Prakruti. Prakruti does not heed Atma; it solely obeys the command of Paramatma. Prakruti is composed of five bhootas, which can be understood as life forces or Jeevas. These five Jeevas represent the five elements of Prakruti and, as such, they adhere to the divine word of God. They follow the instructions of Paramatma.
 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 96,
-      verse: `<b> (18)	The Gospel of John, 5th chapter, 20th verse.</b>    
-    `, meaning: ` <b>   
-    (20) For the Father loves the Son and shows him all he does. Yes, and he will show him even greater works than these, so that you will be amazed.    </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When we question who said <b>“Paramatma (the Holy Spirit) loves the Son and shows him all he does”</b>, Jesus, the second Son of God, told his disciples this when he was on earth. No one can recognize the son of God when he is on the earth as a man. Human beings could not grasp who Jesus was; Some subjected him to many sufferings and humiliations and became responsible for his death. God’s only begotten Son, named Jesus, was in the middle of such men and said, <b>“He will show him (Atma) even greater works than these so that you will be amazed.”</b> God commanded Atma to rule over the Jivas and showed greater things. Let us see what those great things are. 
+  Because Jesus was the Holy Spirit who appeared as an ordinary man, the storm in the sea ceased at His command. Only God can control Prakruti, so Jesus can be considered God’s incarnation. It is mentioned in verses 7, 8, and 9 of Gnana Yoga in the Bhagavad-Gita, the first divine scripture, that God descends to Earth in human form to impart His wisdom. When God takes on a human form, He outwardly resembles an ordinary man, even though He is not an ordinary individual. Because He appears as an ordinary man, identifying Him is challenging. However, there are two key indicators to recognize Him: <b>1) The presence of God’s incarnation wherever divine dharmas are taught.2) The ability to command Prakruti can be recognized as God’s incarnation.</b> The calming of the sea at Jesus’ command is a manifestation of this divine power, demonstrating that only God can perform such feats. When dharmas are taught and Prakruti is commanded, the human form of God becomes recognizable. Jesus not only taught God’s wisdom but also practiced it and commanded Prakruti. Therefore, Jesus can be identified as God in human form. The immediate cessation of the storm on the sea served as proof of Jesus’ divinity.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 25,
+verse: ` <b>(24)The Gospel of Mathew, 9th chapter, 6th verse.</b>`,
+meaning: `<b>
+(6) I want you to know that the Son of Man has authority on earth to forgive sins. So, he said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Jesus Himself said that the Son of Man has authority on Earth to forgive sins. When a paralyzed man was brought to Jesus, He said to him, “Your sins are forgiven.” Some of the scribes said to themselves that Jesus was blaspheming. Knowing their thoughts, Jesus said, “Why do you entertain evil thoughts in your hearts? Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk?’ But I want you to know that the Son of Man has the authority to forgive sins.” So, He said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
 
-    </span>
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 97,
-      verse: `<b>(19)	The Gospel of John, 5th chapter, 21st, 22nd, 23rd verses. </b>    
-    `, meaning: `<b> 
-    (21) For just as the Father raises the dead and gives them life, even so the Son gives life to whom he is pleased to give it.
+  If we observe this, Jesus forgave sins because the scribes thought evil of Him. He also declared that the Son of Man has authority on Earth to forgive sins. Despite coming to Earth as the Son of God, He humbled Himself by identifying as the Son of Man. He told and proved that He alone possesses the authority to forgive sins. Those who understand that only God (The Holy Spirit) can forgive sins will recognize who Jesus truly is. By claiming to be the Son of Man, Jesus deliberately obscured His divinity, even though He originated from the Holy Spirit. The paralyzed man immediately rose and went home when Jesus instructed him to do so. The crowd was astonished after witnessing this miracle. Despite performing such a remarkable deed, Jesus was treated as an ordinary man and brought to court as if He were guilty. This illustrates how humans often forget the help they receive.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 26,
+verse: ` <b>(25) The Gospel of Mathew, 10th chapter, 20th verse.</b>`,
+meaning: `<b>
+(20) For it will not be you speaking, but the Spirit of your Father speaking through you. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  While this verse may appear ordinary, it holds profound spiritual wisdom. It’s essential to understand that the term <b>‘Your Father’</b> in this verse does not refer to one’s biological father but to the spiritual Father of Jeevatma. Atma, the Father of Jeevatma, resides within the body and guides it. It’s crucial to remember that the Father of Atma is Paramatma. Every human being represents Jeevatma. Depending on a person’s karma, Atma influences and guides them (Jeevatma), causing them to experience karma (sins and punya karma). Atma controls all bodily functions and determines the pleasure and pain experienced by Jeevatma within the body.
+
+  Jeevatma does not actively engage in any bodily functions. Despite its apparent inaction, Jeeva silently experiences the consequences of its actions, both joy and sorrow. Although Jeevatma identifies itself as the individual within the body, he lacks the capacity to act. Instead, it is the Atma that orchestrates all activities within the body. Due to ignorance, Jeevatma mistakenly believes he is the one performing actions by listening to the words of ‘aham’ (the ego). In reality, Atma is the true actor within the body, but Jeevatma often forgets Atma’s presence and believes that he is the doer of everything. In the context of the verse, Jesus aimed to enlighten those in ignorance. He conveyed, <b>“Your father, Atma, resides within you and communicates through you. You are not the one speaking.”</b> According to this verse, it is evident that not only the deeds performed but also the spoken words are not articulated by Jeevatma. Jesus stated that it is sheer ignorance for people to believe that they are speaking, whereas it is Atma who articulates the words. Jeevatma does not perform the deeds executed by the ten physical body parts (organs of action); it is Atma that accomplishes everything through these body parts. Recognizing this truth represents the highest form of wisdom among all wisdom.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 27,
+verse: ` <b>(26) The Gospel of Mathew, 10th chapter, 30th verse.</b>`,
+meaning: ` <b>
+(30) Even the very hairs of your head are all numbered.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In a temple, people often share their thoughts with God, believing that God is unaware of their innermost feelings. They exhibit respect and awe when in the temple but may behave differently outside. For instance, after leaving the temple, some individuals may occupy two train seats without allowing other passengers to sit, displaying inconsiderate behavior. This action stems from the misconception that God is aware of their actions inside the temple but not outside. However, what <b>many fail to realize is that God is omniscient and omnipresent, perceiving all actions, even in the most secluded places.</b> This verse spoken by Jesus highlights the glory of God and serves as a reminder that God’s awareness extends everywhere.
+
+The verse highlights God’s extraordinary carefulness towards humans, as God has established a precise system for all aspects of human existence. This divine system encompasses even the minutest details, such as ‘karma-visarga’ —the division of karma into tiny parts. Through karma-visarga, God determines how many times a person should open and close their eyelids, ensuring a precise count. God also dictates the number of hairs on our heads and when and which hairs should fall out, all through karma-visarga. Additionally, God orchestrates the challenges that individuals face and the extent of their suffering. In the Bhagavad-Gita, the Lord affirms that God possesses knowledge of everything that has occurred, is happening, and will transpire on Earth. This reinforces the notion that there is nothing beyond God’s awareness.
+</div></div>
+
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 28,
+verse: ` <b>(27) The Gospel of Mathew, 10th chapter, 34th, 35th and 36th verses.</b>`,
+meaning: `<b>
+(34) Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.
+<br><br>
+(35) For I have come to turn “‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.
+<br><br>
+(36) A man’s enemies will be the members of his own household.
+</b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  While it may not be fair to say that Jesus intentionally aimed to create conflicts among humans, it’s evident that such conflicts have arisen. Jesus came with the intention of leading people from ignorance to wisdom rather than sowing discord. He shared his wisdom with good intentions, but it often led to disputes among those who didn’t fully comprehend His teachings. Much like how cold water sprayed on sand cools it, while limestones become warm, altering their appearance, and turning into lime, the reception of Jesus’ wisdom varies. Those with a deep understanding of wisdom find happiness in Jesus’ teachings, while conflicts arise among the ignorant. In some cases, when one spouse seeks wisdom, the other may disagree, leading to disagreement within families. This unexpected consequence can lead to divisions within households, where fathers may turn against sons, mothers against daughters, and mothers-in-law against daughters-in-law. Though Jesus’ intentions are noble, they inadvertently lead to humans forgetting their kinship and fostering enmity. That is why if Jesus gives a flower, it turns into a thorn. If He gives bendable wood, it becomes a sturdy sword. It’s important to note that this outcome is not Jesus’ fault, but rather the result of human nature and the influence of different gunas.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 29,
+verse: `<b>(28)	The Gospel of Mathew, 10th chapter, 37th verse.</b>`,
+meaning: `<b>
+(37) Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.
+</b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  It is a fundamental aspect of human nature for parents to love their children, just as it is natural for children to love their parents. The bond between parents and their offspring is often characterized by profound love, surpassing any other attachment in the world. However, the human mind is also significantly influenced by its inherent qualities, known as gunas. When a person harbors an <b>intense love for wisdom and God,</b> they naturally gravitate towards the pursuit of wisdom rather than material or worldly things. It becomes challenging to prioritize wisdom when one’s affection is primarily directed elsewhere. The human mind operates under the influence of six good and bad gunas, akin to shackles made of gold and iron, respectively. Both types of gunas serve the purpose of binding an individual. However, it’s important to note that neither extreme love (a good guna) nor jealousy (a bad guna) leads a person toward wisdom. What truly matters is the individual’s genuine interest in wisdom. The six bad gunas include greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). In contrast, the six good gunas encompass charity (dana), mercy (daya), benevolence (audarya), dispassion (vairagya), humbleness (vinaya), and love (prema).
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 30,
+verse: `<b>(29)	The Gospel of Mathew, 10th chapter, 38th verse.</b>`,
+meaning: `<b>
+(38) Whoever does not take up their cross and follows me is not worthy of me.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Christians often speak of and hold deep reverence for the cross. It’s common to see Christians wearing a cross around their necks, and this symbol holds great importance in their faith. It’s widely known that Jesus was crucified and died on the cross. The question that arises is why Christians hold in such high regard a symbol that was used as an instrument of Jesus’ execution. The answer lies in the profound nature of following someone greater than themselves and emulating their actions. However, no one has contemplated why the cross, a symbol associated with the Lord’s death, should be held in such high regard. Indeed, whether intentionally or unintentionally, there seems to be a gap in understanding the details of the cross. Let’s take a moment to contemplate the cross and delve into deeper details.
+
+  In the verse, Jesus warned that <b>taking up the cross leads one to walk in God’s path, while if the cross picks you up, it means walking in Satan’s way.</b> A similar message is conveyed when Jesus said, “Whoever does not take up the cross and follow me is not worthy of me.” This implies that those who do not bear the cross are not worthy of God. It is important to understand that, according to this perspective, the cross symbolizes Satan. For a more detailed exploration of this concept, please consider reading my book, “Is the Cross God?”
+
+  The cross represents the serpent in spiritual symbolism. It’s common to draw parallels between the serpent and Satan, and the dove with Atma. Satan, or Maya, resides within the human body and often leads individuals down the path of ignorance. When Satan lifts a person, it signifies the person’s weakness and Satan’s dominance. On the other hand, when a person carries the cross, it indicates that the individual’s strength surpasses that of Satan. This is why Jesus, at certain points in His life, carried the cross to demonstrate that humanity can conquer Satan. Likewise, when Jesus was crucified on the cross, it symbolized the cross bearing Him, signifying that Satan can lure anyone onto its path. To walk the path of wisdom, humans must be willing to carry their own cross, as Jesus emphasized in the verse, “Whoever does not take up their cross and follow me is not worthy of me.”
+
+  We symbolize Satan in the form of a cross, which represents a colossal snake or serpent, akin to the concept of Maya. Maya has the power to lead individuals astray from the path to God and towards ignorance. To overcome such influence, we must first understand Maya. Upon analysis, Maya can be identified as the cluster of gunas within a person’s head. Anyone who aligns their actions with these gunas inadvertently follows the path of ignorance, essentially allowing Maya to control their course. To conquer Maya, one must gain mastery over the gunas, refusing to be swayed by their influence. When a person achieves this, it can be said that they have defeated Maya, or Satan, using their inner strength. Such a person can pick up Maya and walk the path of wisdom. Therefore, Jesus’ message in the verse emphasizes that by conquering the ‘cross’ —representative of Maya—one becomes worthy of God’s grace. It’s important to note that the ‘cross’ isn’t merely a wooden symbol but rather a representation of the python, a symbol of Satan. According to the elders, the cross symbolizes Maya, while the bird stands as a symbol of Atma. During Jesus’ baptism by John, it was said that the Spirit (Atma) descended like a dove and entered Jesus’ body. In this context, the ‘cross’ represents the opposing force to Atma. Therefore, Jesus’ teaching underscores that when a person, utilizing their wisdom and inner strength, carries the ‘cross’ and walks the path of wisdom, they become worthy of God and paraloka.
+</div></div>
+
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 31,
+verse: `<b>(30)	The Gospel of Mathew, 10th chapter, 40th verse.</b>`,
+meaning: ` <b>
+(40) Anyone who receives you receives me, and anyone who receives me receives the one who sent me. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  While human beings are Jeevatmas, they are created by Atma. Paramatma, or the Holy Spirit, created both Atma and Prakruti. However, when Paramatma incarnates as a man, the question arises whether to refer to Him as Atma or Jeevatma. If God takes human form, He can be considered a Jeevatma based on His appearance. When human beings (Jeevatmas) pass away, Atma incorporates them into itself. Just as Atma encompasses human beings, it also includes God when He incarnates as a man and appears as a Jeevatma. This concept is echoed in the verse, <b>“Whoever receives you also receives me.”</b> The one who incarnated as a human being (Jeevatma) is, in reality, God. However, it is God who sent the man, such as Jesus. When Atma encompasses a man resembling a Jeevatma, it’s as if God, the sender of the man, is also included within Atma. Hence, in the verse, Jesus conveyed, <b>“The one who receives me receives the one who sent me.”</b>
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 32,
+verse: `<b>(31)	The Gospel of Mathew, 11th chapter, 9th verse.</b>`,
+meaning: ` <b>
+(9) What did you go out to see? A prophet? Yes, I tell you, and (I am) more than a prophet.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  It can be said that a prophet (pravaktha) is one who teaches knowledge that no one has told. In Telugu, <b>‘Pra’</b> denotes importance, and <b>‘Vaktha’</b> means the one who speaks. A prophet is thus someone who imparts essential wisdom. However, Jesus proclaimed that He is more than a prophet. There is only one individual surpassing a prophet, revealing wisdom beyond the capacity of prophets. The divine scripture asserts, <b>“God did not impart His wisdom to any human being. God’s wisdom remains unknown to all except God.”</b> In the final divine scripture, it is stated in verse 3:7 that God must convey His wisdom. Based on this, it is understood that although God comes as a prophet to share wisdom, He is more than a prophet. The last divine scripture, in 42:51, declares, <b>“God does not communicate directly with humans.”</b> However, God can manifest as a disguised man and convey His message. Whenever God takes on human form, even if referred to as a prophet, He is more than a prophet. In light of Jesus’ statement in this verse, it becomes evident that Jesus surpasses prophets and represents an incarnation of God. Despite Jesus openly declaring his identity on multiple occasions, many failed to recognize Him.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 33,
+verse: `<b>(32)	The Gospel of Mathew, 11th chapter, 28th verse.</b>`,
+meaning: ` <b>
+(28) Come to me, all you who are weary and burdened, and I will give you rest. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  It’s a common understanding that people get weary when carrying physical weight. However, humans also experience weariness without even bearing any visible burden. The invisible burden, in this case, is sin (karma), and everyone who undergoes karmic experiences tends to feel weary. Humans continually encounter karma, except during sleep when they are temporarily free from it. Even in dreams, the influence of karma persists, signifying a constant state of labor. Considering the perpetual nature of this burden, Jesus extends an invitation to all, saying, <b>“Come to me. I will give you rest.”</b>
+
+  The question arises: How do we find rest when turning to Jesus, given that we consistently experience karma? The answer is as follows: When Jesus imparts divine wisdom to those who seek Him, the karma of all those acquainted with this wisdom is consumed in the wisdom power. Through the destruction of karma, individuals are liberated from its continuous impact, reducing the toil of suffering, and providing rest. This invitation is extended to people of all castes and religions, as evidenced by Jesus saying, <b>“All come to me.”</b> Some may refer to Jesus as a Christian Guru or prophet. However, labeling Him solely as Christian would be inaccurate, as His call is inclusive, inviting people of all backgrounds. Those who embraced His teachings and sought Him should not be confined to the label of Christians. Since God and divine wisdom are universally necessary, Jesus extends His invitation to all, as He declared, <b>“All come to me.”</b>
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 34,
+verse: ` <b>(33)	The Gospel of Mathew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b>`,
+meaning: ` <b>
+(17) This was to fulfill what was spoken through the prophet Isaiah.
+<br><br>
+(18) Here is my servant whom I have chosen, the one I love, in whom I delight; I will put my Spirit on him.
+<br><br>
+(19) He will proclaim justice (wisdom) to the nations; He will not quarrel or cry out; no one will hear his voice in the streets.
+<br><br>
+(20) A bruised reed he will not break, and a smoldering wick he will not snuff out, till he has brought justice (wisdom) through to victory.
+<br><br>
+(21) In his name the nations will put their hope. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  About 350 years ago, a great man named Veerabrahmam foretold the events and natural disasters that were about to take place. Similarly, a great man named Isaiah foretold the coming of Jesus. If we examine Isaiah’s words in detail, the greatness in his words will become known to all. It became clear who Isaiah was talking about. Isaiah lived many years before Jesus was born. In the 13th chapter, Isaiah conveyed a few more things. Looking at these verses, it becomes evident that God, the Holy Spirit, spoke of Jesus. Examining the verses where Jesus spoke about Himself in the scripture and the verses where the Holy Spirit talked about Jesus, it becomes apparent that the one who spoke about Jesus (the Holy Spirit) and Jesus are the same.
+
+  In the first verse, it is stated, <b>“Here is my servant.”</b> There are various forms of materialistic service, but this verse does not refer to materialistic service. Instead, it speaks about the service of Paramatma. There is only one form of Paramatma’s service, and the genuine <b>Paramatma’s service involves preaching and spreading God’s wisdom to others.</b> Because Jesus was actively spreading God’s wisdom, the Holy Spirit declared, “Here is my servant.” Anyone who propagates God’s wisdom becomes the <b>most favored by God.</b> Therefore, Paramatma expressed love for Jesus, saying, <b>“I love him and am delighted in him.”</b> This sentiment is articulated in <b>15:28, 29, and 30 of the final divine scripture,</b> where it is described that the Holy Spirit creates a human being from clay and breathes His soul (the Holy Spirit’s soul) into them. Subsequently, angels recognize the human being as God and prostrate before Him. Therefore, in accordance with Isaiah’s words, “The Holy Spirit will put His spirit upon Him,” it becomes evident that Jesus, in human incarnation, is the soul of Paramatma.
+
+  The 19th verse states, “He will proclaim justice to the nations.” It appears that the translators of the Bible into English may have used an inaccurate term. It is supposed to be written as <b>“wisdom”</b> instead of <b>“justice.”</b> Justice is more closely linked to the material world, and therefore, it might not be the most suitable term. While <b>righteousness and justice pertain to worldly matters, wisdom and dharma are associated with Paramatma.</b> The use of “righteousness” and “justice” instead of “wisdom” appears to be a translation error. Numerous such errors were identified, revised, and corrected.
+
+  The 19th verse states, “He will proclaim justice to the nations.” Here, “proclaim” means to preach or teach. The verse could be better understood as, <b>“He will spread wisdom to the nations.”</b> This amendment aligns with the fact that, after living for 30 years, Jesus taught His wisdom for about two years and three months, as indicated by this verse. During this time, Jesus unselfishly preached his wisdom in various places, curing many people with different kinds of diseases. He restored sight to the blind, enabled the lame to walk, healed leprosy patients, and even raised the dead. Despite His miraculous actions, some accused Jesus of being a wizard and blamed Him for acting against God. Nevertheless, Jesus did not engage in quarrels or screams, as affirmed by the statement, <b>“He will not quarrel or cry out.”</b>
+
+  Jesus conveyed his wisdom to those who approached Him, yet he refrained from shouting in the streets, as indicated in the verse, <b>“no one will hear His voice in the streets.”</b> The verse also emphasizes that He will not break a bruised reed, underscoring that His actions were solely focused on spreading wisdom. Additionally, the verse highlights Jesus’s role in ensuring that the power of wisdom, once ignited in a person, remains unextinguished until it burns away all the karma associated with that individual. Since karma comes in various forms, it is likened to a wick composed of many strands, explaining the phrase, <b>“He will not snuff out a smoldering wick.”</b> Furthermore, the verse expresses the anticipation of some for Jesus’s wisdom, stating, <b>“In His name, the nations will put their hope.”</b>
+</div></div>
+
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 35,
+verse: `<b>(34)	The Gospel of Mathew, 12th chapter, 31st verse.</b>`,
+meaning: `<b>
+(31) So, I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit (Atma) will not be forgiven.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This verse holds particular significance in the scripture. When human beings grasp God’s wisdom, that wisdom transforms into fire (wisdom power). This fire has the capability to burn away various sins (karma). Knowing divine wisdom allows humans to avoid sins unrelated to Atma. However, it’s crucial to note that the wisdom power cannot absolve sins stemming from blasphemy and actions against Atma; such sins may remain unforgiven.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 36,
+verse: `<b>(35)	The Gospel of Mathew, 12th chapter, 32nd verse.</b>`,
+meaning: `<b>
+(32) Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age (yuga) or in the age (yuga) to come.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  All human beings are commonly referred to as the sons of man; ordinary people acknowledge that their parents are human. But Jesus, despite His outward appearance as an ordinary man, should not be categorized as the son of man. When Jesus spoke of His Father, He specified that His Father existed in paraloka, not as a man on earth. Consequently, Jesus is appropriately identified as the Son of God. In contrast, the general term “son of man” can be applied to all people. Despite Jesus presenting himself with the name and experiences of an ordinary man, His true designation is the Son of God.
+
+  The seed donor for an ordinary person is not a human. Any man claiming to have children is not truly a father. Atma, which serves as the head of the body and performs all functions within it, is the seed donor for humans and all living beings. Unfortunately, many humans are unaware of this fact. Consequently, a man asserts that he is the father of another human, even though he cannot carry out any functions within the body. It is emphasized multiple times in the first and second divine scriptures that Atma is the sole doer of all things. While a person, in reality, does not commit any sins because he is incapable of performing actions, the misconception that he is the doer leads to the accumulation of sin in his (Jeevatma) account. Thus, a person becomes responsible for sins he has not committed. Similarly, despite Atma being the true Father of a man, the man is considered the son of a human being when he claims his father is a man.
+
+  Jesus is aware that His Father is the Father of paraloka. Unlike everyone else, He was not born of Atma. Jesus acknowledges that He is the Son of God, the Holy Spirit. Throughout the Bible scripture, Jesus is referred to as the Son of God because He explicitly stated on many occasions that His Father was the Holy Spirit. God’s wisdom has the power to forgive sins committed against ordinary individuals. However, the sin of blasphemy against the Son of God will never be forgiven. This sin of blasphemy is destined to be experienced for <b>two yugas</b> – in the current yuga (era) and the subsequent one.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 37,
+verse: `<b>(36)	The Gospel of Mathew, 12th chapter, 36th and 37th verses.</b>`,
+meaning: ` <b>
+(36) But I tell you that everyone will have to give an account on the day of judgment for every empty word they have spoken.
+<br><br>
+(37) For by your words you will be acquitted, and by your words you will be condemned.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  From the moment of birth, humans engage in numerous actions and utter many words. They believe they are personally responsible for every small deed and word. In reality, they have not done anything. It is Atma within the body that performs all actions. However, an unaware individual falsely attributes every action and word to themselves, and consequently, the karmic consequences of their deeds and words accrue to them. Atma stores all accumulated karma in the karma chakra and assesses it on the day of death. On this judgment day, Atma evaluates every deed and word of the individual, weighing the sins and punya associated with each. A person is considered a gnani (wise person) if they acquire wisdom in life, and conversely, a person is regarded as ignorant if they perform deeds with ignorance. Additionally, Atma considers whether a person has acquired wisdom (gnani) or remains in ignorance. The judgment is based on the individual’s status as either a gnani or an ignorant one, determining their next life accordingly. The Holy Spirit does not judge a person based on karma. It is the Atma, responsible for all functions in the body, that judges the individual on the day of death and directs the Jeeva to the next life. This day is known as the <b>‘judgment day’</b> or <b>‘final day,’</b> also serving as the first day of the next life (birthday). Recognizing that Atma is the ultimate arbiter on the last and first days of life, one should understand that the Holy Spirit does not participate in these processes. The last day can be referred to as the day of counting karma. Atma is the one who performs all functions of the body. Understanding this, if a person believes they have not personally done anything, they are neither considered a sinner nor a virtuous person. It’s crucial to recognize that the Atma determines the karma in a person’s deeds and guides them to the next birth. Depending on one’s thoughts, they will be judged as either a gnani, ignorant, righteous, or a sinner.
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 38,
+verse: `<b>(37)	The Gospel of Mathew, 12th chapter, 40th verse.</b>`,
+meaning: ` <b>
+(40) For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This verse draws a parallel between the events preceding the time of Jesus and the prophesied occurrences. It notes that Jonah, after being swallowed by a giant fish, resided inside its belly for three days and three nights. The verse also prophesies, “Jesus will be three days and three nights in the heart of the earth.” While it is accurate that Jonah spent three days and three nights in the fish, it is not precise to state that Jesus, the Son of Man, lived for the same duration in the heart of the earth. Historically, Jesus was crucified on the cross on Friday evening and rose from the dead before dawn on Sunday morning. According to historical records, Jesus was likely crucified between 3:30 p.m. and 4 p.m. on Friday, and His body was placed in a tomb on Friday evening. Consequently, Jesus was not in the tomb during the daytime on Friday, but rather on Friday night and the entirety of Saturday. The resurrection is said to have occurred before dawn on Sunday. Therefore, Jesus spent Friday night and the entire day on Saturday in the tomb, rising from the dead before Sunday morning.
+
+  The verse appears to indicate that Jesus was buried for only two nights and one day. Consequently, this verse in the scripture may seem incorrect, raising doubts about its accuracy. Nevertheless, the verse in the divine scripture is considered to be unfailingly accurate. When others questioned the authenticity of this particular verse, I too experienced a sense of doubt. Having said that there is no room for untruth except truth in this sentence, I had to answer what others asked me. Yet, recalling the guidance in Matthew 10:20, <b>“For it is not you who will be speaking, but the Spirit of your Father speaking through you,”</b> dispels the need for fear in providing an answer. The understanding is that the Spirit, or Atma, is the one posing questions and providing responses. As Jeevas, our role is to listen and comprehend what Atma is communicating.
+
+  The one commonly referred to as the Son of Man is, in truth, the Son of God. Although we commonly label Jesus as the Son of God, it’s essential to recognize that He is not the son of any human but God himself. This assertion is made with certainty, grounded in the understanding that He is God incarnate. While the body inhabited by God experienced death, God himself is immortal. In fact, there are four types of death: natural death, unnatural death, temporary death, and the ultimate death. While the majority are familiar with the first type, those possessing spiritual wisdom, or ‘gnanis,’ know all four types. The last death occurs when God takes on human form or when a person attains moksham, merging with God. Despite the widespread belief in Jesus’ death on the cross, no one can say for certain the specific type of death He experienced.
+
+  In this verse, it is stated that Jesus was in the heart of the earth for three days and three nights, yet it doesn’t explicitly mention His death. During His crucifixion, the prevailing belief was that He had died on the cross. However, upon emerging from the tomb on Sunday morning, Jesus claimed He had not experienced death. To address the skepticism of His disciples, He displayed the marks of the nails on His wrists and feet, along with the wound from the spear, making it clear that He had not died. Nevertheless, historical records affirm that His body was taken down from the cross and placed in a tomb after His death on Friday evening. This apparent contradiction, where He died on Friday yet appeared on Sunday as if He had not died, prompts questions about the seemingly untrue statement that <b>He would be three days and three nights in the heart of the earth.</b> As per 12:40, He wasn’t there for three nights and three days, but instead was only there for two nights and one day. Exploring the reason behind this seeming inconsistency unveils a deeper truth concealed within the apparent falsehood. Let us further examine how truth is concealed within this apparent contradiction.
+
+  It is true that Jesus died on the cross, but no one knew that it was <b>temporary death.</b> Jesus experienced a temporary death out of four kinds of deaths and rose again early Sunday morning from temporary death. He informed His disciples that He was not dead. He would not have risen again if He had experienced a natural death. However, He got up on the third day because He got a ‘temporary death.’ Thus, the notion that Jesus died on the cross is a misconception and not true. Similarly, the scripture stating that Jesus was in the tomb for three days is accurate but warrants a deeper understanding.
+
+  Jesus is present within the body as Jeevatma, while Atma, the Father of all, also resides within. Jeevatma experiences the consequences of karma within each human body, while Atma performs necessary actions in accordance with karma. Atma permeates the entire body, whereas Jeevatma is located within the head. Atma exerts control over the body through its ten parts and organs. The vitality of a person is often associated with bodily motion, and a person is considered alive when the body is in motion. Conversely, when the ten parts and organs cease functioning, accompanied by the absence of breathing, the person is deemed dead. In the event of natural death, both Atma and Jeevatma exit the body, resulting in the immobilization of the body due to the absence of Atma.
+
+  In the case of temporary death, neither Atma nor Jeevatma departs from the body. Atma undergoes a contraction, shrinking from the outer edges to a tiny size, and enters the head similarly to Jeevatma. During this period, none of the body’s organs function, and breathing ceases, giving the appearance of death. The man is commonly perceived as dead since both external and internal bodily functions cease. Resurrection occurs when Atma, resuming its usual function, emerges and starts working again. This phenomenon is exemplified in the case of Jesus. During His crucifixion, Atma contracted within His body, maintaining this state for Friday night and the entirety of Saturday. Early Sunday morning, Atma resumed normal function, leading to Jesus’ emergence from the tomb alive. Atma experienced <b>temporary death</b> for only two nights and a day. While the Atma in Jesus’ body was in the tomb for two nights and a day, it is also accurate to say that Jesus (Jeevatma) was in the tomb for three nights and three days, depicting a process not fully understood by us. Let us see what it was.
+
+  It can be said that Jesus was resurrected due to Atma’s actions within His body. However, before Atma died on the cross, Jeevatma had already been buried in the body. The connection between Jeevatma and buddhi was severed in Jesus’ body after He learned of His impending arrest on Thursday. Jesus entered an unknown state, completely unaware of His arrest, trial, flogging, and crucifixion, essentially being buried in His body tomb. He remained unconscious for three days, as if in a grave. Despite this, Atma carried out all necessary bodily functions, but Jesus was oblivious to these actions. To prevent Jesus from experiencing any pain or suffering associated with flogging and crucifixion, Atma sent him into an unknown state, similar to sleep. Jeevatma remained buried in the body until Atma awakened him on Sunday morning. Hence, the verse states, “Jesus was in the tomb for three days and three nights.” People knew that Jesus’ body was placed in the tomb, but the Jeevatma in His body entered a state of the unknown before that. Afterward, Jesus’ Atma experienced temporary death on Friday evening. However, people, who could only observe visible things, were unaware of the workings of Atma and Jeevatma in Jesus’ body. It is true that Jesus was in the grave for three days and three nights, and His Atma was in the grave for two nights and a day.
+
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 39,
+verse: `<b>(38)	The Gospel of Mathew, 13th chapter, 13th, 14th and 15th verses.</b>`,
+meaning: `<b>
+(13) Though seeing, they do not see; though hearing, they do not hear or understand.
+<br><br>
+(14) In them is fulfilled the prophecy of Isaiah: You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
+<br><br>
+(15) For this people’s heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise, they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The prophet Isaiah prophesied about this a long time ago. Both then and now, there have been ignorant people. They see with their eyes, hear with their ears, and divert their manas (mind) even after comprehending with their buddhi. Due to their lack of interest in what they have seen, heard, and known, their buddhi slows down to avoid destroying their karma through Jesus. Their ears become deaf to divine wisdom. They listen to everything that is said but do not understand what they hear and become entangled in material things. They can only see the money. To them, those who possess wisdom appear foolish.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 40,
+verse: `<b>(39)	The Gospel of Mathew, 15th chapter, 7th, 8th and 9th verses.</b>`,
+meaning: `<b>
+(7) You hypocrites! Isaiah was right when he prophesied about you.
+<br><br>
+(8) These people honor me with their lips, but their hearts are far from me.
+<br><br>
+(9) They worship me in vain; their teachings are merely human rules.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  We have often said, “God knows the matter of God; humans do not know.” God can speak about Himself, and humans will come to know when God reveals how to worship Him. Although God has foretold how He should be worshipped, many preach different ways that differ from what God has said. Many swamis and gurus are teaching people human-created rules, such as upadesas and other methods of worship. God Himself reveals that “such upadesas and worship are futile” and cannot bring humans closer to Him. Many swamis and gurus talk about God in their speeches but preach anti-God and God-unspoken worships and upadesas. Even though these gurus and swamis talk about God and wisdom, they perform futile worships without understanding divine wisdom and lead others to do the same. For example, fasting has nothing to do with worshipping God. Not only are they suffering from fasting, but they are also bothering the God within. That is how they are harming the God within. Similarly, it was said in the Bhagavad-Gita five thousand years ago, <b>“You cannot know and reach me through studying the Vedas, making donations, or performing sacrifices and yajnas.”</b> In the Bhagavad-Gita, God said that many people highly honor Him but worship Him in vain, in an adharma manner. The Lord has said the same thing in the holy scripture now.
+
+  Words come from the mouth, but feelings come from the heart. Although many people speak highly of God, their hearts do not truly align with God’s principles. Despite their praise, they do not have God’s dharmas in their hearts. Maya’s dharmas took place in their hearts. They speak about God, but what they do under the influence of Maya is anti-God worship. Many gurus name what they say as God’s wisdom, but the worship they are performing, as God said, will not unite them with God. It is also warned in the Gita that those worships are on the wrong path. However, famous Peetadipatis perform futile yajnas, donations, fasting, Vedic chanting, and penance. The Holy Bible and Bhagavad-Gita state that those who engage in these practices are far from God. Therefore, from now on, let us not only glorify God in our words but also follow what God said, leaving behind futile and anti-God worship.
+
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 41,
+verse: `<b>(40)	The Gospel of Mathew, 15th chapter, 11th verse.</b>`,
+meaning: ` <b>
+(11) What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Man consumes food through the mouth, and the variety of food is vast, not limited to a single type. Individuals can be categorized as either vegetarians or non-vegetarians. Some spiritual leaders, such as swamis and gurus, advocate vegetarianism as a path to understanding God’s wisdom, asserting that avoiding meat is essential. Here the Lord said, <b>“What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”</b> Various opinions exist regarding dietary practices for those on the path of divine wisdom. Some recommend abstaining from non- vegetarian food, while others suggest a diet of exclusively raw, uncooked food. Some propose a vegetarian diet limited to one meal a day. Despite these diverse dietary restrictions, it is emphasized that the sanctity or uncleanness of an individual is not determined by the food consumed. While the food we eat may have an impact on physical health, it does not influence spiritual purity. Eating any particular food does not obstruct the pursuit of divine wisdom. Man consumes food with his mouth and articulates words with the same organ. Notably, the process of ingesting food through the mouth poses no issue; rather, it is the words that emanate from the mouth that have the potential to defile a person. While man engages in actions and verbal expressions, his true nature is unveiled through his words. <b>Elders uphold the belief that one possessing divine wisdom is deemed holy, while those lacking wisdom are considered unclean.</b> A person with wisdom is regarded as pure based on their speech. Conversely, ignorance is exposed in the words of someone lacking wisdom. The defilement of an individual becomes evident through their speech; hence, Jesus conveyed the aforementioned verse. According to the teachings of the Bible and the Bhagavad-Gita, a person is not defiled by the food they consume. Rather, it is one’s karma that provides sustenance. Those on the path of wisdom are not bound by dietary restrictions. What matters to God is not the specific food consumed but the adherence to the wisdom path. Therefore, whatever food is consumed in accordance with one’s habits is inconsequential to God.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 42,
+verse: `<b>(41)	The Gospel of Mathew, 15th chapter, 12th and 13th verses.</b>`,
+meaning: `<b>
+(12) Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”
+<br><br>
+(13)  He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When the Lord proclaimed that man is not defiled by food and is free to consume any nourishment while still adhering to God’s path, the Pharisees raised objections. They contested that the Lord’s words lacked divine wisdom and outright rejected them. Accusing Jesus of promoting ignorance, they questioned the source of His authority to teach such principles. The Pharisees, considering themselves great teachers, asserted that only they possessed the rightful authority to impart wisdom about God. Upon learning of the Pharisees’ objections, the disciples apprised Jesus of the situation. In response, He declared, <b>‘Every plant not planted by my heavenly Father will be uprooted by the roots.’</b>
+
+  The Paraloka Father, Paramatma, establishes His dharmas, which can wane on Earth but never truly perish. When such diminishment occurs, Paramatma incarnates as Bhagavan to reinforce these dharmas. As the dharmas weaken, adharmas proliferate. Dharmas are divine, belonging to God, while adharmas are affiliated with Satan. Paramatma sows the seeds of dharmas, whereas Satan sows those of adharmas. Upon Paramatma’s earthly incarnation to impart His dharmas, Satan takes on various forms such as scholars, Pharisees, teachers, and swamis. In this guise, Satan imparts its own version of wisdom, persuading humans that its dharmas are synonymous with God’s dharmas. Maya’s (Satan) dharmas occasionally undermine Paramatma’s dharmas. Some may question why Maya’s dharmas can weaken God’s powerful dharmas. Paramatma, as the Paraloka Father, incarnates as Bhagavan in a specific place and time to propagate His dharmas. Although these dharmas may gain strength during that period, they wane after a few thousand years. This is because God’s return as Bhagavan occurs only when deemed necessary. In contrast, Maya perpetually creates gurus and swamis, convincing them that its wisdom is synonymous with God’s wisdom. Through them, Maya propagates its dharmas continuously, ensuring a persistent influence on Earth.
+
+  People are often drawn to swamis, gurus, and babas who consistently operate under Maya’s influence, rather than the infrequent appearance of an unidentified Bhagavan who arrives once in a thousand years. While God manifests in one place at a time, Satan is born in various forms across many places, assuming roles such as swamis, gurus, and babas, actively diminishing God’s dharmas. Similar to a field overrun with weeds affecting the growth of trees planted by a farmer, the influence of Satan proliferates around God’s planted dharmas. To counter this, God, akin to a diligent farmer, intervenes by uprooting the weeds, including their roots, to fortify the trees He has sown. However, over time, many weeds may resurface without any intentional sowing. Paramatma, likened to a farmer, initially planted His dharmas. Satan, in turn, fosters weeds (adharmas) around God’s plants (dharmas). The natural weakening of God’s plant occurs under the influence of Maya’s weeds. To address this, God intervenes, <b>extracting many of Maya’s dharmas</b> that have encroached upon His dharmas. This aligns with the essence of Jesus’ statement—God dismantles Satan’s dharmas undermining His own, thereby reinforcing and fortifying His divine principles.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 43,
+verse: `<b>(42) The Gospel of Mathew, 15th chapter, 14th verse.</b>`,
+meaning: `<b>
+(14) Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Individuals under the influence of Maya, including Pandits and Pharisees, who are themselves part of Maya, criticized Bhagavan Jesus without comprehending God’s wisdom. They are unaware of God’s wisdom, lacking any insight into divine wisdom. They remain blind without wisdom sight. How can those devoid of God’s wisdom proclaim and guide others in it? They pretend to have wisdom sight and spread what they perceive as God’s wisdom. People, trusting these apparent seers, seek guidance, assuming they possess complete knowledge of God’s wisdom. Unbeknownst to them, these leaders themselves are blind. Imagine a scenario where a blind person leads others who are also blind, claiming to have sight and guiding them along the way. Inevitably, the blind leader stumbles into pit, leading the others into the same predicament. Similarly, those ignorant of God’s wisdom mock those with true wisdom, proclaiming themselves as great gurus. Those with wisdom need not engage in argument with them. Individuals lacking wisdom-sight cannot ascend to the pinnacle of moksham. Although many may follow a guru lacking wisdom-sight, none attains moksham; instead, they fall into the <b>pit of gunas.</b>
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 44,
+verse: ` <b>(43) The Gospel of Mathew, 16th chapter, 21st and 22nd verses.<br>
+The Gospel of Mathew, 17th chapter, verses 22nd and 23rd verses.
+<br>
+The Gospel of Mathew, 20th chapter, verses 17th, 18th and 19th verses.</b>
+`,
+meaning: ` <b>
+(16:21) From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief priests, and the teachers of the law, and that he must be killed and on the third day be raised to life. (First time)
+<br><br>
+(16:22) Peter took him aside and began to rebuke him. “Never, Lord!” he said. “This shall never happen to you!”
+<br><br>
+(17:22) When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men.”
+<br><br>
+(17:23) They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief. (Second time)
+<br><br>
+(20:17) Now Jesus was going up to Jerusalem. On the way, he took the Twelve aside and said to them.
+<br><br>
+(20:18) We are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death.
+<br><br>
+(20:19) They will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!” (Third time)
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Jesus, in chapters 16, 17, and 20 of the Gospel of Matthew, foretold His own future. It is uncommon for ordinary humans to predict the time of their death, given the uncertainty and unknown nature of the future. Jesus, however, disclosed the circumstances of His death not just once but three times, showcasing something extraordinary within Him. This act served to demonstrate to the unaware that He was more than a mere human being. The ability to speak about one’s death in such detail is a rarity, but Jesus could do so because He had preordained His demise. Atma stands as the sole determiner of life’s karma within the body.
+
+  Jesus, on three separate occasions, explicitly spoke about His impending death. His ability to foretell His fate stemmed from His predetermined karma. According to Jesus, Atma—the judge of karma—is the Son of Paramatma. Jesus consistently asserted that His Father is the Holy Spirit, identifying Himself as the Atma responsible for determining karma. Having decided His life’s karma, Jesus prophesied that He would be handed over to the elders and chief priests, be killed by them, and rise to life on the third day. Remarkably, these events unfolded exactly as He had predicted. Jesus spoke about His death without fear, a demonstration that every discerning individual can recognize, indicating that Jesus was no ordinary man; there was something extraordinary about Him.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 45,
+verse: `<b>(44)	The Gospel of Mathew, 19th chapter, 23rd and 24th verses.</b>`,
+meaning: `<b>
+(23) Then Jesus said to his disciples, “Truly I tell you; it is hard for someone who is rich to enter the kingdom of paraloka.
+<br><br>
+(24) Again, I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> Jesus conveyed a parable, stating, <b>“It is easier for a camel to pass through the eye of a needle than for a wealthy person to enter the kingdom of God.”</b> Just as it is impossible for a camel to navigate the eye of a needle, similarly, it is challenging for a rich individual to enter the kingdom of God. Some elders believe that wealth often begets arrogance, a trait considered one of the six negative qualities (gunas). Arrogance, the fifth of these qualities, accompanies greed (kaama), anger (krodha), avarice (lobha), passion (moha), and jealousy (matsara). Arrogance is present to varying degrees in every individual. Whether it be at 90%, 80%, 70%, 60%, 50%, 40%, or 30%, everyone possesses some level of arrogance. One person may exhibit 90% arrogance, while another might have 80%, and some may express as little as 30% arrogance.
+
+  Not only does arrogance shape the thoughts of the Jeevatma within the body, but the other five associated gunas also play a significant role. The level of arrogance can vary, and it's observed that the poor generally exhibit less arrogance than the rich. The wealthier an individual is, the higher their level of arrogance tends to be. Someone with millions of dollars may manifest an even greater degree of arrogance and be more influenced by the other gunas. Wealth has the power to bring about significant changes in a person, often leading them away from wisdom. In the context of <b>moksham</b> being likened to the eye of a needle, the analogy extends to the rich being comparable to a camel. Just as a camel cannot pass through the eye of a needle, a wealthy person, with the strong influence of gunas akin to a camel, faces challenges in attaining liberation. The analogy emphasizes that just as a camel cannot fit through the eye of a needle, a wealthy person, under the influence of powerful <b>gunas,</b> encounters obstacles in entering paraloka (moksham).
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 46,
+verse: `<b>(45)	The Gospel of Mathew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>`,
+meaning: `<b>
+(36) Teacher, which is the greatest commandment in the Law (Dharma Shastra)?
+<br><br>
+(37) Jesus replied: “Love the Lord your God with all your heart and with all your soul and with all your mind.”
+<br><br>
+(38) This is the first and greatest commandment.
+<br><br>
+(39) And the second is like it: ‘Love your neighbor as yourself.’
+<br><br>
+(40) All the Law and the Prophets hang on these two commandments.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Some people approached Jesus, posing a question about the most crucial commandment in the law (Dharma Shastra), with the intention to test and potentially mock Him if He stumbled. In response, Jesus promptly answered, <b>“Love the Lord your God with all your heart, soul, and mind.”</b> He emphasized that this directive was the primary and greatest commandment, followed by a second commandment. The use of the term ‘commandment’ in this verse underscores its significance, with Jesus asserting that these two commandments serve as the foundation for all the law and the Prophets. This verse is explained as follows.
+
+  A commandment is essentially an instruction given to direct action. In the broader context, the question arises: who is the authority issuing the command? The answer lies in the understanding that elders commonly give commands to the younger. Extending this idea, God, the creator of the world, holds the highest authority, and what He communicates commandingly is considered a <b>commandment</b> or <b>law</b>. This law comprises unalterable acts and is commonly referred to as <b>dharma.</b> The term ‘dharma’ is employed because this law is inherently unchangeable. For instance, the spiciness of a chili pepper is an unalterable characteristic, or dharma, of the chili pepper. This spiciness is consistently present in all chili peppers. So, it can be said that the dharma of the chili peppers is its spiciness. Similarly, sourness is the dharma of tamarind, and bitterness is the dharma of neem.
+
+  Dharma encompasses a set of rules and regulations. If one asks who has dharma, then anything that is created has dharma, just as the created tamarind, chili, and neem have dharma. Since God is the creator of creation, He does not possess any dharmas. The creator God stands beyond the constraints of dharma. Both Atma and Jeevatma, excluding God, are subject to dharmas. Additionally, the created Prakruti also possesses its own set of dharmas. To grasp Brahma Vidya or spiritual education, understanding the dharmas of Atma and Jeevatma becomes crucial. Jeevatma, specifically intended to comprehend Brahma Vidya, <b>only needs to be acquainted with the dharma of Atma.</b>
+
+  In this verse, the method of understanding Atma is highlighted as significant. The Dharma Shastra delves into the nature of Atma, with the foremost dharma outlined as <b>“Loving the Lord your God is the first and greatest commandment.”</b> The Lord referred to here is primarily the one who is born. Jesus emphasized that the paramount commandment is to love the God who is born. However, a question arises: when God is the creator, uncreated, and devoid of dharma, how can the primarily born (the Lord) also be considered God? The dilemma centers around whether the self-existent is God or the one born is God. The answer to this quandary is elucidated as follows.
+
+  God, the unborn and creator, did not undergo a birth. Initially, God created Prakruti. Following the creation of Prakruti, God (Paramatma) intended to bring forth living beings. Once Prakruti was formed, God chose not to engage in direct action. After creating the five elements—Sky, Air, Fire, Water, and Earth—God desired a state of inactivity. When God wished to manifest in a form, <b>Atma</b> (the Lord) came into existence to create, govern, and, ultimately, terminate living beings. Atma formulates rules and oversees the cycle of life and death for all living things. Since Atma is the creator of all living beings, it is fitting to refer to Atma as God. <b>Consequently, God, the creator of Prakruti, is recognized as the primary entity, while God, the creator of living organisms within Prakruti, is acknowledged as the secondary entity.</b>
+
+  The first God, recognized as Paramatma, created Atma, is God to Atma, and remains distinct from Atma. The second God, known as Atma, is the creator of living beings. Although both Paramatma and Atma function as creators and Gods, <b>the first God (Paramatma) is beyond dharmas, while the second God (Atma) adheres to dharmas. The God without dharmas is the primary creator, whereas the God with dharmas is the secondary creator.</b> No one knows that there are two Gods in the world. Even though there are two Gods, with the first God being the greatest, Atma holds a special significance to humans as the creator of human beings. It is essential for humans to worship Atma exclusively. Individuals are encouraged to understand the dharmas associated with the second God. Importantly, all the dharmas revealed in scriptures are centered around Atma.
+
+  If a person desires to worship and pray, it is directed towards the second God, Atma. No one can worship the first God. It is not possible for anyone to pray or worship Him. Worship and prayer to the first God are deemed unnecessary, for this <b>God neither begets nor is born,</b> as emphasized in the final scripture. Surah 112 further reinforces that <b>the first God is indifferent to prayers.</b> It is noteworthy that both Christians and Muslims may not recognize the existence of two Gods (two Allahs), as they uphold the belief in a singular God whom they worship. However, the distinction between <b>the God to be worshipped and the initial creator God</b> is often overlooked. The Hindus are unaware of God but worship many deities and walk in the wrong path (ignorant path) altogether.
+
+  The first God transcends the realm of dharmas, making Him unknowable and beyond worship. To worship Atma, the God governed by dharmas, specific elements of the human body become essential. According to the Dharma Shastra, it is crucial for Jeeva to worship Atma, the God, using both manas and buddhi. This becomes significant dharma. The verse emphasizes, <b>“Love Atma, the God, with all your heart, soul, and mind,”</b> where love is interpreted as worship. This stands as the foremost commandment or dharma. <b>Interpreting the commandment as dharma, ‘all your heart’ signifies all your buddhi, and ‘all your soul’ refers to you, Jeeva. Love, in this context, implies worship. In the Dharma Shastra, it is said that you should worship Atma, the God, with your mind and your buddhi.</b> With the mention of the second commandment, let us delve into what it entails.
+
+  The second commandment instructs, <b>“Love your neighbor as yourself.”</b> These two commandments form the cornerstone of the Dharma Shastra and the teachings of the Prophets, as stated in the verse. Essentially, they serve as the foundation for the dharmas within the realm of Brahma Vidya and the guidance provided by the Prophets in imparting these dharmas. The verse subtly suggests that self-love and the prioritization of personal well-being are universal tendencies. When faced with threats, individuals exhibit an innate instinct to safeguard their own lives, often going to extraordinary lengths, even at the cost of sacrificing possessions. The profound hope individuals harbor for their own lives is evident in their prayers to various deities and their willingness to undertake any measure to ensure their well-being. This observation highlights the innate tendency of individuals to prioritize self-love. The verse instructs, “Love your neighbor as yourself,” emphasizing the imperative to extend the same degree of care and consideration to one’s neighbor as one inherently seeks for their own well- being and values their own life.
+
+  While the conventional understanding of a ‘neighbor’ often refers to someone living next door, the verse, “Love your neighbor as yourself” urges us to extend love to the one very close to us, not our next-door neighbor. Delving deeper, the verse prompts reflection on who our neighbor truly is. According to the verse, aside from your <b>Atma,</b> there is no one else within your body. If you identify as a soul (Jeevatma), there is another soul akin to you — the second God, Atma. In total, there are only three souls, signifying two souls besides yourself, with one being Paramatma. However, referring to Paramatma as your neighbor is impractical since He is omnipresent and all-pervading. Excluding Paramatma, the remaining Atma is your neighbor. This concept aligns with the understanding that, except for Atma and Paramatma, all of creation is considered feminine Prakruti, with Atma and Paramatma representing the masculine aspect.
+
+  Atma, being the only masculine entity akin to you, is appropriately deemed your neighbor. The first God, Paramatma, stands beyond the realm of worship, relationships, and dharmas, making Atma the rightful subject of worship. The divine scriptures consistently assert the worthiness of worshiping Atma, labeling Him as <b>‘your Allah.’</b> This declaration is reiterated in Surah 6:102, 3:18, and 16:51. The significance of the two commandments, “Love your neighbor Atma as yourself,” is underscored in the Dharma Shastra. <b>Worshiping Atma emerges as the primary duty of gurus, preachers, and prophets.</b> This is evident in the response Jesus gave to a Pharisee when questioned about the most fundamental dharma in the law. Reflecting on this verse prompts a deeper consideration of the entity you are directing your worship towards.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 47,
+verse: ` <b>(46)	The Gospel of Mathew, 23rd chapter, 8th, 9th and 10th verses.</b>`,
+meaning: ` <b>
+(8) “But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.
+<br><br>
+(9) And do not call anyone on earth ‘father,’ for you have one Father, and he is in paraloka.
+<br><br>
+(10) Nor are you to be called instructors, for you have one Instructor, the Messiah. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Some may refer to a preacher as a father or consider gurus who preach equal to a father. However, the verse states that no one should be called a preacher. It says not to call anyone Rabbi, as there is only one master, and all others are brothers, as stated in the verse. A preacher is someone who teaches, but the verse refers specifically to one who teaches divine wisdom. According to the verse, only one person knows divine wisdom, and no one else does. Why do the rest of them not know? Who is the one who knows? The answer to those questions is as follows.
+
+  God’s wisdom is not known to anyone except God, as stated in the divine scriptures. It is also mentioned in the divine scriptures that God did not pass His wisdom onto any human being. This means that no person knows God’s wisdom. Therefore, no one can teach God’s wisdom. Hence, you should not be called Rabbi, as stated in the verse. Only God can teach the wisdom of God. Thus, it is said in the verse that your master is only one, and He is God. A human being is not a master (teacher), and all human beings are brethren, as stated in the verse.
+
+  Everyone has biological parents. Everyone believes that the visible parents from childhood are the real parents. Many elders advise that you should respect your parents. Everyone respects their biological parents. It may be said that there are no other mother or father figures except for the visible parents. All of this is worldly related. However, every man has invisible, unknown parents according to divine wisdom. If asked whether visible parents are real parents or invisible parents are real parents, it becomes evident that invisible parents are real parents. The reason we say this is that the father is the seed donor for every human being. Accordingly, <b>God (Atma), the unseen father, is the seed donor of all living beings.</b> Hence, the invisible father becomes the real father. Whether we know it or not, our birth father is Atma. Therefore, <b>do not call any man your father upon the earth, for one is your father, who is in paraloka,</b> as said in the verse.
+
+  The verse states that the visible preacher is not the true preacher, the biological father is not the actual father, and the visible guru is not the right guru. Many teach something and are called gurus. If you are called a guru, then you are playing a role that is not suitable for you. God alone can come to earth as a Guru at any time. When God incarnates as a human being, He becomes the Guru and teaches wisdom. Therefore, we should understand that <b>the incarnation of God as a man on earth is the true Guru.</b>
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 48,
+verse: ` <b>(47)	The Gospel of Mathew, 23rd chapter, 15th verse.</b>`,
+meaning: `  <b>
+(15) “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Religion did not exist until three thousand years after Kali Yuga. Two thousand years ago, when Christianity was born, Christians initially emerged as groups and later formed a Christian community. After some time, the Christian community claimed itself to be a Christian religion. Thus, the first religion was born. After claiming to be a Christian religion, they tried to expand their faith. Others later identified themselves as a religion based on their teachings. Thus, religions were created one after the other. Very soon, twelve religions formed on earth. After the creation of religions, some people became involved in expanding their faiths. They traveled over land and sea to convert others to their religion.
+
+  Religion is created by people’s will, not by God’s wisdom. In these religions created by people, there appears to be divine wisdom, but the wisdom in them is contrary to the wisdom revealed by God. Hence, a person who relies on divine wisdom and scripture, regardless of religion, will understand God’s teachings and wisdom. If a person is tied to religion and claims to belong to a specific religious group, they will understand Maya’s wisdom. If a person embraces religion, he will become entangled in sin. On the other hand, a person without religious affiliation will be eligible to enter the kingdom of paraloka.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 49,
+verse: `<b>(48) The Gospel of Mathew, 24th chapter, 35th verse.</b>`,
+meaning: ` <b>
+(35) Sky and earth will pass away, but my words will never pass away.       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> Paramatma (God) does not speak. Atma, which resides in the body, can speak. Atma is the second creator and the second God. Atma, present in the body, communicates through speech. The second God (Atma) imparts much wisdom to humanity. The wisdom taught in this manner is conveyed through words. Atma’s teachings from the body, in the form of words, will never pass away, even if the sky and earth were to pass away, as stated in the verse. What is important to note here is <b>that the sky and earth mentioned will pass away, but my words will never pass away.</b> But it can be said that the sky and the earth never pass away. However, the verse seems to convey that the sky and earth will pass away. Therefore, we should understand that both the sky and earth mentioned in the verse are not the sky and earth we see. The sky and the earth described in the verse are perishable. The earth and the sky that never perish are one type, while the perishable earth and sky are another kind. In Prakruti, which is in the form of the human body, there is the sky, air, fire, water, and earth. All of them—the first sky, the last earth, and the remaining air, fire, and water— in the form of the body are perishable. <b>The human body will perish, but the wisdom imparted from man will never pass away.</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 50,
+verse: `<b>(49)	The Gospel of Mathew, 24th chapter, 42nd verse. </b>`,
+meaning: ` <b>
+(42) Therefore, keep watch, because you do not know on what day your Lord will come.      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Whenever there is a threat to God’s dharmas on Earth, and Satan’s dharmas spread extensively, God sends a part of Himself to the earth to protect His commandments (dharmas). Whenever there is a need, God must come as a human being. Krishna in the Dvapara Yuga and the Lord Jesus in the Kali Yuga came in that manner. Remarkably, we could identify them after they arrived and left, but when they were on Earth, we could not identify who they were. No one recognized when God Himself came as the Lord. Even those who saw His glory could not know that He was God but thought He was great. In Dvapara Yuga, Krishna said, <b>“I will come when dharmas are polluted.”</b> He came again as Lord Jesus and reiterated His dharmas. There will not be any difference in the commandments He gave, either in Dvapara Yuga or Kali Yuga. But there are no similarities in their names, lives, and lifestyles. Hence, Satan emphasized their external differences and tricked humans into not realizing that both were the same. Man needs some wisdom in order to know who has come, who is to come, when He has come, and when He can come. As long as man is in ignorance, he does not know God’s coming and remains unaware even after God has come and gone. Therefore, if people want to know God’s arrival and recognize Him, they must possess wisdom related to God. Nowadays, God’s wisdom is not known, and Satan’s wisdom is widespread. Hence, <b>“You do not know on what day your Lord will come,” said the verse. “Stay awake to know Him,”</b> is also mentioned in the verse. Here<b> ’stay awake’ means having wisdom.</b>
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 51,
+verse: ` <b>(50) The Gospel of Mathew, 26th chapter, 26th, 27th and 28th verses.</b>`,
+meaning: `<b>
+(26) While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”
+<br><br>
+(27) Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.
+<br><br>
+(28) This is my blood of the covenant (God’s wisdom without the bonds of ignorance), which is being poured out for many for the forgiveness of sins. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  While Jesus and His twelve disciples were eating, Jesus took bread, blessed it, broke it, gave it to His disciples, and said, <b>“Take and eat; this is my body.”</b> He also took grape juice in a cup and said, <b>“All of you drink from it; this is my blood.”</b> He compared grape juice to His blood and elaborated further, stating, <b>“This is my blood of the covenant, which is being poured out for many for the forgiveness of sins.”</b> These seemingly ordinary words of Jesus should be considered among the most important of His teachings. Unfortunately, some Christians, unaware of the essence of these words spoken at mealtime, fail to grasp their significance. <b>Some interpret that Jesus spoke these words about His past or future although it was about the present.</b>
+
+  Jesus gave grape juice in a cup and said, “This is my blood,” but He did not specify that it was the blood of His body that was shed on the cross. Nevertheless, many Christian preachers attribute the blood mentioned in this verse to Jesus’ body’s blood shed on the cross, claiming that a person’s sins are forgiven because Jesus spilled His blood for sinners. However, there is a discrepancy between what man says and what Jesus said. Jesus did not mention His body’s blood in the verse. In such cases, it would be unfair to say that Jesus shed His blood for sinners. On that day, those who put Jesus on the cross, made Him spill His blood, and caused His death committed a terrible and unforgivable sin. However, it would be incorrect to assert that people’s sins were forgiven and will be forgiven by Jesus’ death.
+
+  When Jesus gave grape juice to His disciples and said, <b>“This is the blood of the covenant, which is being poured out for many for the forgiveness of sins,”</b> He used the present tense, indicating that it was happening at that moment, and did not mention a future event. He did not allude to the future spilling of His blood on the cross. Therefore, it would be incorrect to claim that the blood spilled on the cross was for the forgiveness of sins. <b>Those responsible for Jesus spilling His blood on the cross received sin, not forgiveness of sin.</b> What Jesus referred to was the blood of the covenant, signifying God’s wisdom, which is not bound by ignorance. He taught this divine wisdom daily, comparing it to the pouring out of the blood of the covenant from His mouth. He imparted the fire of wisdom each day to burn away human sins, likening His teachings to covenant blood flowing from His mouth. The true meaning of this verse can only be understood through careful analysis.
+
+  The meaning of the statement is poorly understood because the word ‘covenant’ is often omitted from the phrase ‘covenant blood’ with only the word ‘blood’ being considered. It is not realized that ‘covenant’ means ‘wisdom with dharmas.’ Another reason for mentioning ‘blood’ in the verse is not physical blood. The physical body is full of blood, and as long as there is blood in the body, the body is alive. If the body sheds its blood, the body dies. According to this, it becomes known that the essence of the body is blood. While they were eating, Jesus first took bread and gave it to His disciples, saying, <b>“Take and eat; this is my body.”</b> Here He compared bread with His body. Then He took grape juice in a cup and gave it to them, saying, <b>“This is my blood of the covenant.”</b> He said about the bread, “This is my body. Eat this.” Jesus compared the bread to His body and instructed them to eat it. If you eat bread, then you are eating Jesus’s body. The basis and the essence of the body is its blood.
+
+  When comparing divine wisdom to the covenant blood, the body of bread can be likened to the Holy Scripture and God’s wisdom. In this way, <b>the body contains blood, and the scripture contains wisdom. Eating the body means reading the scripture and reading it will reveal the essence of its wisdom. Drinking blood means understanding wisdom.</b> Unfortunately, people often focus only on the bread and grape juice that Jesus gave, without realizing that the bread represents the divine scripture, and the grape juice represents its wisdom. <b>Jesus compared the scripture to His body (bread) and the wisdom within it to blood (grape juice). The shedding of the blood of the covenant refers to the wisdom with dharmas being taught at that time.</b> Many have failed to recognize that Jesus compared the scripture to His body and its wisdom to blood, leading to the mistaken belief that the blood shed on the cross was for the forgiveness of sins.
+
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 52,
+verse: `<b>(51)	The Gospel of Mathew, 28th chapter, 18th verse.</b>`,
+meaning: `<b>
+(18) Then Jesus came to them and said, “All authority in paraloka and on earthhas been given to me. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In Telugu, ‘Loka’ means having experiences. In Loka, we encounter both hardships and pleasures. The experience of pleasure is called Svarga Loka (heaven), while the experience of hardship is referred to as Naraka Loka (hell). Loka is not a separate country or special place; rather, it is the sum of all experiences. According to one’s experiences of pleasure and sorrow, Loka is divided into heaven and hell. All experiences of heaven and hell take place on earth and are not separate physical locations. So, depending on the experiences, we may refer to them as heaven or hell, but in reality, both heaven and hell exist on earth.
+
+  There are two types of lokas on earth – Ihaloka and Paraloka. <b>Ihaloka involves experiences, whereas Paraloka does not have any experiences.</b> Both Ihaloka and Paraloka exist on earth. ‘Para’ means different or separate. Paraloka means something different from experiences. In other words, Paraloka has no experience and is distinct from the loka. In Telugu, ‘human being’ means the one who acquires experiences through the manas (mind). Therefore, all people on earth belong to Ihaloka. No man has seen Paraloka. A body-wearing man is never without experiences. Therefore, it can be said that every person belongs to the loka and is living in Ihaloka. It may be said that the one with no experience is in Paraloka. <b>“All authority in Paraloka and on earth has been given to me,” said</b> the above verse.
+
+  If Jesus were an ordinary man, He would be in Ihaloka and not know Paraloka. Despite appearing to be an ordinary man, his body only had Atma and not Jeevatma. Atma lived in Jesus’s body and pretended to be a Jeevatma. Both Atma and Jeevatma exist in all humans, where Atma performs all body functions, and Jeevatma experiences joy and sorrow at work. In this way, it can be said that Jeevatma in a person’s body is in heaven at times and in hell at other times. But when God comes as a human, His body does not have Jeevatma. Although Atma works in the body of the Son of God, it does not experience anything. Therefore, He is said to be in Paraloka. Since Jesus was not an ordinary man, He has authority on earth (Ihaloka) and Paraloka. The Holy Spirit, Paramatma, gave Atma (Jesus) complete authority. Jesus, who is Atma, is also the head of divine wisdom. God’s wisdom is now known to anyone except to God. Therefore, the subject of souls is unknown to people. Jesus taught the wisdom of three souls and instructed His disciples, who knew the wisdom of the souls, to teach Atma’s wisdom to all people.
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel Of Mathew",
+chapterNumber: 2,
+pageNumber: 53,
+verse: ` <b>(52)	The Gospel of Mathew, 28th chapter, 19th and 20th verses.</b>`,
+meaning: ` <b>
+(19) Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
+<br><br>
+(20) Teaching them to obey everything I have commanded you. And surely, I am with you always, to the very end of the age (Yuga).       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The Gospel of Matthew has 28 chapters. The last verses, 19th, and 20th of chapter 28, contain the secret of the entire spiritual education. The information about the three souls mentioned in verse 19 is the most important wisdom in scripture. In this verse, the word ‘Father’ is used before the word ‘Son,’ requiring careful consideration to understand it. Those who reflect on this will know that the sequence is the Son, the Father, and the Holy Spirit. To further explain, <b>one must understand that the Son is Jeevatma, the Father is Atma, and the Holy Spirit is Paramatma.</b> There are no other souls in the world besides these three. According to the Thraitha theorem, these three souls are Jeevatma, Atma, and Paramatma.
+
+  Baptism means upadesa. In Telugu, ‘Upa’ (sub) means adjacent. Upadesa means a neighboring or adjacent country. In more detail, it means “leaving this country where you are now and getting permission to go to the adjacent or neighboring country.” An officer must first give permission to go to the neighboring country. That officer can be called a Guru. Guru means the one who is the head of the neighboring country or Paraloka. No matter how many gurus are on earth, God, the head of Paraloka, is the true Guru. God, the ruler of Paraloka, is the true Guru who gives us true baptism when He comes to earth as a man. Although there are many gurus on earth, they are all gurus in name only. The baptism they give is in name only.
+
+  When God, the real Guru, is not on earth as a human, according to the tradition of wisdom, preachers must make some disciples and give them upadesa. Upadesa is like permission to the neighboring country. In the upadesa process, the guru instructs disciples with water, with a mantra, word, or Vibhuti (sacred ash). Upadesa is permission to Paraloka, and the word or water is like a ticket recognizing the entry to Paraloka. Most gurus use a mantra or a word in the upadesa process. Similarly, Jesus told His disciples, <b>“Go and make people of all nations disciples.”</b> He also told His disciples to baptize them when they became disciples. When giving the disciples the permission ticket in the upadesa process, He said, “Baptize them in the name of the three souls - the Father, the Son, and the Holy Spirit.” According to the wisdom tradition, baptism should be done this way. So, when John, a Guru, gave baptism, He administered baptism with water. According to that method, Jesus also received upadesa from John. At that time, John saw Jesus and spoke.
+
+  This is what the Gospel of Matthew says in verses 3:14 and 3:15. <b>When Jesus came to Him, John tried to deter Him, saying, “I need to be baptized by you, and do You come to me?” Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b> Even Jesus said one must receive baptism from the Guru according to the wisdom tradition. I also said the same thing about baptism. Jesus authorized His disciples to give baptism and said, “All people need to be baptized, not just a caste or a group.” He also told them to give an entry document of the Father, the Son, and the Holy Spirit. Jesus told His disciples to do the work because God could not always be on earth as a man to give upadesa. In addition to baptism, Jesus also told His disciples to teach them to obey all things He told His disciples.
+
+  Jesus also said, “I am always with you,” without causing doubt in the disciples that they were not gurus. He notably said, <b>“I am with you always, even unto the end of yuga.”</b> Those who know about yugas may pose a question when they hear what Jesus said. Yuga (era) does not end, and another yuga starts at the end of the current yuga. In that case, why did Jesus say that there is an end to the yugas, when there is no end to them? The answer is as follows. Time is eternal and lasts forever, just like God (Paramatma). Time, being a nickname for God, is also eternal. Since time is Paramatma, the three souls are named after the time. Paramatma is divided into three souls – Jeevatma, Atma, and Paramatma. The names past, future, and present tense are given to the time so that the time has these three names appear in it. The name ‘yogam,’ necessary to reach God, is given to time. In this way, the four names are given to time, and the word ‘yogam’ is appended at the end of all four names to indicate ‘yogam’ is necessary to reach God.
+
+  Time is divided into four parts named Kruta, Traita, Dvapara, and Kali, respectively. The word ‘yogam’ is added to the end of each name, creating the names Kruta Yuga, Traita Yuga, Dvapara Yuga, and Kali Yuga. <b>Kruta means the one (Atma) who does. Traita means three. Dvapara means the one (Paramatma) who is separate from the two. Kali means the one (Jeevatma) who gets destroyed.</b> The first divine scripture refers to these three souls as <b>Kshara, Akshara, and Purushottama.</b> In Telugu, Kshara means destructible Jeevatma, Akshara means indestructible Atma, and Purushottama means Paramatma, who is superior to both Jeevatma and Atma. In the final divine scripture, verse 50:21, these three are referred to as <b>the Passenger, the Driver, and the Witness,</b> and in the second divine scripture, <b>the Son, the Father, and the Holy Spirit. Yogam</b> is necessary to understand these three males (Purusha), which is why the word ‘yogam’ is added to the end of the four yuga names. Through yogam, Jeevatma can know himself; hence it is called Kali Yogam. With yogam, Atma will be known; hence it is called Kruta Yogam. By yogam, one can reach Paramatma; therefore, it is called Traita Yogam and Dvapara Yogam. Those who are rich in divine wisdom gave these names. Over time, Traita became Treta, and the word yogam became yuga. This is why in the verse, <b>‘end of the yuga’</b> is used instead of <b>‘end of the yogam.’</b> When the correct word is used, Jesus’ statement “I will always be with you until the end of the yogam” can be interpreted as “I am with you always until the conclusion of the yogam.” When Jeevatma reaches the end of yogam, He unites with God. When God and Jeeva are separate, yogam is necessary to union with God and God will be present with Jeevatma. <b>Once yogam is completed, Jeevatma will merge with God,</b> and there will no longer be a need for God to be present with Jeevatma. This is the meaning behind the statement <b>“until the end of the yuga.”</b>
+</div></div>
+</span>
+`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 54,
+verse: ` <b>(1)	The Gospel of Mark, 2nd chapter, 19th and 20th verses.</b>`,
+meaning: `<b>
+(19) How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them.
+<br><br>
+(20) But the time will come when the bridegroom will be taken from them, and on that day they will fast. </b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Some people came to Jesus and asked, “Why is it that John’s disciples and the disciples of the Pharisees are fasting, but not yours?” Jesus replied with the following verses. In this context, fasting refers to abstaining from food, a common worldly meaning. In Telugu, the word for the bridegroom is ‘Pellikoduku,’ which translates to ‘son of marriage.’ In Telugu, the phrase ‘son of marriage’ holds a special meaning because the word ‘marriage’ (or ‘Pelli’ in Telugu) symbolizes God in a spiritual sense. Therefore, the ‘son of marriage’ refers to the Son of God. When Jesus, the Son of God, is with His followers, they will experience joy and not fast. However, when the bridegroom (the Son of God) is taken away from them, those who were with Him will fast with grief because He is departing from them. Similarly, Jesus’ disciples will not fast as long as He is present with them. When Jesus is absent, they will fast in sorrow. The phrase ‘bridegroom’ (the son of marriage) should be understood as referring to the Son of God.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 55,
+verse: `<b>(2) The Gospel of Mark, 4th chapter, 38th and 39th verses.</b>`,
+meaning: ` <b>
+(38) Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?”
+<br><br>
+(39) He got up, rebuked the wind, and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When Jesus and His disciples were crossing the sea in a small boat, they encountered a storm, and the boat began taking on water due to the waves. The disciples were terrified and feared that they would drown. They awoke Jesus and informed Him of the perilous situation. Jesus rose, rebuked the wind, and commanded the waves to be still. The wind ceased, and a calm descended upon the sea. The disciples were amazed and asked one another, “It is a great wonder, and how did it happen?” They recognized Jesus’ power, but they didn’t fully understand the reason for it. There is remarkable wisdom in this incident.
+
+  Jesus is not an ordinary man; it must be emphasized that He is God, who looked and behaved like an ordinary man. When God, the Holy Spirit, comes in human form, no one can recognize Him. The birth of God is a secret when He is a human being, and no one can ever know Him through worldly knowledge. It may only be possible to know Him through wisdom. There are two ways to recognize God’s incarnation based on wisdom: 1) It can be known that there is God’s incarnation wherever God’s dharmas, which no one has explained, are revealed scientifically. 2) It can be said that Paramatma is in human form wherever Prakruti is governed. No one can recognize God’s incarnation apart from these two methods.
+
+  Devatas bowed down to Ravana Brahma in Traita Yuga. When He ordered the nine planets, it became known that He was no ordinary man. Ravana Brahma taught divine dharmas, which were unknown to anyone, and made people practice them. Thus, it became known that Ravana Brahma is God’s incarnation. Similarly, it became known that Krishna in Dvapara Yuga was God’s incarnation when He commanded Sun and taught dharmas in Bhagavad-Gita. Jesus, who came as a man 2,000 years ago, became recognized as God in two ways: by commanding the sea and teaching divine dharmas. The storm during the sea voyage seemed to serve the purpose of making people aware of who Jesus was. Even though God’s incarnation is secret, God provided this opportunity to know.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 56,
+verse: `<b>(3)	The Gospel of Mark, 5th chapter, 38th, 39th, 40th, 41st, 42nd and 43rd verses.</b>`,
+meaning: `<b>
+(38) When they came to the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly.
+<br><br>
+(39) He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”
+<br><br>
+(40) But they laughed at him. After he put them all out, he took the child’s father and mother and the disciples who were with him and went in where the child was.
+<br><br>
+(41) He took her by the hand and said to her, “Talitha koum!” (which means “Little girl, I say to you, get up!”).
+<br><br>
+(42) Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished.
+<br><br>
+(43) He gave strict orders not to let anyone know about this and told them to give her something to eat.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  It is a great surprise when a person comes back to life after being declared dead. Jesus brought several people back from the dead during His life. He not only resurrected others, but He also rose from the dead Himself. If we contemplate this event, some unknown mysteries will be uncovered. There are four types of death: timely death (natural death), untimely death, temporary death, and final death. Once a person experiences the final death, they will not be born again; instead, they attain liberation or moksham. Natural death is the most common form of death, in which a person leaves their current body and goes to the next birth. There is no option other than going to the next birth in natural death.
+
+  In the case of an untimely death, a person does not entirely die but instead loses half of their body and continues to live with the remaining half. Although it may seem unbelievable, this is what happens. The human body consists of two parts. The human body and the bodies of all living beings consist of both physical (visible) and non- physical (subtle) parts. In the case of the human body, the physical body is comprised of ten parts, and the subtle body is comprised of fifteen parts. In the event of an untimely death, a person leaves behind their physical body of ten parts and continues to exist with their subtle body of fifteen parts. As a result, someone who has experienced an untimely death can be considered ‘half-dead.’ When the rest of the subtle body eventually dies, it leads to natural death, and the person goes to the next birth. During untimely death, the person is not visible, but they continue to exist with their subtle body until they experience natural death.
+
+  Currently, no one is aware of what happens during temporary death. In a temporary death, all bodily functions cease, and the Jeevatma remains in the body but is in a state of sleep. In temporary death, the person appears dead, but the Jeevatma remains in the body. This has led to incidents where people who experienced temporary death were mistakenly declared dead and buried, even though they were still alive. No one can detect that a person who has undergone temporary death is not actually dead. As a result, there have been numerous instances of people being buried alive.
+<ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
+The Story of Abdul Aziz in Jammu and Kashmir
+</b></ion-col></ion-row>
+  On December 7, 2009, a story aired at 1:30 pm on the TV9 channel. Abdul Aziz, a 60-year-old man, had passed away a week earlier, on November 30, 2009, in Rajouri, a village in Jammu and Kashmir. Following Islamic tradition, as he was a Muslim, he was buried.
+
+  Three days after his burial, the police received a complaint alleging that Abdul Aziz had not died naturally, and that foul play might be involved. The police promptly registered the case, proceeded to the cemetery, and exhumed Abdul Aziz’s corpse in the presence of his relatives. His body was then sent to a government hospital for a post- mortem examination.
+
+  During the autopsy, the doctor first hit the head with a knife to examine the skull, and the head was injured. To the astonishment of everyone present, Abdul Aziz, presumed dead until then, woke up and inquired about the situation. The incredulous doctor, still processing the unexpected turn of events, sat down, and asked, “We are doing an autopsy.” Abdul Aziz calmly replied, “I am alive.” The doctor immediately informed Abdul Aziz’s relatives of the miraculous incident, and they arrived to take him back home.
+
+  Three days before, the same doctor had examined Abdul Aziz for fifteen minutes and confirmed his death. The doctor, recognizing the extraordinary nature of this event, described it as a miracle. The people of Rajouri village were equally astonished that Abdul Aziz, whom they had buried with their own hands, had come back to life three days later. As of now, six years and seven months have passed since the incident occurred. All TV channels aired this news on the same day. Given that this incident transpired in the presence of doctors, it remains undeniable and beyond mere superstition.
+  <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
+  An Incident in Visakhapatnam district
+  </b></ion-col></ion-row>
+  Srungavarapu Kota is situated on the way to Araku Valley in Visakhapatnam. There is a village named Saarepuram, located 12 km away from Srungavarapu Kota. In this village, lived a 67-year-old woman named Samudramma who had been suffering from high blood pressure and diabetes for ten years. She received medical treatment from Dr. Dharmalingachari, a senior doctor at Srungavarapu Kota. Dr. Dharmalingachari was a well-known 60-year-old veteran with a degree in M.B.B.S.
+
+  Six years ago, one evening at 6 PM, Samudramma was brought to Dr. Dharmalingachari after being pronounced dead by doctors at a government hospital. When the doctor examined her, he could not find a pulse. He declared her dead, stating that she did not need any medical treatment as she had no breathing or pulse. Her body was taken back to their village, 12 km away, to be buried the following day as it was already night. However, Samudramma’s body was kept in the porch for three days due to heavy rain that lasted for two days. To everyone’s surprise, she got up and called out to her relatives on the fourth morning. They immediately contacted Dr. Dharmalingachari and brought her to him after 15 days. The doctor then asked her if she had seen Yama’s servants or Yamaloka, as she had been declared dead for three days. She said she did not see anything.
+
+  This incident occurred six years ago in the presence of a doctor, so it cannot be denied or dismissed as superstitious.
+  <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
+  Survivor from Pyre (Translated from a Telugu Newspaper) July 10, 2012, Sakshi News
+  </b></ion-col></ion-row>
+<b>Chennai:</b> On Tuesday, doctors confirmed the death of 50-year-old Muttuswamy of Krishurayapuram in the Karur district of Tamil Nadu. They advised his relatives to proceed with the funeral rites. Believing that Muttuswamy had succumbed to old age and illness, the relatives gathered at the cemetery to perform the pyre.
+
+  As they were about to commence the fire, Muttuswamy’s sister Paapatti approached the body. Overcome with grief, she fell onto the corpse and cried out, “Brother, will you leave me?” In that poignant moment, Muttuswamy’s legs and arms moved, and there was a slight groan. The tearful relatives were shocked and shouted, “Muttuswamy...Muttuswamy!” Muttuswamy woke up from the pyre as if he had just risen from sleep and asked his relatives what had happened. They all embraced Muttuswamy with happiness and took him back to the hospital. Notably, Muttuswamy’s daughter had gotten married just the day before.
+
+  <b>Doctors’ Negligence:</b> Relatives criticized the doctors for their negligence in treating Muttuswamy, who had been admitted to a local hospital ten days ago after falling ill. They condemned the doctors for the incident, and the news quickly spread throughout the Karur district. This incident sparked widespread debate and was seen as another example of temporary death.
+<img src="assets/img/temp_death.png"/>
+
+  If someone experiences temporary death, they may survive in that state for up to a year or more. The revival can occur either spontaneously or with the help of someone tapping or waking them up. In many cases, individuals who undergo temporary death in the morning awaken in the evening, while others regain consciousness after a week or more. Recently, a man named Muttuswamy in Tamil Nadu came back to life after being on a funeral pyre. Similarly, Jesus resurrected a girl who had experienced temporary death, declaring that she was not actually dead. There is also a historical account of Jesus reviving Himself. It is important to note that all these incidents were attributed to temporary death. Our scripture, <b>‘The Mystery of Death,</b> ’ delves into the four types of death and their reality. Reading this scripture will provide you with a comprehensive understanding of the various types of death.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 57,
+verse: `<b>(4)	The Gospel of Mark, 7th chapter, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd and 23rd verses.</b><`,
+meaning: `<b>
+(15) Nothing outside a person can defile them by going into them.
+<br><br>
+(15) Rather, it is what comes out of a person that defiles them.
+<br><br>
+(17) After he had left the crowd and entered the house, his disciples asked him about this parable.
+<br><br>
+(18) “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them?
+<br><br>
+(19) For it does not go into their heart but into their stomach, and then out of the body.”
+<br><br>
+(20) He went on: “What comes out of a person is what defiles them.
+<br><br>
+(21) For it is from within, out of a person’s heart, that evil thoughts come sexual immorality, theft, murder,
+<br><br>
+(22) adultery, greed, malice, deceit, lewdness, envy, slander, arrogance, and folly.
+<br><br>
+(23) All these evils come from inside and defile a person.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Man is born with six bad gunas and six good gunas. Gunas also grow along with the individual, influencing the buddhi located in the head and prompting external actions under its command. Buddhi instructs karmendriyas (organs of action) to perform actions outside the body, operating in accordance with gunas. As Buddhi works in alignment with gunas, the negative gunas influence buddhi, which then directs the actions of gunas, and the external senses respond according to buddhi’s command. These gunas manifest as undesirable qualities such as greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). The gunas first impact the buddhi and subsequently govern the body from there. All the wrongs committed by humans are rooted in the influence of gunas within the body.
+
+  Food consumed from the outside contributes to the body’s health but does not affect the buddhi. Such food is converted into nutrients, promoting physical well-being. The food humans eat has no direct impact on the buddhi; it enters the body, supporting overall health. When food benefits the body, it strengthens and maintains good health. Therefore, the food entering the body externally does not lead to undesirable behavior in humans. It is the effect of the gunas originating from within the body that can result in negative conduct. Consequently, deviating from dietary rules may be acceptable, but maintaining control over the gunas is crucial.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 58,
+verse: ` <b>(5)	The Gospel of Mark, 3rd chapter, 35th verse.</b>`,
+meaning: ` <b>
+(35) Whoever does God’s will is my brother and sister and mother.     </b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> When we question what God’s will is, we can understand that His commandments (dharmas) represent His will. By obeying His commandments, we align ourselves with God’s will. Conversely, if we act according to our own desires without adhering to His commands, we violate His guidance and follow Satan’s will. When God incarnates on earth as Bhagavan, those who comprehend His wisdom, act in accordance with it, propagate His teachings, and disseminate His commandments will draw closer to him. Conversely, those who choose the path of Satan become adversaries of God. Those who actively promote God’s words and adhere to His commandments are regarded as His sisters, brothers, and closest followers. Whether God is physically present on earth or not, it's crucial to recognize that gnanis (those possessing wisdom) within His boundaries who follow His commands will be considered close to God.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 59,
+verse: ` <b>(6)	The Gospel of Mark, 4th chapter, 17th verse.</b>`,
+meaning: `<b>
+(17) But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. </b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In the Gita, Lord Krishna speaks of four kinds of devotees: 1) Those who worship in trouble, 2) Those who pray for wealth, 3) Those who are interested in knowing about God, 4) Those who possess wisdom (Gnanis). The Lord said in the Gita that He favors Gnanis. Similarly, Lord Jesus talks about four types of devotees in the Bible, but the verse referred to here pertains to only one of these types. Some individuals are curious about God’s wisdom and seek to follow it. Satan begins to tempt them in its way. They face many troubles in that process. When they encounter difficulties because of wisdom, Satan begins to preach in their heads. Satan says to them, “You are facing troubles because you know wisdom. Don’t be foolish. You can escape the coming problems by pretending to be on the wisdom path.” Those who do not understand the true essence of wisdom may start to act accordingly. After some time, if the person faces problems because of wisdom or Guru, and these issues lead to conflicts with others or fears of persecution, Maya will take advantage of the situation. Maya creates these kinds of thoughts in the person’s head, and individuals may start to think, “I should have been wiser from the beginning. I got into this situation because I followed the Guru for wisdom, even though my close relatives warned me not to. Why should I suffer for this wisdom? It is better to abandon wisdom and the Guru. Blindly following wisdom will only lead to ruin for my family and me. Since we are in the world, we must conform to its ways. Those in the forest face no problems regardless of their actions, but it would be foolish for us in the village to go against the norms.” Such thoughts can cause individuals to distance themselves from wisdom, even after being on the path for some time. Therefore, Jesus said that even those who have been on the path of wisdom for some time will object when there is toil and torture for the sake of wisdom.
+
+  Those who truly value God’s wisdom and understand its importance will not fall prey to Satan’s temptations. One cannot escape the clutches of Satan unless they value wisdom and their Guru more than their wife, close friends, and even their own life, despite knowing that they may face persecution or death on the path of wisdom. Even the disciples of Lord Jesus were afraid of the guards on the day of His arrest and abandoned their Guru to save their own lives. They fled with fear due to trouble and persecution. If they had also been prepared to face death along with Lord Jesus on that day, their lives would have been blessed. Maya obstructed the disciples partially that day. Unlike them, we should stand firm in the face of any trouble or persecution on the path of wisdom. Blessed is the one who is willing to die for the divine path rather than living in fear on the path of ignorance. In the Bhagavad-Gita, the Lord said, <b>“It is better to die in Paramatma’s dharma, which is your dharma, than to fear in the path of Satan, which is not your dharma.”</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 60,
+verse: ` <b>(7)	The Gospel of Mark, 4th chapter, 21st and 22nd verses.</b>`,
+meaning: `<b>
+(21) He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand?
+<br><br>
+(22) For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.     </b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In the present time, many gurus are saying that disciples should not share their wisdom with others. They say that their wisdom is confidential and should only be shared with those who have received upadesa. When someone asks them a question, they avoid answering it. However, wisdom should not be concealed. God Himself comes in human form and takes the trouble to convey wisdom. Although we do not know the true wisdom, we should not make excuses for sharing the little wisdom that we know. Wisdom is like a lamp that removes ignorance in others. Just as an object in darkness can be seen in the lamp’s light, an unknown thing in ignorance can be understood with wisdom. Wisdom is needed to dispel ignorance, just as a lamp is required to dispel darkness. Lighting a lamp and then keeping it under a bowl is foolish. Similarly, it is unwise not to share the wisdom that you have. Even secrets are meant to be disclosed. Bhagavan revealed the best divine wisdom in the world. In that case, anything of lesser value than wisdom cannot be concealed. No mystery in the world can be kept hidden; it will surely come out. God’s wisdom is necessary for everyone and should not be kept a secret. Those who want to conceal it cannot do so.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 61,
+verse: `<b>(8)	The Gospel of Mark, 6th chapter, 4th verse.</b>`,
+meaning: `<b>
+(4) Jesus said to them, “A prophet is not without honor except in his own town, among his relatives and in his own home.”      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In Telugu, a prophet is defined as someone who teaches something important. The wisdom of Paramatma is the most essential thing for every human being. A person who imparts this wisdom is called a prophet. Ordinary humans do not know the wisdom of Paramatma, except for the one who comes from Paramatma. The one who comes from Paramatma and is born as a man is called Bhagavan or Prophet. The prophet is not honored in His own home, among His relatives, or in His own town because He appears to be an ordinary man. No matter how great someone is, it is natural to be underestimated at home and by relatives. Since they have seen the prophet since childhood, family members and relatives may ridicule Him, saying that He has no greatness and that only fools will listen to Him. They may also claim that He does not know anything beyond what they know. Even God cannot become a prophet to His own family members. Even when others recognize and speak about His greatness, His relatives and family members question what excellence He possesses. They do not recognize His importance and ridicule Him, pointing out things such as Him wetting the bed and soiling His underwear in His childhood. Therefore, while He is a prophet to others, He is not honored in His own home and town. According to this principle, Lord Jesus was not recognized as a prophet by His family and relatives.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 62,
+verse: `<b>(9)	The Gospel of Mark, 8th chapter, 38th verse.</b>`,
+meaning: `<b>
+(38) If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of them when he comes in his Father’s glory with the holy angels. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   Some people learn wisdom in society but choose to keep it a secret. They feel that knowing wisdom is a mistake; hence, they do it confidentially. They may also feel ashamed to go to a Guru and learn wisdom from them, and therefore keep it confidential. Some individuals are in search of a Guru to become disciples but prefer a wealthy Guru due to their status and wealth. They are embarrassed to approach a poor Guru, even if that Guru has more wisdom. Consequently, they choose a wealthy Guru who may not possess much wisdom. Although some individuals have learned wisdom from a Guru, they do not want to be referred to as disciples of that Guru. Thus, many people feel ashamed and take great care to avoid being exposed.
+
+  One may feel ashamed of material things, but one should not be ashamed of the wisdom of Paramatma. Let us consider an example. Two people are walking on the road. One is handsome but poor and unintelligent, while the other is unattractive but rich and intelligent. They are both close relatives. People who see them on the road will judge them by their outward appearance, not by their intelligence. After a while, a traveler sees them and asks the handsome person who the second person is. The handsome person is ashamed to say that the unattractive person is his close relative because of their appearance. Instead, he simply says that they know each other. The unattractive person thinks that he has been introduced as an acquaintance rather than a close relative because of his appearance. Later, another traveler sees them and asks the unattractive person who the other person is. Being intelligent, the unattractive person responds similarly by saying that they are merely acquaintances. The handsome person is pleased to be introduced as an acquaintance rather than a relative. The unattractive person thinks, "I am also ashamed to introduce this stupid person as my close relative." The unattractive person followed the behavior of the handsome person.
+
+  The second traveler, who asked the unattractive person, had a rule for many years. His rule was to give 10,000 coins if he met close relatives. However, although they were close relatives, they did not receive the 10,000 coins because they did not introduce themselves as such. Consequently, the first poor person did not receive any money. Since the second person is rich, he does not care if he received the money or not. The first-person lost money because he was ashamed and lied. If you are ashamed of wisdom just because others do not like it, then wisdom is also ashamed of you. The first-person lost money because he was first ashamed and lied. Hence, they would not receive future profit liberation. Based on this, the Lord said, <b>“If anyone is ashamed of me and my words, I am also ashamed of them.”</b> Therefore, one should understand that it is okay to be ashamed of material matters, but one should not be ashamed of Paramatma’s wisdom.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 63,
+verse: `<b>(10)	The Gospel of Mark, 9th chapter, 7h verse.</b>`,
+meaning: `<b>
+(7) Then a cloud appeared and covered them, and a voice came from the cloud: “This is my Son, whom I love. Listen to him!”</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Most people are not aware of the clouds in the sky. During the rainy season, the clouds produce thunder and make a loud noise. The clouds are alive and perform many tasks, but their specific roles are unknown. According to history, the Sun heard the divine wisdom that the clouds first revealed at the beginning of creation. There are no secrets unknown to the clouds on earth. God behind the clouds said about Jesus, <b>“This is my beloved Son. Listen to him.”</b> Therefore, it is God’s will that people should hear God’s wisdom from Jesus. What God says as a man is God’s wisdom, but when humans do not listen, God speaks from the clouds. Although humans may not always respect what others say, they value what the clouds say, which is why God spoke from the clouds in the sky.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 3,
+pageNumber: 64,
+verse: ` <b>(11)	The Gospel of Mark, 10th chapter, 17th and 18th verses.</b>`,
+meaning: ` <b>
+(17) As Jesus started on his way, a man ran up to him and fell on his knees before him. “Good teacher,” he asked, “what must I do to inherit eternal life?”
+<br><br>
+(18) “Why do you call me good?” Jesus answered. “No one is good—except God alone.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Some Christians claim that the Bible was originally written in Hebrew and then translated into many other languages. Hence, some words were not translated correctly. For example, the phrase “Good teacher” is used in the first verse, and in the second verse, “God is good.” However, based on what Jesus said, <b>“No one is good—except God alone,”</b> the word should neither be ‘Good teacher’ nor ‘Good God.’ A person who teaches wisdom eloquently can be called a good teacher, and someone who performs good deeds can be called a good person.
+
+  There are good teachers and good people on earth. Therefore, it would be belittling God to compare them and say, <b>“No one is good—except God alone.”</b> Apart from that, there is no match between the words ‘good teacher’ in the first sentence and ‘good person’ in the second sentence. The second divine scripture, the Bible, has been translated into more languages than the other two holy scriptures. The Bible has been translated into 1,400 languages, making it the only scripture that has been translated into most languages.
+
+  The first divine scripture is the basis for the second divine scripture, the Bible, and the last divine scripture, the Quran. The Quran provides testimony in 5:44, 5:46, 5:48, and 5:68 that <b>the wisdom of the first divine scripture, the Taurat (the Bhagavad-Gita), is also present in the other two scriptures.</b> Therefore, when we consider the words used in the Gospel of Mark, 10:17 and 10:18, we can understand that there may be many good teachers and good people in the world, but there is no Uttama Purusha (Supreme Being) among men. Hence, as stated in the Bhagavad-Gita, <b>“God alone is Purushottama.”</b> It can be said that unrelated words were used in the above verses, where the word should have been ‘Purushottama.’ This is well understood when you look at verses 16,17, and 18 in the 15th chapter of the Bhagavad-Gita, the Purushottama Prapti Yoga.
+
+  According to the first divine scripture, there is only one Purusha. Although there is only one Purusha, God is divided into three - Jeevatma, Atma, and Paramatma. Among these three males, <b>the male who is better than Jeevatma and Atma is Paramatma, also known as Purushottama,</b> as mentioned in Bhagavad-Gita. It can be said that all except the three males are Prakruti, which is feminine. Men and women in the world are all related to feminine nature. Therefore, in the verse, Jesus said, <b>“Don’t call me Purushottama (Uttama Purusha). God alone is Uttama Purusha.”</b> There are three main religions on earth. The people of each religion took a divine scripture and said this is our scripture. However, in reality, these three scriptures are not related to any specific religion. They provide wisdom to all human beings, and therefore, they should be regarded as scriptures meant for all human beings.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Mark",
+chapterNumber: 4,
+pageNumber: 65,
+verse: `<b>(12)	The Gospel of Mark, 16th chapter, 15th and 16th verses.</b>`,
+meaning: `<b>
+(15) He said to them, “Go into all the world and preach the gospel to all creation.
+<br><br>
+(16) Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  After Jesus was crucified and laid in the tomb, He rose from the tomb at dawn on Sunday morning. He first appeared to Mary Magdalene and then to other disciples. Jesus appeared to the disciples thirty-three times after coming out of the tomb. He told the above two verses to the eleven disciples when they sat together for a meal. Since all humans in the world are immersed in ignorance, He instructed His disciples to go and <b>preach the gospel, which is God’s wisdom,</b> to them. The same message is conveyed in the 15th verse, <b>“Go into all the world and preach the gospel to all creation.”</b> Here, ‘all the world’ does not mean different worlds; it refers to people who earn their livelihoods on earth and suffer in various ways.
+
+  Jesus also said, “Preach the gospel to all creation.” It means preaching the gospel, divine wisdom, to people of all ages. He said to preach them divine wisdom and grant them permission, ‘baptism,’ to go to paraloka. Baptism is like a permit to liberation or paraloka. Those who have been granted permission to paraloka will be saved by my wisdom and escape from the experience of sin. He said that the troubles of sins would punish those who are not baptized as they do not have protection from sins.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 66,
+verse: `<b>(1)	The Gospel of Luke, 2nd chapter, 49th verse.</b>`,
+meaning: ` <b>
+(49) “Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s business?”      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Jesus’s parents were looking for Him, and when they saw Him, they were astonished. His mother said to Him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.” In response, Jesus said, <b>“Why were you searching for me? Didn’t you know I had to be in my Father’s business?”</b> Although Jesus’s visible (physical) father was also there, He was referring to his invisible (non- physical) Father. It is important to clarify which father Jesus was referring to so that we can understand the Father’s tasks and, consequently, comprehend the tasks Jesus would be doing and why He left his mother and father.
+
+  In his own words, Jesus declared himself to be the Son of Man. On some occasions, He also claimed to be the Son of God. Therefore, He is both the Son of Man and the Son of God. If one asks whose sons all these people are, it can be said that all humans are sons of man. However, there is a secret involved here. For a man to be born, a seed(sperm) donor is required. Although it is natural to assume that the father is the seed donor for a man’s birth, it is important to note that, although a man appears to be male in appearance, He cannot be counted as a male because He is created as a model for a male. Both a man and his wife can be counted under the feminine Prakruti.
+
+  Although Jeevatma, who is in a human body, is Atma-related-male, He cannot beget someone. Atma, which is in the body, made every human born. We have already stated that Atma does all the tasks in the body and is the seed donor for all beings. Jesus referred to himself as the “Son of Man,” even though He was not an ordinary man, to indicate that his Father was not the visible Joseph but rather Atma that resides within all human bodies. The first divine scripture teaches us that every living entity born from a mother’s womb has Atma as its father and Prakruti as its mother. However, Jesus was born directly without a physical father, as He was the Son of the Holy Spirit (Paramatma), who is different from Atma. This is why He is referred to as the Son of God. When Jesus met His parents, He told them He must be about His Father’s work but did not specify the father He was referring to (Atma or the Holy Spirit). In his own opinion, He considered Himself to be the Son of God. Jesus did not perform the tasks of Atma, which is in the body. He was focused on spreading God’s wisdom. The omnipresent Paramatma carries out the task of spreading divine wisdom. Therefore, Jesus intended to do His Father’s (the Holy Spirit) work. Paramatma Himself created a body and filled it with His own soul. Even though Jesus was God, He referred to Himself as the Son of Man at times and the Son of God at other times to prevent people from recognizing Him.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 67,
+verse: `<b>(2)	The Gospel of Luke, 11th chapter, 37th, 38th, 39th, 40th and 41st verses.</b>`,
+meaning: `<b>
+(37) As Jesus was speaking, one of the Pharisees invited him home for a meal. So, he went in and took his place at the table.
+<br><br>
+(38) His host was amazed to see that he sat down to eat without first performing the hand-washing ceremony required by Jewish custom.
+<br><br>
+(39) Then the Lord said to him, “You Pharisees are so careful to clean the outside of the cup and the dish, but inside you are filthy—full of greed and wickedness!
+<br><br>
+(40) Fools! Didn’t God make the inside as well as the outside?
+<br><br>
+(41) So, clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The last verse states, <b>“Clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.”</b> Unfortunately, humans have not correctly understood this verse and have interpreted it in various ways. When Jesus mentions ‘giving gifts,’ people have construed it as donating money, clothes, and food to the poor. However, Jesus did not assert that external acts of charity would purify a person from within. His intention was that the practice of dharma should be internalized, and only then would inner evils be cleansed. Jesus did not prioritize external cleanliness but instead underscored the purification of inner qualities (gunas). Therefore, He encouraged others to follow the path of dharma, which opposes the gunas. Jesus Himself experienced inner purification and adhered to the path of dharma. That is why He urged others to traverse the same path.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 68,
+verse: `<b>(3)	The Gospel of Luke, 12th chapter, 4th and 5th verses</b>`,
+meaning: ` <b>
+(4) I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.
+<br><br>
+(5) But I will show you whom you should fear: Fear him who, after your body has been killed, has authority to throw you into hell. Yes, I tell you, fear him.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Humans can harm the body, but they cannot harm the Jeevatma within. Jeevatma, being invisible from the outside, remains unaffected. Since the body is visible, others can only inflict harm upon it, not the Jeevatma. Therefore, there is no need to fear such individuals. The only one to be feared is God. Even in death, God evaluates our sins, administers punishment, and causes suffering. The ties between individuals are severed after death. Even if the deceased is reborn in the murderer’s household, they will not recognize the murderer as an enemy. However, God recognizes the Jeevatma even after death and is aware of its subsequent births. Hence, it is crucial to fear God, who holds us accountable for our karma after death. There is no need to fear other humans who cannot harm the Jeevatma and will not recognize us after death.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 69,
+verse: `<b>(4)	The Gospel of Luke, 12th chapter, 25th verse.</b>`,
+meaning: ` <b>
+(25) Which of you by worrying can add to his stature one cubit?       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Even though individuals believe that they are accomplishing everything through their intelligence, there is no inherent connection between them and their intelligence. People are not independent and are incapable of acting on their own. They are akin to puppets manipulated by karma. Those who believe they can act as they please are in a state of ignorance about themselves. According to the structure that God has created, karma is in God’s control, and individuals are in karma’s control. As karma governs them, they cannot make decisions independently. Regardless of how much they plan and utilize their intelligence, they cannot alter their height. If every individual understands themselves and contemplates the extent of their power, they will recognize their insignificance, realizing that God is infinitely greater than them.
+</div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 70,
+verse: `<b>(5)	The Gospel of Luke, 12th chapter, 33rd and 34th verses.</b>`,
+meaning: ` <b>
+(33) Sell your possessions and give them to the poor. Provide purses for yourselves that will not wear out, a treasure in paraloka that will never fail, where no thief comes near, and no moth destroys.
+<br><br>
+(34) For where your treasure is, there your heart will be also.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  There are two types of wealth: one that can buy anything in the world and another that can buy God, who is beyond the world. The former is material wealth, created by humans and visible to the naked eye, with which we buy material possessions, while the latter is wisdom wealth, created by the divine and not easily visible. There are many differences between wisdom-wealth and material wealth. While thieves can steal material wealth, they cannot steal wisdom wealth, as it is not a physical commodity. Moths can destroy material wealth, but they cannot damage wisdom wealth. Material wealth cannot eliminate even the smallest karma, but wisdom wealth can eliminate even big karma. One can acquire material wealth through work, but wisdom wealth is gained through intimacy with the divine. Material wealth can be appraised, but wisdom wealth cannot be measured. When a person dies, their connection with material wealth is severed, as not even a penny goes with the Jeevatma. In contrast, wisdom wealth accompanies the Jeevatma even after death, as all the wisdom one gains in life is carried forward into future births. Those who are rich in the world may be respected in society but not in God’s presence. God recognizes those with wisdom wealth, even if other humans do not respect them. In summary, there are many differences between material wealth and wisdom wealth.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 71,
+verse: `<b>(6)	The Gospel of Luke, 12th chapter, 49th verse.</b>`,
+meaning: ` <b>
+(49) I have come to bring fire on the earth, and how I wish it were already kindled.       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In this context, the term ‘fire’ does not refer to the ordinary fire we see daily. Fire is of two types: ordinary fire and extraordinary fire (wisdom fire). Ordinary fire can burn firewood and other objects, while <b>gnanagni (wisdom fire) burns the firewood of karma.</b> As humans are ensnared in sin and suffer hardships, God descends to bring the wisdom fire to burn away their karma and liberate them from the cycle of birth and death, helping them reach God. When God imparts wisdom, He likens it to fire because gaining wisdom can lead to liberation. God brought this fire to earth in the past, and it kindled for a while before disappearing. Jesus came to reignite the fire and keep it burning. He wanted the fire to continue burning, so He proclaimed that He came to start a fire where there was none, and He wished for the fire He had previously ignited to persist.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 72,
+verse: `<b>(7)	The Gospel of Luke, 12th chapter, 51st, 52nd and 53rd verses.</b>
+`, meaning: `<b>
+(51) Do you think I came to bring peace on earth? No, I tell you, but division.
+<br><br>
+(52) From now on there will be five in one family divided against each other, three against two and two against three.
+<br><br>
+(53) They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Paramatma reveals His wisdom when He incarnates on earth in Bhagavan’s form. Bhagavan’s wisdom generates opposing sentiments for those on Satan’s path. In such cases, differences of opinion arise between those who comprehend wisdom and those who do not. Those who possess wisdom will disagree with those who lack it. When such a situation unfolds within the same household, family members may become hostile toward each other. If anyone attempts to gain wisdom at home, Satan will be vigilant. Satan fosters division, pitting fathers against sons, sons against fathers, mothers against daughters, daughters against mothers, mothers-in-law against daughters-in- law, and daughters-in-law against mothers-in-law. Even Bhagavan (Guru) may advise you to disagree with those who oppose you on matters of wisdom, knowing that a husband and wife are quarreling because of His wisdom. Consequently, their quarrel may intensify rather than subside. Therefore, <b>the Lord said, “I did not come to bring reconciliation but division.”</b> Do you think that Bhagavan, who has come to teach wisdom on earth, advises you to heed your household while neglecting His wisdom? Do you believe that the Lord, who instructed you to cut off your hand if it obstructs God’s wisdom, suggests reconciling with your wife and relatives? Never. He exhorted you not to compromise with them, even if it means sacrificing your life. Hence, many conflicts arise in families because of God’s wisdom. Notably, wherever true wisdom is proclaimed, there will be discord within the household. There are no disagreements when Satan’s wisdom is presented under the guise of divine wisdom. Everyone tends to support such wisdom. One can discern that if all household members become adversaries due to divine wisdom, then such wisdom is genuinely God’s wisdom.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 73,
+verse: `<b>(8)	The Gospel of Luke, 13th chapter, 3rd verse.</b>`,
+meaning: `<b>(3) Unless you change your mind, you too will all perish.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Manas (mind) is the most crucial part of the body, named so because it retains memories. It consistently operates under the influence of Maya (Satan), reinforcing worldly concerns. Since a person’s birth, the mind has been aligned with Satan and has never functioned in alignment with God. The transformation of such a mind from Satan’s influence to God’s alignment is termed a “change of mind.” No one can transition to God’s side without a change in their mind. When the mind undergoes transformation, gnanagni (wisdom fire) begins to manifest. Through the destruction of their entire karma by gnanagni, a person unites with God without experiencing birth and death. If the mind remains unchanged and continues to dictate thoughts, an individual must undergo cycles of birth, death, and endure the torments of hell. Therefore, it is imperative for everyone to undergo a change of mind.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 74,
+verse: ` <b>(9)	The Gospel of Luke, 14th chapter, 26th verse.</b>`,
+meaning: `<b>
+(26) If anyone comes to me and does not hate father and mother, wife and children, brothers, and sisters—yes, even their own life—such a person cannot be my disciple.       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  If anyone listens to this, they will be surprised and ask, “What kind of wisdom is this? What kind of Guru? What kind of disciples?” One may come to a Guru and question him, “Does any Guru tell their disciples that they are not a disciple unless they scold their family?” We need to think here. If a person scolds all of their household, the Guru is not a madman to be pleased and accept them as a disciple. It is not advised to hate everyone indiscriminately. The Guru becomes pleased when a disciple, in line with the Guru’s sentiments, scolds the ignorant who walk on Satan’s path. When a disciple opposes the ignorant, the Guru perceives that the disciple is aligned with his teachings and accepts them. If a disciple supports the ignorant instead of contradicting them, the Guru will not acknowledge them as a disciple. Hatred is common between two groups – gnanis (wise) and the ignorant. If father and mother, wife and children, brothers and sisters are on the ignorant list, the disciple should oppose them. The Lord said that one who does not oppose the ignorant and favors relatives is not his disciple. It is emphasized that one should not compromise on ignorance. Jesus said that the disciple should forsake their mother, father, brothers and sisters, wife, and children if they obstruct the path to wisdom.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 75,
+verse: ` <b>(10)	The Gospel of Luke, 14th chapter, 27th verse.</b>`,
+meaning: `<b>
+(27) Whoever does not carry their cross and follows me cannot be my disciple.      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When firewood is bundled, it becomes easier to pick up and carry for long distances; it would not be possible to carry it otherwise. Similarly, when the 108 gunas in a person’s mind are tied together in a dysfunctional condition, they become a bundle in the hands of man. There are two kinds of gunas - good and bad - in the human body. <b>The six bad gunas are greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). Similarly, the six good gunas are charity (dana), mercy (daya), benevolence (audarya), dispassion (vairagya), humbleness (vinaya), and love (prema).</b> Each of the six bad and good gunas is further divided into nine parts. Thus, the six bad gunas are divided into 54 parts, and the six good gunas are divided into 54 parts as well. Together, the good and bad gunas make up a total of 108.
+
+  The 108 parts of gunas are called <b>Maya</b> in the first divine scripture. In the second divine scripture, they are called <b>Satan</b>. In the final divine scripture, these gunas are named <b>Iblis</b>. God Himself spoke of Maya as “Guna-mayi mama maya” in the first divine scripture. It means that Maya, which God created, is in the form of gunas in the human body. God mainly created Maya to prevent humans from following the divine path. Maya can make a person stay by its side instead of following God’s way. It can be said that Maya is guna, or guna is Maya. In Telugu, Maya means ‘invisible.’ Maya is present in the head without being seen. Maya, which is present in our body, is also called the Cross. In the spiritual sense, Maya is compared to a python, while Atma is compared to a dove.
+
+  A python is a mighty serpent. One who has been caught by it cannot become free. That means Maya is strong. Jesus said that whoever controls, bundles, and holds such strong Maya in their hand is my disciple. Jesus said that the conqueror of Maya was truly my disciple. <b>Whoever captures Maya (the Cross) and follows God’s path by carrying it is a true disciple of God.</b> One who carries the Cross that we talk about greatly today and follows Jesus is His disciple, as stated in this verse.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 76,
+verse: `<b>(11)	The Gospel of Luke, 18th chapter, 29th verse.</b>`,
+meaning: `<b>
+(29) “Truly I tell you,” Jesus said to them, “no one who has left home or wife or brothers or sisters or parents or children for the sake of the kingdom of God will fail to receive many times as much in this age, and in the age to come eternal life.”   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The kingdom of God refers to Moksham, which is liberation from the cycle of rebirth. Once a person attains Moksham (liberation), they are not reborn on earth and do not suffer from Satan. Moksham means being released from Satan and merging with God. In other words, a person becomes one with God. The union of the Jeeva, which is small and has a specific form, with the infinitely vast, limitless, and omnipresent God is an outstanding achievement. To attain this position, a person must follow the path of wisdom and be willing to give up attachments to their spouse, children, parents, siblings, and home if these attachments hinder their spiritual journey. Such a person becomes a complete gnani in this world and attains God in the Paraloka. Giving up a spouse, children, siblings, and parents is a significant decision because Maya surrounds a person and ties them to their near and dear ones. Prahlada did not count his father, Mirabai left her husband and relatives, and Buddha abandoned a young wife, one-year-old son, parents, home, and kingdom for wisdom. However, those who distance themselves from their loved ones can come closer to God. For acquiring someone who is eternal, leaving behind someone who stays with you for a while is an intelligent decision. However, such a decision may seem foolish to the world. It is rare to find someone willing to leave everything behind in Satan’s kingdom for God’s sake. Because when anyone gets the idea of God in their mind, Satan mainly focuses on them and diverts them from the thought and the path of wisdom. It is impossible for a person to overcome Satan’s power and conquer it, as stated in Bhagavad-Gita, Vignana Yogam, verse 14. One may wonder how it is possible to go to God when Satan’s power is so great. Why attempt and fail? However, if a person completely trusts in God and continues their efforts despite their inability to stand against Satan, God Himself will pull them away from Satan to His side. Therefore, the only way for the tiniest human being to defeat Satan is to surrender completely to God. Bhagavad-Gita states, <b>“Maya metam tarantite,”</b> which means <b>“I will get him out of Maya,”</b> about those who trust God completely. Thus, if a person puts their complete trust and burden on God, God can save them from Satan.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 77,
+verse: `<b>(12)	The Gospel of Luke, 21st chapter, 15th verse.</b>`,
+meaning: ` <b>
+(15) I will give you words and wisdom that none of your adversaries will be able to resist or contradict. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When young children, who have some knowledge of wisdom, question the teachings of renowned preachers and gurus, they do not find answers in their teachings. Therefore, preachers have made a rule that no one should question their teachings. The main reason for the lack of answers in their teachings is that they are not based on science. Unscientific teaching cannot provide answers to rational questions. Preachers continue to teach, but they do not answer when asked. When Paramatma incarnates as Bhagavan, He teaches the true wisdom of Paramatma. Therefore, those who know the wisdom taught by Bhagavan can teach and answer any question. Adversaries who see Bhagavan’s devotees, who know Paramatma’s wisdom, come to them with the ego that they are gurus and gnanis and speak contradictorily. The wisdom that adversaries cannot speak against has already been told to the devotees at such a time. The word of God says that many people are jealous and increase rivalry against those who know true wisdom. Even when God came down, adversaries confronted Him and said, “You don’t know wisdom yet and need to go to a specific place to learn genuine wisdom.” Some people came to me and said, “You do not know wisdom.” Such people will also come to you. God said in the above verse that He would give you the wisdom to answer them.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of Luke",
+chapterNumber: 4,
+pageNumber: 78,
+verse: ` <b>(13)	The Gospel of Luke, 21st chapter, 17th verse. </b>`,
+meaning: `<b>
+(17) Everyone will hate you because of me.      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The wisdom revealed by Bhagavan, the Son of God, is against those who are possessed by Satan. There is a chance that ordinary people may misunderstand this wisdom, as it appears to be entirely against preachers and gurus who possess some wisdom. Pandits, preachers, and gurus often do not like the words of those who preach the name of God. They, and the people who follow them, begin to hate those who preach God’s path because they find God’s words contrary to their teachings. Hence, God said in the above verse, <b>“Everyone will hate you because of me.”</b>
+  </div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 79,
+verse: `<b>(1)	The Gospel of John, 1st chapter, 1st verse.</b>`,
+meaning: `<b>(1) In the beginning was the Word, and the Word was with God, and the Word was God.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The Gospel of John comprises 21 chapters. In this scripture, I will provide explanations for some of the verses that humans have failed to understand, misunderstood, or might interpret incorrectly. I have chosen these verses as part of God’s service, feeling like a mere pen that God uses me to do this work. Earlier, I explained some verses from the first divine scripture, the Bhagavad-Gita, and the third divine scripture, the Quran. As I deeply desire to explain all three divine scriptures, I will now illustrate some verses from the second divine scripture, the Injeel (Bible). The wisdom provided in this scripture is scientific and authentic. Now, let’s examine the first verse from the first chapter of the Gospel of John, which consists of three short sentences that must be explained to understand it fully.
+
+  Let us now discuss the first three words of the Gospel of John in the second divine scripture.
+<b>
+            Word was at the beginning.
+            Word was with God.
+            Word was God.</b>
+
+  In the teachings of the Bible, let’s refer to these three verses as the beginning verses of the Bible. Some may argue that the verses from Genesis should be called the first words of the Bible. However, we have already explained our method. We consider teachings that humans need as scripture and will discuss the first verses from it. Following this principle, Bhagavan Jesus taught the four Gospels. Even though the Gospel of John was the last one, it started with the teachings. Similarly, we took the 11th verse of the second chapter as the beginning of the Bhagavad-Gita because God’s wisdom started from there. We also took verses 11th, 12th, and 13th from Sankhya- Yoga as the first three sentences. Likewise, the first verses were taken from the 43rd chapter of the Injeel (the Bible), and we took three verses from the Taurat (Bhagavad- Gita) as the first three sentences. Here, however, we took three sentences from one verse in the Gospel of John as the first three sentences, rather than three consecutive verses. The sequence of sentences is not important; we took the ones that conveyed three meanings as three sentences. Although these are three short sentences, each one of them has profound meaning.
+
+  These three sentences convey subtle meanings. The first three sentences of the Bhagavad-Gita delve into the concepts of Jeevatma and Atma. However, the opening words of the Gospel of John teach a special meaning. The initiation of the Bhagavad- Gita discusses the three components - Jeevatma, Atma, and the body. Conversely, the initial three sentences of the Gospel of John explore the three aspects - Wisdom, Atma, and Paramatma. Nevertheless, these sentences don’t explicitly clarify the positions of Atma and Paramatma. Although the term ‘God’ appears in two of the sentences, wisdom and Atma remain ambiguously identifiable. Now, let’s scrutinize the first sentence of the trio.
+
+  The first sentence is <b>“The Word was at the beginning.”</b> A word is articulated in speech, generated by sound emanating from the mouth. One can perceive a sound and discern whether a sentence is long or short based on the auditory cues. The language of the sentence may not necessarily be familiar and can vary in length. It is indeterminable whether the word (sentence) was spoken softly or loudly. Let’s analyze the sentence <b>“The Word was at the beginning.”</b> While we understand that the word was spoken at the beginning, humans did not possess any language skills at that initial stage. Therefore, a pertinent question arises about the language in which the word was spoken. To address this inquiry, let’s consider the events that transpired at the beginning.
+
+  If we inquire about the origin of the sound in the beginning, we can attribute the sound heard by the human ear to Prakruti. Prakruti comprises five great bhootas - Earth, Water, Air, Fire, and Sky - each possessing life. The Sky, endowed with life, generated the sound at the beginning. This raises the question of how the Sky produces sound when it is seemingly void. This inquiry is rational, and understanding the answers transforms it into a scientific exploration. According to Brahma Vidya Shastra, did the Sky itself create the sound? Since the Sky is a Jeeva, Jeevatma is not capable and cannot act according to scientific principles; it is the dharma of Jeevatma. Paramatma also has one dharma. Paramatma (God) does not possess a name, form, or work. This is the primary dharma of God. God is not an agent of action; He does not engage in work. According to Jeevatma’s dharma, Jeevatma is not capable and cannot perform any work. Although God is capable, He does not engage in any actions. Therefore, Jeevatma and God have opposing dharmas. In the beginning, the word emanated through the Sky. As the Sky is also a Jeeva, it did not produce that sound. The sound that originated from the Sky is a factual occurrence, but the Jeeva of the Sky is not capable and cannot generate any sound. Thus, someone behind the Sky may have been the source of the sound. God did not create the sound because He does not engage in work. Although the sound from the Sky is true, neither the Jeeva of the Sky nor God is the cause of the sound. A doubt may arise whether there was someone apart from both.
+
+  To dispel this doubt, it is essential to understand the entities in the universe. Initially, God created the universe. God, while being God, created Prakruti from Himself. He first created Prakruti as five parts and then created Atma and Jeevatma to infuse vitality into Prakruti, which was devoid of life. Similar to Himself, God created masculine (Purusha) Atma and Jeevatma. He designated Jeevatma as the passenger and Atma as the driver, entrusting Atma with the execution of all tasks. In every individual, Atma carries out all functions within the body while coexisting with Jeevatma. In His scriptures, God asserted that even great scholars may not fully comprehend Atma. Only dedicated yogis, as mentioned in the Bhagavad-Gita Purushottama Prapti Yoga 11th verse, can truly understand Atma, emphasizing that Atma remains concealed within the body without being known.
+
+  If God does not work, some may ask how He made Prakruti, Atma, and Jeevatma. My reply is that it is true that God does not work. This principle was articulated by God after the creation of Prakruti, Atma, and Jeevatma. Before the act of creation, God was the sole existence and, during that period, God engaged in work. There was no entity other than God before creation. Consequently, God worked before the act of creation. God created Prakruti, followed by the creation of Atma and Jeevatma. Subsequently, God established His dharma. While God refrained from working after creation, He was active before the act of creation. God delegated all responsibilities to Atma and determined that Atma would execute all tasks. Consequently, Paramatma ceased engaging in the actions He used to perform after the creation of Atma. As Atma assumed the responsibilities, Paramatma became a passive observer (witness).
+
+  God does not engage in work; Jeeva is incapable of action, and Atma is the one that performs all tasks. Therefore, it was Atma that produced the sound from the Sky at the beginning. Atma, concealed within the Sky, generated the sound. The sound created by Atma became God’s wisdom, hence referred to as the ‘word,’ signifying a sound with meaning. Describing the creation event, the phrase <b>“The Word was at the beginning”</b> is used to express that a meaningful sound originated from the Sky. We’ve learned what the ‘word’ is and who articulated it. The ‘word’ was spoken with God’s wisdom by Atma in the form of sound. What Atma articulated from the Sky became the first wisdom for the world. Though the sound from the Sky held wisdom, it manifested as a loud sound in the form of thunder, beyond the comprehension of human language. The Sun comprehended the thunderous sound in the Sky and, recognizing its unintelligibility for humans, conveyed the message to a man named Manu on Earth in a language understood by humans.
+
+  God’s wisdom manifested in the form of an incomprehensible sound at the outset of creation. This is articulated in the first sentence of the first chapter of John’s Gospel, stating that the <b>“The Word was at the beginning.”</b> On that day, humans were unaware that the sound bore God’s wisdom; They only understood somewhat when the Sun conveyed the message. Krishna conveyed the same wisdom in the form of the Bhagavad- Gita, stating that it was the same wisdom spoken at the beginning of creation. However, human attention did not initially focus on the thunderous sound at the beginning, and to this day, no one realizes that the sound of thunder encapsulates the wisdom of the Bhagavad-Gita. The Sun conveyed the same wisdom to Manu that Krishna had spoken, translating the wisdom originating from the sky in the form of thunder. The wisdom from the sound of the Sky emerged from the Atma of the Sky. Atma’s wisdom originated from Atma itself. Atma itself became the wisdom, and the same wisdom came out of Atma. This wisdom from Atma is comparable to how cotton transforms into thread, and the thread emerges from the cotton. While cotton and thread are distinct, cotton becomes the thread. Similarly, Atma and wisdom are different, but Atma’s wisdom emanates from Atma. If the thread is separated, it consists of cotton fibers; likewise, if Atma’s wisdom is dissected, it contains the essence of Atma.
+
+  In the beginning, God conveyed His wisdom through the sound of the Sky, as described in Quran 42:51, where one of the ways God reveals His wisdom is through the revelation from the Sky. God transmitted His wisdom through the Atma of the Sky during the initiation of creation. The wisdom, presented in the form of thunder, was not comprehensible to humans as it lacked a language they could understand. Consequently, the Sun, having grasped the wisdom in the thunders, relayed it to a man on earth in human language. Eventually, this wisdom spread throughout the earth. However, as time progressed, adharmas replaced dharmas, causing the initially conveyed wisdom to fade from human memory. In Dvapara Yuga, Bhagavan assumed the form of Krishna and informed Arjuna that He was sharing the same wisdom the Sun had conveyed. Despite having the same wisdom presented in the form of the Bhagavad- Gita, the first divine scripture, humans have forgotten its origins.
+
+  The first three sentences in the Gospel of John were written 3000 years after the Bhagavad-Gita was spoken, as humans had forgotten the wisdom imparted by God. The sentence <b>“The Word was at the beginning”</b> is now understood. It is recognized that the wisdom in the form of thunder originated from the Atma of the Sky, as indicated in the second sentence. Therefore, it is asserted that <b>“The Word was with God.”</b> Further exploration reveals that the sound of the word was born out of Atma. Just as the twisted thread emerges from cotton fiber, Atma’s mobility transformed into energy, and the wisdom in the energy manifested in the form of sound. Similar to how the thread contains cotton fiber, the sound of wisdom encompasses Atma’s power. Atma’s wisdom is in the form of both Atma’s power and Atma itself. Atma’s wisdom and Atma are one and the same, and it is hence said: <b>“The Word was God.”</b>
+
+  So far, we have discussed that God created Jeevatma and Atma, with God actively working before creation. However, after the act of creation, God empowered Atma to carry out the tasks, seemingly disappearing and making His presence unknown. God refrained from performing any tasks, and, in this state, He became akin to one who did not exist. Consequently, Atma assumed the responsibility of performing God’s work. Although Atma executes the functions of both Jeevatma and Paramatma, its actions remain concealed from others. The aforementioned statements outline the entire operational process of Atma. Initially, when Paramatma created the universe, there were three souls, but after creation, only two souls—Jeevatma and Atma—are recognized. In the absence of Paramatma’s presence, Atma took on the role of Paramatma, which is why Atma can be referred to as God. Despite not being God (Paramatma), Atma performs God’s tasks and occupies God’s position.
+
+  The wisdom of Atma originates from Atma itself. By asserting that Atma is God, it is affirmed that <b>The Word (wisdom) was with God.</b> This statement is accurate when we consider Atma as God. Even though Atma is not God, it must be acknowledged as God because God has bestowed upon Atma the authority to act as God. Therefore, when the Word (wisdom) is identified as Atma, it can be declared that the same wisdom (Atma) is God. This explanation aligns with the statement in the Gospel of John that <b>The Word was God.</b> Having addressed questions such as “What is the Word?”, “How is the Word connected to Atma?” and “Why is Atma considered God?”, I assume that the meaning of the first three sentences from the Gospel of John 1:1 is now comprehensible. If one fails to grasp this after such a detailed explanation, the wisdom of Atma may remain elusive. Understanding Atma’s wisdom is crucial to comprehend God’s system. To discern God’s ways, one must begin with an understanding of the wisdom of the Word. Once this wisdom is known, it becomes evident that the wisdom is Atma, and Atma is God.
+<b>
+At creation God  (Paramatma)  Prakruti  Atma Jeevatma
+After creation   (Paramatma)  Prakruti  Atma Jeevatma
+After creation   Atma (God)   Prakruti  Atma Jeevatma</b>
+
+  In the act of creation, God worked to create both the feminine Prakruti and the masculine Atma and Jeevatma. Initially, God, as the Purusha (male), created two souls, Atma and Jeevatma, similar to Him. Following the creation of Prakruti, Atma, and Jeevatma, God transitioned into a role of witnessing without active involvement. Given God’s innate nature of not engaging in work, it may seem as if there is no God, despite His existence. When the balance of dharmas is disrupted, and adharmas prevail on Earth, God sends His soul as Bhagavan to restore dharmas. In reestablishing dharmas, God’s representative is sent, eliminating the need for God to directly engage in the work. Atma, on the other hand, assumes responsibility for all other tasks. Consequently, after creation, God becomes inert and seemingly irrelevant. It could be stated that God, in this state, appears non-existent. Atma steps in to fill the perceived void of God and effectively becomes God, making us oblivious to the absence of God. Hence, the phrase <b>“The Word was God”</b> is presented in the second divine scripture, signifying a distinction between God and the word. While the word is not inherently God, it transformed into God. The expression <b>“The Word was God”</b> highlights the transformation of the word (wisdom) into God. Since the word (wisdom) is identified with Atma, and Atma is considered God, it is asserted that Atma, being the word, is God. Everyone is mistaken in knowing who God is and who Atma is.
+
+  In reality, God no longer exists after the act of creation. Without anyone knowing that there is no God in the world, Atma takes over the role of God, performing the duties of both Jeevatma and Prakruti. Simultaneously, Atma assumes a position akin to God. After creation, God transformed into a formless, nameless entity with no assigned tasks. Describing such a God as non-existent might be more accurate than asserting His existence. As there is no entity in God’s place, Atma steps into the role of God, elucidated by the phrase <b>“The Word was God”</b> in the third sentence. Despite many people hearing and studying these sentences, the underlying secret remains unknown.
+
+  To elucidate the reality about Atma, which embodies the role of God, it is stated that <b>“The Word was God.”</b> When Atma, personifying God, engages in any action, it attributes the action to “Jeevatma has done” or “God has done,” convincing everyone of God’s existence. Questions may arise regarding who holds authority over the universe if there is no God, or whether this perspective aligns with God’s wisdom or atheism. The response to these inquiries is as follows: We are saying that God is not in the place of God, but we are not saying that God does not exist at all. God’s actions remain unknown, and it is emphasized that He lacks a name, work, or form, hence having no direct relationship with humans, but we never said that God didn’t exist at all. In times of a threat to dharmas, God sends His representative to restore order. Even in this scenario, the representative refrains from explicitly claiming to be God, adopting the moniker ‘Bhagavan.’ The mystery surrounding God’s identity and qualities persists. God is there, yet no one knows what God is like. No one has seen or directly communicated with God since creation. Anything can be said about anything in the world, but nobody can say anything definitive about God. Terms like ‘Allah’ in Kruta Yuga signify God’s limitless nature, and designations like ‘Parabrahma’ emphasize God’s superiority over Atma, who fulfills various roles. Additionally, the term ‘Paramatma’ highlights God’s distinction from Atma, and ‘Purushottama’ denotes God’s supremacy compared to Jeevatma and Atma. It is better to admit that neither you nor I know anything about God.
+  </div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 80,
+verse: ` <b>(2) 	The Gospel of John, 1st chapter, 9th verse.</b>`,
+meaning: `<b>
+(9) The true light that gives light to everyone was coming into the world.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  If there is light in the outside world, it is because of a burning fire. However, in this context, true light is mentioned in the verse. The true light is kindled without fire and enters every human being, illuminating the entire body from head to toe. There is only one such light without fire, and that is Atma, which comes from God and is designated by God (the Creator). Atma provides light of consciousness to the entire body. When Atma enters the body, the 25 trillion cells in the human body are filled with its light. Each cell becomes a burning lamp without fire. The light of the lamp has a specific temperature. The human body has a temperature of 98.4 °F because of Atma’s light. When Atma leaves the body, the body becomes cold without any heat. A body without Atma’s light is called a dead body. In verse 24:35, it is said, <b>“Atma is the light, and the body is the niche.”</b> It can be stated that Atma, which illuminates the body, can be called the true light.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 81,
+verse: ` <b>(3)	The Gospel of John, 1st chapter, 10th verse.</b>`,
+meaning: ` <b>
+(10) He was in the world, and though the world was made through him, the world did not recognize him.        </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The term ‘Loka (World)’ in Telugu refers to something that undergoes experiences. Atma is present in humans who undergo experiences, and it is the creator of all human beings. However, it is crucial to recognize the distinction between Atma and God. God created Atma, and Atma, in turn, created humans. It is important to understand that God did not directly create humans; instead, He formed the entire Prapancha, initially devoid of any living beings. God first brought forth Prakruti and then empowered Atma to generate, govern, and terminate human life. Since then, Atma has been continuously creating humans, functioning as the sustaining light of human life, and orchestrating the processes of death and rebirth. Despite this, humans often remain oblivious to the presence of Atma, which is near and within them and is essentially God. Atma gives birth to human beings; hence Atma is the Father to humans. God created Atma; hence He is the Father to Atma. Although Atma is sometimes referred to as God, the true God is the Holy Spirit, while Atma is the Father of humans.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 82,
+verse: ` <b>(4)	The Gospel of John, 1st chapter, 11th verse.</b>`,
+meaning: `  <b>
+(11) He came to that which was his own, but his own did not receive him.       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The term “His own” encompasses all those whom He created. Atma, acting upon the commandment of the Holy Spirit, brought humans into existence, and manifested to them in the form of divine wisdom, referred to as the Word. Even though Atma came to humans in the form of wisdom, humans tend to perceive their own knowledge as significant, often overlooking or dismissing the offered wisdom.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 83,
+verse: `  <b>(5)	The Gospel of John, 1st chapter, 12th verse. </b>`,
+meaning: `<b>
+(12) Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Those who comprehend the wisdom offered by Atma will embrace Atma. Those who are acquainted with Atma’s wisdom and hold faith in Atma have the prospect of becoming Atma’s heirs. Consequently, the verse asserts, “He gave the right to become children of God.” The term “God’s children” denotes those who are familiar with Atma’s wisdom.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 84,
+verse: ` <b>(6)	The Gospel of John, 1st chapter, 13th verse.</b>`,
+meaning: `<b>
+(13) Men born not of natural descent, nor of human decision or a husband’s will, but born of God.      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  All human beings originate from Atma. They are not born of women’s blood nor the will of males or females.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 85,
+verse: `<b>(7)	The Gospel of John, 1st chapter, 14th verse.</b>`,
+meaning: ` <b>
+(14) The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The God Atma (Wisdom) assumed a physical form, resembling that of a human, and dwelled among humans, radiating grace and wisdom.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 86,
+verse: `  <b>(8)	The Gospel of John, 1st chapter, 18th verse.</b>`,
+meaning: ` <b>
+(18) No man has seen God at any time; the only begotten Son, which is in the bosom of the Father, revealed him.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The word ‘God’ is used for both Atma and Paramatma. In the final divine scripture, the term ‘Allah’ is used for both Gods — Atma and Paramatma. Hence, Muslims could not recognize two Gods. To avoid this mistake, the Bible states that Atma is the Father, and Paramatma is the Holy Spirit. The term ‘begotten Son’ refers to <b>the only son created by God.</b> Paramatma (the Holy Spirit) is eternal. After creating Prakruti in the beginning, Paramatma created a son called Atma to bring all living beings into existence. Atma created all living beings according to the commandments of the Holy Spirit. Therefore, there is only one Father (created God) for all living beings. The Father of the created Atma is the Holy Spirit. <b>“No one has ever seen God (the Holy Spirit or Paramatma),”</b> as stated in the verse. God (the Holy Spirit) does not have a form, name, or work; hence, no one has ever seen Paramatma. Atma, the only begotten Son, reveals the unseen God through His wisdom. Atma is the only begotten Son separated from the heart of the Great God, Paramatma. Because no one has seen the Holy Spirit, only Atma can speak about his Father, the Holy Spirit.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 87,
+verse: ` <b>(9)	The Gospel of John, 1st chapter, 51st verse.</b>`,
+meaning: `<b>
+(51) He then added, “Very truly I tell you, you will see sky opens, and the angels of God ascending and descending on the Son of Man.”  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This is the word that Jesus spoke to Nathanael Himself. Jesus claimed to be the Son of Man, even though Nathanael had referred to Him as the Son of God. Jesus did not deny being the Son of God but instead reduced Himself to the Son of Man. He assured Nathanael and others that they would witness extraordinary events. As we’ve emphasized before, God’s servants, the angels, serve as rulers in the human world. These angels, often referred to as Bhutas and Planets (Grahas), are numerous in the sky, totaling billions. During an encounter with Jesus, the servants of God, aware of His identity, descended from the sky and bowed before Him. However, many human beings remain unaware of who Jesus truly is and do not bow down before Him. Similar references are found in the Quran, the final divine scripture, specifically in verses 15:28, 15:29, and 15:30. In the mentioned verse, it is prophesied that Nathanael would witness the presence of Bhutas and Grahas around the Son of Man, as if the doors to the sky had opened. The phrase ‘ascending and descending’ denotes coming and going, with ‘descending on the Son of Man’ implying angels’ arrival at Jesus. When Nathanael acknowledged Jesus as the Son of God, Jesus, recognizing Nathanael’s wisdom vision, assured him in verse 50 that he would witness even greater phenomena. Verse 51 follows, expressing that Nathanael, possessing wisdom vision, could perceive things beyond the ordinary sight of others. The events described in verse 51 are visible only to those with divine wisdom, providing insight into the true identity of Jesus.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 88,
+verse: `<b>(10)	The Gospel of John, 3rd chapter, 3rd verse.</b>`,
+meaning: ` <b>
+(3) Jesus replied, “Very truly I tell you, no one can see the kingdom of God unless they are born again.       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The verse should not be interpreted literally, as it carries a deeper, symbolic meaning. God and His kingdom are beyond physical visibility for anyone. Jesus explicitly conveyed that understanding and perceiving God’s kingdom requires a spiritual rebirth. This does not imply a physical death and subsequent rebirth. If taken literally, it would mean that anyone seeking to know God would need to undergo a physical death, which is a misunderstanding. Nicodemus, who held a literal interpretation, raised a question based on this misconception.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 89,
+verse: `<b>(11)	The Gospel of John, 3rd chapter, 4th, 5th, 6th, 7th and 8th verses.</b>`,
+meaning: `<b>
+(4) “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!”
+<br><br>
+(5) Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit (Atma).
+<br><br>
+(6) Flesh gives birth to flesh, but the Spirit (Atma) gives birth to spirit.
+<br><br>
+(7) You should not be surprised at my saying, “You must be born again.”
+<br><br>
+(3:8) The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So, it is with everyone born of the Spirit (Atma).” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When a man dies and is reborn, it is called rebirth. If the rebirth happens physically, all the organs of the man will change. If that happens, the desire to see God and God’s kingdom will also vanish. The body should not die to keep the organs and ambitions as they are. The body contains both wisdom and ignorance, but the ignorance in the body should completely die. When a man gets rid of ignorant thoughts and desires, he is considered dead in ignorance and born of wisdom. One who gets rid of ignorance and gains wisdom can be said to be born of Atma. <b>The duty of man is to know Atma in the body.</b> To know Atma, one must know Atma’s wisdom. When a man knows the wisdom of Atma, he is considered born of Atma. When the body dies, a man gets a new body, but changing one’s will in the same body without getting a new body is like a new birth. The wind blows wherever it pleases, and we hear its sound depending on where it blows. As the wind changes its direction, if a man changes his purpose, it will be a new birth for him. One who desires Atma knows Atma in the same body and the same life. There is no need to go to another life to know Atma.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 90,
+verse: `<b>(12)	The Gospel of John, 3rd chapter, 13th verse. </b>`,
+meaning: `<b>
+(13) No one has ever gone into Paraloka except the one who came from Paraloka the Son of Man. </b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Ihaloka, Heaven (Swarga-Loka), Hell (Naraka-Loka), and Paraloka are the names of the four worlds. The world (Loka) where we all live is called Ihaloka. Heaven and hell are not separate worlds; both are on earth. Loka is neither a kingdom nor a territory. The place and time of experience together are called loka. The place where one experiences hardship is called Yamaloka, Naraka-Loka, or hell. Similarly, the place where one experiences happiness is called Swarga-Loka or heaven. Since both these experiences occur on earth, it can be said that this world (Ihaloka) is both heaven and hell. However, Paraloka is different from hell and heaven. While both hell and heaven involve experiences, Paraloka does not have any experiences. The state in which there is no experience is called Paraloka. When a person transcends karma, they do not experience happiness or sorrow and enter Paraloka. It is called the state of being one with God, Mukti, or Moksham. A person in Ihaloka is always bound by sin and punya karma. Whoever is in Paraloka does not have any karma. If a person dies in Ihaloka, they cannot go to Paraloka but return to Ihaloka. On the other hand, a person in Paraloka, when coming into this world for any necessity, goes back to Paraloka. Therefore, although the resident of Paraloka who came from Paraloka stays in this world for some time according to His will, He will later enter Paraloka. Hence, the verse <b>“No one has ever gone into Paraloka except the Son of Man who is in Paraloka”</b> implies that the one who is in Paraloka is God. Even if someone who became God is born as a human, He will return to Paraloka. The same thing is expressed in John 3:13.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 91,
+verse: ` <b>(13)	The Gospel of John, 3rd chapter, 15th verse.</b>`,
+meaning: `<b>
+(15) That whosoever believes in Him should not perish but have eternal life.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Everyone who believes in God will attain eternal life without undergoing death. However, it is written that, “Eternal life is through Him only.” Paramatma exists both within and outside the body. <b>When Jeevatma merges with Paramatma, it is stated that Jeevatma has achieved Paraloka, also recognized as the kingdom of God.</b> It can also be articulated that Jeevatma has attained eternal life (moksham). The verse declares, “Whoever believes in God will ultimately be liberated from karma and receive eternal life.” Paraloka, representing eternal life, pervades everywhere, irrespective of one’s physical location. Consequently, whoever achieves moksham unites with the Holy Spirit (Paramatma) within their body.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 92,
+verse: `<b>(14)	The Gospel of John, 3rd chapter, 17th verse.</b>`,
+meaning: `<b>
+(17) For God did not send his Son into the world to judge the world, but to save the world through Him.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  God sent his Son as a man into the world to save humans, not to judge them. The responsibility of the man who came from God is to teach God’s wisdom to humans and save them from their sins. He did not come to judge the sins and punya of human beings. God did not send His representative to earth for judgment; instead, He came to save people. This verse is crucial in the Bible. Atma judges a man when he dies. The one who came from God teaches humans how to escape from karma, while the Atma performs the task of judging them.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 93,
+verse: `<b>(15)	The Gospel of John, 3rd chapter, 18th verse. </b>`,
+meaning: `<b>
+(18) Whoever believes in Him is not judged, but whoever does not believe stands judged already because they have not believed in the name of God’s one and only Son.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The verse says, “One who believes in Him,” which refers to either the invisible God or the visible God’s representative who came from God. The verse also states, “They have not believed in the name of God’s one and only Son,” which implies that it should be understood as referring to God’s representative who came from God. God Himself came to earth in the disguise of man to teach wisdom to humans. Jesus said, <b>“I am the Son of God, or the Son of Man, or God’s one and only Son,” </b>so as not to be recognized. In Hinduism, God is called Bhagavan when He disguises Himself and comes to earth as a man. Krishna is the one who came like that; hence He is called Bhagavan in the Bhagavad-Gita. Although Jesus, who is the Son of God, appeared as a man, He should also be called Bhagavan. When God incarnates as a man on earth, Hindus call Him Bhagavan, and Christians call Him the Son of Man. While it is said in the final divine scripture (15:28, 29, 30) that <b>God sends His representative by breathing His soul into Him,</b> Muslims believe that God does not come as a man. Whoever does not have faith in God’s representative, the Son of God, is already judged.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 94,
+verse: `<b>(16) The Gospel of John, 3rd chapter, 19th, 20th, 21st verses.</b>`,
+meaning: ` <b>
+(19) This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil.
+<br><br>
+(20) Everyone who does evil hates the light and will not come into the light for fear that their deeds will be exposed.
+<br><br>
+(21) But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Paramatma, who remains unknown to anyone, symbolizes darkness. Atma, brought into existence by Paramatma, embodies the true light. Paramatma has created two Sons: an invisible Atma, serving as the light within the body, and another Atma that incarnates as a human among humans. While the Atma, unseen and illuminating the body, is referred to as the Son, the other Son of God, manifesting as a man, is distinctively termed <b>the only begotten Son.</b> Jesus, the only begotten Son, descended to earth. However, due to their malevolent actions, people cherished their own darkness and refrained from approaching Jesus, the light of wisdom.
+
+  Every ignorant individual harbors aversion towards God’s representative who brings the <b>light of wisdom</b> to the world. They fear that their nefarious deeds will be exposed in the presence of God’s representative, leading them to shun the light and conceal their actions. Those who anticipate that God’s light, taking human form on earth, will unveil their dark deeds avoid coming to the Son of God when He appears. Those who adhere to God’s wisdom comprehend that Atma is accountable for all their actions within the body. They approach God’s Son because all their deeds are within <b>God’s light, guided by wisdom.</b> However, only a small fraction of people on earth recognizes that Atma, who is God, is responsible for all their actions. Consequently, only a limited number approach the Son of God when He appears. Since the earth is populated with individuals who believe they are solely responsible for their actions, they refrain from seeking the Son of God. Not only do they steer clear of the Son of God, but they also harbor animosity and inflict hardships upon God’s representative, who infrequently manifests on earth. They deride the Son of God, subjecting Him to numerous tribulations.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 95,
+verse: ` <b>(17)	The Gospel of John, 5th chapter, 19th verse.</b>`,
+meaning: ` <b>
+(19) Jesus gave them this answer: “Very truly I tell you, the Son can do nothing by Himself; He can do only what He sees his Father doing, because whatever the Father does the Son also does.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In this verse, the mention of ‘Father and Son’ is accompanied by the statement that “The Son will do the things which the Father does.” It’s crucial to discern the identities of the Father and Son, given that the Holy Spirit (God) is the only one. Although God has one eternal Son, there is also another Son who occasionally incarnates on Earth. It’s important to ascertain which Son the verse is addressing. John 3:17 emphasizes, <b>“For God did not send His Son into the world to condemn the world, but to save the world through Him,</b> ” referring to God’s son, who manifests on Earth. This verse (5:19) refers to the Son, Atma, who serves as the light within the human body. Atma is eternal on the earth, providing <b>‘the light of mobility’</b> to everyone’s body. Based on this, especially when reading the verse, one should determine which of the two sons God, the Holy Spirit, has spoken about in the verse. John 5:19 characterizes Atma as God’s eternal son, stating that Atma mirrors the actions of the Holy Spirit and engages solely in inherited tasks from the Father, doing nothing independently.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 96,
+verse: `<b>(18)	The Gospel of John, 5th chapter, 20th verse.</b>`,
+meaning: ` <b>
+(20) For the Father loves the Son and shows Him all He does. Yes, and He will show Him even greater works than these, so that you will be amazed. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When we ask who said, <b>“Paramatma (the Holy Spirit) loves the Son and shows Him all He does,”</b> we find that Jesus, the second Son of God, spoke these words to His disciples while He was on earth. No one was able to fully recognize the Son of God when He walked among humans as a man. Despite His teachings and miracles, some subjected Him to great suffering and humiliation, ultimately leading to His death. However, God’s only begotten Son, named Jesus, was in their midst and said, <b>“The Father will show Him (Atma) even greater works than these so that you will be amazed.”</b> God commanded Atma to rule over the Jeevas and to show even greater things. Let us now explore what those great things are.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 97,
+verse: `<b>(19)	The Gospel of John, 5th chapter, 21st, 22nd, 23rd verses. </b>`,
+meaning: `<b>
+(21) For just as the Father raises the dead and gives them life, even so the Son gives life to whom He is pleased to give it.
 <br><br>
 (22) Moreover, the Father judges no one, but has entrusted all judgment to the Son.
 <br><br>
-(23) That all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father, who sent him.    </b>                                       
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    There is something to notice here. Although there is mention of <b>‘two Allahs’</b> in the Quran, Muslims could not find it. Similarly, there is mention of <b>‘two Sons’</b> in the Bible. But Christians could not understand it and talk about only one Son. All these three verses have the word ‘Son.’ One needs to know which of the two Sons is mentioned in these verses. Many are not able to understand that there is a second Son, because only one Son at a time is mentioned in a verse. God said, <b>“For God did not send his Son into the world to judge the world, but to save the world through him”</b> in John 3:17 and <b>“Father has entrusted all judgment to the Son”</b> in John 5:22. Based on this, one should understand that God has two Sons. 
-    <br><br>
-    God said about Atma, “As the Father, the Holy Spirit, raises the dead and gives them life, the Son also raises the dead and gives life.” Like how the Father raises the dead and gives life, Atma decides man’s next life experiences after death based on sin and punya in the man’s past life. Hence, “Like the Father, the Son gives life to whom he is pleased,” said in the verse. <b>‘Whom he likes’</b> means <b>‘those who are determined by karma’</b> in Atma’s perspective. Atma, who is hidden and the light in the body, decides the next life’s karma. As Atma is the one who makes the born man experience karma, “He will resurrect the one he judged,” said in the verse. ‘To resurrect’ means ‘to make born again.’ 
-    <br><br>
-    God gave Atma the power to judge the dead and to bring them back to life so that everyone could glorify his Son, Atma, just as everyone glories the Holy Spirit as great God. At the very moment of man’s death, Atma, the light in the body, determines the karma for the second life based on man’s past life sin and punya and immediately takes him to the second life. Atma decides second life based on the man’s karma and gives him life again. Those who do not know that Atma does such great things do not see Atma with great respect. One who does not respect Atma will not respect God who sent Atma. Such ignorant respect neither Atma, which is in his body, nor Paramatma, which is inside and outside of the body. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 98,
-      verse: `<b>(20)	The Gospel of John, 5th chapter, 24th verse.</b>    
-    `, meaning: ` <b>  
-    (24) Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.
-      </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Previously, verses 21, 22, and 23 mentioned the Atma, who is mobility in the body. It is said in the verse 24 about the Atma, which came in human form with the name Jesus. Whoever believes in the Holy Spirit who sent Jesus, the only begotten Son, will attain moksha. Such a person attains moksha without coming into judgment immediately after his death.    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 99,
-      verse: ` <b> (21)	The Gospel of John, 5th chapter, 26th verse.</b>   
-    `, meaning: ` <b> 
-    (26) For as the Father has life in himself, so he has granted the Son also to have life in himself.        </b>                                       
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    God, the Holy Spirit, is forever eternal. Just as Paramatma is eternal, so Atma, his son, is given authority to be eternal forever. The Holy Spirit, the Father of Atma, gave that authority. In the first divine scripture, Jivatma is called Kshara and Atma is called Akshara. Kshara means destroyable soul and Akshara means undestroyable soul.
+(23) That all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father, who sent Him.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  There is something noteworthy here. Although there is a mention of <b>‘two Allahs’</b> in the Quran, Muslims could not find it. Similarly, there is a mention of <b>‘two Sons’</b> in the Bible, but Christians could not understand it and talk about only one Son. All three of these verses have the word ‘Son.’ One needs to determine which of the two Sons is mentioned in these verses. Many are not able to comprehend that there is a second Son because only one Son at a time is mentioned in the verses. God said, <b>“For God did not send his Son into the world to judge the world but to save the world through Him” in John 3:17, and “The Father has entrusted all judgment to the Son” in John 5:22.</b> Based on this, one should understand that God has two Sons.
 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 100,
-      verse: ` <b> (22)	The Gospel of John, 5th chapter, 37th verse.</b>   
-    `, meaning: ` 
-    <b>   
-    (37) You have never heard his voice nor seen his form.   </b>                                     
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Here so-called Father is Paramatma or the Holy Spirit. There is no name, form, and work for the God called Paramatma. No one has seen such God. How can you see when he has no form? So, humans in the world have never seen God. He does not speak to anyone because God does not work. Based on this, it can be said that no living man has seen God. If anyone says that I have seen God, it can be counted that he is lying. God is neither visible nor speaks.
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 101,
-      verse: `<b>(23)	The Gospel of John, 5th chapter, 38th verse. </b>    
-    `, meaning: `<b> 
-    (38) Nor does his word dwell in you, for you do not believe the one he sent.       </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    
-    Although the first creator, the Holy Spirit, does not work, he has some things to do. However, he does not do things. But God, Paramatma, appointed his servants to do his work. The millions of servants, who are part of his rule, are doing all his work. Although God does not work, his servants do all the tasks he is supposed to do. But Paramatma has an important work to do. God himself should teach divine wisdom. Servants will not do that work except God. <b>“God should teach God’s wisdom because no man knows God’s wisdom except God,”</b> also said in the final divine scripture. God comes in disguise and teaches the wisdom of God. As teaching wisdom is 
-    something that no one can do, God comes in disguise as if he were not God and teaches God’s wisdom. Although God tells in disguise, it is as if God did not say because no one knows who is in disguise. Even though God tells his wisdom, it is not recognized as God told. As God is wise, he comes in the disguise of <b>‘Bhagavan’</b> and tells God’s wisdom. 
-    <br><br>
-    Although God himself comes as a man upon the earth in disguise and teaches wisdom, he will say that he will send a special man from him so that no one would know the matter. “One who comes from God will teach God’s wisdom,” said God himself in his divine scriptures. Based on this, everyone assumes that the one sent from God tells God’s wisdom. Because of that, God’s incarnation is unknown to anyone. Although God came as man in Treta Yuga, no one recognized. In the Dvapara Yuga, God came as a man and told Bhagavad-Gita and said ‘I am God’ in the Bhagavad-Gita, but no one recognized. Although God came as Jesus in Kali Yuga, no one recognized him as God and caused many troubles. No one realized that he was the real God. Some, who claimed themselves to be God’s believers, said that Jesus was the Son of Man, not knowing that he was really God. Some said that Jesus was the Son of God, but they did not recognize him as God. 
-    <br><br>
-    Although Jesus himself was God, he said, <b>“You did not believe the one he sent”</b> in this verse without revealing who he was. He said that you did not believe the one he sent. According to this, no one believes that man is God. You have no faith in the man God sent. Hence Jesus said, “God’s word did not live in you.” If there is no faith in the man God sent, why did God’s word not live-in humans? One who came is God and one who told wisdom is God, hence God’s word does not live in those who do not believe in him. The reason is that one who came is God, and one who told wisdom is God; hence God’s word does not live in those who do not believe in him. 
+  God said about Atma, “As the Father, the Holy Spirit, raises the dead and gives them life, the Son also raises the dead and gives life.” Just as the Father raises the dead and gives life, Atma decides a person’s next life experiences after death based on their past life’s sins and punya. Therefore, “Like the Father, the Son gives life to whom He is pleased,” is said in the verse. <b>“Whom He likes”</b> means <b>“those who are determined by karma”</b> from Atma’s perspective. As Atma is the hidden light in the body that determines a person’s next life’s karma, “He will resurrect the one He judged,” is said in the verse. “To resurrect” means “to be born again.”
 
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 102,
-      verse: ` <b>(24)	The Gospel of John, 6th chapter, 25th, 26th, 27th verses.</b>    
-    `, meaning: ` <b> 
-        
-    (25) When they found him on the other side of the lake, they asked him, “Rabbi, when did you get here?”<br><br>
-    (26) Jesus answered, “Very truly I tell you, you are looking for me, not because you saw the signs I performed but because you ate the loaves and had your fill.
-    <br><br>
-    (27) Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. For on him God the Father has placed his seal of approval.”    </b>                                       
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    In this verse, it is said that food is of two kinds - destroyable food (food that spoils) and undestroyable food (food that endures). Most humans on earth are looking for destroyable food. Hence, when the crowd came looking for him and asked, “When did you come here?”, Jesus replied to them, <b>“You are not asking for God’s wisdom. You are looking for me, hoping for the loaves of bread.”</b> Furthermore, Jesus said, “Do not toil for destroyable food.” The food that we eat every day is ‘destroyable food.’ When food is eaten, it will be digested in three hours. Digestion means destruction. 
-    Whatever the food we eat, it must digest in the stomach. The purpose of the digestive organ is to destroy food. Every food is destroyed in the stomach. There is nothing that is not destroyed in the digestive tract. Food is destroyed in the digestive tract and turns into waste. It is like burning wood into ashes. 
-    <br><br>
-    The food that man puts into the stomach by mouth can be said destroyable food. Similarly, man puts wisdom into his head through his ears. The wisdom that enters the head in the form of words is called undestroyable food. It can be said that <b>the only food that cannot be destroyed is God’s wisdom.</b> If anyone <b>reads or hears God’s wisdom,</b> it was as if he had put undestroyable food into his head. The Son of Man gives you the undestroyable food. Hence, <b>“For on him God the Father has placed his seal of approval,”</b> said in the verse. God decided and sent his begotten Son to tell his wisdom. Hence, “God’s decision” or “God’s consent” is written as ‘seal of approval’ in the verse. “God did not reveal his wisdom to any human being,” said in the Quran. Based on this, it becomes known that the one who teaches God’s wisdom is not an ordinary man. God said that no one knows God’s wisdom except God. Therefore, it becomes known that the one who comes as the begotten Son to tell God’s wisdom is God. The word “the Son of God” is said merely to fool humans. It can be said that ‘Son’ means ‘God’s disguise.’ God should not come as God and speak to human beings; hence God said that he came as the Son. The following verse shows what I said is true. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 103,
-      verse: `  <b> (25)	The Gospel of John, 6th chapter, 32nd verse. </b>   
-    `, meaning: ` <b> 
-    (32) Jesus said to them, “Very truly I tell you, it is not Moses who has given you the bread from paraloka, but it is my Father who gives you the true bread from paraloka.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    <b>“Moses did not give you the bread of wisdom from paraloka,”</b> said Jesus in the verse. If so, is the Dharma Shastra told by Moses false? Is there no wisdom with dharmas in Moses’ Dharma Shastra? If what Moses told is not true God’s bread, why is it called Moses’ Dharma Shastra? One may get many such questions. In one way, the statement that what Moses told is not Dharma Shastra is false. In another way, as God said, it can be said what Moses told is not Dharma Shastra. It is also true that Moses did not give you the undestroyable bread from paraloka. Many questions and doubts will arise in this verse. When these doubts here are solved with proper answers, one can understand the real divine wisdom. 
-    <br><br>
-    Prophet Moses is familiar to Christians. Many Muslims do not know that the word ‘Moses’ in the Bible transformed and became ‘Musa’ in 1400 years. One should know that the names Moses and Musa are the same. If anyone says that Moses did not tell the Dharma Shastra, it can be said that the statement is true. In another way, it can be said that the statement is false. There is a strong reason unknown to anyone to say it both ways. Some people will be surprised to know that. Some may even oppose my word and say that it is false. This is true, no matter what anyone thinks. About five thousand years ago, the prophet Moses told the wisdom that he knew. One who tells God’s wisdom is called a prophet. So, the people called Moses a prophet. 
-    Moses had divine thoughts from a young age. When Moses was 20 years old, the <b>Bhagavan</b>, who descended upon the earth at that time, gave the first divine scripture, <b>‘Taurath’</b> to him. Since then, Moses used to tell the wisdom from that scripture. 
-    <br><br>
-    As all the wisdom that Moses told adhered to dharmas, it is called Moses’ Dharma Shastra. Moses died when he was 54 years old. As soon as Moses died, the Bhagavan got into his body and told the dharmas, which Moses never said, for nine years. The Bhagavan also left Moses’ body at 63 years of age. As no one knows this, everyone thought that the Prophet Moses lived for 63 years. Similarly, they thought that the Prophet Moses himself taught the dharmas. God gave the divine scripture to Moses but did not directly give him wisdom. Hence, “Moses was not given the bread from paraloka,” said in the verse. Because God taught the dharmas from Moses’ body, the wisdom God told is called Moses’ Dharma Shastra. Hence, “The Father of paraloka, the Holy Spirit, gave true bread,” said in the verse. Moses’ life span was 54 years, and no one knew that God extended Moses’ life to 63 years. All these mysterious things are explained in my scripture, <b>‘Krishna Musa.’ </b>
+  God gave Atma the power to judge the dead and bring them back to life so that everyone could glorify his Son, Atma, just as everyone glorifies the Holy Spirit as the great God. At the very moment of a person’s death, Atma, the light in the body, determines their karma for the second life based on their past life’s sins and punya and immediately takes them to the second life. Atma decides the second life based on the person’s karma and gives them life again. Those who do not know that Atma does such great things do not see Atma with great respect. One who does not respect Atma will not respect God who sent Atma. Such ignorance neither respects Atma, which is in the body, nor Paramatma, which is inside and outside of the body.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 98,
+verse: `<b>(20)	The Gospel of John, 5th chapter, 24th verse.</b>`,
+meaning: ` <b>
+(24) Very truly I tell you, whoever hears my word and believes Him who sent me has eternal life and will not be judged but has crossed over from death to life. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Previously, verses 5:21, 5:22, and 5:23 discussed the Soul (Atma), who is the mobility in the body. The verse 5:24 states about the Soul, which came in human form with the name Jesus. Whoever believes in the Holy Spirit, who sent Jesus, the only begotten Son, will attain moksham. Such a person attains moksham without undergoing judgment immediately after their death.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 99,
+verse: ` <b>(21)	The Gospel of John, 5th chapter, 26th verse.</b>`,
+meaning: ` <b>
+(26) For as the Father has life in Himself, so He has granted the Son also to have life in Himself.       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  God, the Holy Spirit, is eternal forever. Just as Paramatma is eternal, Atma, His son, has been granted the authority to be eternal forever. The Holy Spirit, the Father of Atma, bestowed upon Him that authority. In the first divine scripture when comparing Jeevatma to Atma, Jeevatma is referred to as Kshara (Perishable soul), while Atma is designated as Akshara (Imperishable soul).
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 100,
+verse: ` <b>(22)	The Gospel of John, 5th chapter, 37th verse.</b>`,
+meaning: `<b>
+(37) You have never heard His voice nor seen His form.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In this context, ‘His’ refers to Paramatma (the Holy Spirit). God, known as Paramatma or the Holy Spirit, is devoid of a name, form, or specific tasks. No one has witnessed such a God because He lacks a discernible form. Consequently, no human has ever laid eyes on God. God does not communicate with anyone as He remains inactive. Therefore, it can be asserted that no living person has truly seen God. Any assertion of having witnessed God can be regarded as false. God is neither visible nor vocal.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 101,
+verse: `<b>(23)	The Gospel of John, 5th chapter, 38th verse. </b>`,
+meaning: `<b>
+(38) Nor does His word dwell in you, for you do not believe the one He sent.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Although the first creator, the Holy Spirit, does not actively engage in work, there are certain responsibilities that fall within His domain. Nevertheless, He refrains from direct action. Instead, God, Paramatma, has assigned His servants to carry out His work. These millions of servants constitute His dominion and execute all the tasks designated for Him. While God Himself remains inactive, His servants fulfill the roles He is supposed to undertake. Paramatma, however, has a crucial task at hand – the imparting of divine wisdom. God Himself is required for this task, as His servants cannot perform it. The final scripture states, <b>“God should teach God’s wisdom because no man knows God’s wisdom except God.</b> ” In disguise, God comes to teach the wisdom of God. Though He speaks in disguise, His identity remains unknown, as no one can discern the one in disguise. Despite God imparting His wisdom, it often goes unrecognized as His words. As God is wise, He assumes the guise of <b>‘Bhagavan’</b> and imparts wisdom.
 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 104,
-      verse: ` <b> (26)	The Gospel of John, 6th chapter, 46th verse.</b>    
-    `, meaning: `<b> 
-    (46) No one has seen the Father except the one who is from God; only he has seen the Father.        </b>                                     
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    It is not difficult to comprehend this verse. Reading the Bhagavad-Gita, the Bible, and the Quran in full, it becomes known that the verses in the final divine scripture have subtle meaning. The verses in the Quran have so much subtility when compared with other divine scriptures. Hence, these verses have a meaning unknown to anyone. The Bible verses seem to be easy to understand. Although the verse is easy, many do not understand the reality of it. Hence, God is giving you the detail of every verse through us. 
-    <br><br>
-    God, the Holy Spirit, exists before creation and after creation. He is the first God. No human knows what God is or how he looks. The first God is called Allah in the final divine scripture, the Quran. The second God, Atma, is also called Allah. Therefore, Paramatma is the first Allah, and Atma is the second Allah. Paramatma is called God in the second divine scripture, the Bible. The second God, Atma, is addressed as the Father. One should know that the Holy Spirit is the Father to Atma and Atma is the Father to humans. It is said in the Quran that Both Paramatma and Atma are Gods. In the Bible, one is called God and the other one is called the Father. One should know that the Father of man is Atma and the Father of Atma is the Holy Spirit. No man has seen the Father, said in the verse. Man does not know anything about the Father, Atma. Man has never seen Atma. <b>“Except the one who is from God,”</b> said in the verse. Atma is the only one who came from God. Hence, <b>Atma has seen his Father, the Holy Spirit. Jivatma has never seen his Father, Atma. </b>
-                
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 105,
-      verse: `<b>(27)	The Gospel of John, 7th chapter, 37th and 38th verses.</b>    
-    `, meaning: ` <b>    
-    (37) On the last and greatest day of the festival, Jesus stood and said in a loud voice, “Let anyone who is thirsty come to me and drink.”    <br><br>
-    (38) Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.       </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The verse has some subtle meaning. It is natural for a thirsty man to drink water. The quest for water is called thirst. Hence, the <b>quest of those who want wisdom</b> is compared to thirst. “Whoever is thirst of wisdom should come to me and quench their thirst,” said in the verse. If anyone goes to Jesus and gets divine wisdom, it is as if they quenched their thirst of <b>wisdom</b> from Jesus. Whoever believes in Jesus will know complete divine wisdom, become a treasure of wisdom, and teach others wisdom. To say this, Jesus said rivers of living water would flow from within them. <b>Living water means divine wisdom</b>. Wisdom brings moksha to man and always keeps him in the same state. Hence the wisdom is called living water. Man fills the stomach by drinking water through the mouth. Similarly, man should fill <b>the buddhi with divine wisdom by hearing through the ears.</b> 
+  Even when God personally comes to earth disguised as a man to teach wisdom, He also foretells sending a special man whose true identity will remain unknown. “One who comes from God will teach God’s wisdom,” God Himself declared in His divine scriptures. Consequently, everyone anticipates that the one sent from God will convey God’s wisdom. Thus, God’s incarnation remains veiled to all. Although God came to earth as a man during the Treta Yuga, no one recognized Him. During the Dvapara Yuga, God came as a man and imparted the teachings of the Bhagavad-Gita, even declaring <b>“I am God”</b> in the Bhagavad-Gita, yet no one recognized Him. Similarly, when God incarnated as Jesus in the Kali Yuga, no one recognized Him, causing Him numerous challenges. None realized that He was the real God. Some who professed to be God’s believers claimed Jesus was the Son of Man, failing to acknowledge Him as God. Others identified Jesus as the Son of God but still fell short of recognizing His divinity.
 
-            
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 106,
-      verse: `<b>(28)	The Gospel of John, 8th chapter, 12th verse.</b>    
-    `, meaning: ` <b> 
-        
-    (12) When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness but will have the light of life.”        </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    God, the Holy Spirit, to carry out his rule and have his work done by others, specially created Atma. He declared Atma as his Son and gave the power to perform his tasks. Atma got the authority from God to take human beings' lives, judge them based on karma in the previous life and then give them birth again. Atma, which has the authority to judge, behaves according to man’s karma. Because man is entangled in karma and thinks according to karma, Atma does the deeds based on man’s karma. Atma gives ignorance to man because man is seeking ignorance. Therefore, adharmas will increase on the earth after some time. Because Atma teaches ignorance to man, adharmas are forming on earth. 
-    <br><br>
-    God, the Holy Spirit, must come to the earth as a man to suppress adharmas and preach dharmas when adharmas emerge because of man’s interest and Atma- provided-ignorance. God, who came into the form of man, is called Bhagavan. God himself comes in disguise upon the earth and teaches his wisdom. In order not to know that the one who came is God, it is said that the one who came in human form is called the Son and his Father is God. According to this, there is only one God, the creator, but he has one Son as Atma and another Son who came in human form. When the first Son Atma, who is permanently in humans, develops adharmas, the second temporary Son who comes in human form teaches dharmas. There is only one God, but he has two Sons. The Son who came in Jesus’ form said, <b>“I am the light of the world.”</b> Wisdom turns into fire and burns man’s karma. Jesus has full of such gnanagni. He has full of the light of wisdom. Hence, he said, “I am the light of the 
-    world.” Jesus came to teach wisdom to humans. Therefore, whoever follows him, and knows his wisdom, will not walk in the ignorance but wisdom. Hence, he said, “Whoever follows me will never walk in the darkness but will have the light of life.” It is possible only to God who comes in human form to give the light of wisdom and establish dharmas. 
-
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 107,
-      verse: `<b>(29)	The Gospel of John, 8th chapter, 14th verse.</b>    
-    `, meaning: ` <b> 
-        
-    (14) Jesus answered, “Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.       </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus looked like an ordinary man. Nothing special can be seen in any man based on outside appearance. Everyone who wears a body made of Prakruti is the same. Jesus also appeared to be an ordinary human being. Elders say that no one knows what kind of snake lives in the termite mound. Similarly, no one knows what kind of jiva is in a body. Every born Jiva is born wearing a body. It is true that every Jiva who comes into a body comes from somewhere. Jiva, who died somewhere on the earth after completing the karma, enters a new body. Atma in the body decides where jiva should be born according to jiva’s karma. An ordinary jiva is judged by Atma and is brought into a new body from the old body by Atma based on the judgment. Although a jiva lives in the body, he does not know where he came from to be born in the new body. Assume a person is now 40 years old. He is on the earth from the beginning of creation. Even so, he did not know when and where he was on the earth since the beginning of creation. He did not remember his past births. In the body, the mind is the organ that remembers everything. The mind that remembers everything also dies when a man dies. Therefore, the memory of any birth is extinct with that birth. Hence, a man who is 40 years now has been on the earth since the beginning of creation. He changed many births since then. But he could not remember any of his previous births because his mind died at the end of every life. He only remembers the last 40 years of the present birth. If the current birth changes, he will not remember anything. 
-    <br><br>
-    The same thing is happening not only to man but also to every living creature. As Jesus appeared to be an ordinary man, one may think that the same process happens to him as well. Jesus was born in Israel; it means he would have to come from another place. Jesus came from elsewhere and was born in the land of Israel. He was very aware of where he came from. Hence, he said, <b>“I know where I came from.”</b> When a man dies, he does not know where he will be born again. But when Jesus dies, he is very aware of where he will go. That is the difference between Jesus and an ordinary man. One must get a question of what was unique in Jesus. If one knows the answer to this question, then that becomes the best wisdom. It becomes known that Jesus is not an ordinary man and was born for a particular cause. 
-    <br><br>
-    One who had a reason before birth and is born for that cause is called ‘born for a cause.’ No man has a purpose before birth and will be born for that cause. But God is born with the purpose –<b> Establishing dharmas on the earth</b>. Apart from God, none 
-    can establish dharmas on earth. God is forever in the same state. He has no births. He will not be born. Hence, his memory will remain the same. God comes on the earth as a man in disguise, teaches dharmas, and goes. As God is eternal, God has no birth and death. Although God comes in disguise as a man, he is not born after dying somewhere. When a man dies, the mind is destroyed. But God did not die and was not born somewhere. He comes in a unique disguise as a man and does what he wants to do and then goes to the place where he came from. Hence, he said, <b>“I know where I am going”</b> in the verse. 
-    <br><br>
-    Humans do not know where and how God is. When God comes as a man, no one knows where he is coming from. Although God is born, he is not born like a human being. Like everyone else, he is not born again at some place after dying some other place. The omnipresent God, who is also in the womb, changes his form and appears to be born in a baby's form. Can one say where God came from when he also exists where he is born? Humans, who do not know that God is everywhere, are not aware of where Jesus came from. They also do not know where he goes after he changes his form. Hence, he said, <b>“You have no idea where I come from or where I am going”</b> in the verse. 
-
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 108,
-      verse: `<b>(30)	The Gospel of John, 8th chapter, 19th verse.</b>    
-    `, meaning: `<b> 
-        
-    (19) Then they asked him, “Where is your father?” “You do not know me or my Father,” Jesus replied. “If you knew me, you would know my Father also.”     </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Does God exist? If exists, how is he? Where is he? If you know the answers to these questions, you will know who the Father is and who the Son is. There is only one God, but we should know where the Son came from. The words Father and Son are used many times in the Bible. One should understand that the Father means God. <b>In the Bible, the word the Father was used to say God. God is called Allah in the Quran. In the Bhagavad-Gita, God is called Paramatma.</b> All these different words mean God, although the languages are different. The sense of God should be seen at the word the Father. When Jesus was on earth, the Pharisees asked him where your father was. <b>“You did not see me or my Father,”</b> Jesus replied. The Pharisees did not ask about Jesus, although he was in front of them. They wanted to know who his physical father was. They did not ask with the sense that Jesus’ Father was God. They may have been surprised when Jesus said directly about him and his Father. They thought they were seeing Jesus in person. They asked him to find out who his unknown father was. Then Jesus said, <b>“You did not see me or my Father.”</b> We need to know the meaning of that word. 
-    <br><br>
-    Jesus’ Father is the Holy Spirit. Atma, the Holy Spirit's Son, is in all the bodies and operates all the bodies. The Holy Spirit (the Father) and the Atma (the Son) are always there. The Holy Spirit, Paramatma, is always there. Paramatma exists since before creation. Atma, the Holy Spirit's Son, is always in the bodies from after creation. 
-    <br><br>
-    Other than the permanent Son Atma, God (the Holy Spirit) has another Son called <b>“the only begotten Son”,</b> who comes upon the earth occasionally. There are important differences between the permanent Son Atma and the temporary Son, “the only begotten Son.” For example, When Atma comes with a normal human body, the body has a separate Jivatma. Although the entire body belongs to Atma and Atma is the body's head, Jivatma also resides with Atma in the body and thinks that the body is mine. If the temporary Son, the only begotten Son comes upon the earth with the body, there is no Jivatma in that body. In an ordinary man’s body, God and Atma are different. In that body, Atma does everything task and God does not work. But in the only begotten Son’s body, Paramatma (God) resides as Atma and does tasks in Atma’s form. Because there is no Jivatma in the only begotten Son’s body, the one who acts as Atma also acts as Jivatma. Although the one who is Atma in the only begotten Son’s body is God, he pretends to be Jivatma. <b>The one who came in disguise as the only begotten Son is the Holy Spirit (God). That God is acting like Jivatma.</b>There are many differences between God’s permanent Son and the temporary Son. 
-    <br><br>
-    It can be said that most people do not know that God has a permanent Son and the only begotten Son who comes occasionally. By acquiring wisdom, one can know Atma’s existence and Atma’s wisdom, but it is hard to know the only begotten Son. It is difficult to recognize the only begotten Son among so many humans. Therefore, no one identified the only begotten Son who came in Treta yuga, Dvapara yuga, and Kali yuga. Although Jesus was the only begotten Son of God in the Kali yuga, people could not recognize him as the second Son of God. Although he said he was the Son of God, people could not recognize him and subjected him to many insults and torture. People could not identify those who came in Dvapara yuga and Kali yuga as the Son of God, although they said, “I am the Son of God.” I fear to say the one who came in Treta yuga as the Son of God. That day God himself came in disguise as the Son and told the wisdom on earth. Even though he was known as a Brahma-gnani and taught wisdom, I am also afraid to say that he was Bhagavan because he was portrayed as an evil man among the people. Yet, I do not fear saying, <b>“Ravana Brahma is the only begotten Son. “</b> 
-    <br><br>
-    In the Dvapara yuga, Krishna came as Bhagavan. Both Bhagavan and the only begotten Son are the same. Because Krishna was portrayed as cunning, many do not know about his greatness until today. Although God came in disguise as a man and told divine dharmas, human beings did not look at the wisdom he taught but mostly focused on how he behaved during the time. Only a few in millions recognized his wisdom and say that Krishna is God, but all the others say bad about him. Those who did not know Krishna’s incarnation in the Dvapara yuga could not recognize Jesus as the Son of God in the Kali yuga. Because Krishna and Jesus thought that humans did not recognize them hence may not recognize the wisdom they teach, they both said in the context of their words, <b>"We are Gods,"</b> believing that humans can recognize their wisdom by saying so. Similarly, Jesus said, <b>“You do not know me or myFather,”</b> with the intention that humans would identify that God and Jesus are the same. 
-    Those who say that they have devotion on God speak sarcastically when they see others who have more wisdom than themselves. The Pharisees spoke to Jesus with the same feeling. Knowing that Jesus was born to Mary without a father, they asked, "Where is your father?" Jesus understood that they were asking with a sense of ridicule and not with a sense of devotion. Jesus replied with a mind-blowing answer, <b>“You do not know me or my Father.”</b> Whoever understands the word correctly will know that visible Jesus and invisible God are the same. He also said, <b>“If you knew me, you would know my Father also.”</b> It can be said that those who heard it did not understand what he said. The reason is that if they had realized his word, they would have understood who Jesus was on that day. They would have known that he was not an ordinary man. They treated him like an ordinary man, although Jesus said that word. It seems they knew nothing special about Jesus. 
-
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 109,
-      verse: `  <b>(31)	The Gospel of John, 8th chapter, 21st verse.</b>   
-    `, meaning: ` <b> 
-        
-    (21) Once more Jesus said to them, “I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.”       </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus said many words to let people know about him. The above word is one of those words. <b>“I am going away, and you will look for me. Where I go, you cannot come,”</b> Jesus said to the people. It seems there is no greatness in this verse. When a man goes somewhere without informing, we do not know where he has gone. Although we search, we do not know where he will be. When we do not know, it means that we cannot go where he went. You may ask that this is the most common thing and what is wisdom in it. Let us understand it from another angle. At a young age, we used to play the game – thief, and police. In this game, the thief hides somewhere. After a couple of minutes later, the police start searching and should catch the thief. To catch the thief, the police must go to the place where the thief is hiding. If the police cannot go to the place where the thief is hiding, they cannot find the thief even after searching for in other places. When I was ten, we used to play this game. One day when we were playing, I was a thief, and the rest were police. Before hiding, I said “I am going, and you cannot find me.” They said, “We will find you in ten minutes.” Then I said, “Where I go, you cannot come,” and went to hide from them. 
-    <br><br>
-    Two minutes later, the police chase started. But they could not find me until half an hour. Although they searched all the places, they did not find me. They could not come to the place where I was hiding. I was sitting in the pooja room in the home that day, and I closed the room’s doors. Those who played as police searched everywhere. They also came into the house where I was hiding. But they did not come to the pooja room. They did not search in the pooja room because the doors were closed. As the above verse is equal to the thief and the police game, I thought that there is nothing special in it. Then, I thought a bit about why Jesus said a word without greatness or wisdom in it. The word <b>“You will die in your sin”</b> appeared special to me in the verse. Although it was like a thief and a police game, I came to know that it has great wisdom. Then I learned about this word comprehensively. Here is the meaning of the word. 
-    <br><br>
-    Jesus was visible to all on earth for some time. Then no one believed Jesus. Yet Jesus showed many great things among men to prove that he was not an ordinary man. To show that he could forgive sins, Jesus gave vision to the blind and walk to the lame. He cured leprosy. He made the dead come to life. Yet, people could not recognize his greatness. People who did not recognize Jesus would begin to search for him to get relief for their suffering after he has gone. Then there is no benefit of looking for Jesus when he is not visible to anyone. Jesus forgave their sins, although no one asked. Many people’s karma was cured because of it. After he is gone, people will still search for Jesus to cure their sins, but he will not appear. Hence, their sins cannot be forgiven, and they die in their sin. People will die because of the sins they suffer. They will not be able to do away with their sins through Jesus even in the next life. Because they do not know where Jesus went. Even if those who did not recognize Jesus when he was among the people will later say that Jesus is great and God, it would not benefit them and their sins will not be forgiven, said in the verse. In advance, Jesus had told all these things to the people. When Jesus said, <b>“I am going away,”</b> no one asked him to stay for a while with us. Additionally, people shouted that he should not be among them and made him die on the cross. 
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 110,
-      verse: `<b> (32)	The Gospel of John, 8th chapter, verses 23 and 24.</b>    
-    `, meaning: `<b> 
-        
-    (23) But he continued, “You are from below; I am from above. You are of this world; I am not of this world.<br><br>
-    (24) I told you that you would die in your sins; if you do not believe that I am he, you will indeed die in your sins.”    </b>                                       
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    In these two verses, the 24th verse seems to be like 21st verse. The 23rd verse is unique. Jesus gave a second chance to the people to know that he was not an ordinary man and said, “You are from below; I am from above. You are of this world; I am not of this world.” This verse is divided into two parts. The first one is, “You are from below; I am from above.” The second one is, “You are of this world; I am not of this world.” Based on the first part of the verse, “You are from below; I am from above,” there were two kinds of people since Kruta Yuga – the below (lower) people and the above (upper) people. There is a reason behind how these two names – the lower and the upper, came into existence. This is how people are divided into the lower and the upper. 
-    <br><br>
-    The age of Kruta Yuga is 1,728,000 years. During the first thousand years of Kruta Yuga, two tribes - gnanis and the ignorant, formed in the people. There were very few gnanis on earth during that time. The ignorant were innumerable. In that yuga, the world population was only about 30millions. The Indian population was not more than 300,000. The Sun came upon the earth and told divine wisdom to Manu. Two or three persons knew the wisdom from Manu. All other people used to respect these gnanis and learn the divine wisdom from them. In those days, people used to respect gnanis very much. They made gnanis sit on the upper seat and were sitting on the floor, listening to wisdom. It was a custom for people to give the upper seat to gurus and sat down on the floor. In this way, people used to sit on the floor, and the 
-    teachers used to sit on the upper seat. Based on this, Jesus said, “You are from below; I am from above.” It means, <b>“I am your teacher (Guru) to you all.” </b>
-    <br><br>
-    It was common for the teachers to sit on the upper seat and the people, who wanted to know wisdom, to sit on the floor. The teachers used to say to the people that you were below us and we were above you. The teachers who were teaching divine wisdom used to be called the teachers of Brahma Vidya. Brahma means great. Brahma Vidya means great teaching. The teachers who knew Brahma Vidya were called Brahmins. In those days, Brahmins mean teachers. There were two or three teachers in entire India. Those three were called Brahmins. Those Brahmins used to call the rest of the people ‘below (lower) people’. All those who did not know the wisdom were called ‘below people.’ That way, the entire country used to have ‘below people.’ After some time, the caste system began based on this. When the caste system started, those who knew Brahma Vidya began to say, “We are Brahmins.” Similarly, those who were ignorant were called “You are below to us (Maa-diguvavaru).” Thus, two tribes - <b>the upper (Eguvavaru) and the lower (Diguvavaru)</b> - formed. Although the word 'lower (Maadiguva vaaru)' exists even today, people do not know its meaning. Over a period, the word ‘Maadiguva vaaru” transformed into Maadiga caste (scheduled caste). It is now counted as lower caste. 
-    <br><br>
-    When the caste system started, there were two castes – the Brahmins and the Madiga (Scheduled caste). All those ignorant who do not know wisdom today should be called the Madiga. But even those who do not know wisdom were divided into many castes and whoever leftover at the end of the division is still called the Madiga. Going back to history, the Madiga was not a caste. It was just the name given to the ignorant by two or three teachers. According to this, people belonging to all castes who do not know wisdom can be called the Madiga. People are divided into castes because of unknown history. It is injustice and ignorance to label the rest of the people as the Madiga. Over 2017 years ago, Jesus also used the words upper (Eguvavaru) and lower (Diguvavaru). He said, <b>“You are from below; I am from above”</b> to mean the ignorant. One should understand that the words <b>“Upper (Eguvavaru) and Lower (Diguvavaru)”</b> are used for the sake of saying, “I am gnani; you are ignorant.” 
-    <br><br>
-    Jesus’ second word is, “You are of this world; I am not of this world.” Loka (world) means having experiences. There are two tribes, according to the experiences a person will experience. Those with experiences belong to this world, and those without experiences do not belong to this world. Ordinary people enjoy every experience in the world. Therefore, ordinary people are the residents of this world. Jesus, who does not have any experience, said that he was not of this world. Although he is like a man, he does not have any experiences like a man. Even though Jesus is in the human body, he is not Jivatma as in others. When he is not a Jivatma, there is no karma. Hence, he does not have experience based on karma. Paramatma specially sent Jesus. In other words, the Holy Spirit came in disguise as Jesus. According to spiritual dharma, we should not say like that. Paramatma specially created and sent Jesus. Therefore, Jesus should be called the Son of the Holy Spirit. As Jesus is not a Jivatma, it can be said that he does not have experiences. If Jesus were Jivatma, he should not be called the Son of the Holy Spirit. Jivatma is the Son of Atma. Atma’s Father is the Holy 
-    Spirit. Hence, Jivatma becomes the grandson of the Holy Spirit. Jesus is called God's son, because he is sent from God by God. Jesus was also explicitly called the only begotten Son. Aatma is the Son of the Holy Spirit. The only begotten Son is the temporary Son who descends upon the earth in need. Therefore, the temporary Son becomes the Son of the Holy Spirit like Atma and will not become a grandson like Jivatma. Jivatma gets experiences. Hence Jivatma is from this world that has experiences. Jesus, as Atma, who does not have experiences is not of this world. He is from Paraloka. 
-    <br><br>
-    Jesus gave the people a second chance to know that he was an extraordinary man and told these verses (John 8:23,24). But humans could not recognize Jesus’ greatness. They counted him as an ordinary man. Therefore, they cannot get rid of their sins by Jesus or by Jesus’ wisdom. Jesus, the Son of the Holy Spirit, came into the midst of men and told many words to recognize him. Jesus told the second time that those who could not find him and believe in him would die in their sin. He gave the first opportunity when he said John 8:21. He gave the second chance when he said John 8:23 and 8:24. Then he gave a third chance and said the last word. Jesus told the people three times three verses to identify him. He warned that the sins of those who have not yet identified him would not be forgiven. Let us see what he said the third time in the following verse. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 111,
-      verse: `<b>(33)	The Gospel of John, 8th chapter, 24th verse.</b>    
-    `, meaning: `<b>  
-    (24) I told you that you would die in your sins; if you do not believe that I am he, you will indeed die in your sins.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    It becomes known that this verse gave the third chance to know who Jesus was. In this verse, Jesus said to the public directly who he was. He said, <b>“Those, who do not believe that I am the Holy Spirit and the Creator, die in their sin.”</b> Jesus himself declared who he was. At first, he said, <b>“I will go away; You can’t come to the place where I have gone”</b> to give some opportunity to know him. <b>“You are of this world; I am not of this world,”</b> said in the second verse. He gave some more detail to understand who he was. It can be known that Jesus is the Holy Spirit with the second verse. In the third verse, he said, <b>“One, who does not believe that I am he, is not able to get out of sin”</b> to give much more clarity to understand him. In the third verse, Jesus declared that <b>“I am God.”</b> Yet, people recognized Jesus as an ordinary man. They could not realize that he was God. Some, however, were surprised at Jesus' words. They did not believe inside but asked him who you were. Jesus said in three verses (John 8:21,22,23) to recognize that he was not an ordinary man. However, they did not realize and asked, “Who are you?” He replied from the first verse in these three verses, <b>“Just what I have been telling you from the beginning.” </b>
+  Although Jesus was God incarnate, He stated, <b>“You did not believe the one He sent”</b> in this verse without revealing His true identity. He expressed that people lacked faith in the man sent by God, stating, “God’s word did not live in you.” If there is no faith in the man sent by God, why does God’s word not resonate with humans? The reason lies in the disbelief in the divine messenger, who is God Himself and the bearer of wisdom. Consequently, God’s word fails to take root in those who lack faith in Him.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 102,
+verse: ` <b>(24)	The Gospel of John, 6th chapter, 25th, 26th, 27th verses.</b>`,
+meaning: ` <b>
+(25) When they found Him on the other side of the lake, they asked Him, “Rabbi, when did you get here?”
 <br><br>
-In addition, he said, “He who sent me is trustworthy, and what I have heard from him I tell the world.” But people did not realize that he talked about his Father (the Holy Spirit). Although he said so much, people did not recognize Jesus. Some 
-treated him as an ordinary man, and some treated him worse than an ordinary man. Jesus said another thing below about him with those persons. 
-
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 112,
-      verse: ` <b>(34)	The Gospel of John, 8th chapter, 28th verse.</b>   
-    `, meaning: ` <b> 
-    (28) So, Jesus said, “When you have lifted up the Son of Man, then you will know that I am he and that I do nothing on my own but speak just what the Father has taught me.     </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    There is some confusion in this verse with the word <b>“You have lifted up the Son of Man.”</b> One may not understand the word “When you have lifted up the Son of Man.” To understand this word correctly, it should be read as “When people lift Jesus over the head” instead of “When you have lifted up Jesus.” Some may ask, “What is it that people lift Jesus over the head?” The answer is this. It means that <b>Jesus should be understood with the head</b> that is over our body. One who understands Jesus with the <b>intellect (Buddhi)</b> will know that Jesus is the Holy Spirit. Furthermore, it is revealed in this verse that the divine wisdom is being taught by Jesus is not his own, and he is teaching as directed by the Holy Spirit. 
-    <br><br>
-    Instead of saying that humans should understand Jesus with the buddhi in the head, it is said that people have lifted Jesus. It becomes known that Jesus is Paramatma (the Holy Spirit) if one understands him with the <b>buddhi</b> that is up in the body. As long as people have not understood that Jesus is God, <b>"the sins of the people are not forgiven, and they die in their sin,"</b> said in the previous three verses. If they understand as Jesus said, it becomes known that Jesus is God. The secret becomes revealed that the Holy Spirit incarnates as a man to teach his wisdom. When it is learned that Jesus is God, some may think that Jesus himself is saying all the wisdom that Jesus says. However, it is not possible to say that as some people think. The reason is that after saying, <b>“I am he,”</b> he said another word. Here is what he said. 
-    <br><br>
-    He said, <b>“I do nothing on my own but speak just what the Father has taught me.”</b> Because of it, it seems that the Father and Jesus are different. A lot of people may get a question why he said in two ways. The answer is that Jesus was a man. God is in the form of power and invisible. The invisible God came as a man. If a man perceives the truth with buddhi that God came as man, he will know that the Holy Spirit and Jesus are the same. But when God comes as man, he should not say “I am God” as per spiritual law. One can know that the visible person is God. However, the known truth should not be revealed openly. Because according to spiritual law, one can perceive when God incarnated as man, but should not reveal. According to the rule, Jesus also said likewise. Therefore, without violating spiritual law, he said, <b>“I do nothing on my own but speak just what the Father has taught me.” </b>
-    <br><br>
-    Jesus said, “I am saying as the Father said.” Both words – I do nothing on my own, and God does everything – mean the same. When people know that Jesus is the Holy Spirit, their sins will be forgiven. Although it is part of wisdom to know that Jesus is the Holy Spirit, it is spiritually wrong to say that the Holy Spirit is Jesus. 
-    Hence, Jesus himself said, <b>“Until you know that I am God, your sins will not be forgiven,”</b> and <b>“I am he”</b> so that humans would know who Jesus was. According to the spiritual law, he finally said that I was doing everything my Father told me to do. Therefore, one should not assume that Jesus said in two ways in the verse. Although it is said in the verse that ‘I am God’ and ‘I am doing what God says,’ one should know that both convey the same meaning. If this is not understood, one may think that Jesus spoke contradictory things. One who knows wisdom can know that God comes as a man. But he should not reveal that a particular person is God. Hence, Jesus also said, ‘I am God’ in a word, and ‘My Father is God’ in another word. Both are true. Additionally, Jesus said the following with the people. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 113,
-      verse: `<b>(35)	The Gospel of John, 8th chapter, 29th verse.</b>    
-    `, meaning: ` <b> 
-    (29) The one who sent me is with me; he has not left me alone, for I always do what pleases him.        </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    This verse is said to indicate that Jesus and the Holy Spirit are one and the same. To support it, Jesus said, “The one who sent me is with me.” It means that the God who sent Jesus is in him, and the Holy Spirit and Jesus are the same. There is something called ‘interest’ in everyone’s body. Jesus said that he would always do things according to God’s will. In a different way he said that God’s will is working in me. It also means that God’s will is working in Jesus. This is a testimony to the fact that God is in Jesus. Jesus also said the Holy Spirit had not left him alone. It is as if Jesus said that God was with me, and God was me. Jesus himself spoke these words to recognize him as God. Although God came as ‘Jesus’ in the Kali Yuga, people did not recognize him. Therefore, it became necessary for Jesus to say these words to recognize his greatness; otherwise, people do not grasp his wisdom. When Jesus said these verses, some of them believed him.
-
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 114,
-      verse: ` <b> (36)	The Gospel of John, 8th chapter, 53rd and 54th verses.</b>    
-    `, meaning: ` <b> 
-    (53) Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?”<br><br>
-    (54) Jesus replied, “If I glorify myself, my glory means nothing. My Father, whom you claim as your God, is the one who glorifies me.  </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Although Jesus said in detail to people to understand him, they do not have the power to understand him and hence asked him, “Who are you?” Jesus replied, “If I glorify myself, my glory means nothing”. Jesus already said about himself five times. If he says more than what has already been said, then his saying seems false. Hence, Jesus said,” If I say differently one more time from what has been said so far, My Father, whom you claim as your God, glorifies me.” Indeed, Jesus’ Father, whom we claim as God, and Jesus are the same. But, according to spiritual rule, one should not say that I am God. Hence Jesus said, “I am God” to make him understand him, but
-later, he said that God was his Father. “Just because I told you two things differently, you should not get confused. You should understand me with truth,” said Jesus.    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 115,
-      verse: `<b> (37)	The Gospel of John, 8th chapter, 55th verse. </b>    
-    `, meaning: `<b> 
-        
-    (55) Though you do not know him, I know him. If I said I did not, I would be a liar like you, but I do know him and obey his word.     </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus said, “You do not know God, I know God.” Because everyone counted Jesus as ordinary man, Jesus had to say like that. Some got a question, “When Jesus and other people are humans, how come Jesus know God when others do not know God?” If we answer that question, we can say the following. Both Jesus and the others have a similar visible body. It is reasonable to ask how come Jesus knows God when he is like other humans. What we should understand here is that Jesus said since the beginning, <b>“I am he”</b> three times in three different verses. According to the method he stated, Jesus does not have Jivatma in his body although he is a man. There is only one soul, the Holy Spirit. The Holy Spirit, posing as Atma, doing all things in his body. No one knows who Jivatma and who Atma in the body. Because people thought that the Atma is the Jivatma hence, they assumed that Jesus did not know Paramatma. Paramatma himself is in Jesus’ body; hence, it can be said that God is known to him. Because the Holy Spirit himself is consciousness in Jesus’ body, Jesus need not know the Holy Spirit separately. Jesus has God as his consciousness. Humans have the mind as consciousness in their bodies, but they do not have either Atma’s consciousness or Paramatma’s consciousness. They do not know God because they do not have Paramatma’s consciousness. Jesus knows God because he contains God as his consciousness. 
+(26) Jesus answered, “Very truly I tell you, you are looking for me, not because you saw the signs I performed but because you ate the loaves and had your fill.
 <br><br>
-If Jesus says, “I do not know God,” it can be said that Jesus, like man, does not contain God’s consciousness. If Jesus says so, then it becomes as if Jesus was telling lies. Hence, he said “If I said I did not know God, I would be a liar like you.” As the Holy Spirit is in Jesus’ body, there is no pair of souls– Atma and Jivatma. Both Atma, which performs the work, and Jivatma, which experiences, are not in Jesus’ body. As the Holy Spirit is the only one in Jesus’ body, he himself is saying every word. Hence Jesus said, “I am conscious of him. I know him, and I obey his word.” Although Jesus spoke like everyone else, those words came from the Holy Spirit. Though he appeared to be an ordinary man, there was nothing unknown to him. So, when Jesus said about Abraham, who had died a long time ago, people wondered and asked a question. See it below. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 116,
-      verse: ` <b>(38)	The Gospel of John, 8th chapter, 57th and 58th verses.</b>    
-    `, meaning: `<b> 
-    (57) “You are not yet fifty years old,” they said to him, “and you have seen Abraham!”..<br><br>
-    (58) “Very truly I tell you,” Jesus answered, “before Abraham was born, I am!”   </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When Jesus said these words, he completed 32 years of age and entered 33. Abraham lived a long time ago and was like great-grandfather to all. When Jesus spoke of Abraham, the Jews asked him how he was talking about a man who had been born and died long ago. Jesus said, “I have been before Abraham was born.” This seemed like a complete lie to the Jews around him. Everyone knows that Jesus belonged to this generation, and Abraham belonged to another generation. Therefore, his statement is unbelievable. What Jesus said seemed untrue according to the Jews around him. According to indirect truth, what Jesus said was the absolute truth. 
-    <br><br>
-    Let us see how it is true. Jesus’ body was born 32 years ago. But there is only the Holy Spirit in his body, not Jivatma. If Jivatma were in his body, he would not remember anything that happened in his previous births. Jivatma would not have remembered what happened many years ago. Paramatma is in Jesus’ body and is eternal. He has been existing since before the universe was created. He is the one who created the universe. Atma created all living beings with the command of Paramatma. Abraham was once a man, was born, raised, lived, and died. The Holy Spirit watched as a witness. Atma gave life to Abraham. Paramatma, who is God to everything, watched it as a witness. <b>God is witness; Atma is the worker; Jivatma experiences life.</b> Although Abraham was born by Atma, God, who was watching as a witness, knows all about Abraham. Furthermore, Paramatma completely knows how many times Abraham was born earlier. He also knows how many births Abraham got after that. Hence Jesus said, “I have been before Abraham was born.” 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 117,
-      verse: `<b>(39)	The Gospel of John, 9th chapter, 39th verse.</b>    
-    `, meaning: ` <b> 
-    (39) Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”      </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When some people said that Jesus was sinner, the person whose karma was removed by Jesus heard those words and said this to them. Look at the information he told them below. 
-    <br><br>
-    (John 9:25-38) He replied, <b>“Whether he is a sinner or not, I don’t know. One thing I do know. I was blind but now I see!”.</b> Then they asked him, <b>“What did he do to you? How did he open your eyes?”</b> He answered, <b>“I have told you already and you did not listen. Why do you want to hear it again? Do you want to become his disciples too?”</b> Then they hurled insults at him and said, <b>“You are this fellow’s disciple! We are disciples of Moses! We know that God spoke to Moses, but as for this fellow, we don’t even know where he came from.”.</b> The man answered, <b>“Now that is remarkable! You do not know where he came from, yet he opened my eyes. We know that God does not listen to sinners. He listens to the godly person who does his will. Nobody has ever heard of opening the eyes of a man born blind. If this man were not from God, he could do nothing.”</b> To this they replied, <b>“You were steeped in sin at birth; how dare you lecture us!” </b>And they threw him out. Jesus heard that they had thrown him out, and when he found him, he said, <b>“Do you believe in the Son of Man?” “Who is he, sir?”</b> the man asked. <b>“Tell me so that I may believe in him.”</b> Jesus said, <b>“You have now seen him; in fact, he is the 
-    one speaking with you.”</b> Then the man said, “Lord, I believe,” and he worshiped him. Then Jesus said, <b>“For judgment I have come into this world, so that the blind will see and those who see will become blind.”</b> is easy to understand why Jesus said this verse based on what happened earlier. 
-    <br><br>
-    The purpose of Jesus’ statement is that <b>those who have faith in God can see me.</b> Although they do not know who I am, the faith in God tells them who I am. Although those who do not believe in God look at my physical body and speak to me every day, they do not know who I am. Therefore, Jesus said, “I had come into the world to make the unbelievers not to know that I am God and to make the believers know that I am God.” Although God comes as a man and stand next to and talk to the unbeliever, the unbeliever has so much ignorant blindness that he cannot recognize the Son of God. It means that the unbeliever has blindness called ignorance. Hence, they do not know God, who has come as a man. When Jesus said, <b>“A devotee when sees God’s incarnation (the Son of God), may not know that the person is God based on the outward appearance but know based on the intuition,”</b> some people who were with him heard him say this and asked, “What? Are we blind too? We are seeing you now.” Jesus replied to them like this. 
-    
+(27) Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. For on Him God the Father has placed His seal of approval.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This verse emphasizes two types of food: Perishable food and Imperishable food. Many humans seek perishable food, as illustrated when a crowd approached Jesus, asking, “When did you come here?” Jesus responded, <b>“You are not seeking God’s wisdom; you are seeking me, hoping for loaves of bread. ”</b> He further advised them, “Do not toil for perishable food.” Everyday food, which is consumed, digested, and destroyed within three hours, falls into the category of perishable food. Digestion, in essence, is a process of destruction, where all ingested food is broken down in the digestive tract and transformed into waste, much like burning wood into ashes.
 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 118,
-      verse: `<b>(40)	The Gospel of John, 9th chapter, 41st verse.</b>    
-    `, meaning: ` <b> 
-        
-    (41) Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.   </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    In verse 39 above, Jesus described the difference between those who have faith and those who do not have. Jesus said that any blind who has divine faith could see him, and the unbelievers could see him with eyes but could not perceive who he is. But Jesus said in detail in the 41st verse about those who spoke with <b>worldly sense.</b> A person with worldly sense says, “I am seeing.” Hence, the person gets the karma in the task. God gave man the sight to see his wisdom, but man can see or cannot see. But some use the vision to know God. Some are unable to utilize the sight to know God. They became blind, although they have eyes. When it comes to mundane things, every man is blind in the world. In fact, no one is doing any worldly things. No one has any sight or hearing. Although man does not have anything, he says, “I am seeing” as if he had sight. Hence, the man gets the sin in the deed. Although man is blind, he gets the sin when he thinks he is seeing. Jesus said that when a man knows his blindness and realizes <b>the truth</b> that he has not seen anything, he will have no sin. i.e., When man becomes blind in the worldly affairs, he will not get any sin. 
-    <br><br>
-    Those who do not know the divine wisdom do not know that they do not have the sight in mundane things. It can be said that they did not understand Jesus’ word because they do not know that God has given sight only to know God related things. To understand the verse, the Jiva in every man should first know whether he is blind or has sight in the body. As a matter of fact, Jiva in everyone’s body is utterly blind in all things. Every Jiva thinks that this is my body, and I am doing all the things in the body. There is no independence for Jivatma in the body. The owner and the head of the body is <b>Atma</b>. Atma is always working in the body. In fact, Jiva is not doing any 
-    task in the body. Jiva does not have sight and hearing. He is blind, deaf, and disabled in all ways. As Jivatma resides next to the buddhi in the body, every information that arrives at the buddhi will be known to him. Jiva cannot know anything on his own. He thinks that he himself knows what he knows through the <b>buddhi.</b> Jiva thinks that he has seen everything, although he himself has not seen anything. Similarly, Atma is doing everything in the body, but Jiva thinks that he is doing all those things. Jiva must experience the sin that comes from that deed when he confesses that he has done karma of the task. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 119,
-      verse: `<b>(41)	The Gospel of John, 10th chapter, 18th verse.</b>    
-    `, meaning: `<b> 
-        
-    (18) No one takes life from me, but I lay it down of my own accord. I have authority to lay it down and authority to take it up again. This command I received from my Father.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    No one knows when an ordinary person leaves life. If someone dies, he will not return to life. This is what we see in every death. Jiva also leaves the body in death. Most people here do not know that the <b>Jiva is separate from life</b> in a man. Many people think that Jiva and life are the same. <b>“No one takes life from me,”</b> said in the verse. It becomes known that Jesus is different, and his life is different. Although everyone has his life as in Jesus’ body, they will not be able to put their life aside, nor take it up again. In the body, there are many internal organs, life, buddhi, and mind. Anything inside the body is under the control of Atma, not under the control of man. Hence, Atma decides whether to set man’s life aside or send it where Atma wants. Atma does this as its task. <b>Jiva</b> has no relation to the life in his body. But, <b>Atma</b> has a relationship with life in the body. 
-    <br><br>
-    Jesus is not an ordinary Jiva. He is Atma. Therefore, he can put his life aside. No one can take his life from him. Therefore, it becomes known that <b>Jesus does not die in anyone's hands</b>. If Jesus dies, he himself will have to lay aside his life. He can bring back the life that is put aside in the body. No Jiva can do that. Only Atma can do this work. The Holy Spirit gave authority to Atma to do this work. Hence, <b>“No one takes life from me, but I lay it down of my own accord. I have authority to lay it down and authority to take it up again. This command I received from my Father,”</b> Jesus said. As foretold in this way, when Jesus was crucified, he made his life (prana vayu or breathing) hidden in the body and appeared dead to the people. Jesus, who appeared dead on Friday evening, came out alive in the early morning of Sunday. In this way, Paramatma gave the authority to Jesus to lay his life down and take it back. Atma has the authority to take others' life and send it to the second birth. Because Jesus is Atma, he is empowered to put aside his life and die and come back to life in the same body. That authority was given to Atma by his Father, the Holy Spirit. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 120,
-      verse: ` <b> (42)	The Gospel of John, 10th chapter, 30th verse.</b>    
-    `, meaning: ` <b> 
-    (30) I and the Father are one.    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Atma is the Father of Jiva. Similarly, Paramatma is responsible for Atma’s birth. Therefore, Atma is the Father of man, and the Father of Atma is Paramatma. As Jesus is Atma, he is the Son of God. If a son <b>always pays attention to his father,</b> then it can be said that the son is united with the father. Here Jesus said, <b>“I and my Father are one,”</b> because he focused on his Father, the Holy Spirit. 
-  
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 121,
-      verse: ` <b>(43)	The Gospel of John, 11th chapter, 25th verse.</b>    
-    `, meaning: ` <b> 
-    (25) Jesus said to her, “I am the resurrection and the life. The one who believes in me will live, even though they die.”
-    </b>                                      
-    `, pageText: ` 
-        <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-        Here resurrection means birth. Here, life means getting liberated (moksha) without birth. Because both birth and moksha are Atma, Jesus said, “The one who believes in me will not be born after death, attaining <b>moksha</b>.”
-        </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 122,
-      verse: `<b>(44)	The Gospel of John, 11th chapter, 26th verse.</b>    
-    `, meaning: ` <b> 
-    (26) Whoever lives by believing in me will never die.       </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The one who has attained moksha once will be in eternal life forever. He will never die. Therefore, Jesus said, “Everyone exercising faith in God will attain moksha and never die again.”
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 123,
-      verse: `<b>(45)	The Gospel of John, 12th chapter, 25th verse.</b>    
-    `, meaning: ` <b> 
-    (25) Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.      </b>                                       
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    “Anyone who loves their life will lose it,” said in the verse. Here is the explanation for that. Man (Jiva) lives with life. The one who loves his life in this world (ihaloka) will lose his life because he cannot live forever on the earth. Man is born on earth and live for only a few years. He needs breathing (Prana Vayu) in his body to live life. When he dies, his breathing stops. Once the final breath leaves the body and merges with outside air, it will never return. When a man leaves the first birth and goes to the second birth, he gets the new breath (life) but never gets back the old breath (life). Hence, anyone who wants to live in the world and loves their life will lose it. Everyone loves their life more than anything else. That is why everyone wants to live for some more time but does not want to die. Therefore, it is natural for everyone to love their<b> life. </b>
-    <br><br>
-    Anyone who does not want to live in this world and desires moksha hates their own life. It means that he does not have any<b> interest in his life</b>. Such a person leaves 
-    the life that is ruined in every birth and attains moksha and eternal life. It means that he will receive a deathless life. Jesus said in the verse that such a person will always protect his life. Anyone who has attained moksha does not have any special life like an ordinary person, but it said in the verse that he has <b>eternal life</b> for us to understand. It should be known that anyone who attains moksha will be in the same state of eternity forever without birth and death. 
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 124,
-      verse: `<b>(46)	The Gospel of John, 12th chapter, 40th verse.</b>    
-    `, meaning: ` <b> 
-    (40) He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn—and I would heal them.    </b>                                      
-    `, pageText: ` 
-          <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-          When God came as a man and told the people the wisdom they needed, Atma, who is God in the body, blinded their eyes and hardened their hearts so that they can neither see with their eyes, nor understand with their hearts, nor rid of karma which is the cause for their sufferings. In this verse, what is important to note is that Atma created by the Holy Spirit is in everyone's body, running everyone. The Holy Spirit, the Creator, is born as a man to teach wisdom, even though Atma is like the Son of the Holy Spirit. Although the born is the Holy Spirit, he is called the Son of God instead of God. According to this, Atma that is in the body becomes the Son of the Holy Spirit. The Holy Spirit’s incarnation as a human being is also called the Son of the Holy Spirit. Atma in the body blinds the ignorant man's eyes and hardens their heart so that they do not understand the Son of God’s words and cannot get rid of their karma. 
-          <br><br>
-          The Holy Spirit, the Creator, created the son Atma and kept it in man’s body. He also created another Son in the form of man to teach wisdom to ignorant people. The Atma that is in the human body is always there. The <b>Atma</b> that is in the form of a man occasionally comes on earth to teach wisdom. Although the Atma in the form of man teaches wisdom to a man who is not interested and jealous of the Holy Spirit, the Atma in the body makes his buddhi not to comprehend it. The Atma in the body makes him understand the words of the Atma that come with the body if the person has <b>interest and devotion</b> to the Holy Spirit. The <b>true wisdom</b> of the Holy Spirit is not understood unless one knows the Son, who is in the body, and the second Son, who is with the body. 
-      </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 125,
-      verse: ` <b>(47)	The Gospel of John, 12th chapter, 47th and 48th verses.</b>    
-    `, meaning: ` <b> 
-    (47) If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.    <br><br>
-    (48) There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will judge them at the last day.    `
-    , pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    It can be said that the one who said this word is the Atma that is in the form of a man. When anyone hears and neglects to comprehend the wisdom told when God 
-    comes as a man, the Atma that is in human form does not judge their next life based on bad and good karma after the death. The Atma that came as a man to teach wisdom has not come to judge humans' next life. God (Atma) who came as a man came to reveal his wisdom to the people and save them. There is someone else who judges the next life of a man who does not listen to the words of the Atma that is in human form and does not acknowledge him as great. One should know that such a judge is the Atma who is always in the body. The Atma in the human body decides the next birth on the day of death based on the wisdom told by the Atma in human form. <b>One cannot know the Holy Spirit unless he knows the work of the Atma who is in the body and the Atma (Bhagavan) who comes in the human form. </b>
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 126,
-      verse: ` <b>(48)	The Gospel of John, 12th chapter, 49th and 50th verses.</b>    
-    `, meaning: ` <b> 
-    (49) For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.<br><br>
-    (50) I know that his command leads to eternal life. So, whatever I say is just what the Father has told me to say.  </b>                                       
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    One should know that the <b>Atma (Bhagavan)</b>, who came as a human being, said this word. Jesus, who is God in the form of a human being, said this. Whenever God comes as a man, all his wisdom comes from the Holy Spirit. The one who came in human form said that the Holy Spirit made him tell the wisdom. The wisdom that the Atma (Bhagavan) tells in human form gives <b>eternal life (moksha)</b>. Although the one who came in human form is not known as God, the one who came as a human said, <b>“Whatever I say is just what the Father has told me to say,”</b> to reveal that the one who is talking is the Holy Spirit. With this, it becomes known that the one who is talking is the Holy Spirit. Yet, according to spiritual doctrine, it should be said that the Holy Spirit is the Father, the Atma who came in the human form is the Son. 
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 127,
-      verse: ` <b>(49) The Gospel of John, 14th chapter, 7th verse.</b>    
-    `, meaning: ` <b> 
-    (7) If you really know me, you will know my Father as well. From now on, you do know him and have seen him.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    This verse is similar to the one (John 12:49, 50) mentioned earlier. As I said earlier, the Father and the Son are the same, yet it should be said according to the spiritual doctrine that the Father and the Son are separate. Jesus said as I said, <b>“If you really know me, you will know my Father as well.”</b> Although God, when he came as a human, is called the Son of God, in fact, the Father himself is in the Son form. Hence <b>“If you know the Son, you know the Father,”</b> said in the verse. 
+  In contrast, the wisdom a person acquires through their ears, entering their mind in the form of words, is considered imperishable food. <b>God’s wisdom is the only food that cannot be destroyed. Reading or hearing God’s wisdom is akin to consuming imperishable food for the mind.</b> The Son of Man provides this undestroyable food, as indicated by the verse, <b>“For on Him God the Father has placed His seal of approval.”</b> ‘Seal’ means acceptance or decision. God, having decided, sent His begotten Son to share His wisdom. The term ‘seal of approval’ in the verse signifies God’s decision or consent. In the Quran, it is stated that God did not reveal His wisdom to any human being, highlighting that the one who imparts God’s wisdom is no ordinary person. God asserted that His wisdom is known only to Himself, implying that the begotten Son who comes to reveal God’s wisdom is God Himself. The phrase "the Son of God" may mislead humans, but it can be understood as ‘Son’ meaning "God’s manifestation." God, choosing not to come directly as God to speak to humans, adopts the guise of the Son. This interpretation finds support in the following verse.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 103,
+verse: `  <b>(25)	The Gospel of John, 6th chapter, 32nd verse. </b>`,
+meaning: ` <b>
+(32) Jesus said to them, “Very truly I tell you, it is not Moses who has given you the bread from paraloka, but it is my Father who gives you the true bread from paraloka. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In the mentioned verse, Jesus declared, <b>“Moses did not give you the bread of wisdom from Paraloka.”</b> This raises questions: Is the Dharma Shastra taught by Moses false? Does Moses’ Dharma Shastra lack wisdom with dharmas? If what Moses taught is not the true bread of God, why is it called Moses’ Dharma Shastra? These questions prompt various considerations. On one hand, it is false to claim that what Moses taught is not Dharma Shastra. On the other hand, in alignment with God’s statement, it can be asserted that what Moses taught is not Dharma Shastra. It is also accurate that Moses did not provide imperishable bread from Paraloka. Such questions and doubts arise, creating a need for proper answers to understand the true divine wisdom.
 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 128,
-      verse: ` <b>(50)The Gospel of John, 14th chapter, 8th and 9th verses.</b>   
-    `, meaning: ` <b> 
-    (8) Philip said, “Lord, show us the Father and that will be enough for us.”<br><br>
-    (9) Jesus answered: “Don’t you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, ‘Show us the Father’?    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    In this verse, it becomes known that the one who has a visible form is the Holy Spirit. Hence, he said, 
-    <b>“Anyone who has seen me has seen the Father.”</b>
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 129,
-      verse: `<b>(51)	The Gospel of John, 14th chapter, 10th verse.
-      </b>    
-    `, meaning: `<b> 
-    (10) Don’t you believe that I am in the Father, and that the Father is in me? The words I say to you I do not speak on my own authority. Rather, it is the Father, living in me, who is doing his work.   </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When a person is in disguise, he and his disguise are together. Thus, when a rich man is in the disguise of a beggar, both the rich and beggar are together. Being in the disguise of a beggar, the rich man appears to be a beggar. Although the beggar goes into a bazaar and begs, the man who is begging is the rich. The unseen rich man is doing his work in the form of the beggar. As the rich man is in the beggar and the beggar’s words are in the rich man, it can be said that the rich man is in the beggar, and the beggar is in the rich man, and they are together. Because the inside person is more important than the upward appearing person, all the things that are done in disguise are done by inside man. As the person who is inside is more important than the one who appears outside, it can be said that all the tasks done by the person who appears outside belong to the person who is inside. Although he appears to be a beggar, he is the rich person inside. In a way, it can be said that the beggar is, in fact, the rich person. The Holy Spirit, who is in human disguise, is important. One should know that the disguise is temporary, but the soul inside is eternal. It can be said that <b>the one who is in Jesus is the Holy Spirit.</b> Hence, Jesus said, “the Father is in me, and I am in the Father.” 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 130,
-      verse: `<b>(52)	The Gospel of John, 14th chapter, 6th verse</b>    
-    `, meaning: `<b> 
-    (6) Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
-       </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Based on the previous example, the way to know the rich man is through the beggar. If the beggar is caught, the rich man will be known. If the rich man is known, one can get the wealth of the rich man. Likewise, the way to know God is through the one who came as a human. If anyone knows the one who came as a man, they will also know God within him. If one knows God, he will get eternal life that is in God. Hence, Jesus said on one occasion that <b>I am the way and the truth and the life</b>. Jesus said, “I am the way,” which means <b>to know God through me.</b> He also said, ‘I am the truth,’ which means that <b>I am the true God</b>. Besides, he also said, <b>‘I am eternal life.’</b> The reason for saying so is that the true God in the form of Jesus said that anyone who knows me would gain paraloka (moksha) and get eternal life with no death in the paraloka. 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 131,
-      verse: ` <b>(53)	The Gospel of John, 14th chapter, 16th verse.</b>    
-    `, meaning: `<b> 
-    (16) I will ask the Father, and he will give you another Advocate to help you and be with you forever.        </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The Holy Spirit does not remain permanently in human form among the people. Occasionally when needed, he changes his appearance and comes into the people. When he came as Jesus, he had lived among the people for only 33 years. He taught wisdom for only three years out of 33 years. Even before completing three years, he left from among the people after only two years and three months. Jesus said, “I will beg my Father to send another Advocate second time, who lives longer than me and teach wisdom.” The one who is coming is the same person as the one who says he begs the one who comes. It is the same one who is coming. It is the same one who said that he would request the one who is coming. It is the same one who said he would send another Advocate (Comforter). <b>There is only one.</b> It is the same one who said, it is the same one who asked, and it is the same one who comes. If we do not know that there is only one, the one who says, the one who asks, and the one who comes look different. If we do not know that <b>there is only one who is playing all the characters,</b> then we do not know the God in front of us in human form, we do not know the God who begs, we do not know the God who comes. We should know that the one, who is begging the Father as Jesus, is the coming Comforter. The coming Advocate is the Holy Spirit. 
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 132,
-      verse: `<b>(54)	The Gospel of John, 14th chapter, 17th verse.</b>    
-    `, meaning: `<b> 
-    (17) The world cannot accept him because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.     </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-         
-    It can be said that the world (Loka) means that those who experience karma on the earth. When God comes as a human, those who experience karma do not see him and know him. Those who do not recognize him cannot receive him. They cannot recognize God, who came as a man of divine wisdom. They do not even try to know. Only you can know when God comes as a Comforter after me in human form. Because you have some wisdom through me, you will know him. He lives with you. You, who know the Comforter, will live with him, and know that he is within you as Atma.    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 133,
-      verse: `<b>(55)	The Gospel of John, 14th chapter, 20th verse.</b>    
-    `, meaning: ` <b> 
-    (20) On that day you will realize that I am in my Father, and you are in me, and I am in you.       </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Before understanding this verse, one should know the true form of God. God is divided into three parts, spreading all over the world. There is only one God, but he is divided into three souls – Jivatma, Atma, and Paramatma. <b>Jivatma is at one place in the body of all living beings, and Atma has spread the entire body of all living 
-    beings. Paramatma is spread inside and outside the body and is spread in every molecule.</b> It can be said that anyone who knows this is a complete gnani. Paramatma, the Creator, comes in human form for telling his wisdom to the people. Then he claims that he is the Son, and the Father is Paramatma. This is all said for the sake of division. But it can be said that both the Son and the Father are the same. God comes in the guise of <b>‘Son’</b> and lives on the earth for his entire life, teaching wisdom. This is the method for teaching the wisdom. According to another method, God sent out an Atma from him to produce, kill, and sustain jivas. It can be said that Atma that runs the bodies of living creatures, is also the Son of God. Atma is in the Paramatma, and the Jivatma is on the premises of Atma. Hence, it is said, <b>‘I am (Atma) am in my Father’</b> instead of saying, <b>‘I am (Atma) in my Father, the Paramatma.’</b> As Jiva is in the body spread by Atma, it is said in the verse, ‘You (Jivatmas) are in me (Atma).’ Atma, who has spread in the entire body, has also spread in you (Jivatma), who is at one place in the body. Hence, <b>“The day when you know the souls’ wisdom, you will know that I am in you,”</b> said in the verse. Those who do not know about the three souls do not know who is in whom. Therefore, <b>it is important to know the Thraitha Theorem of three souls. </b>
-        </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 134,
-      verse: ` <b>(56)	The Gospel of John, 14th chapter, 25th and 26th verses.</b>    
-    `, meaning: `<b> 
-    (25) All this I have spoken while still with you.  <br><br>
-    (26) But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.    
-    </b>                                 
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    On one occasion, Jesus said to his disciples, “While I am still with you, I speak these words.” Moreover, he said that another Advocate would come to you after I passed away. <b>He said that the Advocate, who comes like me, reminds you of everything that he has spoken and teaches everything that he has not spoken.</b> The important thing to note here is that Jesus said the name ‘Advocate.’ Describing what the Advocate means, he said, <b>‘Advocate is the Holy Spirit whom the Father will send in my name.’</b> If you notice the verse carefully, it has ‘the Father’ at the beginning and ‘the Holy Spirit’ at the end. It can be said that Jesus’ father is the Holy Spirit. We are saying that the one in disguise is the Son and the one not in disguise is the Father. In fact, both are the same. <b>The one who treats people with wisdom and removes their karma is called the Advocate (Comforter)</b>. To say that God is the one who sends God in the name of the Advocate, Jesus said, ‘The Father is the Holy Spirit who will send in my name.’ It becomes known that God takes the form, <b>comes in the guise of the Advocate, and teaches his wisdom.</b> It should be known that he said this word so that even those who do not know this matter would know. 
+  Prophet Moses is well-known among Christians, yet many Muslims might not be aware that the name ‘Moses’ in the Bible transformed into ‘Musa’ over 1400 years. It is crucial to note that Moses and Musa are, indeed, the same name. The statement that Moses did not convey the Dharma Shastra can be both true and false, presenting an intriguing ambiguity with a strong, unknown reason. This revelation may surprise some and face disagreement from others, but its truth remains independent of opinions. It is true that the prophet Moses existed a few thousand years ago. Approximately five thousand years ago, the prophet Moses shared the wisdom he possessed. A prophet, by definition, is someone who imparts God’s wisdom, and Moses earned this title through divine thoughts from a young age. At the age of 20,<b> Bhagavan,</b> who had descended upon the earth, provided Moses with the first divine scripture, known as ‘<b>Taurath.</b> ’ Moses continued to share the wisdom contained in that scripture.
 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 135,
-      verse: ` <b> (57)	The Gospel of John, 15th chapter, 23rd verse. </b>    
-    `, meaning: `<b> 
-    (23) Whoever hates me hates my Father as well.    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    I have been saying this from the beginning. God is disguised in the form of Jesus. The name given to God’s disguise is Jesus. In fact, there is no one except the Holy Spirit that came in Jesus' name. Therefore, anyone who blasphemes Jesus is also blaspheming Paramatma. Jesus is also the Advocate. Whenever God comes in human form, he should always be called the Advocate. <b>The Advocate teaches the wisdom that cures karma.</b> God is the only one who teaches wisdom that destroys karma. Hence, it can be said that the Advocate is the Holy Spirit. But it is challenging to identify God when he has come to earth as a human being. Therefore, those who claim to be gnanis in Christianity today call Jesus brother. Jesus is not a brother to anyone. Even if he comes as Jesus or by another name, he is the Holy Spirit, so he becomes father but not brother. 
-   
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 136,
-      verse: `<b> (58)	The Gospel of John, 15th chapter, 24th and 25th verses. </b>    
-    `, meaning: ` <b> 
-      
-    (24) If I had not done among them the works no one else did, they would not be guilty of sin. As it is, they have seen, and yet they have hated both me and my Father.    <br><br>
-    (25) But this is to fulfill what is written in their Law: ‘They hated me without reason.’
-    </b>                                      
-    `, pageText: `  
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The task that no one can do on earth is to forgive and remove the sin of a man. Jesus said that they would not have got the sin if I had not done the work of forgiving the karma of others. When he forgave the sins of some in front of all, those jealous and ignorant of his greatness, hated him. Hating Jesus means hating the Holy Spirit. Those who hated him <b>without valid reason</b> got the sin.   
-    </span> 
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 137,
-      verse: ` <b> (59)	The Gospel of John, 15th chapter, 26 and 27 verses. </b>    
-    `, meaning: `<b> 
-    (26) When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—he will testify about me.  <br><br>
-    (27) And you also must testify, for you have been with me from the beginning.     </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus came as the Advocate (Bhagavan). Jesus said that he would send another Advocate from the Father to the people. According to spiritual law, he said what he was supposed to say. But there is no other Advocate at the Father. There is only one God. He occasionally comes disguised as Advocate. There is none who sends him. When Jesus and the Holy Spirit are the same, both the sender and coming one are the same. Jesus said, <b>“The Spirit of truth comes as Advocate, and he will testify about me.”</b> When the coming one and the going one are the same, it is no wonder that the coming one will talk about the going one. When the coming Advocate speaks of Jesus, Jesus' disciples surely remember Jesus. Therefore, the disciples will say that Jesus came and taught wisdom. 
-         
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 138,
-      verse: ` <b> (60)	The Gospel of John, 16th chapter, 7th verse. </b>   
-    `, meaning: `<b> 
-    (7) But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send him to you.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Assume that a single person plays two characters in a play. The second character will come on the stage after the first character goes off the stage. As the same person is playing both roles, the first character must go behind the scenes so that the person in the first character will come in the second character. It is not possible for the second character to come out unless the first character goes inside. It should happen because the same person plays both characters. Similarly, the one who came in Jesus’ role should return to earth in the second character. Therefore, when Jesus disappears from the people, then the one who played in Jesus’s role would come in the second role. The Holy Spirit came in the role of Jesus. If he were to come again to be with the people, he would have to leave his role as Jesus and return in a new role, with a new name, and a new appearance. So, Jesus said, <b>“It is for your good that I am going away. Unless I go away, the Advocate will not come to you.”</b> Without saying that I would come back as an Advocate, he said, “I will send him to you when I leave.” From this word, anyone with intelligence will easily know that the one who is going and the one who will be coming are the same. 
+  Since it was rooted in dharmas, it became known as Moses’ Dharma Shastra. Moses passed away at the age of 54. After Moses’ death, Bhagavan entered his body and conveyed dharmas that Moses had never spoken of for nine years. Despite Bhagavan leaving Moses’ body at the age of 63, this fact remained unknown, leading people to believe that Prophet Moses had lived for 63 years and taught the dharmas himself. Although God provided Moses with a divine scripture, He did not directly impart wisdom to him. Hence, the statement, “Moses was not given the bread from Paraloka,” holds true. The wisdom imparted through Moses’ body by God is known as Moses’ Dharma Shastra. This is why the verse states, “The Father of Paraloka, the Holy Spirit, gave true bread.” Moses’ actual lifespan was 54 years, and no one knew that God extended Moses’ life to 63 years. All these mysteries are elucidated in my scripture, <b>Krishna Musa</b>.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 104,
+verse: ` <b>(26)	The Gospel of John, 6th chapter, 46th verse.</b>`,
+meaning: `<b>
+(46) No one has seen the Father except the one who is from God; only He has seen the Father. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Understanding this verse is not a challenging task. Upon reading the Bhagavad- Gita, the Bible, and the Quran in their entirety, it becomes evident that the verses in these final divine scriptures carry subtle meanings. The Quran’s verses, in particular, hold a depth that surpasses other divine scriptures, making their meanings elusive to many. While verses in the Bible might appear straightforward, their true reality often eludes comprehension. Consequently, God is providing a comprehensive understanding of every verse through us.
 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 139,
-      verse: `<b> (61)	The Gospel of John, 16th chapter, 8th verse.  </b>    
-    `, meaning: ` <b>  
-    (8) When he comes, he will prove the world to be in the wrong about sin and righteousness and judgment.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    After Jesus’ role disappears behind the scenes, the Advocate (Comforter) will come in the second role and second incarnation. The word ‘Advocate’ represents God’s incarnation, but it is not God’s name. The one who came as the Advocate could be with any name in the world. Therefore no one can find that this person is the incarnation of God and the Comforter. While no one knows the advocate's form or name, there is some chance of getting to know him by his actions. Whenthe <b>Advocate</b> comes upon the earth, he talks about sin. He reveals how a person acquires sin, where it is stored until the time of death, and the consequences of sin. He will explain that <b>the divine wisdom is needed to get rid of the sins</b> that man has acquired, sins are like firewood, wisdom is like fire, only through the wisdom man can escape from experiencing sins and how to gain divine wisdom. The sin of the man who does not earn the divine wisdom in life remains until death. That man must be born the same day, the same minute, the same moment after his death. The day of death is called the last day. The last day of life will become the first day of the next life. The man should go to the second birth within a second of his death. It can be said that the time difference between death and birth is only the tenth of a second. In such a short time, Atma will judge according to the sin (paapam) and punya (good karma) of the deceased. In that judgment, <b>Atma</b> decides what the person must eat, drink and experience, etc., in every moment in the second birth. The life of the born will run based on the judgment done in death. How a man will live his next life is determined based on the last day's judgment. Atma that is with the dead person judges correctly 
-    based on his deeds from childhood. Things to be done in the next life are decided according to the existing karma. No one can override that decision. Everyone should accept the judgment. 
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 140,
-      verse: `<b>(62)	The Gospel of John, 16th chapter, 12th verse. </b>    
-    `, meaning: `<b> 
-    (12) I have much more to say to you, more than you can now bear.
-      </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When God comes as a human, he must carefully teach wisdom based on people's moods. Divine wisdom should be taught based on the time and context. If you tell a woman who is engaged to you that you are my wife, she will not accept before the wedding. Not only does she not accept, but she also picks a quarrel with you. But if you tell her the same thing after the wedding, she will be happy and not quarrel with you. If you tell divine wisdom to those who do not tolerate the truth that will happen, they cannot understand and will speak against you. Therefore, even when God came upon the earth as a man, he also had to tell the truth carefully. For instance, if it is said that Ravana Brahma is an incarnation of God, people now understood it somewhat. Had the same thing told 50 years ago, people would disagree. People would have said back that Ravana was evil and a monster. Therefore, the wisdom that is supposed to be said earlier should be said later in some cases. Hence, Jesus said, <b>“I have much more to say to you, more than you can now bear,”</b> to his disciples. He knew that it was time for him to leave humans. Hence, he said to his disciples that the coming Advocate would say what he had not spoken. 
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 141,
-      verse: `<b> (63)	The Gospel of John, 16th chapter, 13th verse. </b>    
-    `, meaning: `<b> 
-      
-    (13) But when he, the Spirit of truth, comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come.     </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus foretold this word about the coming Advocate. ‘Spirit of truth’ means <b></b>‘God of wisdom.’</b> Jesus said that the God who comes after me would guide you all into the truth. He said that the coming God would only tell the truth. Moreover, the God who comes as a human behaves like a human. Hence Jesus said, “As a man, he teaches nothing on his own; he speaks only what he hears.” If one asks who told when the Advocate listened, there is only one there. Hence, as there is only one who is coming, he is the same who tells the wisdom. Therefore, it becomes known that the visible person can also tell what God has spoken. Only God can tell God’s wisdom. Instead of saying humans cannot tell God’s wisdom, it is said that the Advocate would say the things that he heard.
-      
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 142,
-      verse: ` <b> The Gospel of John, 16th chapter, 14th and 15th verses. </b>    
-    `, meaning: ` <b> 
-    (14) He will glorify me because it is from me that he will receive what he will make known to you.<br><br>
-    (15) All that belongs to the Father is mine. That is why I said the Spirit will receive from me what he will make known to you.
-    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    This verse seems to be a little understandable and a little not understandable. Earlier, Jesus said that the Spirit of truth teaches what he hears. Immediately he said in the next verse that the Advocate would take it from me and let you know. Earlier, he said that the Advocate would also say words that I had not said. Now he said that the Advocate would let you know what he received from me. People cannot understand the truth when it is told properly. Then why he confusingly told the truth in this way? There is a reason for this. It becomes understood that he told this confusingly so that <b>those who want to know his wisdom would know, and those who are not interested in his wisdom would not understand it.</b> Jesus said that the coming Advocate would tell what I had said to glorify me. After that, he said that all that belongs to the Father is mine. Here the Father means the Holy Spirit, God. Because Jesus said that God’s wisdom is mine, and the Advocate will speak what he received from me, it becomes known that the Holy Spirit is Jesus and Jesus is the Holy Spirit. Instead of saying <b>‘I am God’, </b>Jesus said, <b>‘All the words of God are mine.’ </b>
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 143,
-      verse: ` <b> (65)	The Gospel of John, 16th chapter, 16th verse. </b>    
-    `, meaning: `<b> 
-      
-    (16) Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.”   </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    Jesus said to his disciples that you would see me no more after a while. It means that he would be gone from among the people, not appearing to the people after some time. He also said that you would see me again after a little while. It becomes understood that Jesus would not appear as Jesus and would leave his body. Hence the people cannot see him. But when Jesus said that you would see me again sometime later, they would be surprised not knowing why he said like that. When Jesus said, “In a little while you will see me no more, and then after a little while you will see me,” some may ask if he would hide somewhere for a while and appear after that. Earlier Jesus said, “I will go. The Advocate will not come to you unless I go. I will go and send him.” Suppose that Jesus is gone as per his word. Hence, he said that you would not see me anymore after some time. As the coming Advocate is also Jesus, he said that you would see me again after some time. The verse makes sense when the one (Jesus) who is going and the one (Advocate) who will be returning are the same. Hence Jesus said that if you see either one of them, it equals to seeing only one – Jesus and Advocate are the same.        
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 144,
-      verse: ` <b> The Gospel of John, 16th chapter, 17th, 18th, 19th, 20th, 21st and 22nd verses. </b>   
-    `, meaning: `<b> 
-      
-    (17) At this, some of his disciples said to one another, “What does he mean by saying, ‘In a little while you will see me no more, and then after a little while you will see me,’ and ‘Because I am going to the Father’?” <br><br>
-(18) They kept asking, “What does he mean by ‘a little while’? We don’t understand what he is saying.” <br><br>
-(19) Jesus saw that they wanted to ask him about this, so he said to them, “Are you asking one another what I meant when I said, ‘In a little while you will see me no more, and then after a little while you will see me’? <br><br>
-(20) Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy. <br><br>
-(21) A woman giving birth to a child has pain because her time has come; but when her baby is born, she forgets the anguish because of her joy that a child is born into the world. <br><br>
-(22) So, with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy. 
+  God, represented as the Holy Spirit, exists both before and after creation. He is the primary God. The true appearance or nature of God remains unknown to humans. In the final divine scripture, the Quran, the primary God is named Allah, and the second God, Atma, is also referred to as Allah. Hence, Paramatma is the first Allah, and Atma is the second Allah. In the second divine scripture, the Bible, Paramatma is designated as God, and Atma is addressed as the Father. It is crucial to recognize that the Holy Spirit is the Father of Atma, and Atma is the Father of humans. The Quran affirms that both Paramatma and Atma are Gods, while the Bible distinguishes one as God and the other as the Father. It is essential to understand that the Father of humankind is Atma, and the Father of Atma is the Holy Spirit. The verse emphasizes that no human has seen the Father (Atma) and is ignorant of Atma’s nature. <b>However, Atma is the only one who originated from God and has therefore witnessed his Father, the Holy Spirit. In contrast, Jeevatma has never witnessed his Father, Atma.</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 105,
+verse: `<b>(27)	The Gospel of John, 7th chapter, 37th and 38th verses.</b>`,
+meaning: ` <b>
+(37) On the last and greatest day of the festival, Jesus stood and said in a loud voice, “Let anyone who is thirsty come to me and drink.”
+<br><br>
+(38) Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The verse carries a subtle meaning. Just as a thirsty person naturally seeks water, the pursuit of those seeking wisdom is likened to thirst. The verse states, <b>“Whoever thirsts for wisdom should come to me and quench their thirst.</b> ” When someone approaches Jesus and receives divine wisdom, it is akin to satisfying their <b>thirst for wisdom</b> from Jesus. Those who believe in Jesus attain complete divine wisdom, becoming repositories of wisdom and sharing it with others. Jesus proclaimed that rivers of living water would flow from within them. In this context, <b>living water symbolizes divine wisdom,</b> which bestows moksham (liberation) upon humans and keeps them in a perpetual state. Hence, wisdom is referred to as living water. Just as humans satisfy their physical thirst by drinking water through their mouths, they should similarly <b>nourish their intellect(buddhi) with divine wisdom by listening through their ears.</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 106,
+verse: `<b>(28)	The Gospel of John, 8th chapter, 12th verse.</b>`,
+meaning: ` <b>
+(12) When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness but will have the light of life.”  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  God, known as the Holy Spirit, created Atma to carry out His rule and work through others. He declared Atma to be his son and gave him the power to perform His tasks. Atma received the authority to take human lives, passing judgment based on their karma from previous births, and facilitating their rebirth. In the role of a judge, Atma acts in accordance with each individual’s karma. Human entanglement in karma influences their thoughts, and Atma, responding to this karma, imparts ignorance as sought by individuals. Consequently, over time, adharmas increase on Earth.
 
-      </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    When Jesus said, “In a little while you will see me no more, and then after a little while you will see me,” people did not understand it. Then Jesus told a parable of a woman giving birth and said that you would be glad as she was when I would come back to you. Jesus said to those who were there, “You will get some pain because of my leaving. After that you will forget the pain with my arrival.”    </span>  
-    `
-    },
-    {
-      chapterName: "The Gospel of John",
-      chapterNumber: 5,
-      pageNumber: 145,
-      verse: ` <b> (67)	The Gospel of John, 16th chapter, 25th verse. </b>    
-    `, meaning: ` <b> 
-    (25) Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father.    </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    
-    We already said that Jesus’ earlier words are obscure. It is difficult to understand them, and people will fall into confusion. Jesus also confessed that he had been speaking figuratively so that people do not understand. He also said, “I will not say so in time to come. I will tell you everything clearly.” In fact, this word is also obscure. Jesus said that he would go in a little while, and then the Advocate with the Holy Spirit would come and would elaborate everything. He also said that the Advocate would not come unless I go. He also added that you would be sad that I am going, but you will rejoice when you see me. Now he said, 
-    <b>“So far, I said obscurely. When I come back, I will tell you everything clearly.”</b> Based on this, there is a suspicion that the one coming is another Advocate or Jesus would come back. This word also creates doubt here.
-    </span>  
-    `
-    },
-    {
-      chapterName: "The Scripture of John Revelation",
-      chapterNumber: 6,
-      pageNumber: 146,
-      verse: ` <b> (14)	The John Revelation, 9th chapter, 4th, 5th and 6th verses.</b>    
-    `, meaning: `<b> 
-      
-    (4) They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads.  
-    <p style="text-align:center;margin-right:5px">
-     <img style="max-height:250px;" src="assets/img/Devunimudra_inside.png"/>
-   </p>
-   (5) They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes.
-    <br><br>
-    (6) During those days people will seek death but will not find it; they will long to die, but death will elude them.
+  The Holy Spirit, or God, must incarnate on Earth in human form as Bhagavan to curb adharmas and promote dharmas when adharmas emerge due to human interests and Atma-induced ignorance. When God takes on the guise of a man, He is called Bhagavan. This incarnation teaches divine wisdom without revealing His divine identity, often being referred to as the Son of God, with God being His Father. According to this perspective, there is one God, the creator, who has two Sons—one as the permanent Atma within humans and another as a temporary Son in human form. When the first Son (Atma) within humans develops adharmas, the second temporary Son, incarnated as a human, imparts dharmas. Thus, there is only one God with two Sons. The Son in the form of Jesus proclaimed, <b>“I am the light of the world.</b> ” Wisdom transforms into a wisdom fire (Gnana Shakti), burning away human karma. Jesus, embodying the wisdom fire, is the light of wisdom. He came to teach wisdom to humanity, and those who follow and comprehend His wisdom will not dwell in ignorance but in wisdom. Hence, Jesus declared, “Whoever follows me will never walk in darkness but will have the light of life.” Only God, who incarnates in human form, can bestow the light of wisdom, and establish dharmas.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 107,
+verse: `<b>(29)	The Gospel of John, 8th chapter, 14th verse.</b>`,
+meaning: `<b>
+(14) Jesus answered, “Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   Jesus, in His outward appearance, resembled an ordinary man without any distinct features. As individuals dwelling within bodies made of Prakruti, the external appearance of every being appears the same. Jesus, too, presented Himself as an ordinary human being. There’s a saying among elders that no one knows what kind of snake resides in a termite mound, drawing a parallel to the mysterious nature of the Jeeva within a body. Every born Jeeva comes into a body from somewhere, guided by the decisions of the Atma based on its karma. Upon completing karma and death, the Jeeva enters a new body under the judgment of the Atma. Despite residing in the body, the Jeeva remains unaware of its origin for each new birth. The manas (mind) is the organ responsible for remembering, but it, too, dies with each passing life, causing the loss of memory from previous births. Consequently, an individual, say, at the age of 40, only recalls the last 40 years of the current birth and not the numerous previous ones.
 
-   </b>                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    The third verse ahead of these verses is as follows. The verse 9:3 says, <b>“Out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth.”</b> Here it says that the locusts came from the smoke. The smoke here is not the smoke caused by firewood. One should know that it is a foggy cloud that will appear at dawn on a winter day when the Sun is not up. Such a cloud would reduce sunshine and be dark. The locust swarms come from the darkness of the cloud. As locusts come in groups onto the earth like an army, they are formerly called ‘locust swarms.’ No one can imagine where the locusts originated from. In fact, the locusts come from the cloud in the sky. No one knows the birth of the locusts which are coming from a foggy cloud. They come from smoke in the void without knowing how they were born and where they grew up. They may be a few hundred, a few thousand, and even millions. 
-    <br><br>
-    The locusts carry many diseases that plague people. Although they appear to be locusts, they are an army of angels (God’s servants) sent by God. God commanded the locusts to plague humans. By the command of God, the army of locusts will have its effect on men. They come from an invisible place, hide, and bite people. They can get into the body in the form of diseases and torture humans. God gave them as much poison as scorpions in the ground. Humans must suffer a lot due to locusts coming into this world from the invisible world. They come here to make humans suffer for sin. They were ordered not to harm the grass of the earth or any plant or tree, except humans. The general assumption is that locusts harm grass, plants, and trees. It becomes known from the verse that this kind of locust does not harm grass, plants, and trees except for man. Humans do not know what locusts’ birth is, their food, and their task. 
-    <br><br>
-    It becomes known from the four verses mentioned here that the army of angels in the form of locusts merely comes to plague humans. The army of God’s servants in the form of locusts have the power to torture man for up to five months, but they do not have the authority to kill them. When the locusts bite invisibly, man will suffer in the form of the disease with pain like the sting of a scorpion. Depending on the karma, 
-    the suffering will vary from a little pain to as much as a scorpion sting. As no one escapes man from the pain, he must suffer. In verse, it is said that when the suffering is severe, people cannot bear the pain and seek death. They must suffer. It is said that even death goes far away from them. It is said in the verse that the angels were not authorized to kill humans. Hence, humans should experience the pain. 
-    <br><br>
-    If the locusts which originate from invisible smoky clouds come a hundred times, they may be visible once. They come invisible and have effects in multiple ways on humans. They cause harm in the form of disease or other ways. It is stated that they only harm humans. Harm may be in any form. The verse said that man would suffer from that harm. Because they are commanded to do so, man seeks death because of the pain but will not get it. Even if a man wishes to die because of unbearable suffering, death will run away from them. Although man is suffering multiple ways from invisible locusts (servants) that God has sent, he does not think for a moment what causes those suffering. They are not getting out of suffering through God’s words. 
-    <br><br>
-    There are many new diseases that do not exist in the world are coming. But man does not think about where they originate from. When a new disease comes, it takes a while to find out that it is a new disease. It takes some more time to find a drug for the cure. In a year after finally finding a cure for a new disease, another elusive new disease comes to humans. Apart from diseases, man is also suffering from non-diseases. There are many undiagnosable diseases and suffering. Although some know that invisible forces cause suffering, no one knows how to deal with them. There is no way other than to experience the suffering and diseases caused by invisible angels. <b>To avoid all such suffering, the only way is to wear the Seal of God, a symbol for God and God’s power, as God said to his angels. God commanded his servants to persecute only those who do not wear the Seal of God.</b> Although some think that the visible locusts will damage grasses, trees, and plants, <b>God commanded his angels, who are in the form of invisible locusts, to harm only those who did not have the Seal of God on their foreheads.</b> In the final divine scripture, verses 5:22 and 22:32 mentioned the Seal of God. The Akshara Parabrahma Yogam of the first divine scripture, Bhagavad-Gita, has hinted about the Seal of God. In my scripture <b>“The Seal of God,”</b> we have detailed how the Seal of God looks like. You should have faith in God and wear the Seal of God rather than thinking why I should listen to what others said. God and God’s Seal are not related to any religion. The Seal of God is mentioned in the three divine scriptures. The Revelation of the Bible explained the disasters caused by not wearing the Seal of God. Yet, it would be foolish and a lack of faith for Christians to avoid wearing God’s seal. <b>Get protected from suffering. Listen to me, people of all religions, and wear the ‘Seal of God,’ which is unknown so far. Get protected from suffering. </b>
-    
-    
-    </span>  
-    `
-    },
-    {
-      chapterName: "Three Fingers",
-      chapterNumber: 7,
-      pageNumber: 147,
-      verse: `    
-    `, meaning: `                                      
-    `, pageText: `
-   
-          <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-          The portrait of Jesus rarely appears to you. When you look at the portrait closely, you will see <b>Jesus showing three fingers with his right hand.</b> Jesus taught divine wisdom for about three years. After he died, he also appears to be teaching wisdom to the people in his portrait. Whatever others perceive from the portrait, but what my intellect grasped when my eyes saw the picture is that it contains an essential word from the wisdom Jesus told. In the first divine scripture, God is said to be in three parts - <b>Kshara, Akshara, and Purushottama.</b> In the last divine scripture also, God is said to be in three aspects - <b>Passenger, Driver, and Witness.</b> Similarly, it is said in the second divine scripture that God is in three parts - <b>Son, Father, and the Holy Spirit.</b> The three aspects of God are told in the Bhagavad-Gita, the Bible, and the Quran as the same wisdom. The essential wisdom in the three scriptures is to know the three aspects of God. The day when the three aspects of God are known, God’s wisdom is entirely understood. 
-          <br><br>
-          However, the Hindus who read the Bhagavad-Gita did not know who <b>Jivatma</b> (Kshara) and <b>Atma</b> (Akshara) are. In the same way, Christians do not know who the <b>Son </b>and the <b>Father</b> are. Similarly, Muslims do not know who the <b>Passenger</b> and the <b>Driver</b> are. In the Bhagavad-Gita I wrote, I said that the Hindus are not aware of the destroyable Jiva and eternal God, who are in the body. I also said in the Bible that Christians do not know the details of the two sons - the <b>Son</b>, and the <b>Father</b>. Similarly, in the scripture “Vajra Vakyalu (Quran),” I said that the Muslims do not know about the two Allahs. The people of three religions have no idea of the other two parts of God, which are the main essence of their scripture. The only word everyone knows is ‘God.’ All of them are unknowingly worshipping the third part, who is Purushottama in Bhagavad-Gita, the Holy Spirit in the Bible, and the Witness in the Quran. God himself said that it is not right to worship the third part of God (the Holy Spirit), who is beyond all worships and all dharmas. Yet, everyone worships <b>“the God who does not need anything.”</b> It can be said that it is humans’ ignorance not to know that he does not need our worships. 
-          <br><br>
-          As for the Christians, they are unaware of the <b>"two Sons"</b> mentioned in their scripture. Two Sons are mentioned in their scripture, but they say that there is only one Son. They do not know anything about the wisdom of two Sons. They do not know that there are two Sons – <b>Permanent Son and Temporary Son.</b> The Bible names them as <b>the Son </b>and the <b>only begotten Son,</b> but the Christians do know anything about who the Son is and who the only begotten Son is. No one in any religion knows that there are two Gods - <b>the God who is the Father</b> and <b>the God who is the Grandfather</b>. Although the truth is scientifically shown in the scripture, some are in a state of disbelief, and some others say that there are no two Gods. They say that there is only one God. It is also said in the scriptures that there is only one God you should worship. However, it became unknown whether the only one God is Father or Grandfather. 
-          <br><br>
-          Those who know some divine wisdom and those who read the scriptures are worshiping only one God based on their understanding. They are worshipping Grandfather-God, who is not supposed to be worshipped. They should worship Father-God, who is supposed to be worshipped. The <b>Father-God</b> and the <b>Grandfather-God</b> seem to be a new word. But they do not know that this matter is in their scriptures. They are unable to understand truthful wisdom. If someone tells them the truth, they reply angrily that what you said is not wisdom. I said in my Bible that there are two Sons - the Son of Man and 
-          the Son of God - and the Holy Spirit who is in Grandfather position should not be worshipped. When I said that, those who say that the Holy Spirit is God and worship him as God so far are in a state of confusion. Jesus told significantly about the two Sons and the Holy Spirit in his teachings. He also showed <b>“The two Sons and their Father the Holy Spirit”</b> through his fingers in the portrait. Jesus showed the two fingers - index finger and the middle finger - with the right hand. He also showed the thumb. My intellect grasped that the thumb is an indication of the Holy Spirit in the portrait. Since God is the one who gives the perceptive power to the intellect, according to the truthful wisdom, Jesus showed both the Father (Atma) and the Son (Bhagavan) with two fingers (index and middle). It becomes known that they are the permanent Son and the temporary Son. The scripture summarizes that <b>the Holy Spirit will not be known until those two Sons are known.</b> Everyone should know that the spiritual secret which should be known to the entire human society is <b>the matter of the two Sons. </b>Look at his three fingers in the picture of Jesus on the next page. It reminds the Holy Spirit and the two Sons – Atma and the only begotten Son. 
-          
-         
-          <p style="text-align: center">
+  This process applies not only to humans but also to every living creature. Although Jesus may seem like an ordinary man, it is essential to consider whether the same cyclical process applies to Him. Jesus was born in Israel, signifying He came from elsewhere. But He was conscious of His origin, stating, <b>“I know where I came from.”</b> Unlike ordinary individuals who are unaware of their future births upon death, Jesus was acutely aware of His destination after death. This stark difference between Jesus and an ordinary man prompts one to inquire about the uniqueness of Jesus. The answer to this question holds the key to the best wisdom, revealing that Jesus was not an ordinary man but was born with a specific purpose.
 
-                              <img src="assets/img/jesus.png"/>
+  An individual born with a predetermined purpose before birth is termed "born for a cause." No human being possesses such a pre-birth purpose. In contrast, God is born with the specific intent of establishing dharma on Earth. Only God, and not any human, has the capability to establish dharma. God remains eternal and unchanged, unaffected by birth or death, maintaining consistent memory. When God incarnates on Earth in the form of a disguised man, imparts teachings on dharma, and departs, He does not undergo rebirth after death, a fate common to ordinary humans. In death, a human’s manas (mind) is destroyed, but God neither dies nor is born elsewhere. He assumes a unique disguise as a man, fulfills His purpose, and then returns to His origin. Thus, in the verse, Jesus declared, <b>“I know where I am going,”</b> emphasizing the distinctive nature of God’s existence and purpose.
 
-                            </p>
-                        
-                          
-                      </span> 
+  Humans lack knowledge of the whereabouts or nature of God. When God incarnates as a man, His origin remains unknown. Unlike a conventional human birth, God’s birth is distinct; He does not undergo rebirth elsewhere after dying in some other place. The omnipresent God, existing even in the womb, transforms His form and appears to be born as a baby. Given that God is present where He is born, it becomes challenging to pinpoint His origin. Those unaware that God is omnipresent remain oblivious to where Jesus originated. Moreover, the destination of God after assuming a different form remains unknown. Consequently, in the verse, Jesus stated, <b>“You have 115 no idea where I come from or where I am going,”</b> emphasizing the mysterious nature of God’s existence and movements.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 108,
+verse: `<b>(30)	The Gospel of John, 8th chapter, 19th verse.</b>`,
+meaning: `<b>
+(19) Then they asked him, “Where is your Father?” “You do not know me or my Father,” Jesus replied. “If you knew me, you would know my Father also.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Does God exist? If He does, how is He? Where is He? If you know the answers to these questions, you will understand who the Father and the Son are. There is only one God, but we should know where the Son came from. The words ‘Father’ and ‘Son’ are frequently used in the Bible. <b>One should understand that ‘Father’ means God; the term was used to refer to God in the Bible. In the Quran, God is called ‘Allah,’ and in the Bhagavad-Gita, God is referred to as ‘Paramatma.’</b> Although these words are different, they all signify God. The essence of God should be seen in the term ‘Father.’ When Jesus was on earth, the Pharisees asked Him about his Father. Jesus replied, <b>“You did not see me or my Father.”</b> The Pharisees did not inquire about Jesus, even though He was before them. They wanted to know about his physical father, not realizing that Jesus’ father was God. They might have been surprised when Jesus directly spoke about Himself and his Father. They thought they were seeing Jesus in person and asked him to find out about his unknown father. Then Jesus said, <b>“You did not see me or my Father.”</b> We need to understand the meaning of that word.
 
-    `
-    },
-    {
-      chapterName: "Good Friday! - Bad Friday!",
-      chapterNumber: 8,
-      pageNumber: 148,
-      verse: `    
-    `, meaning: `                                      
-    `, pageText: ` 
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-    
-    Some events in life bring happiness, and some other events sorrow to man. Man is cheerful in happiness and depressed in sorrow. When a man is in sorrow, he does not pay attention to food and drink. When he is happy, he will eat good food and wear good clothes. Diwali festival is celebrated with firecrackers because wicked man Narakasura was killed on that day. In the olden days, the scribes, Pharisees, and scholars, who put Jesus before the court and got him executed, rejoiced over the death of their rival Jesus, and used to celebrate Jesus' death anniversary every year as Good Friday. As the day was a happy day for them, they used to celebrate it as a festival. Since then, the festival has been going with the name ‘Good Friday.’ 
-    <br><br>
-    In the early days, those who did not know Jesus’ greatness used to celebrate the festival along with scribes and scholars. This happened when Jesus’ value and his wisdom unknown. In the present time, even those who know Jesus’ wisdom are also celebrating the day of Jesus’ death as Good Friday. You can celebrate with joy on a good day. But the day Jesus died is supposed to be a painful day for his devotees. Yet, it is surprising to see Christians who claim that Jesus is their God happily wearing new clothes and eating good food without grieving at Jesus’ death on that day. 
-    <br><br>
-    In fact, the day that Jesus was killed should be labeled as ‘Bad Day.’ Jesus’ devotees should express sorrow and not eat food on the day. But it is bizarre to celebrate the day as a festival and name it ‘Good Friday’ as if it were a good day. When even those who consider Jesus to be family God are celebrating the day, we must say that they do not know the value of Jesus. Anyone who worships Jesus greatly should count that day as Bad Friday. The preachers must take responsibility to educate the people who act indiscriminately about the Bad Friday and tell them not to celebrate. Those who live without knowing the difference between death day and birthday do not even know the greatness of God’s wisdom. If the head of the family dies in our house, the entire family will cry and mourn. In such cases, when Jesus, who should be respected more than the family member, dies, we must mourn more than what we experience when the owner of our house dies. It is a big mistake to celebrate it as a festival without grief, assuming it as an auspicious day. Jesus said, <b>“Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.”</b> When those who cry when a family member dies do not mourn at Jesus’ death but celebrate it as a festival, how can they be worthy of Jesus’ mercy? Therefore, from now on, let us call Good Friday, which everyone thinks, as a Bad Friday. It becomes honoring Jesus when we count that day as an evil day and mourn without celebrating it. Otherwise, <b>we admire Jesus only on the lips but not in heart.</b> If you honor, love, worship, and pray to Jesus, then propagate Good Friday as Bad Friday and make everyone understand it. Then you will become a true devotee of Jesus. When you abandon Good Friday, nothing bad happens to you; Good happens to you. 
+  Jesus’ Father is the Holy Spirit. Atma, the Holy Spirit’s Son, is present in all bodies and governs their operations. The Holy Spirit, referred to as the Father, and Atma, known as the Son, are ever-present. The Holy Spirit, Paramatma, is eternal and has existed since before creation. Atma, the Holy Spirit’s Son, has been present in all bodies since after creation.
 
-     <p style="text-align:center"> 
-        Yours<br>
-        The Only Guru of Three Religions<br>
-        <b> Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu</b> 
-     </p>
-       <p>
-       Although one thousand persons support - a lie cannot become truth <br>
-       Although one thousand persons negate - truth cannot become a lie
-       </p>
-        
-    </span>  
-    `
-    },
-    {
-      chapterName: "A Letter From A Hindu",
-      chapterNumber: 9,
-      pageNumber: 149,
-      verse: `    
-    `, meaning: `                                      
-    `, pageText: `
-    <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-      
-    <i>First, prostrations to Swami.... </i>
-    <br><br>
-    Jai Srirama! My name is Pittala Thirumalesha, age 36, Nalgonda village, Telangana district. Occupation: Job, Caste: Mudiraju (Boya caste), Religion: Hindu religion, Father’s occupation: First farmer later rickshaw puller, Mother’s occupation: fruit seller, My education: <b>M.Sc., B.Ed. (Mathematics). </b>
-    <br><br>
-    
-    Sir, I am writing this letter with the intent that my spiritual introduction will do something good for this society. After reading your scripture, <b>“Gems in the Second Divine Scripture,” </b>I wanted to write this letter. It seems that writing scripture on the Bible is the most audacious act of a Hindu (Indhu) Swamiji. Many think that a Swamiji may write Bhagavad-Gita but not Bible. I have already read your scriptures the Bhagavad-Gita and the Quran. Now I have also learned the wisdom of the Bible through your writing. I understood the divine wisdom in the three scriptures of the three religions through you. Knowing the current state of society, I am expressing some of my views with good intentions through this letter. 
-    <br><br>
-    The first scripture that I read is <b>“The Secret of Bermuda Triangle.”</b> Through this scripture, I learned the secret of why planes and ships disappear into the Bermuda Triangle. I am so glad to have realized this strange fact that was like a Hollywood movie. Then read the scripture <b>“Ghosts - Bhutas (The Real Incidents)”</b> and came to know scientific information about the “invisible(subtle) world.” Besides, I was so surprised when I came to know how God’s government and the Divine Law operate, and I thank my God for knowing the greatest mystery. I then read the scriptures <b>“The Story of a Truth Seeker”</b> and <b>“Sri Krishna God or Bhagavan?”</b> I was so happy to learn a great secret from the scripture “Sri Krishna God or Bhagavan?” Now that I have found a destination for my life, I am happy to have visited Krishna temple at Prabodhashramamu, Chinna Podamala, and worshipped Lord Krishna. Since visiting the Prabodhashramam in July 2012, I am thrilled with joy every day for absorbing the wisdom from your 93 scriptures and 150 lectures. 
-    <br><br>
-    Through the scripture <b>“Temple Traditions (Hidden Truths),”</b> I learned about the significance of temples. I have grasped the true meaning of the suppressed traditions from <b>“Indu Sampradayas (Traditions).”</b> From the scripture <b>“Mana Pandugalu (Our Festivals)”</b> I have not only understood the meaning of ‘Pandu (fruit)’ in “Panduga (festival)” but also understood the essential purpose of festivals and the intent of our elders’ pre-planned thought. As you said in this scripture, it is a hundred percent true that first spiritual development and then personal development and later social development take place. Every scripture that comes from you is a wisdom mine. Every preaching is a dharma treasure. Your words are beneficial not only to the human but also to all living things. This is the truth that I am telling after experiencing over the past six years. 
-    <br><br>
-    I was despondent when your religion Hindus said the derogatory words against you, the great emperor. But I am sharing some information through this letter to make everyone aware of the facts. 
-    Thraitha Theorem Bhagavad-Gita conveyed the real message of Lord Krishna. Swami’s scriptures <b>“Wisdom words in the Last Divine Scripture (704 pages)”</b> and <b>“Diamonds in the Last Divine Scripture”</b> made the world understand the divine wisdom which Gabriel sent to Prophet Mohammed. The scripture of the Yogeeswarlu <b>“Gems in the Second Divine Scripture (352 pages)”</b> conveyed the real message of Jesus’ Gospels. 
-    <br><br>
-    Here is my appeal to the intellectuals dwarfed with religious hatred, merciless religious demons, incomplete gnanis who are mad about the religion, political monsters who do not know the value of ashram, false prophets who mislead society with caste scabies and religious madness, rationalists who do not know the reason, truth-finding communities that are not aware of the truth, and elders who are pushing the society into superstition using the words God, Soul, worship, and wisdom. Please read at least one of Swami’s scriptures thoroughly to know the greatness of the “Thraitha Theorem” and pay close attention to what it says. Let us observe one of Swami’s words. 
-    <br><br>
-    <b>
-    “Religions are prohibited. Castes are irrational. All three - The Bhagavad- Gita, the Bible, and the Quran - are parts of the same divine scripture. If your feeling goes beyond caste, immediately join the Prabodha Seva Samithi. God wants you to be gnani – Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu” </b>
-    <br><br>
-    Swamiji not only said above words but also performed inter-caste and inter- religion marriages. He also married another caste woman. Is it a religious hatred and poisonous writing on such a great Swami? Men, you think once with discretion. 
-    <br><br>
-    Swami’s scriptures conveyed the real wisdom of Vemana poems. They tell the real meaning of philosophical poems of Veerabrahmam. The AtmalingaShatakam conveyed spiritual information. He has provided many of the greatest secrets unknown to the world and the divine information that contributes to humanity’s spiritual prosperity. Many atheists who have grasped the wisdom from his scriptures have become true believers. Even the fools became rationalists. Blind believers became spiritual scientists with the scientific approach. Even terrorists have changed and became gnanis. 
-    <br><br><b>
-    A Hindu who knows his wisdom is a true Indu (true gnani).<br>A Christian who knows his wisdom is a true Christian (true believer of God).<br> A Muslim who knows his wisdom is a true Muslim (truly obedient to God). </b>
-    <br><br>
-    His scriptures eradicate karma and forgive sin. If you put His scripture on the body where you have pain with devotion and belief, it will cling without any support until it destroys the karma that caused it and provide relief. While this may come as a surprise, it is a blatant truth told based on my experience. 
-    <br><br>
-    It is through His writings that the world has come to know the truth about ‘Bhagavan Ravana Brahma,’ the incarnation of God in Thraitha Yuga. Even Sita Devi, who everyone claims to be the victim, did not accuse Ravana Brahma. Why couldn't the Aryans who wrote the Ramayana tell the age of Ravana Brahma at the time of Sita's kidnap? If this question were answered, the original hidden stories of the 
-    Ramayana would come out. Ravana Brahma visited Sita Devi in Ashokavana with wife Mandodari and Meghnaad, but why was he portrayed as a vicious man? Even though the elderly Ravana Brahma did not attend Sita’s swayamvara, is it not a shame to write that he was unable to lift the Shiva’s bow in the Sita’s swayamvara? When he took Sita, his daughter, without touching her to his kingdom Sri Lanka, would you falsely write that he was a lustful man? Some selfish people have planned conspiracies against him, saying that he took her with lust; how is this possible based on what you said that anyone who touched Sita would be burnt to death? At least for now, this community should know the truth in Ramayana. Mandodari Devi, who knew the secret that Sita’s suffering, and incarnation of Bhagavan Ravana Brahma would end soon, used to tell people of her kingdom that Ravana Brahma brought Sita to Lanka for the welfare of Sita. We wish to see the portrait of the great Sri Bhagavan Ravana Brahma and Srimati Mandodari Devi. 
-    <br><br>
-    You do not really know who you are. Do not put unnecessary junk messages on Facebook and YouTube, and when you blaspheme, you will accumulate years of karma. Do not listen if you do not have to. When you do not know dharma’s definition and how many dharmas, do not call gnanis for debate on the public TV. 
-    <br><br>
-    Thraitha Theorem is the real standard. This standard is used to measure the level of religious hatred. The world will come to know how much wisdom there is in religions, and how much hatred there is in religions through wisdom in Thraitha Theorem. Thraitha Theorem wisdom reveals to this world how much wisdom there is in religions, and how much hatred there is in religions. Prabodha Seva Samiti and its five affiliates firmly believe that whatever happens will happen with God’s permission. 
-    <br><br>
-    
-    <b>Prabodhashramam is the only organization that brings spiritual development.</b> All other organizations work for personality development and a better society. But everyone should recognize that if spiritual development does not happen, personality and social development will not occur. 
-    <br><br>
-    The wisdom of Yogeeswarlu is caste-free and religion-free. That is why people of all religions - Hindus, Muslims, and Christians - come to him with harmony and are happy to know the real divine wisdom. As Veerabrahmam said, His wisdom is uniting all three religions. Brahmam said in Kalagnanam (prophecy), <b>“All the great demi- gods (devatas) are at Anandashramam.”</b> Devatas came and spoke with joy for knowing the wisdom of their father. He also said, <b>“Prabodhashramam has the highest level of wisdom. Those in Prabodhashramam consist attributes of Almighty. That almighty was only Ananda Guru. Ananda Guru is Guru to you and me as well.”</b> You should grasp God’s wisdom with discretion diligence. 
-    <br><br>
-    Are those who do not read Bhagavad-Gita are saviors of Hindu dharmas? Will the fools, who do not know the injustice in history, uphold the Hindu religion? Can you build an equal society without knowing the “Secret of the beginning” and “Secret of creation?” Recognize the goodness in the scriptures by reading with patience and without religious hatred. If you feel bad, leave it. There is no rule that everyone should believe it. The Thraitha Siddantha scriptures and teachings, which are so beneficial to humanity and have a rational scientific and spiritual consciousness and reveal the 
-    secrets of Brahma, Karma and Bhakti Yogams in detail with Jivatma, Atma and Paramatma, are essential to the present society. 
-    <br><br>
-    The organizations - UNO, World Peace Council, Police Act, IPC, CrPC, Prison Acts, CBI, CBCID, Intelligence Reports, ACB, Human Rights Watch, Woman Rights, SC ST Atrocities Act, Indian Trusts Act, Muslim Law, Christian Law, Labor Acts, Central Government GOs, State Government GOs, Election Commission, Indian Constitution, Indian Courts, RTI Act, Information Technology Act 2000 – exist, in fact, for the sake of human welfare. Spiritual institutions have a responsibility for telling people what kind of wisdom is suitable for their welfare. Prabodhashramam and its affiliates take first place in such responsible institutions. Above all, we must not forget that there is also <b>“Divine Law and Divine Administration.” </b>
-    <br><br>
-    The essence of the three divine scriptures is to explain about the three souls. Life without divine wisdom is waste. God gave life to man only to know God’s wisdom. God’s wisdom is beyond caste and religion. Yogeeswarlu provided the true meaning of Lord Krishna’s wisdom through the ‘first divine scripture Bhagavad-Gita.’ He gave us the Quran wisdom, which came to Prophet Muhammad through Gabriel, in the scriptures ‘Wisdom words in the Last Divine Scripture’ and ‘Diamonds in the Last Divine Scripture.’ He told us Jesus’ Gospel wisdom in ‘Gems in the Second Divine Scripture.’ He is giving us practical real divine wisdom through scriptures and teachings. Know the wisdom that He said and wear the Seal of God and receive forgiveness of sins. If you listen carefully and practice it, you are lucky. If you do not listen, that is your karma. Everything is happening according to God’s will, and God knows it. 
-    <br><br><b>
-    Hindus should know which God to worship. Muslims need to know who the two Allahs (the two creators) are. Christians need to know who the two sons are. </b>
-    <br><br>
-    A man never becomes God, but God can come as a man. To recognize the God who is in human form, we must first have his wisdom in us. To recognize God, we need to know these two principles that elders said. Those, who are thoughtful and intellect, can understand Thraitha wisdom. 
-    <br><br>
-    At least now, quit the thought of caste and religion and know the real divine wisdom. If you do not know now, you will never know. Time is Short. Do it Now. 
-    <br><br>
-    I offer fragrance flowers to Yogeeswarlu feet to give us more divine wisdom. I offer unlimited salutations with all my heart and all my soul and mind. 
-    <br><br>
-    Your Obedient Servant <br>
-    <b>Thirumalesu </b>
+  Besides the permanent Son, Atma, God (the Holy Spirit) has another Son called <b>‘the only begotten Son,’</b> who occasionally comes upon the earth. There are significant differences between the permanent Son (Atma) and the temporary Son (the only begotten Son). For example, when Atma comes with a normal human body, the body has a separate Jeevatma. Although the entire body belongs to Atma, and Atma is the body’s head, Jeevatma also resides with Atma in the body and thinks that the body is mine. If the temporary Son, the only begotten Son, comes upon the earth with a body, there is no Jeevatma in that body. In an ordinary person’s body, God and Atma are different. Atma performs every task in that body, and God does not work. But in the only begotten Son’s body, Paramatma (God) resides as Atma and performs tasks in Atma’s form. Because there is no Jeevatma in the only begotten Son’s body, the one who acts as Atma also acts as Jeevatma. Although the one in the only begotten Son’s body is God, He pretends to be Jeevatma. <b>The one who came in disguise as the only begotten Son is the Holy Spirit (God). That God is acting like Jeevatma.</b> There are many differences between God’s permanent Son and the temporary Son.
 
-    </span>
-    `
-    },
-    {
-      chapterName: "",
-      chapterNumber: 10,
-      pageNumber: 150,
-      verse: `    
-    `, meaning: `                                      
-    `, pageText: `
-    <p style="text-align:center;">
-    <img style="min-height:550px;min-width:200px" src="assets/img/endpage.png"/>
-  </p>  
-    `
-    },
-    {
-      chapterName: "Glossary",
-      chapterNumber: 11,
-      pageNumber: 151,
-      verse: `    
-    `, meaning: `                                      
-    `, pageText: ` <ion-row><ion-col></ion-col><ion-col style="text-align:center:font-size:25px"> <b>GLOSSARY</b></ion-col><ion-col></ion-col></ion-row>
-    <br><b>Achara Prakruti:</b> Unchanging and motionless Prakruti. Nature consisting of Sky, Air, Fire, Water and Earth. Prapancha.
-    <br><b>Adharmas:</b>They are against dharmas. Satan establishes them. They cause good karma, bad karma, or both. Adharmas mentioned in Bhagavad-Gita - studying Vedas, doing charities, performing sacrifices, yagnas etc.
-    <br><b> Agami karma:</b>Newly coming sins and punyas from birth to death. 
-    <br><b> Agnani:</b>Ignorant. A person who does not know divine wisdom.
-    <br><b> Aham:</b>Subtle body part. Its job is to convince man that he has done every deed - good or bad. Agreeing with it gets new karma. Ego.
-    <br><b> Antahkaranams:</b>Five subtle body parts - Jiva (Jivatma), Mind (Manas), Buddhi (Intellect), Chitta (Decision maker), and Aham (Ego).
-    <br><b> Artharthi:</b>A person who pray for wealth.
-    <br><b> Astrology:</b>It is the science of knowing the sins and punyas in a man's karma with divine wisdom and explaining the results of them scientifically.
-    <br><b> Atma:</b>Undestroyable soul hidden in the body. It co-exists with Jivatma. It is representative to Paramatma and head to Jivatma. It performs all deeds in the body based on the karma. Akshara purusha. Immortal soul.
-    <br><b> Bhagavan:</b>Incarnation of God as a man on earth to establish dharmas. He is born alive from the mother's womb. Christ, Svayambhu or Comforter or the only begotten Son. Advocate or Helper.
-    <br><b> Body:</b>It contains two parts – invisible (subtle) and visible (physical). Visible body contains 10 parts - 5 karmendriyas and 5 gnanendriyas. Subtle body contains 15 parts – 5 tanmatras, 5 vayus (5 types of air) and 5 antahkaranams.
-    <br><b> Buddhi:</b>It is intellect in the body, which analyzes pros and cons of an action. Intellect.
-    <br><b> Chara Prakruti:</b>The changing Prakruti. Living nature. Jagath.
-    <br><b> Covenant blood:</b>God’s wisdom without the bonds of ignorance. Wisdom with dharmas.
-    <br><b> Devatas:</b>They are invisible humans (demi-gods).
-    <br><b> Dharma Shastra:</b>A scripture with dharmas (wisdom). It reveals God in the body. It contains God’s commandments. Brahma Vidya.
-    <br><b> Dharmas:</b>They reveal the divine doctrines or principles. They remove the karma that causes everything - pleasures, sorrows, birth, death, etc. They help man to know invisible God. Commandments. Following dharmas leads to liberation from life and death.
-    <br><b> Ghost:</b>It is state in which a man lives with subtle body until the end of life when he dies prematurely. Devil or demon.
-    <br><b> Gnana drushti:</b>An invisible eye that shows the matter of God.
-    <br><b> Gnana shakti:</b>The invisible power that comes from practicing the yogam. It has power to burn or destroy karma. Gnanagni.
-    <br><b> Gnanendriyas:</b>Five sensory organs - eye, ear, nose, tongue, and skin. 
-    <br><b>Gnani:</b>A person who knows divine wisdom and dharmas. Brahma gnani.
-    <br><b> Gunas:</b>Dispositions. The six bad qualities (gunas) are greed (kaama), anger (krodha), selfishness (lobha), emotional attachment (moha), arrogance (madam), jealousy (matsara). Similarly, six good qualities are donation (dana), mercy (daya), unselfishness (audarya), detachment (vairagya), humility (vinaya), kindness (prema).
-    <br><b> Guru:</b>Incarnation of God. He teaches true wisdom to mankind. There is only one Guru on earth at any given time. Man can never be a Guru.
-    <br><b> Indu:</b>Moon. Head of wisdom. Everyone who knows wisdom and believes in God is Indu.
-    <br><b> Jagath:</b>It has birth and death. Every living thing is a part of it. Chara Prakruti. 
-    <br><b>Jivatma:</b>Destroyable soul in the body. It is bound to karma and experiences pleasures and sorrows because of karma. Kshara purusha or Jiva. It ceases to be existing when liberated from life and death. Mortal soul.
-    <br><b> Judgement:</b>At the very moment of man’s death, Atma determines the karma for the second life based on man’s past life sin and punya and immediately takes him to the second life. Doomsday or Final Judgement Day or Last Day.
-    <br><b> Karma:</b>Both sin and punya karma. Destiny. New karma is born through gnanendriyas. Karma leads to action and action produces karma.
-    <br><b> Karma Chakra:</b>It is a set of 108 parts. Each of the 12 parts of the Karma chakra has a different type of karma. Each type of karma is further divided into nine parts. Twelve parts have 108 (12*9) types of karma.
-    <br><b> Karma visarga:</b>Dividing karma into tiny parts.
-    <br><b> Karma Yogam:</b>When a Jivatma recognizes aham (ego) in his body and does not listen to what the ego says, then he does not get any karma.
-    <br><b> Karma Yogi:</b>A person who knows wisdom and practices Karma Yogam. 
-    <br><b>Karmendriyas:</b>Five physical (visible) body parts - Hand, leg, mouth, anus, and sexual organ.
-    <br><b> Kruta Yuga:</b>Name given to God who created the universe. It is an era of 17,28,000 years.
-    <br><b> Manas:</b>Mind. It stores and recollects memories.
-    <br><b> Moksha:</b>Liberation from birth, death, life, sufferings, etc. Getting rid of six bad and six good gunas. Jivatma gets liberated when there is no karma. Union with God. Paraloka, Mukti or Salvation.
-    <br><b> Paramatma:</b>He is the creator of the universe. It is absolute soul different from Jivatma and Atma. God, The Holy Spirit, Allah, Purushottama, Uttama Purusha or the father of paraloka. It is not a name but designation. Supreme soul.
-    <br><b> Prakruti:</b>Nature. it consists of Sky, Air, Fire, Water and Earth. Pancha Bhootas. Prapancha or world.
-    <br><b> Prarabdha karma:</b>Everything that happens in this life from birth to death is because of the prarabdha karma. Decision is made when man is born. Brahma vrata.
-    <br><b> Punya(m):</b>It comes from the good deeds. It is the result of six good gunas (dispositions). Man experiences pleasures because of it. Punya karma.
-    <br><b> Purusha:</b>Male. Paramatma related soul.
-    <br><b> Sanchita karma:</b>When prarabdha karma is decided for the current life from accumulated karma from prior births, the leftover karma is called sanchita karma. 
-    <br><b>Satan:</b>Maya. It is in the gunas form and diverts man from God.
-    <br><b> Scripture:</b>Stimulates the tear gland in the body. When you read scriptures, the tears of happiness come from the eye.
-    <br><b> Sin:</b>It comes from the bad deeds. It is the result of six bad gunas. Man experiences difficulties, sorrow, etc. because of it. Paapa karma.
-    <br><b> Tanmatras:</b>Five subtle body parts - sight, hearing, smell, taste, and touch. These are powers behind gnanendriyas.
-    <br><b> Upadesa:</b>Donating gnana shakti. Neighboring country.
-    <br><b> Wisdom:</b>Knowing the details of God. God’s commandments or dharmas.
-    <br><b> Yogi:</b>A person who knows divine wisdom and practices dharmas.
-    <br><b> Yuga:</b>It is an era within a four-age cycle. Each cycle starts with the Krita yuga, via Treta yuga and Dvapara yuga into a Kali yuga. Currently, we are in Kali yuga.
+  It can be said that most people are unaware that God has a permanent Son and the only begotten Son who comes occasionally. By acquiring wisdom, one can understand the existence of Atma and Atma’s wisdom, but recognizing the only begotten Son is challenging. Identifying the only begotten Son among so many humans is difficult. Therefore, no one identified the only begotten Son who came in Treta Yuga, Dvapara Yuga, and Kali Yuga. Although Jesus was the only begotten Son of God in the Kali Yuga, people could not recognize Him as the second Son of God. Despite His proclamation of being the Son of God, people could not identify Him and subjected Him to many insults and torture. People failed to recognize those who came in Dvapara Yuga and Kali Yuga as the Son of God, even though they declared, “I am the Son of God.” I hesitate to affirm that the one who came in Treta Yuga was the Son of God. On that day, God Himself came in disguise as the Son and imparted wisdom on earth. Even though He was known as a great gnani and taught wisdom, I am also hesitant to say that He was Bhagavan because He was portrayed as an evil man among the people. Yet, I do not fear to say, <b>“Ravana Brahma is the only begotten Son.”</b>
 
-    `
-    },
-    {
-      chapterName: "Videos",
-      chapterNumber: 12,
-      pageNumber: 152,
-      verse: `    
-    `, meaning: `                                      
-    `, pageText: `
-    `
-    },
+  In the Dvapara Yuga, Krishna came as Bhagavan. Both Bhagavan and the only begotten Son are the same. However, because Krishna was portrayed as cunning, many people are still unaware of His greatness today. Even though God came in disguise as a man and taught divine dharmas, humans did not focus on the wisdom He imparted; instead, they mostly scrutinized His behavior during that time. Only a few, out of millions, recognized His wisdom and declared that Krishna was God, but the majority spoke ill of Him. Those who were unaware of Krishna’s incarnation in the Dvapara Yuga found it challenging to recognize Jesus as the Son of God in the Kali Yuga. Because Krishna and Jesus anticipated that humans might not recognize the wisdom they taught, they both stated, <b>“We are Gods,”</b> in the context of their words, believing that humans can recognize their wisdom by doing so. Similarly, Jesus said, <b>“You do not know me or my Father,”</b> with the intention of making people realize that God and Jesus are the same.
+
+  Those who claim to have devotion to God often speak sarcastically when they encounter others who possess more wisdom than themselves. The Pharisees spoke to Jesus with the same attitude. Knowing that Jesus was born to Mary without a father, they asked Him, “Where is your father?” Jesus understood that they were mocking Him and not asking with devotion. He replied with a mind-boggling answer, <b>“You do not know me or my Father.”</b> Those who comprehend His words correctly will understand that the visible Jesus and the invisible God are one and the same. Jesus also said, <b>“If you knew me, you would know my Father also.”</b> However, it can be said that those who heard His words did not understand what He was saying. If they had comprehended His message, they would have recognized who Jesus was on that day. They would have realized that He was not an ordinary man. Despite Jesus’ words, they treated Him as if He were an ordinary man. It seems they knew nothing remarkable about Jesus.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 109,
+verse: `  <b>(31)	The Gospel of John, 8th chapter, 21st verse.</b>`,
+meaning: ` <b>
+(21) Once more Jesus said to them, “I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.”  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Jesus spoke many words to let people know about Himself, and the words above are one example. <b>“I am going away, and you will look for me. Where I go, you cannot come,”</b> Jesus said to the people. On the surface, this verse might not seem particularly profound. When someone goes somewhere without informing others, we don’t know where they have gone, and even if we search, we may not be able to find them. The lack of information means that we cannot go where they have gone. You might wonder what wisdom lies in this common occurrence. Let’s look at it from another angle. In our youth, we used to play the game of ‘Thief and Police.’ In this game, the thief hides, and after a couple of minutes, the police start searching to catch them. To catch the thief, the police must go to the place where the thief is hiding. If the police cannot reach the hiding place, they cannot find the thief even after searching elsewhere. One day, when I was ten, we played this game. I was the thief, and the others were the police. Before hiding, I said, “I am going, and you cannot find me.” They confidently replied, “We will find you in ten minutes.” Then I added, “Where I go, you cannot come,” and went to hide from them.
+
+  Two minutes later, the police started the chase but could not find me for half an hour. Despite searching all the places, they couldn’t reach where I was hiding. On that day, I was sitting in the pooja room in my house, and I had closed the doors. The others playing as police searched everywhere, including the house where I was hiding, but they didn’t come to the pooja room because the doors were closed, and they didn’t search inside. Initially, I thought there was nothing special in the above verse, as it resembled the game of ‘Thief and Police.’ However, I later realized that the phrase <b>“You will die in your sin”</b> in the verse held significant meaning. Although it resembled a game, I discovered that it contained profound wisdom. I then delved into a comprehensive understanding of the meaning of this word. Here is what it means.
+
+  Jesus was visible to everyone on earth for some time, but unfortunately, no one believed in Him. Despite performing many miracles to prove that He was not an ordinary man—giving sight to the blind, enabling the lame to walk, curing leprosy, and even bringing the dead back to life to demonstrate His ability to forgive sins—people failed to recognize His true greatness. Even those who did not recognize Jesus during His lifetime would later search for Him, seeking relief from their suffering. However, there will be no benefit in searching for Him once He is gone, as He will not be visible to anyone. People who die in their sins cannot have them forgiven by Jesus, as they do not know where He went. Even if those who denied Jesus during His lifetime later acknowledge Him as God, their sins will not be forgiven. Jesus had foretold all these things to the people in advance. When Jesus said, <b>“I am going away,”</b> no one asked Him to stay longer. Instead, people shouted for Him to be crucified, leading to His death on the cross.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 110,
+verse: `<b>(32)	The Gospel of John, 8th chapter, verses 23 and 24.</b>`,
+meaning: `<b>
+(23) But he continued, “You are from below; I am from above. You are of this world; I am not of this world.
+<br><br>
+(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.”   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In these two verses, the 24th verse seems similar to the 21st verse, but the 23rd verse is unique. Jesus gave the people a second chance to recognize that He was not an ordinary man and said, “You are from below; I am from above. You are of this world; I am not of this world.” This verse is divided into two parts: the first one is “You are from below; I am from above,” and the second one is “You are of this world; I am not of this world.” Based on the first part of the verse, “You are from below; I am from above,” there have been two kinds of people since Kruta Yuga – the lower people and the upper people. There is a reason behind how these two names – the lower and the upper – came into existence. This is how people are divided into the lower and upper categories.
+
+  The age of Kruta Yuga spans 1,728,000 years. During the first thousand years of Kruta Yuga, two tribes emerged among the people - the gnanis (those with wisdom) and the ignorant. There were very few gnanis on Earth during that time, while the ignorant were innumerable. In that yuga, the world population was only about 30 million, and the Indian population was not more than 300,000. The Sun descended upon the Earth and imparted divine wisdom to a person named Manu. Only two or three individuals learned the wisdom directly from Manu, and all other people held great respect for these gnanis, learning the divine wisdom from them. In those days, people held gnanis in high esteem, making them sit on the upper seat while they themselves sat on the floor, listening to the wisdom. It was customary for people to give the upper seat to gurus and sit on the floor. Based on this, Jesus said, “You are from below; I am from above.” This means, <b>“I am your teacher (Guru) to you all.”</b>
+
+  It was common for teachers to sit on the upper seat while people who sought wisdom sat on the floor. Teachers used to convey to the people that they were below the teachers who were above them. The teachers who imparted divine wisdom were known as teachers of Brahma Vidya. ‘Brahma’ means great, and ‘Brahma Vidya’ means great teaching. The teachers who possessed knowledge of Brahma Vidya were called Brahmins. In those days, Brahmins meant teachers. Only two or three teachers in the entire India were referred to as Brahmins. Those Brahmins used to categorize the rest of the people as ‘lower people.’ All those who lacked wisdom were designated as ‘lower people.’ This way, the entire country had ‘lower people.’ After some time, the caste system began based on this division. As the caste system took shape, those who knew Brahma Vidya began to say, “We are Brahmins.” Similarly, those who were ignorant were labeled “You are below us (Maa-diguvavaru in Telugu).” Thus, two tribes - <b>the upper (Eguvavaru in Telugu) and the lower (Diguvavaru in Telugu)</b> - formed. Although the word ‘lower (Maadiguva vaaru)’ exists even today, people may not fully understand its historical meaning. Over time, the term ‘Maadiguva vaaru’ transformed into the Madiga caste (scheduled caste), which is now counted as a lower caste.
+
+  When the caste system originated, there were two castes—the Brahmins and the Madiga (Scheduled Caste). The term ‘Madiga’ was initially used to refer to those who were considered ignorant and lacked wisdom. However, over time, even among those who lack wisdom, numerous castes emerged, and those who remained unclassified were still labeled as Madiga. Looking back into history, Madiga was not originally a caste but rather a name given to the ignorant by two or three teachers. Based on this, people from all castes who lack wisdom can be called Madiga. People are divided into castes due to an unknown history. It is unjust and ignorant to label the remaining people as Madiga. Over 2,000 years ago, Jesus also used the words ‘upper’ (Eguvavaru) and ‘lower’ (Diguvavaru). He said, <b>“You are from below; I am from above,”</b> referring to the ignorant. It should be understood that the words ‘upper’ and ‘lower’ are used to indicate, “I am a gnani, and you are ignorant.”
+
+  Jesus’ second word is, “You are of this world; I am not of this world.” ‘Loka’ (World) in Telugu means ‘having experiences.’ There are two types of people based on the experiences they have. Those with experiences belong to this world, and those without experiences do not belong to this world. Ordinary people enjoy every experience in the world, so they are the residents of this world. Jesus, who does not have any experience, said that He was not of this world. Although He looks like a man, He does not have any experiences like a man. Even though Jesus is in a human body, He is not a Jeevatma like others. When He is not a Jeevatma, there is no karma. Hence, He does not have experience based on karma. Paramatma specially sent Jesus. In other words, the Holy Spirit came in disguise as Jesus. According to spiritual dharma, we should not say that. Paramatma specially created and sent Jesus. Therefore, Jesus should be called the Son of the Holy Spirit. As Jesus is not a Jeevatma, it can be said that He does not have experiences. If Jesus were a Jeevatma, He should not be called the Son of the Holy Spirit. Jeevatma is the Son of Atma. Atma’s Father is the Holy Spirit. Hence, Jeevatma becomes the grandson of the Holy Spirit. Jesus is called God’s son because He is sent from God by God. Jesus was also explicitly called the only begotten Son. Atma is the Son of the Holy Spirit. The only begotten Son is the temporary Son who descends upon the earth in need. Therefore, the temporary Son becomes the Son of the Holy Spirit like Atma and will not become a grandson like Jeevatma. Jeevatma gets experience. Hence, Jeevatma, who has experiences, is from this world. Jesus, as Atma, who does not have experiences, is not of this world. He is from Paraloka.
+
+  Jesus gave the people a second chance to recognize Him as an extraordinary man and quoted these verses (John 8:23, 24). However, humans could not perceive Jesus’ greatness and considered Him an ordinary man. Therefore, they cannot be absolved of their sins by Jesus or His teachings. Jesus, the Son of the Holy Spirit, came among men and spoke many words to make Himself known. He reiterated for the second time that those who could not find and believe in Him would die in their sins, as He had mentioned earlier in John 8:21. He provided a third opportunity by speaking His final words. Jesus repeated three sets of verses to help people identify Him. He warned that those who did not recognize Him would not be forgiven of their sins. Let us examine the third set of verses to see what He said.
+
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 111,
+verse: `<b>(33)	The Gospel of John, 8th chapter, 24th verse.</b>`,
+meaning: `<b>
+(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  It becomes known that this verse gave a third chance to know who Jesus was. In this verse, Jesus directly told the public who He was. He said, <b>“Those who do not believe that I am the Holy Spirit, and the Creator will die in their sin.”</b> Jesus Himself declared who He was. Initially, He said, <b>“I will go away; you cannot come to the place where I have gone,”</b> to give them some opportunity to understand Him. In the second verse, He said, <b>“You are of this world; I am not of this world,”</b> providing more details to help them understand who He was. It can be understood that Jesus is the Holy Spirit from the second verse. In the third verse, He said, <b>“One who does not believe that I am He is not able to get out of sin,”</b> providing greater clarity. In the third verse, Jesus declared, <b>“I am God.”</b> Despite this, people recognized Jesus as an ordinary man and were unable to realize that He was God. However, some were surprised by Jesus’ words. Although they did not believe it, they asked Him who He was. Jesus replied using these three verses (John 8:21, 22, 23) to help them understand that He was not an ordinary man. Nevertheless, they did not realize this and asked, “Who are you?” Jesus replied, <b>“Just what I have been telling you from the beginning.”</b>
+
+  In addition, He said, “He who sent me is trustworthy, and what I have heard from Him, I tell the world.” However, people did not realize that He was talking about his Father (the Holy Spirit). Although He said so much, people did not recognize Jesus. Some treated Him as an ordinary man, and others treated Him worse than an ordinary man. Jesus said something else about those people.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 112,
+verse: ` <b>(34)	The Gospel of John, 8th chapter, 28th verse.</b>`,
+meaning: ` <b>
+(28) So, Jesus said, “When you have lifted up the Son of Man, then you will know that I am He and that I do nothing on my own but speak just what the Father has taught me. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  There is some confusion in this verse regarding the phrase, <b>“You have lifted up the Son of Man. ”</b> One may not understand the phrase. To interpret this phrase correctly, one should read it as “When people lift Jesus over their heads” instead of “When you have lifted up Jesus.” Some may ask, “Why would people lift Jesus over their heads?” The answer is that <b>Jesus should be understood with the head</b> that is over our body. One who understands Jesus with their <b>intellect (buddhi)</b> will know that Jesus is the Holy Spirit. Furthermore, this verse reveals that the divine wisdom being taught by Jesus is not His own; instead, He is teaching as directed by the Holy Spirit.
+
+  Instead of stating that humans should understand Jesus with the buddhi in the head, the verse says that people have lifted Jesus up. It becomes known that Jesus is Paramatma (the Holy Spirit) if one understands Him <b>with the buddhi</b> in the body. As long as people have not understood that Jesus is God, <b>“the sins of the people are not forgiven, and they die in their sin, ”</b> as stated in the previous three verses. If they understand as Jesus said, it becomes known that Jesus is God. The secret that the Holy Spirit incarnates as a man to teach His wisdom becomes revealed. When it is learned that Jesus is God, some may think that Jesus Himself is saying all the wisdom that Jesus speaks. However, it is not possible to say as some people think. The reason is that after saying, <b>“I am He, ”</b> He spoke another word.
+
+  Jesus said, <b>“I do nothing on my own but speak just what the Father has taught me.”</b> This might create the impression that the Father and Jesus are distinct. The reason for expressing it in two ways is rooted in the fact that Jesus was a man. God, in His true form, is invisible and embodies power. When God takes on a human form, and if an individual perceives this truth with the intellect (buddhi), they will understand that the Holy Spirit and Jesus are one and the same. However, when God incarnates as a man, it is against <b>spiritual law</b> for the incarnation to openly declare, “I am God.” Even though one may recognize the visible person as God, this truth should not be openly revealed according to spiritual law. Following this spiritual rule, Jesus stated, <b>“I do nothing on my own but speak just what the Father has taught me,”</b> adhering to the principles of spiritual law.
+
+  Jesus said, “I am saying what the Father said.” Both phrases — “I do nothing on my own” and “God does everything'” — mean the same thing. When people recognize that Jesus is the Holy Spirit, their sins will be forgiven. While it is wise to understand that Jesus is the Holy Spirit, it is spiritually incorrect to say that the Holy Spirit is Jesus. Therefore, Jesus Himself said, <b>“Until you know that I am God, your sins will not be forgiven,”</b> and <b>“I am He,”</b> so that humans would understand who Jesus was. According to spiritual law, He ultimately said, “I am doing everything my Father told me to do.” Therefore, one should not assume that Jesus spoke in two ways in the verse. Although it is written in the verse that “I am God” and “I am doing what God says,” both convey the same meaning. One may think that Jesus spoke contradictory things if this is not understood. One who understands wisdom can recognize that God comes as a man but should not declare that a particular person is God. Therefore, Jesus also said, “I am God” in one word and “My Father is God” in another. Both are true. Additionally, Jesus said the following to the people.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 113,
+verse: `<b>(35)	The Gospel of John, 8th chapter, 29th verse.</b>`,
+meaning: ` <b>
+(29) The one who sent me is with me; He has not left me alone, for I always do what pleases Him.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This verse is said to indicate that Jesus and the Holy Spirit are one and the same. To support this, Jesus said, “The one who sent me is with me.” This means that the God who sent Jesus is in Him and that the Holy Spirit and Jesus are the same. There is something called ‘Will’ in the human body. Jesus said that He would always do things according to God’s will. In a different way, He said that God’s will is working in Him. It is a testimony to the fact that God is in Jesus. Jesus also said that the Holy Spirit had not left Him alone. It is as if Jesus said that God was with Him and that God was Him. Jesus himself spoke these words to recognize Him as God. Although God came as ‘Jesus’ in the Kali Yuga, people did not recognize Him. Therefore, it became necessary for Jesus to say these words to recognize His greatness. Otherwise, people would not grasp Jesus’ wisdom. When Jesus spoke these verses, some people believed Him.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 114,
+verse: ` <b>(36)	The Gospel of John, 8th chapter, 53rd and 54th verses.</b>`,
+meaning: ` <b>
+(53) Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?”
+<br><br>
+(54) Jesus replied, “If I glorify myself, my glory means nothing. My Father, whom you claim as your God, is the one who glorifies me. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Although Jesus provided detailed explanations for people to understand Him, they struggled to grasp His identity, leading them to inquire, “Who are you?” In response, Jesus stated, “If I glorify myself, my glory means nothing.” Having already spoken about Himself on five occasions, He recognized the potential for His words to be perceived as false if He were to repeat or elaborate further. Therefore, Jesus explained, “If I say something different one more time from what has been said so far, then My Father, whom you claim as your God, glorifies me.” This statement underscores the fundamental unity between Jesus and his Father, whom people claim as God. However, in adherence to spiritual rules, one should not directly claim to be God. Hence, Jesus declared, “I am God” initially to help people understand Him. Later, He clarified by stating that God was his Father. “Just because I told you two things differently, you should not be confused. You should understand me with the truth,” said Jesus, emphasizing the importance of comprehending His identity beyond the surface expressions.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 115,
+verse: `<b>(37)	The Gospel of John, 8th chapter, 55th verse. </b>`,
+meaning: `<b>
+(55) Though you do not know Him, I know Him. If I said I did not, I would be a liar like you, but I do know Him and obey His word.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Jesus proclaimed, “You do not know God; I know God,” addressing the perception of many who regarded Him as an ordinary man. The need for such a statement arose to clarify Jesus’ distinct relationship with God. Some questioned how Jesus, being human like others, could claim to know God when others did not. To address this query, we can consider Jesus’ repeated declaration, “I am He,” in three distinct verses. According to this statement, Jesus does not possess Jeevatma in His body, even though He has a human form. Instead, the Holy Spirit serves as the sole Atma in His body, actively engaging in every action. The misconception arises when people assume that the Atma is the Jeevatma leading them to believe that Jesus may not know God. However, the truth is that Paramatma (the Holy Spirit) Himself resides in Jesus’ body, making God known to Him. As the Holy Spirit is the consciousness within Jesus, there is no need for a separate knowing; Jesus inherently possesses God as His consciousness. In contrast, ordinary humans have the mind (manas) as consciousness in their bodies but lack the consciousness of either Atma or Paramatma. The lack of Paramatma’s consciousness is the reason why humans do not know God, whereas Jesus, with God as His consciousness, inherently knows God.
+
+  If Jesus were to assert, “I do not know God,” it would suggest a lack of God’s consciousness in Him, akin to ordinary humans. Such a statement would be tantamount to falsehood. Therefore, Jesus declared, “If I said I did not know God, I would be a liar like you.” The uniqueness lies in the fact that the Holy Spirit is the sole inhabitant in Jesus’ body, eliminating the existence of a dual pair of souls – Atma, responsible for actions, and Jeevatma, for experiences. In Jesus’ body, where only the Holy Spirit resides, every uttered word originates from the Holy Spirit. Hence, when Jesus expressed, “I am conscious of Him. I know Him, and I obey His word,” these words emanated from the Holy Spirit, despite Jesus speaking in a manner akin to everyone else. Despite His outward appearance as an ordinary man, there was no aspect unknown to Him. An illustration of this profound knowledge unfolded when Jesus spoke about Abraham, a figure long deceased, evoking amazement and prompting a question from those around Him.
+</div></div>
+
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 116,
+verse: ` <b>(38)	The Gospel of John, 8th chapter, 57th and 58th verses.</b>`,
+meaning: `<b>
+(57) “You are not yet fifty years old,” they said to Him, “and You have seen Abraham!”.
+<br><br>
+(58) “Very truly I tell you,” Jesus answered, “before Abraham was born, I am!” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When Jesus uttered these words, He was approximately 32 years old, on the verge of entering His 33rd year. Abraham, a historical figure, had lived centuries prior to Jesus, akin to a great-grandfather to the people of Jesus’ time. When Jesus referred to Abraham, the Jews present questioned how He could speak of a man who had long preceded Him, having been born and died in a different era. In response, Jesus made the enigmatic statement, “Before Abraham was born, I am.” This assertion appeared deceptive to those around Him, given the clear generational distinction between Jesus and Abraham. Nevertheless, what Jesus expressed was an absolute truth, even if it seemed paradoxical to His contemporaries.
+
+  Let’s explore the truth behind this statement. Jesus’ physical body was born approximately 32 years ago. However, only the Holy Spirit resides in His body, not the Jeevatma. If Jeevatma were present, Jesus wouldn’t have memories from previous births, as Jeevatma doesn’t retain such memories. In contrast, Paramatma (the Supreme Soul) is present in Jesus’ body and is eternal. It has existed since before the creation of the universe and is the creator of all living beings, including Abraham. Abraham, like any other human being, was born, lived, and died, with the Holy Spirit as a witness. While Atma gave life to Abraham, God (Paramatma) witnessed the entire journey. <b>God is the ultimate witness, Atma is the doer, and Jeevatma experiences life.</b> Although Abraham was born through Atma, God, as the ultimate witness, knows everything about Abraham. Paramatma knows how many times Abraham was born in the past and how many times he will be born in the future. Therefore, when Jesus said, “Before Abraham was born, I am,” He referred to His identity as the eternal Paramatma who has existed since before Abraham’s birth and will continue to exist after His death. This statement emphasizes Jesus’ timeless existence beyond the limitations of physical birth and death.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 117,
+verse: `<b>(39)	The Gospel of John, 9th chapter, 39th verse.</b>`,
+meaning: ` <b>
+(39) Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When some people accused Jesus of being a sinner, the individual whose karma had been removed by Jesus overheard their words and responded with the following information.
+
+  (John 9:25-38) He replied, <b>“Whether He is a sinner or not, I don’t know. One thing I do know. I was blind but now I see!”</b>. Then they asked him, <b>“What did He do to you? How did He open your eyes?”</b> He answered, <b>“I have told you already and you did not listen. Why do you want to hear it again? Do you want to become His disciples too?”</b> Then they hurled insults at him and said, <b>“You are this fellow’s disciple! We are disciples of Moses! We know that God spoke to Moses, but as for this fellow, we don’t even know where He came from.”</b> The man answered, <b>“Now that is remarkable! You do not know where He came from, yet He opened my eyes. We know that God does not listen to sinners. He listens to the godly person who does His will. Nobody has ever heard of opening the eyes of a man born blind. If this man were not from God, He could do nothing.”</b> To this they replied, <b>“You were steeped in sin at birth; how dare you lecture us!”</b> And they threw him out. Jesus heard that they had thrown him out, and when Jesus found him, He said, <b>“Do you believe in the Son of Man?” “Who is He, sir?”</b> the man asked. <b>“Tell me so that I may believe in Him.”</b> Jesus said, <b>“You have now seen Him; in fact, He is the one speaking with you.”</b> Then the man said, <b>“Lord, I believe,”</b> and he worshiped Him. After the events that had just occurred, Jesus said, <b>“For judgment, I have come into this world, so that the blind will see and those who see will become blind.”</b> This statement can be understood in light of the previous events.
+
+  The purpose of Jesus’ statement was to convey that <b>those who have faith in God can see me,</b> even if they don’t know who He is. Those who don’t believe in God may interact with Jesus daily and see His physical body, but they cannot recognize Him. Therefore, Jesus said that He came into the world to make unbelievers unaware that He is God. Despite God taking on human form and standing next to unbelievers, they cannot recognize the Son of God due to their ignorant blindness. This blindness is a type of ignorance that prevents them from knowing God, even when He appears in human form. When Jesus said that <b>a devotee who sees God’s incarnation (the Son of God) may not recognize Him based on the outward appearance, but instead, through intuition,</b> some of the people around Him asked if they were blind as well. Jesus replied to them like this.
+</div></div>
+
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 118,
+verse: `<b>(40)	The Gospel of John, 9th chapter, 41st verse.</b>`,
+meaning: `<b>
+(41) Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In verse 39, Jesus explained the distinction between those with faith and those without. He stated that a blind person with divine faith could see Him, while unbelievers could physically see Him but couldn’t perceive His true identity. In the 41st verse, Jesus delved further into the behavior of those operating with a <b>worldly perspective.</b> Individuals with a worldly mindset proclaim, “I am seeing,” attributing their actions to themselves and consequently accumulating karma for their deeds. God bestowed sight upon humans to comprehend His wisdom, yet not everyone employs their vision to recognize God. Some remain spiritually blind despite having physical eyes. Concerning worldly matters, every individual is, in essence, blind. The truth is no one autonomously engages in worldly activities. No one possesses sight or hearing. Despite their inherent lack, people claim, “I am seeing,” falsely assuming they have sight and consequently incurring sin for their actions. Even though humans are spiritually blind, they accumulate sin when they mistakenly believe they possess sight. Jesus emphasized that recognizing one’s spiritual blindness and acknowledging <b>the truth</b> of having seen nothing absolves them of sin. In essence, acknowledging one’s spiritual blindness prevents the accumulation of sin in worldly matters.
+
+  Those who lack divine wisdom are unaware of their lack of sight in mundane matters. Their inability to comprehend Jesus’ words stems from their ignorance that God has endowed sight only for understanding matters related to Him. To grasp the essence of the verse, each individual’s Jeeva (soul) must first recognize whether they are blind or possess insight in the body. In truth, the Jeeva in every person’s body is entirely blind in all aspects. Each Jeeva mistakenly believes that the body belongs to them and that they are the doer of all actions in the body. However, Jeevatma has no independent agency in the body; <b>Atma</b> is the true owner and controller. Atma continually operates within the body, and, in reality, Jeeva doesn’t perform any tasks in the body. Devoid of sight, hearing, and full functionality, Jeeva is blind, deaf, and disabled in every sense. Positioned next to the <b>buddhi</b> (intellect) in the body, Jeeva becomes aware of information that reaches the intellect, but Jeeva can’t independently know anything. Despite lacking direct knowledge, Jeeva erroneously believes that it has personally witnessed everything. Although Atma is the active force in the body, Jeeva wrongly attributes all actions to itself. When Jeeva falsely claims responsibility for a deed, it must endure the karmic consequences associated with that action.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 119,
+verse: `<b>(41)	The Gospel of John, 10th chapter, 18th verse.</b>`,
+meaning: `<b>
+(18) No one takes life from me, but I lay it down of my own accord. I have the authority to lay it down and authority to take it up again. This command I received from my Father. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  No one knows when an ordinary person will leave this life. Once someone dies, they will not return. This is evident in every death. <b>Jeeva also departs from the body in death. However, most people do not realize that Jeeva is separate from the life force in a person.</b> Many people think that Jeeva and the life force are the same. But in the verse, it is said, <b>“No one takes life from me,”</b> which shows that Jesus is different, and his force is different. Although everyone has their own life force in their body, like Jesus, they cannot set it aside or take it up again. Within the body are many internal organs, life, buddhi, and manas. Anything inside the body is under the control of Atma, not under the control of man. Hence, Atma decides whether to set aside a person’s life or send it where Atma wishes, as it is its task. Jeeva has no relation to the life force in their body, but Atma has a relationship with the life force in the body.
+
+  Jesus is not an ordinary Jeeva, but rather He is Atma. As such, He has the authority to lay aside His life, and no one can take it away from Him. This means that <b>Jesus does not die at anyone else’s hands;</b> if He were to die, He would choose to lay aside His life. Only Atma has the power to put life aside and then bring it back when desired. The Holy Spirit gave Jesus the authority to do this, as Jesus Himself declared, <b>“No one takes life from me, but I lay it down of my own accord. I have the authority to lay it down and take it up again. This command I received from my Father.”</b> As foretold, Jesus made His life (prana or breathing) hid in His body when He was crucified, appearing dead to those around him. Yet He emerged alive early on Sunday morning, having taken back His life. This demonstrates that Jesus, being Atma, has the power to lay down His life and then come back to life in the same body, and this authority was given to Him by His Father, the Holy Spirit. Additionally, Atma has the authority to take others’ lives and send them for reincarnation.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 120,
+verse: ` <b>(42)	The Gospel of John, 10th chapter, 30th verse.</b>`,
+meaning: ` <b>
+(30) I and the Father are one.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Atma is the Father of Jeeva, and correspondingly, Paramatma is accountable for the creation of Atma. Therefore, Atma is also the Father of human beings, while Paramatma is the Father of Atma. As Jesus is Atma, He is the Son of God. When <b>a son pays close attention to his father,</b> it signifies a state of union between the son and the father. This is the essence of Jesus’ statement, <b>“I and my Father are one,”</b> as He directed His focus towards His father, the Holy Spirit.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 121,
+verse: ` <b>(43)	The Gospel of John, 11th chapter, 25th verse.</b>`,
+meaning: ` <b>
+(25) Jesus said to her, “I am the resurrection and the life. The one who believes in me will live, even though they die. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  In this context, ‘resurrection’ is indicative of birth, while ‘life’ signifies liberation (moksham), implying freedom from the cycle of rebirth. Since both birth and moksham are related to Atma, Jesus declared, “The one who believes in me will not be reborn after death but will attain <b>moksham.</b>”
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 122,
+verse: `<b>(44)	The Gospel of John, 11th chapter, 26th verse.</b>`,
+meaning: `<b>
+(26) Whoever lives by believing in me will never die.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+The one who has attained moksham will experience eternal life and never face death again. Therefore, Jesus proclaimed, “Everyone who has faith in God will attain moksham and never die again.”
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 123,
+verse: `<b>(45)	The Gospel of John, 12th chapter, 25th verse.</b>`,
+meaning: `<b>
+(25) Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Jesus’s statement, “Anyone who loves their life will lose it,” can be explained as follows: Humans (Jeeva) require life to exist on earth, and those who become attached to their earthly life will inevitably lose it since they cannot live forever. A person’s life depends on the flow of Prana (life force) in their body, and once they die, their breathing ceases permanently. Once the final breath leaves the body and merges with outside air, it will never return. When someone moves from their first birth to their second, they receive a new breath (life), but the old one is never regained. Therefore, those who prioritize their earthly life and cling to it will eventually lose it. Despite this certainty, people naturally love their lives more than anything else and seek to prolong their time on earth.
+
+  A person who desires moksham and does not wish to live in this world hates their own life, indicating a lack of interest in worldly affairs. Such a person abandons the cycle of birth and attains eternal life. This life is free from death, and the person who attains it will protect it. While those who attain moksham do not have a special life that is similar to that of an ordinary person, the term ‘eternal life’ is used to help us understand the concept. It is important to note that anyone who attains moksham will remain in a state of eternity forever, without birth or death.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 124,
+verse: `<b>(46)	The Gospel of John, 12th chapter, 40th verse.</b>`,
+meaning: `<b>
+(40) He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn—and I would heal them. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When God came as a man and told the people the wisdom they needed, Atma, God in the body, blinded their eyes and hardened their hearts so that they could neither see nor understand with their hearts nor get rid of karma. Karma is the cause of their suffering. In this verse, what is important to note is that Atma, created by the Holy Spirit, is in everyone’s body, running everyone. Although Atma is the Son of the Holy Spirit, the Holy Spirit, the Creator, is born as a man to impart wisdom. Although the born is the Holy Spirit, He is called the Son of God instead of God. According to this, Atma, which is in the body, becomes the Son of the Holy Spirit. The Holy Spirit’s incarnation as a human being is also called the Son of the Holy Spirit. Atma in the body blinds the ignorant man’s eyes and hardens their heart so that they do not understand the Son of God’s words and cannot get rid of their karma.
+
+  The Holy Spirit, the Creator, created a son Atma and placed it in the human body. Additionally, the Holy Spirit created another Son in human form to impart wisdom to those who were ignorant. While Atma within the human body is ever-present, the human incarnation of <b>Atma</b> only appears on earth periodically to teach wisdom. Even when the human incarnation of Atma imparts wisdom to individuals who are disinterested and envious of the Holy Spirit, the Atma within the body causes their intellect (buddhi) to be unable to comprehend it. However, if an individual possesses <b>devotion and interest</b> in the Holy Spirit, the Atma within the body enables them to understand the words of the human incarnation of Atma. One must recognize both the Atma within the body and the second Son, embodied by a human form, <b>to truly comprehend the wisdom of the Holy Spirit.</b>
+</div></div>
+  </span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 125,
+verse: ` <b>(47)	The Gospel of John, 12th chapter, 47th and 48th verses.</b>`,
+meaning: ` <b>
+(47) If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.
+<br><br>
+(48) There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will judge them at the last day. `,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  It can be said that the one who spoke these words is the Atma who is in the form of a human being. When anyone hears but neglects to comprehend the wisdom imparted by God when He comes in human form, the Atma in human form does not judge their next life based on sin and punya after death. The Atma, who came as a man to teach wisdom, did not come to judge humans’ next life. God (Atma) came as a man to reveal His wisdom to the people and save them. Someone else judges the subsequent life of a man who does not listen to the words of the Atma in human form and does not acknowledge Him as great. One should know that such a judge is the Atma, who is always present in the body. The Atma in the human body decides the next birth on the day of death based on the wisdom imparted by the Atma, who is in human form. <b>One cannot know the Holy Spirit unless they understand the work of the Atma in the body and the Atma (Bhagavan), who comes in human form.</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 126,
+verse: ` <b>(48)	The Gospel of John, 12th chapter, 49th and 50th verses.</b>`,
+meaning: ` <b>
+(49) For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.
+<br><br>
+(50) I know that his command leads to eternal life. So, whatever I say is just what the Father has told me to say. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   One should understand that the <b>Atma (Bhagavan)</b>, who came as a human being, spoke these words. Jesus, God in the form of a human being, uttered this statement. Whenever God incarnates as a man, all of His wisdom comes from the Holy Spirit. The one who came in human form mentioned that the Holy Spirit prompted Him to convey this wisdom. The wisdom imparted by the Atma (Bhagavan) in human form leads to <b>eternal life (moksham).</b> Although the one who came in human form is not explicitly identified as God, He stated, <b>“Whatever I say is just what the Father has told me to say,”</b> revealing that the speaker is the Holy Spirit. With this, it becomes evident that the one speaking is the Holy Spirit. However, in accordance with spiritual doctrine, it should be emphasized that the Holy Spirit is the Father, and the Atma who came in human form is the Son.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 127,
+verse: ` <b>(49) The Gospel of John, 14th chapter, 7th verse.</b>`,
+meaning: ` <b>
+(7) If you really know me, you will know my Father as well. From now on, you do know Him and have seen Him.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This verse is similar to the one mentioned earlier (John 12:49, 12:50). As I mentioned before, the Father and the Son are the same; yet, according to spiritual doctrine, it should be said that the Father and the Son are separate. Jesus said, <b>“If you really know me, you will also know my Father.”</b> Although God, when He came as a human, is called the Son of God, in fact, the Father Himself is in the form of the Son. Hence, the verse states, <b>“If you know the Son, you know the Father.”</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 128,
+verse: ` <b>(50)The Gospel of John, 14th chapter, 8th and 9th verses.</b>`,
+meaning: ` <b>
+(8) Philip said, “Lord, show us the Father and that will be enough for us.”
+<br><br>
+(9) Jesus answered: “Don’t you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, “show us the Father?” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  This verse reveals that the one with a visible form is the Holy Spirit. Therefore, Jesus said, <b>“Anyone who has seen me has seen the Father.”</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 129,
+verse: `<b>(51)	The Gospel of John, 14th chapter, 10th verse. </b>`,
+meaning: `<b>
+(10) Don’t you believe that I am in the Father, and that the Father is in me? The words I say to you I do not speak with my own authority. Rather, it is the Father, living in me, who is doing His work.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When a person is in disguise, he and his disguise are inseparable. Therefore, when a rich man assumes the guise of a beggar, both the wealthy individual and the beggar coexist. The rich man takes on the appearance of a beggar during his disguise. Although the beggar ventures into a bazaar to beg, it is, in fact, the rich man who is carrying out this act. The unseen rich man is performing the role of a beggar. As the rich man resides within the beggar, and the beggar’s words originate from the rich man, it can be asserted that the rich man is within the beggar, and reciprocally, the beggar is within the rich man—they exist together. Since the inner persona holds greater significance than the external facade, all actions undertaken in disguise are executed by the inner self. Given that the person within is more crucial than the external appearance, it is accurate to state that all tasks carried out by the outwardly visible person belong to the internal individual. Despite the beggar’s outward appearance, he embodies the rich person within. In a sense, it can be affirmed that the beggar is, indeed, the rich person. The Holy Spirit, concealed in human form, holds significance. It is imperative to recognize that the disguise is temporary, while the soul within is eternal. It can be asserted that <b>the one within Jesus is the Holy Spirit.</b> Hence, Jesus proclaimed, “The Father is in me, and I am in the Father.”
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 130,
+verse: `<b>(52)	The Gospel of John, 14th chapter, 6th verse</b>`,
+meaning: `<b>
+(6) Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Building on the previous example, the pathway to understanding the rich man is through the beggar. If the beggar is apprehended, the identity of the rich man becomes apparent. Once the rich man is recognized, one can access the wealth he possesses. Similarly, the avenue to comprehend God is through the incarnation as a human. If someone understands the one who took human form, they will also comprehend the God residing within Him. Acquaintance with God leads to gaining eternal life inherent in God. Hence, on one occasion, Jesus declared, <b>“I am the way and the truth and the life.”</b> When Jesus said, “I am the way,” it signifies <b>the route to understanding God through me.</b> He also stated, “I am the truth,” implying that He is the genuine manifestation of God. Furthermore, He proclaimed, <b>“I am eternal life.”</b> This assertion is grounded in the fact that the true God in the form of Jesus declared that anyone familiar with Him would attain paraloka (moksham) and experience eternal life without facing death in the paraloka.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 131,
+verse: ` <b>(53)	The Gospel of John, 14th chapter, 16th verse.</b>`,
+meaning: `<b>
+(16) I will ask the Father, and He will give you another Advocate to help you and be with you forever.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> The Holy Spirit does not remain permanently in human form among the people. Occasionally, the Holy Spirit changes appearance and enters into the lives of people when needed. When the Holy Spirit took the form of Jesus, He lived among the people for only 33 years. Out of these 33 years, He imparted wisdom for only three years. Even before completing three years, He departed from the people after only two years and three months. Jesus said, “I will beg my Father to send another Advocate (Adaranakarta) a second time, who lives longer than me and teaches wisdom.” The one who is coming is the same person as the one who says He beseeches the one who comes. It is the same one who is coming. It is the same one who said that He would request the one who is coming. It is the same one who said He would send another Advocate (Comforter). <b>There is only one.</b> It is the same one who said, it is the same one who asked, and it is the same one who comes. If we do not understand that there is only one who is playing all the characters, the one who says, asks, and comes may appear different. Without recognizing that <b>there is only one orchestrating these roles,</b> we fail to comprehend the God in front of us in human form, the God who implores, and the God who arrives. It is crucial to understand that the one pleading with the Father as Jesus is the forthcoming Comforter. The arriving Advocate is the Holy Spirit.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 132,
+verse: `<b>(54)	The Gospel of John, 14th chapter, 17th verse.</b>`,
+meaning: `<b>
+(17) The world cannot accept Him because it neither sees Him nor knows Him. But you know Him, for He lives with you and will be in you.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The term ‘world (loka)’ can be understood to encompass those individuals who undergo the consequences of karma on earth. When God takes on human form, those bound by karma may not perceive or acknowledge Him. Those who fail to recognize Him are unable to receive His teachings or divine wisdom. Only those who have gained some wisdom through Jesus will be able to recognize the Comforter who comes after Jesus in human form. The Comforter dwells within those individuals, and those who are acquainted with Him will coexist with Him, realizing His presence within them as Atma.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 133,
+verse: `<b>(55)	The Gospel of John, 14th chapter, 20th verse.</b>`,
+meaning: ` <b>
+(20) On that day you will realize that I am in my Father, and you are in me, and I am in you.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext"> Before delving into this verse, one should grasp the true form of God. God is divided into three aspects, permeating the entire world. Although there is only one God, He is divided into three souls—Jeevatma, Atma, and Paramatma. <b>Jeevatma resides in a specific location within the bodies of all living beings, while Atma extends throughout the entirety of every living being’s body. Paramatma is present both inside and outside the body, existing within every molecule.</b> An individual who comprehends this concept is considered a complete gnani. Paramatma, the Creator, assumes human form to impart wisdom to people. During this manifestation, He asserts that He is the Son, and the Father is Paramatma. This terminology serves a purpose of distinction, but it can be affirmed that both the Son and the Father are inherently the same. God appears in the guise of the <b>‘Son’</b> and resides on earth throughout His entire life, imparting wisdom. This serves as a method for the dissemination of wisdom. Alternatively, God sent out an Atma from Himself to create, sustain, and kill Jeevas. The Atma, which governs the bodies of living beings, is also considered the Son of God. Atma resides within Paramatma, and Jeevatma exists within the realm of Atma. Consequently, the expression <b>“I am (Atma) in my Father”</b> is used instead of stating, <b>“I am (Atma) in my Father, the Paramatma.”</b> As Jeeva is present within the body governed by Atma, the verse emphasizes, “You (Jeevatmas) are in me (Atma).” Atma, diffused throughout the entire body, is also dispersed within you (Jeevatma), who is in a specific location. Therefore, the verse states, <b>“The day when you know the souls’ wisdom, you will know that I am in you.”</b> Those unfamiliar with the concept of the three souls fail to discern who resides within whom. Therefore, <b>it is crucial to comprehend the Thraitha Theorem, which elucidates how God is in the form of three souls.</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 134,
+verse: ` <b>(56)	The Gospel of John, 14th chapter, 25th and 26th verses.</b>`,
+meaning: `<b>
+(25) All this I have spoken while still with you.
+<br><br>
+(26) But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  On one occasion, Jesus addressed His disciples, saying, “While I am still with you, I speak these words.” Additionally, He conveyed, “Another Advocate (Adaranakarta) would come to you after I pass away.” Furthermore, He explained, <b>“The Advocate, who comes like me, would remind you of everything I had spoken and teach everything I had not spoken.”</b> An important aspect to consider here is Jesus’ use of the name ‘Advocate.’ Clarifying the meaning of Advocate, He stated, <b>“Advocate is the Holy Spirit whom the Father will send in my name.”</b> A close examination of the verse reveals that it begins with ‘the Father’ and concludes with ‘the Holy Spirit.’ This sequence suggests that Jesus’ father is the Holy Spirit. It can be posited that the Son is the one in disguise, while the Father is the one not in disguise. In reality, they both are one and the same. <b>The one who imparts wisdom and removes karma is referred to as the Advocate (Comforter).</b> When Jesus asserted that God is the one who sends God in the name of the Advocate, He articulated, “The Father is the Holy Spirit who will send in my name.” This elucidates that <b>God assumes a form, adopts the guise of the Advocate, and imparts divine wisdom.</b> It is noteworthy that Jesus conveyed these words to ensure even those unaware of this matter could comprehend.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 135,
+verse: ` <b>(57)	The Gospel of John, 15th chapter, 23rd verse. </b>`,
+meaning: `<b>
+(23) Whoever hates me hates my Father as well.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  I have been asserting from the beginning that God is concealed in the form of Jesus, and the name attributed to God’s disguise is Jesus. Indeed, no one else but the Holy Spirit has come in the name of Jesus. Consequently, anyone blaspheming Jesus is also blaspheming Paramatma. The Comforter (Advocate) is not the one who will come after Jesus. Jesus was also an Advocate. Whenever God assumes human form, He should consistently be called the Advocate. <b>The Advocate imparts wisdom that serves as a remedy for karma,</b> and God alone provides teachings that eradicate karma. Therefore, it can be affirmed that the Advocate is synonymous with the Holy Spirit. However, recognizing God when He takes on human form on Earth proves to be challenging. This challenge is underscored by individuals in Christianity who claim to be gnani and refer to Jesus as a brother. It is emphasized that Jesus is not a brother to anyone. Regardless of whether He appears as Jesus or under another name, He is identified as the Holy Spirit, making Him a Father, not a brother.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 136,
+verse: `<b>(58)	The Gospel of John, 15th chapter, 24th and 25th verses. </b>`,
+meaning: ` <b>
+(24) If I had not done among them the works no one else did, they would not be guilty of sin. As it is, they have seen, and yet they have hated both me and my Father.
+<br><br>
+(25) But this is to fulfill what is written in their Law: ‘They hated me without reason.’</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   The task that no one can accomplish on earth is to forgive and remove the sins of a person. Jesus stated that sins would not have been incurred if He had not undertaken the work of forgiving the karma of others. When He publicly forgave the sins of certain individuals, those who were envious and ignorant of His greatness harbored hatred towards Him. Hating Jesus equates to hating the Holy Spirit. Those who harbored hatred toward Him <b>without a valid reason</b> incurred sin.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 137,
+verse: ` <b>(59)	The Gospel of John, 15th chapter, 26 and 27 verses. </b>`,
+meaning: `<b>
+(26) When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—He will testify about me.
+<br><br>
+(27) And you also must testify, for you have been with me from the beginning.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   Jesus came as the Advocate (Bhagavan) and mentioned that He would send another Advocate from the Father to the people. In accordance with spiritual law, He conveyed what He was supposed to say. However, there is no other Advocate with the Father; <b>there is only one God</b> who occasionally appears in the guise of an Advocate. No one else sends Him. When Jesus and the Holy Spirit are considered the same, both the sender and the coming one are identical. Jesus stated, <b>“The Spirit of truth comes as an Advocate, and He will testify about me.”</b> When the one who is coming and the one who is going are the same, it is unsurprising that the coming one will speak about the going one. As the coming Advocate discusses Jesus, His disciples will undoubtedly recall Him. Consequently, the disciples will affirm that Jesus came and imparted wisdom.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 138,
+verse: ` <b>(60)	The Gospel of John, 16th chapter, 7th verse. </b>`,
+meaning: `<b>
+(7) But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send Him to you.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   In the analogy of a single person playing two characters in a play, the second character appears on stage after the first character exits. Since it is the same person playing both roles, the first character must go behind the scenes for the person in the first character to assume the second role. It’s not possible for the second character to emerge unless the first character goes backstage. This transition occurs because the same person is portraying both characters. Similarly, the one who came in Jesus’ role is expected to return to earth in a second character. Therefore, when Jesus departs from the people, the one who played the role of Jesus will return in a second role. The Holy Spirit took on the role of Jesus. If He were to come again to be with the people, He would have to relinquish His role as Jesus and reappear in a new role, with a new name, and a new appearance. Thus, Jesus stated, <b>“It is for your good that I am going away. Unless I go away, the Advocate will not come to you.”</b> While not explicitly mentioning that He would return as an Advocate, He conveyed, “I will send Him to you when I leave.” From these words, anyone with intelligence will easily discern that the one departing and the one returning are the same.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 139,
+verse: `<b>(61)	The Gospel of John, 16th chapter, 8th verse.  </b>`,
+meaning: ` <b>
+(8) When He comes, He will prove the world to be in the wrong about sin and righteousness and judgment.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  After Jesus’ role disappears behind the scenes, the Advocate (Bhagavan) will come in the second role and second incarnation. The term ‘Advocate’ represents God’s incarnation, but it is not God’s name. The one who comes as the Advocate could have any name in the world. Therefore, no one can determine if this person is the incarnation of God. While no one knows the Advocate’s form or name, there is some chance of recognizing Him through His actions. When the <b>Advocate</b> comes to the earth, He discusses sin, revealing how a person acquires sin, where it is stored until the time of death, and the consequences of sin. <b>He explains that divine wisdom is necessary to rid oneself of acquired sins,</b> as sins are like firewood and wisdom is like fire. Only through wisdom can one escape experiencing sin and gain divine wisdom. The sin of a person who does not attain divine wisdom in life persists until death. Such a person must be reborn on the same day, minute, and moment after death. The day of death is known as the last day. The last day of life becomes the first day of the next life. The person must be reborn within a second of their death. It can be said that the time difference between death and rebirth is only one-tenth of a second. In that short time, <b>Atma</b> judges the deceased based on their sin and punya. Atma then decides what the person must eat, drink, and experience at every moment of the second birth. The life of the born is determined by the judgment made in death. How a person will live their next life is decided based on the judgment of their last day. Atma, which is with the deceased person, judges them correctly based on their deeds from childhood. The actions to be taken in the next life are decided according to existing karma. No one can override this decision, and everyone must accept the judgment.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 140,
+verse: `<b>(62)	The Gospel of John, 16th chapter, 12th verse. </b>`,
+meaning: `<b>
+(12) I have much more to say to you, more than you can now bear. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  When God incarnates as a human, it is crucial to carefully impart wisdom, considering people’s moods, and the teachings should be tailored based on the time and context. Divine wisdom needs to be conveyed with sensitivity to the audience’s readiness to receive the truth. Comparatively, if you inform a woman engaged to you that she is already your wife, she may not accept it before the wedding, leading to potential conflict. However, sharing the same information after the wedding would bring happiness without contention. Similarly, when presenting divine wisdom to those who may not tolerate the truth, there is a risk of misunderstanding and opposition. Therefore, even when God takes on human form, the truth must be shared judiciously. For example, if one were to assert that Ravana Brahma is an incarnation of God, contemporary audiences might grasp the concept to some extent. However, had the same statement been made 50 years ago, there may have been disagreement, with people viewing Ravana as evil and monstrous. Hence, there are instances where wisdom that is meant to be shared earlier must be deferred. In this context, Jesus acknowledged this principle when He stated, <b>“I have much more to say to you, more than you can now bear,”</b> to His disciples. Recognizing that it was time for Him to depart from humanity, He informed His disciples that the coming Advocate would convey what He had not spoken.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 141,
+verse: `<b>(63)	The Gospel of John, 16th chapter, 13th verse. </b>`,
+meaning: `<b>
+(13) But when He, the Spirit of truth, comes, He will guide you into all the truth. He will not speak on His own; He will speak only what He hears, and He will tell you what is yet to come. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Jesus prophesied about the forthcoming Advocate. The term ‘Spirit of truth’ signifies the <b>‘God of wisdom.’</b> Jesus conveyed that the God who would come after Him would lead everyone into the truth and communicate only the truth. Despite God taking on human form, behaving in a human manner, Jesus mentioned, “As a human, He teaches nothing on His own; He speaks only what He hears.” If one wonders who informed the Advocate, there is only one source. Since there is only one who is coming, He is the same one conveying the wisdom. Consequently, it is evident that the visible person can also articulate what God has spoken. Only God can communicate God’s wisdom. Rather than stating that humans are incapable of conveying God’s wisdom, it is phrased that the Advocate will speak only what He has heard.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 142,
+verse: ` <b>The Gospel of John, 16th chapter, 14th and 15th verses. </b>`,
+meaning: ` <b>
+(14) He will glorify me because it is from me that He will receive what He will make known to you.
+<br><br>
+(15) All that belongs to the Father is mine. That is why I said the Spirit will receive from me that He will make known to you.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   If you look at this verse, some parts make sense while others do not. This verse is like playing a game of hide and seek with people. Earlier, Jesus mentioned that the newly coming Spirit of truth would teach what He hears. Subsequently, in the next verse, He stated that the Advocate would take what He received from Jesus and convey it to the people. Additionally, Jesus asserted that the Advocate would express things that Jesus had not said. However, in the current statement, Jesus mentions that the Advocate would inform the people about what He had received from Jesus. The apparent inconsistency in Jesus’ statements may lead to confusion. Yet, there is a deliberate reason for this ambiguity. Jesus chose to express Himself in a way that <b>those genuinely interested in His wisdom would comprehend, while those lacking interest would not.</b> He further stated that the coming Advocate would share what Jesus had said to glorify Him. Jesus then affirmed that all that belongs to the Father is His, with the Father referring to the Holy Spirit or God. By emphasizing that God’s wisdom is His and that the Advocate would convey what He had received from Jesus, it becomes evident that Jesus and the Holy Spirit are synonymous. Instead of explicitly stating, <b>“I am God,”</b> Jesus phrased it as, <b>“All the words of God are mine.”</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 143,
+verse: ` <b>(65)	The Gospel of John, 16th chapter, 16th verse. </b>`,
+meaning: `<b>
+(16) Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  Jesus conveyed to His disciples that they would see Him no more after a while, indicating His departure from among the people and the cessation of His appearance to them. He also mentioned that they would see Him again after a little while, implying that He would leave His physical form, not to reappear in the same bodily manifestation. This statement perplexed the disciples, leading them to question why Jesus spoke of seeing Him again after a little while. When Jesus stated, “In a little while, you will see me no more, and then after a little while, you will see me,” some might have wondered if He would temporarily hide and then reappear. However, in a previous instance, Jesus had explained, “I will go. The Advocate will not come to you unless I go. I will go and send Him.” Thus, Jesus was suggesting that He would fulfill His promise to depart, and after some time, they would see Him again through the coming Advocate, who was also Jesus. In this context, the verse becomes coherent when one realizes that the one (Jesus) departing and the one (Advocate) returning are identical. Jesus emphasized that seeing either one of them is equivalent to seeing only one, as Jesus and the Advocate are one and the same.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 144,
+verse: ` <b>The Gospel of John, 16th chapter, 17th, 18th, 19th, 20th, 21st and 22nd verses. </b>`,
+meaning: `<b>
+(17) At this, some of his disciples said to one another, “What does He mean by saying, ‘In a little while you will see me no more, and then after a little while you will see me,’ and ‘Because I am going to the Father’?”
+<br><br>
+(18) They kept asking, “What does He mean by ‘a little while’? We don’t understand what He is saying.”
+<br><br>
+(19) Jesus saw that they wanted to ask Him about this, so He said to them, “Are you asking one another what I meant when I said, ‘In a little while you will see me no more, and then after a little while you will see me’?
+<br><br>
+(20) Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.
+<br><br>
+(21) A woman giving birth to a child has pain because her time has come; but when her baby is born, she forgets the anguish because of her joy that a child is born into the world.
+<br><br>
+(22) So, with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">   When Jesus uttered the words, “In a little while, you will see me no more, and then after a little while you will see me,” people found it challenging to comprehend. In response, Jesus illustrated the concept using a parable of a woman giving birth. He conveyed that, just as the woman experiences pain during childbirth, the disciples would undergo some distress due to His departure. However, He reassured them that they would experience joy and gladness akin to the woman who forgets the pain once the child is born. Jesus addressed those present, acknowledging that there would be a period of pain caused by His leaving, but emphasized that this sorrow would be eclipsed by the joy upon His return.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Gospel of John",
+chapterNumber: 5,
+pageNumber: 145,
+verse: ` <b>(67)	The Gospel of John, 16th chapter, 25th verse. </b>`,
+meaning: `<b>
+(25) Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">  The words of Jesus, as mentioned earlier, were acknowledged to be obscure, causing difficulty for people to understand and leading to confusion. Jesus Himself admitted to speaking figuratively to prevent immediate understanding. He also asserted, “I will not say figuratively in the future. I will tell you everything clearly.” However, even this statement appears somewhat ambiguous. Jesus declared that He would depart soon, and the Advocate with the Holy Spirit would come to elucidate everything. He clarified that the Advocate would only come if He left and that the disciples would be saddened by His departure but would rejoice upon seeing Him again. Now, He adds, <b>“So far, I said obscurely. When I come back, I will tell you everything clearly.”</b> This statement introduces a degree of uncertainty regarding whether the one coming is a different Advocate or if Jesus Himself will return.
+</div></div>
+</span>`
+},
+{
+chapterName: "The Scripture of John Revelation",
+chapterNumber: 6,
+pageNumber: 146,
+verse: ` <b>(14)	The John Revelation, 9th chapter, 4th, 5th and 6th verses.</b>`,
+meaning: `<b>
+(4) They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads.
+<p style="text-align:center;margin-right:5px">
+<img style="max-height:250px;" src="assets/img/Devunimudra_inside.png"/>
+</p>
+(5) They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes.
+<br><br>
+(6) During those days people will seek death but will not find it; they will long to die, but death will elude them. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"> <div class="poemtext">  The third verse preceding these verses, Revelation 9:3, states, <b>“Out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth.”</b> This verse indicates that the locusts emerged from the smoke. However, the smoke referred to here is not produced by burning wood or other materials. Instead, it is a dense cloud that appears at dawn on a winter day when the sun has not yet risen. This cloud reduces sunlight and creates darkness. The locust swarms come from this dark cloud. As they arrive on the earth in large groups like an army, they are known as “locust swarms.” No one knows exactly where the locusts come from, but they are believed to originate from the sky’s cloudy mist. Their birth and growth remain a mystery, and they emerge from the smoke in the void without any clear origin. Locust swarms can number in the hundreds, thousands, or even millions.
+
+  The locusts carry numerous diseases that afflict people. Though they may appear as ordinary locusts, they constitute an army of angels, serving as God’s servants, dispatched by His command. God ordered the locusts to afflict humans, and through His command, this army of locusts affects humanity. Emerging from an invisible realm, they hide and inflict bites on people, entering their bodies in the form of diseases and causing torment. God endowed them with as much poison as scorpions on the ground. Humans suffer considerably due to the arrival of locusts from the invisible world, serving as agents of suffering for human sins. They were instructed not to harm the grass of the earth, any plants, or trees except for humans. While the common assumption is that locusts harm grass, plants, and trees, the verse clarifies that these locusts do not harm vegetation but target humans. The origin of locusts, their sustenance, and their mission remain unknown to humans.
+
+  It is evident from the four verses mentioned here that the army of angels in the form of locusts comes to afflict humans. The army of God’s servants, taking the form of locusts, possesses the power to torment humans for up to five months, yet they lack the authority to cause death. When the locusts invisibly bite humans, they induce a disease that inflicts pain akin to the sting of a scorpion. The intensity of suffering varies based on individual karma, ranging from mild discomfort to the level of a scorpion sting. As no one can evade this pain, humans must endure it. The verse indicates that during severe suffering, people may wish for death as an escape, but they are not permitted to end their own lives. Hence, humans must endure the pain. The verse further conveys that even death eludes them, signifying that humans cannot escape the suffering caused by the locusts.
+
+  If the locusts, originating from invisible smoky clouds, come a hundred times, they may only become visible once. Remaining unseen, they can have various effects on humans, causing harm in the form of disease or through other means. The verse indicates that their harm is directed solely at humans and can manifest in any form. It is stated that humans will endure this harm because the locusts are commanded to inflict it. Even if humans seek death due to unbearable suffering, it remains elusive as death runs away from them. Although humans suffer in various ways from the “invisible locusts (servants)” that God has sent, they do not contemplate the causes of their suffering. They are unable to escape their suffering through God’s words.
+
+  Many new diseases are emerging worldwide, yet humans often do not contemplate their origins. Identifying a new disease takes time, and finding a cure can be even more prolonged. Just as a cure is discovered for one ailment, another elusive one may surface. Alongside diseases, there are undiagnosable ailments and suffering. While some people acknowledge that invisible forces contribute to suffering, no one knows how to effectively address them. <b>The only way to avoid suffering caused by invisible angels is to wear the Seal of God, a symbol of God’s power. God commanded His servants to persecute only those who do not wear the Seal of God.</b> Though some believe that visible locusts can harm plants and trees, <b>God directed His invisible locusts to inflict harm solely upon those who lack the Seal of God on their foreheads.</b> In the final divine scripture, verses 5:22 and 22:32 mention the Seal of God. The Akshara Parabrahma Yoga of the first divine scripture, Bhagavad-Gita, hints at the Seal of God. In my scripture, <b>“The Seal of God,”</b> we detail how the Seal of God looks. Instead of questioning others, have faith in God and wear the Seal of God, as it is not tied to any particular religion. The Seal of God is mentioned in three divine scriptures. The Revelation of the Bible explains the disasters caused by not wearing the Seal of God. Christians should not hesitate to wear God’s seal; it is a matter of faith. <b>Regardless of your religion, protect yourself from suffering. Listen to me and wear “The Seal of God,” which was previously unknown. Protect yourself from suffering.</b>
+</div></div>
+</span>`
+},
+{
+chapterName: "Three Fingers",
+chapterNumber: 7,
+pageNumber: 147,
+verse: ``,
+meaning: ``,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"> <div class="poemtext">  The portrait of Jesus seldom appears to people. Upon closer examination, <b> Jesus can be seen showing three fingers with His right hand.</b> Jesus imparted divine wisdom for approximately three years, and even after His death, His portrait appears to convey teachings to the people. While interpretations may vary, my understanding upon seeing the picture is that it contains a crucial message from Jesus’ teachings. In the first divine scripture, God is depicted in three parts - <b> Kshara, Akshara, and Purushottama.</b> Similarly, in the last divine scripture, God is described as having three aspects - <b> Passenger, Driver, and Witness.</b> In the second divine scripture, God is said to be in three parts - <b> Son, Father, and the Holy Spirit.</b> The three aspects of God are expounded in the Bhagavad-Gita, the Bible, and the Quran as the same wisdom. The fundamental wisdom in these three scriptures lies in understanding the three aspects of God. Once one comprehends the three aspects of God, complete understanding of God’s wisdom becomes possible.
+
+  However, Hindus reading the Bhagavad-Gita do not know who <b>Jeevatma (Kshara)</b> and <b> Atma (Akshara)</b> are. Similarly, Christians do not know who the Son and the Father are. Muslims do not know who <b> the Passenger and the Driver are.</b> In the Bhagavad-Gita that I wrote, I mentioned that Hindus are unaware of the perishable Jeeva, and the eternal God present in the body. In the Bible, I also noted that Christians do not understand the details of the two sons - <b> the Son and the Father.</b> Similarly, in the scripture <b> “The Diamond Verses in the Final Divine Scripture,”</b> I mentioned that Muslims do not know about the <b> two Allahs.</b> People of these three religions may have no idea about the other two parts of God, which are the main essence of their respective scriptures. The only term everyone recognizes is ‘God.’ Unknowingly, all of them are worshipping the third part, known as Purushottama in Bhagavad-Gita, the Holy Spirit in the Bible, and the Witness in the Quran. God Himself stated that it is not right to worship the third part of God (the Holy Spirit), who is beyond all worship and all dharmas. Yet, everyone worships <b> “the God who does not need anything.”</b> It can be said that human ignorance lies in not knowing that God does not need our worship.
+
+  Regarding Christians, they are unaware of the <b> “two Sons”</b> mentioned in their scripture. Although the Bible mentions two Sons, Christians believe there is only one Son and are not familiar with the wisdom of two Sons. They may not know that there are two Sons – <b>the Permanent Son and the Temporary Son.</b> The Bible refers to them as <b>the Son and the only begotten Son,</b> but Christians do not know who these two Sons are. Similarly, no one in any religion may know that there are two Gods - <b>the God, who is the Father, and the God, who is the Grandfather.</b> Even though this truth is scientifically presented in the scripture, some people may not believe it, and others deny the existence of two Gods altogether. Although the scriptures state that there is only one God to be worshipped, it is unclear whether this God is the Father or the Grandfather.
+
+  Those who possess divine wisdom and those who read the scriptures worship only one God based on their understanding. They may worship the <b>Grandfather-God</b>, who should not be worshipped, instead of the <b>Father-God</b>, who should be worshipped. The terms Father-God and Grandfather-God may seem new, but this matter is actually in their scriptures. People often fail to comprehend truthful wisdom. When someone shares the truth with them, they may react angrily and reject it. In my Bible, I read that there are two Sons - the Son of Man and the Son of God - and that the Holy Spirit, who is in the Grandfather position, should not be worshipped. Those who consider the Holy Spirit to be God and have been worshipping Him as such may now be in a state of confusion. Jesus taught significantly about the two Sons and the Holy Spirit. He even portrayed <b>“The two Sons and their Father, the Holy Spirit,”</b> using his fingers. Jesus used His right hand to show the two fingers - the index finger and the middle finger - and also the thumb. I understood that the thumb is an indication of the Holy Spirit in the portrait. Since God is the one who grants perceptive power to the intellect (buddhi), according to truthful wisdom, Jesus showed both the Father (Atma) and the Son (Bhagavan) with two fingers (index and middle). It is understood that they represent the permanent Son and the temporary Son. The scripture summarizes that <b>the Holy Spirit will not be known until those two Sons are known.</b> Everyone should know that the spiritual secret which should be known to the entire human society is <b>the matter of the two Sons.</b> If you look at Jesus’s three fingers in the picture on the next page, they remind us of the Holy Spirit and the two Sons - Atma and the only begotten Son.
+</div></div>
+<ion-row><ion-col class="ion-text-center">
+<img src="assets/img/jesus.png"/>
+</ion-col></ion-row>
+</span>`
+},
+{
+chapterName: "Good Friday! - Bad Friday!",
+chapterNumber: 8,
+pageNumber: 148,
+verse: ``,
+meaning: ``,
+pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"> <div class="poemtext"> Certain events in life bring happiness, while others bring sorrow to a person. During moments of joy, an individual is cheerful and enjoys good food and clothing. Conversely, when faced with sorrow, one loses appetite and interest in various aspects of life. The Diwali festival in India, for example, is celebrated with firecrackers to commemorate the defeat of the wicked demon Narakasura on that day. In ancient times, the scribes, Pharisees, and scholars who brought Jesus before the court and orchestrated His execution rejoiced over His death. They annually celebrated Jesus’ death anniversary as Good Friday, considering it a day of happiness. Since then, the festival has been known as ‘Good Friday.’
+
+In the early days, individuals who were unaware of Jesus’ greatness, along with the scribes and scholars, celebrated the festival. This occurred when Jesus’ value and wisdom were unknown. In the present time, even those who are familiar with Jesus’ wisdom are celebrating the day of Jesus’ death as Good Friday. While it is customary to celebrate joyfully on a good day, the day Jesus died is expected to be a painful day for His devotees. It is surprising to witness Christians, who profess Jesus as their God, happily wearing new clothes and eating good food without expressing grief over Jesus’death on that day.
+
+Indeed, the day when Jesus was killed should be labeled as a ‘Bad Day.’ Jesus’ devotees should express sorrow and refrain from eating on that day. It is perplexing to celebrate the day as a festival and name it ‘Good Friday’ as if it were a day of goodness. Even those who consider Jesus their family God participate in the celebration, revealing their lack of understanding of Jesus’ value. Those who deeply revere Jesus should regard that day as a ‘Bad Friday.’ Preachers bear the responsibility of educating people about the significance of Bad Friday and discouraging them from celebrating it. Individuals who fail to distinguish between a death day and a birthday lack an understanding of the greatness of God’s wisdom. When the head of a family passes away, the entire family mourns, and the same reverence should be given when Jesus, who should be esteemed more than a family member, dies. Celebrating Jesus’ death as a festival without grief is a mistake, assuming it to be an auspicious day. Jesus said, <b>“Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.”</b> When people mourn the death of a family member but do not mourn Jesus’ death and instead celebrate it as a festival, how can they be worthy of Jesus’ mercy? Therefore, let us refer to Good Friday as a ‘Bad Friday’ to honor Jesus. It becomes an act of reverence to Jesus when we consider that day as an evil day and mourn without celebrating it. Otherwise, <b>we express admiration for Jesus only with our words, not in our hearts.</b> If you honor, love, worship, and pray to Jesus, then propagate the notion of Good Friday as Bad Friday and help everyone understand it. Then you will become a true devotee of Jesus. When you forsake Good Friday, nothing bad happens to you; only good things occur.
+</div></div>
+<ion-row><ion-col class="ion-text-center">
+Yours
+The Only Guru of Three Religions<br>
+<b>Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu</b><br><br>
+
+Although one thousand persons support - a lie cannot become truth. <br>
+Although one thousand persons negate - truth cannot become a lie.
+</ion-col></ion-row>
+</span>`
+},
+{
+chapterName: "A Letter From A Hindu",
+chapterNumber: 9,
+pageNumber: 149,
+verse: ``,
+meaning: ``,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem">
+<div class="poemtext">
+<i>First, prostrations to Swami.... </i>
+
+Jai Srirama! My name is Pittala Thirumalesha, age 36, Nalgonda village, Telangana district. Occupation: Job, Caste: Mudiraju (Boya caste), Religion: Hindu religion, Father’s occupation: First farmer later rickshaw puller, Mother’s occupation: fruit seller, My education: <b>M.Sc., B.Ed. (Mathematics). </b>.
+
+Sir, I am writing this letter with the intent that my spiritual introduction will do something good for this society. After reading your scripture,  <b>“Gems in the Second Divine Scripture,” </b> I wanted to write this letter. It seems that writing scripture on the Bible is the most audacious act of a Hindu (Indhu) Swamiji. Many think that a Swamiji may write Bhagavad-Gita but not Bible. I have already read your scriptures, the Bhagavad-Gita, and the Quran. Now I have also learned the wisdom of the Bible through your writing. I understood the divine wisdom in the three scriptures of the three religions through you. Knowing the current state of society, I am expressing some of my views with good intentions through this letter.
+
+The first scripture that I read is <b>“The Secret of Bermuda Triangle.”</b> Through this scripture, I learned the secret of why planes and ships disappear into the Bermuda Triangle. I am so glad to have realized this strange fact that was like a Hollywood movie. Then read the scripture <b> “Ghosts - Bhutas (The Real Incidents)”</b> and came to know scientific information about the  <b> “invisible(subtle) world.”</b> Besides, I was so surprised when I came to know how God’s government and the Divine Law operate, and I thank my God for knowing the greatest mystery. I then read the scriptures <b> “The Story of a Truth Seeker”</b> and  <b> “Sri Krishna God or Bhagavan?”</b> I was so happy to learn a great secret from the scripture  <b> “Sri Krishna God or Bhagavan?”</b> Now that I have found a destination for my life, I am happy to have visited Krishna temple at Prabodhashramamu, Chinna Podamala, and worshipped Lord Krishna. Since visiting the Prabodhashramam in July 2012, I am thrilled with joy every day for absorbing the wisdom from your 93 scriptures and 150 lectures.
+
+Through the scripture <b>“Temple Traditions (Hidden Truths),”</b> I learned about the significance of temples. I have grasped the true meaning of the suppressed traditions from <b> “Indu Sampradayas (Traditions).”</b> From the scripture <b> “Mana Pandugalu (Our Festivals)”</b> I have not only understood the meaning of <b> ‘Pandu (fruit)’</b> in <b> “Panduga (festival)”</b> but also understood the essential purpose of festivals and the intent of our elders’ pre-planned thought. As you said in this scripture, it is a hundred percent true that first spiritual development and then personal development and later social development take place. Every scripture that comes from you is a wisdom mine. Every preaching is a dharma treasure. Your words are beneficial not only to humans but also to all living things. This is the truth that I am telling after experiencing over the past six years.
+
+I was despondent when your religion Hindus said derogatory words against you, the great emperor. But I am sharing some information through this letter to make everyone aware of the facts.
+
+Thraitha Theorem Bhagavad-Gita conveyed the real message of Lord Krishna. Swami’s scriptures <b> “Wisdom words in the Last Divine Scripture (704 pages)”</b> and <b> “Diamonds in the Last Divine Scripture”</b> made the world understand the divine wisdom which Gabriel (The Sun) sent to Prophet Mohammed. The scripture of the Yogeeswarlu <b> “Gems in the Second Divine Scripture (352 pages)”</b> conveyed the real message of Jesus’ Gospels.
+
+Here is my appeal to the intellectuals dwarfed with religious hatred, merciless religious demons, incomplete gnanis who are mad about the religion, political monsters who do not know the value of ashram, false prophets who mislead society with caste scabies and religious madness, rationalists who do not know the reason, truth-finding communities that are not aware of the truth, and elders who are pushing the society into superstition using the words God, Soul, worship, and wisdom. Please read at least one of Swami’s scriptures thoroughly to know the greatness of the <b>“Thraitha Theorem”</b> and pay close attention to what it says. Let us observe one of Swami’s words.
+
+<b>“Religions are prohibited. Castes are irrational. All three - The Bhagavad-Gita, the Bible, and the Quran - are parts of the same divine scripture. If your feeling goes beyond caste, immediately join the Prabodha Seva Samithi. God wants you to be gnani – Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu”</b>
+
+Swamiji not only said above words but also performed inter-caste and inter-religion marriages. He also married another caste woman. Is it religious hatred and poisonous writing on such a great Swami? Men, you think once with discretion.
+
+Swami’s scriptures conveyed the real wisdom of Vemana poems. They tell the real meaning of philosophical poems of Veerabrahmam. The Atmalinga Shatakam conveyed spiritual information. He has provided many of the greatest secrets unknown to the world and the divine information that contributes to humanity’s spiritual prosperity. Many atheists who have grasped wisdom from his scriptures have become true believers. Even the fools became rationalists. Blind believers became spiritual scientists with the scientific approach. Even terrorists have changed and became gnanis.
+<b>
+  A Hindu who knows his wisdom is a true Indu (true gnani).<br>
+  A Christian who knows his wisdom is a true Christian (true believer of God).<br>
+  A Muslim who knows his wisdom is a true Muslim (truly obedient to God).
+  </b>
+
+His scriptures eradicate karma and forgive sin. If you put His scripture on the body where you have pain with devotion and belief, it will cling without any support until it destroys the karma that caused it and provides relief. While this may come as a surprise, it is a blatant truth told based on my experience.
+
+It is through His writings that the world has come to know the truth about ‘Bhagavan Ravana Brahma,’ the incarnation of God in Thraitha Yuga. Even Sita Devi, who everyone claims to be the victim, did not accuse Ravana Brahma. Why couldn't the Aryans who wrote the Ramayana tell the age of Ravana Brahma at the time of Sita's kidnap? If this question were answered, the original hidden stories of the Ramayana would come out. Ravana Brahma visited Sita Devi in Ashokavana with wife Mandodari and Meghnaad, but why was he portrayed as a vicious man? Even though the elderly Ravana Brahma did not attend Sita’s swayamvara, is it not a shame to write that he was unable to lift the Shiva’s bow in Sita’s swayamvara? When he took Sita, his daughter, without touching her to his kingdom Sri Lanka, would you falsely write that he was a lustful man? Some selfish people have planned conspiracies against him, saying that he took her with lust; how is this possible based on what you said that anyone who touched Sita would be burnt to death? At least for now, this community should know the truth in Ramayana. Mandodari Devi, who knew the secret that Sita’s suffering, and incarnation of Bhagavan Ravana Brahma would end soon, used to tell people of her kingdom that Ravana Brahma brought Sita to Lanka for the welfare of Sita. We wish to see the portraits of the great Sri Bhagavan Ravana Brahma and Srimati Mandodari Devi.
+
+You do not really know who you are. Do not put unnecessary junk messages on Facebook and YouTube, and when you blaspheme, you will accumulate years of karma. Do not listen if you do not have to. When you do not know dharma’s definition and how many dharmas, do not call gnanis for debate on the public TV.
+
+Thraitha Theorem is the real standard. This standard is used to measure the level of religious hatred. The world will come to know how much wisdom there is in religions, and how much hatred there is in religions through wisdom in Thraitha Theorem. Thraitha Theorem wisdom reveals to this world how much wisdom there is in religions, and how much hatred there is in religions. Prabodha Seva Samiti and its five affiliates firmly believe that whatever happens will happen with God’s permission.
+
+<b>Prabodhashramam is the only organization that brings spiritual development.</b> All other organizations work for personality development and a better society. But everyone should recognize that if spiritual development does not happen, personality and social development will not occur.
+
+The wisdom of Yogeeswarlu is caste-free and religion-free. That is why people of ll religions - Hindus, Muslims, and Christians - come to him with harmony and are happy to know the real divine wisdom. As Veerabrahmam said, His wisdom is uniting all three religions. Brahmam said in Kalagnanam (prophecy), <b>“All the great demi-gods (devatas) are at Anandashramam.”</b> Devatas came and spoke with joy to learn the wisdom of their father. He also said, <b>“Prabodhashramam has the highest level of wisdom. Those in Prabodhashramam consist of attributes of Almighty. That almighty was only Ananda Guru. Ananda Guru is Guru to you and me as well.”</b> Such messages of words spoken by Brahmam himself are found in Swami’s scriptures. You should grasp God’s wisdom with discretion and diligence.
+
+Are those who do not read Bhagavad-Gita are saviors of Hindu dharmas? Will the fools, who do not know the injustice in history, uphold the Hindu religion? Can you build an equal society without knowing the “Secret of the beginning” and “Secret of creation?” Recognize the goodness in the scriptures by reading with patience and without religious hatred. If you feel bad, leave it. There is no rule that everyone should believe it. <b>The Thraitha Siddantha scriptures and teachings,</b> which are so beneficial to humanity and have a rational scientific and spiritual consciousness and reveal the secrets of <b>Brahma, Karma, and Bhakti Yogams</b> in detail with Jeevatma, Atma and Paramatma, are essential to the present society.
+
+The organizations - UNO, World Peace Council, Police Act, IPC, CrPC, Prison Acts, CBI, CBCID, Intelligence Reports, ACB, Human Rights Watch, Woman Rights, SC ST Atrocities Act, Indian Trusts Act, Muslim Law, Christian Law, Labor Acts, Central Government GOs, State Government GOs, Election Commission, Indian Constitution, Indian Courts, RTI Act, Information Technology Act 2000 – exist, in fact, for the sake of human welfare. Spiritual institutions have a responsibility for telling people what kind of wisdom is suitable for their welfare. Prabodhashramam and its affiliates take first place in such responsible institutions. Above all, we must not forget that there is also <b>“Divine Law and Divine Administration.”</b>
+
+The essence of the three divine scriptures is to explain about the three souls. Life without divine wisdom is a waste. God gave life to man only to know God’s wisdom. God’s wisdom is beyond caste and religion. Yogeeswarlu provided the true meaning of Lord Krishna’s wisdom through the ‘first divine scripture Bhagavad-Gita.’ He gave us the Quran wisdom, which came to Prophet Muhammad through Gabriel, in the scriptures ‘Wisdom words in the Last Divine Scripture’ and ‘Diamonds in the Last Divine Scripture.’ He told us Jesus’ Gospel wisdom in ‘Gems in the Second Divine Scripture.’ He is giving us practical real divine wisdom through scriptures and teachings. Know the wisdom that He said and wear the Seal of God and receive forgiveness of sins. If you listen carefully and practice it, you are lucky. If you do not listen, that is your karma. Everything is happening according to God’s will, and God knows it.
+<b>
+Hindus should know which God to worship. Muslims need to know who the
+two Allahs (the two creators) are. Christians need to know who the two sons are.</b>
+
+A man never becomes God, but God can come as a man. To recognize the God who is in human form, we must first have his wisdom in us. To recognize God, we need to know these two principles that elders said. As Vemana yogi said his poems can be understood in 1000 ways, and similarly, the Thraitha theorem wisdom can be understood in 9000 ways. According to the saying “Shraddhavan labhate gnanam (Those who have interest will attain wisdom)”, those who are thoughtful and intellectual can understand the wisdom of Thraitha.
+
+At least now, quit the thought of caste and religion and know the real divine wisdom. If you do not know now, you will never know. Time is Short. Do it Now.
+
+I offer fragrance flowers to Yogeeswarlu feet to give us more divine wisdom. I offer unlimited salutations with all my heart and all my soul and mind.
+</div></div>
+<ion-row><ion-col class="ion-text-center">
+Your Obedient Servant <br>
+<b>Thirumalesu </b>
+</ion-col></ion-row>
+</span>
+`
+},
+{
+chapterName: "",
+chapterNumber: 10,
+pageNumber: 150,
+verse: ``,
+meaning: ``,
+pageText: `
+<p style="text-align:center;">
+<img style="min-height:550px;min-width:200px" src="assets/img/endpage.png"/>
+</p>`
+},
+{
+chapterName: "Glossary",
+chapterNumber: 11,
+pageNumber: 151,
+verse: ``,
+meaning: ``,
+pageText: `
+<ion-row>
+<ion-col class="ion-text-center">
+<b>GLOSSARY</b></ion-col>
+</ion-row>
+<div class="poem">
+<div class="poemtext">
+<b>Achara Prakruti:</b> Unchangeable five elements - Sky, Air, Fire, Water and Earth. Those (Prakruti) that do not have karma. Prapancha. Pancha Bhutas.
+
+<b>Adharmas:</b> They are against dharmas. They cause good karma, bad karma, or both. Adharmas mentioned in Bhagavad-Gita - studying Vedas, doing charities, performing sacrifices, yagnas etc.
+
+<b>Agami karma:</b> Newly coming sin and punya from birth to death. Impending karma.
+
+<b>Aham:</b> Part inside the body but not guna.
+
+<b>Antahkaranams:</b> Five subtle body parts - Jeeva (Jeevatma), Manas, Buddhi, Chittam, and Aham.
+
+<b>Astrology:</b> One who knows spiritual wisdom knows the other person's karma with his wisdom and informs him. To know the future wisdom eye is required. That which is known with wisdom light.
+
+<b>Atma:</b> One who inhabits with mortal being. One who is imperishable. One who is in all living bodies. Atma. Akshara purusha. Immortal soul.
+
+<b>Bhagavan:</b> One who came from God. One who came with God's information Christ, Svayambhu or Comforter or the only begotten Son. Advocate or Helper. Messenger of God. Guru.
+
+<b>Buddhi:</b> It is intellect in the body, which analyzes the pros and cons of an action. Chara Prakruti: The changing Prakruti. Jagath. Living beings. Chara Prakruti. The total body parts in every living being are 25. Covenant blood: Wisdom power. Essence of wisdom. God’s wisdom without the bonds of karma.
+
+<b>Devatas:</b> Invisible humans. Demi-gods.
+
+<b>Dharma Shastra: </b>Scripture with dharmas (wisdom). God’s commandments. Brahma Vidya. Super science.
+
+<b>Dharmas:</b> Divine wisdom. Divine doctrines or principles. Commandments. Following dharmas leads to liberation from life and death.
+
+<b>Ghost: </b>Person living with a subtle body. Devil or demon.
+
+<b>Jeevatma:</b> Mortal soul in the body. Kshara purusha or Jeeva.
+
+<b>Gnanendriyas:</b> Five sensory organs - eye, ear, nose, tongue, and skin.
+
+<b>Gnani:</b> A person who knows divine wisdom and dharmas. Brahma gnani.
+
+<b>Karma Chakra:</b> It is a set of 108 parts. Each of the 12 parts of the Karma chakra has a different type of karma. Each type of karma is further divided into nine parts. Twelve parts have 108 (12*9) types of karma.
+
+<b>Karma visarga:</b> Dividing karma into tiny parts.
+
+<b>Karma Yogam:</b> When a Jeevatma recognizes Aham in his body and does not listen to what Aham says, then he does not get any karma. It is Jeeva's fight against Aham.
+
+<b>Karma Yogi:</b> A person who knows wisdom and practices Karma Yogam.
+
+<b>Karma: </b>Invisible sin and punya.
+
+<b>Karmendriyas:</b> Hands, legs, mouth, anus, and sexual organ.
+
+<b>Manas:</b> It functions as communicator between brain and organs. It remembers and recollects things.
+
+<b>Moksham:</b> Liberation from birth, death, life, sufferings, etc. Union with God. Paraloka, Mukti or Salvation. Liberation.
+
+<b>Paramatma:</b> Which is different from Atma. Father to entire living beings and Pancha Bhutas. God, The Holy Spirit, Allah, Purushottama, Uttama Purusha or the father of paraloka. Supreme soul.
+
+<b>Prakruti:</b> Combination of Chara Prakruti and Achara Prakruti. Nature.
+
+<b>Prarabdha karma: </b>Pre-determined karma. This happens in this life from birth to death. Prarabdha karma is decided when a man is born.
+
+<b>Punya:</b> It comes from the good deeds. That which causes pleasures in life.
+
+<b>Purusha: </b>Pertaining to Paramatma in any living being.
+
+<b>Sanchita karma:</b> The karma accumulated like a heap after experiencing karma in every birth is called sanchita karma.
+
+<b>Sin:</b> It comes from bad deeds. It causes difficulties and grief.
+
+<b>Tanmatras:</b> Derivative energies (sight, hearing, smell, taste, and touch) that connected to sense organs.
+
+<b>Upadesa:</b> Obtaining fire of wisdom as charity. Country which is not country (Everyone who has wisdom eye must see). Wisdom energy, Paramatma. Baptism. Wisdom initiation.
+
+<b>Yogi:</b> One who is in Yogam. The doer of Yogam. A person who knows divine wisdom and practices dharmas.
+</div>
+</div>`
+},
+{
+chapterName: "Videos",
+chapterNumber: 12,
+pageNumber: 152,
+verse: `
+`, meaning: `
+`, pageText: `
+`
+},
     {
       chapterName: "Share",
       chapterNumber: 13,
       pageNumber: 153,
-      verse: `    
-    `, meaning: `                                      
-    `, pageText: ` 
+      verse: `
+    `, meaning: `
+    `, pageText: `
 
     <ion-row>
     <ion-col style="font-size:17px">
       <ion-title class="ion-text-center"> <b>Share The Apps </b></ion-title><br>
     </ion-col>
   </ion-row>
-  
+
   <ion-row>
-    
+
     <ion-col class="ion-text-center">
-      
+
           <ion-row>
             <ion-col>
-              <span><b> Click on the below link to share this app among your friends and family members</b></span>
+              <span><b>Click on the below link to share this app among your friends and family members</b></span>
 
             </ion-col>
           </ion-row>
-         
+
           <ion-row>
             <ion-col>
-     <span><b> Whatsapp: <a href="https://wa.me/?text=https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps For Android</a></b></span>
+     <span><b>Whatsapp: <a href="https://wa.me/?text=https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps For Android</a></b></span>
               <br>
               <span><b>Whatsapp <a href="https://wa.me/?text=https://apps.apple.com/us/developer/three-souls/id1541256362">Thraitha Theorem For iOS</a></b></span>
               <br>
-     <span><b> Telegram <a href="https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps For Android</a></b></span>
+     <span><b>Telegram <a href="https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps For Android</a></b></span>
      <br>
      <span><b>Telegram  <a href="https://telegram.me/share/url?url=https://apps.apple.com/us/developer/three-souls/id1541256362">Thraitha Theorem Apps For iOS</a></b></span>
 
             </ion-col>
           </ion-row>
-         
-     
+
+
     </ion-col>
-    
+
   </ion-row>
-      
+
     `
     },
 
@@ -3276,7 +2917,7 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
           component: 17,
           subs: null
         },
-        
+
         {
           shloka: "7-15. Watch out for false prophets...",
           component: 19,
@@ -4133,7 +3774,7 @@ If Jesus says, “I do not know God,” it can be said that Jesus, like man, doe
           component: 110,
           subs: null
         },
-        
+
         {
           shloka: "8-24. I told you that you would die...",
           component: 111,
