@@ -8,25 +8,49 @@
       </ion-menu-toggle>
       <img src="assets/img/devudimudra.png" height="60">
     </ion-buttons>
-    <ion-title class="ion-text-center" style="font-size: 17px;"><b>Gems In<br>The Second Divine<br>Scripture</b></ion-title>
+    <ion-title class="ion-text-center" style="font-size: 17px;"><b>Gems In<br>The Second
+        Divine<br>Scripture</b></ion-title>
     <ion-buttons slot="end">
       <img src="assets/img/sks.png" height="60">
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
-
 <ion-content class="ion-content-color">
-
   <ion-grid>
+    <br>
+    <ion-row>
+      <ion-col class="ion-text-center">
+        <ion-searchbar  [debounce]="100" [(ngModel)]="this.gdSearchText" style="font-family:NTR"
+          (ngModelChange)="handleChange($event)"  show-clear-button="always"
+          placeholder="Search Song"></ion-searchbar>
+          <ion-list lines="none" *ngIf="filteredAudios?.length>0">
+            <ion-item *ngFor="let audio of filteredAudios"  lines="none" detail (click)="selectedAudio(audio)">
+              <ion-label>{{ audio.eng }}</ion-label>
+            </ion-item>
+          </ion-list>
+      </ion-col>
+    </ion-row>
 
-<ion-row *ngFor="let vd of videos">
-   <ion-col>
-    <a class="vid-img-container" (click)="openWisdomVideo(vd.id)">
-      <img class="playimg" src="/assets/images/playbutton.png">
 
-      <img class="vidimg" src="http://img.youtube.com/vi/{{vd.id}}/hqdefault.jpg">
-    </a>
-   </ion-col>
-</ion-row>
+          <ion-row>
+            <ion-col class="ion-text-center">
+              <span class="ion-text-wrap" style="font-size: 20px;font-family:NTR"><b>{{currentAudio?.title}}</b></span>
+            </ion-col>
+          </ion-row>
+          <ion-card>
+          <ion-row>
+            <ion-col  id="gdVideoId" style=" display: flex;justify-content: center;align-items: center;">
+            </ion-col>
+          </ion-row>
+          <ion-row>
+            <ion-col class="ion-text-center"> <ion-icon aria-hidden="true"  [ios]="'caret-forward-circle-outline'" [md]="'caret-forward-circle-outline'" style="font-size: xx-large;" (click)="veryFirst()" ></ion-icon> </ion-col>
+            <ion-col class="ion-text-center"> <ion-icon aria-hidden="true"  [ios]="'caret-forward'" [md]="'caret-forward'"  (click)="first(currentAudio)" style="font-size: xx-large;" ></ion-icon></ion-col>
+            <ion-col class="ion-text-center"> <ion-icon aria-hidden="true" [ios]="'shuffle'" [md]="'shuffle'"  (click)="shuffle()" style="font-size: xx-large;" ></ion-icon></ion-col>
+            <ion-col class="ion-text-center"><ion-icon aria-hidden="true" [ios]="'caret-back'" [md]="'caret-back'" (click)="last(currentAudio)" style="font-size: xx-large;" ></ion-icon></ion-col>
+            <ion-col class="ion-text-center"><ion-icon aria-hidden="true"  [ios]="'caret-back-circle-outline'" [md]="'caret-back-circle-outline'"   (click)="veryLast()" style="font-size: xx-large;" ></ion-icon></ion-col>
+          </ion-row>
+        </ion-card>
+
+
   </ion-grid>
 </ion-content>

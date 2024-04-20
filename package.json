@@ -8,6 +8,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
+    "resources": "cordova-res ios && cordova-res android && node scripts/resources.js",
     "test": "ng test",
     "lint": "ng lint"
   },
