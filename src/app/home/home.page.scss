@@ -156,4 +156,82 @@ swiper-container {
   font-size: 0.8em;
 }
 
+@media only screen and (max-width: 360px) {
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    font-weight: 700;
+    font-size: 13px;
+    color:blue;
+    transform: translate(-50%, -50%);
+  }
+  .centered2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 90%;
+    font-weight: 700;
+    font-size: 16px;
+    color:blue;
+    transform: translate(-50%, -50%);
+  }
 
+.img1-title1 {
+  position: absolute;
+  top: 1%;
+  text-align:center;
+  width: 100%;
+  color:hsl(57, 99%, 49%);
+  font-weight: 900;
+  font-size: 25px;
+}
+.img1-title2 {
+  position: absolute;
+  top: 9%;
+  text-align:center;
+  width: 100%;
+  color:rgb(215, 20, 222);
+  font-weight: 900;
+  font-size:1.0em;
+}
+.img7-title2 {
+  position: absolute;
+  top: 9%;
+  text-align:center;
+  width: 100%;
+  color:white;
+  font-weight: 900;
+  font-size:1.0em;
+}
+.img1-title3 {
+  position: absolute;
+  top: 15%;
+  text-align:center;
+  width: 100%;
+  color:hsl(57, 99%, 49%);
+  font-weight: 900;
+  font-size: 10px;
+}
+.img1-title4 {
+  position: absolute;
+  bottom: 9%;
+  text-align:center;
+  width: 100%;
+  color:hsl(57, 99%, 49%);
+  font-weight: 600;
+  font-size: 0.4em;
+}
+.img1-title5 {
+  position: absolute;
+  bottom: 4%;
+  text-align:center;
+  width: 100%;
+  color:hsl(57, 99%, 49%);
+  font-weight: 900;
+  font-size: 0.4em;
+}
+
+
+  }
