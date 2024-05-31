@@ -8,8 +8,8 @@
       </ion-menu-toggle>
       <img src="assets/img/devudimudra.png" height="60">
     </ion-buttons>
-    <ion-title class="ion-text-center" style="font-size: 17px;"><b>Gems In<br>The Second
-        Divine<br>Scripture</b></ion-title>
+    <ion-title class="ion-text-center" style="font-size: 17px;"><b> {{"header1" | translate}}<br>  {{"header2" | translate}}<br>  {{"header3" | translate}}</b></ion-title>
+
 
     <ion-buttons slot="end">
       <img src="assets/img/sks.png" height="60">
@@ -21,11 +21,128 @@
   <ion-grid>
     <ion-row>
       <ion-col>
+
+
+
         <swiper-container  (slidechange)="swiperSlideChanged($event)"
         [loop]="'true'" [autoplay]="{delay: 3500}" [pagination]="'true'">
           @for(img of data;track img;let i=$index){
           <swiper-slide>
+            @if(img==='assets/img/1.png'){
+              <div class="container">
+                <img src="assets/img/1.png"   style="width:100%;">
+                <div class="img1-title1">
+                  {{"image1.1" | translate}}
+                </div>
+                <div class="img1-title2">
+                  {{"image1.2" | translate}}
+                </div>
+                <div class="img1-title3">
+                  ({{"image1.3" | translate}})
+                </div>
+                <div class="img1-title4">
+                  {{"titles" | translate}}
+                </div>
+                <div class="img1-title5">
+                  {{"swami_name" | translate}}
+                </div>
+              </div>
+             }
+            @else if(img==='assets/img/4.png'){
+              <div class="container">
+                <img [src]="img"   style="width:100%;">
+                <div class="dm-top-left">
+                 <u> {{"seal_of_god.seal_of_god"| translate}}</u>
+                </div>
+                <div class="top-right1">
+                   {{"seal_of_god.nature"| translate}}
+                 </div>
+                 <div class="top-right2">
+                  {{"seal_of_god.holy_spirit"| translate}}
+                </div>
+                <div class="top-right3">
+                  {{"seal_of_god.father"| translate}}
+                </div>
+                <div class="top-right4">
+                  {{"seal_of_god.son"| translate}}
+                </div>
+                <div class="bottom-left2">
+                   {{"seal_of_god.body"| translate}}
+                 </div>
+                <div class="dm-bottom-left">
+                  <u> {{"seal_of_god.for_all_religions"| translate}}</u>
+                 </div>
+              </div>
+             }
+             @else if(img==='assets/img/5.png'){
+              <div class="container">
+                <img [src]="img"  style="width:100%;">
+                <div class="centered">
+                  <ol>
+                    <li>
+                  {{'image5.1'| translate}}</li><br>
+                  <li>
+                  {{'image5.2'| translate}}
+                </li><br><li>
+                  {{'image5.3'| translate}}
+                </li><br><li>
+                  {{'image5.4'| translate}}
+                  </li><br><li>
+                  {{'image5.5'| translate}}
+                </li><br><li>
+                  <span style="color:#ec008a">{{'image5.6'| translate}}</span> {{'image5.7'| translate}}
+                  </li>
+                  </ol>
+                </div>
+              </div>
+             }@else if(img==='assets/img/6.png'){
+              <div class="container">
+                <img [src]="img"   style="width:100%;">
+                <div class="centered2">
+
+                  {{'image6.1'| translate}}
+
+                  <span style="color:#ec008a">{{'image6.2'| translate}}</span>
+
+                  {{'image6.3'| translate}}
+
+                  <span style="color:#ec008a"> {{'image6.4'| translate}}</span>
+
+                  {{'image6.5'| translate}}
+                  <br><br>
+                  <ion-item-divider class="item-divider1">
+                    <ion-label> </ion-label>
+                  </ion-item-divider>
+                  {{'image6.6'| translate}}   <span style="color:#ec008a"> {{'image6.7'| translate}}</span>
+
+                </div>
+              </div>
+             }
+             @else if(img==='assets/img/7.png'){
+              <div class="container">
+                <img src="assets/img/7.png"   style="width:100%;">
+                <div class="img1-title1">
+                  {{"image1.1" | translate}}
+                </div>
+                <div class="img7-title2">
+                  {{"image1.2" | translate}}
+                </div>
+                <div class="img1-title3">
+                  ({{"image1.3" | translate}})
+                </div>
+                <div class="img1-title4">
+                  {{"titles" | translate}}
+                </div>
+                <div class="img1-title5">
+                  {{"swami_name" | translate}}
+                </div>
+              </div>
+             }
+
+             @else{
               <img [src]="img">
+             }
+
           </swiper-slide>
           }
         </swiper-container>
