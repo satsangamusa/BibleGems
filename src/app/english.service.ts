@@ -4,7 +4,7 @@ import { Routes } from '@angular/router';
 @Injectable({
   providedIn: 'root'
 })
-export class GlobalService {
+export class EnglishService {
 
   constructor() {
   }
@@ -349,6 +349,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
   Humans perform actions coordinated by the interplay of gnanendriyas (sensory organs) and karmendriyas (motor organs). Notably, the <b>eye</b> among the gnanendriyas and the <b>hand</b> among the karmendriyas hold particular importance, which is why both are mentioned in these verses. Even if the buddhi (intellect) does not direct the karmendriyas to carry out a task, sin can still be attributed to a person based on the thoughts of the buddhi when aham (ego), closely connected to the buddhi, is active. This underscores the pivotal role of the eye in potential sin. For example, when a person gazes at a woman with lustful thoughts, they may incur sin due to the influence of aham, even if they haven’t physically harmed the other person. The eye, in this manner, creates the possibility of attaching sin to an individual for actions that may never occur in the physical realm. Therefore, the verse advises us to ‘gouge the eye out and throw it away.’ However, it’s essential to note that this should not be taken literally, as physically removing one’s eye is not the intended meaning of the verse. The verse specifically mentions ‘your right eye,’ but it’s important to understand that both the right and left eye are capable of leading to similar outcomes. Sin can arise from both eyes. The mention of the right eye alone prompts contemplation about the reason behind this distinction.
 
 </div></div>
+
 <div class="container" style="color:black;font-size: 11px;">
           <img src="assets/img/gnanendriyalu.png"  style="width:100%;">
           <div class="io-jeeva">
@@ -2551,31 +2552,31 @@ pageNumber: 146,
 verse: ` <b>(14)	The John Revelation, 9th chapter, 4th, 5th and 6th verses.</b>`,
 meaning: `<b>
 (4) They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads.
-<p style="text-align:center;margin-right:5px">
+<p>
 <div class="container">
-<img src="assets/img/Devunimudra_inside.png"   style="width:100%;">
-<div class="top-left">
- <u> The Seal Of God</u>
-</div>
-<div class="top-right1">
-  Nature
- </div>
- <div class="top-right2">
- Holy Spirit
-</div>
-<div class="dm-top-right3">
- Father
-</div>
-<div class="dm-top-right4">
- Son
-</div>
-<div class="dm-bottom-left2">
-  Body
- </div>
-<div class="bottom-left">
-  <u> For All Religions</u>
- </div>
-</div>
+          <img src="assets/img/Devunimudra_inside.png"   style="width:100%;">
+          <div class="top-left">
+           <u> The Seal Of God</u>
+          </div>
+          <div class="top-right1">
+            Nature
+           </div>
+           <div class="top-right2">
+           Holy Spirit
+          </div>
+          <div class="dm-top-right3">
+           Father
+          </div>
+          <div class="dm-top-right4">
+           Son
+          </div>
+          <div class="dm-bottom-left2">
+            Body
+           </div>
+          <div class="bottom-left">
+            <u> For All Religions</u>
+           </div>
+        </div>
 </p>
 (5) They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes.
 <br><br>

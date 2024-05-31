@@ -1,0 +1,76 @@
+{
+  "menu":{
+    "home":"Casa",
+    "gods_path":"El camino de Dios",
+    "secret_of_creation":"El secreto de la creación",
+    "gospel_of_mathew":"El Evangelio de Mateo",
+    "gospel_of_mark":"El Evangelio de Marcos",
+    "gospel_of_luke":"El Evangelio de Lucas",
+    "gospel_of_john":"El Evangelio de Juan",
+    "revelations":"El Apocalipsis",
+    "three_fingers":"Los Tres Dedos",
+    "good_friday_bad_friday":"Viernes Santo - Viernes Malo",
+    "a_letter_from_a_hindu":"Carta de un hindú",
+    "glossary":"Glosario",
+    "videos":"Vídeos"
+  },
+  "header1":"Gemas en",
+  "header2":"La Segunda",
+  "header3":"Escritura Divina",
+  "settings":"configuración",
+  "font_size":"tamaño de fuente",
+  "gospels_in_thraitha_theorem":"Evangelio en el Teorema de Thraitha",
+  "author":"El autor: El único Gurú de tres religiones (hindú, musulmana y cristiana), El Emperador del Reino Espiritual, El escritor de más de cien libros sagrados divinos, Indu Gnana Dharma Pradata, el Escritor Sensacional, Adi Karta de la Doctrina Traita, Sri Sri Sri Acharya Prabodhananda Yogeeswarulu",
+  "titles":"El autor: El único Gurú de tres religiones (hindú, musulmana y cristiana), El Emperador del Reino Espiritual, El escritor de más de cien libros sagrados divinos, Indu Gnana Dharma Pradata, el Escritor Sensacional, Adi Karta de la Doctrina Traita",
+  "swami_name":"Sri Sri Sri Acharya Prabodhananda Yogeeswarulu",
+  "mind_image":{
+    "jeeva": "JIVA",
+    "mind": "MENTE",
+    "intellect": "INTELECTO",
+    "chittam":"CHITTAM",
+    "aham": "AHAM",
+    "eye": "OJO",
+    "nose": "NARIZ",
+    "ear": "OÍDO",
+    "tongue": "LENGUA",
+    "skin": "PIEL",
+    "hands": "MANOS",
+    "legs": "PIERNAS",
+    "mouth": "BOCA",
+    "anus":"ÓRGANO EXCRETOR",
+    "sex_organ": "ÓRGANO SEXUAL"
+  },
+  "seal_of_god":{
+    "seal_of_god":"EL SELLO DE DIOS",
+    "nature": "Naturaleza",
+    "holy_spirit": "Espíritu Santo",
+    "father": "Padre",
+    "son": "Hijo",
+    "body": "Cuerpo",
+    "for_all_religions": "Para todas las religiones"
+  },
+  "image5":{
+    "1":"Los cuatro adharmas ocupan el diez por ciento del ser humano, mientras que la religión ocupa el 99 por ciento.",
+    "2":"Mientras que Yagna, Dana (donación), Veda y Tapas (meditación prolongada) son los cuatro adharmas, el quinto adharmas es la religión.",
+    "3":"El mayor obstáculo para el camino divino es la religión.",
+    "4":"La religión es el mayor de todos los adharmas.",
+    "5":"Si estás en la religión en el camino mundano, serás asesinado en el camino de Dios",
+    "6":"La religión",
+    "7":" es el quinto adharmas que surge en el Kali Yuga recientemente."
+  },
+  "image6":{
+    "1":"as religiones están prohibidas y vedadas.Las castas son irracionales y acientíficas.",
+    "2":"El Bhagavad Gita, la Biblia y el Corán ",
+    "3":"son tres partes de la misma escritura divina. Si tu actitud trasciende más allá de la casta y la religión, Únete inmediatamente a ",
+    "4":" 'Prabodha Sevasamiti' ",
+    "5":" como miembro. Quiero que Dios te haga gnani. ",
+    "6":"El único Gurú de Tres Religiones y el Creador del Teorema de Thraitha ",
+    "7":"Sri Sri Sri Acharya Prabodhananda Yogeeshwarulu"
+  },
+  "image1":{
+    "1":"Gemas en",
+    "2":"La Segunda Escritura Divina",
+    "3":"Evangelio en el Teorema de Thraitha"
+  }
+}
+

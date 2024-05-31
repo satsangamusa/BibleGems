@@ -25,6 +25,7 @@ import {
   IonToolbar,
   ModalController,
 } from '@ionic/angular/standalone';
+import { TranslateModule } from '@ngx-translate/core';
 import { BehaviorSubject, Observable } from 'rxjs';
 import { GlobalService } from '../global.service';
 import { SettingsModalPage } from '../settings-modal/settings-modal.page';
@@ -37,6 +38,7 @@ import { SettingsModalPage } from '../settings-modal/settings-modal.page';
     imports: [
       SettingsModalPage,
       CommonModule,
+      TranslateModule,
       IonCard,
       FormsModule,
       IonCol,
@@ -271,11 +273,24 @@ export class VideosPage implements OnInit {
       ytUrl:"https://www.youtube.com/watch?v=N0NOoU0-6EI",
       id: "31AllahYeSrushtikartha.mp4"
     },
+
     {
-      eng: 'Devudu Vachaadu Bhagavanthudai',
+      eng: 'Akasam Neevu',
       url: null,
-      ytUrl:"https://www.youtube.com/watch?v=N0NOoU0-6EI",
-      id: "4DevuduVachaaduBhagavanthudai.mp4"
+      ytUrl:"https://www.youtube.com/watch?v=M-NUpkKdVZo",
+      id: "62AkasamNeevu.mp4"
+    },
+    {
+      eng: 'Ninnu neevu tagginchukora',
+      url: null,
+      ytUrl:"https://www.youtube.com/watch?v=9Y1wtZomqTg",
+      id: "65Ninnuneevutagginchukoraa.mp4"
+    },
+    {
+      eng: 'Kreesthu Nadachina Baata',
+      url: null,
+      ytUrl:"https://www.youtube.com/watch?v=eIxrqRLarQI",
+      id: "66KreesthuNadachinaBaata.mp4"
     },
     {
       eng: 'Chudanivadu Chudalani',
@@ -288,6 +303,54 @@ export class VideosPage implements OnInit {
       ytUrl:"https://www.youtube.com/watch?v=XEKATmRfVxk",
       url: null,
       id: "90JeevaatmeOkaKanamga.mp4"
+    },
+    {
+      eng: 'Thandri Atma Swarupa',
+      ytUrl:"https://www.youtube.com/watch?v=KcCy524b2tQ",
+      url: null,
+      id: "112ThandriAtmaswaroopa.mp4"
+    },
+    {
+      eng: 'Tandri Kumar Parishuddhaatma(Father, Son, Holyspirit)',
+      ytUrl:"https://www.youtube.com/watch?v=j1vWVh-RUFg",
+      url: null,
+      id: "113TandriKumaraParishuddhatma.mp4"
+    },
+    {
+      eng: 'Jaya Jaya O Prabhu Yesu',
+      ytUrl:"https://www.youtube.com/watch?v=VSEl8-G_ENM",
+      url: null,
+      id: "114JayaJayaOPrabhuYesu.mp4"
+    },
+    {
+      eng: 'Idhi Matha Mayalo',
+      ytUrl:"https://www.youtube.com/watch?v=C-prdtMnsbI",
+      url: null,
+      id: "122Idimatamayalo.mp4"
+    },
+    {
+      eng: 'The Judgement Of God',
+      ytUrl:"https://www.youtube.com/watch?v=OHkiv_9vWZ8",
+      url: null,
+      id: "127TheJudgementofGOD.mp4"
+    },
+    {
+      eng: 'Rahasya Praarthana',
+      ytUrl:"https://www.youtube.com/watch?v=G4unaSKBAas",
+      url: null,
+      id: "134RahasyaPrarthana.mp4"
+    },
+    {
+      eng: 'Prabhu Yesu Jananam',
+      ytUrl:"https://www.youtube.com/watch?v=qtSvW_dGxZA",
+      url: null,
+      id: "135PrabhuYesuJananam.mp4"
+    },
+    {
+      eng: 'Ededu Deepa Sthambhalapai',
+      ytUrl:"https://www.youtube.com/watch?v=2CKzZVmBVtw",
+      url: null,
+      id: "136YededuDeepaSthambalapai.mp4"
     },
   ];
 }

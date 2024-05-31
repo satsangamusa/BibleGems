@@ -2,6 +2,7 @@ import { NgStyle } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { IonCol, IonContent, IonRange, IonRow, NavParams } from '@ionic/angular/standalone';
+import { TranslateModule } from '@ngx-translate/core';
 import { GlobalService } from 'src/app/global.service';
 
 
@@ -12,6 +13,7 @@ import { GlobalService } from 'src/app/global.service';
     standalone: true,
     imports: [
         NgStyle,
+        TranslateModule,
         FormsModule,
         IonContent,
         IonRange,

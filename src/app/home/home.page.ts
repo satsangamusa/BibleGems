@@ -4,6 +4,7 @@ import {
   IonButton, IonButtons, IonCol, IonContent, IonGrid, IonHeader,
   IonIcon, IonMenuToggle, IonRow, IonTitle, IonToolbar
 } from '@ionic/angular/standalone';
+import { TranslateModule } from '@ngx-translate/core';
 import { GlobalService } from 'src/app/global.service';
 
 @Component({
@@ -12,6 +13,7 @@ import { GlobalService } from 'src/app/global.service';
     styleUrls: ['./home.page.scss'],
     standalone: true,
     imports: [NgFor,
+      TranslateModule,
     IonContent,IonRow,IonGrid,IonCol,IonButton,IonTitle,IonButtons,IonMenuToggle,IonToolbar,IonHeader,IonIcon
     ],
     schemas:[CUSTOM_ELEMENTS_SCHEMA]

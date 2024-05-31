@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-toggle>
+        <ion-button>
+          <ion-icon slot="icon-only" name="menu"></ion-icon>
+        </ion-button>
+      </ion-menu-toggle>
+      <img src="assets/img/devudimudra.png" height="60">
+    </ion-buttons>
+    <ion-title class="ion-text-center" style="font-size: 17px;"><b> {{"header1" | translate}}<br>  {{"header2" | translate}}<br>  {{"header3" | translate}}</b></ion-title>
+
+    <ion-buttons slot="end">
+      <img src="assets/img/sks.png" height="60">
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-content-color">
+  <ion-grid>
+    @if(this.countryCode?.country!=='IN'){
+<ion-card>
+  <ion-card-header>
+    <ion-row>
+      <ion-col class="ion-text-center" style="font-size: medium;color:black"><b>
+     Please Select a Language to proceed.
+      </b></ion-col>
+    </ion-row>
+  </ion-card-header>
+    <ion-row>
+      <ion-col class="ion-text-center">
+       <ion-button fill="outline" color="tertiary" shape="round" (click)="changeLanguage('en')" style="font-size: 18px;">English</ion-button><br>
+      </ion-col>
+      <ion-col class="ion-text-center">
+        <ion-button fill="outline" color="tertiary" shape="round" (click)="changeLanguage('es')" style="font-size: 18px;">Español</ion-button><br>
+       </ion-col>
+    </ion-row>
+  </ion-card>
+  }
+  </ion-grid>
+
+</ion-content>

@@ -6,6 +6,7 @@ import {
   IonCol, IonContent, IonGrid, IonHeader,
   IonIcon, IonMenuToggle, IonRow, IonTitle, IonToolbar, PopoverController,
 } from '@ionic/angular/standalone';
+import { TranslateModule } from '@ngx-translate/core';
 import { GlobalService } from 'src/app/global.service';
 import { SettingsModalPage } from 'src/app/settings-modal/settings-modal.page';
 import { ContentPipe } from '../content-pipe';
@@ -17,6 +18,7 @@ import { ContentPipe } from '../content-pipe';
     providers:[PopoverController],
     imports: [
         NgIf,
+        TranslateModule,
         NgStyle,
         ContentPipe,
         ContentPipe,

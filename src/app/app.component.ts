@@ -58,8 +58,11 @@ export class AppComponent implements OnInit {
         this.router.navigateByUrl('videos');
       }
       else{
-
-      if(page.component=='-1'){
+       console.log(page.componentName==='landing')
+      if(page.componentName==='landing'){
+        this.router.navigateByUrl('landing');
+      }
+      else if(page.component=='-1'){
         this.router.navigateByUrl("home");
       }else{
         this.global.currentPage=page.component;
