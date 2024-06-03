@@ -29,12 +29,25 @@ export class LandingPage implements OnInit {
     speed: 200,
   };
   value: any = 1;
+  countryCode:any={"country":"IN"};
   constructor(public global: GlobalService,public englishService:EnglishService,public spanishService:SpanishService,public transalteService:TranslateService, public router:Router) {
-    fetch('https://api.country.is').then(async data=>{
-      this.countryCode = await data.json();
-      if( this.countryCode.country==='IN' ||  this.countryCode.country===''){
-       this.router.navigateByUrl('home');
-      }
+    fetch('https://api.country.is')
+    .then(async response => {
+        const isJson = response.headers.get('content-type')?.includes('application/json');
+        this.countryCode = isJson ? await response.json() : {"country":"IN"};
+      if( this.countryCode?.country==='IN'){
+        this.router.navigateByUrl('home');
+       }
+        // check for error response
+        if (!response.ok) {
+            // get error message from body or default to response status
+            const error = (this.countryCode && this.countryCode.message) || response.status;
+            return Promise.reject(error);
+        }
+    })
+    .catch(error => {
+        console.error('There was an error!', error);
+        this.router.navigateByUrl('home');
     });
 
    }
@@ -42,7 +55,7 @@ export class LandingPage implements OnInit {
   ngOnInit() {
     this.transalteService.use(this.global.language);
   }
-  countryCode:any={"country":"IN"};
+
   ionViewWillEnter() {
 
   }
