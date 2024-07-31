@@ -22,8 +22,6 @@
     <ion-row>
       <ion-col>
 
-
-
         <swiper-container  (slidechange)="swiperSlideChanged($event)"
         [loop]="'true'" [autoplay]="{delay: 3500}" [pagination]="'true'">
           @for(img of data;track img;let i=$index){
@@ -37,9 +35,15 @@
                 <div class="img1-title2">
                   {{"image1.2" | translate}}
                 </div>
-                <div class="img1-title3">
-                  ({{"image1.3" | translate}})
-                </div>
+                @if( this.global.language==='ge'){
+                  <div class="img1-title3" style="top:21%">
+                    ({{"image1.3" | translate}})
+                  </div>
+                }@else  {
+                  <div class="img1-title3">
+                    ({{"image1.3" | translate}})
+                  </div>
+                }
                 <div class="img1-title4">
                   {{"titles" | translate}}
                 </div>
@@ -127,9 +131,15 @@
                 <div class="img7-title2">
                   {{"image1.2" | translate}}
                 </div>
-                <div class="img1-title3">
-                  ({{"image1.3" | translate}})
-                </div>
+                @if( this.global.language==='ge'){
+                  <div class="img1-title3" style="top:21%">
+                    ({{"image1.3" | translate}})
+                  </div>
+                }@else  {
+                  <div class="img1-title3">
+                    ({{"image1.3" | translate}})
+                  </div>
+                }
                 <div class="img1-title4">
                   {{"titles" | translate}}
                 </div>
