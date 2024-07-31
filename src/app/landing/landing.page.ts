@@ -8,8 +8,8 @@ import {
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { GlobalService } from 'src/app/global.service';
 import { EnglishService } from '../english.service';
+import { GermanService } from '../german.service';
 import { SpanishService } from '../spanish.service';
-
 @Component({
     selector: 'app-landing',
     templateUrl: './landing.page.html',
@@ -30,7 +30,7 @@ export class LandingPage implements OnInit {
   };
   value: any = 1;
   countryCode:any={"country":"IN"};
-  constructor(public global: GlobalService,public englishService:EnglishService,public spanishService:SpanishService,public transalteService:TranslateService, public router:Router) {
+  constructor(public global: GlobalService,public englishService:EnglishService,public germanService:GermanService,public spanishService:SpanishService,public transalteService:TranslateService, public router:Router) {
     fetch('https://api.country.is')
     .then(async response => {
         const isJson = response.headers.get('content-type')?.includes('application/json');
@@ -68,6 +68,11 @@ export class LandingPage implements OnInit {
   } if(lc==='en'){
     this.global.bible=this.englishService.bible;
     this.global.chapters=[ { title: "Change Language",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.englishService.chapters];
+  }
+  if(lc==='ge'){
+    this.global.bible=this.germanService.bible;
+    this.global.chapters=[ { title: "Change Language German",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.germanService.chapters];
+    console.log(this.global.chapters,this.global.bible)
   }
   this.router.navigateByUrl('home');
  }

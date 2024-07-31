@@ -2850,7 +2850,7 @@ meaning: ``,
 pageText: `
 <ion-row>
 <ion-col class="ion-text-center">
-<b>GLOSSARY</b></ion-col>
+<b>GLOSARIO</b></ion-col>
 </ion-row>
 <div class="poem">
 <div class="poemtext">
