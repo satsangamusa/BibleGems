@@ -2551,9 +2551,8 @@ pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 Unter
 Der einzige Guru der drei Religionen<br>
 <b>Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu</b><br><br>
-
-Although one thousand persons support - a lie cannot become truth. <br>
-Although one thousand persons negate - truth cannot become a lie.
+Auch wenn tausend Menschen zustimmen - eine Lüge kann nicht zur Wahrheit werden.<br>
+Auch wenn tausend Menschen verneinen - die Wahrheit kann nicht zur Lüge werden.
 </ion-col></ion-row>
 </span>`
 },
@@ -2706,7 +2705,7 @@ verse: `
 `
 },
     {
-      chapterName: "Share",
+      chapterName: "Teilen",
       chapterNumber: 13,
       pageNumber: 153,
       verse: `
@@ -2715,7 +2714,7 @@ verse: `
 
     <ion-row>
     <ion-col style="font-size:17px">
-      <ion-title class="ion-text-center"> <b>Share The Apps </b></ion-title><br>
+      <ion-title class="ion-text-center"> <b>Die Apps teilen</b></ion-title><br>
     </ion-col>
   </ion-row>
 
@@ -2725,20 +2724,20 @@ verse: `
 
           <ion-row>
             <ion-col>
-              <span><b>Click on the below link to share this app among your friends and family members</b></span>
+              <span><b>Klicken Sie auf den untenstehenden Link, um diese App mit Ihren Freunden und Familienmitgliedern zu teilen</b></span>
 
             </ion-col>
           </ion-row>
 
           <ion-row>
             <ion-col>
-     <span><b>Whatsapp: <a href="https://wa.me/?text=https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps For Android</a></b></span>
+     <span><b>Whatsapp: <a href="https://wa.me/?text=https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps für Android</a></b></span>
               <br>
-              <span><b>Whatsapp <a href="https://wa.me/?text=https://apps.apple.com/us/developer/three-souls/id1541256362">Thraitha Theorem For iOS</a></b></span>
+              <span><b>Whatsapp <a href="https://wa.me/?text=https://apps.apple.com/us/developer/three-souls/id1541256362">Thraitha Theorem für iOS</a></b></span>
               <br>
-     <span><b>Telegram <a href="https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps For Android</a></b></span>
+     <span><b>Telegram <a href="https://play.google.com/store/apps/dev?id=7706717796953849920">Thraitha Theorem Apps für Android</a></b></span>
      <br>
-     <span><b>Telegram  <a href="https://telegram.me/share/url?url=https://apps.apple.com/us/developer/three-souls/id1541256362">Thraitha Theorem Apps For iOS</a></b></span>
+     <span><b>Telegram  <a href="https://telegram.me/share/url?url=https://apps.apple.com/us/developer/three-souls/id1541256362">Thraitha Theorem für iOS</a></b></span>
 
             </ion-col>
           </ion-row>
