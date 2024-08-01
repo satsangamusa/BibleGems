@@ -4,7 +4,7 @@ import { Router, RouterLink, RouterLinkActive } from '@angular/router';
 import { IonApp, IonCol, IonContent, IonIcon, IonItem, IonLabel, IonList, IonListHeader, IonMenu, IonMenuToggle, IonNote, IonRouterOutlet, IonRow, IonSplitPane } from '@ionic/angular/standalone';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { addIcons } from 'ionicons';
-import { addCircleOutline, archiveOutline, archiveSharp, book, bookOutline, bookSharp, bookmarkOutline, bookmarkSharp, caretBack, caretBackCircleOutline, caretForward, caretForwardCircleOutline, close, document, documentText, heartOutline, heartSharp, home, homeOutline, information, list, mailOutline, mailSharp, menu, mic, paperPlaneOutline, paperPlaneSharp, removeCircleOutline, settings, settingsOutline, settingsSharp, shuffle, trashOutline, trashSharp, videocam, warningOutline, warningSharp } from 'ionicons/icons';
+import { addCircleOutline, archiveOutline, archiveSharp, book, bookOutline, bookSharp, bookmarkOutline, bookmarkSharp, caretBack, caretBackCircleOutline, caretForward, caretForwardCircleOutline, close, document, documentText, heartOutline, heartSharp, home, homeOutline, information, list, mailOutline, mailSharp, menu, mic, paperPlaneOutline, paperPlaneSharp, pause, play, removeCircleOutline, settings, settingsOutline, settingsSharp, shuffle, trashOutline, trashSharp, videocam, warningOutline, warningSharp } from 'ionicons/icons';
 import { register } from 'swiper/element/bundle';
 import { GlobalService } from './global.service';
 import { ConnectionStatus, NetworkService } from './network.service';
@@ -32,7 +32,7 @@ export class AppComponent implements OnInit {
     public ts:TranslateService,
     private networkService: NetworkService,
   ) {
-    addIcons({ mailOutline,close,home,homeOutline,settingsOutline,settings,settingsSharp,book,documentText,bookOutline,bookSharp,information,caretBack,removeCircleOutline,addCircleOutline,shuffle,caretBackCircleOutline,caretForwardCircleOutline,caretForward,mic,videocam,menu, list,mailSharp,document, paperPlaneOutline, paperPlaneSharp, heartOutline, heartSharp, archiveOutline, archiveSharp, trashOutline, trashSharp, warningOutline, warningSharp, bookmarkOutline, bookmarkSharp });
+    addIcons({ mailOutline,play,pause,close,home,homeOutline,settingsOutline,settings,settingsSharp,book,documentText,bookOutline,bookSharp,information,caretBack,removeCircleOutline,addCircleOutline,shuffle,caretBackCircleOutline,caretForwardCircleOutline,caretForward,mic,videocam,menu, list,mailSharp,document, paperPlaneOutline, paperPlaneSharp, heartOutline, heartSharp, archiveOutline, archiveSharp, trashOutline, trashSharp, warningOutline, warningSharp, bookmarkOutline, bookmarkSharp });
     ts.use('en');
     this.initializeApp();
   }

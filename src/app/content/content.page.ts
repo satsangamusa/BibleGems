@@ -1,5 +1,6 @@
 import { NgIf, NgStyle } from '@angular/common';
 import { Component, OnInit, ViewChild } from '@angular/core';
+import { TTSOptions, TextToSpeech } from '@capacitor-community/text-to-speech';
 import {
   IonButton, IonButtons,
   IonCard,
@@ -10,6 +11,7 @@ import { TranslateModule } from '@ngx-translate/core';
 import { GlobalService } from 'src/app/global.service';
 import { SettingsModalPage } from 'src/app/settings-modal/settings-modal.page';
 import { ContentPipe } from '../content-pipe';
+
 @Component({
     selector: 'app-content',
     templateUrl: './content.page.html',
@@ -32,8 +34,62 @@ export class ContentPage implements OnInit {
    ) {
 
   }
-
+  supportedLanguages:any;
+  supportedVoices:any;
   ngOnInit() {
+    TextToSpeech.getSupportedLanguages().then(result => {
+      this.supportedLanguages = result.languages;
+      console.log(this.supportedLanguages);
+    });
+    TextToSpeech.getSupportedVoices().then(result => {
+      this.supportedVoices = result.voices;
+      console.log(this.supportedVoices)
+    });
+
+  }
+  voiceLanguage:string='en-US';
+  ionViewDidEnter(){
+    const languageMap:any = {
+      'ge': 'de-DE',
+      'en': 'en-US',
+      'es': 'es-MX',
+      'it': 'it-IT',
+      'fr': 'fr-FR'
+    };
+    this.voiceLanguage = languageMap[this.global.language] || 'en-US';
+  }
+  public async speak(): Promise<void> {
+    let verseTxt:string = ``;
+    let meaningTxt:string = ``;
+    let explanation:string = ''
+    if(this.global.bible[this.global.currentPage]?.verse){
+      verseTxt = this.global.bible[this.global.currentPage]?.verse?.replace(/<[^>]+>/g, '');
+    }
+    if(this.global.bible[this.global.currentPage]?.meaning){
+      meaningTxt = this.global.bible[this.global.currentPage]?.meaning?.replace(/<[^>]+>/g, '');
+    }
+    if(this.global.bible[this.global.currentPage]?.pageText){
+      explanation = this.global.bible[this.global.currentPage]?.pageText?.replace(/<[^>]+>/g, '');
+    }
+
+    const options: TTSOptions = {
+      text: verseTxt+' ' + meaningTxt+' '+explanation,
+    lang: this.voiceLanguage,
+    rate: 0.6,
+    pitch: 1.0,
+    volume: 1.0,
+    category: 'ambient',
+    };
+    await TextToSpeech.speak(options);
+  }
+  currentIcon:string='pause';
+  public async stop(): Promise<void> {
+    console.log('stopped')
+    await TextToSpeech.stop();
+  }
+
+  public async openInstall(): Promise<void> {
+    await TextToSpeech.openInstall();
   }
 
   goToTop() {

@@ -19,6 +19,7 @@
 
 <ion-content class="ion-content-color">
   <ion-grid>
+
     @if(this.global.currentPage<=150){ <ion-row>
       <ion-col class="ion-text-center">
         @if(this.global.currentPage>0){
@@ -57,6 +58,10 @@
             </ion-row>
             }
             <ion-row>
+              <ion-col size="2" style="margin:auto"><ion-icon [name]="currentIcon"
+                (click)="currentIcon=currentIcon==='play'?'pause':'play';currentIcon==='play'?speak():stop()"></ion-icon></ion-col>
+            </ion-row>
+            <ion-row>
               <ion-col>
                 <span [innerHTML]="this.global.bible[this.global.currentPage].verse | safe:'html'"> </span>
               </ion-col>
@@ -66,11 +71,15 @@
                 <span [innerHTML]="this.global.bible[this.global.currentPage].meaning | safe:'html'"> </span>
               </ion-col>
             </ion-row>
-            <ion-row>
-              <ion-col>
-                <span [innerHTML]="this.global.bible[this.global.currentPage].pageText | safe:'html'"> </span>
-              </ion-col>
-            </ion-row>
+
+
+              <ion-row>
+                <ion-col>
+                  <span id="readText" [innerHTML]="this.global.bible[this.global.currentPage].pageText | safe:'html'"> </span>
+                </ion-col>
+              </ion-row>
+
+
           </div>
           }
         </ion-col>
