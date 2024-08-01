@@ -71,7 +71,7 @@ export class LandingPage implements OnInit {
   }
   if(lc==='ge'){
     this.global.bible=this.germanService.bible;
-    this.global.chapters=[ { title: "Change Language German",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.germanService.chapters];
+    this.global.chapters=[ { title: "Sprache ändern",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.germanService.chapters];
     console.log(this.global.chapters,this.global.bible)
   }
   this.router.navigateByUrl('home');
