@@ -1,6 +1,7 @@
 import { NgIf, NgStyle } from '@angular/common';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { TTSOptions, TextToSpeech } from '@capacitor-community/text-to-speech';
+import { Capacitor } from '@capacitor/core';
 import {
   IonButton, IonButtons,
   IonCard,
@@ -36,14 +37,15 @@ export class ContentPage implements OnInit {
   }
   supportedLanguages:any;
   supportedVoices:any;
+  platForm:any;
   ngOnInit() {
+
+    this.platForm = Capacitor.getPlatform();
     TextToSpeech.getSupportedLanguages().then(result => {
       this.supportedLanguages = result.languages;
-      console.log(this.supportedLanguages);
     });
     TextToSpeech.getSupportedVoices().then(result => {
       this.supportedVoices = result.voices;
-      console.log(this.supportedVoices)
     });
 
   }
@@ -56,7 +58,11 @@ export class ContentPage implements OnInit {
       'it': 'it-IT',
       'fr': 'fr-FR'
     };
-    this.voiceLanguage = languageMap[this.global.language] || 'en-US';
+    this.voiceLanguage = languageMap[this.global.language] || 'eng-default';
+  }
+  togglePlay(){
+    this.currentIcon=this.currentIcon==='play-circle'?'stop-circle':'play-circle';
+    this.currentIcon==='stop-circle'?this.speak(): this.stop();
   }
   public async speak(): Promise<void> {
     let verseTxt:string = ``;
@@ -71,20 +77,22 @@ export class ContentPage implements OnInit {
     if(this.global.bible[this.global.currentPage]?.pageText){
       explanation = this.global.bible[this.global.currentPage]?.pageText?.replace(/<[^>]+>/g, '');
     }
-
     const options: TTSOptions = {
-      text: verseTxt+' ' + meaningTxt+' '+explanation,
-    lang: this.voiceLanguage,
-    rate: 0.6,
-    pitch: 1.0,
-    volume: 1.0,
-    category: 'ambient',
+       text: verseTxt+' ' + meaningTxt+' '+explanation,
+       lang: this.voiceLanguage,
+      rate: 1,
+      pitch: 1,
+      volume: 1,
+      category: 'ambient',
     };
     await TextToSpeech.speak(options);
+
+
+    await TextToSpeech.speak(options);
   }
-  currentIcon:string='pause';
+  currentIcon:string='play-circle';
   public async stop(): Promise<void> {
-    console.log('stopped')
+    this.currentIcon='play-circle';
     await TextToSpeech.stop();
   }
 
