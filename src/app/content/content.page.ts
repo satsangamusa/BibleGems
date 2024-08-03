@@ -1,7 +1,6 @@
 import { NgIf, NgStyle } from '@angular/common';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { TTSOptions, TextToSpeech } from '@capacitor-community/text-to-speech';
-import { Capacitor } from '@capacitor/core';
 import {
   IonButton, IonButtons,
   IonCard,
@@ -40,14 +39,14 @@ export class ContentPage implements OnInit {
   platForm:any;
   ngOnInit() {
 
-    this.platForm = Capacitor.getPlatform();
+  /*  this.platForm = Capacitor.getPlatform();
     TextToSpeech.getSupportedLanguages().then(result => {
       this.supportedLanguages = result.languages;
     });
     TextToSpeech.getSupportedVoices().then(result => {
       this.supportedVoices = result.voices;
     });
-
+*/
   }
   voiceLanguage:string='en-US';
   ionViewDidEnter(){
