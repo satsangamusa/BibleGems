@@ -2851,19 +2851,19 @@ verse: ``,
 meaning: ``,
 pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"> <div class="poemtext">
-
   Alcuni eventi nella vita portano felicit&agrave;, mentre altri portano dolore a una persona. Durante i momenti di gioia, un individuo &egrave; allegro e apprezza il buon cibo e il buon vestiario. Al contrario, di fronte al dolore, si perde l&rsquo;appetito e l&rsquo;interesse per vari aspetti della vita. La festa del Diwali in India, ad esempio, viene celebrata con petardi per commemorare la sconfitta del malvagio demone Narakasura in quel giorno. Nei tempi antichi, gli scribi, i farisei e gli studiosi che portarono Ges&ugrave; davanti alla corte e orchestrarono la Sua esecuzione si rallegrarono della Sua morte. Ogni anno celebravano l&rsquo;anniversario della morte di Ges&ugrave; come Venerd&igrave; Santo, considerandolo un giorno di felicit&agrave;. Da allora, la festa &egrave; conosciuta come il &ldquo;Venerd&igrave; Santo&rdquo;.
 
   Nei primi tempi, persone che non erano a conoscenza della grandezza di Ges&ugrave;, insieme agli scribi e agli studiosi, celebravano la festa. Ci&ograve; accadde quando il valore e la saggezza di Ges&ugrave; erano sconosciuti. Al giorno d&rsquo;oggi, anche coloro che hanno familiarit&agrave; con la saggezza di Ges&ugrave; celebrano il giorno della sua morte come Venerd&igrave; Santo. Sebbene sia consuetudine festeggiare con gioia in una bella giornata, il giorno in cui Ges&ugrave; mor&igrave; dovrebbe essere un giorno doloroso per i Suoi devoti. &Egrave; sorprendente vedere i cristiani, che professano Ges&ugrave; come loro Dio, indossare felicemente abiti nuovi e mangiare buon cibo senza esprimere dolore per la morte di Ges&ugrave; quel giorno.
 
   In effetti, il giorno in cui Ges&ugrave; fu ucciso dovrebbe essere etichettato come un &ldquo;brutto giorno&rdquo;. I devoti di Ges&ugrave; dovrebbero esprimere dolore e astenersi dal mangiare quel giorno. &Egrave; sconcertante celebrare la giornata come una festa e chiamarla &ldquo;Venerd&igrave; Santo&rdquo; come se fosse un giorno di bont&agrave;. Anche coloro che considerano Ges&ugrave; la loro famiglia Dio partecipano alla celebrazione, rivelando la loro incomprensione del valore di Ges&ugrave;. Coloro che venerano profondamente Ges&ugrave; dovrebbero considerare quel giorno come un &ldquo;Brutto Venerd&igrave;&rdquo;. I predicatori hanno la responsabilit&agrave; di educare le persone sul significato del Brutto Venerd&igrave; e di scoraggiarle dal celebrarlo. Le persone che non riescono a distinguere tra il giorno della morte e il compleanno non comprendono la grandezza della saggezza di Dio. Quando muore un capofamiglia, tutta la famiglia piange, e la stessa riverenza va riservata quando muore Ges&ugrave;, che dovrebbe essere stimato pi&ugrave; di un familiare. Celebrare la morte di Ges&ugrave; come una festa senza dolore &egrave; un errore, dando per scontato che sia un giorno propizio. Ges&ugrave; disse: &ldquo;<b>Chi ama suo padre o sua madre pi&ugrave; di me, non &egrave; degno di me; chiunque ama il proprio figlio o la propria figlia pi&ugrave; di me non &egrave; degno di me</b>.&rdquo; Quando le persone piangono la morte di un membro della famiglia ma non piangono la morte di Ges&ugrave; e la celebrano invece come una festa, come possono essere degne della misericordia di Ges&ugrave;? Pertanto, chiamiamo il Venerd&igrave; Santo un &ldquo;Brutto Venerd&igrave;&rdquo; per onorare Ges&ugrave;. Diventa un atto di riverenza verso Ges&ugrave; quando consideriamo quel giorno come un giorno malvagio e lo piangiamo senza celebrarlo. Altrimenti, <b>esprimiamo ammirazione per Ges&ugrave; solo con le nostre parole, non nel nostro cuore</b>. Se onori, ami, adori e preghi Ges&ugrave;, allora diffondi il concetto del Venerd&igrave; Santo come Venerd&igrave; Cattivo e aiuta tutti a capirlo. Allora diventerai un vero devoto di Ges&ugrave;. Quando abbandoni il Venerd&igrave; Santo, non ti succede nulla di male; accadono solo cose belle.
 </div></div>
+<br>
 <ion-row><ion-col class="ion-text-center">
-Di
+Di<br>
 L'unico guru di tre religioni<br>
 <b>Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu</b><br><br>
 
-Sebbene mille persone sostengano, una bugia non può diventare verità mille persone negano: la verità non può diventare una bugia.
+<b>Sebbene mille persone sostengano, una bugia non può diventare verità mille persone negano: la verità non può diventare una bugia.</b>
 
 </ion-col></ion-row>
 </span>`
@@ -2978,78 +2978,79 @@ pageText: `
 <ion-col class="ion-text-center">
 <b>GLOSSARIO</b></ion-col>
 </ion-row>
-  <b>Achara Prakruti</b>: Cinque elementi immutabili: cielo, aria, fuoco, acqua e terra. Quelli (Prakruti) che non hanno karma. Prapancha. Pancha Bhuta.
+<div class="poem"><div class="poemtext">
+<b>Achara Prakruti</b>: Cinque elementi immutabili: cielo, aria, fuoco, acqua e terra. Quelli (Prakruti) che non hanno karma. Prapancha. Pancha Bhuta.
 
-  <b>Ingiustizia</b>: Sono contro i dharma. Causano karma positivo, karma negativo o entrambi. Adharma menzionati nella Bhagavad-Gita: studiare i Veda, fare beneficenza, compiere sacrifici (yajnas), penitenze (tapas) ecc.
+<b>Ingiustizia</b>: Sono contro i dharma. Causano karma positivo, karma negativo o entrambi. Adharma menzionati nella Bhagavad-Gita: studiare i Veda, fare beneficenza, compiere sacrifici (yajnas), penitenze (tapas) ecc.
 
-  <b>Agami Karma</b>: Nuovo peccato e punya dalla nascita alla morte. Karma imminente.
+<b>Agami Karma</b>: Nuovo peccato e punya dalla nascita alla morte. Karma imminente.
 
-  <b>Aham</b>: Parte interna del corpo ma non guna.
+<b>Aham</b>: Parte interna del corpo ma non guna.
 
-  <b>Antahkaranams</b>: Cinque parti sottili del corpo: Jeeva (Jeevatma), Manas, Buddhi, Chittam e Aham.
+<b>Antahkaranams</b>: Cinque parti sottili del corpo: Jeeva (Jeevatma), Manas, Buddhi, Chittam e Aham.
 
-  <b>Astrologia</b>: Chi conosce la saggezza spirituale conosce il karma dell'altro con la sua saggezza e lo informa. Per conoscere il futuro &egrave; necessario l'occhio della saggezza. Ci&ograve; che &egrave; conosciuto con la luce della saggezza.
+<b>Astrologia</b>: Chi conosce la saggezza spirituale conosce il karma dell'altro con la sua saggezza e lo informa. Per conoscere il futuro &egrave; necessario l'occhio della saggezza. Ci&ograve; che &egrave; conosciuto con la luce della saggezza.
 
-  <b>Atma</b>: Colui che abita con l'essere mortale. Uno che &egrave; imperituro. Colui che &egrave; in tutti i corpi viventi. Atma&rdquo;,&rdquo; Akshara purusha&rdquo;,&rdquo; Anima immortale.
+<b>Atma</b>: Colui che abita con l'essere mortale. Uno che &egrave; imperituro. Colui che &egrave; in tutti i corpi viventi. Atma&rdquo;,&rdquo; Akshara purusha&rdquo;,&rdquo; Anima immortale.
 
-  <b>Bhagavan</b>: Uno che &egrave; venuto da Dio. Colui che &egrave; venuto con le informazioni di Dio&rdquo;.&rdquo; Cristo, Svayambhu o Consolatore o il Figlio unigenito. Avvocato o aiutante. Messaggero di Dio. Guru.
+<b>Bhagavan</b>: Uno che &egrave; venuto da Dio. Colui che &egrave; venuto con le informazioni di Dio&rdquo;.&rdquo; Cristo, Svayambhu o Consolatore o il Figlio unigenito. Avvocato o aiutante. Messaggero di Dio. Guru.
 
-  <b>Buddhi</b>: &Egrave; l'intelletto nel corpo, che analizza i pro e i contro di un'azione.
+<b>Buddhi</b>: &Egrave; l'intelletto nel corpo, che analizza i pro e i contro di un'azione.
 
-  <b>Chara Prakruti</b>: La Prakruti mutevole. Jagath. Esseri viventi. Chara Prakruti. Le parti totali del corpo di ogni essere vivente sono 25.
+<b>Chara Prakruti</b>: La Prakruti mutevole. Jagath. Esseri viventi. Chara Prakruti. Le parti totali del corpo di ogni essere vivente sono 25.
 
-  <b>Sangue del patto</b>: Potere della saggezza. Essenza della saggezza. La saggezza di Dio senza vincoli del karma.
+<b>Sangue del patto</b>: Potere della saggezza. Essenza della saggezza. La saggezza di Dio senza vincoli del karma.
 
-  <b>Dei</b>: Umani invisibili. Semidei.
+<b>Dei</b>: Umani invisibili. Semidei.
 
-  <b>Dharma Shastra</b>: Scrittura con dharmas (saggezza). I comandamenti di Dio. Brahma Vidya. Superscienza.
+<b>Dharma Shastra</b>: Scrittura con dharmas (saggezza). I comandamenti di Dio. Brahma Vidya. Superscienza.
 
-  <b>Dharma</b>: Saggezza divina. Dottrine o principi divini. Comandamenti. Seguire i dharma porta alla liberazione dalla vita e dalla morte.
+<b>Dharma</b>: Saggezza divina. Dottrine o principi divini. Comandamenti. Seguire i dharma porta alla liberazione dalla vita e dalla morte.
 
-  <b>Fantasma</b>: Persona che vive con un corpo sottile. Diavolo o demone.
+<b>Fantasma</b>: Persona che vive con un corpo sottile. Diavolo o demone.
 
-  <b>Jeevatma: </b>Anima mortale nel corpo. Kshara purusha o Jeeva<b>.&nbsp;</b>
+<b>Jeevatma: </b>Anima mortale nel corpo. Kshara purusha o Jeeva<b>.&nbsp;</b>
 
-  <b>Gnanendriyas: </b>Cinque organi di senso: occhio, orecchio, naso, lingua e&nbsp;
+<b>Gnanendriyas: </b>Cinque organi di senso: occhio, orecchio, naso, lingua e&nbsp;
 
-  <b>Gnani: </b>Una persona che conosce la saggezza e i dharma divini. Brahmagnani.
+<b>Gnani: </b>Una persona che conosce la saggezza e i dharma divini. Brahmagnani.
 
-  <b>Karma Chakra</b>: &Egrave; un insieme di 108 parti. Ognuna delle 12 parti del Karma chakra ha un diverso tipo di karma. Ogni tipo di karma &egrave; ulteriormente suddiviso in nove parti. Dodici parti hanno 108 (12*9) tipi di karma.
+<b>Karma Chakra</b>: &Egrave; un insieme di 108 parti. Ognuna delle 12 parti del Karma chakra ha un diverso tipo di karma. Ogni tipo di karma &egrave; ulteriormente suddiviso in nove parti. Dodici parti hanno 108 (12*9) tipi di karma.
 
-  <b>Karma Visarga</b>: Dividere il karma in piccole parti.
+<b>Karma Visarga</b>: Dividere il karma in piccole parti.
 
-  <b>Karma Yogam</b>: Quando un Jeevatma riconosce Aham nel suo corpo e non ascolta ci&ograve; che dice Aham, non riceve alcun karma. &Egrave; la lotta di Jeeva contro Aham.
+<b>Karma Yogam</b>: Quando un Jeevatma riconosce Aham nel suo corpo e non ascolta ci&ograve; che dice Aham, non riceve alcun karma. &Egrave; la lotta di Jeeva contro Aham.
 
-  <b>Karma Yogi</b>: Una persona che conosce la saggezza e pratica il Karma Yogam.
+<b>Karma Yogi</b>: Una persona che conosce la saggezza e pratica il Karma Yogam.
 
-  <b>Karma</b>: Peccato invisibile e punya
+<b>Karma</b>: Peccato invisibile e punya
 
-  <b>Karmendriyas</b>: Mani, gambe, bocca, ano e organi sessuali.
+<b>Karmendriyas</b>: Mani, gambe, bocca, ano e organi sessuali.
 
-  <b>Manas</b>: Funziona come comunicatore tra cervello e organi. Ricorda e riconsidera le cose.
+<b>Manas</b>: Funziona come comunicatore tra cervello e organi. Ricorda e riconsidera le cose.
 
-  <b>Moksham: </b>Liberazione dalla nascita, dalla morte, dalla vita, dalle sofferenze, ecc. Unione con Dio. Paraloka, Mukti o Salvezza. Liberazione.
+<b>Moksham: </b>Liberazione dalla nascita, dalla morte, dalla vita, dalle sofferenze, ecc. Unione con Dio. Paraloka, Mukti o Salvezza. Liberazione.
 
-  <b>Paramatma</b>: Che &egrave; diverso da Atma. Padre di interi esseri viventi e Pancha Bhuta. Dio, lo Spirito Santo, Allah, Purushottama, Uttama Purusha o il padre di paraloka. Anima suprema.
+<b>Paramatma</b>: Che &egrave; diverso da Atma. Padre di interi esseri viventi e Pancha Bhuta. Dio, lo Spirito Santo, Allah, Purushottama, Uttama Purusha o il padre di paraloka. Anima suprema.
 
-  <b>Prakriti</b>: Combinazione di Chara Prakruti e Achara Prakruti. Natura.
+<b>Prakriti</b>: Combinazione di Chara Prakruti e Achara Prakruti. Natura.
 
-  <b>Prarabdha Karma</b>: Karma predeterminato. Questo accade in questa vita dalla nascita alla morte. Il Prarabdha Karma viene deciso quando nasce un uomo.
+<b>Prarabdha Karma</b>: Karma predeterminato. Questo accade in questa vita dalla nascita alla morte. Il Prarabdha Karma viene deciso quando nasce un uomo.
 
-  <b>Avere</b>: Viene dalle buone azioni. Ci&ograve; che provoca piaceri nella vita.
+<b>Avere</b>: Viene dalle buone azioni. Ci&ograve; che provoca piaceri nella vita.
 
-  <b>Purusha</b>: Pertinente al Paramatma in ogni essere vivente.
+<b>Purusha</b>: Pertinente al Paramatma in ogni essere vivente.
 
-  <b>Sanchita karma</b>: Il karma accumulato come un mucchio dopo aver sperimentato il karma in ogni nascita &egrave; chiamato sanchita karma.
+<b>Sanchita karma</b>: Il karma accumulato come un mucchio dopo aver sperimentato il karma in ogni nascita &egrave; chiamato sanchita karma.
 
-  <b>Peccato</b>: Viene dalle cattive azioni. Causa difficolt&agrave; e dolore.
+<b>Peccato</b>: Viene dalle cattive azioni. Causa difficolt&agrave; e dolore.
 
-  <b>Tanmatra</b>: Energie derivate (vista, udito, olfatto, gusto e tatto) collegate agli organi di senso.
+<b>Tanmatra</b>: Energie derivate (vista, udito, olfatto, gusto e tatto) collegate agli organi di senso.
 
-  <b>Upadesha</b>: Ottenere il fuoco della saggezza come carit&agrave;. Paese che non &egrave; paese (Chi ha l'occhio della saggezza deve vedere). Energia della saggezza, Paramatma. Battesimo. Iniziazione alla saggezza.
+<b>Upadesha</b>: Ottenere il fuoco della saggezza come carit&agrave;. Paese che non &egrave; paese (Chi ha l'occhio della saggezza deve vedere). Energia della saggezza, Paramatma. Battesimo. Iniziazione alla saggezza.
 
-  <b>Yogi</b>: Uno che &egrave; in Yogam. Colui che fa Yogam. Una persona che conosce la saggezza divina e pratica i dharma.
-
+<b>Yogi</b>: Uno che &egrave; in Yogam. Colui che fa Yogam. Una persona che conosce la saggezza divina e pratica i dharma.
+</div></div>
 </span>
 `
 },
