@@ -9,7 +9,9 @@ import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { GlobalService } from 'src/app/global.service';
 import { EnglishService } from '../english.service';
 import { GermanService } from '../german.service';
+import { ItalianService } from '../italian.service';
 import { SpanishService } from '../spanish.service';
+
 @Component({
     selector: 'app-landing',
     templateUrl: './landing.page.html',
@@ -30,11 +32,12 @@ export class LandingPage implements OnInit {
   };
   value: any = 1;
   countryCode:any={"country":"IN"};
-  constructor(public global: GlobalService,public englishService:EnglishService,public germanService:GermanService,public spanishService:SpanishService,public transalteService:TranslateService, public router:Router) {
+  constructor(public global: GlobalService,public englishService:EnglishService,public germanService:GermanService,public italianService:ItalianService,public spanishService:SpanishService,public transalteService:TranslateService, public router:Router) {
     fetch('https://api.country.is')
     .then(async response => {
         const isJson = response.headers.get('content-type')?.includes('application/json');
         this.countryCode = isJson ? await response.json() : {"country":"IN"};
+
       if( this.countryCode?.country==='IN'){
         this.router.navigateByUrl('home');
        }
@@ -72,6 +75,11 @@ export class LandingPage implements OnInit {
   if(lc==='ge'){
     this.global.bible=this.germanService.bible;
     this.global.chapters=[ { title: "Sprache ändern",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.germanService.chapters];
+    console.log(this.global.chapters,this.global.bible)
+  }
+  if(lc==='it'){
+    this.global.bible=this.italianService.bible;
+    this.global.chapters=[ { title: "Cambia Lingua",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.italianService.chapters];
     console.log(this.global.chapters,this.global.bible)
   }
   this.router.navigateByUrl('home');
