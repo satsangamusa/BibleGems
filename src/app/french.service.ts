@@ -28,7 +28,7 @@ export class FrenchService {
   bible: any = [
 
 {
-chapterName: "God's Path",
+chapterName: "Le chemin de Dieu",
 chapterNumber: 0,
 pageNumber: 0,
 verse: ``,
@@ -85,7 +85,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Secret of Creation",
+chapterName: "Le secret de la création",
 chapterNumber: 1,
 pageNumber: 1,
 verse: ``,
@@ -118,7 +118,7 @@ The only Guru of Three Religions, Originator of Thraitha Theorem, The Author of 
 
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 2,
 verse: `<b>(1) The Gospel of Mathew, 3rd chapter, 7th verse.</b>`,
@@ -152,7 +152,7 @@ pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 },
 
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 3,
 verse: `<b>The Gospel of Mathew, 3rd chapter, 11th verse.</b>`,
@@ -178,7 +178,7 @@ pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`,
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 4,
 verse: `<b>(3) The Gospel of Mathew, 3rd chapter, 12th verse.</b>`,
@@ -203,7 +203,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 5,
 verse: `<b>(4) The Gospel of Mathew, 3rd chapter, 16th and 17th verses.</b>`,
@@ -223,7 +223,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 },
 
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 6,
 verse: `<b>(5)	The Gospel of Mathew, 4th chapter, 10th verse.</b> `,
@@ -242,7 +242,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 7,
 verse: ` <b>(6)	The Gospel of Mathew, 5th chapter, 10th verse.</b>`,
@@ -256,7 +256,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 8,
 verse: ` <b>(7)	The Gospel of Mathew, 5th chapter, 17th verse.</b> `,
@@ -271,7 +271,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>  `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 1,
 pageNumber: 9,
 verse: ` <b>(8)	The Gospel of Mathew, 5th chapter, 18th verse.</b>`,
@@ -293,7 +293,7 @@ The six shastras are as follows: 1) Mathematics, 2) Astronomy, 3) Chemistry, 4) 
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 10,
 verse: ` <b>(9)	The Gospel of Mathew, 5th chapter, 19th verse.</b>`,
@@ -309,7 +309,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 1,
 pageNumber: 11,
 verse: `<b>(10)	The Gospel of Mathew, 5th chapter, 20th verse.</b> `,
@@ -321,7 +321,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 12,
 verse: `<b>(11)	The Gospel of Mathew, 5th chapter, 28th verse.</b> `,
@@ -335,7 +335,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
     },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 13,
 verse: `<b>(12)	The Gospel of Mathew, 5th chapter, 29th and 30th verses.</b>`,
@@ -416,7 +416,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 14,
 verse: `  <b>(13)	The Gospel of Mathew, 6th chapter, 3rd and 4th verses.</b>`,
@@ -433,7 +433,7 @@ pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-  chapterName: "The Gospel Of Mathew",
+  chapterName: "L'Évangile selon Matthieu",
   chapterNumber: 2,
   pageNumber: 15,
   verse: `  <b>(14)	The Gospel of Mathew, 6th chapter, 6th verse.</b> `,
@@ -445,7 +445,7 @@ pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
   </span>`
     },
     {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 16,
 verse: `  <b>(15)	The Gospel of Mathew, 6th chapter, 7th and 8th verses. </b> `,
@@ -459,7 +459,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 17,
 verse: ` <b>(16)	The Gospel of Mathew, 7th chapter, 13th and 14th verses.</b> `,
@@ -478,7 +478,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 18,
 verse: ` <b>(17)	The Gospel of Mathew, 7th chapter, 7th and 8th verses.</b>
@@ -499,7 +499,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 19,
 verse: `<b>(18)	The Gospel of Mathew, 7th chapter, 15th verse.</b>`,
@@ -512,7 +512,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 20,
 verse: `<b>(19)	The Gospel of Mathew, 7th chapter, 21st verse.</b>`,
@@ -528,7 +528,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 21,
 verse: ` <b>(20)	The Gospel of Mathew, 7th chapter, 22nd and 23rd verses. </b>`,
@@ -556,7 +556,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 22,
 verse: ` <b>(21) The Gospel of Mathew, 8th chapter, 22nd verse. </b>`,
@@ -568,7 +568,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 23,
 verse: ` <b>(22)	The Gospel of Mathew, 9th chapter, 12th and 13th verses.</b>`,
@@ -582,7 +582,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 24,
 verse: ` <b>(23) The Gospel of Mathew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>`,
@@ -604,7 +604,7 @@ pageText: `
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 25,
 verse: ` <b>(24)The Gospel of Mathew, 9th chapter, 6th verse.</b>`,
@@ -621,7 +621,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 26,
 verse: ` <b>(25) The Gospel of Mathew, 10th chapter, 20th verse.</b>`,
@@ -636,7 +636,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 27,
 verse: ` <b>(26) The Gospel of Mathew, 10th chapter, 30th verse.</b>`,
@@ -652,7 +652,7 @@ The verse highlights God’s extraordinary carefulness towards humans, as God ha
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 28,
 verse: ` <b>(27) The Gospel of Mathew, 10th chapter, 34th, 35th and 36th verses.</b>`,
@@ -671,7 +671,7 @@ pageText: `
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 29,
 verse: `<b>(28)	The Gospel of Mathew, 10th chapter, 37th verse.</b>`,
@@ -686,7 +686,7 @@ pageText: `
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 30,
 verse: `<b>(29)	The Gospel of Mathew, 10th chapter, 38th verse.</b>`,
@@ -707,7 +707,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 31,
 verse: `<b>(30)	The Gospel of Mathew, 10th chapter, 40th verse.</b>`,
@@ -721,7 +721,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 32,
 verse: `<b>(31)	The Gospel of Mathew, 11th chapter, 9th verse.</b>`,
@@ -733,7 +733,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 33,
 verse: `<b>(32)	The Gospel of Mathew, 11th chapter, 28th verse.</b>`,
@@ -748,7 +748,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 34,
 verse: ` <b>(33)	The Gospel of Mathew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b>`,
@@ -778,7 +778,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 35,
 verse: `<b>(34)	The Gospel of Mathew, 12th chapter, 31st verse.</b>`,
@@ -791,7 +791,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 36,
 verse: `<b>(35)	The Gospel of Mathew, 12th chapter, 32nd verse.</b>`,
@@ -808,7 +808,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 37,
 verse: `<b>(36)	The Gospel of Mathew, 12th chapter, 36th and 37th verses.</b>`,
@@ -822,7 +822,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 38,
 verse: `<b>(37)	The Gospel of Mathew, 12th chapter, 40th verse.</b>`,
@@ -850,7 +850,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 39,
 verse: `<b>(38)	The Gospel of Mathew, 13th chapter, 13th, 14th and 15th verses.</b>`,
@@ -867,7 +867,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 40,
 verse: `<b>(39)	The Gospel of Mathew, 15th chapter, 7th, 8th and 9th verses.</b>`,
@@ -888,7 +888,7 @@ sacrifices (yajnas), penances (tapas) etc.”</b> In the Bhagavad-Gita, God said
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 41,
 verse: `<b>(40)	The Gospel of Mathew, 15th chapter, 11th verse.</b>`,
@@ -901,7 +901,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 42,
 verse: `<b>(41)	The Gospel of Mathew, 15th chapter, 12th and 13th verses.</b>`,
@@ -920,7 +920,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 43,
 verse: `<b>(42) The Gospel of Mathew, 15th chapter, 14th verse.</b>`,
@@ -933,7 +933,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 44,
 verse: ` <b>(43) The Gospel of Mathew, 16th chapter, 21st and 22nd verses.<br>
@@ -964,7 +964,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 45,
 verse: `<b>(44)	The Gospel of Mathew, 19th chapter, 23rd and 24th verses.</b>`,
@@ -981,7 +981,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 46,
 verse: `<b>(45)	The Gospel of Mathew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>`,
@@ -1022,7 +1022,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 47,
 verse: ` <b>(46)	The Gospel of Mathew, 23rd chapter, 8th, 9th and 10th verses.</b>`,
@@ -1045,7 +1045,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 48,
 verse: ` <b>(47)	The Gospel of Mathew, 23rd chapter, 15th verse.</b>`,
@@ -1060,7 +1060,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 49,
 verse: `<b>(48) The Gospel of Mathew, 24th chapter, 35th verse.</b>`,
@@ -1072,7 +1072,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 50,
 verse: `<b>(49)	The Gospel of Mathew, 24th chapter, 42nd verse. </b>`,
@@ -1085,7 +1085,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 51,
 verse: ` <b>(50) The Gospel of Mathew, 26th chapter, 26th, 27th and 28th verses.</b>`,
@@ -1111,7 +1111,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 52,
 verse: `<b>(51)	The Gospel of Mathew, 28th chapter, 18th verse.</b>`,
@@ -1128,7 +1128,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 53,
 verse: ` <b>(52)	The Gospel of Mathew, 28th chapter, 19th and 20th verses.</b>`,
@@ -1153,7 +1153,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 `
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 54,
 verse: ` <b>(1)	The Gospel of Mark, 2nd chapter, 19th and 20th verses.</b>`,
@@ -1168,7 +1168,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 55,
 verse: `<b>(2) The Gospel of Mark, 4th chapter, 38th and 39th verses.</b>`,
@@ -1186,7 +1186,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 56,
 verse: `<b>(3)	The Gospel of Mark, 5th chapter, 38th, 39th, 40th, 41st, 42nd and 43rd verses.</b>`,
@@ -1241,7 +1241,7 @@ The Story of Abdul Aziz in Jammu and Kashmir
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 57,
 verse: `<b>(4)	The Gospel of Mark, 7th chapter, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd and 23rd verses.</b><`,
@@ -1271,7 +1271,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 58,
 verse: ` <b>(5)	The Gospel of Mark, 3rd chapter, 35th verse.</b>`,
@@ -1284,7 +1284,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 59,
 verse: ` <b>(6)	The Gospel of Mark, 4th chapter, 17th verse.</b>`,
@@ -1299,7 +1299,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 60,
 verse: ` <b>(7)	The Gospel of Mark, 4th chapter, 21st and 22nd verses.</b>`,
@@ -1314,7 +1314,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 61,
 verse: `<b>(8)	The Gospel of Mark, 6th chapter, 4th verse.</b>`,
@@ -1326,7 +1326,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 62,
 verse: `<b>(9)	The Gospel of Mark, 8th chapter, 38th verse.</b>`,
@@ -1342,7 +1342,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 63,
 verse: `<b>(10)	The Gospel of Mark, 9th chapter, 7h verse.</b>`,
@@ -1354,7 +1354,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 64,
 verse: ` <b>(11)	The Gospel of Mark, 10th chapter, 17th and 18th verses.</b>`,
@@ -1374,7 +1374,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "L'Évangile de Marc",
 chapterNumber: 4,
 pageNumber: 65,
 verse: `<b>(12)	The Gospel of Mark, 16th chapter, 15th and 16th verses.</b>`,
@@ -1390,7 +1390,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 66,
 verse: `<b>(1)	The Gospel of Luke, 2nd chapter, 49th verse.</b>`,
@@ -1406,7 +1406,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 67,
 verse: `<b>(2)	The Gospel of Luke, 11th chapter, 37th, 38th, 39th, 40th and 41st verses.</b>`,
@@ -1426,7 +1426,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 68,
 verse: `<b>(3)	The Gospel of Luke, 12th chapter, 4th and 5th verses</b>`,
@@ -1440,7 +1440,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 69,
 verse: `<b>(4)	The Gospel of Luke, 12th chapter, 25th verse.</b>`,
@@ -1452,7 +1452,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 70,
 verse: `<b>(5)	The Gospel of Luke, 12th chapter, 33rd and 34th verses.</b>`,
@@ -1466,7 +1466,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 71,
 verse: `<b>(6)	The Gospel of Luke, 12th chapter, 49th verse.</b>`,
@@ -1478,7 +1478,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 72,
 verse: `<b>(7)	The Gospel of Luke, 12th chapter, 51st, 52nd and 53rd verses.</b>
@@ -1494,7 +1494,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 73,
 verse: `<b>(8)	The Gospel of Luke, 13th chapter, 3rd verse.</b>`,
@@ -1505,7 +1505,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 74,
 verse: ` <b>(9)	The Gospel of Luke, 14th chapter, 26th verse.</b>`,
@@ -1518,7 +1518,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 75,
 verse: ` <b>(10)	The Gospel of Luke, 14th chapter, 27th verse.</b>`,
@@ -1534,7 +1534,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 76,
 verse: `<b>(11)	The Gospel of Luke, 18th chapter, 29th verse.</b>`,
@@ -1546,7 +1546,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 77,
 verse: `<b>(12)	The Gospel of Luke, 21st chapter, 15th verse.</b>`,
@@ -1558,7 +1558,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 78,
 verse: ` <b>(13)	The Gospel of Luke, 21st chapter, 17th verse. </b>`,
@@ -1570,7 +1570,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 79,
 verse: `<b>(1)	The Gospel of John, 1st chapter, 1st verse.</b>`,
@@ -1621,7 +1621,7 @@ After creation   Atma (God)   Prakruti  Atma Jeevatma</b>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 80,
 verse: ` <b>(2) 	The Gospel of John, 1st chapter, 9th verse.</b>`,
@@ -1633,7 +1633,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 81,
 verse: ` <b>(3)	The Gospel of John, 1st chapter, 10th verse.</b>`,
@@ -1645,7 +1645,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 82,
 verse: ` <b>(4)	The Gospel of John, 1st chapter, 11th verse.</b>`,
@@ -1657,7 +1657,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 83,
 verse: `  <b>(5)	The Gospel of John, 1st chapter, 12th verse. </b>`,
@@ -1669,7 +1669,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 84,
 verse: ` <b>(6)	The Gospel of John, 1st chapter, 13th verse.</b>`,
@@ -1681,7 +1681,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 85,
 verse: `<b>(7)	The Gospel of John, 1st chapter, 14th verse.</b>`,
@@ -1693,7 +1693,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 86,
 verse: `  <b>(8)	The Gospel of John, 1st chapter, 18th verse.</b>`,
@@ -1705,7 +1705,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 87,
 verse: ` <b>(9)	The Gospel of John, 1st chapter, 51st verse.</b>`,
@@ -1717,7 +1717,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 88,
 verse: `<b>(10)	The Gospel of John, 3rd chapter, 3rd verse.</b>`,
@@ -1729,7 +1729,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 89,
 verse: `<b>(11)	The Gospel of John, 3rd chapter, 4th, 5th, 6th, 7th and 8th verses.</b>`,
@@ -1749,7 +1749,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 90,
 verse: `<b>(12)	The Gospel of John, 3rd chapter, 13th verse. </b>`,
@@ -1762,7 +1762,7 @@ pageText: `
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 91,
 verse: ` <b>(13)	The Gospel of John, 3rd chapter, 15th verse.</b>`,
@@ -1774,7 +1774,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 92,
 verse: `<b>(14)	The Gospel of John, 3rd chapter, 17th verse.</b>`,
@@ -1786,7 +1786,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 93,
 verse: `<b>(15)	The Gospel of John, 3rd chapter, 18th verse. </b>`,
@@ -1798,7 +1798,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 94,
 verse: `<b>(16) The Gospel of John, 3rd chapter, 19th, 20th, 21st verses.</b>`,
@@ -1816,7 +1816,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 95,
 verse: ` <b>(17)	The Gospel of John, 5th chapter, 19th verse.</b>`,
@@ -1828,7 +1828,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 96,
 verse: `<b>(18)	The Gospel of John, 5th chapter, 20th verse.</b>`,
@@ -1840,7 +1840,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 97,
 verse: `<b>(19)	The Gospel of John, 5th chapter, 21st, 22nd, 23rd verses. </b>`,
@@ -1860,7 +1860,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 98,
 verse: `<b>(20)	The Gospel of John, 5th chapter, 24th verse.</b>`,
@@ -1872,7 +1872,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 99,
 verse: ` <b>(21)	The Gospel of John, 5th chapter, 26th verse.</b>`,
@@ -1884,7 +1884,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 100,
 verse: ` <b>(22)	The Gospel of John, 5th chapter, 37th verse.</b>`,
@@ -1896,7 +1896,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 101,
 verse: `<b>(23)	The Gospel of John, 5th chapter, 38th verse. </b>`,
@@ -1912,7 +1912,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 102,
 verse: ` <b>(24)	The Gospel of John, 6th chapter, 25th, 26th, 27th verses.</b>`,
@@ -1930,7 +1930,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 103,
 verse: `  <b>(25)	The Gospel of John, 6th chapter, 32nd verse. </b>`,
@@ -1946,7 +1946,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 104,
 verse: ` <b>(26)	The Gospel of John, 6th chapter, 46th verse.</b>`,
@@ -1960,7 +1960,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 105,
 verse: `<b>(27)	The Gospel of John, 7th chapter, 37th and 38th verses.</b>`,
@@ -1974,7 +1974,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 106,
 verse: `<b>(28)	The Gospel of John, 8th chapter, 12th verse.</b>`,
@@ -1988,7 +1988,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 107,
 verse: `<b>(29)	The Gospel of John, 8th chapter, 14th verse.</b>`,
@@ -2006,7 +2006,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 108,
 verse: `<b>(30)	The Gospel of John, 8th chapter, 19th verse.</b>`,
@@ -2028,7 +2028,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 109,
 verse: `  <b>(31)	The Gospel of John, 8th chapter, 21st verse.</b>`,
@@ -2044,7 +2044,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 110,
 verse: `<b>(32)	The Gospel of John, 8th chapter, verses 23 and 24.</b>`,
@@ -2069,7 +2069,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 111,
 verse: `<b>(33)	The Gospel of John, 8th chapter, 24th verse.</b>`,
@@ -2084,7 +2084,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 112,
 verse: ` <b>(34)	The Gospel of John, 8th chapter, 28th verse.</b>`,
@@ -2102,7 +2102,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 113,
 verse: `<b>(35)	The Gospel of John, 8th chapter, 29th verse.</b>`,
@@ -2114,7 +2114,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 114,
 verse: ` <b>(36)	The Gospel of John, 8th chapter, 53rd and 54th verses.</b>`,
@@ -2128,7 +2128,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 115,
 verse: `<b>(37)	The Gospel of John, 8th chapter, 55th verse. </b>`,
@@ -2143,7 +2143,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 116,
 verse: ` <b>(38)	The Gospel of John, 8th chapter, 57th and 58th verses.</b>`,
@@ -2159,7 +2159,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 117,
 verse: `<b>(39)	The Gospel of John, 9th chapter, 39th verse.</b>`,
@@ -2176,7 +2176,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 118,
 verse: `<b>(40)	The Gospel of John, 9th chapter, 41st verse.</b>`,
@@ -2190,7 +2190,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 119,
 verse: `<b>(41)	The Gospel of John, 10th chapter, 18th verse.</b>`,
@@ -2204,7 +2204,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 120,
 verse: ` <b>(42)	The Gospel of John, 10th chapter, 30th verse.</b>`,
@@ -2216,7 +2216,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 121,
 verse: ` <b>(43)	The Gospel of John, 11th chapter, 25th verse.</b>`,
@@ -2228,7 +2228,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 122,
 verse: `<b>(44)	The Gospel of John, 11th chapter, 26th verse.</b>`,
@@ -2241,7 +2241,7 @@ The one who has attained moksham will experience eternal life and never face dea
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 123,
 verse: `<b>(45)	The Gospel of John, 12th chapter, 25th verse.</b>`,
@@ -2255,7 +2255,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 124,
 verse: `<b>(46)	The Gospel of John, 12th chapter, 40th verse.</b>`,
@@ -2269,7 +2269,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
   </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 125,
 verse: ` <b>(47)	The Gospel of John, 12th chapter, 47th and 48th verses.</b>`,
@@ -2283,7 +2283,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 126,
 verse: ` <b>(48)	The Gospel of John, 12th chapter, 49th and 50th verses.</b>`,
@@ -2297,7 +2297,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 127,
 verse: ` <b>(49) The Gospel of John, 14th chapter, 7th verse.</b>`,
@@ -2310,7 +2310,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 128,
 verse: ` <b>(50)The Gospel of John, 14th chapter, 8th and 9th verses.</b>`,
@@ -2324,7 +2324,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 129,
 verse: `<b>(51)	The Gospel of John, 14th chapter, 10th verse. </b>`,
@@ -2336,7 +2336,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 130,
 verse: `<b>(52)	The Gospel of John, 14th chapter, 6th verse</b>`,
@@ -2348,7 +2348,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 131,
 verse: ` <b>(53)	The Gospel of John, 14th chapter, 16th verse.</b>`,
@@ -2360,7 +2360,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 132,
 verse: `<b>(54)	The Gospel of John, 14th chapter, 17th verse.</b>`,
@@ -2372,7 +2372,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 133,
 verse: `<b>(55)	The Gospel of John, 14th chapter, 20th verse.</b>`,
@@ -2384,7 +2384,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 134,
 verse: ` <b>(56)	The Gospel of John, 14th chapter, 25th and 26th verses.</b>`,
@@ -2398,7 +2398,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 135,
 verse: ` <b>(57)	The Gospel of John, 15th chapter, 23rd verse. </b>`,
@@ -2410,7 +2410,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 136,
 verse: `<b>(58)	The Gospel of John, 15th chapter, 24th and 25th verses. </b>`,
@@ -2424,7 +2424,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 137,
 verse: ` <b>(59)	The Gospel of John, 15th chapter, 26 and 27 verses. </b>`,
@@ -2438,7 +2438,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 138,
 verse: ` <b>(60)	The Gospel of John, 16th chapter, 7th verse. </b>`,
@@ -2450,7 +2450,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 139,
 verse: `<b>(61)	The Gospel of John, 16th chapter, 8th verse.  </b>`,
@@ -2462,7 +2462,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 140,
 verse: `<b>(62)	The Gospel of John, 16th chapter, 12th verse. </b>`,
@@ -2474,7 +2474,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 141,
 verse: `<b>(63)	The Gospel of John, 16th chapter, 13th verse. </b>`,
@@ -2486,7 +2486,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 142,
 verse: ` <b>The Gospel of John, 16th chapter, 14th and 15th verses. </b>`,
@@ -2500,7 +2500,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 143,
 verse: ` <b>(65)	The Gospel of John, 16th chapter, 16th verse. </b>`,
@@ -2512,7 +2512,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 144,
 verse: ` <b>The Gospel of John, 16th chapter, 17th, 18th, 19th, 20th, 21st and 22nd verses. </b>`,
@@ -2534,7 +2534,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 145,
 verse: ` <b>(67)	The Gospel of John, 16th chapter, 25th verse. </b>`,
@@ -2880,10 +2880,10 @@ verse: `
 
   chapters: any = [
 
-    { title: "God's Path", component: 0, chapterNumber: 0, subs: null, icon: 'information' },
-    { title: 'The Secret of Creation', component: 1, chapterNumber: 1, subs: null, icon: 'information' },
+    { title: "Le chemin de Dieu", component: 0, chapterNumber: 0, subs: null, icon: 'information' },
+    { title: 'Le secret de la création', component: 1, chapterNumber: 1, subs: null, icon: 'information' },
     {
-      title: 'The Gospel Of Mathew', component: null, chapterNumber: 2, icon: 'book',
+      title: "L'Évangile selon Matthieu", component: null, chapterNumber: 2, icon: 'book',
       subs: [
         {
           shloka: "3-7. You brood of vipers...",
@@ -3364,7 +3364,7 @@ verse: `
       ]
     },
     {
-      title: 'The Gospel of Mark', component: null, chapterNumber: 3, icon: 'book',
+      title: "L'Évangile de Marc", component: null, chapterNumber: 3, icon: 'book',
       subs: [
         {
           shloka: "2-19. How can the guests of the...",
@@ -3516,7 +3516,7 @@ verse: `
       ]
     },
     {
-      title: 'The Gospel of Luke', component: null, chapterNumber: 4, icon: 'book',
+      title: "L'Évangile de Luc", component: null, chapterNumber: 4, icon: 'book',
       subs: [
 
 
@@ -3647,7 +3647,7 @@ verse: `
 
     },
     {
-      title: 'The Gospel Of John ', component: null, chapterNumber: 5, icon: 'book',
+      title: "L'Évangile de Jean", component: null, chapterNumber: 5, icon: 'book',
       subs: [
         {
           shloka: "1-1. In the beginning was the Word...",
@@ -4123,28 +4123,28 @@ verse: `
 
     },
     {
-      title: 'The Revelations ', component: 146, chapterNumber: 6, subs: null, icon: 'information'
+      title: "Les révélations", component: 146, chapterNumber: 6, subs: null, icon: 'information'
     },
     {
-      title: 'The Three Fingers', component: 147, chapterNumber: 7, subs: null, icon: 'information'
+      title: 'Les trois doigts', component: 147, chapterNumber: 7, subs: null, icon: 'information'
 
     },
     {
-      title: 'Good Friday - Bad Friday', component: 148, chapterNumber: 8, subs: null, icon: 'information'
+      title: 'Bon vendredi - mauvais vendredi', component: 148, chapterNumber: 8, subs: null, icon: 'information'
 
     },
     {
-      title: 'A Letter From A Hindu', component: 149, chapterNumber: 9, subs: null, icon: 'information'
-
-    },
-
-    {
-      title: 'Glossary', component: 151, chapterNumber: 11, subs: null, icon: 'information'
+      title: "Lettre d'un hindou", component: 149, chapterNumber: 9, subs: null, icon: 'information'
 
     },
 
     {
-      title: 'Videos', component: 152, chapterNumber: 12, subs: null, icon: 'videocam'
+      title: 'Glossaire', component: 151, chapterNumber: 11, subs: null, icon: 'information'
+
+    },
+
+    {
+      title: 'Vidéo', component: 152, chapterNumber: 12, subs: null, icon: 'videocam'
 
     }
     // ,
