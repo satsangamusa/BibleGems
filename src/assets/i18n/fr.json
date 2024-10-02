@@ -17,9 +17,9 @@
   "header1":"Gems Dans",
   "header2":"La Seconde Écriture",
   "header3":"Sainte Divine",
-  "settings":"Settings",
+  "settings":"Paramètres",
   "font_size":"",
-  "gospels_in_thraitha_theorem":"Gospels In the Thraitha Theorem",
+  "gospels_in_thraitha_theorem":"⁠Les évangiles dans le théorème de Thraitha",
   "author":"L'auteur : Le seul gourou de trois religions (hindou, musulman, chrétien), le souverain du royaume spirituel, l'auteur de plus de cent livres saints divins, Indu Gnana Dharma Pradata, l'auteur sensationnel, Adi Karta de l'enseignement Traita, Sri Sri Acharya Prabodhananda Yogeeswarulu.",
   "titles":"L'auteur : Le seul gourou de trois religions (hindou, musulman, chrétien), le souverain du royaume spirituel, l'auteur de plus de cent livres saints divins, Indu Gnana Dharma Pradata, l'auteur sensationnel, Adi Karta de l'enseignement Traita",
   "swami_name":"Sri Sri Sri Acharya Prabodhananda Yogeeswarulu",
@@ -42,7 +42,7 @@
 
   },
   "seal_of_god":{
-    "seal_of_god":"THE SEAL OF GOD",
+    "seal_of_god":"⁠Le sceau de Dieu",
     "nature": "Nature",
     "holy_spirit": "L'Esprit Saint",
     "father": "Père",
@@ -72,7 +72,7 @@
   "image1":{
     "1":"Gems Dans",
     "2":"La deuxième écriture divine",
-    "3":"Gospels in the Thraitha Theorem"
+    "3":"⁠Les évangiles dans le théorème de Thraitha"
   }
 }
 
