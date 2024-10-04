@@ -121,9 +121,9 @@ The only Guru of Three Religions, Originator of Thraitha Theorem, The Author of 
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 2,
-verse: `<b>(1) The Gospel of Mathew, 3rd chapter, 7th verse.</b>`,
+verse: `<b>(1) L'Évangile de Matthieu, chapitre 3, verset 7.</b>`,
 meaning: `<b>
-(7) You brood of vipers! Who warned you to flee from the coming wrath?
+(3:7) Engeance de vipères ! Qui vous a averti de fuir la colère à venir ?
 </b>`,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> In this verse, <b>‘brood of vipers’</b> is a new term. The term was used to refer to humans. However, there is doubt about whether humans can be considered the offspring of snakes. This raises a question for anyone who reads this verse. In this verse, we also need to delve into the detailed meaning of <b>‘coming wrath.’ </b>Additionally, another word in this verse is <b>‘Who warned you?’</b> This phrase refers to a past time, and we should seek to understand who warned humans in the past. There are three questions we need answers to in this verse.
@@ -155,9 +155,9 @@ pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 3,
-verse: `<b>The Gospel of Mathew, 3rd chapter, 11th verse.</b>`,
+verse: `<b>(2) L'Évangile de Matthieu, chapitre 3, verset 11.</b>`,
 meaning: ` <b>
-(11) I baptize you with water for mind change. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.
+(3:11) Je te baptise avec de l'eau pour changer de manas (esprit). Mais après moi vient celui qui est plus puissant que moi, dont je ne suis pas digne de porter les sandales. Il vous baptisera du Saint-Esprit et de feu.
 </b>`,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This verse contains the words <b>‘change of manas’</b> and <b>‘baptize,’</b> as well as ‘with water and with fire.’ To fully grasp the meaning of this verse, it’s essential to understand these four words. If any one of these words remains unclear, the essence of the verse remains elusive. So, let’s delve into the meanings of these four words. The first word is ‘change of manas. ’ Manas (mind) in our body retains and recalls what has been learned and stored. Here, ‘change of manas’ refers to the alteration of manas. Manas is responsible for remembering the events of our life. When the first manas undergoes a change and the second manas takes its place, all the memories of the first manas are erased. The second manas has no recollection of the first manas. The first manas ceases to exist with death, and the second manas emerges with birth. When the first manas is replaced by the second manas, it’s termed a ‘change of manas. ’ This natural transition of manas happens with each cycle of birth and death. Baptism is unnecessary for the ‘change of manas’ because it occurs naturally with the process of death and rebirth.
@@ -181,9 +181,9 @@ pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 4,
-verse: `<b>(3) The Gospel of Mathew, 3rd chapter, 12th verse.</b>`,
+verse: `<b>(3) L'Évangile de Matthieu, chapitre 3, verset 12.</b>`,
 meaning: `<b>
-(12) His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.
+(3:12) Son van est dans Sa main, et Il nettoiera Son aire de battage, rassemblant Son blé dans le grenier et brûlant la balle avec un feu qui ne s'éteint pas.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
   <ion-row><ion-col class="ion-text-center">
@@ -206,12 +206,12 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 5,
-verse: `<b>(4) The Gospel of Mathew, 3rd chapter, 16th and 17th verses.</b>`,
+verse: `<b>(4) L'Évangile de Matthieu, chapitre 3, versets 16 et 17.</b>`,
 meaning: `
 <b>
-(16) As soon as Jesus was baptized, he went up out of the water. At that moment the sky was opened, and he saw the Spirit of God descending like a dove and alighting on him.
+(3:16) Dès que Jésus fut baptisé, Il sortit de l'eau. À ce moment-là, le ciel s’ouvrit et Il vit l’Esprit de Dieu descendre comme une colombe et se poser sur Lui.
 <br><br>
-(17) And a voice from the sky said, “This is my Son, whom I love; with him, I am well pleased.”
+(3:17) Et une voix venant du ciel dit : « Celui-ci est mon fils que j'aime ; avec lui, je suis très content.
 </b>
 `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
@@ -226,9 +226,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 6,
-verse: `<b>(5)	The Gospel of Mathew, 4th chapter, 10th verse.</b> `,
+verse: `<b>(5)	L'Évangile de Matthieu, chapitre 4, verset 10.</b> `,
 meaning: ` <b>
-(10) Jesus said to him, “Away from me, Satan! For it is written: Worship the Lord your God and serve him only.”
+(4:10) Jésus lui dit : « Loin de moi, Satan ! Car il est écrit : Adorez le Seigneur ton Dieu et ne sers que Lui.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> The word <b>‘Satan’</b> is introduced in this verse. In the preceding verses, Satan is occasionally referred to as a ‘tempter (shodakudu in Telugu)’ and in other instances as a ‘defamer (apavadi in Telugu). ’ The term "apavadi" means one who judges wrongly and tells lies, while "shodakudu" implies someone who seeks out evil within you and, if it exists, brings it to the surface. ‘apavadi’ or ‘shodakudu’ is referred to as Satan in this sentence. Both ‘apavadi’ and ‘shodakudu’ belong to the Telugu language, but the word ‘Satan’ is not from Telugu. The word ‘Satan’ appears frequently in this scripture. In the realm of spiritual education, ‘Satan’ is used interchangeably with <b>‘Maya.</b> ’ Since Satan and Maya are essentially the same, descriptions of Maya can also be applied to Satan.
@@ -245,9 +245,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 7,
-verse: ` <b>(6)	The Gospel of Mathew, 5th chapter, 10th verse.</b>`,
+verse: ` <b>(6)	L'Évangile de Matthieu, chapitre 5, verset 10.</b>`,
 meaning: `<b>
-(10) Blessed are those who are persecuted because of righteousness (wisdom), for theirs is the kingdom of paraloka.</b>`,
+(5:10) Bienheureux ceux qui sont persécutés à cause de la justice (la sagesse), car à eux est le royaume de paraloka.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> The verse includes the word ‘righteousness,’ but it should be <b>‘wisdom’ instead of ‘righteousness.’</b> In the Hebrew language, Jesus likely used the word ‘wisdom.’ However, when translated into English, the word equivalent to the Hebrew term was not accurately represented, and ‘righteousness’ was used instead of ‘wisdom.’ It’s essential to distinguish between ‘righteousness’ and ‘wisdom.<b>’ Righteousness and justice are concepts related to worldly matters, while wisdom and dharma are of a divine nature.</b> Righteousness and justice are associated with karma, while wisdom and dharma have the power to burn karma. This distinction underscores that righteousness pertains to the material realm, while wisdom is of a divine nature. In the world, we encounter righteousness, corruption, justice, and injustice. Righteousness leads to punya (good karma), whereas corruption results in sin. Similarly, justice yields punya, while injustice gives rise to sin. In light of these differences, it’s clear that the verse in question should use ‘wisdom’ in place of ‘righteousness.’
 
@@ -259,9 +259,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 8,
-verse: ` <b>(7)	The Gospel of Mathew, 5th chapter, 17th verse.</b> `,
+verse: ` <b>(7)	L'Évangile de Matthieu, chapitre 5, verset 17.</b> `,
 meaning: ` <b>
-(17)Do not think that I have come to abolish the Law (Dharma Shastra) or the Prophets; I have not come to abolish them but to fulfill them.
+(5:17) Ne pensez pas que je suis venu pour abolir la Loi (Dharma Shastra) ou les Prophètes ; Je ne suis pas venu pour les abolir mais pour les accomplir.
 </b> `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> No one can condemn the Dharma Shastra. It cannot be condemned. It has been in existence since the dawn of creation, with numerous prophets and teachers imparting its wisdom. When Paramatma (the Supreme Being) descends to Earth as Bhagavan, He not only practices the Dharma Shastra but also makes its principles understandable to all. However, when Bhagavan, as the Son of God, reveals and practices the dharmas outlined in the Dharma Shastra, they may not appear as dharmas to some individuals. This discrepancy arises from the fact that some people mistakenly believe adharmas to be dharmas. Consequently, the true dharmas may seem like adharmas when Bhagavan imparts His teachings. This is why Jesus stated in the verse above, <b>‘Do not think that I have come to abolish the Law (Dharma Shastra) but to fulfill it.’</b>
@@ -274,8 +274,8 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 1,
 pageNumber: 9,
-verse: ` <b>(8)	The Gospel of Mathew, 5th chapter, 18th verse.</b>`,
-meaning: `<b>(18) For truly I tell you, until sky and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law (Dharma Shastra) until everything is accomplished.    </b>`,
+verse: ` <b>(8)	L'Évangile de Matthieu, chapitre 5, verset 18.</b>`,
+meaning: `<b>(5:18) Car en vérité, je vous le dis, jusqu'à ce que le ciel et la terre disparaissent, pas la plus petite lettre, pas le moindre trait de plume ne disparaîtra de quelque manière que ce soit de la Loi (Dharma Shastra) jusqu'à ce que tout soit accompli.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In this verse, the term <strong>&lsquo;Dharma Shastra&rsquo;</strong> is unique, and some may wonder what it means. To address such inquiries, it&rsquo;s essential to understand the concept of shastra (science), the various types of sciences, and the distinctiveness of Dharma Shastra within the field of sciences. First, if we grasp the meaning of the word <strong>&lsquo;shastra&rsquo;</strong>, we will understand shastra to some extent. The word &lsquo;shastra&rsquo; is derived from the Telugu word &lsquo;<strong>shasanam</strong>, &rsquo; which conveys the idea of <strong>&lsquo;must be enforced.&rsquo;</strong> Consequently, &lsquo;shastra&rsquo; implies <strong>&lsquo;whatever is stated must come to pass.&rsquo;</strong> Additionally, the term &lsquo;<strong>shapam</strong>&rsquo; is derived from &lsquo;shastra,&rsquo; and it signifies<strong> &lsquo;must be executed.&rsquo;</strong> Thus, all three words - <strong>shasanam&rsquo; (statute), &rsquo;shapam&rsquo; (curse), and &rsquo;shastra&rsquo; (science)</strong> share the same underlying meaning. Shastra is typically categorized into six distinct areas of study. Some may argue that the six sciences can be grouped into two kinds, while others propose three categories. Broadly speaking, shastras can be considered two types. In other words, we can describe shastras as threefold. If we categorize them as two types, one set is related to worldly matters, and the other pertains to matters related to Paramatma (the Supreme Being). In the threefold classification, four shastras are associated with worldly concerns, one relates solely to Paramatma, and other falls into the category of being partially related to Paramatma and partially related to worldly matters.
 
@@ -296,9 +296,9 @@ The six shastras are as follows: 1) Mathematics, 2) Astronomy, 3) Chemistry, 4) 
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 10,
-verse: ` <b>(9)	The Gospel of Mathew, 5th chapter, 19th verse.</b>`,
+verse: ` <b>(9)	L'Évangile de Matthieu, chapitre 5, verset 19.</b>`,
 meaning: `<b>
-(19) Therefore, anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of paraloka, but whoever practices and teaches these commands will be called great in the kingdom of paraloka. </b> `,
+(5:19) Par conséquent, quiconque met de côté l'un de ces moindres commandements et enseigne aux autres en conséquence sera appelé le moindre dans le royaume de paraloka, mais quiconque pratique et enseigne ces commandements sera appelé grand dans le royaume de paraloka. </b> `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> While there are some fundamental dharmas outlined in the Dharma Shastra, many are interconnected with them. God’s dharmas are also referred to as <b>commandments.</b> There are primarily <b>two</b> most essential of God’s commandments, but several others are connected to them. Anyone who transgresses even the tiniest of these connected commandments and imparts such teachings is acting against righteousness. A person should not transgress any of the dharmas, whether they are minor or significant, as instructed by God. Every single dharma, no matter how small, should be diligently practiced without exception. However, some individuals, instead of adhering to even the smallest dharmas, have strayed from the path of dharmas. They have not only embraced adharmas but also spread such teachings. Despite being regarded as Gurus by society, they have failed to comprehend God’s commandments correctly. Regrettably, they have misconstrued God’s dharmas as adharmas and have become proponents of adharmas. They misguide people by imparting such teachings, asserting that they are imparting true wisdom and the genuine commandments of God. Even though they may be esteemed as great Gurus in the eyes of the world, in God’s eyes, they are considered the least.
@@ -312,9 +312,9 @@ pageText: `
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 1,
 pageNumber: 11,
-verse: `<b>(10)	The Gospel of Mathew, 5th chapter, 20th verse.</b> `,
+verse: `<b>(10)	L'Évangile de Matthieu, chapitre 5, verset 20.</b> `,
 meaning: ` <b>
-      (20) For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of paraloka.</b>`,
+      5:20) Car je vous dis qu'à moins que votre justice ne surpasse celle des pharisiens et des docteurs de la loi, vous n'entrerez certainement pas dans le royaume de paraloka.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In the world, there are many Pharisees, devotees, and teachers. It is essential to possess a greater depth of wisdom than they do. God has stated that those who possess less wisdom than Pharisees, devotees, and teachers cannot enter paraloka. As the verse suggests, when you possess more wisdom than Swamis and Pharisees, who engage in yajnas (ritual sacrifices) and act contrary to what God has instructed, you will easily attain paraloka.
 </div></div>
@@ -324,9 +324,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 12,
-verse: `<b>(11)	The Gospel of Mathew, 5th chapter, 28th verse.</b> `,
+verse: `<b>(11)	L'Évangile de Matthieu, chapitre 5, verset 28.</b> `,
 meaning: `<b>
-(28) But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. </b>     `,
+(5:28) Mais je vous dis que quiconque regarde une femme avec convoitise a déjà commis un adultère avec elle dans son cœur. </b>     `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Human actions can be categorized into two distinct approaches: external actions that are observable and internal actions that occur within a person's thoughts and feelings. Both of these dimensions are present in every individual. In one approach, a person engages in actions related to their gunas with internal thoughts and emotions. In the other approach, the same actions are performed through the interaction of gunas and the physical body. The consequences of these actions result in either punya (good karma) or sin (bad karma). It is important to note that there are two types of actions: physical (visible) and non-physical (invisible). <b>When evaluating a person’s character, society often relies on their observable physical actions to determine whether they are considered good or bad. However, it becomes more challenging to make such judgments when a person’s actions are internal, involving thoughts and emotions, as they are not readily discernible.</b> It is difficult to ascertain whether a person is good or bad when we are unaware of their actions.
 
@@ -338,11 +338,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 13,
-verse: `<b>(12)	The Gospel of Mathew, 5th chapter, 29th and 30th verses.</b>`,
+verse: `<b>(12)	L'Évangile de Matthieu, chapitre 5, versets 29 et 30.</b>`,
 meaning: ` <b>
-(29) If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
+(5:29) Si ton œil droit te fait trébucher, arrache-le et jette-le. Il vaut mieux que vous perdiez une partie de votre corps plutôt que de jeter tout votre corps en enfer.
 <br><br>
-(30) And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.</b>`,
+(5:30) Et si ta main droite te fait trébucher, coupe-la et jette-la. Il est préférable que vous perdiez une partie de votre corps plutôt que tout votre corps aille en enfer.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> Verse 29 mentions <b>‘eye,’</b> and verse 30 mentions <b>‘hand.’</b> Upon closer examination, it becomes apparent that the human body consists of two types of body parts: physical or visible and non-physical or subtle. There are a total of ten (10) physical body parts and fifteen (15) subtle body parts, bringing the combined count to 25, including Jeevatma. Each body part corresponds to a distinct function within the body. The human body possesses five gnanendriyas (sensory organs) and five karmendriyas (motor organs). These two sets of organs collectively enable physical actions. The gnanendriyas, which include the eye, ear, nose, tongue, and skin, serve as receptors that transmit external information to the inner faculties. Similarly, there are five karmendriyas- hands, legs, mouth, anus, and sexual organ. The manas (mind) then conveys this information from the senses to the buddhi (intellect). While the gnanendriyas serve to transmit external information from the surroundings into the internal faculties, the inner buddhi conveys instructions through the manas to the karmendriyas, which subsequently carry out the actions as directed by the buddhi.
 
@@ -419,11 +419,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 14,
-verse: `  <b>(13)	The Gospel of Mathew, 6th chapter, 3rd and 4th verses.</b>`,
+verse: `  <b>(13)	L'Évangile de Matthieu, chapitre 6, versets 3 et 4.</b>`,
 meaning: ` <b>
-(3) But when you do dharma, do not let your left hand know what your right hand is doing.
+(6:3) Mais lorsque vous pratiquez le dharma, ne laissez pas votre main gauche savoir ce que fait votre main droite.
 <br><br>
-(4) So that your giving may be in secret. Then your father, who sees what is done secretly, will reward you.
+(6:4) Afin que votre don se fasse en secret. Alors ton père, qui voit ce qui se fait en secret, te récompensera.
 </b>`,
 pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Many preachers have misinterpreted this verse, suggesting that it pertains to donation. In certain places of worship, it is even suggested that the money given for God’s service should be so discreet that “the right hand should not know what the left hand is doing.” As a result, contributions are often hidden or wrapped in one's hand before being donated. However, it is important to clarify that this verse is not about donation; it is about dharma. There is a significant difference between dharma and donation. <b>Donation involves giving to others, while dharma refers to the principles one practices.</b> To truly understand how to practice dharma, it is essential to comprehend what these dharmas entail. In this verse, there is no mention of donation; rather, it emphasizes dharma. God’s dharmas are primarily two, as outlined in the divine scripture. The third one is physical. There are also other dharmas that are interconnected with these three primary ones. To reach God, a person primarily needs to focus on these three essential dharmas, while other dharmas revolve around aspects of God. These three core dharmas are the key practices for attaining God.
@@ -436,9 +436,9 @@ pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
   chapterName: "L'Évangile selon Matthieu",
   chapterNumber: 2,
   pageNumber: 15,
-  verse: `  <b>(14)	The Gospel of Mathew, 6th chapter, 6th verse.</b> `,
+  verse: `  <b>(14)	L'Évangile de Matthieu, chapitre 6, verset 6.</b> `,
   meaning: `<b>
-  (6) But when you pray, go into your room, close the door, and pray to your Father, who is unseen. Then your father, who sees what is done secretly, will reward you.</b>`,
+  (6:6) Mais quand tu pries, va dans ta chambre, ferme la porte et prie ton Père, qui est invisible. Alors ton père, qui voit ce qui se fait en secret, te récompensera.</b>`,
   pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When praying to God, it is essential to ensure that your prayers are filled with dharma. Mere verbal expressions without dharma do not constitute genuine prayer and won’t connect you with God. Therefore, when engaging in prayer that may be observed by others, Jesus told to go into a private room, close the door, and offer your prayers to the inner Atma, the divine presence within you. Atma, who is in the body, is the father of humans. A prayer that may be known to others should be conducted in such a way that no one is aware of it. By doing so, Atma, who is secretly in the body, shall reward you. In the first divine scripture, this practice is referred to as <b>‘Brahma (Great) Yogam.’</b>
 </div></div>
@@ -448,11 +448,11 @@ pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 16,
-verse: `  <b>(15)	The Gospel of Mathew, 6th chapter, 7th and 8th verses. </b> `,
+verse: `  <b>(15)	L'Évangile de Matthieu, chapitre 6, versets 7 et 8. </b> `,
 meaning: `  <b>
-(7) When you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words.
+(6:7) Lorsque vous priez, ne babillez pas comme les païens, car ils pensent qu'ils seront exaucés à cause de leurs nombreuses paroles.
 <br><br>
-(8) Do not be like them, for your father knows what you need before you ask him.</b>`,
+(6:8) Ne soyez pas comme eux, car votre père sait ce dont vous avez besoin avant que vous le lui demandiez.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Many people in society today pray with futile words rather than <b>‘Yogam,’</b> which adheres to dharma in reaching God. They assume that God will fulfill their desires if they use many words. Their intention is not to unite with God, but rather to seek worldly desires and benefits. However, you should not pray like them. Your father, Atma, already knows everything even before you ask. He knows what should or should not be granted to you. Therefore, it is of no use to inquire about material benefits. Your Father, Atma, guides you according to your karma. Hence, Atma provides you with what you have earned through your past karma. Whether you ask or not, Atma bestows everything according to karma. Atma is the Father of all humans, and the Holy Spirit, the Father of Atma, is the witness to all things.
 </div></div>
@@ -462,11 +462,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 17,
-verse: ` <b>(16)	The Gospel of Mathew, 7th chapter, 13th and 14th verses.</b> `,
+verse: ` <b>(16)	L'Évangile de Matthieu, chapitre 7, versets 13 et 14.</b> `,
 meaning: `<b>
-(13) Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it.
+(7:13) Entrez par la porte étroite. Car large est la porte et large est le chemin qui mènent à la perdition, et beaucoup entrent par là.
 <br><br>
-(14) But small is the gate and narrow the road that leads to life, and only a few find it.
+(7:14) Mais petite est la porte et resserré le chemin qui mène à la vie, et seuls quelques-uns les trouvent.
 </b> `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  There are two paths in this world: one is the path of Paramatma (The Holy Spirit), and the other is the path of Maya. While there are very few who seek God, many are drawn to the vast path of Maya. The gateway to moksham is narrow and challenging to traverse. God’s path is likewise narrow, and only a few manage to discover it.
@@ -481,12 +481,12 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 18,
-verse: ` <b>(17)	The Gospel of Mathew, 7th chapter, 7th and 8th verses.</b>
+verse: ` <b>(17)	L'Évangile de Matthieu, chapitre 7, versets 7 et 8.</b>
 `,
 meaning: `
 <b>
-(7) Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.<br><br>
-(8) For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+(7:7) Demandez et il vous sera donné ; cherchez et vous trouverez ; frappez et la porte vous sera ouverte.<br><br>
+(7:8) Car quiconque demande reçoit ; celui qui cherche trouve ; et à celui qui frappe, la porte s'ouvrira.
 </b> `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
@@ -502,9 +502,9 @@ pageText: `
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 19,
-verse: `<b>(18)	The Gospel of Mathew, 7th chapter, 15th verse.</b>`,
+verse: `<b>(18)	L'Évangile de Matthieu, chapitre 7, verset 15.</b>`,
 meaning: ` <b>
-(15) Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.
+(7:15) Faites attention aux faux prophètes. Ils viennent à vous déguisés en mouton, mais intérieurement, ce sont des loups féroces.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   Human beings require guidance to find their path to God, and this guidance often comes from others. To walk in God’s path, a person must place their trust in another. Those who follow this spiritual path rely on their guides to show them the way. The follower’s journey depends on the guide, as they must follow the path the guide illuminates. This makes the follower reliant on the guide, and if the guide provides the correct direction, the follower will progress correctly. Conversely, if the guide offers the wrong direction, the follower may stray from the path. The ultimate destination of an ordinary person is strongly influenced by the chosen guide or guru. Once a person is recognized as a guru, individuals tend to believe and trust their guidance throughout their lives. Therefore, great care should be exercised when selecting someone as your guru or guide. In the verse mentioned above, the Lord warned, <b>‘Beware of false prophets.’</b> He cautioned that some contemporary gurus may not be genuine guides. They may present themselves in sheep’s clothing, pretending to be genuine gurus, but in reality, they are like ferocious wolves in disguise. According to the teachings of Jesus, many individuals may dress and act like gurus, even using words such as God, wisdom, and Atma in their discourse. However, their true nature may not lead you closer to God. Just as a wolf concealed under sheep’s skin is not a sheep, these individuals, despite their appearance, are not genuine gurus. Therefore, the Lord’s advice is to be vigilant and cautious about false prophets to avoid wasting one’s life by following those who do not offer true guidance.
@@ -515,9 +515,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 20,
-verse: `<b>(19)	The Gospel of Mathew, 7th chapter, 21st verse.</b>`,
+verse: `<b>(19)	 L'Évangile de Matthieu, chapitre 7, verset 21.</b>`,
 meaning: ` <b>
-(21) Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of paraloka, but only the one who does the will of my Father who is in paraloka. </b>
+(7:21) Tous ceux qui me disent : « Seigneur, Seigneur » n’entreront pas dans le royaume de paraloka, mais seulement celui qui fait la volonté de mon Père qui est en paraloka. </b>
 `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
@@ -531,11 +531,11 @@ pageText: `
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 21,
-verse: ` <b>(20)	The Gospel of Mathew, 7th chapter, 22nd and 23rd verses. </b>`,
+verse: ` <b>(20)	L'Évangile de Matthieu, chapitre 7, versets 22 et 23. </b>`,
 meaning: ` <b>
-(22) Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name and in your name drive out demons and, in your name, perform many miracles?
+(7:22) Beaucoup me diront ce jour-là : « Seigneur, Seigneur, n’avons-nous pas prophétisé en ton nom et en ton nom chassé les démons et, en ton nom n’avons-nous pas accompli de nombreux miracles ?
 <br><br>
-(23) Then I will tell them plainly, ‘I never knew you. Away from me, you evildoers!’</b>`,
+(7:23) Alors je leur dirai clairement : « Je ne vous ai jamais connu. Loin de moi, vous les malfaiteurs ! »</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Some people who recognize the greatness of the Lord (Jesus) may overlook Paramatma, the ruler of paraloka, and focus solely on praising Jesus. Paramatma, the Father of the entire world, sent a part of Himself as Jesus. Jesus possesses as much power as Paramatma. Praising the Lord Jesus is akin to praising the Father, Paramatma. Many people offer their praise to the Lord, but there are those who do so out of selfish motives, while others are selfless in their devotion to God. The Father of paraloka conveyed his message through Jesus, whom He sent, on numerous occasions. Many are familiar with the words of the Supreme Father but do not comprehend His true nature. It might be asserted that not even one out of millions who read the Father’s words, listen, and offer their praise, truly understands the Father’s actual essence. The Lord proclaimed God’s commandments, wisdom, and verses. The visible Lord (Jesus) serves as the symbol of the invisible God, and He is the image and representative of God. Those who fail to grasp the wisdom and commandments contained in the verses cannot fully benefit from their praise of the Lord.
 
@@ -559,9 +559,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 22,
-verse: ` <b>(21) The Gospel of Mathew, 8th chapter, 22nd verse. </b>`,
+verse: ` <b>(21) L'Évangile de Matthieu, chapitre 8, verset 22. </b>`,
 meaning: ` <b>
-(22) Jesus told him, “Follow me, and let the dead bury their own dead.”</b>`,
+(8:22) Jésus lui dit : « Suis-moi et laisse les morts enterrer leurs propres morts. »</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The above verse mentioned was Jesus’s response when one of His disciples said to Him, “Lord, first let me go and bury my father.” Jesus’s words may seem unclear to some, prompting questions about their meaning. When we consider this, we can classify humanity into two categories: those who possess wisdom and practice it as yogam will attain eternal life (moksham). Such people are very few in number. Those who are eligible for everlasting life will not be counted among the dead. Those who attain everlasting life will never truly experience death and can be said to have achieved moksham. On the other hand, those who are ignorant or do not engage in the practice of yogam can be considered as spiritually dead. Such individuals do not possess eternal life and will ultimately face death. It can be said that they are destined to experience death at some point. The ignorant are often buried by other ignorant individuals. Hence, Jesus’s statement, “Let the dead bury the dead,” conveys the idea that those who lack wisdom are referred to as the spiritually dead. It emphasizes that those who possess wisdom should not associate themselves with the ignorant. Therefore, Jesus told the disciple, “You understand the wisdom and follow me. Let the ignorant bury the ignorant.”
 </div></div>
@@ -571,11 +571,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 23,
-verse: ` <b>(22)	The Gospel of Mathew, 9th chapter, 12th and 13th verses.</b>`,
+verse: ` <b>(22)	L'Évangile de Matthieu, chapitre 9, versets 12 et 13.</b>`,
 meaning: ` <b>
-(12) On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.”
+(9:12) En entendant cela, Jésus dit : « Ce ne sont pas les bien portants qui ont besoin d’un médecin, mais les malades. »
 <br><br>
-(13) For I have not come to call the righteous, but sinners.</b>`,
+(9:13) Car je ne suis pas venu appeler des justes, mais des pécheurs.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  As we’ve previously discussed, God occasionally descends upon the Earth to establish dharmas. Similarly, Jesus stated that He came to guide the ignorant onto the path of wisdom. He mentioned that He came to call sinners, not the righteous. Here ‘sinners’ represent those who are ignorant and lack wisdom, while the ‘righteous’ denote those who possess wisdom. God takes on the role of a spiritual physician, often referred to as a preacher, to heal those afflicted by the ailment of ignorance. Through the medicine of wisdom, He cures the spiritually sick. Those who are already spiritually healthy with wisdom do not require the guidance of such a physician or preacher. When the disease of ignorance spreads globally, affecting all people, God incarnates to provide His divine medicine of dharmas and transform the ignorant into gnanis (wise individuals). If God did not assume this role as a spiritual physician, the entire world would be plagued by ignorance. Therefore, God incarnates to reveal His wisdom to those in need.
 </div></div>
@@ -585,15 +585,15 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 24,
-verse: ` <b>(23) The Gospel of Mathew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>`,
+verse: ` <b>(23) L'Évangile de Matthieu, chapitre 8, versets 23, 24, 25 et 26. </b>`,
 meaning: `<b>
-(23) Then He got into the boat and His disciples followed Him.
+(8:23) Puis il monta dans la barque et ses disciples le suivirent.
 <br><br>
-(24) Suddenly a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping.
+(8:24) Soudain, une violente tempête s'éleva sur le lac, de sorte que les vagues balayèrent le bateau. Mais Jésus dormait.
 <br><br>
-(25) The disciples went and woke Him, saying, “Lord, save us! We’re going to drown!”
+(8:25) Les disciples allèrent le réveiller en disant : « Seigneur, sauve-nous ! Nous allons nous noyer !
 <br><br>
-(26) He replied, “You of little faith, why are you so afraid?” Then He got up and rebuked the winds and the waves, and it was completely calm.   </b>`,
+(8:26) Il répondit : « Toi de peu de foi, pourquoi as-tu si peur ? » Puis il se leva et réprimanda les vents et les vagues, et tout fut complètement calme. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This event is a significant incident from Jesus’ life. While Jesus may not have directly taught a lesson here, there is much we can learn from this event. Both the sea and the storm are connected to Prakruti. The air in the storm and the water in the sea are integral components of Prakruti. Prakruti is under the sole control of Paramatma, the supreme divine entity. Prakruti consists of five elements: Sky, Air, Fire, Water, and Earth. Even Atma, which possesses divinity following Paramatma, holds no authority over Prakruti. Atma within the body governs only the Chara (Changeable) Prakruti, which exists in the form of the body. It does not exert any authority over the Achara (Unchangeable) Prakruti. Prakruti does not heed Atma; it solely obeys the command of Paramatma. Prakruti is composed of five bhootas, which can be understood as life forces or Jeevas. These five Jeevas represent the five elements of Prakruti and, as such, they adhere to the divine word of God. They follow the instructions of Paramatma.
@@ -607,9 +607,9 @@ pageText: `
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 25,
-verse: ` <b>(24)The Gospel of Mathew, 9th chapter, 6th verse.</b>`,
+verse: ` <b>(24) L'Évangile de Matthieu, chapitre 9, verset 6.</b>`,
 meaning: `<b>
-(6) I want you to know that the Son of Man has authority on earth to forgive sins. So, he said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
+(9:6) Je veux que vous sachiez que le Fils de l'homme a l'autorité sur terre pour pardonner les péchés. Alors, il dit au paralysé : « Lève-toi, prends ton tapis et rentre chez toi. » Puis l'homme s'est levé et est rentré chez lui.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
@@ -624,9 +624,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 26,
-verse: ` <b>(25) The Gospel of Mathew, 10th chapter, 20th verse.</b>`,
+verse: ` <b>(25) L'Évangile de Matthieu, chapitre 10, verset 20.</b>`,
 meaning: `<b>
-(20) For it will not be you speaking, but the Spirit of your Father speaking through you. </b>`,
+(10:20) Car ce n'est pas vous qui parlerez, mais l'Esprit de votre Père qui parlera à travers vous. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  While this verse may appear ordinary, it holds profound spiritual wisdom. It’s essential to understand that the term <b>‘Your Father’</b> in this verse does not refer to one’s biological father but to the spiritual Father of Jeevatma. Atma, the Father of Jeevatma, resides within the body and guides it. It’s crucial to remember that the Father of Atma is Paramatma. Every human being represents Jeevatma. Depending on a person’s karma, Atma influences and guides them (Jeevatma), causing them to experience karma (sins and punya karma). Atma controls all bodily functions and determines the pleasure and pain experienced by Jeevatma within the body.
 
@@ -639,9 +639,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 27,
-verse: ` <b>(26) The Gospel of Mathew, 10th chapter, 30th verse.</b>`,
+verse: ` <b>(26) L'Évangile de Matthieu, chapitre 10, verset 30.</b>`,
 meaning: ` <b>
-(30) Even the very hairs of your head are all numbered.
+(10:30) Même les cheveux de votre tête sont tous comptés.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In a temple, people often share their thoughts with God, believing that God is unaware of their innermost feelings. They exhibit respect and awe when in the temple but may behave differently outside. For instance, after leaving the temple, some individuals may occupy two train seats without allowing other passengers to sit, displaying inconsiderate behavior. This action stems from the misconception that God is aware of their actions inside the temple but not outside. However, what <b>many fail to realize is that God is omniscient and omnipresent, perceiving all actions, even in the most secluded places.</b> This verse spoken by Jesus highlights the glory of God and serves as a reminder that God’s awareness extends everywhere.
@@ -655,13 +655,13 @@ The verse highlights God’s extraordinary carefulness towards humans, as God ha
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 28,
-verse: ` <b>(27) The Gospel of Mathew, 10th chapter, 34th, 35th and 36th verses.</b>`,
+verse: ` <b>(27) L'Évangile de Matthieu, chapitre 10, versets 34, 35 et 36.</b>`,
 meaning: `<b>
-(34) Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.
+(10:34) Ne pensez pas que je suis venu apporter la paix sur la terre. Je ne suis pas venu apporter la paix, mais une épée.
 <br><br>
-(35) For I have come to turn “‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.
+(10:35) Car je suis venu pour retourner « un homme contre son père, une fille contre son père » mère, une belle-fille contre sa belle-mère.
 <br><br>
-(36) A man’s enemies will be the members of his own household.
+(10:36) Les ennemis d’un homme seront les membres de sa propre maison.
 </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
@@ -674,9 +674,9 @@ pageText: `
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 29,
-verse: `<b>(28)	The Gospel of Mathew, 10th chapter, 37th verse.</b>`,
+verse: `<b>(28)	L'Évangile de Matthieu, chapitre 10, verset 37.</b>`,
 meaning: `<b>
-(37) Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.
+(10:37) Celui qui aime son père ou sa mère plus que moi n'est pas digne de moi ; quiconque aime son fils ou sa fille plus que moi n'est pas digne de moi.
 </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
@@ -689,9 +689,9 @@ pageText: `
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 30,
-verse: `<b>(29)	The Gospel of Mathew, 10th chapter, 38th verse.</b>`,
+verse: `<b>(29)	L'Évangile de Matthieu, chapitre 10, verset 38.</b>`,
 meaning: `<b>
-(38) Whoever does not take up their cross and follows me is not worthy of me.
+(10:38) Celui qui ne prend pas sa croix et ne me suit n'est pas digne de moi.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Christians often speak of and hold deep reverence for the cross. It’s common to see Christians wearing a cross around their necks, and this symbol holds great importance in their faith. It’s widely known that Jesus was crucified and died on the cross. The question that arises is why Christians hold in such high regard a symbol that was used as an instrument of Jesus’ execution. The answer lies in the profound nature of following someone greater than themselves and emulating their actions. However, no one has contemplated why the cross, a symbol associated with the Lord’s death, should be held in such high regard. Indeed, whether intentionally or unintentionally, there seems to be a gap in understanding the details of the cross. Let’s take a moment to contemplate the cross and delve into deeper details.
@@ -710,9 +710,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 31,
-verse: `<b>(30)	The Gospel of Mathew, 10th chapter, 40th verse.</b>`,
+verse: `<b>(30)	L'Évangile de Matthieu, chapitre 10, verset 40.</b>`,
 meaning: ` <b>
-(40) Anyone who receives you receives me, and anyone who receives me receives the one who sent me. </b>`,
+(10:40) Celui qui te reçoit me reçoit, et celui qui me reçoit reçoit celui qui m'a envoyé. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
   While human beings are Jeevatmas, they are created by Atma. Paramatma, or the Holy Spirit, created both Atma and Prakruti. However, when Paramatma incarnates as a man, the question arises whether to refer to Him as Atma or Jeevatma. If God takes human form, He can be considered a Jeevatma based on His appearance. When human beings (Jeevatmas) pass away, Atma incorporates them into itself. Just as Atma encompasses human beings, it also includes God when He incarnates as a man and appears as a Jeevatma. This concept is echoed in the verse, <b>“Whoever receives you also receives me.”</b> The one who incarnated as a human being (Jeevatma) is, in reality, God. However, it is God who sent the man, such as Jesus. When Atma encompasses a man resembling a Jeevatma, it’s as if God, the sender of the man, is also included within Atma. Hence, in the verse, Jesus conveyed, <b>“The one who receives me receives the one who sent me.”</b>
@@ -724,9 +724,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 32,
-verse: `<b>(31)	The Gospel of Mathew, 11th chapter, 9th verse.</b>`,
+verse: `<b>(31)	L'Évangile de Matthieu, chapitre 11, verset 9.</b>`,
 meaning: ` <b>
-(9) What did you go out to see? A prophet? Yes, I tell you, and (I am) more than a prophet.</b>`,
+(11:9) Qu’es-tu sorti voir ? Un prophète ? Oui, je vous le dis, et (je suis) plus qu'un prophète.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  It can be said that a prophet (pravaktha) is one who teaches knowledge that no one has told. In Telugu, <b>‘Pra’</b> denotes importance, and <b>‘Vaktha’</b> means the one who speaks. A prophet is thus someone who imparts essential wisdom. However, Jesus proclaimed that He is more than a prophet. There is only one individual surpassing a prophet, revealing wisdom beyond the capacity of prophets. The divine scripture asserts, <b>“God did not impart His wisdom to any human being. God’s wisdom remains unknown to all except God.”</b> In the final divine scripture, it is stated in verse 3:7 that God must convey His wisdom. Based on this, it is understood that although God comes as a prophet to share wisdom, He is more than a prophet. The last divine scripture, in 42:51, declares, <b>“God does not communicate directly with humans.”</b> However, God can manifest as a disguised man and convey His message. Whenever God takes on human form, even if referred to as a prophet, He is more than a prophet. In light of Jesus’ statement in this verse, it becomes evident that Jesus surpasses prophets and represents an incarnation of God. Despite Jesus openly declaring his identity on multiple occasions, many failed to recognize Him.
 </div></div>
@@ -736,9 +736,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 33,
-verse: `<b>(32)	The Gospel of Mathew, 11th chapter, 28th verse.</b>`,
+verse: `<b>(32)	L'Évangile de Matthieu, chapitre 11, verset 28.</b>`,
 meaning: ` <b>
-(28) Come to me, all you who are weary and burdened, and I will give you rest. </b>`,
+(11:28) Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  It’s a common understanding that people get weary when carrying physical weight. However, humans also experience weariness without even bearing any visible burden. The invisible burden, in this case, is sin (karma), and everyone who undergoes karmic experiences tends to feel weary. Humans continually encounter karma, except during sleep when they are temporarily free from it. Even in dreams, the influence of karma persists, signifying a constant state of labor. Considering the perpetual nature of this burden, Jesus extends an invitation to all, saying, <b>“Come to me. I will give you rest.”</b>
 
@@ -751,17 +751,17 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 34,
-verse: ` <b>(33)	The Gospel of Mathew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b>`,
+verse: ` <b>(33) L'Évangile de Matthieu, chapitre 12, versets 17, 18, 19, 20 et 21.</b>`,
 meaning: ` <b>
-(17) This was to fulfill what was spoken through the prophet Isaiah.
+(12:17) C'était pour accomplir ce qui avait été annoncé par l'intermédiaire du prophète Isaïe.
 <br><br>
-(18) Here is my servant whom I have chosen, the one I love, in whom I delight; I will put my Spirit on him.
+(12:18) Voici mon serviteur que j'ai choisi, celui que j'aime, en qui je prends plaisir ; Je mettrai mon Esprit sur lui.
 <br><br>
-(19) He will proclaim justice (wisdom) to the nations; He will not quarrel or cry out; no one will hear his voice in the streets.
+(12:19) Il proclamera la justice (la sagesse) aux nations ; Il ne se disputera pas et ne criera pas ; personne n’entendra sa voix dans les rues.
 <br><br>
-(20) A bruised reed he will not break, and a smoldering wick he will not snuff out, till he has brought justice (wisdom) through to victory.
+(12:20) Il ne brisera pas un roseau meurtri, et il n'éteindra pas une mèche qui couve, jusqu'à ce qu'il ait amené la justice (la sagesse) à la victoire.
 <br><br>
-(21) In his name the nations will put their hope. </b>`,
+(12:21) En son nom les nations placeront leur espérance. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  About 350 years ago, a great man named Veerabrahmam foretold the events and natural disasters that were about to take place. Similarly, a great man named Isaiah foretold the coming of Jesus. If we examine Isaiah’s words in detail, the greatness in his words will become known to all. It became clear who Isaiah was talking about. Isaiah lived many years before Jesus was born. In the 13th chapter, Isaiah conveyed a few more things. Looking at these verses, it becomes evident that God, the Holy Spirit, spoke of Jesus. Examining the verses where Jesus spoke about Himself in the scripture and the verses where the Holy Spirit talked about Jesus, it becomes apparent that the one who spoke about Jesus (the Holy Spirit) and Jesus are the same.
 
@@ -781,9 +781,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 35,
-verse: `<b>(34)	The Gospel of Mathew, 12th chapter, 31st verse.</b>`,
+verse: `<b>(34)	L'Évangile de Matthieu, chapitre 12, verset 31.</b>`,
 meaning: `<b>
-(31) So, I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit (Atma) will not be forgiven.    </b>`,
+(12:31) Ainsi, je vous le dis, toute sorte de péché et de calomnie peut être pardonné, mais le blasphème contre l'Esprit (Atma) ne sera pas pardonné. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This verse holds particular significance in the scripture. When human beings grasp God’s wisdom, that wisdom transforms into fire (wisdom power). This fire has the capability to burn away various sins (karma). Knowing divine wisdom allows humans to avoid sins unrelated to Atma. However, it’s crucial to note that the wisdom power cannot absolve sins stemming from blasphemy and actions against Atma; such sins may remain unforgiven.
 </div></div>
@@ -794,9 +794,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 36,
-verse: `<b>(35)	The Gospel of Mathew, 12th chapter, 32nd verse.</b>`,
+verse: `<b>(35)	L'Évangile de Matthieu, chapitre 12, verset 32.</b>`,
 meaning: `<b>
-(32) Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age (yuga) or in the age (yuga) to come.  </b>`,
+(12:32) Quiconque prononcera une parole contre le Fils de l'Homme sera pardonné, mais quiconque parlera contre le Saint-Esprit ne sera pas pardonné, ni dans cet âge (yuga) ni dans l'âge (yuga) à venir.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  All human beings are commonly referred to as the sons of man; ordinary people acknowledge that their parents are human. But Jesus, despite His outward appearance as an ordinary man, should not be categorized as the son of man. When Jesus spoke of His Father, He specified that His Father existed in paraloka, not as a man on earth. Consequently, Jesus is appropriately identified as the Son of God. In contrast, the general term “son of man” can be applied to all people. Despite Jesus presenting himself with the name and experiences of an ordinary man, His true designation is the Son of God.
 
@@ -811,11 +811,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 37,
-verse: `<b>(36)	The Gospel of Mathew, 12th chapter, 36th and 37th verses.</b>`,
+verse: `<b>(36)	L'Évangile de Matthieu, chapitre 12, versets 36 et 37.</b>`,
 meaning: ` <b>
-(36) But I tell you that everyone will have to give an account on the day of judgment for every empty word they have spoken.
+(12:36) Mais je vous dis que chacun devra rendre compte au jour du jugement de chaque parole creuse qu'il aura prononcée.
 <br><br>
-(37) For by your words you will be acquitted, and by your words you will be condemned.     </b>`,
+(12:37) Car par tes paroles tu seras acquitté, et par tes paroles tu seras condamné.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  From the moment of birth, humans engage in numerous actions and utter many words. They believe they are personally responsible for every small deed and word. In reality, they have not done anything. It is Atma within the body that performs all actions. However, an unaware individual falsely attributes every action and word to themselves, and consequently, the karmic consequences of their deeds and words accrue to them. Atma stores all accumulated karma in the karma chakra and assesses it on the day of death. On this judgment day, Atma evaluates every deed and word of the individual, weighing the sins and punya associated with each. A person is considered a gnani (wise person) if they acquire wisdom in life, and conversely, a person is regarded as ignorant if they perform deeds with ignorance. Additionally, Atma considers whether a person has acquired wisdom (gnani) or remains in ignorance. The judgment is based on the individual’s status as either a gnani or an ignorant one, determining their next life accordingly. The Holy Spirit does not judge a person based on karma. It is the Atma, responsible for all functions in the body, that judges the individual on the day of death and directs the Jeeva to the next life. This day is known as the <b>‘judgment day’</b> or <b>‘final day,’</b> also serving as the first day of the next life (birthday). Recognizing that Atma is the ultimate arbiter on the last and first days of life, one should understand that the Holy Spirit does not participate in these processes. The last day can be referred to as the day of counting karma. Atma is the one who performs all functions of the body. Understanding this, if a person believes they have not personally done anything, they are neither considered a sinner nor a virtuous person. It’s crucial to recognize that the Atma determines the karma in a person’s deeds and guides them to the next birth. Depending on one’s thoughts, they will be judged as either a gnani, ignorant, righteous, or a sinner.
 </span>
@@ -825,9 +825,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 38,
-verse: `<b>(37)	The Gospel of Mathew, 12th chapter, 40th verse.</b>`,
+verse: `<b>(37)	L'Évangile de Matthieu, chapitre 12, verset 40.</b>`,
 meaning: ` <b>
-(40) For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth.  </b>`,
+(12:40) Car, comme Jonas fut trois jours et trois nuits dans le ventre d'un énorme poisson, de même le Fils de l'homme sera trois jours et trois nuits dans le sein de la terre. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This verse draws a parallel between the events preceding the time of Jesus and the prophesied occurrences. It notes that Jonah, after being swallowed by a giant fish, resided inside its belly for three days and three nights. The verse also prophesies, “Jesus will be three days and three nights in the heart of the earth.” While it is accurate that Jonah spent three days and three nights in the fish, it is not precise to state that Jesus, the Son of Man, lived for the same duration in the heart of the earth. Historically, Jesus was crucified on the cross on Friday evening and rose from the dead before dawn on Sunday morning. According to historical records, Jesus was likely crucified between 3:30 p.m. and 4 p.m. on Friday, and His body was placed in a tomb on Friday evening. Consequently, Jesus was not in the tomb during the daytime on Friday, but rather on Friday night and the entirety of Saturday. The resurrection is said to have occurred before dawn on Sunday. Therefore, Jesus spent Friday night and the entire day on Saturday in the tomb, rising from the dead before Sunday morning.
 
@@ -853,13 +853,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 39,
-verse: `<b>(38)	The Gospel of Mathew, 13th chapter, 13th, 14th and 15th verses.</b>`,
+verse: `<b>(38)	L'Évangile de Matthieu, chapitre 13, versets 13, 14 et 15.</b>`,
 meaning: `<b>
-(13) Though seeing, they do not see; though hearing, they do not hear or understand.
+(13:13) Bien qu'ils voient, ils ne voient pas ; bien qu’ils entendent, ils n’entendent ni ne comprennent.
 <br><br>
-(14) In them is fulfilled the prophecy of Isaiah: You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
+(13:14) En eux s'accomplit la prophétie d'Isaïe : Vous entendrez toujours mais vous ne comprendrez jamais ; vous verrez toujours mais ne percevrez jamais.
 <br><br>
-(15) For this people’s heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise, they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them. </b>`,
+(13:15) Car le cœur de ce peuple est devenu insensible ; ils entendent à peine avec leurs oreilles et ils ont fermé les yeux. Autrement, ils pourraient voir de leurs yeux, entendre de leurs oreilles, comprendre de leur cœur et se tourner, et je les guérirais. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The prophet Isaiah prophesied about this a long time ago. Both then and now, there have been ignorant people. They see with their eyes, hear with their ears, and divert their manas (mind) even after comprehending with their buddhi. Due to their lack of interest in what they have seen, heard, and known, their buddhi slows down to avoid destroying their karma through Jesus. Their ears become deaf to divine wisdom. They listen to everything that is said but do not understand what they hear and become entangled in material things. They can only see the money. To them, those who possess wisdom appear foolish.
 </div></div>
@@ -870,13 +870,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 40,
-verse: `<b>(39)	The Gospel of Mathew, 15th chapter, 7th, 8th and 9th verses.</b>`,
+verse: `<b>(39)	L'Évangile de Matthieu, chapitre 15, versets 7, 8 et 9 .</b>`,
 meaning: `<b>
-(7) You hypocrites! Isaiah was right when he prophesied about you.
+(15:7) Hypocrites ! Isaïe avait raison lorsqu’il a prophétisé à votre sujet.
 <br><br>
-(8) These people honor me with their lips, but their hearts are far from me.
+(15:8) Ces gens m'honorent des lèvres, mais leur cœur est loin de moi.
 <br><br>
-(9) They worship me in vain; their teachings are merely human rules.    </b>`,
+(15:9) Ils m'adorent en vain ; leurs enseignements ne sont que des règles humaines. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  We have often said, “God knows the matter of God; humans do not know.” God can speak about Himself, and humans will come to know when God reveals how to worship Him. Although God has foretold how He should be worshipped, many preach different ways that differ from what God has said. Many swamis and gurus are teaching people human-created rules, such as upadesas and other methods of worship. God Himself reveals that “such upadesas and worship are futile” and cannot bring humans closer to Him. Many swamis and gurus talk about God in their speeches but preach anti-God and God-unspoken worships and upadesas. Even though these gurus and swamis talk about God and wisdom, they perform futile worships without understanding divine wisdom and lead others to do the same. For example, fasting has nothing to do with worshipping God. Not only are they suffering from fasting, but they are also bothering the God within. That is how they are harming the God within. Similarly, it was said in the Bhagavad-Gita five thousand years ago, <b>“You cannot know and reach me through studying the Vedas, making donations, or performing
 sacrifices (yajnas), penances (tapas) etc.”</b> In the Bhagavad-Gita, God said that many people highly honor Him but worship Him in vain, in an adharma manner. The Lord has said the same thing in the holy scripture now.
@@ -891,9 +891,9 @@ sacrifices (yajnas), penances (tapas) etc.”</b> In the Bhagavad-Gita, God said
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 41,
-verse: `<b>(40)	The Gospel of Mathew, 15th chapter, 11th verse.</b>`,
+verse: `<b>(40)	L'Évangile de Matthieu, chapitre 15, verset 11.</b>`,
 meaning: ` <b>
-(11) What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them. </b>`,
+(15:11) Ce qui entre dans la bouche de quelqu'un ne le souille pas, mais ce qui vient ce qui sort de leur bouche, c'est ce qui les souille. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Man consumes food through the mouth, and the variety of food is vast, not limited to a single type. Individuals can be categorized as either vegetarians or non-vegetarians. Some spiritual leaders, such as swamis and gurus, advocate vegetarianism as a path to understanding God’s wisdom, asserting that avoiding meat is essential. Here the Lord said, <b>“What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”</b> Various opinions exist regarding dietary practices for those on the path of divine wisdom. Some recommend abstaining from non- vegetarian food, while others suggest a diet of exclusively raw, uncooked food. Some propose a vegetarian diet limited to one meal a day. Despite these diverse dietary restrictions, it is emphasized that the sanctity or uncleanness of an individual is not determined by the food consumed. While the food we eat may have an impact on physical health, it does not influence spiritual purity. Eating any particular food does not obstruct the pursuit of divine wisdom. Man consumes food with his mouth and articulates words with the same organ. Notably, the process of ingesting food through the mouth poses no issue; rather, it is the words that emanate from the mouth that have the potential to defile a person. While man engages in actions and verbal expressions, his true nature is unveiled through his words. <b>Elders uphold the belief that one possessing divine wisdom is deemed holy, while those lacking wisdom are considered unclean.</b> A person with wisdom is regarded as pure based on their speech. Conversely, ignorance is exposed in the words of someone lacking wisdom. The defilement of an individual becomes evident through their speech; hence, Jesus conveyed the aforementioned verse. According to the teachings of the Bible and the Bhagavad-Gita, a person is not defiled by the food they consume. Rather, it is one’s karma that provides sustenance. Those on the path of wisdom are not bound by dietary restrictions. What matters to God is not the specific food consumed but the adherence to the wisdom path. Therefore, whatever food is consumed in accordance with one’s habits is inconsequential to God.
 </div></div>
@@ -904,11 +904,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 42,
-verse: `<b>(41)	The Gospel of Mathew, 15th chapter, 12th and 13th verses.</b>`,
+verse: `<b>(41)	L'Évangile de Matthieu, chapitre 15, versets 12 et 13.</b>`,
 meaning: `<b>
-(12) Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”
+(15:12) Alors les disciples vinrent vers lui et lui demandèrent : « Savez-vous que les pharisiens ont été offensés en entendant cela ?
 <br><br>
-(13)  He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.” </b>`,
+(15:13) Il répondit : « Toute plante que mon Père céleste n’a pas plantée sera arrachée par les racines. »</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When the Lord proclaimed that man is not defiled by food and is free to consume any nourishment while still adhering to God’s path, the Pharisees raised objections. They contested that the Lord’s words lacked divine wisdom and outright rejected them. Accusing Jesus of promoting ignorance, they questioned the source of His authority to teach such principles. The Pharisees, considering themselves great teachers, asserted that only they possessed the rightful authority to impart wisdom about God. Upon learning of the Pharisees’ objections, the disciples apprised Jesus of the situation. In response, He declared, <b>‘Every plant not planted by my heavenly Father will be uprooted by the roots.’</b>
 
@@ -923,9 +923,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 43,
-verse: `<b>(42) The Gospel of Mathew, 15th chapter, 14th verse.</b>`,
+verse: `<b>(42) L'Évangile de Matthieu, chapitre 15, verset 14.</b>`,
 meaning: `<b>
-(14) Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit. </b>`,
+(15:14) Laissez-les ; ce sont des guides aveugles. Si un aveugle conduit un aveugle, tous deux tomberont dans une fosse. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Individuals under the influence of Maya, including Pandits and Pharisees, who are themselves part of Maya, criticized Bhagavan Jesus without comprehending God’s wisdom. They are unaware of God’s wisdom, lacking any insight into divine wisdom. They remain blind without wisdom sight. How can those devoid of God’s wisdom proclaim and guide others in it? They pretend to have wisdom sight and spread what they perceive as God’s wisdom. People, trusting these apparent seers, seek guidance, assuming they possess complete knowledge of God’s wisdom. Unbeknownst to them, these leaders themselves are blind. Imagine a scenario where a blind person leads others who are also blind, claiming to have sight and guiding them along the way. Inevitably, the blind leader stumbles into pit, leading the others into the same predicament. Similarly, those ignorant of God’s wisdom mock those with true wisdom, proclaiming themselves as great gurus. Those with wisdom need not engage in argument with them. Individuals lacking wisdom-sight cannot ascend to the pinnacle of moksham. Although many may follow a guru lacking wisdom-sight, none attains moksham; instead, they fall into the <b>pit of gunas.</b>
 </div></div>
@@ -936,25 +936,25 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 44,
-verse: ` <b>(43) The Gospel of Mathew, 16th chapter, 21st and 22nd verses.<br>
-The Gospel of Mathew, 17th chapter, verses 22nd and 23rd verses.
+verse: ` <b>(43) L'Évangile de Matthieu, chapitre 16, versets 21 et 22.<br>
+L'Évangile de Matthieu, chapitre 17, versets 22 et 23.
 <br>
-The Gospel of Mathew, 20th chapter, verses 17th, 18th and 19th verses.</b>
+L'Évangile de Matthieu, chapitre 20, versets 17, 18 et 19.</b>
 `,
 meaning: ` <b>
-(16:21) From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief priests, and the teachers of the law, and that he must be killed and on the third day be raised to life. (First time)
+(16:21) À partir de ce moment-là, Jésus commença à expliquer à ses disciples qu'il devait aller à Jérusalem et souffrir beaucoup de choses de la part des anciens, des principaux sacrificateurs et des docteurs de la loi, et qu'il devait être tué. et le troisième jour ressuscitera. (Première fois)
 <br><br>
-(16:22) Peter took him aside and began to rebuke him. “Never, Lord!” he said. “This shall never happen to you!”
+(16:22) Pierre le prit à part et commença à le réprimander. "Jamais, Seigneur!" dit-il. "Cela ne vous arrivera jamais!"
 <br><br>
-(17:22) When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men.”
+(17:22) Lorsqu'ils se rassemblèrent en Galilée, il leur dit : « Le Fils de l'homme va être livré entre les mains des hommes. »
 <br><br>
-(17:23) They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief. (Second time)
+(17:23) Ils le tueront, et le troisième jour il ressuscitera. Et les disciples furent remplis de tristesse. (Deuxième fois)
 <br><br>
-(20:17) Now Jesus was going up to Jerusalem. On the way, he took the Twelve aside and said to them.
+(20:17) Or Jésus montait à Jérusalem. En chemin, il prit les Douze à part et leur dit :
 <br><br>
-(20:18) We are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death.
+(20:18) Nous montons à Jérusalem, et le Fils de l'homme sera livré aux principaux sacrificateurs et aux docteurs de la loi. Ils le condamneront à mort.
 <br><br>
-(20:19) They will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!” (Third time)
+(20:19) Ils le livreront aux païens pour qu'ils se moquent, qu'ils soient fouettés et crucifié. Le troisième jour, il ressuscitera ! (Troisième fois)
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Jesus, in chapters 16, 17, and 20 of the Gospel of Matthew, foretold His own future. It is uncommon for ordinary humans to predict the time of their death, given the uncertainty and unknown nature of the future. Jesus, however, disclosed the circumstances of His death not just once but three times, showcasing something extraordinary within Him. This act served to demonstrate to the unaware that He was more than a mere human being. The ability to speak about one’s death in such detail is a rarity, but Jesus could do so because He had preordained His demise. Atma stands as the sole determiner of life’s karma within the body.
@@ -967,11 +967,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 45,
-verse: `<b>(44)	The Gospel of Mathew, 19th chapter, 23rd and 24th verses.</b>`,
+verse: `<b>(44)	L'Évangile de Matthieu, chapitre 19, versets 23 et 24.</b>`,
 meaning: `<b>
-(23) Then Jesus said to his disciples, “Truly I tell you; it is hard for someone who is rich to enter the kingdom of paraloka.
+(19:23) Alors Jésus dit à ses disciples : « En vérité, je vous le dis ; il est difficile pour quelqu'un de riche d'entrer dans le royaume de paraloka.
 <br><br>
-(24) Again, I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.
+(19:24) Encore une fois, je vous le dis, il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> Jesus conveyed a parable, stating, <b>“It is easier for a camel to pass through the eye of a needle than for a wealthy person to enter the kingdom of God.”</b> Just as it is impossible for a camel to navigate the eye of a needle, similarly, it is challenging for a rich individual to enter the kingdom of God. Some elders believe that wealth often begets arrogance, a trait considered one of the six negative qualities (gunas). Arrogance, the fifth of these qualities, accompanies greed (kaama), anger (krodha), avarice (lobha), passion (moha), and jealousy (matsara). Arrogance is present to varying degrees in every individual. Whether it be at 90%, 80%, 70%, 60%, 50%, 40%, or 30%, everyone possesses some level of arrogance. One person may exhibit 90% arrogance, while another might have 80%, and some may express as little as 30% arrogance.
@@ -984,17 +984,17 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 46,
-verse: `<b>(45)	The Gospel of Mathew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>`,
+verse: `<b>(45)	L'Évangile de Matthieu, chapitre 22, versets 36, 37, 38, 39 et 40.</b>`,
 meaning: `<b>
-(36) Teacher, which is the greatest commandment in the Law (Dharma Shastra)?
+(22:36) Maître, quel est le plus grand commandement de la Loi (Dharma Shastra) ?
 <br><br>
-(37) Jesus replied: “Love the Lord your God with all your heart and with all your soul and with all your mind.”
+(22:37) Jésus répondit : « Aime le Seigneur ton Dieu de tout ton cœur et de tout ton cœur. ton âme et de tout ton esprit.
 <br><br>
-(38) This is the first and greatest commandment.
+(22:38) C'est le premier et le plus grand commandement.
 <br><br>
-(39) And the second is like it: ‘Love your neighbor as yourself.’
+(22:39) Et la seconde est semblable : « Aime ton prochain comme toi-même. »
 <br><br>
-(40) All the Law and the Prophets hang on these two commandments.    </b>`,
+(22:40) Toute la Loi et les Prophètes dépendent de ces deux commandements.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Some people approached Jesus, posing a question about the most crucial commandment in the law (Dharma Shastra), with the intention to test and potentially mock Him if He stumbled. In response, Jesus promptly answered, <b>“Love the Lord your God with all your heart, soul, and mind.”</b> He emphasized that this directive was the primary and greatest commandment, followed by a second commandment. The use of the term ‘commandment’ in this verse underscores its significance, with Jesus asserting that these two commandments serve as the foundation for all the law and the Prophets. This verse is explained as follows.
 
@@ -1025,13 +1025,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 47,
-verse: ` <b>(46)	The Gospel of Mathew, 23rd chapter, 8th, 9th and 10th verses.</b>`,
+verse: ` <b>(46)	L'Évangile de Matthieu, chapitre 23, versets 8, 9 et 10.</b>`,
 meaning: ` <b>
-(8) “But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.
+(23:8) « Mais vous ne devez pas être appelé « Rabbi », car vous avez un seul Maître, et vous êtes tous frères.
 <br><br>
-(9) And do not call anyone on earth ‘father,’ for you have one Father, and he is in paraloka.
+(23: 9) Et n’appelez personne sur terre « père », car vous avez un seul Père, et il est dans paraloka.
 <br><br>
-(10) Nor are you to be called instructors, for you have one Instructor, the Messiah. </b>`,
+(23:10) Vous ne devez pas non plus être appelés instructeurs, car vous avez un seul instructeur, le Messie. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Some may refer to a preacher as a father or consider gurus who preach equal to a father. However, the verse states that no one should be called a preacher. It says not to call anyone Rabbi, as there is only one master, and all others are brothers, as stated in the verse. A preacher is someone who teaches, but the verse refers specifically to one who teaches divine wisdom. According to the verse, only one person knows divine wisdom, and no one else does. Why do the rest of them not know? Who is the one who knows? The answer to those questions is as follows.
 
@@ -1048,9 +1048,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 48,
-verse: ` <b>(47)	The Gospel of Mathew, 23rd chapter, 15th verse.</b>`,
+verse: ` <b>(47)	L'Évangile de Matthieu, chapitre 23, verset 15.</b>`,
 meaning: `  <b>
-(15) “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.  </b>`,
+(23:15) « Malheur à vous, docteurs de la loi et pharisiens, hypocrites ! Vous voyagez sur terre et sur mer pour gagner un seul converti, et lorsque vous avez réussi, vous en faites deux fois plus un enfant de l'enfer que vous.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Religion did not exist until three thousand years after Kali Yuga. Two thousand years ago, when Christianity was born, Christians initially emerged as groups and later formed a Christian community. After some time, the Christian community claimed itself to be a Christian religion. Thus, the first religion was born. After claiming to be a Christian religion, they tried to expand their faith. Others later identified themselves as a religion based on their teachings. Thus, religions were created one after the other. Very soon, twelve religions formed on earth. After the creation of religions, some people became involved in expanding their faiths. They traveled over land and sea to convert others to their religion.
 
@@ -1063,9 +1063,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 49,
-verse: `<b>(48) The Gospel of Mathew, 24th chapter, 35th verse.</b>`,
+verse: `<b>(48) L'Évangile de Matthieu, chapitre 24, verset 35.</b>`,
 meaning: ` <b>
-(35) Sky and earth will pass away, but my words will never pass away.       </b>`,
+(24:35) Le ciel et la terre passeront, mais mes paroles ne passeront jamais.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> Paramatma (God) does not speak. Atma, which resides in the body, can speak. Atma is the second creator and the second God. Atma, present in the body, communicates through speech. The second God (Atma) imparts much wisdom to humanity. The wisdom taught in this manner is conveyed through words. Atma’s teachings from the body, in the form of words, will never pass away, even if the sky and earth were to pass away, as stated in the verse. What is important to note here is <b>that the sky and earth mentioned will pass away, but my words will never pass away.</b> But it can be said that the sky and the earth never pass away. However, the verse seems to convey that the sky and earth will pass away. Therefore, we should understand that both the sky and earth mentioned in the verse are not the sky and earth we see. The sky and the earth described in the verse are perishable. The earth and the sky that never perish are one type, while the perishable earth and sky are another kind. In Prakruti, which is in the form of the human body, there is the sky, air, fire, water, and earth. All of them—the first sky, the last earth, and the remaining air, fire, and water— in the form of the body are perishable. <b>The human body will perish, but the wisdom imparted from man will never pass away.</b>
 </div></div>
@@ -1075,9 +1075,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 50,
-verse: `<b>(49)	The Gospel of Mathew, 24th chapter, 42nd verse. </b>`,
+verse: `<b>(49)	L'Évangile de Matthieu, chapitre 24, verset 42.</b>`,
 meaning: ` <b>
-(42) Therefore, keep watch, because you do not know on what day your Lord will come.      </b>`,
+(24:42) Veillez donc, car vous ne savez pas quel jour votre Seigneur viendra.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Whenever there is a threat to God’s dharmas on Earth, and Satan’s dharmas spread extensively, God sends a part of Himself to the earth to protect His commandments (dharmas). Whenever there is a need, God must come as a human being. Krishna in the Dvapara Yuga and the Lord Jesus in the Kali Yuga came in that manner. Remarkably, we could identify them after they arrived and left, but when they were on Earth, we could not identify who they were. No one recognized when God Himself came as the Lord. Even those who saw His glory could not know that He was God but thought He was great. In Dvapara Yuga, Krishna said, <b>“I will come when dharmas are polluted.”</b> He came again as Lord Jesus and reiterated His dharmas. There will not be any difference in the commandments He gave, either in Dvapara Yuga or Kali Yuga. But there are no similarities in their names, lives, and lifestyles. Hence, Satan emphasized their external differences and tricked humans into not realizing that both were the same. Man needs some wisdom in order to know who has come, who is to come, when He has come, and when He can come. As long as man is in ignorance, he does not know God’s coming and remains unaware even after God has come and gone. Therefore, if people want to know God’s arrival and recognize Him, they must possess wisdom related to God. Nowadays, God’s wisdom is not known, and Satan’s wisdom is widespread. Hence, <b>“You do not know on what day your Lord will come,” said the verse. “Stay awake to know Him,”</b> is also mentioned in the verse. Here<b> ’stay awake’ means having wisdom.</b>
 </div></div>
@@ -1088,13 +1088,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 51,
-verse: ` <b>(50) The Gospel of Mathew, 26th chapter, 26th, 27th and 28th verses.</b>`,
+verse: ` <b>(50) L'Évangile de Matthieu, chapitre 26, versets 26, 27 et 28.</b>`,
 meaning: `<b>
-(26) While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”
+(26:26) Pendant qu'ils mangeaient, Jésus prit du pain, et après avoir rendu grâce, il le rompit et le donna à ses disciples, en disant : « Prenez et mangez ; c'est mon corps.
 <br><br>
-(27) Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.
+(26:27) Puis il prit une coupe, et après avoir rendu grâce, il la leur donna en disant : « Buvez-en tous.
 <br><br>
-(28) This is my blood of the covenant (God’s wisdom without the bonds of ignorance), which is being poured out for many for the forgiveness of sins. </b>`,
+(26:28) Ceci est mon sang de l'alliance (la sagesse de Dieu sans les liens de l'ignorance), qui est versé pour beaucoup pour le pardon des péchés. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  While Jesus and His twelve disciples were eating, Jesus took bread, blessed it, broke it, gave it to His disciples, and said, <b>“Take and eat; this is my body.”</b> He also took grape juice in a cup and said, <b>“All of you drink from it; this is my blood.”</b> He compared grape juice to His blood and elaborated further, stating, <b>“This is my blood of the covenant, which is being poured out for many for the forgiveness of sins.”</b> These seemingly ordinary words of Jesus should be considered among the most important of His teachings. Unfortunately, some Christians, unaware of the essence of these words spoken at mealtime, fail to grasp their significance. <b>Some interpret that Jesus spoke these words about His past or future although it was about the present.</b>
 
@@ -1114,9 +1114,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 52,
-verse: `<b>(51)	The Gospel of Mathew, 28th chapter, 18th verse.</b>`,
+verse: `<b>(51)	L'Évangile de Matthieu, chapitre 28, verset 18.</b>`,
 meaning: `<b>
-(18) Then Jesus came to them and said, “All authority in paraloka and on earthhas been given to me. </b>`,
+(28:18) Alors Jésus vint vers eux et dit : « Tout pouvoir à Paraloka et sur terre m'a été donné. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In Telugu, ‘Loka’ means having experiences. In Loka, we encounter both hardships and pleasures. The experience of pleasure is called Svarga Loka (heaven), while the experience of hardship is referred to as Naraka Loka (hell). Loka is not a separate country or special place; rather, it is the sum of all experiences. According to one’s experiences of pleasure and sorrow, Loka is divided into heaven and hell. All experiences of heaven and hell take place on earth and are not separate physical locations. So, depending on the experiences, we may refer to them as heaven or hell, but in reality, both heaven and hell exist on earth.
 
@@ -1131,11 +1131,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile selon Matthieu",
 chapterNumber: 2,
 pageNumber: 53,
-verse: ` <b>(52)	The Gospel of Mathew, 28th chapter, 19th and 20th verses.</b>`,
+verse: ` <b>(52)	L'Évangile de Matthieu, chapitre 28, versets 19 et 20.</b>`,
 meaning: ` <b>
-(19) Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
+(28:19) Allez donc faire de toutes les nations des disciples, en les baptisant au nom du Père, du Fils et du Saint-Esprit.
 <br><br>
-(20) Teaching them to obey everything I have commanded you. And surely, I am with you always, to the very end of the age (Yuga).       </b>`,
+(28:20) Apprenez-leur à obéir à tout ce que je vous ai commandé. Et sûrement, je suis toujours avec vous, jusqu'à la fin des temps (Yuga). </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The Gospel of Matthew has 28 chapters. The last verses, 19th, and 20th of chapter 28, contain the secret of the entire spiritual education. The information about the three souls mentioned in verse 19 is the most important wisdom in scripture. In this verse, the word ‘Father’ is used before the word ‘Son,’ requiring careful consideration to understand it. Those who reflect on this will know that the sequence is the Son, the Father, and the Holy Spirit. To further explain, <b>one must understand that the Son is Jeevatma, the Father is Atma, and the Holy Spirit is Paramatma.</b> There are no other souls in the world besides these three. According to the Thraitha theorem, these three souls are Jeevatma, Atma, and Paramatma.
 
@@ -1156,11 +1156,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 54,
-verse: ` <b>(1)	The Gospel of Mark, 2nd chapter, 19th and 20th verses.</b>`,
+verse: ` <b>(1)	L'Évangile de Marc, chapitre 2, versets 19 et 20.</b>`,
 meaning: `<b>
-(19) How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them.
+(2:19) Comment les invités de l'époux peuvent-ils jeûner pendant qu'il est avec eux ? Ils ne le peuvent pas, tant qu’ils l’ont avec eux.
 <br><br>
-(20) But the time will come when the bridegroom will be taken from them, and on that day they will fast. </b>`,
+(2:20) Mais le temps viendra où l'époux leur sera enlevé, et ce jour-là ils jeûneront. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Some people came to Jesus and asked, “Why is it that John’s disciples and the disciples of the Pharisees are fasting, but not yours?” Jesus replied with the following verses. In this context, fasting refers to abstaining from food, a common worldly meaning. In Telugu, the word for the bridegroom is ‘Pellikoduku,’ which translates to ‘son of marriage.’ In Telugu, the phrase ‘son of marriage’ holds a special meaning because the word ‘marriage’ (or ‘Pelli’ in Telugu) symbolizes God in a spiritual sense. Therefore, the ‘son of marriage’ refers to the Son of God. When Jesus, the Son of God, is with His followers, they will experience joy and not fast. However, when the bridegroom (the Son of God) is taken away from them, those who were with Him will fast with grief because He is departing from them. Similarly, Jesus’ disciples will not fast as long as He is present with them. When Jesus is absent, they will fast in sorrow. The phrase ‘bridegroom’ (the son of marriage) should be understood as referring to the Son of God.
@@ -1171,11 +1171,11 @@ pageText: `
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 55,
-verse: `<b>(2) The Gospel of Mark, 4th chapter, 38th and 39th verses.</b>`,
+verse: `<b>(2) L'Évangile de Marc, chapitre 4, versets 38 et 39.</b>`,
 meaning: ` <b>
-(38) Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?”
+(4:38) Jésus était à l'arrière, dormant sur un coussin. Les disciples le réveillèrent et lui dit : « Maître, cela ne vous dérange pas si nous nous noyons ?
 <br><br>
-(39) He got up, rebuked the wind, and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. </b>`,
+(4:39) Il se leva, réprimanda le vent et dit aux vagues : « Silence ! Restez tranquille ! Puis le vent s'est calmé et c'était complètement calme.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When Jesus and His disciples were crossing the sea in a small boat, they encountered a storm, and the boat began taking on water due to the waves. The disciples were terrified and feared that they would drown. They awoke Jesus and informed Him of the perilous situation. Jesus rose, rebuked the wind, and commanded the waves to be still. The wind ceased, and a calm descended upon the sea. The disciples were amazed and asked one another, “It is a great wonder, and how did it happen?” They recognized Jesus’ power, but they didn’t fully understand the reason for it. There is remarkable wisdom in this incident.
 
@@ -1189,19 +1189,19 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 56,
-verse: `<b>(3)	The Gospel of Mark, 5th chapter, 38th, 39th, 40th, 41st, 42nd and 43rd verses.</b>`,
+verse: `<b>(3)	L'Évangile de Marc, chapitre 5, versets 38, 39, 40, 41, 42 et 43.</b>`,
 meaning: `<b>
-(38) When they came to the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly.
+(5:38) Lorsqu'ils arrivèrent chez le chef de la synagogue, Jésus vit une agitation, avec des gens qui pleuraient et se lamentaient fort.
 <br><br>
-(39) He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”
+(5:39) Il entra et leur dit : « Pourquoi toute cette agitation et ces lamentations ? L'enfant n'est pas mort mais endormi.
 <br><br>
-(40) But they laughed at him. After he put them all out, he took the child’s father and mother and the disciples who were with him and went in where the child was.
+(5:40) Mais ils se sont moqués de lui. Après les avoir tous éteints, il a emmené le père de l'enfant et la mère et les disciples qui étaient avec lui et entrèrent là où était l'enfant.
 <br><br>
-(41) He took her by the hand and said to her, “Talitha koum!” (which means “Little girl, I say to you, get up!”).
+(5:41) Il lui prit la main et lui dit : « Talitha koum ! » (ce qui signifie « Petite fille, je te le dis, lève-toi ! »).
 <br><br>
-(42) Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished.
+(5:42) Immédiatement, la jeune fille se leva et commença à marcher (elle avait douze ans). À cela, ils furent complètement étonnés.
 <br><br>
-(43) He gave strict orders not to let anyone know about this and told them to give her something to eat.</b>`,
+(5:43) Il a donné des ordres stricts de ne laisser personne savoir cela et leur a dit de lui donner quelque chose à manger.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  It is a great surprise when a person comes back to life after being declared dead. Jesus brought several people back from the dead during His life. He not only resurrected others, but He also rose from the dead Himself. If we contemplate this event, some unknown mysteries will be uncovered. There are four types of death: timely death (natural death), untimely death, temporary death, and final death. Once a person experiences the final death, they will not be born again; instead, they attain liberation or moksham. Natural death is the most common form of death, in which a person leaves their current body and goes to the next birth. There is no option other than going to the next birth in natural death.
 
@@ -1244,25 +1244,25 @@ The Story of Abdul Aziz in Jammu and Kashmir
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 57,
-verse: `<b>(4)	The Gospel of Mark, 7th chapter, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd and 23rd verses.</b><`,
+verse: `<b>(4)	L'Évangile de Marc, chapitre 7, versets 15, 16, 17, 18, 19, 20, 21, 22 et 23.</b><`,
 meaning: `<b>
-(15) Nothing outside a person can defile them by going into them.
+(7:15) Rien en dehors d'une personne ne peut la souiller en entrant en elle.
 <br><br>
-(15) Rather, it is what comes out of a person that defiles them.
+(7:16) C'est plutôt ce qui sort d'une personne qui la souille.
 <br><br>
-(17) After he had left the crowd and entered the house, his disciples asked him about this parable.
+(7:17) Après avoir quitté la foule et être entré dans la maison, ses disciples l'interrogeèrent sur cette parabole.
 <br><br>
-(18) “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them?
+(7:18) « Es-tu si ennuyeux ? » il a demandé. « Ne voyez-vous pas que rien de ce qui entre dans un une personne de l'extérieur peut-elle les souiller ?
 <br><br>
-(19) For it does not go into their heart but into their stomach, and then out of the body.”
+(7:19) Car cela ne rentre pas dans leur cœur mais dans leur estomac, puis hors de le corps. »
 <br><br>
-(20) He went on: “What comes out of a person is what defiles them.
+(7:20) Il a poursuivi : « Ce qui sort d’une personne est ce qui la souille.
 <br><br>
-(21) For it is from within, out of a person’s heart, that evil thoughts come sexual immorality, theft, murder,
+(7:21) Car c'est de l'intérieur, du cœur d'une personne, que les mauvaises pensées viennent… l'immoralité sexuelle, le vol, le meurtre,
 <br><br>
-(22) adultery, greed, malice, deceit, lewdness, envy, slander, arrogance, and folly.
+(7:22) l'adultère, l'avidité, la méchanceté, la tromperie, l'obscénité, l'envie, la calomnie, l'arrogance et la folie.
 <br><br>
-(23) All these evils come from inside and defile a person.     </b>`,
+(7:23) Tous ces maux viennent de l’intérieur et souillent une personne.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Man is born with six bad gunas and six good gunas. Gunas also grow along with the individual, influencing the buddhi located in the head and prompting external actions under its command. Buddhi instructs karmendriyas (organs of action) to perform actions outside the body, operating in accordance with gunas. As Buddhi works in alignment with gunas, the negative gunas influence buddhi, which then directs the actions of gunas, and the external senses respond according to buddhi’s command. These gunas manifest as undesirable qualities such as greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). The gunas first impact the buddhi and subsequently govern the body from there. All the wrongs committed by humans are rooted in the influence of gunas within the body.
 
@@ -1274,9 +1274,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 58,
-verse: ` <b>(5)	The Gospel of Mark, 3rd chapter, 35th verse.</b>`,
+verse: ` <b>(5)	L'Évangile de Marc, 3ème chapitre, 35ème verset.</b>`,
 meaning: ` <b>
-(35) Whoever does God’s will is my brother and sister and mother.     </b>`,
+(3:35) Celui qui fait la volonté de Dieu est mon frère, ma sœur et ma mère. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> When we question what God’s will is, we can understand that His commandments (dharmas) represent His will. By obeying His commandments, we align ourselves with God’s will. Conversely, if we act according to our own desires without adhering to His commands, we violate His guidance and follow Satan’s will. When God incarnates on earth as Bhagavan, those who comprehend His wisdom, act in accordance with it, propagate His teachings, and disseminate His commandments will draw closer to him. Conversely, those who choose the path of Satan become adversaries of God. Those who actively promote God’s words and adhere to His commandments are regarded as His sisters, brothers, and closest followers. Whether God is physically present on earth or not, it's crucial to recognize that gnanis (those possessing wisdom) within His boundaries who follow His commands will be considered close to God.
@@ -1287,9 +1287,9 @@ pageText: `
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 59,
-verse: ` <b>(6)	The Gospel of Mark, 4th chapter, 17th verse.</b>`,
+verse: ` <b>(6)	L'Évangile de Marc, chapitre 4, verset 17.</b>`,
 meaning: `<b>
-(17) But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. </b>`,
+(4:17) Mais comme ils n’ont pas de racine, ils ne durent que peu de temps. Quand des troubles ou des persécutions surviennent à cause de la parole, ils disparaissent rapidement. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In the Gita, Lord Krishna speaks of four kinds of devotees: 1) Those who worship in trouble, 2) Those who pray for wealth, 3) Those who are interested in knowing about God, 4) Those who possess wisdom (Gnanis). The Lord said in the Gita that He favors Gnanis. Similarly, Lord Jesus talks about four types of devotees in the Bible, but the verse referred to here pertains to only one of these types. Some individuals are curious about God’s wisdom and seek to follow it. Satan begins to tempt them in its way. They face many troubles in that process. When they encounter difficulties because of wisdom, Satan begins to preach in their heads. Satan says to them, “You are facing troubles because you know wisdom. Don’t be foolish. You can escape the coming problems by pretending to be on the wisdom path.” Those who do not understand the true essence of wisdom may start to act accordingly. After some time, if the person faces problems because of wisdom or Guru, and these issues lead to conflicts with others or fears of persecution, Maya will take advantage of the situation. Maya creates these kinds of thoughts in the person’s head, and individuals may start to think, “I should have been wiser from the beginning. I got into this situation because I followed the Guru for wisdom, even though my close relatives warned me not to. Why should I suffer for this wisdom? It is better to abandon wisdom and the Guru. Blindly following wisdom will only lead to ruin for my family and me. Since we are in the world, we must conform to its ways. Those in the forest face no problems regardless of their actions, but it would be foolish for us in the village to go against the norms.” Such thoughts can cause individuals to distance themselves from wisdom, even after being on the path for some time. Therefore, Jesus said that even those who have been on the path of wisdom for some time will object when there is toil and torture for the sake of wisdom.
@@ -1302,9 +1302,9 @@ pageText: `
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 60,
-verse: ` <b>(7)	The Gospel of Mark, 4th chapter, 21st and 22nd verses.</b>`,
+verse: ` <b>(7)	L'Évangile de Marc, chapitre 4, versets 21 et 22.</b>`,
 meaning: `<b>
-(21) He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand?
+(4:21) Il leur dit : « Apportez-vous une lampe pour la mettre sous un bol ou un lit ? Au lieu de cela, ne le mettez-vous pas sur son support ?
 <br><br>
 (22) For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.     </b>`,
 pageText: `
@@ -1317,9 +1317,9 @@ pageText: `
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 61,
-verse: `<b>(8)	The Gospel of Mark, 6th chapter, 4th verse.</b>`,
+verse: `<b>(8)	L'Évangile de Marc, chapitre 6, verset 4.</b>`,
 meaning: `<b>
-(4) Jesus said to them, “A prophet is not without honor except in his own town, among his relatives and in his own home.”      </b>`,
+(6:4) Jésus leur dit : « Un prophète n'est méprisé que dans sa ville, parmi ses proches et dans sa maison. »</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In Telugu, a prophet is defined as someone who teaches something important. The wisdom of Paramatma is the most essential thing for every human being. A person who imparts this wisdom is called a prophet. Ordinary humans do not know the wisdom of Paramatma, except for the one who comes from Paramatma. The one who comes from Paramatma and is born as a man is called Bhagavan or Prophet. The prophet is not honored in His own home, among His relatives, or in His own town because He appears to be an ordinary man. No matter how great someone is, it is natural to be underestimated at home and by relatives. Since they have seen the prophet since childhood, family members and relatives may ridicule Him, saying that He has no greatness and that only fools will listen to Him. They may also claim that He does not know anything beyond what they know. Even God cannot become a prophet to His own family members. Even when others recognize and speak about His greatness, His relatives and family members question what excellence He possesses. They do not recognize His importance and ridicule Him, pointing out things such as Him wetting the bed and soiling His underwear in His childhood. Therefore, while He is a prophet to others, He is not honored in His own home and town. According to this principle, Lord Jesus was not recognized as a prophet by His family and relatives.
 </div></div>
@@ -1329,9 +1329,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 62,
-verse: `<b>(9)	The Gospel of Mark, 8th chapter, 38th verse.</b>`,
+verse: `<b>(9)	L'Évangile de Marc, chapitre 8, verset 38.</b>`,
 meaning: `<b>
-(38) If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of them when he comes in his Father’s glory with the holy angels. </b>`,
+(8:38) Si quelqu’un a honte de moi et de mes paroles dans cette génération adultère et pécheresse, le Fils de l’homme aura honte de lui lorsqu’il viendra dans la gloire de son Père avec les saints anges. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   Some people learn wisdom in society but choose to keep it a secret. They feel that knowing wisdom is a mistake; hence, they do it confidentially. They may also feel ashamed to go to a Guru and learn wisdom from them, and therefore keep it confidential. Some individuals are in search of a Guru to become disciples but prefer a wealthy Guru due to their status and wealth. They are embarrassed to approach a poor Guru, even if that Guru has more wisdom. Consequently, they choose a wealthy Guru who may not possess much wisdom. Although some individuals have learned wisdom from a Guru, they do not want to be referred to as disciples of that Guru. Thus, many people feel ashamed and take great care to avoid being exposed.
 
@@ -1345,9 +1345,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 63,
-verse: `<b>(10)	The Gospel of Mark, 9th chapter, 7h verse.</b>`,
+verse: `<b>(10)	L'Évangile de Marc, chapitre 9, verset 7.</b>`,
 meaning: `<b>
-(7) Then a cloud appeared and covered them, and a voice came from the cloud: “This is my Son, whom I love. Listen to him!”</b>`,
+(9:7) Alors une nuée apparut et les couvrit, et une voix sortit de la nuée : « Celui-ci est mon Fils que j'aime. Écoutez-le !</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Most people are not aware of the clouds in the sky. During the rainy season, the clouds produce thunder and make a loud noise. The clouds are alive and perform many tasks, but their specific roles are unknown. According to history, the Sun heard the divine wisdom that the clouds first revealed at the beginning of creation. There are no secrets unknown to the clouds on earth. God behind the clouds said about Jesus, <b>“This is my beloved Son. Listen to him.”</b> Therefore, it is God’s will that people should hear God’s wisdom from Jesus. What God says as a man is God’s wisdom, but when humans do not listen, God speaks from the clouds. Although humans may not always respect what others say, they value what the clouds say, which is why God spoke from the clouds in the sky.
 </div></div>
@@ -1357,11 +1357,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Marc",
 chapterNumber: 3,
 pageNumber: 64,
-verse: ` <b>(11)	The Gospel of Mark, 10th chapter, 17th and 18th verses.</b>`,
+verse: ` <b>(11)	L'Évangile de Marc, chapitre 10, versets 17 et 18.</b>`,
 meaning: ` <b>
-(17) As Jesus started on his way, a man ran up to him and fell on his knees before him. “Good teacher,” he asked, “what must I do to inherit eternal life?”
+(10:17) Alors que Jésus commençait son chemin, un homme accourut vers lui et tomba à genoux. devant lui. « Bon professeur, a-t-il demandé, que dois-je faire pour hériter de la vie éternelle ?
 <br><br>
-(18) “Why do you call me good?” Jesus answered. “No one is good—except God alone.  </b>`,
+(10:18) « Pourquoi m'appelles-tu bon ? » Jésus répondit. « Personne n’est bon, sauf Dieu seul. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Some Christians claim that the Bible was originally written in Hebrew and then translated into many other languages. Hence, some words were not translated correctly. For example, the phrase “Good teacher” is used in the first verse, and in the second verse, “God is good.” However, based on what Jesus said, <b>“No one is good—except God alone,”</b> the word should neither be ‘Good teacher’ nor ‘Good God.’ A person who teaches wisdom eloquently can be called a good teacher, and someone who performs good deeds can be called a good person.
 
@@ -1377,11 +1377,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Marc",
 chapterNumber: 4,
 pageNumber: 65,
-verse: `<b>(12)	The Gospel of Mark, 16th chapter, 15th and 16th verses.</b>`,
+verse: `<b>(12)	L'Évangile de Marc, chapitre 16, versets 15 et 16.</b>`,
 meaning: `<b>
-(15) He said to them, “Go into all the world and preach the gospel to all creation.
+(16:15) Il leur dit : « Allez dans le monde entier et prêchez la bonne nouvelle à tous. création.
 <br><br>
-(16) Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.   </b>`,
+(16:16) Celui qui croira et se fera baptiser sera sauvé, mais celui qui ne croira pas sera condamné.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  After Jesus was crucified and laid in the tomb, He rose from the tomb at dawn on Sunday morning. He first appeared to Mary Magdalene and then to other disciples. Jesus appeared to the disciples thirty-three times after coming out of the tomb. He told the above two verses to the eleven disciples when they sat together for a meal. Since all humans in the world are immersed in ignorance, He instructed His disciples to go and <b>preach the gospel, which is God’s wisdom,</b> to them. The same message is conveyed in the 15th verse, <b>“Go into all the world and preach the gospel to all creation.”</b> Here, ‘all the world’ does not mean different worlds; it refers to people who earn their livelihoods on earth and suffer in various ways.
 
@@ -1393,9 +1393,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 66,
-verse: `<b>(1)	The Gospel of Luke, 2nd chapter, 49th verse.</b>`,
+verse: `<b>(1)	L'Évangile de Luc, chapitre 2, verset 49.</b>`,
 meaning: ` <b>
-(49) “Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s business?”      </b>`,
+(2:49) « Pourquoi me cherchiez-vous ? » il a demandé. « Ne saviez-vous pas que je devais travailler dans les affaires de mon père ? </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Jesus’s parents were looking for Him, and when they saw Him, they were astonished. His mother said to Him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.” In response, Jesus said, <b>“Why were you searching for me? Didn’t you know I had to be in my Father’s business?”</b> Although Jesus’s visible (physical) father was also there, He was referring to his invisible (non- physical) Father. It is important to clarify which father Jesus was referring to so that we can understand the Father’s tasks and, consequently, comprehend the tasks Jesus would be doing and why He left his mother and father.
 
@@ -1409,17 +1409,17 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 67,
-verse: `<b>(2)	The Gospel of Luke, 11th chapter, 37th, 38th, 39th, 40th and 41st verses.</b>`,
+verse: `<b>(2)	L'Évangile de Luc, chapitre 11, versets 37, 38, 39, 40 et 41.</b>`,
 meaning: `<b>
-(37) As Jesus was speaking, one of the Pharisees invited him home for a meal. So, he went in and took his place at the table.
+(11:37) Pendant que Jésus parlait, un des pharisiens l'invita chez lui pour un repas. Alors il entra et prit place à table
 <br><br>
-(38) His host was amazed to see that he sat down to eat without first performing the hand-washing ceremony required by Jewish custom.
+(11:38) Son hôte fut étonné de voir qu'il s'asseyait pour manger sans avoir au préalable effectué la cérémonie de lavage des mains exigée par la coutume juive.
 <br><br>
-(39) Then the Lord said to him, “You Pharisees are so careful to clean the outside of the cup and the dish, but inside you are filthy—full of greed and wickedness!
+(11:39) Alors le Seigneur lui dit : « Vous, les Pharisiens, faites si attention à nettoyer l'extérieur de la coupe et du plat, mais à l'intérieur vous êtes sales, pleins d'avidité et de méchanceté !
 <br><br>
-(40) Fools! Didn’t God make the inside as well as the outside?
+(11:40) Imbéciles ! Dieu n’a-t-il pas créé l’intérieur comme l’extérieur ?
 <br><br>
-(41) So, clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.</b>`,
+(11:41) Alors, nettoyez l'intérieur en offrant des cadeaux (dharmas) aux pauvres, et vous serez entièrement pur.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The last verse states, <b>“Clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.”</b> Unfortunately, humans have not correctly understood this verse and have interpreted it in various ways. When Jesus mentions ‘giving gifts,’ people have construed it as donating money, clothes, and food to the poor. However, Jesus did not assert that external acts of charity would purify a person from within. His intention was that the practice of dharma should be internalized, and only then would inner evils be cleansed. Jesus did not prioritize external cleanliness but instead underscored the purification of inner qualities (gunas). Therefore, He encouraged others to follow the path of dharma, which opposes the gunas. Jesus Himself experienced inner purification and adhered to the path of dharma. That is why He urged others to traverse the same path.
 </div></div>
@@ -1429,11 +1429,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 68,
-verse: `<b>(3)	The Gospel of Luke, 12th chapter, 4th and 5th verses</b>`,
+verse: `<b>(3)	L'Évangile de Luc, chapitre 12, versets 4 et 5.</b>`,
 meaning: ` <b>
-(4) I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.
+(12:4) Je vous le dis, mes amis, n'ayez pas peur de ceux qui tuent le corps et qui ne peuvent plus rien faire après.
 <br><br>
-(5) But I will show you whom you should fear: Fear him who, after your body has been killed, has authority to throw you into hell. Yes, I tell you, fear him.    </b>`,
+(12:5) Mais Je vais vous montrer qui vous devez craindre : Craignez celui qui, après que votre corps a été tué, a le pouvoir de vous jeter en enfer. Oui, je vous le dis, craignez-le.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Humans can harm the body, but they cannot harm the Jeevatma within. Jeevatma, being invisible from the outside, remains unaffected. Since the body is visible, others can only inflict harm upon it, not the Jeevatma. Therefore, there is no need to fear such individuals. The only one to be feared is God. Even in death, God evaluates our sins, administers punishment, and causes suffering. The ties between individuals are severed after death. Even if the deceased is reborn in the murderer’s household, they will not recognize the murderer as an enemy. However, God recognizes the Jeevatma even after death and is aware of its subsequent births. Hence, it is crucial to fear God, who holds us accountable for our karma after death. There is no need to fear other humans who cannot harm the Jeevatma and will not recognize us after death.
 </div></div>
@@ -1443,9 +1443,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 69,
-verse: `<b>(4)	The Gospel of Luke, 12th chapter, 25th verse.</b>`,
+verse: `<b>(4)	L'Évangile de Luc, chapitre 12, verset 25.</b>`,
 meaning: ` <b>
-(25) Which of you by worrying can add to his stature one cubit?       </b>`,
+(12:25) Lequel d'entre vous, en s'inquiétant, peut ajouter une coudée à sa stature ? </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Even though individuals believe that they are accomplishing everything through their intelligence, there is no inherent connection between them and their intelligence. People are not independent and are incapable of acting on their own. They are akin to puppets manipulated by karma. Those who believe they can act as they please are in a state of ignorance about themselves. According to the structure that God has created, karma is in God’s control, and individuals are in karma’s control. As karma governs them, they cannot make decisions independently. Regardless of how much they plan and utilize their intelligence, they cannot alter their height. If every individual understands themselves and contemplates the extent of their power, they will recognize their insignificance, realizing that God is infinitely greater than them.
 </div>
@@ -1455,11 +1455,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 70,
-verse: `<b>(5)	The Gospel of Luke, 12th chapter, 33rd and 34th verses.</b>`,
+verse: `<b>(5)	L'Évangile de Luc, chapitre 12, versets 33 et 34.</b>`,
 meaning: ` <b>
-(33) Sell your possessions and give them to the poor. Provide purses for yourselves that will not wear out, a treasure in paraloka that will never fail, where no thief comes near, and no moth destroys.
+(12:33) Vendez vos biens et donnez-les aux pauvres. Prévoyez-vous des bourses qui ne s'useront pas, un trésor dans une paraloka qui ne faillira jamais, où aucun voleur ne s'approche et où aucun papillon ne détruit.
 <br><br>
-(34) For where your treasure is, there your heart will be also.     </b>`,
+(12:34) Car là où est ton trésor, là sera aussi ton cœur.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  There are two types of wealth: one that can buy anything in the world and another that can buy God, who is beyond the world. The former is material wealth, created by humans and visible to the naked eye, with which we buy material possessions, while the latter is wisdom wealth, created by the divine and not easily visible. There are many differences between wisdom-wealth and material wealth. While thieves can steal material wealth, they cannot steal wisdom wealth, as it is not a physical commodity. Moths can destroy material wealth, but they cannot damage wisdom wealth. Material wealth cannot eliminate even the smallest karma, but wisdom wealth can eliminate even big karma. One can acquire material wealth through work, but wisdom wealth is gained through intimacy with the divine. Material wealth can be appraised, but wisdom wealth cannot be measured. When a person dies, their connection with material wealth is severed, as not even a penny goes with the Jeevatma. In contrast, wisdom wealth accompanies the Jeevatma even after death, as all the wisdom one gains in life is carried forward into future births. Those who are rich in the world may be respected in society but not in God’s presence. God recognizes those with wisdom wealth, even if other humans do not respect them. In summary, there are many differences between material wealth and wisdom wealth.
 </div></div>
@@ -1469,9 +1469,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 71,
-verse: `<b>(6)	The Gospel of Luke, 12th chapter, 49th verse.</b>`,
+verse: `<b>(6)	L'Évangile de Luc, chapitre 12, verset 49.</b>`,
 meaning: ` <b>
-(49) I have come to bring fire on the earth, and how I wish it were already kindled.       </b>`,
+(49) (12:49) Je suis venu apporter le feu sur la terre, et comme j'aimerais qu'il soit déjà allumé. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In this context, the term ‘fire’ does not refer to the ordinary fire we see daily. Fire is of two types: ordinary fire and extraordinary fire (wisdom fire). Ordinary fire can burn firewood and other objects, while <b>gnanagni (wisdom fire) burns the firewood of karma.</b> As humans are ensnared in sin and suffer hardships, God descends to bring the wisdom fire to burn away their karma and liberate them from the cycle of birth and death, helping them reach God. When God imparts wisdom, He likens it to fire because gaining wisdom can lead to liberation. God brought this fire to earth in the past, and it kindled for a while before disappearing. Jesus came to reignite the fire and keep it burning. He wanted the fire to continue burning, so He proclaimed that He came to start a fire where there was none, and He wished for the fire He had previously ignited to persist.
 </div></div>
@@ -1481,13 +1481,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 72,
-verse: `<b>(7)	The Gospel of Luke, 12th chapter, 51st, 52nd and 53rd verses.</b>
+verse: `<b>(7)	L'Évangile de Luc, chapitre 12, versets 51, 52 et 53.</b>
 `, meaning: `<b>
-(51) Do you think I came to bring peace on earth? No, I tell you, but division.
+(12:51) Pensez-vous que je suis venu apporter la paix sur terre ? Non, je vous le dis, mais la division.
 <br><br>
-(52) From now on there will be five in one family divided against each other, three against two and two against three.
+(12:52) Désormais, dans une même famille, il y en aura cinq divisés les uns contre les autres, trois contre deux et deux contre trois.
 <br><br>
-(53) They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.  </b>`,
+(12:53) Ils seront divisés, père contre fils et fils contre père, mère contre fille et fille contre mère, belle-mère contre belle-fille et belle-fille contre belle-mère.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Paramatma reveals His wisdom when He incarnates on earth in Bhagavan’s form. Bhagavan’s wisdom generates opposing sentiments for those on Satan’s path. In such cases, differences of opinion arise between those who comprehend wisdom and those who do not. Those who possess wisdom will disagree with those who lack it. When such a situation unfolds within the same household, family members may become hostile toward each other. If anyone attempts to gain wisdom at home, Satan will be vigilant. Satan fosters division, pitting fathers against sons, sons against fathers, mothers against daughters, daughters against mothers, mothers-in-law against daughters-in- law, and daughters-in-law against mothers-in-law. Even Bhagavan (Guru) may advise you to disagree with those who oppose you on matters of wisdom, knowing that a husband and wife are quarreling because of His wisdom. Consequently, their quarrel may intensify rather than subside. Therefore, <b>the Lord said, “I did not come to bring reconciliation but division.”</b> Do you think that Bhagavan, who has come to teach wisdom on earth, advises you to heed your household while neglecting His wisdom? Do you believe that the Lord, who instructed you to cut off your hand if it obstructs God’s wisdom, suggests reconciling with your wife and relatives? Never. He exhorted you not to compromise with them, even if it means sacrificing your life. Hence, many conflicts arise in families because of God’s wisdom. Notably, wherever true wisdom is proclaimed, there will be discord within the household. There are no disagreements when Satan’s wisdom is presented under the guise of divine wisdom. Everyone tends to support such wisdom. One can discern that if all household members become adversaries due to divine wisdom, then such wisdom is genuinely God’s wisdom.
 </div></div>
@@ -1497,8 +1497,8 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 73,
-verse: `<b>(8)	The Gospel of Luke, 13th chapter, 3rd verse.</b>`,
-meaning: `<b>(3) Unless you change your mind, you too will all perish.</b>`,
+verse: `<b>(8)	L'Évangile de Luc, chapitre 13, verset 3.</b>`,
+meaning: `<b>(13:3) À moins que vous ne changiez d’avis, vous aussi périrez tous.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Manas (mind) is the most crucial part of the body, named so because it retains memories. It consistently operates under the influence of Maya (Satan), reinforcing worldly concerns. Since a person’s birth, the mind has been aligned with Satan and has never functioned in alignment with God. The transformation of such a mind from Satan’s influence to God’s alignment is termed a “change of mind.” No one can transition to God’s side without a change in their mind. When the mind undergoes transformation, gnanagni (wisdom fire) begins to manifest. Through the destruction of their entire karma by gnanagni, a person unites with God without experiencing birth and death. If the mind remains unchanged and continues to dictate thoughts, an individual must undergo cycles of birth, death, and endure the torments of hell. Therefore, it is imperative for everyone to undergo a change of mind.
 </div></div>
@@ -1508,9 +1508,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 74,
-verse: ` <b>(9)	The Gospel of Luke, 14th chapter, 26th verse.</b>`,
+verse: ` <b>(9)	L'Évangile de Luc, chapitre 14, verset 26.</b>`,
 meaning: `<b>
-(26) If anyone comes to me and does not hate father and mother, wife and children, brothers, and sisters—yes, even their own life—such a person cannot be my disciple.       </b>`,
+(14:26) Si quelqu'un vient à moi et ne hait pas son père et sa mère, sa femme et ses enfants, ses frères et ses sœurs, et même sa propre vie, une telle personne ne peut pas être mon disciple.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
   If anyone listens to this, they will be surprised and ask, “What kind of wisdom is this? What kind of Guru? What kind of disciples?” One may come to a Guru and question him, “Does any Guru tell their disciples that they are not a disciple unless they scold their family?” We need to think here. If a person scolds all of their household, the Guru is not a madman to be pleased and accept them as a disciple. It is not advised to hate everyone indiscriminately. The Guru becomes pleased when a disciple, in line with the Guru’s sentiments, scolds the ignorant who walk on Satan’s path. When a disciple opposes the ignorant, the Guru perceives that the disciple is aligned with his teachings and accepts them. If a disciple supports the ignorant instead of contradicting them, the Guru will not acknowledge them as a disciple. Hatred is common between two groups – gnanis (wise) and the ignorant. If father and mother, wife and children, brothers and sisters are on the ignorant list, the disciple should oppose them. The Lord said that one who does not oppose the ignorant and favors relatives is not his disciple. It is emphasized that one should not compromise on ignorance. Jesus said that the disciple should forsake their mother, father, brothers and sisters, wife, and children if they obstruct the path to wisdom.
@@ -1521,9 +1521,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 75,
-verse: ` <b>(10)	The Gospel of Luke, 14th chapter, 27th verse.</b>`,
+verse: ` <b>(10)	L'Évangile de Luc, chapitre 14, verset 27.</b>`,
 meaning: `<b>
-(27) Whoever does not carry their cross and follows me cannot be my disciple.      </b>`,
+(14:27) quiconque ne porte pas sa croix et ne me suit pas ne peut pas être mon disciple. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When firewood is bundled, it becomes easier to pick up and carry for long distances; it would not be possible to carry it otherwise. Similarly, when the 108 gunas in a person’s mind are tied together in a dysfunctional condition, they become a bundle in the hands of man. There are two kinds of gunas - good and bad - in the human body. <b>The six bad gunas are greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). Similarly, the six good gunas are charity (dana), mercy (daya), benevolence (audarya), dispassion (vairagya), humbleness (vinaya), and love (prema).</b> Each of the six bad and good gunas is further divided into nine parts. Thus, the six bad gunas are divided into 54 parts, and the six good gunas are divided into 54 parts as well. Together, the good and bad gunas make up a total of 108.
 
@@ -1537,9 +1537,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 76,
-verse: `<b>(11)	The Gospel of Luke, 18th chapter, 29th verse.</b>`,
+verse: `<b>(11)	L'Évangile de Luc, chapitre 18, verset 29.</b>`,
 meaning: `<b>
-(29) “Truly I tell you,” Jesus said to them, “no one who has left home or wife or brothers or sisters or parents or children for the sake of the kingdom of God will fail to receive many times as much in this age, and in the age to come eternal life.”   </b>`,
+(18:29) «En vérité, je vous le dis», leur dit Jésus, «personne qui a quitté son foyer, ou sa femme, ou ses frères, ou sœurs, ou parents ou enfants, à cause du royaume de Dieu, ne manquera de recevoir plusieurs fois autant. dans ce siècle et dans le siècle à venir, la vie éternelle. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The kingdom of God refers to Moksham, which is liberation from the cycle of rebirth. Once a person attains Moksham (liberation), they are not reborn on earth and do not suffer from Satan. Moksham means being released from Satan and merging with God. In other words, a person becomes one with God. The union of the Jeeva, which is small and has a specific form, with the infinitely vast, limitless, and omnipresent God is an outstanding achievement. To attain this position, a person must follow the path of wisdom and be willing to give up attachments to their spouse, children, parents, siblings, and home if these attachments hinder their spiritual journey. Such a person becomes a complete gnani in this world and attains God in the Paraloka. Giving up a spouse, children, siblings, and parents is a significant decision because Maya surrounds a person and ties them to their near and dear ones. Prahlada did not count his father, Mirabai left her husband and relatives, and Buddha abandoned a young wife, one-year-old son, parents, home, and kingdom for wisdom. However, those who distance themselves from their loved ones can come closer to God. For acquiring someone who is eternal, leaving behind someone who stays with you for a while is an intelligent decision. However, such a decision may seem foolish to the world. It is rare to find someone willing to leave everything behind in Satan’s kingdom for God’s sake. Because when anyone gets the idea of God in their mind, Satan mainly focuses on them and diverts them from the thought and the path of wisdom. It is impossible for a person to overcome Satan’s power and conquer it, as stated in Bhagavad-Gita, Vignana Yogam, verse 14. One may wonder how it is possible to go to God when Satan’s power is so great. Why attempt and fail? However, if a person completely trusts in God and continues their efforts despite their inability to stand against Satan, God Himself will pull them away from Satan to His side. Therefore, the only way for the tiniest human being to defeat Satan is to surrender completely to God. Bhagavad-Gita states, <b>“Maya metam tarantite,”</b> which means <b>“I will get him out of Maya,”</b> about those who trust God completely. Thus, if a person puts their complete trust and burden on God, God can save them from Satan.
 </div></div>
@@ -1549,9 +1549,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 77,
-verse: `<b>(12)	The Gospel of Luke, 21st chapter, 15th verse.</b>`,
+verse: `<b>(12)	L'Évangile de Luc, chapitre 21, verset 15.</b>`,
 meaning: ` <b>
-(15) I will give you words and wisdom that none of your adversaries will be able to resist or contradict. </b>`,
+(21:15) Je vous donnerai des paroles et une sagesse auxquelles aucun de vos adversaires ne pourra résister ou contredire. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When young children, who have some knowledge of wisdom, question the teachings of renowned preachers and gurus, they do not find answers in their teachings. Therefore, preachers have made a rule that no one should question their teachings. The main reason for the lack of answers in their teachings is that they are not based on science. Unscientific teaching cannot provide answers to rational questions. Preachers continue to teach, but they do not answer when asked. When Paramatma incarnates as Bhagavan, He teaches the true wisdom of Paramatma. Therefore, those who know the wisdom taught by Bhagavan can teach and answer any question. Adversaries who see Bhagavan’s devotees, who know Paramatma’s wisdom, come to them with the ego that they are gurus and gnanis and speak contradictorily. The wisdom that adversaries cannot speak against has already been told to the devotees at such a time. The word of God says that many people are jealous and increase rivalry against those who know true wisdom. Even when God came down, adversaries confronted Him and said, “You don’t know wisdom yet and need to go to a specific place to learn genuine wisdom.” Some people came to me and said, “You do not know wisdom.” Such people will also come to you. God said in the above verse that He would give you the wisdom to answer them.
 </div></div>
@@ -1561,9 +1561,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Luc",
 chapterNumber: 4,
 pageNumber: 78,
-verse: ` <b>(13)	The Gospel of Luke, 21st chapter, 17th verse. </b>`,
+verse: ` <b>(13)	L'Évangile de Luc, chapitre 21, verset 17 . </b>`,
 meaning: `<b>
-(17) Everyone will hate you because of me.      </b>`,
+(21:17) Tout le monde vous détestera à cause de </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The wisdom revealed by Bhagavan, the Son of God, is against those who are possessed by Satan. There is a chance that ordinary people may misunderstand this wisdom, as it appears to be entirely against preachers and gurus who possess some wisdom. Pandits, preachers, and gurus often do not like the words of those who preach the name of God. They, and the people who follow them, begin to hate those who preach God’s path because they find God’s words contrary to their teachings. Hence, God said in the above verse, <b>“Everyone will hate you because of me.”</b>
   </div></div>
@@ -1573,8 +1573,8 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 79,
-verse: `<b>(1)	The Gospel of John, 1st chapter, 1st verse.</b>`,
-meaning: `<b>(1) In the beginning was the Word, and the Word was with God, and the Word was God.</b>`,
+verse: `<b>(1)	L'Évangile de Jean, 1er chapitre, 1er verset.</b>`,
+meaning: `<b>(1:1) Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The Gospel of John comprises 21 chapters. In this scripture, I will provide explanations for some of the verses that humans have failed to understand, misunderstood, or might interpret incorrectly. I have chosen these verses as part of God’s service, feeling like a mere pen that God uses me to do this work. Earlier, I explained some verses from the first divine scripture, the Bhagavad-Gita, and the third divine scripture, the Quran. As I deeply desire to explain all three divine scriptures, I will now illustrate some verses from the second divine scripture, the Injeel (Bible). The wisdom provided in this scripture is scientific and authentic. Now, let’s examine the first verse from the first chapter of the Gospel of John, which consists of three short sentences that must be explained to understand it fully.
 
@@ -1624,9 +1624,9 @@ After creation   Atma (God)   Prakruti  Atma Jeevatma</b>
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 80,
-verse: ` <b>(2) 	The Gospel of John, 1st chapter, 9th verse.</b>`,
+verse: ` <b>(2) 	L'Évangile de Jean, chapitre 1, verset 9.</b>`,
 meaning: `<b>
-(9) The true light that gives light to everyone was coming into the world.     </b>`,
+(1:9) La vraie lumière qui éclaire tout le monde venait dans le monde </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  If there is light in the outside world, it is because of a burning fire. However, in this context, true light is mentioned in the verse. The true light is kindled without fire and enters every human being, illuminating the entire body from head to toe. There is only one such light without fire, and that is Atma, which comes from God and is designated by God (the Creator). Atma provides light of consciousness to the entire body. When Atma enters the body, the 25 trillion cells in the human body are filled with its light. Each cell becomes a burning lamp without fire. The light of the lamp has a specific temperature. The human body has a temperature of 98.4 °F because of Atma’s light. When Atma leaves the body, the body becomes cold without any heat. A body without Atma’s light is called a dead body. In verse 24:35, it is said, <b>“Atma is the light, and the body is the niche.”</b> It can be stated that Atma, which illuminates the body, can be called the true light.
 </div></div>
@@ -1636,9 +1636,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 81,
-verse: ` <b>(3)	The Gospel of John, 1st chapter, 10th verse.</b>`,
+verse: ` <b>(3)	L'Évangile de Jean, 1er chapitre, 10e verset.</b>`,
 meaning: ` <b>
-(10) He was in the world, and though the world was made through him, the world did not recognize him.        </b>`,
+(1:10) Il était dans le monde, et bien que le monde ait été créé à travers lui, le monde ne l'a pas reconnu.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The term ‘Loka (World)’ in Telugu refers to something that undergoes experiences. Atma is present in humans who undergo experiences, and it is the creator of all human beings. However, it is crucial to recognize the distinction between Atma and God. God created Atma, and Atma, in turn, created humans. It is important to understand that God did not directly create humans; instead, He formed the entire Prapancha, initially devoid of any living beings. God first brought forth Prakruti and then empowered Atma to generate, govern, and terminate human life. Since then, Atma has been continuously creating humans, functioning as the sustaining light of human life, and orchestrating the processes of death and rebirth. Despite this, humans often remain oblivious to the presence of Atma, which is near and within them and is essentially God. Atma gives birth to human beings; hence Atma is the Father to humans. God created Atma; hence He is the Father to Atma. Although Atma is sometimes referred to as God, the true God is the Holy Spirit, while Atma is the Father of humans.
 </div></div>
@@ -1648,9 +1648,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 82,
-verse: ` <b>(4)	The Gospel of John, 1st chapter, 11th verse.</b>`,
+verse: ` <b>(4)	L'Évangile de Jean, 1er chapitre, 11e verset.</b>`,
 meaning: `  <b>
-(11) He came to that which was his own, but his own did not receive him.       </b>`,
+(1:11) Il est venu vers ce qui lui appartenait, mais les siens ne l'ont pas reçu.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The term “His own” encompasses all those whom He created. Atma, acting upon the commandment of the Holy Spirit, brought humans into existence, and manifested to them in the form of divine wisdom, referred to as the Word. Even though Atma came to humans in the form of wisdom, humans tend to perceive their own knowledge as significant, often overlooking or dismissing the offered wisdom.
 </div></div>
@@ -1660,9 +1660,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 83,
-verse: `  <b>(5)	The Gospel of John, 1st chapter, 12th verse. </b>`,
+verse: `  <b>(5)	L'Évangile de Jean, 1er chapitre, 12e verset</b>`,
 meaning: `<b>
-(12) Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.   </b>`,
+(1:12) Pourtant, à tous ceux qui l’ont reçu, à ceux qui ont cru en son nom, il a donné le droit de devenir enfants de Dieu. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Those who comprehend the wisdom offered by Atma will embrace Atma. Those who are acquainted with Atma’s wisdom and hold faith in Atma have the prospect of becoming Atma’s heirs. Consequently, the verse asserts, “He gave the right to become children of God.” The term “God’s children” denotes those who are familiar with Atma’s wisdom.
 </div></div>
@@ -1672,9 +1672,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 84,
-verse: ` <b>(6)	The Gospel of John, 1st chapter, 13th verse.</b>`,
+verse: ` <b>(6)	L'Évangile de Jean, 1er chapitre, 13e verset.</b>`,
 meaning: `<b>
-(13) Men born not of natural descent, nor of human decision or a husband’s will, but born of God.      </b>`,
+(1:13) Les hommes nés ni d’une descendance naturelle, ni d’une décision humaine ou de la volonté d’un mari, mais né de Dieu.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  All human beings originate from Atma. They are not born of women’s blood nor the will of males or females.
 </div></div>
@@ -1684,9 +1684,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 85,
-verse: `<b>(7)	The Gospel of John, 1st chapter, 14th verse.</b>`,
+verse: `<b>(7)	L'Évangile de Jean, 1er chapitre, 14e verset.</b>`,
 meaning: ` <b>
-(14) The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.  </b>`,
+(1:14) La Parole s'est faite chair et a élu domicile parmi nous. Nous avons vu sa gloire, la gloire du Fils unique, venu du Père, plein de grâce et de vérité. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The God Atma (Wisdom) assumed a physical form, resembling that of a human, and dwelled among humans, radiating grace and wisdom.
 </div></div>
@@ -1696,9 +1696,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 86,
-verse: `  <b>(8)	The Gospel of John, 1st chapter, 18th verse.</b>`,
+verse: `  <b>(8)	L'Évangile de Jean, 1er chapitre, 18e verset.</b>`,
 meaning: ` <b>
-(18) No man has seen God at any time; the only begotten Son, which is in the bosom of the Father, revealed him.  </b>`,
+(1:18) Aucun homme n’a jamais vu Dieu ; le Fils unique, qui est dans le sein du Père, l'a révélé. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The word ‘God’ is used for both Atma and Paramatma. In the final divine scripture, the term ‘Allah’ is used for both Gods — Atma and Paramatma. Hence, Muslims could not recognize two Gods. To avoid this mistake, the Bible states that Atma is the Father, and Paramatma is the Holy Spirit. The term ‘begotten Son’ refers to <b>the only son created by God.</b> Paramatma (the Holy Spirit) is eternal. After creating Prakruti in the beginning, Paramatma created a son called Atma to bring all living beings into existence. Atma created all living beings according to the commandments of the Holy Spirit. Therefore, there is only one Father (created God) for all living beings. The Father of the created Atma is the Holy Spirit. <b>“No one has ever seen God (the Holy Spirit or Paramatma),”</b> as stated in the verse. God (the Holy Spirit) does not have a form, name, or work; hence, no one has ever seen Paramatma. Atma, the only begotten Son, reveals the unseen God through His wisdom. Atma is the only begotten Son separated from the heart of the Great God, Paramatma. Because no one has seen the Holy Spirit, only Atma can speak about his Father, the Holy Spirit.
 </div></div>
@@ -1708,9 +1708,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 87,
-verse: ` <b>(9)	The Gospel of John, 1st chapter, 51st verse.</b>`,
+verse: ` <b>(9)	L'Évangile de Jean, 1er chapitre, 51e verset.</b>`,
 meaning: `<b>
-(51) He then added, “Very truly I tell you, you will see sky opens, and the angels of God ascending and descending on the Son of Man.”  </b>`,
+(1:51) Il a ensuite ajouté : « En vérité, je vous le dis, vous verrez le ciel s'ouvrir et les anges de Dieu monter et descendre sur le Fils de l'homme. » </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This is the word that Jesus spoke to Nathanael Himself. Jesus claimed to be the Son of Man, even though Nathanael had referred to Him as the Son of God. Jesus did not deny being the Son of God but instead reduced Himself to the Son of Man. He assured Nathanael and others that they would witness extraordinary events. As we’ve emphasized before, God’s servants, the angels, serve as rulers in the human world. These angels, often referred to as Bhutas and Planets (Grahas), are numerous in the sky, totaling billions. During an encounter with Jesus, the servants of God, aware of His identity, descended from the sky and bowed before Him. However, many human beings remain unaware of who Jesus truly is and do not bow down before Him. Similar references are found in the Quran, the final divine scripture, specifically in verses 15:28, 15:29, and 15:30. In the mentioned verse, it is prophesied that Nathanael would witness the presence of Bhutas and Grahas around the Son of Man, as if the doors to the sky had opened. The phrase ‘ascending and descending’ denotes coming and going, with ‘descending on the Son of Man’ implying angels’ arrival at Jesus. When Nathanael acknowledged Jesus as the Son of God, Jesus, recognizing Nathanael’s wisdom vision, assured him in verse 50 that he would witness even greater phenomena. Verse 51 follows, expressing that Nathanael, possessing wisdom vision, could perceive things beyond the ordinary sight of others. The events described in verse 51 are visible only to those with divine wisdom, providing insight into the true identity of Jesus.
 </div></div>
@@ -1720,9 +1720,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 88,
-verse: `<b>(10)	The Gospel of John, 3rd chapter, 3rd verse.</b>`,
+verse: `<b>(10)	L'Évangile de Jean, 3ème chapitre, 3ème verset.</b>`,
 meaning: ` <b>
-(3) Jesus replied, “Very truly I tell you, no one can see the kingdom of God unless they are born again.       </b>`,
+(3:3) Jésus répondit : « En vérité, je vous le dis, personne ne peut voir le royaume de Dieu à moins ils sont nés de nouveau. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The verse should not be interpreted literally, as it carries a deeper, symbolic meaning. God and His kingdom are beyond physical visibility for anyone. Jesus explicitly conveyed that understanding and perceiving God’s kingdom requires a spiritual rebirth. This does not imply a physical death and subsequent rebirth. If taken literally, it would mean that anyone seeking to know God would need to undergo a physical death, which is a misunderstanding. Nicodemus, who held a literal interpretation, raised a question based on this misconception.
 </div></div>
@@ -1732,17 +1732,17 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 89,
-verse: `<b>(11)	The Gospel of John, 3rd chapter, 4th, 5th, 6th, 7th and 8th verses.</b>`,
+verse: `<b>(11)	L'Évangile de Jean, chapitre 3, versets 4, 5, 6, 7 et 8.</b>`,
 meaning: `<b>
-(4) “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!”
+(3:4) « Comment quelqu'un peut-il naître quand il est vieux ? » » demanda Nicodème. « Ils ne peuvent sûrement pas entrer une seconde fois dans le ventre de leur mère pour naître ! »
 <br><br>
-(5) Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit (Atma).
+(3:5) Jésus répondit : « En vérité, je vous le dis, personne ne peut entrer dans le royaume de Dieu. à moins qu'ils ne soient nés de l'eau et de l'Esprit (Atma).
 <br><br>
-(6) Flesh gives birth to flesh, but the Spirit (Atma) gives birth to spirit.
+(3:6) La chair donne naissance à la chair, mais l'Esprit (Atma) donne naissance à l'esprit.
 <br><br>
-(7) You should not be surprised at my saying, “You must be born again.”
+(3:7) Vous ne devriez pas être surpris de ma parole : « Vous devez naître de nouveau. »
 <br><br>
-(3:8) The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So, it is with everyone born of the Spirit (Atma).” </b>`,
+(3:8) Le vent souffle où bon lui semble. Vous entendez son son, mais vous ne pouvez pas dire d’où il vient ni où il va. Il en va de même pour tous ceux qui sont nés de l’Esprit (Atma). </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When a man dies and is reborn, it is called rebirth. If the rebirth happens physically, all the organs of the man will change. If that happens, the desire to see God and God’s kingdom will also vanish. The body should not die to keep the organs and ambitions as they are. The body contains both wisdom and ignorance, but the ignorance in the body should completely die. When a man gets rid of ignorant thoughts and desires, he is considered dead in ignorance and born of wisdom. One who gets rid of ignorance and gains wisdom can be said to be born of Atma. <b>The duty of man is to know Atma in the body.</b> To know Atma, one must know Atma’s wisdom. When a man knows the wisdom of Atma, he is considered born of Atma. When the body dies, a man gets a new body, but changing one’s will in the same body without getting a new body is like a new birth. The wind blows wherever it pleases, and we hear its sound depending on where it blows. As the wind changes its direction, if a man changes his purpose, it will be a new birth for him. One who desires Atma knows Atma in the same body and the same life. There is no need to go to another life to know Atma.
 </div></div>
@@ -1752,9 +1752,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 90,
-verse: `<b>(12)	The Gospel of John, 3rd chapter, 13th verse. </b>`,
+verse: `<b>(12)	L'Évangile de Jean, chapitre 3, verset 13. </b>`,
 meaning: `<b>
-(13) No one has ever gone into Paraloka except the one who came from Paraloka the Son of Man. </b>`,
+(3:13) Personne n'est jamais allé à Paraloka sauf celui qui venait de Paraloka -le Fils de l'Homme. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Ihaloka, Heaven (Swarga-Loka), Hell (Naraka-Loka), and Paraloka are the names of the four worlds. The world (Loka) where we all live is called Ihaloka. Heaven and hell are not separate worlds; both are on earth. Loka is neither a kingdom nor a territory. The place and time of experience together are called loka. The place where one experiences hardship is called Yamaloka, Naraka-Loka, or hell. Similarly, the place where one experiences happiness is called Swarga-Loka or heaven. Since both these experiences occur on earth, it can be said that this world (Ihaloka) is both heaven and hell. However, Paraloka is different from hell and heaven. While both hell and heaven involve experiences, Paraloka does not have any experiences. The state in which there is no experience is called Paraloka. When a person transcends karma, they do not experience happiness or sorrow and enter Paraloka. It is called the state of being one with God, Mukti, or Moksham. A person in Ihaloka is always bound by sin and punya karma. Whoever is in Paraloka does not have any karma. If a person dies in Ihaloka, they cannot go to Paraloka but return to Ihaloka. On the other hand, a person in Paraloka, when coming into this world for any necessity, goes back to Paraloka. Therefore, although the resident of Paraloka who came from Paraloka stays in this world for some time according to His will, He will later enter Paraloka. Hence, the verse <b>“No one has ever gone into Paraloka except the Son of Man who is in Paraloka”</b> implies that the one who is in Paraloka is God. Even if someone who became God is born as a human, He will return to Paraloka. The same thing is expressed in John 3:13.
@@ -1765,9 +1765,9 @@ pageText: `
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 91,
-verse: ` <b>(13)	The Gospel of John, 3rd chapter, 15th verse.</b>`,
+verse: ` <b>(13)	L'Évangile de Jean, chapitre 3, verset 15.</b>`,
 meaning: `<b>
-(15) That whosoever believes in Him should not perish but have eternal life.     </b>`,
+(3:15) Pour que quiconque croit en Lui ne périsse pas mais ait la vie éternelle. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Everyone who believes in God will attain eternal life without undergoing death. However, it is written that, “Eternal life is through Him only.” Paramatma exists both within and outside the body. <b>When Jeevatma merges with Paramatma, it is stated that Jeevatma has achieved Paraloka, also recognized as the kingdom of God.</b> It can also be articulated that Jeevatma has attained eternal life (moksham). The verse declares, “Whoever believes in God will ultimately be liberated from karma and receive eternal life.” Paraloka, representing eternal life, pervades everywhere, irrespective of one’s physical location. Consequently, whoever achieves moksham unites with the Holy Spirit (Paramatma) within their body.
 </div></div>
@@ -1777,9 +1777,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 92,
-verse: `<b>(14)	The Gospel of John, 3rd chapter, 17th verse.</b>`,
+verse: `<b>(14)	L'Évangile de Jean, chapitre 3, verset 17.</b>`,
 meaning: `<b>
-(17) For God did not send his Son into the world to judge the world, but to save the world through Him.  </b>`,
+(3:17) Car Dieu n'a pas envoyé son Fils dans le monde pour juger le monde, mais pour sauver le monde par Lui. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  God sent his Son as a man into the world to save humans, not to judge them. The responsibility of the man who came from God is to teach God’s wisdom to humans and save them from their sins. He did not come to judge the sins and punya of human beings. God did not send His representative to earth for judgment; instead, He came to save people. This verse is crucial in the Bible. Atma judges a man when he dies. The one who came from God teaches humans how to escape from karma, while the Atma performs the task of judging them.
 </div></div>
@@ -1789,9 +1789,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 93,
-verse: `<b>(15)	The Gospel of John, 3rd chapter, 18th verse. </b>`,
+verse: `<b>(15)	L'Évangile de Jean, chapitre 3, verset 18. </b>`,
 meaning: `<b>
-(18) Whoever believes in Him is not judged, but whoever does not believe stands judged already because they have not believed in the name of God’s one and only Son.   </b>`,
+(3:18) Celui qui croit en Lui n’est pas jugé, mais celui qui ne croit pas est déjà jugé parce qu’il n’a pas cru au nom du Fils unique de Dieu.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The verse says, “One who believes in Him,” which refers to either the invisible God or the visible God’s representative who came from God. The verse also states, “They have not believed in the name of God’s one and only Son,” which implies that it should be understood as referring to God’s representative who came from God. God Himself came to earth in the disguise of man to teach wisdom to humans. Jesus said, <b>“I am the Son of God, or the Son of Man, or God’s one and only Son,” </b>so as not to be recognized. In Hinduism, God is called Bhagavan when He disguises Himself and comes to earth as a man. Krishna is the one who came like that; hence He is called Bhagavan in the Bhagavad-Gita. Although Jesus, who is the Son of God, appeared as a man, He should also be called Bhagavan. When God incarnates as a man on earth, Hindus call Him Bhagavan, and Christians call Him the Son of Man. While it is said in the final divine scripture (15:28, 29, 30) that <b>God sends His representative by breathing His soul into Him,</b> Muslims believe that God does not come as a man. Whoever does not have faith in God’s representative, the Son of God, is already judged.
 </div></div>
@@ -1801,13 +1801,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 94,
-verse: `<b>(16) The Gospel of John, 3rd chapter, 19th, 20th, 21st verses.</b>`,
+verse: `<b>(16) L'Évangile de Jean, 3ème chapitre, 19ème, 20ème, 21ème versets.</b>`,
 meaning: ` <b>
-(19) This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil.
+(3:19) Voici le verdict : La lumière est venue dans le monde, mais les gens ont préféré les ténèbres à la lumière parce que leurs actions étaient mauvaises.
 <br><br>
-(20) Everyone who does evil hates the light and will not come into the light for fear that their deeds will be exposed.
+(3:20) Quiconque fait le mal déteste la lumière et ne vient pas à la lumière de peur que ses actes ne soient révélés.
 <br><br>
-(21) But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God. </b>`,
+(3:21) Mais quiconque vit selon la vérité vient à la lumière, afin qu'il soit clairement vu que ce qu'il a fait a été fait devant Dieu. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Paramatma, who remains unknown to anyone, symbolizes darkness. Atma, brought into existence by Paramatma, embodies the true light. Paramatma has created two Sons: an invisible Atma, serving as the light within the body, and another Atma that incarnates as a human among humans. While the Atma, unseen and illuminating the body, is referred to as the Son, the other Son of God, manifesting as a man, is distinctively termed <b>the only begotten Son.</b> Jesus, the only begotten Son, descended to earth. However, due to their malevolent actions, people cherished their own darkness and refrained from approaching Jesus, the light of wisdom.
 
@@ -1819,9 +1819,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 95,
-verse: ` <b>(17)	The Gospel of John, 5th chapter, 19th verse.</b>`,
+verse: ` <b>(17)	L'Évangile de Jean, chapitre 5, verset 19.</b>`,
 meaning: ` <b>
-(19) Jesus gave them this answer: “Very truly I tell you, the Son can do nothing by Himself; He can do only what He sees his Father doing, because whatever the Father does the Son also does.</b>`,
+(5:19) Jésus leur donna cette réponse : « En vérité, je vous le dis, le Fils ne peut rien faire de lui-même ; Il ne peut faire que ce qu’il voit faire son Père, car tout ce que fait le Père, le Fils le fait aussi.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In this verse, the mention of ‘Father and Son’ is accompanied by the statement that “The Son will do the things which the Father does.” It’s crucial to discern the identities of the Father and Son, given that the Holy Spirit (God) is the only one. Although God has one eternal Son, there is also another Son who occasionally incarnates on Earth. It’s important to ascertain which Son the verse is addressing. John 3:17 emphasizes, <b>“For God did not send His Son into the world to condemn the world, but to save the world through Him,</b> ” referring to God’s son, who manifests on Earth. This verse (5:19) refers to the Son, Atma, who serves as the light within the human body. Atma is eternal on the earth, providing <b>‘the light of mobility’</b> to everyone’s body. Based on this, especially when reading the verse, one should determine which of the two sons God, the Holy Spirit, has spoken about in the verse. John 5:19 characterizes Atma as God’s eternal son, stating that Atma mirrors the actions of the Holy Spirit and engages solely in inherited tasks from the Father, doing nothing independently.
 </div></div>
@@ -1831,9 +1831,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 96,
-verse: `<b>(18)	The Gospel of John, 5th chapter, 20th verse.</b>`,
+verse: `<b>(18)	L'Évangile de Jean, chapitre 5, verset 20.</b>`,
 meaning: ` <b>
-(20) For the Father loves the Son and shows Him all He does. Yes, and He will show Him even greater works than these, so that you will be amazed. </b>`,
+(5:20) Car le Père aime le Fils et lui montre tout ce qu'il fait. Oui, et Il lui montrera des œuvres encore plus grandes que celles-ci, afin que vous en soyez étonnés. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When we ask who said, <b>“Paramatma (the Holy Spirit) loves the Son and shows Him all He does,”</b> we find that Jesus, the second Son of God, spoke these words to His disciples while He was on earth. No one was able to fully recognize the Son of God when He walked among humans as a man. Despite His teachings and miracles, some subjected Him to great suffering and humiliation, ultimately leading to His death. However, God’s only begotten Son, named Jesus, was in their midst and said, <b>“The Father will show Him (Atma) even greater works than these so that you will be amazed.”</b> God commanded Atma to rule over the Jeevas and to show even greater things. Let us now explore what those great things are.
 </div></div>
@@ -1843,13 +1843,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 97,
-verse: `<b>(19)	The Gospel of John, 5th chapter, 21st, 22nd, 23rd verses. </b>`,
+verse: `<b>(19)	L'Évangile de Jean, chapitre 5, versets 21, 22, 23. </b>`,
 meaning: `<b>
-(21) For just as the Father raises the dead and gives them life, even so the Son gives life to whom He is pleased to give it.
+(5:21) Car, de même que le Père ressuscite les morts et leur donne la vie, de même le Fils donne la vie à qui Il lui plaît de la donner.
 <br><br>
-(22) Moreover, the Father judges no one, but has entrusted all judgment to the Son.
+(5:22) De plus, le Père ne juge personne, mais a confié tout jugement au Fils.
 <br><br>
-(23) That all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father, who sent Him.   </b>`,
+(5:23) Afin que tous honorent le Fils comme ils honorent le Père. Celui qui n'honore pas le Fils n'honore pas le Père qui l'a envoyé. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  There is something noteworthy here. Although there is a mention of <b>‘two Allahs’</b> in the Quran, Muslims could not find it. Similarly, there is a mention of <b>‘two Sons’</b> in the Bible, but Christians could not understand it and talk about only one Son. All three of these verses have the word ‘Son.’ One needs to determine which of the two Sons is mentioned in these verses. Many are not able to comprehend that there is a second Son because only one Son at a time is mentioned in the verses. God said, <b>“For God did not send his Son into the world to judge the world but to save the world through Him” in John 3:17, and “The Father has entrusted all judgment to the Son” in John 5:22.</b> Based on this, one should understand that God has two Sons.
 
@@ -1863,9 +1863,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 98,
-verse: `<b>(20)	The Gospel of John, 5th chapter, 24th verse.</b>`,
+verse: `<b>(20)	L'Évangile de Jean, chapitre 5, verset 24.</b>`,
 meaning: ` <b>
-(24) Very truly I tell you, whoever hears my word and believes Him who sent me has eternal life and will not be judged but has crossed over from death to life. </b>`,
+(5:24) En vérité, je vous le dis, quiconque entend ma parole et croit Celui qui m'a envoyé a la vie éternelle et ne sera pas jugé mais est passé de la mort à la vie. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Previously, verses 5:21, 5:22, and 5:23 discussed the Soul (Atma), who is the mobility in the body. The verse 5:24 states about the Soul, which came in human form with the name Jesus. Whoever believes in the Holy Spirit, who sent Jesus, the only begotten Son, will attain moksham. Such a person attains moksham without undergoing judgment immediately after their death.
 </div></div>
@@ -1875,9 +1875,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 99,
-verse: ` <b>(21)	The Gospel of John, 5th chapter, 26th verse.</b>`,
+verse: ` <b>(21)	L'Évangile de Jean, chapitre 5, verset 26.</b>`,
 meaning: ` <b>
-(26) For as the Father has life in Himself, so He has granted the Son also to have life in Himself.       </b>`,
+(5:26) Car, de même que le Père a la vie en Lui-même, de même Il a donné au Fils aussi d'avoir la vie en Lui-même.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  God, the Holy Spirit, is eternal forever. Just as Paramatma is eternal, Atma, His son, has been granted the authority to be eternal forever. The Holy Spirit, the Father of Atma, bestowed upon Him that authority. In the first divine scripture when comparing Jeevatma to Atma, Jeevatma is referred to as Kshara (Perishable soul), while Atma is designated as Akshara (Imperishable soul).
 </div></div>
@@ -1887,9 +1887,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 100,
-verse: ` <b>(22)	The Gospel of John, 5th chapter, 37th verse.</b>`,
+verse: ` <b>(22)	L'Évangile de Jean, chapitre 5, verset 37.</b>`,
 meaning: `<b>
-(37) You have never heard His voice nor seen His form.   </b>`,
+(5:37) Vous n’avez jamais entendu Sa voix ni vu Sa forme. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In this context, ‘His’ refers to Paramatma (the Holy Spirit). God, known as Paramatma or the Holy Spirit, is devoid of a name, form, or specific tasks. No one has witnessed such a God because He lacks a discernible form. Consequently, no human has ever laid eyes on God. God does not communicate with anyone as He remains inactive. Therefore, it can be asserted that no living person has truly seen God. Any assertion of having witnessed God can be regarded as false. God is neither visible nor vocal.
 </div></div>
@@ -1899,9 +1899,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 101,
-verse: `<b>(23)	The Gospel of John, 5th chapter, 38th verse. </b>`,
+verse: `<b>(23)	L'Évangile de Jean, chapitre 5, verset 38. </b>`,
 meaning: `<b>
-(38) Nor does His word dwell in you, for you do not believe the one He sent.   </b>`,
+(5:38) Sa parole n'habite pas non plus en vous, car vous ne croyez pas celui qu'Il a envoyé.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Although the first creator, the Holy Spirit, does not actively engage in work, there are certain responsibilities that fall within His domain. Nevertheless, He refrains from direct action. Instead, God, Paramatma, has assigned His servants to carry out His work. These millions of servants constitute His dominion and execute all the tasks designated for Him. While God Himself remains inactive, His servants fulfill the roles He is supposed to undertake. Paramatma, however, has a crucial task at hand – the imparting of divine wisdom. God Himself is required for this task, as His servants cannot perform it. The final scripture states, <b>“God should teach God’s wisdom because no man knows God’s wisdom except God.</b> ” In disguise, God comes to teach the wisdom of God. Though He speaks in disguise, His identity remains unknown, as no one can discern the one in disguise. Despite God imparting His wisdom, it often goes unrecognized as His words. As God is wise, He assumes the guise of <b>‘Bhagavan’</b> and imparts wisdom.
 
@@ -1915,13 +1915,13 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 102,
-verse: ` <b>(24)	The Gospel of John, 6th chapter, 25th, 26th, 27th verses.</b>`,
+verse: ` <b>(24)	L'Évangile de Jean, chapitre 6, versets 25, 26, 27.</b>`,
 meaning: ` <b>
-(25) When they found Him on the other side of the lake, they asked Him, “Rabbi, when did you get here?”
+(6:25) Lorsqu'ils le trouvèrent de l'autre côté du lac, ils lui demandèrent : « Rabbi, quand es-tu arrivé ici ?
 <br><br>
-(26) Jesus answered, “Very truly I tell you, you are looking for me, not because you saw the signs I performed but because you ate the loaves and had your fill.
+(6:26) Jésus répondit : « En vérité, je vous le dis, vous me cherchez, non pas parce que tu as vu les signes que j'ai accomplis mais parce que tu as mangé les pains et que tu es rassasié.
 <br><br>
-(27) Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. For on Him God the Father has placed His seal of approval.  </b>`,
+(6:27) Ne travaillez pas pour une nourriture qui se gâte, mais pour une nourriture qui dure jusqu'à la vie éternelle, que le Fils de l'homme vous donnera. Car sur Lui, Dieu le Père a placé son sceau d’approbation. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This verse emphasizes two types of food: Perishable food and Imperishable food. Many humans seek perishable food, as illustrated when a crowd approached Jesus, asking, “When did you come here?” Jesus responded, <b>“You are not seeking God’s wisdom; you are seeking me, hoping for loaves of bread. ”</b> He further advised them, “Do not toil for perishable food.” Everyday food, which is consumed, digested, and destroyed within three hours, falls into the category of perishable food. Digestion, in essence, is a process of destruction, where all ingested food is broken down in the digestive tract and transformed into waste, much like burning wood into ashes.
 
@@ -1933,9 +1933,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 103,
-verse: `  <b>(25)	The Gospel of John, 6th chapter, 32nd verse. </b>`,
+verse: `  <b>(25)	L'Évangile de Jean, chapitre 6, verset 32. </b>`,
 meaning: ` <b>
-(32) Jesus said to them, “Very truly I tell you, it is not Moses who has given you the bread from paraloka, but it is my Father who gives you the true bread from paraloka. </b>`,
+(6:32) Jésus leur dit : « En vérité, je vous le dis, ce n'est pas Moïse qui vous a donné le pain de Paraloka, mais c'est mon Père qui vous donne le vrai pain de Paraloka. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In the mentioned verse, Jesus declared, <b>“Moses did not give you the bread of wisdom from Paraloka.”</b> This raises questions: Is the Dharma Shastra taught by Moses false? Does Moses’ Dharma Shastra lack wisdom with dharmas? If what Moses taught is not the true bread of God, why is it called Moses’ Dharma Shastra? These questions prompt various considerations. On one hand, it is false to claim that what Moses taught is not Dharma Shastra. On the other hand, in alignment with God’s statement, it can be asserted that what Moses taught is not Dharma Shastra. It is also accurate that Moses did not provide imperishable bread from Paraloka. Such questions and doubts arise, creating a need for proper answers to understand the true divine wisdom.
 
@@ -1949,9 +1949,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 104,
-verse: ` <b>(26)	The Gospel of John, 6th chapter, 46th verse.</b>`,
+verse: ` <b>(26)	L'Évangile de Jean, chapitre 6, verset 47.</b>`,
 meaning: `<b>
-(46) No one has seen the Father except the one who is from God; only He has seen the Father. </b>`,
+(6:47) Personne n'a vu le Père, sauf celui qui vient de Dieu ; Lui seul a vu le Père. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Understanding this verse is not a challenging task. Upon reading the Bhagavad- Gita, the Bible, and the Quran in their entirety, it becomes evident that the verses in these final divine scriptures carry subtle meanings. The Quran’s verses, in particular, hold a depth that surpasses other divine scriptures, making their meanings elusive to many. While verses in the Bible might appear straightforward, their true reality often eludes comprehension. Consequently, God is providing a comprehensive understanding of every verse through us.
 
@@ -1963,11 +1963,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 105,
-verse: `<b>(27)	The Gospel of John, 7th chapter, 37th and 38th verses.</b>`,
+verse: `<b>(27)	L'Évangile de Jean, chapitre 7, versets 37 et 38.</b>`,
 meaning: ` <b>
-(37) On the last and greatest day of the festival, Jesus stood and said in a loud voice, “Let anyone who is thirsty come to me and drink.”
+(7:37) Le dernier et le plus grand jour de la fête, Jésus se leva et dit d'une voix forte : « Que quiconque a soif vienne à moi et boive. »
 <br><br>
-(38) Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.    </b>`,
+(7:38) Quiconque croit en moi, comme le dit l'Écriture, des fleuves d'eau vive couleront de son sein.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The verse carries a subtle meaning. Just as a thirsty person naturally seeks water, the pursuit of those seeking wisdom is likened to thirst. The verse states, <b>“Whoever thirsts for wisdom should come to me and quench their thirst.</b> ” When someone approaches Jesus and receives divine wisdom, it is akin to satisfying their <b>thirst for wisdom</b> from Jesus. Those who believe in Jesus attain complete divine wisdom, becoming repositories of wisdom and sharing it with others. Jesus proclaimed that rivers of living water would flow from within them. In this context, <b>living water symbolizes divine wisdom,</b> which bestows moksham (liberation) upon humans and keeps them in a perpetual state. Hence, wisdom is referred to as living water. Just as humans satisfy their physical thirst by drinking water through their mouths, they should similarly <b>nourish their intellect(buddhi) with divine wisdom by listening through their ears.</b>
 </div></div>
@@ -1977,9 +1977,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 106,
-verse: `<b>(28)	The Gospel of John, 8th chapter, 12th verse.</b>`,
+verse: `<b>(28)	L'Évangile de Jean, chapitre 8, verset 12.</b>`,
 meaning: ` <b>
-(12) When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness but will have the light of life.”  </b>`,
+(8:12) Lorsque Jésus parla de nouveau au peuple, il dit : « Je suis la lumière du monde. Celui qui me suit ne marchera jamais dans les ténèbres mais aura la lumière de la vie. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  God, known as the Holy Spirit, created Atma to carry out His rule and work through others. He declared Atma to be his son and gave him the power to perform His tasks. Atma received the authority to take human lives, passing judgment based on their karma from previous births, and facilitating their rebirth. In the role of a judge, Atma acts in accordance with each individual’s karma. Human entanglement in karma influences their thoughts, and Atma, responding to this karma, imparts ignorance as sought by individuals. Consequently, over time, adharmas increase on Earth.
 
@@ -1991,9 +1991,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 107,
-verse: `<b>(29)	The Gospel of John, 8th chapter, 14th verse.</b>`,
+verse: `<b>(29)	L'Évangile de Jean, chapitre 8, verset 14.</b>`,
 meaning: `<b>
-(14) Jesus answered, “Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.  </b>`,
+(8:14) Jésus répondit : « Même si je témoigne en ma propre faveur, mon témoignage est valable, car je sais d'où je viens et où je vais. Mais vous n’avez aucune idée d’où je viens ni où je vais. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   Jesus, in His outward appearance, resembled an ordinary man without any distinct features. As individuals dwelling within bodies made of Prakruti, the external appearance of every being appears the same. Jesus, too, presented Himself as an ordinary human being. There’s a saying among elders that no one knows what kind of snake resides in a termite mound, drawing a parallel to the mysterious nature of the Jeeva within a body. Every born Jeeva comes into a body from somewhere, guided by the decisions of the Atma based on its karma. Upon completing karma and death, the Jeeva enters a new body under the judgment of the Atma. Despite residing in the body, the Jeeva remains unaware of its origin for each new birth. The manas (mind) is the organ responsible for remembering, but it, too, dies with each passing life, causing the loss of memory from previous births. Consequently, an individual, say, at the age of 40, only recalls the last 40 years of the current birth and not the numerous previous ones.
 
@@ -2009,9 +2009,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 108,
-verse: `<b>(30)	The Gospel of John, 8th chapter, 19th verse.</b>`,
+verse: `<b>(30)	L'Évangile de Jean, chapitre 8, verset 19.</b>`,
 meaning: `<b>
-(19) Then they asked him, “Where is your Father?” “You do not know me or my Father,” Jesus replied. “If you knew me, you would know my Father also.” </b>`,
+(8:19) Alors ils lui demandèrent : « Où est ton Père ? » « Vous ne me connaissez ni moi ni mon Père », répondit Jésus. « Si vous me connaissiez, vous connaîtriez aussi mon Père. » </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Does God exist? If He does, how is He? Where is He? If you know the answers to these questions, you will understand who the Father and the Son are. There is only one God, but we should know where the Son came from. The words ‘Father’ and ‘Son’ are frequently used in the Bible. <b>One should understand that ‘Father’ means God; the term was used to refer to God in the Bible. In the Quran, God is called ‘Allah,’ and in the Bhagavad-Gita, God is referred to as ‘Paramatma.’</b> Although these words are different, they all signify God. The essence of God should be seen in the term ‘Father.’ When Jesus was on earth, the Pharisees asked Him about his Father. Jesus replied, <b>“You did not see me or my Father.”</b> The Pharisees did not inquire about Jesus, even though He was before them. They wanted to know about his physical father, not realizing that Jesus’ father was God. They might have been surprised when Jesus directly spoke about Himself and his Father. They thought they were seeing Jesus in person and asked him to find out about his unknown father. Then Jesus said, <b>“You did not see me or my Father.”</b> We need to understand the meaning of that word.
 
@@ -2031,9 +2031,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 109,
-verse: `  <b>(31)	The Gospel of John, 8th chapter, 21st verse.</b>`,
+verse: `  <b>(31)	L'Évangile de Jean, chapitre 8, verset 21.</b>`,
 meaning: ` <b>
-(21) Once more Jesus said to them, “I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.”  </b>`,
+(8:21) Jésus leur dit encore une fois : « Je m'en vais, et vous me chercherez, et vous mourrez dans votre péché. Là où je vais, tu ne peux pas venir. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Jesus spoke many words to let people know about Himself, and the words above are one example. <b>“I am going away, and you will look for me. Where I go, you cannot come,”</b> Jesus said to the people. On the surface, this verse might not seem particularly profound. When someone goes somewhere without informing others, we don’t know where they have gone, and even if we search, we may not be able to find them. The lack of information means that we cannot go where they have gone. You might wonder what wisdom lies in this common occurrence. Let’s look at it from another angle. In our youth, we used to play the game of ‘Thief and Police.’ In this game, the thief hides, and after a couple of minutes, the police start searching to catch them. To catch the thief, the police must go to the place where the thief is hiding. If the police cannot reach the hiding place, they cannot find the thief even after searching elsewhere. One day, when I was ten, we played this game. I was the thief, and the others were the police. Before hiding, I said, “I am going, and you cannot find me.” They confidently replied, “We will find you in ten minutes.” Then I added, “Where I go, you cannot come,” and went to hide from them.
 
@@ -2047,11 +2047,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 110,
-verse: `<b>(32)	The Gospel of John, 8th chapter, verses 23 and 24.</b>`,
+verse: `<b>(32)	L'Évangile de Jean, chapitre 8, versets 23 et 24.</b>`,
 meaning: `<b>
-(23) But he continued, “You are from below; I am from above. You are of this world; I am not of this world.
+(8:23) Mais il continua : « Vous venez d’en bas ; Je viens d'en haut. Vous êtes de ce monde ; Je ne suis pas de ce monde.
 <br><br>
-(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.”   </b>`,
+(8:24) Je t'ai dit que tu mourrais dans tes péchés ; si vous ne croyez pas que je suis Lui, vous mourrez effectivement dans vos péchés.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In these two verses, the 24th verse seems similar to the 21st verse, but the 23rd verse is unique. Jesus gave the people a second chance to recognize that He was not an ordinary man and said, “You are from below; I am from above. You are of this world; I am not of this world.” This verse is divided into two parts: the first one is “You are from below; I am from above,” and the second one is “You are of this world; I am not of this world.” Based on the first part of the verse, “You are from below; I am from above,” there have been two kinds of people since Kruta Yuga – the lower people and the upper people. There is a reason behind how these two names – the lower and the upper – came into existence. This is how people are divided into the lower and upper categories.
 
@@ -2072,9 +2072,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 111,
-verse: `<b>(33)	The Gospel of John, 8th chapter, 24th verse.</b>`,
+verse: `<b>(33)	L'Évangile de Jean, chapitre 8, verset 24.</b>`,
 meaning: `<b>
-(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.
+(8:24) Je t'ai dit que tu mourrais dans tes péchés ; si vous ne croyez pas que je suis Lui, vous mourrez effectivement dans vos péchés.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  It becomes known that this verse gave a third chance to know who Jesus was. In this verse, Jesus directly told the public who He was. He said, <b>“Those who do not believe that I am the Holy Spirit, and the Creator will die in their sin.”</b> Jesus Himself declared who He was. Initially, He said, <b>“I will go away; you cannot come to the place where I have gone,”</b> to give them some opportunity to understand Him. In the second verse, He said, <b>“You are of this world; I am not of this world,”</b> providing more details to help them understand who He was. It can be understood that Jesus is the Holy Spirit from the second verse. In the third verse, He said, <b>“One who does not believe that I am He is not able to get out of sin,”</b> providing greater clarity. In the third verse, Jesus declared, <b>“I am God.”</b> Despite this, people recognized Jesus as an ordinary man and were unable to realize that He was God. However, some were surprised by Jesus’ words. Although they did not believe it, they asked Him who He was. Jesus replied using these three verses (John 8:21, 22, 23) to help them understand that He was not an ordinary man. Nevertheless, they did not realize this and asked, “Who are you?” Jesus replied, <b>“Just what I have been telling you from the beginning.”</b>
@@ -2087,9 +2087,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 112,
-verse: ` <b>(34)	The Gospel of John, 8th chapter, 28th verse.</b>`,
+verse: ` <b>(34)	L'Évangile de Jean, chapitre 8, verset 28.</b>`,
 meaning: ` <b>
-(28) So, Jesus said, “When you have lifted up the Son of Man, then you will know that I am He and that I do nothing on my own but speak just what the Father has taught me. </b>`,
+(8:28) Ainsi, Jésus a dit : « Quand vous aurez élevé le Fils de l’homme, alors vous saurez que je suis Lui et que je ne fais rien de moi-même, mais je dis simplement ce que le Père m’a enseigné.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  There is some confusion in this verse regarding the phrase, <b>“You have lifted up the Son of Man. ”</b> One may not understand the phrase. To interpret this phrase correctly, one should read it as “When people lift Jesus over their heads” instead of “When you have lifted up Jesus.” Some may ask, “Why would people lift Jesus over their heads?” The answer is that <b>Jesus should be understood with the head</b> that is over our body. One who understands Jesus with their <b>intellect (buddhi)</b> will know that Jesus is the Holy Spirit. Furthermore, this verse reveals that the divine wisdom being taught by Jesus is not His own; instead, He is teaching as directed by the Holy Spirit.
 
@@ -2105,9 +2105,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 113,
-verse: `<b>(35)	The Gospel of John, 8th chapter, 29th verse.</b>`,
+verse: `<b>(35)	L'Évangile de Jean, chapitre 8, verset 29.</b>`,
 meaning: ` <b>
-(29) The one who sent me is with me; He has not left me alone, for I always do what pleases Him.     </b>`,
+(8:29) Celui qui m'a envoyé est avec moi ; Il ne m'a pas laissé seul, car je fais toujours ce qui Lui plaît.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This verse is said to indicate that Jesus and the Holy Spirit are one and the same. To support this, Jesus said, “The one who sent me is with me.” This means that the God who sent Jesus is in Him and that the Holy Spirit and Jesus are the same. There is something called ‘Will’ in the human body. Jesus said that He would always do things according to God’s will. In a different way, He said that God’s will is working in Him. It is a testimony to the fact that God is in Jesus. Jesus also said that the Holy Spirit had not left Him alone. It is as if Jesus said that God was with Him and that God was Him. Jesus himself spoke these words to recognize Him as God. Although God came as ‘Jesus’ in the Kali Yuga, people did not recognize Him. Therefore, it became necessary for Jesus to say these words to recognize His greatness. Otherwise, people would not grasp Jesus’ wisdom. When Jesus spoke these verses, some people believed Him.
 </div></div>
@@ -2117,11 +2117,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 114,
-verse: ` <b>(36)	The Gospel of John, 8th chapter, 53rd and 54th verses.</b>`,
+verse: ` <b>(36)	L'Évangile de Jean, chapitre 8, versets 53 et 54.</b>`,
 meaning: ` <b>
-(53) Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?”
+(8:53) Es-tu plus grand que notre père Abraham ? Il est mort, tout comme les prophètes. Pour qui te prends-tu ?
 <br><br>
-(54) Jesus replied, “If I glorify myself, my glory means nothing. My Father, whom you claim as your God, is the one who glorifies me. </b>`,
+(8:54) Jésus répondit : « Si je me glorifie, ma gloire ne signifie rien. Mon Père, celui que vous proclamez votre Dieu, c'est celui qui me glorifie. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Although Jesus provided detailed explanations for people to understand Him, they struggled to grasp His identity, leading them to inquire, “Who are you?” In response, Jesus stated, “If I glorify myself, my glory means nothing.” Having already spoken about Himself on five occasions, He recognized the potential for His words to be perceived as false if He were to repeat or elaborate further. Therefore, Jesus explained, “If I say something different one more time from what has been said so far, then My Father, whom you claim as your God, glorifies me.” This statement underscores the fundamental unity between Jesus and his Father, whom people claim as God. However, in adherence to spiritual rules, one should not directly claim to be God. Hence, Jesus declared, “I am God” initially to help people understand Him. Later, He clarified by stating that God was his Father. “Just because I told you two things differently, you should not be confused. You should understand me with the truth,” said Jesus, emphasizing the importance of comprehending His identity beyond the surface expressions.
 </div></div>
@@ -2131,9 +2131,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 115,
-verse: `<b>(37)	The Gospel of John, 8th chapter, 55th verse. </b>`,
+verse: `<b>(37)	L'Évangile de Jean, chapitre 8, verset 55. </b>`,
 meaning: `<b>
-(55) Though you do not know Him, I know Him. If I said I did not, I would be a liar like you, but I do know Him and obey His word.  </b>`,
+(8:55) Même si vous ne le connaissez pas, je le connais. Si je disais que non, je serais un menteur comme vous, mais je le connais et j’obéis à sa parole. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Jesus proclaimed, “You do not know God; I know God,” addressing the perception of many who regarded Him as an ordinary man. The need for such a statement arose to clarify Jesus’ distinct relationship with God. Some questioned how Jesus, being human like others, could claim to know God when others did not. To address this query, we can consider Jesus’ repeated declaration, “I am He,” in three distinct verses. According to this statement, Jesus does not possess Jeevatma in His body, even though He has a human form. Instead, the Holy Spirit serves as the sole Atma in His body, actively engaging in every action. The misconception arises when people assume that the Atma is the Jeevatma leading them to believe that Jesus may not know God. However, the truth is that Paramatma (the Holy Spirit) Himself resides in Jesus’ body, making God known to Him. As the Holy Spirit is the consciousness within Jesus, there is no need for a separate knowing; Jesus inherently possesses God as His consciousness. In contrast, ordinary humans have the mind (manas) as consciousness in their bodies but lack the consciousness of either Atma or Paramatma. The lack of Paramatma’s consciousness is the reason why humans do not know God, whereas Jesus, with God as His consciousness, inherently knows God.
 
@@ -2146,11 +2146,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 116,
-verse: ` <b>(38)	The Gospel of John, 8th chapter, 57th and 58th verses.</b>`,
+verse: ` <b>(38)	L'Évangile de Jean, chapitre 8, versets 57 et 58.</b>`,
 meaning: `<b>
-(57) “You are not yet fifty years old,” they said to Him, “and You have seen Abraham!”.
+(8:57) «Tu n'as pas encore cinquante ans», lui dirent-ils, «et tu as vu Abraham!”.
 <br><br>
-(58) “Very truly I tell you,” Jesus answered, “before Abraham was born, I am!” </b>`,
+(8:58) « En vérité, je vous le dis », répondit Jésus, « avant la naissance d'Abraham, je le suis ! » </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When Jesus uttered these words, He was approximately 32 years old, on the verge of entering His 33rd year. Abraham, a historical figure, had lived centuries prior to Jesus, akin to a great-grandfather to the people of Jesus’ time. When Jesus referred to Abraham, the Jews present questioned how He could speak of a man who had long preceded Him, having been born and died in a different era. In response, Jesus made the enigmatic statement, “Before Abraham was born, I am.” This assertion appeared deceptive to those around Him, given the clear generational distinction between Jesus and Abraham. Nevertheless, what Jesus expressed was an absolute truth, even if it seemed paradoxical to His contemporaries.
 
@@ -2162,9 +2162,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 117,
-verse: `<b>(39)	The Gospel of John, 9th chapter, 39th verse.</b>`,
+verse: `<b>(39)	L'Évangile de Jean, chapitre 9, verset 39.</b>`,
 meaning: ` <b>
-(39) Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”   </b>`,
+(9:39) Jésus a dit : « Je suis venu dans ce monde pour le jugement, afin que les aveugles verront et ceux qui voient deviendront aveugles.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When some people accused Jesus of being a sinner, the individual whose karma had been removed by Jesus overheard their words and responded with the following information.
 
@@ -2179,9 +2179,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 118,
-verse: `<b>(40)	The Gospel of John, 9th chapter, 41st verse.</b>`,
+verse: `<b>(40)	L'Évangile de Jean, chapitre 9, verset 41.</b>`,
 meaning: `<b>
-(41) Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.  </b>`,
+(9:41) Jésus a dit : « Si vous étiez aveugle, vous ne seriez pas coupable de péché ; mais maintenant que vous prétendez voir, votre culpabilité demeure. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In verse 39, Jesus explained the distinction between those with faith and those without. He stated that a blind person with divine faith could see Him, while unbelievers could physically see Him but couldn’t perceive His true identity. In the 41st verse, Jesus delved further into the behavior of those operating with a <b>worldly perspective.</b> Individuals with a worldly mindset proclaim, “I am seeing,” attributing their actions to themselves and consequently accumulating karma for their deeds. God bestowed sight upon humans to comprehend His wisdom, yet not everyone employs their vision to recognize God. Some remain spiritually blind despite having physical eyes. Concerning worldly matters, every individual is, in essence, blind. The truth is no one autonomously engages in worldly activities. No one possesses sight or hearing. Despite their inherent lack, people claim, “I am seeing,” falsely assuming they have sight and consequently incurring sin for their actions. Even though humans are spiritually blind, they accumulate sin when they mistakenly believe they possess sight. Jesus emphasized that recognizing one’s spiritual blindness and acknowledging <b>the truth</b> of having seen nothing absolves them of sin. In essence, acknowledging one’s spiritual blindness prevents the accumulation of sin in worldly matters.
 
@@ -2193,9 +2193,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 119,
-verse: `<b>(41)	The Gospel of John, 10th chapter, 18th verse.</b>`,
+verse: `<b>(41)	L'Évangile de Jean, chapitre 10, verset 18.</b>`,
 meaning: `<b>
-(18) No one takes life from me, but I lay it down of my own accord. I have the authority to lay it down and authority to take it up again. This command I received from my Father. </b>`,
+(10:18) Personne ne me prend la vie, mais je la donne de mon propre gré. J'ai le pouvoir de le déposer et le pouvoir de le reprendre. Ce commandement, je l'ai reçu de mon Père. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  No one knows when an ordinary person will leave this life. Once someone dies, they will not return. This is evident in every death. <b>Jeeva also departs from the body in death. However, most people do not realize that Jeeva is separate from the life force in a person.</b> Many people think that Jeeva and the life force are the same. But in the verse, it is said, <b>“No one takes life from me,”</b> which shows that Jesus is different, and his force is different. Although everyone has their own life force in their body, like Jesus, they cannot set it aside or take it up again. Within the body are many internal organs, life, buddhi, and manas. Anything inside the body is under the control of Atma, not under the control of man. Hence, Atma decides whether to set aside a person’s life or send it where Atma wishes, as it is its task. Jeeva has no relation to the life force in their body, but Atma has a relationship with the life force in the body.
 
@@ -2207,9 +2207,8 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 120,
-verse: ` <b>(42)	The Gospel of John, 10th chapter, 30th verse.</b>`,
-meaning: ` <b>
-(30) I and the Father are one.    </b>`,
+verse: ` <b>(42)	L'Évangile de Jean, chapitre 10, verset 30.</b>`,
+meaning: ` <b>(10:30) Moi et le Père sommes un. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Atma is the Father of Jeeva, and correspondingly, Paramatma is accountable for the creation of Atma. Therefore, Atma is also the Father of human beings, while Paramatma is the Father of Atma. As Jesus is Atma, He is the Son of God. When <b>a son pays close attention to his father,</b> it signifies a state of union between the son and the father. This is the essence of Jesus’ statement, <b>“I and my Father are one,”</b> as He directed His focus towards His father, the Holy Spirit.
 </div></div>
@@ -2219,9 +2218,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 121,
-verse: ` <b>(43)	The Gospel of John, 11th chapter, 25th verse.</b>`,
+verse: ` <b>(43) L'Évangile de Jean, chapitre 11, verset 25.</b>`,
 meaning: ` <b>
-(25) Jesus said to her, “I am the resurrection and the life. The one who believes in me will live, even though they die. </b>`,
+(11:25) Jésus lui dit : « Je suis la résurrection et la vie. Celui qui croit en moi vivront, même s'ils meurent. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  In this context, ‘resurrection’ is indicative of birth, while ‘life’ signifies liberation (moksham), implying freedom from the cycle of rebirth. Since both birth and moksham are related to Atma, Jesus declared, “The one who believes in me will not be reborn after death but will attain <b>moksham.</b>”
 </div></div>
@@ -2231,9 +2230,8 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 122,
-verse: `<b>(44)	The Gospel of John, 11th chapter, 26th verse.</b>`,
-meaning: `<b>
-(26) Whoever lives by believing in me will never die.     </b>`,
+verse: `<b>(44)	L'Évangile de Jean, chapitre 11, verset 26.</b>`,
+meaning: `<b>(11:26) Celui qui vit en croyant en moi ne mourra jamais. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
 The one who has attained moksham will experience eternal life and never face death again. Therefore, Jesus proclaimed, “Everyone who has faith in God will attain moksham and never die again.”
@@ -2244,9 +2242,9 @@ The one who has attained moksham will experience eternal life and never face dea
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 123,
-verse: `<b>(45)	The Gospel of John, 12th chapter, 25th verse.</b>`,
+verse: `<b>(45)	L'Évangile de Jean, chapitre 12, verset 25.</b>`,
 meaning: `<b>
-(25) Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.  </b>`,
+(12:25) Quiconque aime sa vie la perdra, tandis que quiconque déteste sa vie dans ce monde la gardera pour la vie éternelle.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Jesus’s statement, “Anyone who loves their life will lose it,” can be explained as follows: Humans (Jeeva) require life to exist on earth, and those who become attached to their earthly life will inevitably lose it since they cannot live forever. A person’s life depends on the flow of Prana (life force) in their body, and once they die, their breathing ceases permanently. Once the final breath leaves the body and merges with outside air, it will never return. When someone moves from their first birth to their second, they receive a new breath (life), but the old one is never regained. Therefore, those who prioritize their earthly life and cling to it will eventually lose it. Despite this certainty, people naturally love their lives more than anything else and seek to prolong their time on earth.
 
@@ -2258,9 +2256,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 124,
-verse: `<b>(46)	The Gospel of John, 12th chapter, 40th verse.</b>`,
+verse: `<b>(46)	L'Évangile de Jean, chapitre 12, verset 40.</b>`,
 meaning: `<b>
-(40) He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn—and I would heal them. </b>`,
+(12:40) Il a aveuglé leurs yeux et endurci leur cœur, de sorte qu'ils ne peuvent ni voir de leurs yeux, ni comprendre de leur cœur, ni se tourner – et je les guérirais. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When God came as a man and told the people the wisdom they needed, Atma, God in the body, blinded their eyes and hardened their hearts so that they could neither see nor understand with their hearts nor get rid of karma. Karma is the cause of their suffering. In this verse, what is important to note is that Atma, created by the Holy Spirit, is in everyone’s body, running everyone. Although Atma is the Son of the Holy Spirit, the Holy Spirit, the Creator, is born as a man to impart wisdom. Although the born is the Holy Spirit, He is called the Son of God instead of God. According to this, Atma, which is in the body, becomes the Son of the Holy Spirit. The Holy Spirit’s incarnation as a human being is also called the Son of the Holy Spirit. Atma in the body blinds the ignorant man’s eyes and hardens their heart so that they do not understand the Son of God’s words and cannot get rid of their karma.
 
@@ -2272,11 +2270,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 125,
-verse: ` <b>(47)	The Gospel of John, 12th chapter, 47th and 48th verses.</b>`,
+verse: ` <b>(47)	L'Évangile de Jean, chapitre 12, versets 47 et 48.</b>`,
 meaning: ` <b>
-(47) If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.
+(12:47) Si quelqu'un entend mes paroles mais ne les tient pas, je ne le juge pas. Car je ne suis pas venu pour juger le monde, mais pour sauver le monde.
 <br><br>
-(48) There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will judge them at the last day. `,
+(12:48) Il y a un juge pour celui qui me rejette et n'accepte pas mes paroles ; les paroles mêmes que j'ai prononcées les jugeront au dernier jour.`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  It can be said that the one who spoke these words is the Atma who is in the form of a human being. When anyone hears but neglects to comprehend the wisdom imparted by God when He comes in human form, the Atma in human form does not judge their next life based on sin and punya after death. The Atma, who came as a man to teach wisdom, did not come to judge humans’ next life. God (Atma) came as a man to reveal His wisdom to the people and save them. Someone else judges the subsequent life of a man who does not listen to the words of the Atma in human form and does not acknowledge Him as great. One should know that such a judge is the Atma, who is always present in the body. The Atma in the human body decides the next birth on the day of death based on the wisdom imparted by the Atma, who is in human form. <b>One cannot know the Holy Spirit unless they understand the work of the Atma in the body and the Atma (Bhagavan), who comes in human form.</b>
 </div></div>
@@ -2286,11 +2284,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 126,
-verse: ` <b>(48)	The Gospel of John, 12th chapter, 49th and 50th verses.</b>`,
+verse: ` <b>(48)	L'Évangile de Jean, chapitre 12, versets 49 et 50.</b>`,
 meaning: ` <b>
-(49) For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.
+(12:49) Car je n'ai pas parlé de moi-même, mais le Père qui m'a envoyé m'a ordonné de dire tout ce que j'ai dit.
 <br><br>
-(50) I know that his command leads to eternal life. So, whatever I say is just what the Father has told me to say. </b>`,
+(12:50) Je sais que son commandement mène à la vie éternelle. Donc, quoi que je dise, c’est exactement ce que le Père m’a dit de dire.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   One should understand that the <b>Atma (Bhagavan)</b>, who came as a human being, spoke these words. Jesus, God in the form of a human being, uttered this statement. Whenever God incarnates as a man, all of His wisdom comes from the Holy Spirit. The one who came in human form mentioned that the Holy Spirit prompted Him to convey this wisdom. The wisdom imparted by the Atma (Bhagavan) in human form leads to <b>eternal life (moksham).</b> Although the one who came in human form is not explicitly identified as God, He stated, <b>“Whatever I say is just what the Father has told me to say,”</b> revealing that the speaker is the Holy Spirit. With this, it becomes evident that the one speaking is the Holy Spirit. However, in accordance with spiritual doctrine, it should be emphasized that the Holy Spirit is the Father, and the Atma who came in human form is the Son.
 </div></div>
@@ -2300,9 +2298,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 127,
-verse: ` <b>(49) The Gospel of John, 14th chapter, 7th verse.</b>`,
+verse: ` <b>(49) L'Évangile de Jean, chapitre 14, verset 7.</b>`,
 meaning: ` <b>
-(7) If you really know me, you will know my Father as well. From now on, you do know Him and have seen Him.
+(14:7) Si vous me connaissez vraiment, vous connaîtrez aussi mon Père. Désormais, vous le connaissez et vous l’avez vu.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This verse is similar to the one mentioned earlier (John 12:49, 12:50). As I mentioned before, the Father and the Son are the same; yet, according to spiritual doctrine, it should be said that the Father and the Son are separate. Jesus said, <b>“If you really know me, you will also know my Father.”</b> Although God, when He came as a human, is called the Son of God, in fact, the Father Himself is in the form of the Son. Hence, the verse states, <b>“If you know the Son, you know the Father.”</b>
@@ -2313,11 +2311,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 128,
-verse: ` <b>(50)The Gospel of John, 14th chapter, 8th and 9th verses.</b>`,
+verse: ` <b>(50) L'Évangile de Jean, chapitre 14, versets 8 et 9.</b>`,
 meaning: ` <b>
-(8) Philip said, “Lord, show us the Father and that will be enough for us.”
+(14:8) Philippe dit : « Seigneur, montre-nous le Père et cela nous suffira. »
 <br><br>
-(9) Jesus answered: “Don’t you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, “show us the Father?” </b>`,
+(14:9) Jésus répondit : « Ne me connais-tu pas, Philippe, même après avoir été si longtemps parmi toi ? Quiconque m'a vu a vu le Père. Comment pouvez-vous dire : « montre-nous le Père ? » </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  This verse reveals that the one with a visible form is the Holy Spirit. Therefore, Jesus said, <b>“Anyone who has seen me has seen the Father.”</b>
 </div></div>
@@ -2327,9 +2325,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 129,
-verse: `<b>(51)	The Gospel of John, 14th chapter, 10th verse. </b>`,
+verse: `<b>(51)	L'Évangile de Jean, chapitre 14, verset 10. </b>`,
 meaning: `<b>
-(10) Don’t you believe that I am in the Father, and that the Father is in me? The words I say to you I do not speak with my own authority. Rather, it is the Father, living in me, who is doing His work.  </b>`,
+(14:10) Ne croyez-vous pas que je suis dans le Père et que le Père est en moi ? Les paroles que je vous dis, je ne les prononce pas avec ma propre autorité. C'est plutôt le Père, vivant en moi, qui fait son œuvre. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When a person is in disguise, he and his disguise are inseparable. Therefore, when a rich man assumes the guise of a beggar, both the wealthy individual and the beggar coexist. The rich man takes on the appearance of a beggar during his disguise. Although the beggar ventures into a bazaar to beg, it is, in fact, the rich man who is carrying out this act. The unseen rich man is performing the role of a beggar. As the rich man resides within the beggar, and the beggar’s words originate from the rich man, it can be asserted that the rich man is within the beggar, and reciprocally, the beggar is within the rich man—they exist together. Since the inner persona holds greater significance than the external facade, all actions undertaken in disguise are executed by the inner self. Given that the person within is more crucial than the external appearance, it is accurate to state that all tasks carried out by the outwardly visible person belong to the internal individual. Despite the beggar’s outward appearance, he embodies the rich person within. In a sense, it can be affirmed that the beggar is, indeed, the rich person. The Holy Spirit, concealed in human form, holds significance. It is imperative to recognize that the disguise is temporary, while the soul within is eternal. It can be asserted that <b>the one within Jesus is the Holy Spirit.</b> Hence, Jesus proclaimed, “The Father is in me, and I am in the Father.”
 </div></div>
@@ -2339,9 +2337,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 130,
-verse: `<b>(52)	The Gospel of John, 14th chapter, 6th verse</b>`,
+verse: `<b>(52)	L'Évangile de Jean, chapitre 14, verset 6.</b>`,
 meaning: `<b>
-(6) Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me. </b>`,
+(14:6) Jésus répondit : « Je suis le chemin, la vérité et la vie. Personne ne vient le Père sauf par moi. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Building on the previous example, the pathway to understanding the rich man is through the beggar. If the beggar is apprehended, the identity of the rich man becomes apparent. Once the rich man is recognized, one can access the wealth he possesses. Similarly, the avenue to comprehend God is through the incarnation as a human. If someone understands the one who took human form, they will also comprehend the God residing within Him. Acquaintance with God leads to gaining eternal life inherent in God. Hence, on one occasion, Jesus declared, <b>“I am the way and the truth and the life.”</b> When Jesus said, “I am the way,” it signifies <b>the route to understanding God through me.</b> He also stated, “I am the truth,” implying that He is the genuine manifestation of God. Furthermore, He proclaimed, <b>“I am eternal life.”</b> This assertion is grounded in the fact that the true God in the form of Jesus declared that anyone familiar with Him would attain paraloka (moksham) and experience eternal life without facing death in the paraloka.
 </div></div>
@@ -2351,9 +2349,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 131,
-verse: ` <b>(53)	The Gospel of John, 14th chapter, 16th verse.</b>`,
+verse: ` <b>(53)	L'Évangile de Jean, chapitre 14, verset 16.</b>`,
 meaning: `<b>
-(16) I will ask the Father, and He will give you another Advocate to help you and be with you forever.  </b>`,
+(14:16) Je demanderai au Père, et Il vous donnera un autre Avocat pour vous aider et être avec vous pour toujours. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> The Holy Spirit does not remain permanently in human form among the people. Occasionally, the Holy Spirit changes appearance and enters into the lives of people when needed. When the Holy Spirit took the form of Jesus, He lived among the people for only 33 years. Out of these 33 years, He imparted wisdom for only three years. Even before completing three years, He departed from the people after only two years and three months. Jesus said, “I will beg my Father to send another Advocate (Adaranakarta) a second time, who lives longer than me and teaches wisdom.” The one who is coming is the same person as the one who says He beseeches the one who comes. It is the same one who is coming. It is the same one who said that He would request the one who is coming. It is the same one who said He would send another Advocate (Comforter). <b>There is only one.</b> It is the same one who said, it is the same one who asked, and it is the same one who comes. If we do not understand that there is only one who is playing all the characters, the one who says, asks, and comes may appear different. Without recognizing that <b>there is only one orchestrating these roles,</b> we fail to comprehend the God in front of us in human form, the God who implores, and the God who arrives. It is crucial to understand that the one pleading with the Father as Jesus is the forthcoming Comforter. The arriving Advocate is the Holy Spirit.
 </div></div>
@@ -2363,9 +2361,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 132,
-verse: `<b>(54)	The Gospel of John, 14th chapter, 17th verse.</b>`,
+verse: `<b>(54)	L'Évangile de Jean, chapitre 14, verset 17.</b>`,
 meaning: `<b>
-(17) The world cannot accept Him because it neither sees Him nor knows Him. But you know Him, for He lives with you and will be in you.  </b>`,
+(14:17) Le monde ne peut pas l’accepter parce qu’il ne le voit ni ne le connaît. Mais vous le connaissez, car il vit avec vous et sera en vous. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The term ‘world (loka)’ can be understood to encompass those individuals who undergo the consequences of karma on earth. When God takes on human form, those bound by karma may not perceive or acknowledge Him. Those who fail to recognize Him are unable to receive His teachings or divine wisdom. Only those who have gained some wisdom through Jesus will be able to recognize the Comforter who comes after Jesus in human form. The Comforter dwells within those individuals, and those who are acquainted with Him will coexist with Him, realizing His presence within them as Atma.
 </div></div>
@@ -2375,9 +2373,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 133,
-verse: `<b>(55)	The Gospel of John, 14th chapter, 20th verse.</b>`,
+verse: `<b>(55) L'Évangile de Jean, chapitre 14, verset 20.</b>`,
 meaning: ` <b>
-(20) On that day you will realize that I am in my Father, and you are in me, and I am in you.   </b>`,
+(14:20) Ce jour-là, vous réaliserez que je suis en mon Père, que vous êtes en moi et que je suis en vous. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext"> Before delving into this verse, one should grasp the true form of God. God is divided into three aspects, permeating the entire world. Although there is only one God, He is divided into three souls—Jeevatma, Atma, and Paramatma. <b>Jeevatma resides in a specific location within the bodies of all living beings, while Atma extends throughout the entirety of every living being’s body. Paramatma is present both inside and outside the body, existing within every molecule.</b> An individual who comprehends this concept is considered a complete gnani. Paramatma, the Creator, assumes human form to impart wisdom to people. During this manifestation, He asserts that He is the Son, and the Father is Paramatma. This terminology serves a purpose of distinction, but it can be affirmed that both the Son and the Father are inherently the same. God appears in the guise of the <b>‘Son’</b> and resides on earth throughout His entire life, imparting wisdom. This serves as a method for the dissemination of wisdom. Alternatively, God sent out an Atma from Himself to create, sustain, and kill Jeevas. The Atma, which governs the bodies of living beings, is also considered the Son of God. Atma resides within Paramatma, and Jeevatma exists within the realm of Atma. Consequently, the expression <b>“I am (Atma) in my Father”</b> is used instead of stating, <b>“I am (Atma) in my Father, the Paramatma.”</b> As Jeeva is present within the body governed by Atma, the verse emphasizes, “You (Jeevatmas) are in me (Atma).” Atma, diffused throughout the entire body, is also dispersed within you (Jeevatma), who is in a specific location. Therefore, the verse states, <b>“The day when you know the souls’ wisdom, you will know that I am in you.”</b> Those unfamiliar with the concept of the three souls fail to discern who resides within whom. Therefore, <b>it is crucial to comprehend the Thraitha Theorem, which elucidates how God is in the form of three souls.</b>
 </div></div>
@@ -2387,11 +2385,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 134,
-verse: ` <b>(56)	The Gospel of John, 14th chapter, 25th and 26th verses.</b>`,
+verse: ` <b>(56)	L'Évangile de Jean, chapitre 14, versets 25 et 26.</b>`,
 meaning: `<b>
-(25) All this I have spoken while still with you.
+(14:25) Tout cela, je l'ai dit alors que j'étais encore avec  vous.
 <br><br>
-(26) But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. </b>`,
+(14:26) Mais l'Avocat, le Saint-Esprit, que le Père enverra en mon nom, vous enseignera toutes choses et vous rappellera tout ce que je vous ai dit. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  On one occasion, Jesus addressed His disciples, saying, “While I am still with you, I speak these words.” Additionally, He conveyed, “Another Advocate (Adaranakarta) would come to you after I pass away.” Furthermore, He explained, <b>“The Advocate, who comes like me, would remind you of everything I had spoken and teach everything I had not spoken.”</b> An important aspect to consider here is Jesus’ use of the name ‘Advocate.’ Clarifying the meaning of Advocate, He stated, <b>“Advocate is the Holy Spirit whom the Father will send in my name.”</b> A close examination of the verse reveals that it begins with ‘the Father’ and concludes with ‘the Holy Spirit.’ This sequence suggests that Jesus’ father is the Holy Spirit. It can be posited that the Son is the one in disguise, while the Father is the one not in disguise. In reality, they both are one and the same. <b>The one who imparts wisdom and removes karma is referred to as the Advocate (Comforter).</b> When Jesus asserted that God is the one who sends God in the name of the Advocate, He articulated, “The Father is the Holy Spirit who will send in my name.” This elucidates that <b>God assumes a form, adopts the guise of the Advocate, and imparts divine wisdom.</b> It is noteworthy that Jesus conveyed these words to ensure even those unaware of this matter could comprehend.
 </div></div>
@@ -2401,9 +2399,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 135,
-verse: ` <b>(57)	The Gospel of John, 15th chapter, 23rd verse. </b>`,
+verse: ` <b>(57)	L'Évangile de Jean, chapitre 15, verset 23. </b>`,
 meaning: `<b>
-(23) Whoever hates me hates my Father as well.   </b>`,
+(15:23) Celui qui me hait hait aussi mon Père.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  I have been asserting from the beginning that God is concealed in the form of Jesus, and the name attributed to God’s disguise is Jesus. Indeed, no one else but the Holy Spirit has come in the name of Jesus. Consequently, anyone blaspheming Jesus is also blaspheming Paramatma. The Comforter (Advocate) is not the one who will come after Jesus. Jesus was also an Advocate. Whenever God assumes human form, He should consistently be called the Advocate. <b>The Advocate imparts wisdom that serves as a remedy for karma,</b> and God alone provides teachings that eradicate karma. Therefore, it can be affirmed that the Advocate is synonymous with the Holy Spirit. However, recognizing God when He takes on human form on Earth proves to be challenging. This challenge is underscored by individuals in Christianity who claim to be gnani and refer to Jesus as a brother. It is emphasized that Jesus is not a brother to anyone. Regardless of whether He appears as Jesus or under another name, He is identified as the Holy Spirit, making Him a Father, not a brother.
 </div></div>
@@ -2413,11 +2411,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 136,
-verse: `<b>(58)	The Gospel of John, 15th chapter, 24th and 25th verses. </b>`,
+verse: `<b>(58)	L'Évangile de Jean, chapitre 15, versets 24 et 25 </b>`,
 meaning: ` <b>
-(24) If I had not done among them the works no one else did, they would not be guilty of sin. As it is, they have seen, and yet they have hated both me and my Father.
+(15:24) Si je n'avais pas fait parmi eux les œuvres que personne d'autre n'a faites, ils ne seraient pas coupables de péché. Ils l’ont vu, et pourtant ils m’ont haï, moi et mon Père
 <br><br>
-(25) But this is to fulfill what is written in their Law: ‘They hated me without reason.’</b>`,
+(15:25) Mais c’est pour accomplir ce qui est écrit dans leur Loi : « Ils m’ont haï sans raison. »</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   The task that no one can accomplish on earth is to forgive and remove the sins of a person. Jesus stated that sins would not have been incurred if He had not undertaken the work of forgiving the karma of others. When He publicly forgave the sins of certain individuals, those who were envious and ignorant of His greatness harbored hatred towards Him. Hating Jesus equates to hating the Holy Spirit. Those who harbored hatred toward Him <b>without a valid reason</b> incurred sin.
 </div></div>
@@ -2427,11 +2425,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 137,
-verse: ` <b>(59)	The Gospel of John, 15th chapter, 26 and 27 verses. </b>`,
+verse: ` <b>(59)	L'Évangile de Jean, chapitre 15, versets 26 et 27. </b>`,
 meaning: `<b>
-(26) When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—He will testify about me.
+(15:26) Quand viendra le Défenseur que je vous enverrai de la part du Père – l'Esprit de vérité qui sort du Père – Il témoignera de moi
 <br><br>
-(27) And you also must testify, for you have been with me from the beginning.   </b>`,
+(15:27) Et toi aussi, tu dois témoigner, car tu es avec moi depuis le début. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   Jesus came as the Advocate (Bhagavan) and mentioned that He would send another Advocate from the Father to the people. In accordance with spiritual law, He conveyed what He was supposed to say. However, there is no other Advocate with the Father; <b>there is only one God</b> who occasionally appears in the guise of an Advocate. No one else sends Him. When Jesus and the Holy Spirit are considered the same, both the sender and the coming one are identical. Jesus stated, <b>“The Spirit of truth comes as an Advocate, and He will testify about me.”</b> When the one who is coming and the one who is going are the same, it is unsurprising that the coming one will speak about the going one. As the coming Advocate discusses Jesus, His disciples will undoubtedly recall Him. Consequently, the disciples will affirm that Jesus came and imparted wisdom.
 </div></div>
@@ -2441,9 +2439,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 138,
-verse: ` <b>(60)	The Gospel of John, 16th chapter, 7th verse. </b>`,
+verse: ` <b>(60)	L'Évangile de Jean, chapitre 16, verset 7. </b>`,
 meaning: `<b>
-(7) But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send Him to you.</b>`,
+(16:7) Mais en vérité, je vous le dis, c'est pour votre bien que je m'en vais. Si je ne m'en vais, l'Avocat ne viendra pas vers vous ; mais si je pars, je vous l'enverrai.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   In the analogy of a single person playing two characters in a play, the second character appears on stage after the first character exits. Since it is the same person playing both roles, the first character must go behind the scenes for the person in the first character to assume the second role. It’s not possible for the second character to emerge unless the first character goes backstage. This transition occurs because the same person is portraying both characters. Similarly, the one who came in Jesus’ role is expected to return to earth in a second character. Therefore, when Jesus departs from the people, the one who played the role of Jesus will return in a second role. The Holy Spirit took on the role of Jesus. If He were to come again to be with the people, He would have to relinquish His role as Jesus and reappear in a new role, with a new name, and a new appearance. Thus, Jesus stated, <b>“It is for your good that I am going away. Unless I go away, the Advocate will not come to you.”</b> While not explicitly mentioning that He would return as an Advocate, He conveyed, “I will send Him to you when I leave.” From these words, anyone with intelligence will easily discern that the one departing and the one returning are the same.
 </div></div>
@@ -2453,9 +2451,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 139,
-verse: `<b>(61)	The Gospel of John, 16th chapter, 8th verse.  </b>`,
+verse: `<b>(61)	L'Évangile de Jean, chapitre 16, verset 8.  </b>`,
 meaning: ` <b>
-(8) When He comes, He will prove the world to be in the wrong about sin and righteousness and judgment.</b>`,
+(16:8) Quand Il viendra, Il prouvera que le monde a tort en matière de péché, de justice et de jugement.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  After Jesus’ role disappears behind the scenes, the Advocate (Bhagavan) will come in the second role and second incarnation. The term ‘Advocate’ represents God’s incarnation, but it is not God’s name. The one who comes as the Advocate could have any name in the world. Therefore, no one can determine if this person is the incarnation of God. While no one knows the Advocate’s form or name, there is some chance of recognizing Him through His actions. When the <b>Advocate</b> comes to the earth, He discusses sin, revealing how a person acquires sin, where it is stored until the time of death, and the consequences of sin. <b>He explains that divine wisdom is necessary to rid oneself of acquired sins,</b> as sins are like firewood and wisdom is like fire. Only through wisdom can one escape experiencing sin and gain divine wisdom. The sin of a person who does not attain divine wisdom in life persists until death. Such a person must be reborn on the same day, minute, and moment after death. The day of death is known as the last day. The last day of life becomes the first day of the next life. The person must be reborn within a second of their death. It can be said that the time difference between death and rebirth is only one-tenth of a second. In that short time, <b>Atma</b> judges the deceased based on their sin and punya. Atma then decides what the person must eat, drink, and experience at every moment of the second birth. The life of the born is determined by the judgment made in death. How a person will live their next life is decided based on the judgment of their last day. Atma, which is with the deceased person, judges them correctly based on their deeds from childhood. The actions to be taken in the next life are decided according to existing karma. No one can override this decision, and everyone must accept the judgment.
 </div></div>
@@ -2465,9 +2463,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 140,
-verse: `<b>(62)	The Gospel of John, 16th chapter, 12th verse. </b>`,
+verse: `<b>(62)	L'Évangile de Jean, chapitre 16, verset 12. </b>`,
 meaning: `<b>
-(12) I have much more to say to you, more than you can now bear. </b>`,
+(16:12) J'ai bien plus à te dire, plus que ce que tu peux supporter maintenant. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  When God incarnates as a human, it is crucial to carefully impart wisdom, considering people’s moods, and the teachings should be tailored based on the time and context. Divine wisdom needs to be conveyed with sensitivity to the audience’s readiness to receive the truth. Comparatively, if you inform a woman engaged to you that she is already your wife, she may not accept it before the wedding, leading to potential conflict. However, sharing the same information after the wedding would bring happiness without contention. Similarly, when presenting divine wisdom to those who may not tolerate the truth, there is a risk of misunderstanding and opposition. Therefore, even when God takes on human form, the truth must be shared judiciously. For example, if one were to assert that Ravana Brahma is an incarnation of God, contemporary audiences might grasp the concept to some extent. However, had the same statement been made 50 years ago, there may have been disagreement, with people viewing Ravana as evil and monstrous. Hence, there are instances where wisdom that is meant to be shared earlier must be deferred. In this context, Jesus acknowledged this principle when He stated, <b>“I have much more to say to you, more than you can now bear,”</b> to His disciples. Recognizing that it was time for Him to depart from humanity, He informed His disciples that the coming Advocate would convey what He had not spoken.
 </div></div>
@@ -2477,9 +2475,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 141,
-verse: `<b>(63)	The Gospel of John, 16th chapter, 13th verse. </b>`,
+verse: `<b>(63)	L'Évangile de Jean, chapitre 16, verset 13. </b>`,
 meaning: `<b>
-(13) But when He, the Spirit of truth, comes, He will guide you into all the truth. He will not speak on His own; He will speak only what He hears, and He will tell you what is yet to come. </b>`,
+(16:13) Mais quand Lui, l’Esprit de vérité, viendra, Il vous guidera dans toute la vérité. Il ne parlera pas de lui-même ; Il ne dira que ce qu’il entend et il vous dira ce qui est encore à venir. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Jesus prophesied about the forthcoming Advocate. The term ‘Spirit of truth’ signifies the <b>‘God of wisdom.’</b> Jesus conveyed that the God who would come after Him would lead everyone into the truth and communicate only the truth. Despite God taking on human form, behaving in a human manner, Jesus mentioned, “As a human, He teaches nothing on His own; He speaks only what He hears.” If one wonders who informed the Advocate, there is only one source. Since there is only one who is coming, He is the same one conveying the wisdom. Consequently, it is evident that the visible person can also articulate what God has spoken. Only God can communicate God’s wisdom. Rather than stating that humans are incapable of conveying God’s wisdom, it is phrased that the Advocate will speak only what He has heard.
 </div></div>
@@ -2489,11 +2487,11 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 142,
-verse: ` <b>The Gospel of John, 16th chapter, 14th and 15th verses. </b>`,
+verse: ` <b>(64) L'Évangile de Jean, chapitre 16, versets 14 et 15. </b>`,
 meaning: ` <b>
-(14) He will glorify me because it is from me that He will receive what He will make known to you.
+(16:14) Il me glorifiera car c'est de moi qu'Il recevra ce qu'Il vous fera connaître.
 <br><br>
-(15) All that belongs to the Father is mine. That is why I said the Spirit will receive from me that He will make known to you.</b>`,
+(16:15) Tout ce qui appartient au Père est à moi. C'est pourquoi j'ai dit que l'Esprit recevra de moi ce qu'Il vous fera connaître.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   If you look at this verse, some parts make sense while others do not. This verse is like playing a game of hide and seek with people. Earlier, Jesus mentioned that the newly coming Spirit of truth would teach what He hears. Subsequently, in the next verse, He stated that the Advocate would take what He received from Jesus and convey it to the people. Additionally, Jesus asserted that the Advocate would express things that Jesus had not said. However, in the current statement, Jesus mentions that the Advocate would inform the people about what He had received from Jesus. The apparent inconsistency in Jesus’ statements may lead to confusion. Yet, there is a deliberate reason for this ambiguity. Jesus chose to express Himself in a way that <b>those genuinely interested in His wisdom would comprehend, while those lacking interest would not.</b> He further stated that the coming Advocate would share what Jesus had said to glorify Him. Jesus then affirmed that all that belongs to the Father is His, with the Father referring to the Holy Spirit or God. By emphasizing that God’s wisdom is His and that the Advocate would convey what He had received from Jesus, it becomes evident that Jesus and the Holy Spirit are synonymous. Instead of explicitly stating, <b>“I am God,”</b> Jesus phrased it as, <b>“All the words of God are mine.”</b>
 </div></div>
@@ -2503,9 +2501,9 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 143,
-verse: ` <b>(65)	The Gospel of John, 16th chapter, 16th verse. </b>`,
+verse: ` <b>(65)	L'Évangile de Jean, chapitre 16, verset 16. </b>`,
 meaning: `<b>
-(16) Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.” </b>`,
+(16:16) Jésus poursuivit en disant : « Dans peu de temps, vous ne me verrez plus, et puis après un peu de temps, vous me verrez. » </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  Jesus conveyed to His disciples that they would see Him no more after a while, indicating His departure from among the people and the cessation of His appearance to them. He also mentioned that they would see Him again after a little while, implying that He would leave His physical form, not to reappear in the same bodily manifestation. This statement perplexed the disciples, leading them to question why Jesus spoke of seeing Him again after a little while. When Jesus stated, “In a little while, you will see me no more, and then after a little while, you will see me,” some might have wondered if He would temporarily hide and then reappear. However, in a previous instance, Jesus had explained, “I will go. The Advocate will not come to you unless I go. I will go and send Him.” Thus, Jesus was suggesting that He would fulfill His promise to depart, and after some time, they would see Him again through the coming Advocate, who was also Jesus. In this context, the verse becomes coherent when one realizes that the one (Jesus) departing and the one (Advocate) returning are identical. Jesus emphasized that seeing either one of them is equivalent to seeing only one, as Jesus and the Advocate are one and the same.
 </div></div>
@@ -2515,19 +2513,19 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 144,
-verse: ` <b>The Gospel of John, 16th chapter, 17th, 18th, 19th, 20th, 21st and 22nd verses. </b>`,
+verse: ` <b>(66) L'Évangile de Jean, chapitre 16, versets 17, 18, 19, 20, 21 et 22. </b>`,
 meaning: `<b>
-(17) At this, some of his disciples said to one another, “What does He mean by saying, ‘In a little while you will see me no more, and then after a little while you will see me,’ and ‘Because I am going to the Father’?”
+(16:17) Alors quelques-uns de ses disciples se dirent entre eux : « Que veut-il dire en disant : Dans peu de temps vous ne me verrez plus, et puis dans peu de temps vous me verrez ? « Parce que je vais chez le Père » ?
 <br><br>
-(18) They kept asking, “What does He mean by ‘a little while’? We don’t understand what He is saying.”
+(16:18) Ils n’arrêtaient pas de demander : « Que veut-Il dire par « un peu de temps » ? Nous ne le faisons pas comprenez ce qu’Il ​​dit.
 <br><br>
-(19) Jesus saw that they wanted to ask Him about this, so He said to them, “Are you asking one another what I meant when I said, ‘In a little while you will see me no more, and then after a little while you will see me’?
+(16:19) Jésus vit qu'ils voulaient l'interroger à ce sujet, alors il leur dit : « Vous demandez-vous mutuellement ce que je voulais dire quand je vous ai dit : « Dans peu de temps, vous ne me verrez plus, et puis après tu me verras dans un moment' ?
 <br><br>
-(20) Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.
+(16:20) En vérité, je vous le dis, vous pleurerez et vous pleurerez tandis que le monde se réjouira. Vous serez affligé, mais votre chagrin se transformera en joie.
 <br><br>
-(21) A woman giving birth to a child has pain because her time has come; but when her baby is born, she forgets the anguish because of her joy that a child is born into the world.
+(16:21) Une femme qui accouche d'un enfant souffre parce que son heure est venue ; mais quand son bébé naît, elle oublie l'angoisse à cause de sa joie qu'un enfant naisse au monde.
 <br><br>
-(22) So, with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy. </b>`,
+(16:22) Ainsi, avec vous : C'est maintenant votre temps de chagrin, mais je vous reverrai et vous vous réjouirez, et personne ne vous enlèvera votre joie. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">   When Jesus uttered the words, “In a little while, you will see me no more, and then after a little while you will see me,” people found it challenging to comprehend. In response, Jesus illustrated the concept using a parable of a woman giving birth. He conveyed that, just as the woman experiences pain during childbirth, the disciples would undergo some distress due to His departure. However, He reassured them that they would experience joy and gladness akin to the woman who forgets the pain once the child is born. Jesus addressed those present, acknowledging that there would be a period of pain caused by His leaving, but emphasized that this sorrow would be eclipsed by the joy upon His return.
 </div></div>
@@ -2537,21 +2535,21 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 chapterName: "L'Évangile de Jean",
 chapterNumber: 5,
 pageNumber: 145,
-verse: ` <b>(67)	The Gospel of John, 16th chapter, 25th verse. </b>`,
+verse: ` <b>(67)	L'Évangile de Jean, chapitre 16, verset 25. </b>`,
 meaning: `<b>
-(25) Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father.   </b>`,
+(16:25) Bien que j'aie parlé au sens figuré, un temps vient où je n'utiliserai plus ce genre de langage mais où je vous parlerai clairement de mon Père.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">  The words of Jesus, as mentioned earlier, were acknowledged to be obscure, causing difficulty for people to understand and leading to confusion. Jesus Himself admitted to speaking figuratively to prevent immediate understanding. He also asserted, “I will not say figuratively in the future. I will tell you everything clearly.” However, even this statement appears somewhat ambiguous. Jesus declared that He would depart soon, and the Advocate with the Holy Spirit would come to elucidate everything. He clarified that the Advocate would only come if He left and that the disciples would be saddened by His departure but would rejoice upon seeing Him again. Now, He adds, <b>“So far, I said obscurely. When I come back, I will tell you everything clearly.”</b> This statement introduces a degree of uncertainty regarding whether the one coming is a different Advocate or if Jesus Himself will return.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Scripture of John Revelation",
+chapterName: "L'Écriture de l'Apocalypse de Jean",
 chapterNumber: 6,
 pageNumber: 146,
-verse: ` <b>(14)	The John Revelation, 9th chapter, 4th, 5th and 6th verses.</b>`,
+verse: ` <b>(1)	L'Apocalypse de Jean, chapitre 9, versets 4, 5 et 6.</b>`,
 meaning: `<b>
-(4) They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads.
+(9:4) Il leur fut dit de ne pas nuire à l'herbe de la terre, ni à aucune plante ou arbre, mais seulement aux personnes qui n'avaient pas le sceau de Dieu sur le front.
 <p>
 <div class="container">
           <img src="assets/img/Devunimudra_inside.png"   style="width:100%;">
@@ -2578,9 +2576,9 @@ meaning: `<b>
            </div>
         </div>
 </p>
-(5) They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes.
+(9:5) Ils n'étaient pas autorisés à les tuer mais seulement à les torturer pendant cinq mois. Et l'agonie qu'ils souffraient était semblable à celle de la piqûre d'un scorpion lorsqu'il frappe.
 <br><br>
-(6) During those days people will seek death but will not find it; they will long to die, but death will elude them. </b>`,
+(9:6) Durant ces jours-là, les gens chercheront la mort mais ne la trouveront pas ; ils désireront mourir, mais la mort leur échappera. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"> <div class="poemtext">  The third verse preceding these verses, Revelation 9:3, states, <b>“Out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth.”</b> This verse indicates that the locusts emerged from the smoke. However, the smoke referred to here is not produced by burning wood or other materials. Instead, it is a dense cloud that appears at dawn on a winter day when the sun has not yet risen. This cloud reduces sunlight and creates darkness. The locust swarms come from this dark cloud. As they arrive on the earth in large groups like an army, they are known as “locust swarms.” No one knows exactly where the locusts come from, but they are believed to originate from the sky’s cloudy mist. Their birth and growth remain a mystery, and they emerge from the smoke in the void without any clear origin. Locust swarms can number in the hundreds, thousands, or even millions.
 
@@ -2595,7 +2593,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "Three Fingers",
+chapterName: "Trois doigts",
 chapterNumber: 7,
 pageNumber: 147,
 verse: ``,
@@ -2615,7 +2613,7 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "Good Friday! - Bad Friday!",
+chapterName: "Vendredi saint ou mauvais vendredi ?",
 chapterNumber: 8,
 pageNumber: 148,
 verse: ``,
@@ -2638,7 +2636,7 @@ Although one thousand persons negate - truth cannot become a lie.
 </span>`
 },
 {
-chapterName: "A Letter From A Hindu",
+chapterName: "Une lettre d'un hindou",
 chapterNumber: 9,
 pageNumber: 149,
 verse: ``,
@@ -2737,7 +2735,7 @@ Sri Sri Sri Acharya Prabodhananda Yogeeswarulu
 </p>`
 },
 {
-chapterName: "Glossary",
+chapterName: "GLOSSAIRE",
 chapterNumber: 11,
 pageNumber: 151,
 verse: ``,
@@ -2821,7 +2819,7 @@ sacrifices (yajnas), penances (tapas) etc.
 </div>`
 },
 {
-chapterName: "Videos",
+chapterName: "Vidéo",
 chapterNumber: 12,
 pageNumber: 152,
 verse: `
@@ -2886,477 +2884,477 @@ verse: `
       title: "L'Évangile selon Matthieu", component: null, chapterNumber: 2, icon: 'book',
       subs: [
         {
-          shloka: "3-7. You brood of vipers...",
+          shloka: "(3:7)  Engeance de vipères ! Qui vous a averti de fuir la colère à venir ?",
           component: 2,
           subs: null
         },
         {
-          shloka: "3-11. I baptize you with water...",
+          shloka: "(3:11) Je te baptise avec de l'eau pour changer de manas (esprit). Mais après moi vient celui qui est plus puissant que moi, dont je ne suis pas digne de porter les sandales. Il vous baptisera du Saint-Esprit et de feu.",
           component: 3,
           subs: null
         },
         {
-          shloka: "3-12. His winnowing fork...",
+          shloka: "(3:12) Son van est dans Sa main, et Il nettoiera Son aire de battage, rassemblant Son blé dans le grenier et brûlant la balle avec un feu qui ne s'éteint pas.",
           component: 4,
           subs: null
         },
         {
-          shloka: "3-16. As soon as Jesus was...",
+          shloka: "(3:16) Dès que Jésus fut baptisé, Il sortit de l'eau. À ce moment-là, le ciel s’ouvrit et Il vit l’Esprit de Dieu descendre comme une colombe et se poser sur Lui.",
           component: 5,
           subs: null
         },
         {
-          shloka: "3-17. And a voice from the sky...",
+          shloka: "(3:17) Et une voix venant du ciel dit : « Celui-ci est mon fils que j'aime ; avec lui, je suis  très content.",
           component: 5,
           subs: null
         },
         {
-          shloka: "4-10. Jesus said to him, “Away from me...",
+          shloka: "(4:10) Jésus lui dit : « Loin de moi, Satan ! Car il est écrit : Adorez le Seigneur ton Dieu et ne sers que Lui.",
           component: 6,
           subs: null
         },
         {
-          shloka: "5-10. Blessed are those who are persecuted...",
+          shloka: "(5:10) Bienheureux ceux qui sont persécutés à cause de la justice (la sagesse), car à eux est le royaume de paraloka.",
           component: 7,
           subs: null
         },
         {
-          shloka: "5-17. Do not think that I have come to abolish...",
+          shloka: "(5:17) Ne pensez pas que je suis venu pour abolir la Loi (Dharma Shastra) ou les Prophètes ; Je ne suis pas venu pour les abolir mais pour les accomplir.",
           component: 8,
           subs: null
         },
         {
-          shloka: "5-18. For truly I tell you, until sky and earth...",
+          shloka: "(5:18) Car en vérité, je vous le dis, jusqu'à ce que le ciel et la terre disparaissent, pas la plus petite lettre, pas le moindre trait de plume ne disparaîtra de quelque manière que ce soit de la Loi (Dharma Shastra) jusqu'à ce que tout soit accompli.",
           component: 9,
           subs: null
         },
         {
-          shloka: "5-19. Therefore, anyone who sets aside...",
+          shloka: "(5:19) Par conséquent, quiconque met de côté l'un de ces moindres commandements et enseigne aux autres en conséquence sera appelé le moindre dans le royaume de paraloka, mais quiconque pratique et enseigne ces commandements sera appelé grand dans le royaume de paraloka.",
           component: 10,
 
           subs: null
         },
         {
-          shloka: "5-20. For I tell you that unless...",
+          shloka: "(5:20) Car je vous dis qu'à moins que votre justice ne surpasse celle des pharisiens et des docteurs de la loi, vous n'entrerez certainement pas dans le royaume de paraloka.",
           component: 11,
           subs: null
         },
         {
-          shloka: "5-28. But I tell you that anyone...",
+          shloka: "(5:28) Mais je vous dis que quiconque regarde une femme avec convoitise a déjà commis un adultère avec elle dans son cœur.",
           component: 12,
           subs: null
         },
         {
-          shloka: "5-29. If your right eye causes you...",
+          shloka: "(5:29) Si ton œil droit te fait trébucher, arrache-le et jette-le. Il vaut mieux que vous perdiez une partie de votre corps plutôt que de jeter tout votre corps en enfer.",
           component: 13,
 
           subs: null
         },
         {
-          shloka: "5-30. And if your right hand causes...",
+          shloka: "(5:30) Et si ta main droite te fait trébucher, coupe-la et jette-la. Il est préférable que vous perdiez une partie de votre corps plutôt que tout votre corps aille en enfer.",
           component: 13,
 
           subs: null
         },
         {
-          shloka: "6-3. But when you do dharma...",
+          shloka: "(6:3) Mais lorsque vous pratiquez le dharma, ne laissez pas votre main gauche savoir ce que fait votre main droite.",
           component: 14,
 
           subs: null
         },
         {
-          shloka: "6-4. So that your giving may be in...",
+          shloka: "(6:4) Afin que votre don se fasse en secret. Alors ton père, qui voit ce qui se fait en secret, te récompensera.",
           component: 14,
 
           subs: null
         },
         {
-          shloka: "6-6. But when you pray, go into your...",
+          shloka: "(6:6) Mais quand tu pries, va dans ta chambre, ferme la porte et prie ton Père, qui est invisible. Alors ton père, qui voit ce qui se fait en secret, te récompensera.",
           component: 15,
 
           subs: null
         },
         {
-          shloka: "6-7. When you pray, do not keep...",
+          shloka: "(6:7) Lorsque vous priez, ne babillez pas comme les païens, car ils pensent qu'ils seront exaucés à cause de leurs nombreuses paroles.",
           component: 16,
 
           subs: null
         },
         {
-          shloka: "6-8. Do not be like them, for your...",
+          shloka: "(6:8) Ne soyez pas comme eux, car votre père sait ce dont vous avez besoin avant que vous le lui demandiez.",
           component: 16,
 
           subs: null
         },
         {
-          shloka: "7-7. Ask and it will be given to you...",
+          shloka: "(7:7) Demandez et il vous sera donné ; cherchez et vous trouverez ; frappez et la porte vous sera ouverte.",
           component: 18,
           subs: null
         },
         {
-          shloka: "7-8. For everyone who asks receives...",
+          shloka: "(7:8) Car quiconque demande reçoit ; celui qui cherche trouve ; et à celui qui frappe, la porte s'ouvrira.",
           component: 18,
           subs: null
         },
         {
-          shloka: "7-13. Enter through the narrow gate...",
+          shloka: "(7:13) Entrez par la porte étroite. Car large est la porte et large est le chemin qui mènent à la perdition, et beaucoup entrent par là.",
           component: 17,
           subs: null
         },
         {
-          shloka: "7-14. But small is the gate and...",
+          shloka: "(7:14) Mais petite est la porte et resserré le chemin qui mène à la vie, et seuls quelques-uns les trouvent.",
           component: 17,
           subs: null
         },
 
         {
-          shloka: "7-15. Watch out for false prophets...",
+          shloka: "(7:15) Faites attention aux faux prophètes. Ils viennent à vous déguisés en mouton, mais intérieurement, ce sont des loups féroces.",
           component: 19,
           subs: null
         },
         {
-          shloka: "7-21. Not everyone who says to me...",
+          shloka: "(7:21) Tous ceux qui me disent : « Seigneur, Seigneur » n’entreront pas dans le royaume de paraloka, mais seulement celui qui fait la volonté de mon Père qui est en paraloka.",
           component: 20,
           subs: null
         },
         {
-          shloka: "7-22. Many will say to me on that day...",
+          shloka: "(7:22) Beaucoup me diront ce jour-là : « Seigneur, Seigneur, n’avons-nous pas prophétisé en ton nom et en ton nom chassé les démons et, en ton nom n’avons-nous pas accompli de nombreux miracles ?",
           component: 21,
           subs: null
         },
         {
-          shloka: "7-23. Then I will tell them plainly...",
+          shloka: "(7:23) Alors je leur dirai clairement : « Je ne vous ai jamais connu. Loin de moi, vous les malfaiteurs ! »",
           component: 21,
           subs: null
         },
         {
-          shloka: "8-22. Jesus told him, “Follow me...",
+          shloka: "(8:22) Jésus lui dit : « Suis-moi et laisse les morts enterrer leurs propres morts. »",
           component: 22,
 
           subs: null
         },
         {
-          shloka: "9-12. On hearing this, Jesus said...",
+          shloka: "(9:12) En entendant cela, Jésus dit : « Ce ne sont pas les bien portants qui ont besoin d’un médecin, mais les malades. »",
           component: 23,
 
           subs: null
         },
         {
-          shloka: "9-13. For I have not come to cal...",
+          shloka: "(9:13) Car je ne suis pas venu appeler des justes, mais des pécheurs.",
           component: 23,
 
           subs: null
         },
         {
-          shloka: "8-23. Then he got into the boat... ",
+          shloka: "(8:23) Puis il monta dans la barque et ses disciples le suivirent.",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-24. Suddenly a furious storm...",
+          shloka: "(8:24) Soudain, une violente tempête s'éleva sur le lac, de sorte que les vagues balayèrent le bateau. Mais Jésus dormait.",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-25. The disciples went and wok...",
+          shloka: "(8:25) Les disciples allèrent le réveiller en disant : « Seigneur, sauve-nous ! Nous allons nous noyer !",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-26. He replied, “You of little faith...",
+          shloka: "(8:26) Il répondit : « Toi de peu de foi, pourquoi as-tu si peur ? » Puis il se leva et réprimanda les vents et les vagues, et tout fut complètement calme.",
           component: 24,
           subs: null
         },
         {
-          shloka: "9-6. I want you to know that the Son...",
+          shloka: "(9:6) Je veux que vous sachiez que le Fils de l'homme a l'autorité sur terre pour pardonner les péchés. Alors, il dit au paralysé : « Lève-toi, prends ton tapis et rentre chez toi. » Puis l'homme s'est levé et est rentré chez lui.",
           component: 25,
 
           subs: null
         },
         {
-          shloka: "10-20. For it will not be you speaking...",
+          shloka: "(10:20) Car ce n'est pas vous qui parlerez, mais l'Esprit de votre Père qui parlera à travers vous.",
           component: 26,
 
           subs: null
         },
         {
-          shloka: "10-30. Even the very hairs of your...",
+          shloka: "(10 :30) Même les cheveux de votre tête sont tous comptés.",
           component: 27,
 
           subs: null
         },
         {
-          shloka: "10-34. Do not suppose that I have...",
+          shloka: "(10:34) Ne pensez pas que je suis venu apporter la paix sur la terre. Je ne suis pas venu apporter la paix, mais une épée.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-35. For I have come to turn...",
+          shloka: "(10:35) Car je suis venu pour retourner « un homme contre son père, une fille contre son père » mère, une belle-fille contre sa belle-mère.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-36. A man’s enemies will be...",
+          shloka: "(10:36) Les ennemis d’un homme seront les membres de sa propre maison.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-37. Anyone who loves their father...",
+          shloka: "(10:37) Celui qui aime son père ou sa mère plus que moi n'est pas digne de moi ; quiconque aime son fils ou sa fille plus que moi n'est pas digne de moi.",
           component: 29,
           subs: null
         },
         {
-          shloka: "10-38. Whoever does not take up... ",
+          shloka: "(10:38) Celui qui ne prend pas sa croix et ne me suit n'est pas digne de moi.",
           component: 30,
           subs: null
         },
         {
-          shloka: "10-40. Anyone who welcomes (receives)...",
+          shloka: "(10:40) Celui qui te reçoit me reçoit, et celui qui me reçoit reçoit celui qui m'a envoyé.",
           component: 31,
           subs: null
         },
         {
-          shloka: "11-9. What did you go out to see?...",
+          shloka: "(11:9) Qu’es-tu sorti voir ? Un prophète ? Oui, je vous le dis, et (je suis) plus qu'un prophète.",
           component: 32,
           subs: null
         },
         {
-          shloka: "11-28. Come to me, all you who are...",
+          shloka: "(11:28) Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos",
           component: 33,
           subs: null
         },
         {
-          shloka: "12-17. This was to fulfill what was...",
+          shloka: "(12:17) C'était pour accomplir ce qui avait été annoncé par l'intermédiaire du prophète Isaïe.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-18. Here is my servant whom...",
+          shloka: "(12:18) Voici mon serviteur que j'ai choisi, celui que j'aime, en qui je prends plaisir ; Je mettrai mon Esprit sur lui",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-19. He will proclaim justice (wisdom)...",
+          shloka: "(12:19) Il proclamera la justice (la sagesse) aux nations ; Il ne se disputera pas et ne criera pas ; personne n’entendra sa voix dans les rues.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-20. A bruised reed he will not break...",
+          shloka: "(12:20) Il ne brisera pas un roseau meurtri, et il n'éteindra pas une mèche qui couve, jusqu'à ce qu'il ait amené la justice (la sagesse) à la victoire.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-21. In his name the nations wil...",
+          shloka: "(12:21) En son nom les nations placeront leur espérance.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-31. So, I tell you, every kind of sin...",
+          shloka: "(12:31) Ainsi, je vous le dis, toute sorte de péché et de calomnie peut être pardonné, mais le blasphème contre l'Esprit (Atma) ne sera pas pardonné.",
           component: 35,
           subs: null
         },
         {
-          shloka: "12-32. Anyone who speaks a word against...",
+          shloka: "(12:32) Quiconque prononcera une parole contre le Fils de l'Homme sera pardonné, mais quiconque parlera contre le Saint-Esprit ne sera pas pardonné, ni dans cet âge (yuga) ni dans l'âge (yuga) à venir.",
           component: 36,
 
           subs: null
         },
         {
-          shloka: "12-36. But I tell you that everyone...",
+          shloka: "(12:36) Mais je vous dis que chacun devra rendre compte au jour du jugement de chaque parole creuse qu'il aura prononcée.",
           component: 37,
           subs: null
         },
         {
-          shloka: "12-37. For by your words you...",
+          shloka: "(12:37) Car par tes paroles tu seras acquitté, et par tes paroles tu seras condamné.",
           component: 37,
           subs: null
         },
         {
-          shloka: "12-40. For as Jonah was three days...",
+          shloka: "(12:40) Car, comme Jonas fut trois jours et trois nuits dans le ventre d'un énorme poisson, de même le Fils de l'homme sera trois jours et trois nuits dans le sein de la terre.",
           component: 38,
 
           subs: null
         },
         {
-          shloka: "13-13. Though seeing, they do not...",
+          shloka: "(13:13) Bien qu'ils voient, ils ne voient pas ; bien qu’ils entendent, ils n’entendent ni ne comprennent.",
           component: 39,
           subs: null
         },
         {
-          shloka: "13-14. In them is fulfilled the prophecy...",
+          shloka: "(13:14) En eux s'accomplit la prophétie d'Isaïe : Vous entendrez toujours mais vous ne comprendrez jamais ; vous verrez toujours mais ne percevrez jamais.",
           component: 39,
           subs: null
         },
         {
-          shloka: "13-15. For this people’s heart has become...",
+          shloka: "(13:15) Car le cœur de ce peuple est devenu insensible ; ils entendent à peine avec leurs oreilles et ils ont fermé les yeux. Autrement, ils pourraient voir de leurs yeux, entendre de leurs oreilles, comprendre de leur cœur et se tourner, et je les guérirais.",
           component: 39,
           subs: null
         },
         {
-          shloka: "15-7. You hypocrites! Isaiah was...",
+          shloka: "(15:7) Hypocrites! Isaïe avait raison lorsqu’il a prophétisé à votre sujet.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-8. These people honor me with their lips...",
+          shloka: "(15:8) Ces gens m'honorent des lèvres, mais leur cœur est loin de moi",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-9. They worship me in vain;...",
+          shloka: "(15:9) Ils m'adorent en vain ; leurs enseignements ne sont que des règles humaines.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-11. What goes into someone’s mouth...",
+          shloka: "(15:11) Ce qui entre dans la bouche de quelqu'un ne le souille pas, mais ce qui vient ce qui sort de leur bouche, c'est ce qui les souille.",
           component: 41,
           subs: null
         },
         {
-          shloka: "15-12. Then the disciples came to...",
+          shloka: "(15:12) Alors les disciples vinrent vers lui et lui demandèrent : « Savez-vous que les pharisiens ont été offensés en entendant cela ?",
           component: 42,
           subs: null
         },
         {
-          shloka: "15-13. He replied, “Every plant that...",
+          shloka: "(15:13) Il répondit : « Toute plante que mon Père céleste n’a pas plantée sera arrachée par les racines. »",
           component: 42,
           subs: null
         },
         {
-          shloka: "15-14. Leave them; they are blind...",
+          shloka: "(15:14) Laissez-les ; ce sont des guides aveugles. Si un aveugle conduit un aveugle, tous deux tomberont dans une fosse.",
           component: 43,
           subs: null
         },
         {
-          shloka: "16-21. From that time on Jesus began...",
+          shloka: "(16:21) À partir de ce moment-là, Jésus commença à expliquer à ses disciples qu'il devait aller à Jérusalem et souffrir beaucoup de choses de la part des anciens, des principaux sacrificateurs et des docteurs de la loi, et qu'il devait être tué. et le troisième jour ressuscitera. (Première fois",
           component: 44,
           subs: null
         },
         {
-          shloka: "16-22. Peter took him aside and began...",
+          shloka: `(16:22) Pierre le prit à part et commença à le réprimander. "Jamais, Seigneur!" dit-il. "Cela ne vous arrivera jamais!"`,
           component: 44,
           subs: null
         },
         {
-          shloka: "17-22. When they came together...",
+          shloka: "(17:22) Lorsqu'ils se rassemblèrent en Galilée, il leur dit : « Le Fils de l'homme va être livré entre les mains des hommes. »",
           component: 44,
           subs: null
         },
         {
-          shloka: "17-23. They will kill him, and on the...",
+          shloka: "(17:23) Ils le tueront, et le troisième jour il ressuscitera. Et les disciples furent remplis de tristesse. (Deuxième fois)",
           component: 44,
           subs: null
         },
         {
-          shloka: "19-23. Then Jesus said to his disciples...",
+          shloka: "(19:23) Alors Jésus dit à ses disciples : « En vérité, je vous le dis ; il est difficile pour quelqu'un de riche d'entrer dans le royaume de paraloka",
           component: 45,
           subs: null
         },
         {
-          shloka: "19-24. Again, I tell you, it is easier...",
+          shloka: "(19:24) Encore une fois, je vous le dis, il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.",
           component: 45,
           subs: null
         },
         {
-          shloka: "20-17. Now Jesus was going up...",
+          shloka: "(20:17) Or Jésus montait à Jérusalem. En chemin, il prit les Douze à part et leur dit ",
           component: 44,
           subs: null
         },
         {
-          shloka: "20-18. We are going up to Jerusalem...",
+          shloka: "(20:18) Nous montons à Jérusalem, et le Fils de l'homme sera livré aux principaux sacrificateurs et aux docteurs de la loi. Ils le condamneront à mort.",
           component: 44,
           subs: null
         },
         {
-          shloka: "20-19. They will hand him over to...",
+          shloka: "(20:19) Ils le livreront aux païens pour qu'ils se moquent, qu'ils soient fouettés et crucifié. Le troisième jour, il ressuscitera ! (Troisième fois)",
           component: 44,
           subs: null
         },
         {
-          shloka: "22-36. Teacher, which is the greatest...",
+          shloka: "(22:36) Maître, quel est le plus grand commandement de la Loi (Dharma Shastra) ?",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-37. Jesus replied: “Love the Lord...",
+          shloka: "(22:37) Jésus répondit : « Aime le Seigneur ton Dieu de tout ton cœur et de tout ton cœur. ton âme et de tout ton esprit.",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-38. This is the first and greatest...",
+          shloka: "(22:38) C'est le premier et le plus grand commandement.",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-39. And the second is like it...",
+          shloka: "(22:39) Et la seconde est semblable : « Aime ton prochain comme toi-même. »",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-40. All the Law and the Prophets...",
+          shloka: "(22:40) Toute la Loi et les Prophètes dépendent de ces deux commandements.",
           component: 46,
           subs: null
         },
         {
-          shloka: "23-8. But you are not to be called...",
+          shloka: "(23:8) « Mais vous ne devez pas être appelé « Rabbi », car vous avez un seul Maître, et vous êtes tous frères.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-9. And do not call anyone on earth...",
+          shloka: "(23: 9) Et n’appelez personne sur terre « père », car vous avez un seul Père, et il est dans paraloka.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-10. Nor are you to be called instructors...",
+          shloka: "(23:10) Vous ne devez pas non plus être appelés instructeurs, car vous avez un seul instructeur, le Messie.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-15. Woe to you, teachers of the law...",
+          shloka: "(23:15) « Malheur à vous, docteurs de la loi et pharisiens, hypocrites ! Vous voyagez sur terre et sur mer pour gagner un seul converti, et lorsque vous avez réussi, vous en faites deux fois plus un enfant de l'enfer que vous.",
           component: 48,
           subs: null
         },
         {
-          shloka: " 24-35. Sky and earth will pass away...",
+          shloka: "(24:35) Le ciel et la terre passeront, mais mes paroles ne passeront jamais.",
           component: 49,
           subs: null
         },
         {
-          shloka: "24-42. Therefore, keep watch, because...",
+          shloka: "(24:42) Veillez donc, car vous ne savez pas quel jour votre Seigneur viendra.",
           component: 50,
           subs: null
         },
         {
-          shloka: "26-26. While they were eating, Jesus ...",
+          shloka: "(26:26) Pendant qu'ils mangeaient, Jésus prit du pain, et après avoir rendu grâce, il le rompit et le donna à ses disciples, en disant : « Prenez et mangez ; c'est mon corps.",
           component: 51,
           subs: null
         },
         {
-          shloka: "26-27. Then he took a cup, and when...",
+          shloka: "(26:27) Puis il prit une coupe, et après avoir rendu grâce, il la leur donna en disant : « Buvez-en tous.",
           component: 51,
           subs: null
         },
         {
-          shloka: "26-28. This is my blood of the covenant...",
+          shloka: "(26:28) Ceci est mon sang de l'alliance (la sagesse de Dieu sans les liens de l'ignorance), qui est versé pour beaucoup pour le pardon des péchés.",
           component: 51,
           subs: null
         },
         {
-          shloka: "28-18. Then Jesus came to them and...",
+          shloka: "(28:18) Alors Jésus vint vers eux et dit : « Tout pouvoir à Paraloka et sur terre m'a été donné.",
           component: 52,
           subs: null
         },
         {
-          shloka: "28-19. Therefore, go and make disciples...",
+          shloka: "(28:19) Allez donc faire de toutes les nations des disciples, en les baptisant au nom du Père, du Fils et du Saint-Esprit.",
           component: 53,
           subs: null
         },
         {
-          shloka: "28-20. Teaching them to obey everything...",
+          shloka: "(28:20) Apprenez-leur à obéir à tout ce que je vous ai commandé. Et sûrement, je suis toujours avec vous, jusqu'à la fin des temps (Yuga).",
           component: 53,
           subs: null
         },
@@ -3367,112 +3365,112 @@ verse: `
       title: "L'Évangile de Marc", component: null, chapterNumber: 3, icon: 'book',
       subs: [
         {
-          shloka: "2-19. How can the guests of the...",
+          shloka: "(2:19) Comment les invités de l'époux peuvent-ils jeûner pendant qu'il est avec eux ? Ils ne le peuvent pas, tant qu’ils l’ont avec eux.",
           component: 54,
           subs: null
         },
         {
-          shloka: "2-20. But the time will come when...",
+          shloka: "(2:20) Mais le temps viendra où l'époux leur sera enlevé, et ce jour-là ils jeûneront.",
           component: 54,
           subs: null
         },
         {
-          shloka: "4t-38. Jesus was in the stern,...",
+          shloka: "(4:38) Jésus était à l'arrière, dormant sur un coussin. Les disciples le réveillèrent et lui dit : « Maître, cela ne vous dérange pas si nous nous noyons ?",
           component: 55,
           subs: null
         },
         {
-          shloka: "4-39. He got up, rebuked the wind...",
+          shloka: "(4:39) Il se leva, réprimanda le vent et dit aux vagues : « Silence ! Restez tranquille ! Puis le vent s'est calmé et c'était complètement calme.",
           component: 55,
           subs: null
         },
         {
-          shloka: "5-38. When they came to the home...",
+          shloka: "(5:38) Lorsqu'ils arrivèrent chez le chef de la synagogue, Jésus vit une agitation, avec des gens qui pleuraient et se lamentaient fort.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-39. He went in and said to them...",
+          shloka: "(5:39) Il entra et leur dit : « Pourquoi toute cette agitation et ces lamentations ? L'enfant n'est pas mort mais endormi.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-40. But they laughed at him...",
+          shloka: "(5:40) Mais ils se sont moqués de lui. Après les avoir tous éteints, il a emmené le père de l'enfant et la mère et les disciples qui étaient avec lui et entrèrent là où était l'enfant.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-41. He took her by the hand...",
+          shloka: "(5:41) Il lui prit la main et lui dit : « Talitha koum ! » (ce qui signifie « Petite fille, je te le dis, lève-toi ! »).",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-42. Immediately the girl stood...",
+          shloka: "(5:42) Immédiatement, la jeune fille se leva et commença à marcher (elle avait douze ans). À cela, ils furent complètement étonnés.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-43. He gave strict orders not to...",
+          shloka: "(5:43) Il a donné des ordres stricts de ne laisser personne savoir cela et leur a dit de lui donner quelque chose à manger.",
           component: 56,
           subs: null
         },
         {
-          shloka: "7-15. Nothing outside a person...",
+          shloka: "(7:15) Rien en dehors d'une personne ne peut la souiller en entrant en elle. ",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-16. Rather, it is what comes out of a...",
+          shloka: "(7:16) C'est plutôt ce qui sort d'une personne qui la souille.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-17. After he had left the crowd and ...",
+          shloka: "(7:17) Après avoir quitté la foule et être entré dans la maison, ses disciples l'interrogeèrent sur cette parabole.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-18. “Are you so dull?” he asked...",
+          shloka: "(7:18) « Es-tu si ennuyeux ? » il a demandé. « Ne voyez-vous pas que rien de ce qui entre dans un une personne de l'extérieur peut-elle les souiller ?",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-19. For it does not go into their...",
+          shloka: "(7:19) Car cela ne rentre pas dans leur cœur mais dans leur estomac, puis hors de le corps. »",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-20. He went on: “What comes out...",
+          shloka: "(7 :20) Il a poursuivi : « Ce qui sort d’une personne est ce qui la souille.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-21. For it is from within, out of a...",
+          shloka: "(7:21) Car c'est de l'intérieur, du cœur d'une personne, que les mauvaises pensées viennent... l'immoralité sexuelle, le vol, le meurtre,",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-22. dultery, greed, malice, deceit...",
+          shloka: "(7:22) l'adultère, l'avidité, la méchanceté, la tromperie, l'obscénité, l'envie, la calomnie, l'arrogance et la folie.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-23. All these evils come from inside...",
+          shloka: "(7:23) Tous ces maux viennent de l’intérieur et souillent une personne.",
           component: 57,
           subs: null
         },
         {
-          shloka: "3-35. Whoever does God’s will is my...",
+          shloka: "(3:35) Celui qui fait la volonté de Dieu est mon frère, ma sœur et ma mère.",
           component: 58,
           subs: null
         },
         {
-          shloka: "4-17. But since they have no root...",
+          shloka: "(4:17) Mais comme ils n’ont pas de racine, ils ne durent que peu de temps. Quand des troubles ou des persécutions surviennent à cause de la parole, ils disparaissent rapidement.",
           component: 59,
           subs: null
         },
         {
-          shloka: "4-21. He said to them, “Do you...",
+          shloka: "(4:21) Il leur dit : « Apportez-vous une lampe pour la mettre sous un bol ou un lit ? Au lieu de cela, ne le mettez-vous pas sur son support ?",
           component: 60,
           subs: null
         },
@@ -3482,33 +3480,43 @@ verse: `
           subs: null
         },
         {
-          shloka: "6-4. Jesus said to them, “A prophet...",
+          shloka: "(6:4) Jésus leur dit : « Un prophète n'est méprisé que dans sa ville, parmi ses proches et dans sa maison. »",
           component: 61,
           subs: null
         },
         {
-          shloka: "8-38. If anyone is ashamed of me and...",
+          shloka: "(8:38) Si quelqu’un a honte de moi et de mes paroles dans cette génération adultère et pécheresse, le Fils de l’homme aura honte de lui lorsqu’il viendra dans la gloire de son Père avec les saints anges.",
           component: 62,
 
           subs: null
         },
 
         {
-          shloka: ` 9-7. Then a cloud appeared and covered ...`,
+          shloka: `(9:7) Alors une nuée apparut et les couvrit, et une voix sortit de la nuée : « Celui-ci est mon Fils que j'aime. Écoutez-le !`,
           component: 63,
 
           subs: null
         },
         {
-          shloka: `10-17. As Jesus started on his way...`,
+          shloka: `(10:17) Alors que Jésus commençait son chemin, un homme accourut vers lui et tomba à genoux. devant lui. « Bon professeur, a-t-il demandé, que dois-je faire pour hériter de la vie éternelle ?`,
           component: 64,
 
           subs: null
         },
         {
-          shloka: `10-18. “Why do you call me good?”...`,
+          shloka: `(10:18) « Pourquoi m'appelles-tu bon ? » Jésus répondit. « Personne n’est bon, sauf Dieu seul.`,
           component: 64,
 
+          subs: null
+        },
+        {
+          shloka: `(16:15) Il leur dit : « Allez dans le monde entier et prêchez la bonne nouvelle à tous. création.`,
+          component: 65,
+          subs: null
+        },
+        {
+          shloka: `(16:16) Celui qui croira et se fera baptiser sera sauvé, mais celui qui ne croira pas sera condamné.`,
+          component: 65,
           subs: null
         },
 
@@ -3518,125 +3526,113 @@ verse: `
     {
       title: "L'Évangile de Luc", component: null, chapterNumber: 4, icon: 'book',
       subs: [
-
-
         {
-          shloka: `16-15. He said to them, “Go into...`,
-          component: 65,
-          subs: null
-        },
-        {
-          shloka: `16-16. Whoever believes and is...`,
-          component: 65,
-          subs: null
-        },
-        {
-          shloka: `2-49. “Why were you searching for me?”...`,
+          shloka: `(2:49) « Pourquoi me cherchiez-vous ? » il a demandé. « Ne saviez-vous pas que je devais travailler dans les affaires de mon père ?`,
           component: 66,
           subs: null
         },
         {
-          shloka: `11-37. As Jesus was speaking, one...`,
+          shloka: `(11:37) Pendant que Jésus parlait, un des pharisiens l'invita chez lui pour un repas. Alors il entra et prit place à table.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-38. His host was amazed to see...`,
+          shloka: `(11:38) Son hôte fut étonné de voir qu'il s'asseyait pour manger sans avoir au préalable effectué la cérémonie de lavage des mains exigée par la coutume juive.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-39. Then the Lord said to him, “You...`,
+          shloka: `(11:39) Alors le Seigneur lui dit : « Vous, les Pharisiens, faites si attention à nettoyer l'extérieur de la coupe et du plat, mais à l'intérieur vous êtes sales, pleins d'avidité et de méchanceté !`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-40. Fools! Didn’t God make the...`,
+          shloka: `(11:40) Imbéciles ! Dieu n’a-t-il pas créé l’intérieur comme l’extérieur ?`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-41. So, clean the inside by giving...`,
+          shloka: `(11:41) Alors, nettoyez l'intérieur en offrant des cadeaux (dharmas) aux pauvres, et vous serez entièrement pur.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `12-4. I tell you, my friends, do not...`,
+          shloka: `(12:4) Je vous le dis, mes amis, n'ayez pas peur de ceux qui tuent le corps et qui ne peuvent plus rien faire après.`,
           component: 68,
 
           subs: null
         },
         {
-          shloka: `12-5. But I will show you whom you...`,
+          shloka: `(12:5) Mais Je vais vous montrer qui vous devez craindre : Craignez celui qui, après que votre corps a été tué, a le pouvoir de vous jeter en enfer. Oui, je vous le dis, craignez-le.`,
           component: 68,
 
           subs: null
         },
         {
-          shloka: `12-25. Which of you by worrying can...`,
+          shloka: `(12:25) Lequel d'entre vous, en s'inquiétant, peut ajouter une coudée à sa stature ?`,
           component: 69,
 
           subs: null
         },
         {
-          shloka: "12-33. Sell your possessions and give...",
+          shloka: "(12:33) Vendez vos biens et donnez-les aux pauvres. Prévoyez-vous des bourses qui ne s'useront pas, un trésor dans une paraloka qui ne faillira jamais, où aucun voleur ne s'approche et où aucun papillon ne détruit.",
           component: 70,
           subs: null
         },
         {
-          shloka: "12-34. For where your treasure is,...",
+          shloka: "(12:34) Car là où est ton trésor, là sera aussi ton cœur.",
           component: 70,
           subs: null
         },
         {
-          shloka: "12-49. I have come to bring fire...",
+          shloka: "(12:49) Je suis venu apporter le feu sur la terre, et comme j'aimerais qu'il soit déjà allumé.",
           component: 71,
           subs: null
         },
         {
-          shloka: "12-51. Do you think I came to bring...",
+          shloka: "(12:51) Pensez-vous que je suis venu apporter la paix sur terre ? Non, je vous le dis, mais la division.",
           component: 72,
           subs: null
         },
         {
-          shloka: "12-52. From now on there will be five...",
+          shloka: "(12:52) Désormais, dans une même famille, il y en aura cinq divisés les uns contre les autres, trois contre deux et deux contre trois.",
           component: 72,
           subs: null
         },
         {
-          shloka: "12-53. They will be divided, father against...",
+          shloka: "(12:53) Ils seront divisés, père contre fils et fils contre père, mère contre fille et fille contre mère, belle-mère contre belle-fille et belle-fille contre belle-mère.",
           component: 72,
           subs: null
         },
         {
-          shloka: "13-3. Unless you change your mind...",
+          shloka: "(13:3) À moins que vous ne changiez d’avis, vous aussi périrez tous.",
           component: 73,
           subs: null
         },
         {
-          shloka: "14-26. If anyone comes to me and does...",
+          shloka: "(14:26) Si quelqu'un vient à moi et ne hait pas son père et sa mère, sa femme et ses enfants, ses frères et ses sœurs, et même sa propre vie, une telle personne ne peut pas être mon disciple.",
           component: 74,
 
           subs: null
         },
         {
-          shloka: "14-27. Whoever does not carry their...",
+          shloka: "(14:27) quiconque ne porte pas sa croix et ne me suit pas ne peut pas être mon disciple.",
           component: 75,
           subs: null
         },
         {
-          shloka: "18-29. “Truly I tell you,” Jesus said to them...",
+          shloka: "(18:29) «En vérité, je vous le dis», leur dit Jésus, «personne qui a quitté son foyer, ou sa femme, ou ses frères, ou sœurs, ou parents ou enfants, à cause du royaume de Dieu, ne manquera de recevoir plusieurs fois autant. dans ce siècle et dans le siècle à venir, la vie éternelle.",
           component: 76,
           subs: null
         },
         {
-          shloka: "21-15. I will give you words and wisdom...",
+          shloka: "(21:15) Je vous donnerai des paroles et une sagesse auxquelles aucun de vos adversaires ne pourra résister ou contredire.",
           component: 77,
 
           subs: null
         },
         {
-          shloka: "21-17. Everyone will hate you...",
+          shloka: "(21:17) Tout le monde vous détestera à cause de moi.",
           component: 78,
           subs: null
         }
@@ -3650,254 +3646,254 @@ verse: `
       title: "L'Évangile de Jean", component: null, chapterNumber: 5, icon: 'book',
       subs: [
         {
-          shloka: "1-1. In the beginning was the Word...",
+          shloka: "(1:1) Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.",
           component: 79,
           subs: null
         },
         {
-          shloka: "1-9. The true light that gives light...",
+          shloka: "(1:9) La vraie lumière qui éclaire tout le monde venait dans le monde.",
           component: 80,
           subs: null
         },
         {
-          shloka: "1-10. He was in the world, and though...",
+          shloka: "(1:10) Il était dans le monde, et bien que le monde ait été créé à travers lui, le monde ne l'a pas reconnu.",
           component: 81,
           subs: null
         },
         {
-          shloka: "1-11. He came to that which was his...",
+          shloka: "(1:11) Il est venu vers ce qui lui appartenait, mais les siens ne l'ont pas reçu.",
           component: 82,
           subs: null
         },
         {
-          shloka: "1-12. Yet to all who did receive him...",
+          shloka: "(1:12) Pourtant, à tous ceux qui l’ont reçu, à ceux qui ont cru en son nom, il a donné le droit de devenir enfants de Dieu.",
           component: 83,
           subs: null
         },
         {
-          shloka: "1-13. Men born not of natural descent...",
+          shloka: "(1:13) Les hommes nés ni d’une descendance naturelle, ni d’une décision humaine ou de la volonté d’un mari, mais né de Dieu.",
           component: 84,
           subs: null
         },
         {
-          shloka: "1-14. The Word became flesh and made...",
+          shloka: "(1:14) La Parole s'est faite chair et a élu domicile parmi nous. Nous avons vu sa gloire, la gloire du Fils unique, venu du Père, plein de grâce et de vérité.",
           component: 85,
           subs: null
         },
         {
-          shloka: "1-18. No man has seen God at any...",
+          shloka: "(1:18) Aucun homme n’a jamais vu Dieu ; le Fils unique, qui est dans le sein du Père, l'a révélé.",
           component: 86,
           subs: null
         },
         {
-          shloka: "1-51. He then added, “Very truly...",
+          shloka: "(1:51) Il a ensuite ajouté : « En vérité, je vous le dis, vous verrez le ciel s'ouvrir et les anges de Dieu monter et descendre sur le Fils de l'homme. »",
           component: 87,
           subs: null
         },
         {
-          shloka: "3-3. Jesus replied, “Very truly...",
+          shloka: "(3:3) Jésus répondit : « En vérité, je vous le dis, personne ne peut voir le royaume de Dieu à moins ils sont nés de nouveau.",
           component: 88,
           subs: null
         },
         {
-          shloka: "3-4. “How can someone be...",
+          shloka: "(3:4) « Comment quelqu'un peut-il naître quand il est vieux ? » » demanda Nicodème. « Ils ne peuvent sûrement pas entrer une seconde fois dans le ventre de leur mère pour naître ! »",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-5. Jesus answered, “Very truly...",
+          shloka: "(3:5) Jésus répondit : « En vérité, je vous le dis, personne ne peut entrer dans le royaume de Dieu. à moins qu'ils ne soient nés de l'eau et de l'Esprit (Atma).",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-6. Flesh gives birth to flesh, but...",
+          shloka: "(3:6) La chair donne naissance à la chair, mais l'Esprit (Atma) donne naissance à l'esprit.",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-7. You should not be surprise...",
+          shloka: "(3:7) Vous ne devriez pas être surpris de ma parole : « Vous devez naître de nouveau. »",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-8. The wind blows wherever it...",
+          shloka: "(3:8) Le vent souffle où bon lui semble. Vous entendez son son, mais vous ne pouvez pas dire d’où il vient ni où il va. Il en va de même pour tous ceux qui sont nés de l’Esprit (Atma).",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-13. No one has ever gone into...",
+          shloka: "(3:13) Personne n'est jamais allé à Paraloka sauf celui qui venait de Paraloka -le Fils de l'Homme.",
           component: 90,
           subs: null
         },
         {
-          shloka: "3-15. That whosoever believes in him...",
+          shloka: "(3:15) Pour que quiconque croit en Lui ne périsse pas mais ait la vie éternelle.",
           component: 91,
           subs: null
         },
         {
-          shloka: "3-17. For God did not send his Son...",
+          shloka: "(3:17) Car Dieu n'a pas envoyé son Fils dans le monde pour juger le monde, mais pour sauver le monde par Lui.",
           component: 92,
           subs: null
         },
         {
-          shloka: "3-18. Whoever believes in him is...",
+          shloka: "(3:18) Celui qui croit en Lui n’est pas jugé, mais celui qui ne croit pas est déjà jugé parce qu’il n’a pas cru au nom du Fils unique de Dieu.",
           component: 93,
           subs: null
         },
         {
-          shloka: "3=19. This is the verdict: Light has...",
+          shloka: "(3:19) Voici le verdict : La lumière est venue dans le monde, mais les gens ont préféré les ténèbres à la lumière parce que leurs actions étaient mauvaises.",
           component: 94,
           subs: null
         },
         {
-          shloka: "3-20. Everyone who does evil hate...",
+          shloka: "(3:20) Quiconque fait le mal déteste la lumière et ne vient pas à la lumière de peur que ses actes ne soient révélés.",
           component: 94,
           subs: null
         },
         {
-          shloka: "3-21. But whoever lives by the truth...",
+          shloka: "(3:21) Mais quiconque vit selon la vérité vient à la lumière, afin qu'il soit clairement vu que ce qu'il a fait a été fait devant Dieu.",
           component: 94,
           subs: null
         },
         {
-          shloka: "5-19. Jesus gave them this answer:...",
+          shloka: "(5:19) Jésus leur donna cette réponse : « En vérité, je vous le dis, le Fils ne peut rien faire de lui-même ; Il ne peut faire que ce qu’il voit faire son Père, car tout ce que fait le Père, le Fils le fait aussi.",
           component: 95,
           subs: null
         },
         {
-          shloka: "5-20. For the Father loves the Son and...",
+          shloka: "(5:20) Car le Père aime le Fils et lui montre tout ce qu'il fait. Oui, et Il lui montrera des œuvres encore plus grandes que celles-ci, afin que vous en soyez étonnés.",
           component: 96,
           subs: null
         },
         {
-          shloka: "5-21. For just as the Father raises...",
+          shloka: "(5:21) Car, de même que le Père ressuscite les morts et leur donne la vie, de même le Fils donne la vie à qui Il lui plaît de la donner.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-22. Moreover, the Father judges no...",
+          shloka: "(5:22) De plus, le Père ne juge personne, mais a confié tout jugement au Fils.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-23. That all may honor the Son...",
+          shloka: "(5:23) Afin que tous honorent le Fils comme ils honorent le Père. Celui qui n'honore pas le Fils n'honore pas le Père qui l'a envoyé.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-24. Very truly I tell you, whoever...",
+          shloka: "(5:24) En vérité, je vous le dis, quiconque entend ma parole et croit Celui qui m'a envoyé a la vie éternelle et ne sera pas jugé mais est passé de la mort à la vie.",
           component: 98,
           subs: null
         },
         {
-          shloka: "5-26. For as the Father has life...",
+          shloka: "(5:26) Car, de même que le Père a la vie en Lui-même, de même Il a donné au Fils aussi d'avoir la vie en Lui-même.",
           component: 99,
           subs: null
         },
         {
-          shloka: "5-37. You have never heard his voice...",
+          shloka: "(5:37) Vous n’avez jamais entendu Sa voix ni vu Sa forme.",
           component: 100,
           subs: null
         },
         {
-          shloka: "5-38. Nor does his word dwell in...",
+          shloka: "(5:38) Sa parole n'habite pas non plus en vous, car vous ne croyez pas celui qu'Il a envoyé.",
           component: 101,
 
           subs: null
         },
         {
-          shloka: "6-25. When they found him on the...",
+          shloka: "(6:25) Lorsqu'ils le trouvèrent de l'autre côté du lac, ils lui demandèrent : « Rabbi, quand es-tu arrivé ici ?",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-26. Jesus answered, “Very truly...",
+          shloka: "(6:26) Jésus répondit : « En vérité, je vous le dis, vous me cherchez, non pas parce que tu as vu les signes que j'ai accomplis mais parce que tu as mangé les pains et que tu es rassasié.",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-27. Do not work for food that spoils...",
+          shloka: "(6:27) Ne travaillez pas pour une nourriture qui se gâte, mais pour une nourriture qui dure jusqu'à la vie éternelle, que le Fils de l'homme vous donnera. Car sur Lui, Dieu le Père a placé son sceau d’approbation.",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-32. Jesus said to them, “Very truly...",
+          shloka: "(6:32) Jésus leur dit : « En vérité, je vous le dis, ce n'est pas Moïse qui vous a donné le pain de Paraloka, mais c'est mon Père qui vous donne le vrai pain de Paraloka.",
           component: 103,
           subs: null
         },
         {
-          shloka: "6-47. No one has seen the Father...",
+          shloka: "(6:47) Personne n'a vu le Père, sauf celui qui vient de Dieu ; Lui seul a vu le Père.",
           component: 104,
           subs: null
         },
         {
-          shloka: "7-37. On the last and greatest da...",
+          shloka: "(7:37) Le dernier et le plus grand jour de la fête, Jésus se leva et dit d'une voix forte : « Que quiconque a soif vienne à moi et boive. »",
           component: 105,
           subs: null
         },
         {
-          shloka: "7-38. Whoever believes in me, as...",
+          shloka: "(7:38) Quiconque croit en moi, comme le dit l'Écriture, des fleuves d'eau vive couleront de son sein.",
           component: 105,
           subs: null
         },
         {
-          shloka: "8-12. When Jesus spoke again to the...",
+          shloka: "(8:12) Lorsque Jésus parla de nouveau au peuple, il dit : « Je suis la lumière du monde. Celui qui me suit ne marchera jamais dans les ténèbres mais aura la lumière de la vie.",
           component: 106,
           subs: null
         },
         {
-          shloka: "8-14. Jesus answered, “Even if I testify...",
+          shloka: "(8:14) Jésus répondit : « Même si je témoigne en ma propre faveur, mon témoignage est valable, car je sais d'où je viens et où je vais. Mais vous n’avez aucune idée d’où je viens ni où je vais.",
           component: 107,
           subs: null
         },
         {
-          shloka: "8-19t. Then they asked him, “Where...",
+          shloka: "(8:19) Alors ils lui demandèrent : « Où est ton Père ? » « Vous ne me connaissez ni moi ni mon Père », répondit Jésus. « Si vous me connaissiez, vous connaîtriez aussi mon Père. »",
           component: 108,
           subs: null
         },
         {
-          shloka: "8-21. Once more Jesus said to them...",
+          shloka: "(8:21) Jésus leur dit encore une fois : « Je m'en vais, et vous me chercherez, et vous mourrez dans votre péché. Là où je vais, tu ne peux pas venir.",
           component: 109,
           subs: null
         },
         {
-          shloka: "8-23. But he continued, “You are from...",
+          shloka: "(8:23) Mais il continua : « Vous venez d’en bas ; Je viens d'en haut. Vous êtes de ce monde ; Je ne suis pas de ce monde. (8:24) Je t'ai dit que tu mourrais dans tes péchés ; si vous ne croyez pas que je suis Lui, vous mourrez effectivement dans vos péchés.",
           component: 110,
           subs: null
         },
 
         {
-          shloka: "8-24. I told you that you would die...",
+          shloka: "(8:24) Je t'ai dit que tu mourrais dans tes péchés ; si vous ne croyez pas que je suis Lui, vous mourrez effectivement dans vos péchés.",
           component: 111,
           subs: null
         },
         {
-          shloka: "8-28.  So, Jesus said, “When you...",
+          shloka: "(8:28) Ainsi, Jésus a dit : « Quand vous aurez élevé le Fils de l’homme, alors vous saurez que je suis Lui et que je ne fais rien de moi-même, mais je dis simplement ce que le Père m’a enseigné.",
           component: 112,
           subs: null
         },
         {
-          shloka: "8-29. The one who sent me is with...",
+          shloka: "(8:29) Celui qui m'a envoyé est avec moi ; Il ne m'a pas laissé seul, car je fais toujours ce qui Lui plaît.",
           component: 113,
           subs: null
         },
         {
-          shloka: "8-53. Are you greater than our...",
+          shloka: "(8:53) Es-tu plus grand que notre père Abraham ? Il est mort, tout comme les prophètes. Pour qui te prends-tu ?",
           component: 114,
           subs: null
         },
         {
-          shloka: "8-54. Jesus replied, “If I glorify...",
+          shloka: "(8:54) Jésus répondit : « Si je me glorifie, ma gloire ne signifie rien. Mon Père, celui que vous proclamez votre Dieu, c'est celui qui me glorifie.",
           component: 114,
           subs: null
         },
         {
-          shloka: "8-55. Though you do not know ...",
+          shloka: "(8:55) Même si vous ne le connaissez pas, je le connais. Si je disais que non, je serais un menteur comme vous, mais je le connais et j’obéis à sa parole.",
           component: 115,
           subs: null
         },
         {
-          shloka: "8-57. You are not yet fifty years old...",
+          shloka: "(8:57) «Tu n'as pas encore cinquante ans», lui dirent-ils, «et tu as vu Abraham!”.",
           component: 116,
 
           subs: null
@@ -3909,210 +3905,210 @@ verse: `
           subs: null
         },
         {
-          shloka: "9-39. Jesus said, “For judgment I have...",
+          shloka: "(9:39) Jésus a dit : « Je suis venu dans ce monde pour le jugement, afin que les aveugles verront et ceux qui voient deviendront aveugles.",
           component: 117,
           subs: null
         },
         {
-          shloka: "9-41. Jesus said, “If you were blind,...",
+          shloka: "(9 :41) Jésus a dit : « Si vous étiez aveugle, vous ne seriez pas coupable de péché ; mais maintenant que vous prétendez voir, votre culpabilité demeure.",
           component: 118,
 
           subs: null
         },
         {
-          shloka: "10-18. No one takes life from me...",
+          shloka: "(10:18) Personne ne me prend la vie, mais je la donne de mon propre gré. J'ai le pouvoir de le déposer et le pouvoir de le reprendre. Ce commandement, je l'ai reçu de mon Père.",
           component: 119,
 
           subs: null
         },
         {
-          shloka: "10-30.  I and the Father are one...",
+          shloka: "(10:30) Moi et le Père sommes un.",
           component: 120,
           subs: null
         },
         {
-          shloka: "11-25. Jesus said to her, “I am the...",
+          shloka: "(11:25) Jésus lui dit : « Je suis la résurrection et la vie. Celui qui croit en moi vivront, même s'ils meurent.",
           component: 121,
           subs: null
         },
         {
-          shloka: "11-26. Whoever lives by believing in...",
+          shloka: "(11:26) Celui qui vit en croyant en moi ne mourra jamais.",
           component: 122,
           subs: null
         },
         {
-          shloka: "12-25. Anyone who loves their lif...",
+          shloka: "(12:25) Quiconque aime sa vie la perdra, tandis que quiconque déteste sa vie dans ce monde la gardera pour la vie éternelle.",
           component: 123,
           subs: null
         },
         {
-          shloka: "12-40. He has blinded their eyes...",
+          shloka: "(12:40) Il a aveuglé leurs yeux et endurci leur cœur, de sorte qu'ils ne peuvent ni voir de leurs yeux, ni comprendre de leur cœur, ni se tourner – et je les guérirais.",
           component: 124,
           subs: null
         },
         {
-          shloka: "12-47. If anyone hears my words...",
+          shloka: "(12:47) Si quelqu'un entend mes paroles mais ne les tient pas, je ne le juge pas. Car je ne suis pas venu pour juger le monde, mais pour sauver le monde.",
           component: 125,
           subs: null
         },
         {
-          shloka: "12-48. There is a judge for the one...",
+          shloka: "(12:48) Il y a un juge pour celui qui me rejette et n'accepte pas mes paroles ; les paroles mêmes que j'ai prononcées les jugeront au dernier jour.",
           component: 125,
           subs: null
         },
         {
-          shloka: "12-49. For I did not speak on my own...",
+          shloka: "(12:49) Car je n'ai pas parlé de moi-même, mais le Père qui m'a envoyé m'a ordonné de dire tout ce que j'ai dit.",
           component: 126,
           subs: null
         },
         {
-          shloka: "12-50. I know that his command leads...",
+          shloka: "(12:50) Je sais que son commandement mène à la vie éternelle. Donc, quoi que je dise, c’est exactement ce que le Père m’a dit de dire.",
           component: 126,
           subs: null
         },
         {
-          shloka: "14-7. If you really know me, you wi...",
+          shloka: "(14:7) Si vous me connaissez vraiment, vous connaîtrez aussi mon Père. Désormais, vous le connaissez et vous l’avez vu.",
           component: 127,
           subs: null
         },
         {
-          shloka: "14-8. Philip said, “Lord, show us the...",
+          shloka: "(14:8) Philippe dit : « Seigneur, montre-nous le Père et cela nous suffira. »",
           component: 128,
           subs: null
         },
         {
-          shloka: "14-9. Jesus answered: “Don’t you know...",
+          shloka: "(14:9) Jésus répondit : « Ne me connais-tu pas, Philippe, même après avoir été si longtemps parmi toi ? Quiconque m'a vu a vu le Père. Comment pouvez-vous dire : « montre-nous le Père ? »",
           component: 128,
           subs: null
         },
         {
-          shloka: "14-10. Don’t you believe that I am in...",
+          shloka: "(14:10) Ne croyez-vous pas que je suis dans le Père et que le Père est en moi ? Les paroles que je vous dis, je ne les prononce pas avec ma propre autorité. C'est plutôt le Père, vivant en moi, qui fait son œuvre.",
           component: 129,
           subs: null
         },
         {
-          shloka: "14-6. Jesus answered, “I am the way...",
+          shloka: "(14:6) Jésus répondit : « Je suis le chemin, la vérité et la vie. Personne ne vient le Père sauf par moi.",
           component: 130,
           subs: null
         },
         {
-          shloka: "14-16. I will ask the Father, and he will...",
+          shloka: "(14:16) Je demanderai au Père, et Il vous donnera un autre Avocat pour vous aider et être avec vous pour toujours.",
           component: 131,
           subs: null
         },
         {
-          shloka: "14-17. The world cannot accept him...",
+          shloka: "(14:17) Le monde ne peut pas l’accepter parce qu’il ne le voit ni ne le connaît. Mais vous le connaissez, car il vit avec vous et sera en vous.",
           component: 132,
           subs: null
         },
 
         {
-          shloka: "14-20. On that day you will realize...",
+          shloka: "(14:20) Ce jour-là, vous réaliserez que je suis en mon Père, que vous êtes en moi et que je suis en vous.",
           component: 133,
           subs: null
         },
         {
-          shloka: "14-25. All this I have spoken while...",
+          shloka: "(14:25) Tout cela, je l'ai dit alors que j'étais encore avec vous",
           component: 134,
           subs: null
         },
         {
-          shloka: "14-26. But the Advocate, the Holy Spirit...",
+          shloka: "(14:26) Mais l'Avocat, le Saint-Esprit, que le Père enverra en mon nom, vous enseignera toutes choses et vous rappellera tout ce que je vous ai dit.",
           component: 134,
           subs: null
         },
         {
-          shloka: " 15-23. Whoever hates me hates...",
+          shloka: "(15:23) Celui qui me hait hait aussi mon Père.",
           component: 135,
           subs: null
         },
         {
-          shloka: "15-24. If I had not done among them the...",
+          shloka: "(15:24) Si je n'avais pas fait parmi eux les œuvres que personne d'autre n'a faites, ils ne seraient pas coupables de péché. Ils l’ont vu, et pourtant ils m’ont haï, moi et mon Père.",
           component: 136,
           subs: null
         },
         {
-          shloka: "15-25. But this is to fulfill what is...",
+          shloka: "(15:25) Mais c’est pour accomplir ce qui est écrit dans leur Loi : « Ils m’ont haï sans raison. »",
           component: 136,
           subs: null
         },
         {
-          shloka: "15-26. When the Advocate comes... ",
+          shloka: "(15:26) Quand viendra le Défenseur que je vous enverrai de la part du Père – l'Esprit de vérité qui sort du Père – Il témoignera de moi.",
           component: 137,
           subs: null
         },
         {
-          shloka: "15-27. And you also must testify...",
+          shloka: "(15:27) Et toi aussi, tu dois témoigner, car tu es avec moi depuis le début.",
           component: 137,
           subs: null
         },
         {
-          shloka: "16-7. But very truly I tell you, it is for...",
+          shloka: "(16:7) Mais en vérité, je vous le dis, c'est pour votre bien que je m'en vais. Si je ne m'en vais, l'Avocat ne viendra pas vers vous ; mais si je pars, je vous l'enverrai.",
           component: 138,
           subs: null
         },
         {
-          shloka: "16-8. When he comes, he will prov...",
+          shloka: "(16:8) Quand Il viendra, Il prouvera que le monde a tort en matière de péché, de justice et de jugement.",
           component: 139,
           subs: null
         },
         {
-          shloka: "16-12. I have much more to say...",
+          shloka: "(16:12) J'ai bien plus à te dire, plus que ce que tu peux supporter maintenant.",
           component: 140,
           subs: null
         },
         {
-          shloka: "16-13. But when he, the Spirit of truth...",
+          shloka: "(16:13) Mais quand Lui, l’Esprit de vérité, viendra, Il vous guidera dans toute la vérité. Il ne parlera pas de lui-même ; Il ne dira que ce qu’il entend et il vous dira ce qui est encore à venir",
           component: 141,
           subs: null
         },
         {
-          shloka: "16-14. He will glorify me because...",
+          shloka: "(16:14) Il me glorifiera car c'est de moi qu'Il recevra ce qu'Il vous fera connaître.",
           component: 142,
           subs: null
         },
         {
-          shloka: "16t-15. All that belongs to the Father...",
+          shloka: "(16:15) Tout ce qui appartient au Père est à moi. C'est pourquoi j'ai dit que l'Esprit recevra de moi ce qu'Il vous fera connaître.",
           component: 142,
           subs: null
         },
         {
-          shloka: "16-16. Jesus went on to say, “In a...",
+          shloka: "(16:16) Jésus poursuivit en disant : « Dans peu de temps, vous ne me verrez plus, et puis après un peu de temps, vous me verrez. »",
           component: 143,
           subs: null
         },
         {
-          shloka: "16-17. At this, some of his disciple...",
+          shloka: "(16:17) Alors quelques-uns de ses disciples se dirent entre eux : « Que veut-il dire en disant : Dans peu de temps vous ne me verrez plus, et puis dans peu de temps vous me verrez ? « Parce que je vais chez le Père » ?",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-18. They kept asking, “What does...",
+          shloka: "(16:18) Ils n’arrêtaient pas de demander : « Que veut-Il dire par « un peu de temps » ? Nous ne le faisons pas comprenez ce qu’Il ​​dit.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-19. Jesus saw that they wanted...",
+          shloka: "(16:19) Jésus vit qu'ils voulaient l'interroger à ce sujet, alors il leur dit : « Vous demandez-vous mutuellement ce que je voulais dire quand je vous ai dit : « Dans peu de temps, vous ne me verrez plus, et puis après tu me verras dans un moment' ?",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-20. Very truly I tell you, you wil...",
+          shloka: "(16:20) En vérité, je vous le dis, vous pleurerez et vous pleurerez tandis que le monde se réjouira. Vous serez affligé, mais votre chagrin se transformera en joie.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-21. A woman giving birth to a child...",
+          shloka: "(16:21) Une femme qui accouche d'un enfant souffre parce que son heure est venue ; mais quand son bébé naît, elle oublie l'angoisse à cause de sa joie qu'un enfant naisse au monde.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-22. So, with you: Now is your time...",
+          shloka: "(16:22) Ainsi, avec vous : C'est maintenant votre temps de chagrin, mais je vous reverrai et vous vous réjouirez, et personne ne vous enlèvera votre joie.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-25. Though I have been speaking...",
+          shloka: "(16:25) Bien que j'aie parlé au sens figuré, un temps vient où je n'utiliserai plus ce genre de langage mais où je vous parlerai clairement de mon Père.",
           component: 145,
 
           subs: null
