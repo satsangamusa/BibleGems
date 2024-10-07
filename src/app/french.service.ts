@@ -2731,25 +2731,25 @@ meaning: `<b>
 <div class="container">
           <img src="assets/img/Devunimudra_inside.png"   style="width:100%;">
           <div class="top-left">
-           <u> The Seal Of God</u>
+           <u> ⁠Le sceau de Dieu</u>
           </div>
           <div class="top-right1">
             Nature
            </div>
            <div class="top-right2">
-           Holy Spirit
+           L'Esprit Saint
           </div>
           <div class="dm-top-right3">
-           Father
+           Père
           </div>
           <div class="dm-top-right4">
-           Son
+           Fils
           </div>
           <div class="dm-bottom-left2">
-            Body
+            Corps
            </div>
           <div class="bottom-left">
-            <u> For All Religions</u>
+            <u> Pour toutes les religions</u>
            </div>
         </div>
 </p>
@@ -2918,7 +2918,7 @@ meaning: ``,
 pageText: `
 <ion-row>
 <ion-col class="ion-text-center">
-<b>GLOSSARY</b></ion-col>
+<b>GLOSSAIRE</b></ion-col>
 </ion-row>
 <div class="poem">
 <div class="poemtext">
