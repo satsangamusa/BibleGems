@@ -11,6 +11,7 @@ import { EnglishService } from '../english.service';
 import { FrenchService } from '../french.service';
 import { GermanService } from '../german.service';
 import { ItalianService } from '../italian.service';
+import { RussiaService } from '../russia.service';
 import { SpanishService } from '../spanish.service';
 
 @Component({
@@ -36,6 +37,7 @@ export class LandingPage implements OnInit {
   constructor(public global: GlobalService,public englishService:EnglishService,public germanService:GermanService,public italianService:ItalianService,
     public spanishService:SpanishService,
     public frenchService:FrenchService,
+    public russiaService:RussiaService,
     public transalteService:TranslateService, public router:Router) {
     fetch('https://api.country.is')
     .then(async response => {
@@ -89,6 +91,11 @@ export class LandingPage implements OnInit {
   if(lc==='fr'){
     this.global.bible=this.frenchService.bible;
     this.global.chapters=[ { title: "Changer la langue",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.frenchService.chapters];
+    console.log(this.global.chapters,this.global.bible)
+  }
+  if(lc==='ru'){
+    this.global.bible=this.russiaService.bible;
+    this.global.chapters=[ { title: "Изменить язык",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.russiaService.chapters];
     console.log(this.global.chapters,this.global.bible)
   }
   this.router.navigateByUrl('home');
