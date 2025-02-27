@@ -1,0 +1,82 @@
+{
+  "menu":{
+    "home":"Nyumbani",
+    "gods_path":"Njia ya Mungu",
+    "secret_of_creation":"Siri ya Uumbaji",
+    "gospel_of_mathew":"Injili ya Mathayo",
+    "gospel_of_mark":"Injili ya Marko",
+    "gospel_of_luke":"Injili ya Luka",
+    "gospel_of_john":"Injili ya Yohana",
+    "revelations":"Ufunuo",
+    "three_fingers":"Vidole vitatu",
+    "good_friday_bad_friday":"Ijumaa kuu - Ijuma Mbaya",
+    "a_letter_from_a_hindu":"Barua Kutoka kwa Mhindu",
+    "glossary":"Kamusi",
+    "videos":"Videos"
+  },
+  "header1":"Vito ndani",
+  "header2":"ya Pili ya Kimungu",
+  "header3":"Maandiko",
+  "settings":"Mipangilio",
+  "font_size":"",
+  "gospels_in_thraitha_theorem":"Injili Katika Theorem ya Thraitha",
+  "author":"Mwandishi: Guru pekee wa dini tatu (Hindu, Mwislamu, Mkristo), Mfalme wa Ufalme wa Kiroho, Mwandishi wa vitabu vitakatifu zaidi ya mia, Indu Gnana Dharma Pradata, Mwandishi wa Kuvutia, Adi Karta wa Mafundisho ya Thraita, Sri Sri Sri Acharya Prabodhananda Yogeeswarulu",
+  "titles":"Is a time key pet",
+  "swami_name":"Sri Sri Sri Acharya Prabodhananda Yogeeswarulu",
+  "mind_image":{
+    "jeeva": "Jeeva",
+    "mind": "Akili",
+    "intellect": "Buddhi",
+    "chittam":"CHITTAM",
+    "aham": "Ego",
+    "eye": "Jicho",
+    "nose": "Pua",
+    "ear": "Sikio",
+    "tongue": "Lugha",
+    "skin": "Ngozi",
+    "hands": "Mikono",
+    "legs": "Miguu",
+    "mouth": "Mdomo",
+    "anus":"Mkundu",
+    "sex_organ": "Kiungo cha ngono"
+
+  },
+  "seal_of_god":{
+    "seal_of_god":"Muhuri wa Mungu",
+    "nature": "Asili",
+    "holy_spirit": "Roho Mtakatifu",
+    "father": "Baba",
+    "son": "Mwana",
+    "body": "Mwili",
+    "for_all_religions": "Kwa Dini Zote"
+  },
+
+  "image5":{
+    "1":"Adhama nne zinachukua asilimia kumi ya wanadamu, wakati dini inachukua asilimia 99.",
+    "2":"Wakati Yagna, Dana (mchango), Veda, na Tapas (kutafakari kwa muda mrefu) ni adharma nne, adharma ya tano ni dini.",
+    "3":"Kizuizi kikubwa kwa njia ya Mwenyezi Mungu ni dini.",
+    "4":"Dini ni adhama kubwa kuliko zote.",
+    "5":"Mkiwa katika Dini katika njia ya dunia, mtauawa katika Njia ya Mwenyezi Mungu.",
+    "6":"Dini ",
+    "7":"Dini ni adhama ya tano kuibuka katika Yuga ya Kali hivi karibuni."
+  },
+
+  "image6":{
+    "1":"Dini ni haramu na zimekatazwa. Castes hawana akili na sio za kisayansi.",
+    "2":"Bhagavad Gita, Biblia na Kurani zote ni ",
+    "3":"sehemu tatu za andiko moja la Mungu. Ikiwa mtazamo wako unavuka  tabaka na dini, jiunge mara moja na ",
+    "4":" 'Prabodha Sevasamiti' ",
+    "5":" kama mwanachama. Nataka Mungu  akufanye gnani.",
+    "6":"Guru pekee wa Dini Tatu na Mwanzilishi wa Nadharia ya Thraitha",
+    "7":"Sri Sri Sri Acharya Prabodhananda Yogeeshwarulu"
+  },
+  "image1":{
+    "1":"Vito ndani",
+    "2":"Maandiko ya Pili ya Kimungu",
+    "3":"Injili Katika Theorem ya Thraitha"
+  }
+}
+
+
+
+

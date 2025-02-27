@@ -13,6 +13,7 @@ import { GermanService } from '../german.service';
 import { ItalianService } from '../italian.service';
 import { RussiaService } from '../russia.service';
 import { SpanishService } from '../spanish.service';
+import { SwahiliService } from '../swahili.service';
 
 @Component({
     selector: 'app-landing',
@@ -38,6 +39,7 @@ export class LandingPage implements OnInit {
     public spanishService:SpanishService,
     public frenchService:FrenchService,
     public russiaService:RussiaService,
+    public swahiliService: SwahiliService,
     public transalteService:TranslateService, public router:Router) {
     fetch('https://api.country.is')
     .then(async response => {
@@ -96,6 +98,11 @@ export class LandingPage implements OnInit {
   if(lc==='ru'){
     this.global.bible=this.russiaService.bible;
     this.global.chapters=[ { title: "Изменить язык",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.russiaService.chapters];
+    console.log(this.global.chapters,this.global.bible)
+  }
+  if(lc==='sw'){
+    this.global.bible=this.swahiliService.bible;
+    this.global.chapters=[ { title: "Shintsha  Ulimi",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.russiaService.chapters];
     console.log(this.global.chapters,this.global.bible)
   }
   this.router.navigateByUrl('home');
