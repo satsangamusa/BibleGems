@@ -1,7 +1,7 @@
 import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
-import { Router, RouterLink, RouterLinkActive } from '@angular/router';
-import { IonApp, IonCol, IonContent, IonIcon, IonItem, IonLabel, IonList, IonListHeader, IonMenu, IonMenuToggle, IonNote, IonRouterOutlet, IonRow, IonSplitPane } from '@ionic/angular/standalone';
+import { Router, RouterLink } from '@angular/router';
+import { IonApp, IonCol, IonContent, IonIcon, IonItem, IonLabel, IonList, IonMenu, IonRouterOutlet, IonRow, IonSplitPane } from '@ionic/angular/standalone';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { addIcons } from 'ionicons';
 import { addCircleOutline, archiveOutline, archiveSharp, book, bookOutline, bookSharp, bookmarkOutline, bookmarkSharp, caretBack, caretBackCircleOutline, caretForward, caretForwardCircleOutline, close, document, documentText, heartOutline, heartSharp, home, homeOutline, information, list, mailOutline, mailSharp, menu, mic, paperPlaneOutline, paperPlaneSharp, pause, pauseCircle, play, playCircle, removeCircleOutline, settings, settingsOutline, settingsSharp, shuffle, stopCircle, trashOutline, trashSharp, videocam, warningOutline, warningSharp } from 'ionicons/icons';
@@ -16,8 +16,8 @@ register();
   styleUrls: ['app.component.scss'],
   standalone: true,
   imports: [RouterLink,IonRow,IonCol,IonSplitPane,IonContent,IonCol,IonRouterOutlet,
-    RouterLinkActive, CommonModule, IonApp,TranslateModule,
-    IonSplitPane, IonMenu, IonContent, IonList, IonListHeader, IonNote, IonMenuToggle,
+    CommonModule, IonApp,TranslateModule,
+    IonSplitPane, IonMenu, IonContent, IonList,
     IonItem, IonIcon, IonLabel, IonRouterOutlet],
     providers:[TranslateService]
 

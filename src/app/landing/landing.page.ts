@@ -75,35 +75,30 @@ export class LandingPage implements OnInit {
   this.transalteService.use(lc);
   if(lc==='es'){
     this.global.bible=this.spanishService.bible;
-    this.global.chapters=[ { title: "Cambiar De Idioma",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.spanishService.chapters];
+    this.global.chapters=this.spanishService.chapters
   } if(lc==='en'){
     this.global.bible=this.englishService.bible;
-    this.global.chapters=[ { title: "Change Language",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.englishService.chapters];
+    this.global.chapters=this.englishService.chapters;
   }
   if(lc==='ge'){
     this.global.bible=this.germanService.bible;
-    this.global.chapters=[ { title: "Sprache ändern",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.germanService.chapters];
-    console.log(this.global.chapters,this.global.bible)
+    this.global.chapters=this.germanService.chapters;
   }
   if(lc==='it'){
     this.global.bible=this.italianService.bible;
-    this.global.chapters=[ { title: "Cambia Lingua",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.italianService.chapters];
-    console.log(this.global.chapters,this.global.bible)
+    this.global.chapters=this.italianService.chapters;
   }
   if(lc==='fr'){
     this.global.bible=this.frenchService.bible;
-    this.global.chapters=[ { title: "Changer la langue",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.frenchService.chapters];
-    console.log(this.global.chapters,this.global.bible)
+    this.global.chapters=this.frenchService.chapters;
   }
   if(lc==='ru'){
     this.global.bible=this.russiaService.bible;
-    this.global.chapters=[ { title: "Изменить язык",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.russiaService.chapters];
-    console.log(this.global.chapters,this.global.bible)
+    this.global.chapters=this.russiaService.chapters;
   }
   if(lc==='sw'){
     this.global.bible=this.swahiliService.bible;
-    this.global.chapters=[ { title: "Shintsha  Ulimi",componentName:"landing", component: 0, chapterNumber: 0, subs: null, icon: 'information' },...this.russiaService.chapters];
-    console.log(this.global.chapters,this.global.bible)
+    this.global.chapters=this.russiaService.chapters;
   }
   this.router.navigateByUrl('home');
  }

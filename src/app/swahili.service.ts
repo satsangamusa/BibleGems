@@ -28,160 +28,170 @@ export class SwahiliService {
   bible: any = [
 
 {
-chapterName: "God's Path",
+chapterName: "Njia ya Mungu",
 chapterNumber: 0,
 pageNumber: 0,
 verse: ``,
 meaning: ``,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There was some history before the arrival of Jesus on Earth. There is also some history after His death. The history recorded prior to His birth is known as the <b>Old Testament,</b> while the history documented after His arrival is called the <b>New Testament.</b> The Old Testament covering the period before His birth, His life in the New Testament, and the propagation of the Christian community after His death, holds great significance for the Christian community. The compilation of both the Old and New Testaments is known as the <b>Holy Bible.</b> While the Christian Bible and the Hindu Bhagavad-Gita both aim to uplift and guide humans towards God, they have their differences. The Bhagavad-Gita consists solely of Krishna’s teachings, while the Holy Bible encompasses historical accounts before and after Jesus. Christian teachings are drawn from the Old Testament prior to Christ’s birth and from the propagation by His devotees in the New Testament after His death. While there’s nothing inherently wrong with this, upon deeper reflection, it becomes evident that only a portion of the Bible is essential for guiding people on the path to God. Just as in a play, we tend to favor certain characters, and in a drama with multiple episodes, we may prefer one over the others, in the case of the Bible, it’s the portion of the New Testament focusing on Jesus Christ—from His arrival on Earth to His departure—that holds the utmost sanctity and importance in achieving liberation (moksham). It’s crucial to understand that the core essence of the Bible lies in the history of Jesus. Jesus’ words are like a bag of diamonds within the Bible, and all that humanity needs to grasp can be found in the <b>Gospels of Matthew, Mark, Luke, and John.</b> The divine closeness humanity seeks can be discovered in these four Gospels. The loftiest wisdom contained in these Gospels can be found in the Gospel of John, surpassing human intelligence. Despite the Bible spanning 1029 pages, the history of Jesus occupies only 102 pages in the New Testament. If the Bible were divided into ten parts, one part outshines the other nine, and those who appreciate the value of Jesus recognize the profound wisdom contained within this one part.
+<div class="poem"><div class="poemtext">
+  Kulikuwa na baadhi ya historia kabla ya kuwasili kwa Yesu duniani. Pia kuna historia fulani baada ya kifo chake. Historia iliyorekodiwa kabla ya kuzaliwa kwake inajulikana kama<strong>Agano la Kale</strong>, wakati historia iliyoandikwa baada ya kuwasili kwake inaitwa<strong>Agano Jipya</strong>. Agano la Kale linalohusu kipindi cha kabla ya kuzaliwa kwake, maisha yake katika Agano Jipya, na uenezaji wa jumuiya ya Wakristo baada ya kifo chake, lina umuhimu mkubwa kwa jumuiya ya Kikristo. Mkusanyiko wa Agano la Kale na Agano Jipya unajulikana kama<strong>Biblia Takatifu</strong>. Ingawa Biblia ya Kikristo na Hindu Bhagavad-Gita zote zinalenga kuinua na kuwaongoza wanadamu kuelekea kwa Mungu, zina tofauti zao. Bhagavad-Gita inajumuisha pekee Mafundisho ya Krishna, wakati Biblia Takatifu inahusisha masimulizi ya kihistoria kabla na baada ya Yesu. Mafundisho ya Kikristo yametolewa kutoka kwa Agano la Kale kabla ya kuzaliwa kwa Kristo na kutoka kwa kuenezwa na waja wake katika Agano Jipya baada ya kifo chake. Ingawa hakuna kitu kibaya kwa hili, baada ya kutafakari kwa kina, inakuwa dhahiri kwamba ni sehemu tu ya Biblia ni muhimu kwa kuwaongoza watu kwenye njia ya Mungu. Kama vile katika mchezo wa kuigiza, huwa tunapendelea wahusika fulani, na katika mchezo wa kuigiza wenye vipindi vingi, tunaweza kupendelea kimoja kuliko vingine, kwa upande wa Biblia, ni sehemu ya Agano Jipya inayolenga Yesu Kristo&mdash;kutoka Kwake. kuwasili Duniani hadi kuondoka Kwake&mdash;hilo linashikilia utakatifu na umuhimu wa hali ya juu katika kufikia ukombozi (moksham). Ni muhimu kuelewa kwamba kiini cha msingi cha Biblia kiko katika historia ya Yesu. Maneno ya Yesu ni kama mfuko wa almasi ndani ya Biblia, na yote ambayo binadamu unahitaji kufahamu yanaweza kupatikana katika <strong>Injili za Mathayo, Marko, Luka na Yohana</strong>. Ukaribu wa kiungu ambao binadamu wanatafuta unaweza kugunduliwa katika Injili hizi nne. Hekima ya juu zaidi iliyo katika Injili hizi inapatikana katika Injili ya Yohana, ipitayo akili ya kibinadamu. Licha ya kuwa Biblia ina kurasa 1029, historia ya Yesu ina kurasa 102 tu katika Agano Jipya. Ikiwa Biblia iligawanywa katika sehemu kumi, sehemu moja inang'aa kuliko ile nyingine tisa, na wale wanaothamini thamani ya Yesu wanatambua hekima kuu iliyo ndani ya sehemu hiyo moja.
 
-  We are here to elucidate some of Jesus’ words from the Gospels of Matthew, Mark, Luke, and John, which are replete with profound wisdom. One might wonder why we are reiterating these words when many Fathers, pastors, and bishops have already offered their interpretations. Here’s my answer: while preachers effectively teach verses from the Old Testament and the New Testament, there appears to be a gap in the explanation of verses from the four Gospels, which encompass the history of Christ. Just as Hindus may not yet have fully unraveled the secrets of the Bhagavad-Gita, there might be numerous hidden truths within the four Gospels that Christians have yet to discover. This is not a statement of envy towards preachers; rather, it’s an expression of faith in Christ. Our purpose is to share the truth and ensure that people can gain a correct understanding of Jesus, appreciating His <b>greatness and power.</b>
+  Tuko hapa ili kufafanua baadhi ya maneno ya Yesu kutoka katika Injili za Mathayo, Marko, Luka, na Yohana, ambazo zimejaa hekima nyingi. Mtu anaweza kushangaa kwa nini tunarudia maneno haya wakati Mababa wengi, wachungaji, na maaskofu tayari wametoa tafsiri zao. Hili ndilo jibu langu: wakati wahubiri wanafundisha kwa ufasaha mistari kutoka Agano la Kale na Agano Jipya, inaonekana kuna pengo katika maelezo ya mistari kutoka Injili nne, ambayo inajumuisha historia ya Kristo. Kama vile Wahindu wanaweza bado hawajafumbua kikamilifu siri za Bhagavad-Gita, kunaweza kuwa na ukweli mwingi uliofichwa ndani ya Injili nne ambazo Wakristo bado hawajagundua. Hii si kauli ya wivu kwa wahubiri; badala yake, ni onyesho la imani katika Kristo. Kusudi letu ni kushiriki ukweli na kuhakikisha kwamba watu wanaweza kupata ufahamu sahihi wa Yesu, kuthamini <strong>ukuu na uwezo wake.</strong>
 
-  Hindus, upon seeing my books featuring Christ’s name, often assume they are Christian literature and refuse to read them. Conversely, Christians may be wary of books authored by a Hindu Guru and prefer to stick to Christian texts. Hindus hate my work, thinking that a Christian author cannot be a true Hindu, while some Christians may warn against my books, believing they are intended to convert Christians to Hinduism and should be avoided. Hindus accuse us of converting their people to Christianity, and Christians accuse us of turning them into Hindus. However, it’s essential to clarify our intent. We do not seek to convert anyone, but rather, our goal is to encourage people to seek the wisdom of the true God. Every child of God has the <b>right</b> to express their beliefs about God. Thus, we patiently share God’s teachings, regardless of what others may think or assume.
+  Wahindu, wanapoona vitabu vyangu vilivyo na jina la Kristo, mara nyingi hufikiri kwamba ni fasihi ya Kikristo na hukataa kuvisoma. Kinyume chake, Wakristo wanaweza kuwa waangalifu na vitabu vilivyoandikwa na Hindu guru na wanapendelea kushikamana na maandishi ya Kikristo. Wahindu wanachukia kazi yangu, wakifikiri kwamba mwandishi Mkristo hawezi kuwa Mhindu wa kweli, ilhali baadhi ya Wakristo wanaweza kuonya dhidi ya vitabu vyangu, wakiamini kwamba vinakusudiwa kuwageuza Wakristo Uhindu na viepukwe. Wahindu wanatushtaki kwa kuwageuza watu wao kuwa Wakristo, na Wakristo wanatushtaki kwa kuwageuza kuwa Wahindu. Walakini, ni muhimu kufafanua nia yetu. Hatutafuti kugeuza mtu yeyote, bali lengo letu ni kuwatia moyo watu watafute hekima ya Mungu wa kweli. Kila mtoto wa Mungu ana<strong>haki</strong> ya kueleza imani yao juu ya Mungu. Hivyo, tunashiriki mafundisho ya Mungu kwa uvumilivu, bila kujali wengine manafikiri au kudhani nini.
 
-  I have a question for those who may harbor doubts or jealousy. <b>God has come to Earth as a man and departed, but He also promised to return. Can anyone confidently assert that God only appears once?</b> Such a claim would seem incompatible with true wisdom. God has proclaimed His return whenever there is a need on Earth. He comes in times of adversity when the principles of dharma are under threat. This declaration is evident both in the Bhagavad-Gita and the Bible. God can take any form and deliver His teachings. <b>It’s a mistake for Hindus to anticipate Krishna’s return as Krishna or for Christians to expect Jesus to return as Jesus.</b> When God chooses to come, there are no constraints regarding timing, place, or form. He might manifest in forms beyond human recognition, but His message remains unchanged over time. Dharma, as divine principles, is inherently consistent and unchanging, akin to scientific laws. Consequently, God will always impart the same dharma, irrespective of His name, form, or the religion through which He is born.
+  Nina swali kwa wale ambao wanaweza kuwa na mashaka au wivu.<strong>Mungu amekuja Duniani kama mwanadamu na akaondoka, lakini pia aliahidi kurudi. Je, kuna yeyote anayeweza kudai kwamba Mungu anaonekana mara moja tu? </strong>Dai kama hilo lingeonekana kutopatana na hekima ya kweli. Mungu ametangaza kurudi kwake wakati wowote kunapokuwa na haja hapa Duniani. Anakuja wakati wa shida wakati kanuni za dharma ziko chini ya tishio. Tamko hili ni dhahiri katika Bhagavad-Gita na Biblia. Mungu anaweza kuchukua sura yoyote na kutoa mafundisho yake.<strong>Ni makosa kwa Wahindu kutarajia kurudi kwa Krishna kama Krishna au kwa Wakristo kutarajia Yesu kurudi kama Yesu.</strong>Mungu anapochagua kuja, hakuna vikwazo kuhusu wakati, mahali, au umbo. Anaweza kudhihirika kwa namna zaidi ya kutambuliwa na mwanadamu, lakini ujumbe Wake unabaki bila kubadilika baada ya muda. Dharma, kama kanuni za kimungu, kwa asili ni thabiti na haibadiliki, sawa na sheria za kisayansi. Kwa hiyo, Mungu daima atatoa dharma ile ile, bila kujali jina Lake, umbo, au dini ambayo kupitia kwayo Yeye amezaliwa.
 
-  God has never established a specific religion on Earth when He appeared. His teachings are not bound by any particular religious framework, and He did not endorse or belong to any one religion. Instead, He conveyed His divine principles, or dharmas, without referencing any specific religion. The creation of religions is a human endeavor. When God observed wrongdoing among people of any religious group, He pointed out their errors, guided them on the <b>God’s correct path,</b> and encouraged the practice of dharma regardless of religious affiliation. Dharmas themselves did not create religions. Humans formed religions based on their understanding of divine wisdom, the language they spoke, and their behaviors.
+  Mungu hajawahi kuanzisha dini maalum Duniani alipotokea. Mafundisho yake hayafungwi na yoyote mfumo maalum wa kidini, na Hakuidhinisha au kuwa wa dini yoyote. Badala yake, Alifikisha kanuni Zake takatifu, au dharmas, bila kutaja dini yoyote maalum. Uundaji wa dini ni kazi ya mwanadamu. ao Mungu alipoona maovu miongoni mwa watu wa kundi lolote la dini, alibainisha makosa yao na kuwaongoza<strong>njia sahihi ya Mungu</strong>, na kuhimiza zoea la dharma bila kujali uhusiano wa kidini. Dharma wenyewe hawakuunda dini. Wanadamu waliunda dini kulingana na ufahamu wao wa hekima ya kimungu, lugha waliyozungumza, na tabia zao.
 
-  Each religion follows its unique methodology and worships a specific deity. It is customary for adherents of a religion to observe the rituals associated with that faith. However, it’s vital to understand that these religious practices are human creations. When God takes on human form on Earth, He does not adhere to any specific religious rituals or customs. Nor does He engage in the worship of other deities. Religious practices and rituals are for humans, not for God. Instead, God’s role is to guide people on the <b>right path,</b> revealing any shortcomings in their devotion. When God incarnates as a human, His focus is on imparting knowledge about God and God’s dharmas, rather than participating in deity worship, as humans do.
+  Kila dini inafuata mbinu yake ya kipekee na inaabudu mungu maalum. Ni desturi kwa waumini wa dini fulani kushika matambiko yanayohusiana na imani hiyo. Walakini, ni muhimu kuelewa kwamba mazoea haya ya kidini ni ubunifu wa wanadamu. Mungu anapochukua umbo la mwanadamu hapa Duniani, hashikilii mila au desturi maalum za kidini. Wala hajishughulishi na ibada ya miungu mingine. Mazoea na desturi za kidini ni kwa ajili ya wanadamu, si kwa ajili ya Mungu. Badala yake, jukumu la Mungu ni kuwaongoza watu kwenye <strong>njia iliyo sawa</strong>, kufichua mapungufu yoyote katika ujitoaji wao. Wakati Mungu anapata mwili kama mwanadamu, lengo Lake ni kutoa maarifa juu ya Mungu na dharma ya Mungu, badala ya kushiriki katika ibada ya uungu, kama wanadamu wanavyofanya.
 
-  When God incarnated as Krishna in the Dvapara Yuga, He did not engage in the worship of any deity. Instead, He fully revealed the wisdom of Paramatma (the Supreme Soul) when the time was right. Similarly, when God incarnated as Jesus Christ in the Kali Yuga, He did not engage in deity worship but preached the wisdom He intended to convey. His true greatness and divinity become apparent when He imparts <b>wisdom.</b> During other times, He may appear as an ordinary individual, much like everyone else. The ignorant may mistake Him for a common person, but those with wisdom can recognize Him as God. Those possessing complete wisdom can identify Him whenever He descends to Earth. However, individuals under the influence of Maya fail to recognize Him in any circumstance. Moreover, humans sometimes perceive Him as an ordinary individual, subjecting Him to insults and causing various troubles.
+  Mungu alipopata mwili kama Krishna katika Yuga ya Dvapara, Hakujihusisha na ibada ya mungu yeyote. Badala yake, alifunua kikamilifu hekima ya Paramatma (Nafsi Kuu) wakati wakati ulikuwa sahihi. Kwa njia Vivyo hivyo, Mungu alijifanya mwili kuwa Yesu Kristo katika Kali Yuga, Hakujihusisha na ibada ya miungu bali alihubiri hekima Aliyokusudia kuwasilisha. Ukuu Wake wa kweli na mungu unadhirihirika anapotoa<strong>hekima</strong>. Wakati mwingine, Anaweza kuonekana kama mtu wa kawaida, kama kila mtu mwingine. Wajinga wanaweza kumdhania kuwa mtu wa kawaida, lakini wale walio na hekima wanaweza kumtambua kama Mungu. Wale walio na hekima kamili wanaweza kumtambulisha kila anaposhuka duniani. Hata hivyo, watu binafsi chini ya ushawishi wa Maya wanashindwa kumtambua katika hali yoyote. Zaidi ya hayo, wakati mwingine wanadamu humwona kuwa mtu wa kawaida, wakimtusi na kusababisha matatizo mbalimbali.
 
-  When God comes to Earth as a human once in a few thousand years, humans who are serpent brood cannot recognize him. Not only do they not recognize Him, but they also subject Him to torture. Some may wonder why He is subjected to torment when humans typically do not torture their fellow beings. The answer lies in the fact that when God incarnates as a human, He does not lead an ordinary life. His purpose is to impart divine wisdom in alignment with dharma. Consequently, those who are ignorant and lack understanding of dharma develop animosity towards Him, and this hatred can lead to the persecution of Him. In the absence of divine teachings, there would be no such adversaries. However, when He points out adharmas in human conduct, those adhering to adharmas, while believing they are following dharma, will become angered. Throughout history, humans have shown disrespect towards Him in every incarnation as a human. Some were envious of Jesus when He taught divine wisdom. They failed to appreciate His greatness and wisdom, ultimately condemning Him to death. He died because of the religious followers who thought they were gnanis. The serpent brood has the poison of ignorance. So, the life of Christ ended at the hands of the serpent brood.
+  Mungu anapokuja duniani kama mwanadamu mara moja katika miaka elfu chache, wanadamu ambao ni kizazi cha nyoka hawawezi kumtambua. Sio tu kwamba hawamtambui, bali pia wanamtesa. Huenda wengine wakashangaa kwa nini Yeye anateswa wakati kwa kawaida wanadamu hawatesi wanadamu wenzao. Jibu liko katika ukweli kwamba Mungu alipofanyika mwili kama mwanadamu, Haishi maisha ya kawaida. Kusudi lake ni kuingiza hekima ya kimungu katika upatanisho na dharma. Kwa hiyo, wale ambao ni wajinga na wasio na ufahamu wa dharma wanajenga chuki dhidi Yake, na chuki yake inaweza kusababisha mateso Yake. Kwa kukosekana kwa mafundisho ya kimungu, hakungekuwa na wapinzani kama hao. Hata hivyo, Anapoonyesha adharma katika mwenendo wa mwanadamu, wale wanaoshikamana na adharma, huku wakiamini kuwa wanafuata dharma, watakasirika. Katika historia, wanadamu wameonyesha kutomheshimu Yeye katika kila mwili kama mwanadamu. Wengine walimwonea Yesu wivu alipofundisha hekima ya kimungu. Walishindwa kuthamini ukuu na hekima yake, hatimaye wakamhukumu kifo. Alikufa kwa sababu ya wafuasi wa dini walidhani kuwa ni gnanis. Kizazi cha nyoka kina sumu ya ujinga. Khivyo, maisha ya Kristo yaliishia mikononi mwa kizazi cha nyoka.
 
-  God knows all things about God, and humans know nothing. Humans can only grasp God’s dharmas (divine principles) when God reveals them. Divine revelation is essential for humans to gain insights into God’s nature and teachings. A portion of God, present in every atom of the universe, incarnates as a human. To exist in the world for a certain period, a system known as karma is involved. The cause of human birth is attributed to karma, but God Himself is beyond karma. Therefore, God generates the karma necessary for His own birth and incarnates with that karma. Such an individual is referred to as <b>Svayambhu,</b> meaning ‘self-born,’ not bound by karma. Such a being is known as <b>Bhagavan or Comforter (Adarana Karta).</b> It is believed that God may have manifested on Earth as Bhagavan many times in the past, although the precise number of times dharma has been restored on Earth remains unknown. Many mysteries have unfolded over the past millions of years, and recorded history spans only a few thousand years. As a result, our knowledge of past events is limited, but historical records indicate instances where God incarnated as a human to guide humanity.
+  Mungu anajua mambo yote kumhusu Mungu, na wanadamu hawajui lolote. Wanadamu wanaweza tu kufahamu dharma za Mungu (kanuni za kimungu) wakati Mungu anapozifunua. Ufunuo wa kimungu ni muhimu kwa wanadamu kupata umaizi katika asili na mafundisho ya Mungu. Sehemu ya Mungu, iliyopo katika kila chembe ya ulimwengu, hupata mwili kama mwanadamu. Ili kuwepo duniani kwa kipindi fulani, mfumo unaojulikana kama karma unahusika. Sababu ya kuzaliwa kwa mwanadamu inahusishwa na karma, lakini Mungu Mwenyewe ni zaidi ya karma. Kwa hivyo, Mungu hutengeneza karma inayohitajika kwa kuzaliwa kwake mwenyewe na anapata karma hiyo. Mtu kama huyo anaitwa<strong>Svayambu</strong>, ikimaanisha 'kuzaliwa mwenyewe,' si kufungwa na karma. Mtu kama huyo anajulikana kama<strong>Bhagavan au Mfariji (Adarana Karta)</strong>. Inaaminika kuwa Mungu anaweza kuwa amejidhihirisha duniani kama Bhagavan mara nyingi huko nyuma, ingawa idadi kamili ya mara dharma imerejeshwa duniani bado haijulikani. Siri nyingi zimefunuliwa katika mamilioni ya miaka iliyopita, na historia iliyorekodiwa inachukua miaka elfu chache tu. Kwa hiyo, ujuzi wetu wa matukio ya zamani ni mdogo, lakini rekodi za kihistoria zinaonyesha matukio ambapo Mungu alipata mwili kama mwanadamu ili kuwaongoza wanadamu.
 
-  <b>It becomes evident that God incarnates and dies as a human being on Earth occasionally.</b> Upon deep reflection and with the wisdom we possess, it becomes evident that God was born approximately 5,000 years ago in India and around 2,000 years ago in Israel. This divine incarnation was known as Jesus Christ during His time in Israel. He was present among humans on Earth for a limited span of 33 years, guided by His own predetermined karma. During the first 30 years of His life, Jesus lived as an ordinary Jeevatma. It was in the subsequent three years that He imparted Atma’s wisdom to humanity while living as Atma at times.
+  <strong>Inakuwa dhahiri kwamba Mungu anapata mwili na kufa kama mwanadamu hapa Duniani mara kwa mara.</strong>Baada ya kutafakari kwa kina na kwa hekima tuliyo nayo, inakuwa dhahiri kwamba Mungu alizaliwa takriban miaka 5,000 iliyopita huko India na karibu miaka 2,000 iliyopita huko Israeli. Umwilisho huu wa kiungu ulijulikana kama Yesu Kristo wakati wake katika Israeli. Alikuwepo miongoni mwa wanadamu Duniani kwa kipindi kifupi cha miaka 33, akiongozwa na karma Yake mwenyewe aliyoiweka awali. Katika miaka 30 ya kwanza ya maisha yake, Yesu aliishi kama Jeevatma wa kawaida. Ilikuwa katika miaka mitatu iliyofuata ambapo Aliwapa wanadamu hekima ya Atma huku akiishi kama Atma nyakati fulani.
 
-  Some individuals may question my statement that ‘The divinity is born as a man on earth. The divinity (God) spreads to every atom of the universe.’ Does God not spread throughout the entire universe when He is born as a man? Does God, who is said to be present in all, not present in all of us after being born as Bhagavan on the earth? Let’s explore the answer using an analogy. Consider the sea, which is full of water. If we take a portion of that water from the sea in a small container, the container now holds seawater, but the sea remains full of water. The water in the container is referred to as ‘separated water,’ while the water in the sea is ‘unseparated water.’ Both the sea and the container share the same water, with no difference in the water’s properties, except that the container water is separated from the sea. In a similar vein, we can liken God to the sea. Bhagavan is like the separated water in the container, distinct from God as the sea. Yet, the container water and seawater are one and the same; similarly, Bhagavan and God are identical. When water is placed in a container, it doesn’t deplete the sea, and the sea remains full. Likewise, when a part of God incarnates as Bhagavan, God continues to be omnipresent as before. There’s no alteration in God, His divine principles, or His omnipresence when He appears as Bhagavan. A part of God becomes Bhagavan, but not the entire God. Even though Bhagavan is only a part of God, He has the same properties. Therefore, nothing is wrong with saying that God is born, although only a part of God is born on earth. Hence, there is nothing wrong with saying that Jesus is ‘God.’
+  Baadhi ya watu wanaweza kuhoji kauli yangu kwamba 'Uungu huzaliwa kama mwanadamu duniani. Uungu (Mungu) unaenea kwa kila chembe ya ulimwengu.' Je, Mungu haenei katika ulimwengu wote mzima anapozaliwa akiwa mwanadamu? Je, Mungu, anayesemekana kuwa yuko katika yote, hayupo ndani yetu sote baada ya kuzaliwa kama Bhagavan duniani? Hebu tuchunguze jibu kwa kutumia mlinganisho. Fikiria bahari, ambayo imejaa maji. Ikiwa tunachukua sehemu ya maji hayo kutoka baharini kwenye chombo kidogo, basi chombo sasa kina maji ya bahari, lakini bahari inabaki imejaa maji. Maji katika chombo yanajulikana kama 'maji yaliyotenganishwa,' wakati maji ya bahari ni 'maji yasiyotenganishwa.' Bahari na chombo vyote viwili vinashiriki maji sawa, bila tofauti katika sifa za maji, isipokuwa kwamba maji ya chombo hutenganishwa na bahari. Vivyo hivyo, tunaweza kumfananisha Mungu na bahari. Bhagavan ni kama maji yaliyotenganishwa kwenye chombo, tofauti na Mungu kama bahari. Hata hivyo, maji ya chombo na maji ya bahari ni kitu kimoja; vile vile, Bhagavan na Mungu wanafanana. Wakati maji yanapowekwa kwenye chombo, hayapunguzi bahari, na bahari inabaki imejaa. Vivyo hivyo, sehemu ya Mungu inapopata mwili kama Bhagavan, Mungu anaendelea kuwa kila mahali kama hapo awali. Hakuna mabadiliko katika Mungu, kanuni Zake za kimungu, au kuwepo kwake kila mahali anapotokea kama Bhagavan. Sehemu ya Mungu inakuwa Bhagavan, lakini sio Mungu mzima. Ingawa Bhagavan ni sehemu tu ya Mungu, Ana sifa sawa. Kwa hiyo, hakuna ubaya kusema kwamba Mungu amezaliwa, ingawa ni sehemu tu ya Mungu inayozaliwa duniani. Kwa hiyo, hakuna ubaya kusema kwamba Yesu ni &lsquo;Mungu.
 
-  Some individuals may pose another question: If Jesus is God, why did He endure suffering when people harmed Him? Why was He subjected to human torture and humiliation? They may also ask why Jesus did not reveal His divine identity to them and employ His divine power to punish those who mistreated Him. Here is our response: To understand this, we must first grasp a divine secret. Within an ordinary person's body, there exist three souls – Jeevatma, Atma, and Paramatma. Among these three souls, Jeevatma and Atma both reside within the body. These two souls are not external to the body. The third soul, Paramatma, extends within and beyond the body, permeating every atom in the universe. However, Paramatma does not actively engage in actions within or outside the body. The second soul, Atma, is responsible for all bodily functions. The first soul, Jeevatma, does nothing except experiencing pleasure and sorrow. Many individuals may think that they (Jeevatma) are the ones performing every action, but that is not the case within the human body. Atma, which resides within us without our conscious awareness, carries out all the work. Even Atma does not do anything according to its own will. <b>Atma</b> works according to <b>karma</b>, which is the underlying cause of every task. According to the law of karma, Jeevatma is destined to experience pleasure and sorrow. For Jeevatma to undergo these experiences within the body, Atma, which is spread throughout the body, facilitates these bodily functions. This includes physiological processes like digesting food, regulating the heartbeat, and managing bodily functions such as the separation of urine and sweat from the blood. Atma’s role in performing these bodily functions enables Jeevatma to coexist within the body. Inside the body, Jeevatma’s primary function is to experience. This is an inherent law governing every human body, unchanging and constant.
+  Huenda watu fulani wakauliza swali lingine: Ikiwa Yesu ni Mungu, kwa nini Alivumilia kuteseka watu walipomdhuru? Kwa nini Aliteswa na kufedheheshwa na mwanadamu? Wanaweza pia kuuliza kwa nini Yesu hakufunua utambulisho Wake wa kimungu kwao na kutumia uwezo Wake wa kimungu kuwaadhibu wale waliomtendea vibaya. Hili ndilo jibu letu: Ili kuelewa hili, ni lazima kwanza tufahamu siri ya kimungu. Ndani ya mtu wa kawaida mwili, kuna nafsi tatu - Jeevatma, Atma, na Paramatma. Kati ya roho hizi tatu, Jeevatma na Atma zote hukaa ndani ya mwili. Nafsi hizi mbili haziko nje ya mwili. Nafsi ya tatu, Paramatma, inaenea ndani na nje ya mwili, ikipenya kila atomi katika ulimwengu. Walakini, Paramatma haishiriki kikamilifu katika vitendo ndani au nje ya mwili. Nafsi ya pili, Atma, inawajibika kwa kazi zote za mwili. Nafsi ya kwanza, Jeevatma, haifanyi chochote isipokuwa kupata raha na huzuni. Watu wengi wanaweza kufikiria kuwa wao (Jeevatma) ndio wanaofanya kila kitendo, lakini sivyo ilivyo ndani ya mwili wa mwanadamu. Atma, ambayo inakaa ndani yetu bila ufahamu wetu wa ufahamu, hufanya kazi yote. Hata Atma haifanyi chochote kulingana na mapenzi yake.<strong>Atma</strong>inafanya kazi kulingana na<strong>karma</strong>, ambayo ndiyo sababu kuu ya kila kazi. Kulingana na sheria ya karma, Jeevatma imekusudiwa kupata raha na huzuni. Kwa Jeevatma kupitia uzoefu huu ndani ya mwili, Atma, ambayo imeenea katika mwili wote, hurahisisha kazi hizi za mwili. Hii inajumuisha michakato ya kisaikolojia kama vile kusaga chakula, kudhibiti mapigo ya moyo, na kudhibiti utendaji wa mwili kama vile kutenganisha mkojo na jasho kutoka kwa damu. Jukumu la Atma katika kufanya kazi hizi za mwili huwezesha Jeevatma kuishi pamoja ndani ya mwili. Ndani ya mwili, kazi kuu ya Jeevatma ni kupata uzoefu. Hii ni sheria ya asili inayotawala kila mwili wa mwanadamu, isiyobadilika na isiyobadilika.
 
-  Even though God is born as a human, His body operates with a system akin to that of an ordinary human being. In His body, Paramatma must be present, Atma performs all the work, and Jeevatma experiences. This same process occurs within God’s body when He takes human form. When God came as Jesus, His body was no different from an ordinary human body. Consequently, He experienced suffering and pleasures just as any Jeevatma would. Jesus faced numerous challenges in life, all of which He had to undergo as a Jeevatma. To undergo these experiences in His earthly life, He created His own karma and incarnated as a human. Now, you might ask what sets Him apart from us. There is indeed one significant difference. We previously learned that only Atma operates within every human body. In Bhagavan’s body, it is likewise Atma that carries out the functions. Nevertheless, there are unique instances where something different transpires within Bhagavan’s body. On certain occasions, the three souls deviate from their conventional roles and operate differently. During such moments, Jeevatma enters a state where there is no experience, allowing Atma to assume the role of Jeevatma. The words spoken from Bhagavan’s body in this state, coming from Atma, are entirely spiritual in nature. The profound spiritual truths and God’s dharmas are only revealed when Atma speaks directly. On rare occasions, Atma and Jeevatma become silent, and Paramatma takes over and speaks. Such occurrences may happen once or twice in Bhagavan’s lifetime. In the lives of Jesus, Krishna, and Ravana Brahma, there were instances when Paramatma spoke. When Paramatma speaks, Prakruti (the material nature) follows His words. Similarly, when Atma speaks, profound wisdom is under His control. In the lives of these divine incarnations, the following happened: <b>1) Paramatma’s words wielded command over Prakruti. 2) Atma’s words conveyed pure Atma wisdom. 3) Jeevatma experienced pleasure and sorrow.</b> Paramatma spoke when a storm broke out in the sea during Jesus’ life and when He commanded the storm to calm down. It became evident that Prakruti followed His words and subsided. As Atma, He expressed pure wisdom. He also experienced various joys and sorrows as a Jeevatma during the rest of His life. Similar events occurred in Krishna’s life, where He commanded the Sun and killed Saindhava. There was also an occasion when Krishna revealed a universal form and declared, “I am Paramatma.” As Atma, He conveyed profound wisdom in the form of the Bhagavad-Gita, and experienced life’s pleasures and sorrows as a Jeevatma for the remaining time. This interplay of the three souls taking on distinct roles happens exclusively within Bhagavan’s body. Divinity assumes human form only once in thousands or even millions of years. When God is born on Earth, He predominantly lives as a Jeevatma, akin to others. However, He occasionally speaks as Atma a few times a year for brief periods when needed. Speaking as Paramatma happens very rarely, if at all. The necessity for speaking as Atma arises because He has come to impart dharmas. This represents God’s system, distinct from Maya’s system.
+  Ingawa Mungu amezaliwa kama mwanadamu, mwili Wake unafanya kazi kwa mfumo sawa na ule wa mwanadamu wa kawaida. Katika mwili Wake, Paramatma lazima iwepo, Atma hufanya kazi yote, na uzoefu wa Jeevatma. Utaratibu huu huu hutokea ndani ya mwili wa Mungu anapochukua umbo la mwanadamu. Mungu alipokuja kama Yesu, mwili Wake haukuwa tofauti na mwili wa kawaida wa mwanadamu. Kwa hivyo, Alipata mateso na raha kama vile Jeevatma yoyote ingefanya. Yesu alikumbana na changamoto nyingi maishani, ambazo zote alilazimika kupitia kama Jeevatma. Ili kupitia uzoefu huu katika maisha Yake ya kidunia, Aliumba karma Yake mwenyewe na kupata mwili kama mwanadamu. Sasa, unaweza kuuliza ni nini kinachomtofautisha na sisi. Kwa kweli kuna tofauti moja muhimu. Hapo awali tulijifunza kwamba Atma pekee ndiyo inafanya kazi ndani ya kila mwili wa mwanadamu. Katika mwili wa Bhagavan, ni vile vile Atma ambayo hufanya kazi. Hata hivyo, kuna matukio ya kipekee ambapo kitu tofauti hutokea ndani ya mwili wa Bhagavan. Katika matukio fulani, nafsi tatu huacha kufanya majukumu Yao ya kawaida nakufanya kazi tafauti. Wakati wa wakati kama huo, Jeevatma inaingia katika hali ambayo hakuna uzoefu, ikiruhusu Atma kuchukua jukumu la Jeevatma. Maneno yaliyosemwa kutoka kwa mwili wa Bhagavan katika hali hii, kutoka kwa Atma, ni ya kiroho kabisa. Ukweli wa kina wa kiroho na dharma za Mungu hufunuliwa tu wakati Atma anazungumza moja kwa moja. Katika matukio machache, Atma na Jeevatma hunyamaza, na Paramatma huchukua nafasi na kuzungumza. Matukio kama haya yanaweza kutokea mara moja au mbili katika maisha ya Bhagavan. Katika maisha ya Yesu, Krishna, na Ravana Brahma, kulikuwa na matukio wakati Paramatma alizungumza. Paramatma inapozungumza, Prakruti (asili ya kimwili) hufuata maneno Yake. Vile vile, Atma anapozungumza, hekima ya kina iko chini ya udhibiti Wake. Katika maisha ya miili hii ya kimungu, yafuatayo yalitokea:<strong>1) Maneno ya Paramatma yalitumia amri juu ya Prakruti. 2) Maneno ya Atma yaliwasilisha hekima safi ya Atma. 3) Jeevatma alipata raha na huzuni.</strong>Paramatma ilizungumza wakati dhoruba ilipotokea baharini wakati wa maisha ya Yesu na Alipoamuru dhoruba itulie. Ikadhihirika kwamba Prakruti alifuata maneno Yake na akatulia. Akiwa Atma, Alionyesha hekima safi. Pia alipata furaha na huzuni mbalimbali kama Jeevatma katika maisha yake yote. Matukio kama hayo yalitokea katika maisha ya Krishna, ambapo aliamuru Jua na kumuua Saindhava. Pia kulikuwa na tukio ambapo Krishna alifunua fomu ya ulimwengu wote na akatangaza, "Mimi ni Paramatma." Akiwa Atma, Aliwasilisha hekima ya kina kwa namna ya Bhagavad- Gita, na alipata raha na huzuni za maisha kama Jeevatma kwa muda uliobaki. Mwingiliano huu wa nafsi tatu zinazochukua majukumu tofauti hutokea ndani ya mwili wa Bhagavan pekee. Mungu huchukua umbo la mwanadamu mara moja tu katika maelfu au hata mamilioni ya miaka. Wakati Mungu anazaliwa duniani, Yeye huishi kama Jeevatma, sawa na wengine. Walakini, mara kwa mara Yeye huzungumza kama Atma mara chache kwa mwaka kwa muda mfupi inapohitajika. Kuzungumza kama Paramatma hufanyika mara chache sana, ikiwa ni hivyo. Umuhimu wa kuzungumza kama Atma unatokea kwa sababu Amekuja kutoa dharma. Hii inawakilisha mfumo wa Mungu, tofauti na mfumo wa Maya.
 
-  There is no trouble as long as God behaves like an ordinary man. Maya, however, opposes when God imparts wisdom as Atma. Maya is fundamentally opposed to God’s wisdom. Therefore, Maya, often referred to as Satan, is vigilant in preventing individuals from shifting their allegiance from Maya’s side to embracing God’s wisdom. Furthermore, Maya actively seeks out those who exhibit an interest in and understanding of wisdom, attempting to divert them back to its side. This is why many people have only limited interest in embracing true divine wisdom, largely due to the influence of Maya. Consequently, even those who possess some wisdom may veer off the path. You might raise a question at this point: “There are numerous devotees today who are deeply committed to their faith. They seek wisdom from various spiritual gurus and display unwavering devotion to deities. Almost everyone is devoted to God, except for a few atheists. Is it possible to change the devotees of Sai Baba and Ayyappa? Besides the longstanding temples in the country, numerous new temples are being constructed in honor of Shirdi Sai Baba and Ayyappa Swamy. It seems that Maya has not obstructed their devotion. How can we accept your perspective?” Here is my response.
+  Hakuna shida maadamu Mungu anatenda kama mtu wa kawaida. Maya, hata hivyo, anapinga Mungu anapotoa hekima kama Atma. Maya kimsingi anapinga hekima ya Mungu. Kwa hiyo, Maya, ambaye mara nyingi huitwa Shetani, yuko macho kuzuia watu kuacha utiifu wao kutoka upande wa Maya na kukumbatia hekima ya Mungu. Zaidi ya hayo, Maya huwatafuta kwa bidii wale wanaoonyesha kupendezwa na uelewa wa hekima, akijaribu kuwageuza warudi upande wake. Ndiyo maana watu wengi wana nia ndogo tu ya kukubali hekima ya kweli ya kimungu, hasa kutokana na uvutano wa Maya. Kwa hivyo, hata wale walio na hikima wanaweza kupotea njia. Unaweza kuuliza swali katika hatua hii: &ldquo;Kuna waumini wengi leo ambao wamejitolea sana kwa imani yao. Wanatafuta hekima kutoka kwa wakuu mbalimbali wa kiroho na kuonyesha ibada isiyoyumbayumba kwa miungu. Karibu kila mtu amejitolea kwa Mungu, isipokuwa kwa watu wachache wasioamini Mungu. Je, inawezekana kubadilisha waja wa Sai Baba na Ayyappa? Kando na mahekalu ya muda mrefu nchini, mahekalu mengi mapya yanajengwa kwa heshima ya Shirdi Sai Baba na Ayyappa Swamy. Inaonekana kwamba Maya hajazuia ibada yao. Tunawezaje kuukubali mtazamo wako?&rdquo; Hapa kuna jibu langu.
 
-  Maya stands in direct opposition to God’s path and supreme wisdom. Its opposition to God’s profound wisdom demonstrates the great power of Maya, which is referred to as <b>‘Maya duratyaya’</b> in the Bhagavad-Gita. God said in Bhagavad-Gita that <b>it is impossible to conquer Maya;</b> hence it becomes known that <b>Maya is unimaginably</b> <b>deceiving humans.</b> Thus, the workings of Maya remain largely elusive and mysterious, leaving individuals susceptible to its deceptions. Maya operates by creating its own version of wisdom. As God rarely incarnates on Earth as Bhagavan once in thousands of years, Maya produces numerous imitations of Bhagavans to confuse and divert people from recognizing the genuine Bhagavan. It introduces many types of wisdom, making it difficult for many to distinguish true wisdom from the counterfeit. When there are many Bhagavans associated with Maya on earth, who will recognize the true Bhagavan who rarely comes upon earth? When there are Bhagavans who exhibit numerous supernatural feats and miracles (mahatyas), who can identify the true Bhagavan who demonstrates only one or two mahatyas in a lifetime? In this way, it has become impossible to recognize God’s wisdom and Bhagavan. God showed His reality in the universal form, something that no one has ever seen and can ever understand. But Maya influenced some people to write that many devatas showed universal form, including Saibaba and Veerabrahmam so that people do not count Krishna’s universal form as the highest. Who thinks the universal form Krishna showed in Bhagavad-Gita is the greatest of all? Thus, Christians could not recognize Jesus Christ as Bhagavan; similarly, Hindus could not know Krishna as Bhagavan. Hindus could not consider Krishna as the true God. While some view Him as the last of all other Gods, others fail to recognize Him as even a minor deity due to their perception of His actions as mischievous. No one even counts Krishna as God, like Shirdi Sai Baba. Similarly, in the Christian tradition, despite considering Jesus Christ as the Son of God, many have not grasped the essence of His teachings. Under the influence of Maya, Christians venerate the cross, which was instrumental in Jesus’ crucifixion, instead of Jesus Himself. They thought they would be counted as Hindus if they worshipped <b>Jesus’ idol;</b> hence, they pray to the cross. While Jesus said, <b>“He who has seen me has seen my Father,”</b> is it not Maya’s work that made Christians respect the cross, which caused Jesus’ death, instead of Jesus’ idol? Maya strategically leads people away from God’s path, even when they believe they are firmly on that path. It works to undermine the credibility of those who understand God’s wisdom and speak the truth, making their words appear inferior or unheard. Moreover, Maya has contributed to the formation of various religions and the illusion that distinct Gods exist for each religion. Despite there being one supreme power governing the universe, Maya has fostered the belief in multiple Gods corresponding to different religions. The influence of Maya is profound, leading to the emergence of a multitude of Gods and religious beliefs. Within the Christian faith alone, some devotees worship Mary while others worship Christ. Similarly, Hinduism boasts numerous deities. In light of this diversity, it is now essential to embark on a quest to discern the ultimate head of all deities and religions. However, this task is not easy. <b>By first recognizing Maya and its impact, we can subsequently seek the path to God.</b> Therefore, it is important to determine whether the path you are currently on leads to God or is influenced by Maya.
+  Maya anasimama kinyume cha moja kwa moja kwa njia ya Mungu na hekima kuu.ni Upinzani dhidi ya hekima ya kina ya Mungu unaonyesha uwezo mkuu wa Maya, unaorejelewa kama<strong>'Maya duratyaya'</strong>katika Bhagavad-Gita. Mungu alisema katika Bhagavad-Gita kwamba<strong>haiwezekani kushinda Maya;</strong>kwa hiyo inajulikana kuwa<strong>Maya anawadanganya wanadamu bila kufikiria. </strong>Kwa hivyo, utendakazi wa Maya bado haueleweki na haueleweki, na kuwaacha watu binafsi wakikabiliwa na udanganyifu wake. Maya hufanya kazi kwa kuunda toleo lake la hekima. Mungu anapopata mwili mara chache sana duniani kama Bhagavan mara moja katika maelfu ya miaka, Maya hutoa uigaji mwingi wa Bhagavan ili kuwachanganya na kuwageuza watu wasimtambue Bhagavan halisi. Inatanguliza aina nyingi za hekima, na kufanya iwe vigumu kwa wengi kutofautisha hekima ya kweli na ile bandia. Wakati kuna Bhagavan wengi wanaohusishwa na Maya duniani, ni nani atakayemtambua Bhagavan wa kweli ambaye haji duniani mara chache? Wakati kuna Bhagavan wanaoonyesha matendo na miujiza mingi isiyo ya kawaida (mahatyas), ni nani anayeweza kutambua Bhagavan wa kweli ambaye anaonyesha mahatya mmoja au wawili tu maishani? Kwa njia hii, imekuwa haiwezekani kutambua hekima ya Mungu na Bhagavan. Mungu alionyesha ukweli Wake katika ulimwengu fomu, kitu ambacho hakuna mtu amewahi kuona na anayeweza kuelewa. Lakini Maya aliwashawishi baadhi ya watu kuandika kwamba devatas nyingi zilionyesha umbo la ulimwengu wote, ikiwa ni pamoja na Saibaba na Veerabrahmam ili watu wasihesabu umbo la kiulimwengu la Krishna kama la juu zaidi.ni Nani ulimwengu kutoka kuwa Krishna alioonyeshwa katika Bhagavad-Gita ndilo kuu kuliko wote? Hivyo, Wakristo hawakuweza kumtambua Yesu Kristo kama Bhagavan; vile vile, Wahindu hawakuweza kumjua Krishna kama Bhagavan. Wahindu hawakuweza kumwona Krishna kuwa Mungu wa kweli. Ingawa wengine wanamwona Yeye kama wa mwisho kati ya Miungu mingine yote, wengine wanashindwa kumtambua kuwa ni mungu mdogo kutokana na mtazamo wao wa matendo Yake kama mabaya. Hakuna hata anayemhesabu Krishna kama Mungu, kama Shirdi Sai Baba. Vivyo hivyo, katika mapokeo ya Kikristo, licha ya kumchukulia Yesu Kristo kuwa Mwana wa Mungu, wengi hawajafahamu kiini cha mafundisho Yake. Chini ya ushawishi wa Maya, Wakristo wanaheshimu msalaba, ambao ulikuwa muhimu katika kusulubiwa kwa Yesu, badala ya Yesu Mwenyewe. Walifikiri kwamba wangehesabiwa kuwa Wahindu ikiwa wangeabudu<strong>Yesu</strong>'<strong>sanamu</strong>; kwa hiyo, wanaomba msalabani. Wakati Yesu alisema, &ldquo;<strong>Yeye aliyeniona mimi amemwona Baba yangu</strong>,&rdquo; si kazi ya Maya iliyowafanya Wakristo waheshimu msalaba, uliosababisha kifo cha Yesu, badala ya sanamu ya Yesu? Maya kimkakati huwaongoza watu mbali na njia ya Mungu, hata wanapoamini kuwa wako kwenye njia hiyo. Hufanya kazi ya kudhoofisha uaminifu wa wale wanaoelewa hekima ya Mungu na kusema ukweli, na kufanya maneno yao yaonekane duni au yasiyosikika. Isitoshe, Maya amechangia katika kuanzishwa kwa dini mbalimbali na kudhania kwamba kuna Miungu tofauti kwa kila dini. Ijapokuwa kuna mamlaka moja kuu inayoongoza ulimwengu, Maya amekuza imani ya Miungu mingi inayolingana na dini mbalimbali. Uvutano wa Maya ni mkubwa sana, unaosababisha kutokeza kwa wingi wa Miungu na imani za kidini. Ndani ya imani ya Kikristo pekee, waumini wengine humwabudu Mariamu huku wengine wakimwabudu Kristo. Vivyo hivyo, Uhindu hujivunia miungu mingi. Kwa kuzingatia utofauti huu, sasa ni muhimu kuanza jitihada ya kutambua mkuu mkuu wa miungu na dini zote. Walakini, kazi hii si rahisi.<strong>Kwa kutambua kwanza Maya na athari zake, tunaweza baadaye kutafuta njia ya kuelekea kwa Mungu. </strong>Kwa hiyo, ni muhimu kuamua ikiwa njia unayopitia sasa inaongoza kwa Mungu au inaongozwa na Maya.
 
-  There is an infinite supernatural power that is formless, nameless, and undefined. Let’s refer to it as ‘Paramatma.’ Very little is known about Paramatma, the source of all existence. Paramatma must personally manifest and reveal Himself because, despite permeating every atom, we remain limited to understanding only the Pancha Bhutas (five basic elements). Our senses can only perceive what is within their range, and Paramatma is beyond the grasp of our senses. We can only comprehend Him when He takes on human form, making Himself visible and revealing His wisdom. Otherwise, we remain unaware of Him. Therefore, Paramatma must incarnate as a human and impart His wisdom. He emerges to disclose His dharmas, but these teachings fade over time, necessitating His return to reinstate them. Paramatma, the creator of the universe, often chooses to manifest as a human, leading an existence similar to an ordinary person, and fulfilling His purpose. Identifying Paramatma in such a form is a challenging task. Despite Paramatma’s numerous incarnations on Earth, humans have struggled to recognize His presence even to this day.
+  Kuna nguvu isiyo ya kawaida isiyo na kikomo ambayo haina umbo, isiyo na jina, na isiyofafanuliwa. Hebu tuirejelee kama 'Paramatma.' Kidogo sana kinajulikana kuhusu Paramatma, chanzo cha kuwepo kwa yote. Paramatma lazima ijidhihirishe binafsi na kujidhihirisha Mwenyewe kwa sababu, licha ya kupenyeza kila atomi, tunabaki na ukomo wa kuelewa Pancha Bhutas pekee (vipengele vitano vya msingi). Hisia zetu zinaweza tu kutambua kile kilicho ndani ya safu zao, na Paramatma iko nje ya kufahamu kwa hisia zetu. Tunaweza tu kumwelewa Anapochukua umbo la mwanadamu, akijifanya aonekane na kufichua hekima Yake. Vinginevyo, tunabaki bila kumjua Yeye. Kwa hivyo, Paramatma lazima ipate mwili kama mwanadamu na kutoa hekima Yake. Anajitokeza ili kufichua dharma Zake, lakini mafundisho haya hufifia baada ya muda, na kulazimisha kurudi Kwake ili kuyarejesha. Paramatma, muumba wa ulimwengu, mara nyingi huchagua kujidhihirisha kama mwanadamu, akiongoza maisha sawa na mtu wa kawaida, na kutimiza kusudi Lake. Kutambua Paramatma katika fomu kama hiyo ni kazi ngumu. Licha ya kuzaliwa kwa Paramatma ninyingi duniani, wanadamu wamejitahidi kutambua uwepo wake hata leo.
 
-  Those who fail to recognize Bhagavan when He is present often begin to worship Him with great devotion after He has left. They do not worship Him because He is Paramatma, but rather because they believe He possesses great wisdom or that their desires will be fulfilled. However, they still do not realize that He is Paramatma. We can recognize the incarnations of Paramatma through certain principles. In this way, we can identify that Paramatma came as Krishna at the end of the Dvapara Yuga and later as Jesus in the Kali Yuga. Paramatma may have also come at a later time, but we do not know.
+  Wale wanaoshindwa kumtambua Bhagavan anapokuwepo mara nyingi huanza kumwabudu kwa ibada kubwa baada ya kuondoka. Hawamuabudu kwa sababu Yeye ni Paramatma, bali kwa sababu wanaamini kuwa ana hekima kubwa au kwamba matamanio yao yatatimizwa. Hata hivyo, bado hawatambui kwamba Yeye ni Paramatma. Tunaweza kutambua umwilisho wa Paramatma kupitia kanuni fulani. Kwa njia hii, tunaweza kutambua kwamba Paramatma ilikuja kama Krishna mwishoni mwa Dvapara Yuga na baadaye kama Yesu katika Kali Yuga. Paramatma inaweza pia kuja baadaye, lakini hatujui.
 
-  Regardless of how many births Paramatma has had, there are no similarities from one birth to another except in His dharmas. Although Paramatma’s essence remains the same in Krishna, who was born in the Dvapara Yuga, and Jesus, who was born in the Kali Yuga, their outward lives are vastly different. Sri Krishna enjoyed a life of wealth and had eight wives. He also abducted His first wife with her consent and killed His enemies. After observing all of this, it becomes challenging for anyone to recognize Him as Bhagavan, who is imbued with a part of Paramatma.
+  Haijalishi Paramatma imezaliwa mara ngapi, hakuna mfanano wa kuzaliwa mmoja hadi mwingine isipokuwa katika dharma Zake. Ijapokuwa kiini cha Paramatma kinasalia kuwa kile kile katika Krishna, ambaye alizaliwa katika Dvapara Yuga, na Yesu, ambaye alizaliwa katika Kali Yuga, maisha yao ya nje ni tofauti sana. Sri Krishna alifurahia maisha ya utajiri na alikuwa na wake wanane. Pia alimteka nyara mke wake wa kwanza kwa idhini yake na kuwaua maadui zake. Baada ya kuona haya yote, inakuwa changamoto kwa mtu yeyote kumtambua Yeye kama Bhagavan, ambaye amejaa sehemu ya Paramatma.
 
-  There were no lies or deceptions in the life of Jesus, who was born in the Kali Yuga. Jesus was meek and would turn the other cheek if slapped by an enemy. He had no lust for women. Krishna and Jesus are very different in worldly matters. Even Gurus in both religions are mistaken about these two. Hindu Gurus criticize Jesus by asking, “Why did Jesus die at the hands of ordinary people, and why did He not save himself? Why did He have to die if He had the divine power to raise the dead? Why did He suffer when He was nailed to the cross?” Similarly, church pastors criticize Krishna by arguing, “How can He become God when He had many wives?” In this way, they focus on the worldly aspects of the lives of Jesus and Krishna, but no one contemplates why such events occurred in their lives. Paramatma Himself said that no one could recognize Him when He came to the Earth. His role is to pretend so that no one recognizes Him. His mission is to be an unidentified thief among us, stealing our ignorance.
+  Hakukuwa na uongo au udanganyifu katika maisha ya Yesu, ambaye alizaliwa katika Kali Yuga. Yesu alikuwa mpole na angegeuza shavu lingine ikiwa alipigwa kofi na adui. Hakuwa na tamaa ya wanawake. Krishna na Yesu ni tofauti sana katika mambo ya kidunia. Hata Gurus katika dini zote mbili wamekosea kuhusu hizi mbili. Whahindu wakubwa wanamkosoa Yesu kwa kuuliza, &ldquo;Kwa nini Yesu alikufa mikononi mwa watu wa kawaida, na kwa nini hakujiokoa? Kwa nini alipaswa kufa ikiwa alikuwa na uwezo wa kiungu wa kuwafufua wafu? Kwa nini aliteseka aliposulubishwa msalabani?&rdquo; Vile vile, wachungaji wa kanisa wanamkosoa Krishna kwa kubishana, "Anawezaje kuwa Mungu wakati Alikuwa na wake wengi?" Kwa njia hii, wanazingatia vipengele vya kidunia vya maisha ya Yesu na Krishna, lakini hakuna mtu anayetafakari kwa nini matukio kama hayo yalitokea katika maisha yao. Paramatma Mwenyewe alisema kwamba hakuna mtu angeweza kumtambua Alipokuja Duniani. Jukumu lake ni kujifanya ili mtu yeyote asimtambue. Dhamira yake ni kuwa mwizi asiyejulikana miongoni mwetu, akiiba ujinga wetu.
 
-  Earlier, we mentioned that God cannot be understood through worldly matters. <b>God can only be recognized through God’s wisdom.</b> Even those who claim to be Gurus often fail to grasp this principle and attempt to measure God using worldly standards. Consequently, when God comes to Earth, no one recognizes Him. Those who perform miracles based on worldly matters may appear great and godlike, but the true God is often overlooked. This is because God’s presence cannot be identified based on external, worldly factors. Instead, God’s incarnation can be recognized based on dharma. The same dharma can be found in the Bhagavad-Gita and in the teachings of Jesus, which allow us to recognize them as one. However, there are no other similarities between them in external, worldly matters.
+  Hapo awali, tulitaja kwamba Mungu hawezi kueleweka kupitia mambo ya kilimwengu.<strong>Mungu anaweza tu kutambuliwa kupitia hekima ya Mungu. </strong>Hata wale wanaodai kuwa Waguru mara nyingi hushindwa kufahamu kanuni hii na kujaribu kumpima Mungu kwa kutumia viwango vya kidunia. Kwa hiyo, Mungu anapokuja duniani, hakuna anayemtambua. Wale wanaofanya miujiza kwa msingi wa mambo ya kilimwengu wanaweza kuonekana kuwa wakuu na kama kimungu, lakini Mungu wa kweli mara nyingi hupuuzwa. Hii ni kwa sababu uwepo wa Mungu hauwezi kutambuliwa kwa kuzingatia mambo ya nje, ya kidunia. Badala yake, kupata mwili kwa Mungu kunaweza kutambuliwa kulingana na dharma. Dharma hiyo hiyo inaweza kupatikana katika Bhagavad- Gita na katika mafundisho ya Yesu, ambayo hutuwezesha kuyatambua. kama moja. Hata hivyo, hakuna mfanano mwingine kati yao katika mambo ya nje, ya kidunia.
 
-  There is only one God for the entire world, who incarnates as a man with many names and forms to guide humanity toward him. Unfortunately, many humans fail to realize this and create religions that argue over whose God is greater. They fail to understand that God in their religion and God in other religions are the same. Humans tend to love their religion more than God, which is a great ignorance. It is essential to know that there is only one God, even though we call Him by different names. Paramatma decides His role based on time, nation, and people, and incarnates as Bhagavan to teach His dharmas. His births are not the same, but His aim is always the same - to teach His dharmas. When He came as Jesus or Krishna, the dharmas He taught were the same. God and His dharmas may appear different because when Paramatma was born as Krishna and Jesus, their names, countries of birth, and personalities differed.
+  Kuna Mungu mmoja tu kwa ulimwengu mzima, ambaye anapata mwili kama mwanadamu mwenye majina na maumbo mengi ili kuwaongoza wanadamu kuelekea kwake. Kwa bahati mbaya, wanadamu wengi wanashindwa kutambua hili na kuunda dini zinazobishana juu ya Mungu ambaye ni mkuu zaidi. Wanashindwa kuelewa kwamba Mungu katika dini yao na Mungu katika dini nyingine ni sawa. Wanadamu wana mwelekeo wa kupenda dini yao kuliko Mungu, ambao ni ujinga mkubwa. Ni muhimu kujua kwamba kuna Mungu mmoja tu, ingawa tunamwita kwa majina tofauti. Paramatma huamua jukumu Lake kulingana na wakati, taifa, na watu, na kupata mwili kama Bhagavan kufundisha dharma Zake. Kuzaliwa kwake si sawa, lakini lengo Lake daima ni sawa - kufundisha dharma zake. Alipokuja kama Yesu au Krishna, dharma Alizofundisha zilikuwa sawa. Mungu na dharma zake zinaweza kuonekana tofauti kwa sababu wakati Paramatma ilizaliwa kama Krishna na Yesu, majina yao, nchi za kuzaliwa, na haiba zilitofautiana.
 
-  Let’s take the dharma stated by Paramatma as an example. Sri Krishna said in the Gita, <b>‘Paritranaya Sadhunam vinasaya chaturskrutam,’</b> which means, <b>“I will protect the righteous and destroy the wicked.”</b> Some Christian preachers take these words and say to Hindus, “Your religion offers no protection, and your God will only kill sinners.” However, in our religion, there is protection for all sinners, and Jesus came to Earth to save sinners. While your God may destroy sinners and wicked people in your religion, my God (Jesus) will protect you. Therefore, Christians claim that their God is the true God. The Christians did not understand the true meaning of what Lord Jesus said in this regard, and the Hindus did not understand the meaning of the sloka that Krishna said in the Gita. Thus, Krishna’s words and Jesus’ words seem different to them. They believed that Krishna and Jesus were different, but they did not know that they were the same and that the words they uttered had the same meaning. The words ‘destroying the sinners and the wicked’ mean that they use the weapon of <b>‘teaching’</b> to remove the karma of sin and evil and make them pure. When the wicked become pure, they will not be caught in sins but become righteous. Then there will not be any evil people. Thus, the two phrases, ‘to say in the Gita that Krishna will do away with the wicked’ and ‘to say in the Bible that Jesus will protect you from sins,’ mean the same thing.
+  Wacha tuchukue dharma iliyosemwa na Paramatma kama mfano. Sri Krishna alisema katika Gita,<strong>'Paritranaya Sadhunam vinasaya chaturskrutam,'</strong>ambayo ina maana<strong>, &ldquo;Nitawalinda wenye haki na kuwaangamiza waovu.&rdquo;</strong>Wahubiri fulani wa Kikristo huchukua maneno haya na kuwaambia Wahindu, &ldquo;Dini yenu haitoi ulinzi, na Mungu wenu atawaua tu wenye dhambi.&rdquo; Hata hivyo, katika dini yetu, kuna ulinzi kwa wakosefu wote, na Yesu alikuja duniani kuokoa wenye dhambi. Ingawa Mungu wenu anaweza kuwaangamiza wenye dhambi na watu waovu katika dini yenu, Mungu wangu (Yesu) atakulinda. Kwa hiyo, Wakristo wanadai kwamba Mungu wao ndiye Mungu wa kweli. Wakristo hawakuelewa maana ya kweli ya kile ambacho Bwana Yesu alisema kuhusu jambo hili, na Wahindu hawakuelewa maana ya sloka ambayo Krishna alisema katika Gita. Kwa hivyo, maneno ya Krishna na maneno ya Yesu yanaonekana tofauti kwao. Waliamini kwamba Krishna na Yesu walikuwa tofauti, lakini hawakujua kwamba walikuwa sawa na kwamba maneno waliyotamka yalikuwa na maana moja. Maneno 'kuwaangamiza wenye dhambi na waovu' yanamaanisha kwamba wanatumia silaha ya<strong>'kufundisha'</strong>kuondoa karma ya dhambi na uovu na kuwafanya kuwa safi. Waovu wanapokuwa safi, hawatakamatwa katika dhambi bali watakuwa wenye haki. Kisha hapatakuwa na watu waovu. Kwa hiyo, maneno mawili, 'kusema katika Gita kwamba Krishna itaondoa waovu' na 'kusema katika Biblia kwamba Yesu atakulinda kutokana na dhambi,' yanamaanisha jambo lile lile.
 
-  Even though Jesus and Krishna spoke different languages, were different individuals, and had different names, the purpose of their words was the same. Due to people’s inability to fully grasp God’s concept and their tendency to interpret His words to suit their preferences, they divided the God who proclaimed the same dharma. When Hindus criticize Jesus, and Christians claim that Krishna is not God or Paramatma, the King and Father of paraloka, the Head of the universe who pervades the entire world and resides within us, laughs, knowing that these people are blind despite having eyes. Krishna said in the Gita, “I will come when there is a threat to dharma.” However, Hindus recognize Him as God only if He appears in the same way as before - with peacock feathers, a flute, and the chakra. If God is born in a different form, they say, “You are not our God.” In the Bible, Jesus Christ said that He would come again. Christians will recognize Jesus Christ only if He appears in the same way as before - with nail scars on His hands and spear marks on His side. They will say, “You are not our Lord,” if He comes in a different form. Due to the differences in their appearances and behaviors, Christians could not recognize that Jesus was Krishna, and similarly, Hindus could not acknowledge that Krishna was Jesus. That is why God said in the Gita, <b>“People dishonor me, for they do not know me and my mahatya.”</b> Some Hindu gurus will teach wisdom and provide upadesa to Krishna if He comes again. Similarly, if Jesus comes again, as mentioned in the Bible, Christian preachers, who may not recognize Him, will baptize Him. As long as there are Gurus who will teach wisdom to Krishna if He changes His form and name, it can be said that there is ignorance in the Hindu religion. Similarly, as long as there are Christians who will explain the Bible verses to Jesus if He changes His form and appears before them, it may be said that they are not fully aware of God.
+  Ingawa Yesu na Krishna walizungumza tofauti lugha, walikuwa watu tofauti, na walikuwa na majina tofauti, kusudi la maneno yao lilikuwa sawa. Kwa sababu ya kutoweza kwa watu kufahamu kikamilifu dhana ya Mungu na mwelekeo wao wa kutafsiri maneno Yake ili kuendana na mapendeleo yao, walimgawanya Mungu ambaye alitangaza dharma ile ile. Wakati Wahindu wanamkosoa Yesu, na Wakristo wanadai kwamba Krishna si Mungu au Paramatma, Mfalme na Baba wa paraloka, Mkuu wa ulimwengu ambaye ameenea dunia nzima na anaishi ndani yetu, anacheka, akijua kuwa watu hawa ni vipofu licha ya kuwa na macho. Krishna alisema katika Gita, "Nitakuja wakati kuna tishio la dharma." Hata hivyo, Wahindu humtambua kuwa Mungu ikiwa tu Anatokea kwa njia ile ile kama hapo awali - kwa manyoya ya tausi, filimbi, na chakra. Ikiwa Mungu amezaliwa katika umbo tofauti, wao husema, &ldquo;Wewe si Mungu wetu.&rdquo; Katika Biblia, Yesu Kristo alisema kwamba angekuja tena. Wakristo watamtambua Yesu Kristo ikiwa tu atatokea kwa njia ile ile kama hapo awali - akiwa na makovu ya misumari mikononi Mwake na alama za mikuki ubavuni Mwake. Watasema, &ldquo;Wewe si Mola wetu,&rdquo; ikiwa atakuja kwa sura tofauti. Kwa sababu ya tofauti za sura na tabia zao, Wakristo hawakuweza kutambua kwamba Yesu alikuwa Krishna, na vile vile, Wahindu hawakuweza kukiri kwamba Krishna alikuwa Yesu. Ndiyo maana Mungu alisema katika Gita<strong>, "Watu wananivunjia heshima, kwa maana hawanijui mimi na mahatya wangu."</strong>Baadhi ya magurus wa Kihindu watafundisha hekima na kutoa upadesa kwa Krishna ikiwa Atakuja tena. Vivyo hivyo, ikiwa Yesu atakuja tena, kama ilivyotajwa katika Biblia, wahubiri Wakristo, ambao huenda wasimtambue, watambatiza. Maadamu kuna Gurus ambao watamfundisha hekima Krishna ikiwa Atabadilisha sura na jina Lake, inaweza kusemwa kwamba kuna ujinga katika dini ya Kihindu. Vivyo hivyo, maadamu kuna Wakristo ambao watamfafanulia Yesu mistari ya Biblia ikiwa atabadili umbo lake na kuonekana mbele yao, inaweza kusemwa kwamba hawamjui Mungu kikamilifu.
 
-  There is a strong reason why even the great gnanis could not recognize God or understand God’s wisdom when God came upon Earth. Before understanding the reason, one should be familiar with the visible <b>creation.</b> There is a significant opponent to God, which is why God is not fully understood. Christians call it ‘Satan,’ Hindus refer to it as ‘Maya,’ and Muslims call it ‘Shaitan. ’ To comprehend the secret of something with names like <b>Maya, Satan, or Shaitan,</b> one must first understand the secret of creation. Let’s delve into the details below.
+  Kuna sababu kubwa kwa nini hata gnanis kubwa hawakuweza kumtambua Mungu au kuelewa hekima ya Mungu wakati Mungu alikuja duniani. Kabla ya kuelewa sababu, mtu anapaswa kuwa na ujuzi na inayoonekana<strong>uumbaji</strong>. Kuna mpinzani muhimu kwa Mungu, ndiyo maana Mungu haelewi kueleweka. Wakristo huiita 'Shetani,' Wahindu huiita 'Maya,' na Waislamu huiita 'Shetani.' Ili kuelewa siri ya kitu na majina kama<strong>Maya, Shetani, au Shetani</strong>, lazima kwanza mtu aelewe siri ya uumbaji. Hebu tuzame kwa undani hapa chini.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Secret of Creation",
+chapterName: "Siri ya Uumbaji",
 chapterNumber: 1,
 pageNumber: 1,
 verse: ``,
 meaning: ``,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Paramatma (God) was neither male nor female before the universe was created. Paramatma wanted to create the universe and thus brought into existence feminine Prakruti or Maya (Satan). He determined the required characteristics and all the necessary methods for it. Since Prakruti was female, Paramatma stood in stark contrast to her, and this characteristic is known as Purusha (male). Paramatma desired Prakruti to be entirely opposite to Him, so He granted her equal authority because He believed that the game would be more exciting when both opponents possessed equal strength. Prakruti (Satan) is contrary to Paramatma but not an enemy. Although it is natural for God (Paramatma) to face opposition from Satan (Prakruti), they are not enemies of each other.
+<div class="poem"><div class="poemtext">
+  Paramatma (Mungu) hakuwa mwanamume wala mwanamke kabla ya ulimwengu kuumbwa. Paramatma ilitaka kuumba ulimwengu na hivyo kuleta uwepo wa kike Prakruti au Maya (Shetani). Aliamua sifa zinazohitajika na mbinu zote muhimu kwa ajili yake. Kwa kuwa Prakruti alikuwa mwanamke, Paramatma alisimama kinyume kabisa naye, na tabia hii inajulikana kama Purusha (mwanaume). Paramatma alitamani Prakruti awe kinyume kabisa Naye, hivyo Alimpa mamlaka sawa kwa sababu Aliamini kwamba mchezo ungekuwa wa kusisimua zaidi wakati wapinzani wote wawili wangekuwa na nguvu sawa. Prakruti (Shetani) ni kinyume na Paramatma lakini si adui. Ingawa ni kawaida kwa Mungu (Paramatma) kukabiliana na upinzani kutoka kwa Shetani (Prakruti), wao si maadui wao kwa wao.
 
-  Paramatma, who created Prakruti, will eventually absorb her into Himself. He is the father, husband, and destructor of Prakruti, as well as the force within her. Paramatma, who is vast, created Prakruti and is engaged in a game called ‘Jagath.’ In this game, Paramatma disguises Himself as Purusha (male) even though outside of the play, He is neither male nor female. Prakruti is divided into five elements - Sky, Air, Fire, Water, and Earth - and is named Prapancha. After creating Prakruti, Paramatma desired to create a Jagath consisting of living beings that experience birth and death. He achieved this by creating living beings with Atma and constructing Jagath within the Prapancha. In Telugu, <b>‘Ja’</b> means birth, and <b>‘Gati’</b> means death. Hence, all living beings are aptly named <b>‘Jagath,’</b> indicating that it consists of birth and death.
+  Paramatma, ambaye aliunda Prakruti, hatimaye atamchukua ndani Yake mwenyewe. Yeye ndiye baba, mume, na mharibifu wa Prakruti, na pia nguvu ndani yake. Paramatma, ambaye ni mkubwa, aliunda Prakruti na anajishughulisha na mchezo unaoitwa 'Jagath.' Katika mchezo huu, Paramatma anajigeuza kuwa Purusha (mwanaume) ingawa nje ya mchezo, Yeye si mwanamume wala si mwanamke. Prakruti imegawanywa katika vipengele vitano - Anga, Hewa, Moto, Maji, na Dunia - na inaitwa Prapancha. Baada ya kuunda Prakruti, Paramatma ilitamani kuunda Jagath inayojumuisha viumbe hai ambavyo hupitia kuzaliwa na kifo. Alifanikisha hili kwa kuunda viumbe hai na Atma na kujenga Jagath ndani ya Prapancha. Kwa Kitelugu,<strong>'Ja' </strong>inamaanisha kuzaliwa, na<strong>'Gati'</strong>maana yake ni kifo. Kwa hivyo, viumbe vyote vilivyo hai vinaitwa ipasavyo '<strong>Jagathi</strong>,' ikionyesha kwamba lina kuzaliwa na kifo.
 
-  Paramatma created Jagath, consisting of living beings within Prakruti. While Prakruti (female) and Paramatma (Purusha) are considered equals, Jagati was born separately later. Thus far, Paramatma has created Prakruti (Prapancha) and Jagath, resulting in three components, including Paramatma. Initially, Paramatma, who was neither male nor female, created Prakruti. Then, Paramatma transformed into Purusha (Atma), took Prakruti as His wife, and together, they brought forth a unique offspring named Jagath. If we disregard these relationships, Paramatma created three distinct parts - Prakruti, Purusha, and Jagath. Prakruti is female, Paramatma is male (Purusha), and Jagath should be considered as non-binary (neither male nor female). The primary game is that Paramatma and Prakruti drag Jagath (non-binary), which exists between them. There are rules for this game. Although Paramatma defined the rules, He participates in the game according to the very rules He established, even though He is the creator of all and superior to all. This game, like others, has a time limit. The time limit for the game of Jagath is 1000 Yugas or 108 crores of years, similar to how football has a 90-minute time limit or cricket has a limit of 50 overs. The game experiences break during the night and continues during the day, with each playing and resting period spanning 108 crores (1.08 billion) years.
+  Paramatma iliunda Jagath, inayojumuisha viumbe hai ndani ya Prakruti. Wakati Prakruti (mwanamke) na Paramatma (Purusha) wanachukuliwa kuwa sawa, Jagati alizaliwa tofauti baadaye. Hadi sasa, Paramatma imeunda Prakruti (Prapancha) na Jagath, na kusababisha vipengele vitatu, ikiwa ni pamoja na Paramatma. Hapo awali, Paramatma, ambaye hakuwa mwanamume wala mwanamke, aliunda Prakruti. Kisha, Paramatma iligeuzwa kuwa Purusha (Atma), ikamchukua Prakruti kama mke Wake, na kwa pamoja, wakamzaa mtoto wa kipekee aliyeitwa Jagath. Ikiwa tutapuuza mahusiano haya, Paramatma iliunda sehemu tatu tofauti - Prakruti, Purusha, na Jagath. Prakruti ni mwanamke, Paramatma ni mwanamume (Purusha), na Jagath inapaswa kuzingatiwa kama isiyo ya wawili (si mwanamume wala mwanamke). Mchezo wa msingi ni kwamba Paramatma na Prakruti huburuta Jagath (isiyo ya binary), ambayo ipo kati yao. Kuna sheria za mchezo huu. Ingawa Paramatma ilifafanua sheria, Yeye hushiriki katika mchezo kulingana na kanuni alizoziweka, ingawa Yeye ndiye muumbaji wa yote na mkuu kuliko wote. Mchezo huu, kama wengine, una kikomo cha wakati. Kikomo cha muda kwa mchezo wa Jagath ni Yuga 1000 au crore 108 za miaka, sawa na jinsi mpira wa miguu una kikomo cha muda cha dakika 90 au kriketi ina kikomo cha over 50. Matukio ya mchezo hukatika wakati wa usiku na kuendelea wakati wa mchana, na kila kipindi cha kucheza na kupumzika kinachukua miaka crores 108 (bilioni 1.08).
 
-  Paramatma, non-specific and undefined, initially created Prapancha (without life- form) and subsequently brought forth the living beings (Jagath). Paramatma created Prakruti and became recognized as Purusha. He created Atma and divided Prakruti, which conceives with Atma’s seed, into five parts. Such Prakruti is called Pancha Bhutas or Prapancha. Paramatma divided Atma and Jeevatma into three parts: Jeevatma (the life-form Jagath), Atma, and Paramatma. He became recognized as Paramatma after creating Jeevatmas and Atma. He became recognized as Paramatma alongside Atmas (Jeevatma and Atma) and as Purusha alongside Prakruti. There is a basis for calling Him Purusha when there is Prakruti and Paramatma when souls are present. If Prakruti and Atmas do not exist, it is not possible to define Him. The life-form Jagath was born of Prakruti and Purusha. Paramatma planned so that the mother and father in Jagath have the attributes of Prakruti and Purusha.
+  Paramatma, isiyo maalum na isiyoelezewa, hapo awali iliunda Prapancha (bila umbo la uhai) na baadaye ikaleta viumbe hai (Jagath). Paramatma iliunda Prakruti na kutambuliwa kama Purusha. Aliunda Atma na kuigawanya Prakruti, ambayo hupata mimba na mbegu ya Atma, katika sehemu tano. Prakruti kama hiyo inaitwa Pancha Bhutas au Prapancha. Paramatma iligawanya Atma na Jeevatma katika sehemu tatu: Jeevatma (fomu ya mahisha ya Jagath), Atma, na Paramatma. Alitambuliwa kama Paramatma baada ya kuunda Jeevatmas na Atma. Alitambuliwa kama Paramatma pamoja na Atmas (Jeevatma na Atma) na kama Purusha pamoja na Prakruti. Kuna msingi wa kumwita Purusha wakati kuna Prakruti na Paramatma wakati roho zipo. Ikiwa Prakruti na Atmas hazipo, haiwezekani kumfafanua. Jagath aliye hai alizaliwa na Prakruti na Purusha. Paramatma ilipanga ili mama na baba huko Jagath wawe na sifa za Prakruti na Purusha.
 
-  Prakruti possesses characteristics opposite to those of Purusha. However, Jagath consists of attributes from both Prakruti and Purusha. The life-form Jagath embodies both Paramatma-related Jeevatma and Atmas, as well as Prakruti-related bodies and gunas. The belief in the existence of God aligns with Atma, while the opposing view that God does not exist aligns with Prakruti. Human beings in Jagath exhibit characteristics of both Prakruti and Purusha. To symbolize the traits of Prakruti and Purusha, women’s bodies were created to resemble Prakruti, while men’s bodies were designed to represent Paramatma. Non-binary individuals were also created to symbolize Jagath, indicating that Jagath exists in addition to Prakruti and Paramatma. Women, men, and non-binary individuals symbolize Prakruti, Paramatma, and the living Jagath. Prakruti = Women, Jagath = Non-binary, and Paramatma = Purusha (Male). God made His creation known by creating females to resemble Prakruti, non-binary individuals to symbolize Jagath, and males to represent Paramatma. God brought children into the world through the union of males and females to illustrate that the living Jagath is born of Atma and Prakruti. The visible mother, father, and offspring illustrate how creation initially occurred. Many individuals, despite their intelligence, often do not contemplate why men differ from women and why offspring are born from both men and women. To truly grasp spirituality, it is essential to understand the basics of the <b>‘Secret of Creation’</b> in spiritual education.
+  Prakruti ina sifa kinyume na zile za Purusha. Walakini, Jagath ina sifa kutoka kwa Prakruti na Purusha. Jagath ya aina maisha inajumuisha paramatma inayohusiana na jeevatma na atmas, pamoja na miili na inayohusiana na Prakruti na gunas. Imani ya kuwepo kwa Mungu inalingana na Atma, wakati mtazamo unaopinga kwamba Mungu hayupo unalingana na Prakruti. Wanadamu huko Jagath wanaonyesha sifa za Prakruti na Purusha. Ili kuashiria sifa za Prakruti na Purusha, miili ya wanawake iliundwa kufanana na Prakruti, wakati miili ya wanaume iliundwa kuwakilisha Paramatma. Watu ambao sio wawili pia waliundwa kuashiria Jagath, ikionyesha kuwa Jagath ipo pamoja na Prakruti na Paramatma. Wanawake, wanaume, na watu wasio wawili wanaashiria Prakruti, Paramatma, na Jagath hai. Prakruti = Wanawake, Jagath = Isiyo ya binary, na Paramatma = Purusha (Mwanaume). Mungu aliufanya uumbaji wake ujulikane kwa kuwaumba wanawake ili wafanane na Prakruti, watu wasio na umoja kuashiria Jagath, na wanaume kuwakilisha Paramatma. Mungu alileta watoto ulimwenguni kupitia muungano wa wanaume na wanawake ili kuonyesha kwamba Jagath aliye hai amezaliwa na Atma na Prakruti. Mama, baba, na watoto wanaoonekana huonyesha jinsi uumbaji ulivyotukia mwanzoni. Watu wengi, licha ya wao akili, mara nyingi hawafikirii kwa nini wanaume hutofautiana na wanawake na kwa nini watoto huzaliwa kutoka kwa wanaume na wanawake. Ili kufahamu kiroho kweli, ni muhimu kuelewa misingi ya<strong>'Siri ya Uumbaji'</strong>katika elimu ya kiroho Ni muhimu kuelewa kwamba mchezo kati ya Mungu na Prakruti ni wa kirafiki katika asili.
 
-  It is important to understand that the game between God and Prakruti is friendly in nature. Prakruti and Paramatma engage in a gentle tug-of-war, each attempting to draw Jeevatma to their respective sides in this game. Paramatma’s duty is to impart wisdom to Jeevatma, guiding them towards Him. Conversely, Prakruti, in the form of Maya with its weapon of gunas, keeps human beings occupied, preventing them from contemplating God. Prakruti ensnares individuals in their daily activities, diverting their full attention towards worldly pursuits, and obstructing them from turning towards God through the influence of desire and associated gunas. The grandest game between Paramatma and Prakruti remains nameless. In the form of Maya, Prakruti subtly pulls everyone toward its side, often without their awareness. If anyone within Jagath thinks about God and seeks knowledge about Him, Maya (Prakruti) tends to focus on and ensnare them. Maya (Satan) appears stronger than God in this ongoing struggle between God and Satan. Currently, it holds the allegiance of 99 percent of human beings. In such a scenario, when God’s defeat may seem inevitable, Paramatma should strive to prevail.
+  Prakruti na Paramatma wanavutana-vuta-vutana kwa upole, kila mmoja akijaribu kuteka Jeevatma kwa pande zao katika mchezo huu. Wajibu wa Paramatma ni kutoa hekima kwa Jeevatma, kuwaongoza kuelekea Kwake. Kinyume chake, Prakruti, kwa namna ya Maya na silaha yake ya gunas, huwaweka wanadamu, kuwazuia kumtafakari Mungu. Prakruti huwatega watu binafsi katika shughuli zao za kila siku, wakielekeza uangalifu wao kamili kuelekea shughuli za kidunia, na kuwazuia kumgeukia Mungu kupitia ushawishi wa tamaa na bunduki zinazohusishwa. Mchezo mkubwa zaidi kati ya Paramatma na Prakruti bado hauna jina. Kwa namna ya Maya, Prakruti kwa hila huvuta kila mtu upande wake, mara nyingi bila ufahamu wao. Ikiwa mtu yeyote ndani ya Jagath anafikiri juu ya Mungu na kutafuta ujuzi juu yake, Maya (Prakruti) huwa na mwelekeo na kuwatia mtego. Maya (Shetani) anaonekana kuwa na nguvu zaidi kuliko Mungu katika pambano hili linaloendelea kati ya Mungu na Shetani. Hivi sasa, inashikilia utii wa asilimia 99 ya wanadamu. Katika hali kama hii, wakati kushindwa kwa Mungu kunaweza kuonekana kuwa ni jambo lisiloepukika, Paramatma inapaswa kujitahidi kushinda
 
-  As part of His endeavors, Paramatma will incarnate as a human among humanity and speak of Himself, aiming to guide people toward Him. As previously mentioned, there is no true adversary, and each side employs its own strategy. Both Satan (Maya) and God coexist within every human being, but individuals are often unaware of their presence and struggle to recognize God or Maya. Humans frequently remain oblivious to whose side they are on. God strives to liberate individuals ensnared by Maya’s influence, and in this pursuit, Paramatma is born on Earth as the Son of God. However, following the rules of the cosmic game, He must not reveal His identity as the Son of God. Thus, when God incarnates as a human, He speaks of Paramatma as an ordinary individual. Paramatma imparts His wisdom and re-establishes His dharma. Conversely, Maya formulates strategies to depict the Son of God as ignorant and foolish. It creates Gurus and Swamijis who promote Maya’s adharmas as dharmas and present the Son of God’s teachings as adharmas. Maya competes with the Son of God through these Gurus and Swamijis, leading humans to embrace its teachings instead of God’s wisdom. Maya employs terms such as Paramatma, moksham, wisdom, and practice to convey its adharmas to humans, making it challenging to distinguish God’s dharma from Satan’s adharmas.
+  Kama sehemu ya juhudi Zake, Paramatma itapata mwili kama binadamu miongoni mwa wanadamu na kujizungumzia Mwenyewe, ikilenga kuwaongoza watu kuelekea Kwake. Kama ilivyotajwa hapo awali, hakuna mpinzani wa kweli, na kila upande hutumia mkakati wake. Wote Shetani (Maya) na Mungu wanaishi pamoja ndani ya kila mwanadamu, lakini watu binafsi mara nyingi hawajui uwepo wao na wanajitahidi kumtambua Mungu au Maya. Wanadamu mara kwa mara hubaki kutojali wao wako upande wa nani. Mungu anajitahidi kuwakomboa watu walionaswa na ushawishi wa Maya, na katika harakati hizo, Paramatma anazaliwa Duniani akiwa Mwana wa Mungu. Hata hivyo, kwa kufuata sheria za mchezo wa ulimwengu, ni lazima Asifichue utambulisho Wake kama Mwana wa Mungu. Kwa hivyo, Mungu anapopata mwili kama mwanadamu, Anazungumza kuhusu Paramatma kama mtu wa kawaida. Paramatma inatoa hekima Yake na kuanzisha tena dharma Yake. Kinyume chake, Maya hupanga mikakati ya kumwonyesha Mwana wa Mungu kuwa mjinga na mjinga. Inaunda Gurus na Swamijis ambao huendeleza adharma za Maya kama dharma na kuwasilisha mafundisho ya Mwana wa Mungu kama adharma. Maya hushindana na Mwana wa Mungu kupitia hawa Gurus na Swamijis, na kuwaongoza wanadamu kukumbatia mafundisho yake badala ya hekima ya Mungu. Maya hutumia maneno kama vile Paramatma, moksham, hekima, na mazoezi ili kufikisha adharma zake kwa wanadamu, na kuifanya iwe changamoto kutofautisha dharma ya Mungu na adharma za Shetani.
 
-  If someone seeks to find God, Maya renders them unable to distinguish between dharmas and adharmas, leading them to believe whatever is presented to them. It is a fundamental rule of the cosmic game that both Satan (Maya) and God should not overtly reveal their presence on Earth. When Paramatma incarnates as Bhagavan on Earth, He refrains from declaring, “I am Paramatma.” By the same rule, when Prakruti is born on Earth, it does not proclaim, “I am Maya.” However, when Maya incarnates, it can assert, “I am Bhagavan.” Following this principle, Maya (Satan) proclaims itself as Bhagavan (the Son of God), performs numerous miracles, and manifests in the form of various Swamijis. When Paramatma is born in one place on Earth, Prakruti creates many individuals bearing the name Bhagavan. Paramatma’s birth is intended solely to impart His dharmas without being openly recognized as Bhagavan. Concurrently, Maya generates many with the name Bhagavan even before the birth of Paramatma. Maya causes humans to hear its words and prevents them from listening to the words of the genuine Bhagavan. In this cosmic game, Maya exerts its influence, and God fulfills His purpose.
+  Ikiwa mtu anatafuta kupata Mungu, Maya huwafanya wasiweze kutofautisha kati ya dharma na adharma, na kuwaongoza kuamini chochote kinachowasilishwa kwao. Ni a kanuni ya msingi ya mchezo wa ulimwengu kwamba Shetani (Maya) na Mungu hawapaswi kufichua uwepo wao duniani. Wakati Paramatma inapata mwili kama Bhagavan Duniani, Yeye anajizuia kutangaza, "Mimi ni Paramatma." Kwa kanuni hiyo hiyo, wakati Prakruti anazaliwa duniani, haitangazi, "Mimi ni Maya." Walakini, wakati Maya anapata mwili, inaweza kudai, "Mimi ni Bhagavan." Kufuatia kanuni hii, Maya (Shetani) anajitangaza kuwa Bhagavan (Mwana wa Mungu), anafanya miujiza mingi, na inajidhihirisha kwa namna ya Swamijis mbalimbali. Paramatma inapozaliwa katika sehemu moja duniani, Prakruti huunda watu wengi wanaoitwa Bhagavan.
 
-  While Maya continually takes the form of gunas within the human body, God exists in the form of Atma within the body. We previously mentioned that Maya and Paramatma would incarnate as human beings on Earth. It is important to understand the bodies they will assume. Maya incarnates in a male body as Bhagavan and a female body as Bhagavati. Paramatma consistently incarnates in a male body. Prakruti, as a female, typically wears a female body, but she can also manifest in a male body to deceive others. It may be challenging to discern the true Bhagavan in the forms of Bhagavati and Bhagavan. It’s crucial to note that Bhagavan is always incarnated as a male. The Heavenly Father, Paramatma, was incarnated as Jesus in male form. His birth occurred through a virgin womb without the involvement of a human father. Paramatma incarnates on Earth when the need arises, with <b>Jesus</b> being one such incarnation. The Holy Spirit is also expected to be incarnated on Earth in the future. We have written this scripture to inform you that no matter how many times the same Paramatma is born, He will reveal the same dharmas. The purpose of this scripture is to help readers understand the essential words of Jesus in the New Testament of the Bible and to compare them with the teachings of the Bhagavad-Gita. By reading this, we hope you will come to know the greatness of Jesus and the inner spirit of Krishna.
+  Kuzaliwa kwa Paramatma kunakusudiwa tu kutoa dharma Zake bila kutambuliwa wazi kama Bhagavan. Sambamba na hilo, Maya huzalisha nyingi kwa jina Bhagavan hata kabla ya kuzaliwa kwa Paramatma. Maya huwafanya wanadamu kusikia maneno yake na kuwazuia kusikiliza maneno ya Bhagavan halisi. Katika mchezo huu wa ulimwengu, Maya hutoa ushawishi wake, na Mungu hutimiza kusudi Lake.
+
+  Wakati huyo Maya akiendelea kuchukua umbo la gunas ndani ya mwili wa mwanadamu, Mungu yupo katika mfumo wa Atma ndani ya mwili. Hapo awali tulitaja kwamba Maya na Paramatma wangepata mwili kama wanadamu duniani. Ni muhimu kuelewa miili ambayo watachukua. Maya anapata mwili wa kiume kama Bhagavan na mwili wa kike kama Bhagavati. Paramatma mara kwa mara hupata mwili katika mwili wa kiume. Prakruti, kama mwanamke, kawaida huvaa mwili wa kike, lakini pia anaweza dhihirisha katika mwili wa kiume ili kuwahadaa wengine. Inaweza kuwa changamoto kutambua Bhagavan ya kweli katika miundo ya Bhagavati na Bhagavan. Ni muhimu kutambua kwamba Bhagavan daima amefanyika mwili kama mwanamume. Baba wa Mbinguni, Paramatma, alipata mwili kama Yesu katika umbo la kiume. Kuzaliwa kwake kulitokea kupitia tumbo la uzazi la bikira bila kuhusika na baba wa kibinadamu. Paramatma hupata mwili duniani wakati hitaji linapotokea, na<strong>Yesu</strong>kuwa mwili kama huo. Roho Mtakatifu pia anatarajiwa kufanyika duniani katika siku zijazo.
+
+  Tumeandika maandiko haya ili kukujulisha kwamba haijalishi ni mara ngapi Paramatma hiyo hiyo inazaliwa, Yeye atafichua dharma sawa. Kusudi la andiko hili ni kuwasaidia wasomaji kuelewa maneno muhimu ya Yesu katika Agano Jipya la Biblia na kuyalinganisha na mafundisho ya Bhagavad-Gita.
+
+  Kwa kusoma haya, tunatumai utakuja kujua ukuu wa Yesu na roho ya ndani ya Krishna.
+
 </div></div>
 <ion-row><ion-col class="ion-text-center">
-<b>By  <br><br>
-The only Guru of Three Religions, Originator of Thraitha Theorem, The Author of One Hundred Divine Scriptures </b><br><br>
-<span style="font-size:20px;font-weight:bold">Sri. Sri. Sri Acharya Prabodhananda Yogeeshwarulu</span>
+<b>Na  <br><br>
+Guru pekee wa Dini Tatu, Mwanzilishi wa Thraitha Theorem, Mwandishi wa Maandiko Mia Moja ya Kiungu </b><br><br>
+<span style="font-size:20px;font-weight:bold"> Sri. Sri. Sri Acharya Prabodhananda Yogeeshwarulu</span>
 </ion-col></ion-row>
 </span>`,
 
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 2,
-verse: `<b>(1) The Gospel of Mathew, 3rd chapter, 7th verse.</b>`,
+verse: `<b>(1) Injili ya Mathayo, sura ya 3, mstari wa 7.</b>`,
 meaning: `<b>
-(7) You brood of vipers! Who warned you to flee from the coming wrath?
+(3:7) Enyi wazao wa nyoka! Ni nani aliyewaonya ninyi kuikimbia ghadhabu inayokuja?
 </b>`,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> In this verse, <b>‘brood of vipers’</b> is a new term. The term was used to refer to humans. However, there is doubt about whether humans can be considered the offspring of snakes. This raises a question for anyone who reads this verse. In this verse, we also need to delve into the detailed meaning of <b>‘coming wrath.’ </b>Additionally, another word in this verse is <b>‘Who warned you?’</b> This phrase refers to a past time, and we should seek to understand who warned humans in the past. There are three questions we need answers to in this verse.
+<div class="poem"><div class="poemtext">
+  Katika aya hii,<strong>'kizazi cha nyoka</strong>ni neno jipya. Neno hilo lilitumiwa kurejelea wanadamu. Hata hivyo, kuna shaka ikiwa wanadamu wanaweza kuchukuliwa kuwa wazao wa nyoka. Hii inazua swali kwa yeyote anayesoma aya hii. Katika aya hii, tunahitaji pia kuzama katika maana ya kina ya<strong>'hasira inayokuja.'</strong>Zaidi ya hayo, neno lingine katika aya hii ni<strong>'Nani alikuonya?'</strong>Kifungu hiki cha maneno kinarejelea wakati uliopita, na tunapaswa kutafuta kuelewa ni nani aliyeonya wanadamu hapo awali. Kuna maswali matatu tunahitaji majibu katika mstari huu.
 
-  A bird is an enemy to a snake. The bird can kill the snake. The snake initially hisses to scare the bird, but the bird is not afraid. The bird can eat the snake as its food. This is common knowledge. The serpent and the bird are used as metaphors in the context of spiritual education. The pigeon among the birds is compared to Atma, while the serpent is compared to Maya. Although the verse doesn’t mention the bird, it does mention the serpent. When the serpent is compared to Maya (Satan), ‘brood of vipers’ can be understood as ‘offspring of Maya.’ To be more precise, ‘brood of vipers’ is used instead of ‘human beings with Maya.’
+  Ndege ni adui wa nyoka. Ndege anaweza kumuua nyoka. Mwanzoni nyoka huzomea ili kumtisha ndege, lakini ndege haogopi. Ndege anaweza kula nyoka kama chakula chake. Hii ni kawaida maarifa. Nyoka na ndege hutumiwa kama sitiari katika muktadha wa elimu ya kiroho. Njiwa kati ya ndege inalinganishwa na Atma, wakati nyoka inalinganishwa na Maya. Ingawa aya hiyo haimtaji ndege, inamtaja nyoka. Nyoka anapolinganishwa na Maya (Shetani), 'uzao wa nyoka-nyoka' unaweza kueleweka kuwa 'uzao wa Maya.' Ili kuwa sahihi zaidi, 'watoto wa nyoka-nyoka' hutumiwa badala ya 'binadamu pamoja na Maya.'
 
-  Maya refers to the composition of gunas. Those who are constantly preoccupied with gunas and show no concern for God are referred to as the ‘brood of vipers.’ It becomes known that impending wrath awaits those who are entangled in Maya. <b>Wrath, in this context, signifies something terrible or difficult to bear.</b> The term ‘coming wrath’ suggests that it does not currently exist but will manifest in the future. What humans do not initially possess but will acquire due to Maya (gunas) are all kinds of good (punya) and bad karma (sin). The experiences resulting from bad karma can be quite terrible. Therefore, <b>‘coming wrath’ alludes to the karma that will manifest in human life.</b> Every human who is born accumulates karma, which is why the verse <b>‘You brood of vipers! Who warned you to flee from the coming wrath?’</b> serves as a warning to humans.
+  Maya inarejelea muundo wa gunaz. Wale wanaojishughulisha na bunduki sikuzote na hawamjali Mungu wanarejelewa kuwa 'watoto wa nyoka-nyoka.' Inajulikana kuwa hasira inayokuja inangojea wale ambao wamenaswa huko Maya. <strong>Ghadhabu, katika muktadha huu, inaashiria kitu kibaya au kigumu kubeba.</strong>Neno 'ghadhabu inayokuja' linapendekeza kwamba haipo kwa sasa lakini itadhihirika katika siku zijazo. Kile ambacho wanadamu hawana mwanzoni lakini watapata kutokana na Maya (gunas) ni aina zote za wema (punya) na karma mbaya (dhambi). Uzoefu unaotokana na karma mbaya inaweza kuwa mbaya sana. Kwa hiyo,<strong>'ghadhabu inayokuja' inarejelea karma ambayo itadhihirika katika maisha ya mwanadamu</strong>. Kila binadamu aliyezaliwa hujilimbikiza karma, ndiyo maana aya hiyo<strong>' Enyi wazao wa nyoka! Ni nani aliyewaonya ninyi kuikimbia ghadhabu inayokuja?'</strong>hutumika kama onyo kwa wanadamu.
 
-  When the verse mentions, ‘who warned you?’ it suggests that someone in the past provided humans with wisdom to escape karma. This verse implies that there was an individual who told an idea in the past to help people evade impending karma. Consequently, it’s important for humans to uncover the identity of this person, understand what he said, and determine when he conveyed this wisdom. Recalling historical events from the past can be a challenging task. If the answer to the initial question posed in the first chapter of the four Gospels is not known, the matter in the second divine scripture will not be understood. Subsequently, the following verses from the second divine scripture cannot be understood. Thus, it is essential to discern the answer to the initial question. Prior to uncovering the truth in this regard, let’s explore the significance of this second divine scripture.
+  Inapotaja Aya, 'nani aliwaonya? inadokeza kwamba mtu fulani zamani aliwapa wanadamu hekima kutoroka karma. Mstari huu unadokeza kwamba kulikuwa na mtu ambaye alisema wazo hapo zamani ili kuwasaidia watu kukwepa karma iliyokuwa inakuja. Kwa hivyo, ni muhimu kwa wanadamu kufichua utambulisho wa mtu huyu, kuelewa alichosema, na kuamua ni wakati gani aliwasilisha hekima hii. Kukumbuka matukio ya kihistoria ya zamani inaweza kuwa kazi yenye changamoto. Ikiwa jibu la swali la kwanza lililotolewa katika sura ya kwanza ya Injili nne halijulikani, jambo lililo katika andiko la pili la kimungu halitaeleweka. Baadaye, aya zifuatazo kutoka kwa andiko la pili la kimungu haziwezi kueleweka. Kwa hivyo, ni muhimu kutambua jibu la swali la kwanza. Kabla ya kufichua ukweli katika suala hili, hebu tuchunguze umuhimu wa andiko hili la pili la kimungu.
 
-  The wisdom God imparted became a scripture approximately five thousand years ago. This scripture comprises 18 chapters and is situated in the middle of the 18 parvas of the Mahabharata. These eighteen chapters are referred to as the first divine scripture. At the beginning of creation, God communicated wisdom through the Sky. This wisdom was known as <b>‘Japara</b> wisdom’ at that time. In Telugu, <b>‘Para’</b> signifies separate or different, while <b>‘Ja’</b> means born. ‘Japara’ thus translates to ‘separate or distinct from birth.’ It earned this name because God is never subject to birth. Japara wisdom initially became the first divine scripture and also became the second divine scripture after three thousand years i.e. approximately two thousand years ago from now. Roughly 1400 years ago, the same wisdom was transcribed as the third divine scripture. We are now interpreting the sentence from the second divine scripture.
+  Hekima ambayo Mungu alitoa ikawa maandiko takriban miaka elfu tano iliyopita. Andiko hili lina sura 18 na liko katikati ya parvas 18 za Mahabharata. Sura hizi kumi na nane zinarejelewa kama andiko la kwanza la kiungu. Mwanzoni mwa uumbaji, Mungu aliwasilisha hekima kupitia anga. Hekima hii ilijulikana kama<strong>'Japara</strong>hekima' wakati huo. Kwa Kitelugu,<strong>'Para' </strong>inaashiria tofauti au tofauti, wakati<strong>'Ja'</strong>maana ya kuzaliwa. 'Japara' hivyo hutafsiriwa kuwa 'kutenganisha au kutofautisha na kuzaliwa.' Ilipata jina hili kwa sababu Mungu hawezi kuzaliwa kamwe. Hekima ya Japara mwanzoni ikawa andiko la kwanza la kimungu na pia likawa andiko la pili la kimungu baada ya miaka elfu tatu yaani takriban miaka elfu mbili iliyopita kuanzia sasa. Takriban miaka 1400 iliyopita, hekima hiyo hiyo ilinakiliwa kama andiko la tatu la kiungu. Sasa tunafasiri sentensi kutoka katika andiko la pili la kiungu.
 
-  When the question ‘Who warned you?’ is raised, we should talk about the one who told wisdom in the past. According to this, the one who told wisdom in the first divine scripture is the one who warned humans first. There is a reason for knowing the one who told in the past. Since only God can tell His wisdom and God is the only one, the same God teaches His wisdom whenever and wherever required. Therefore, the same one who told earlier told again in verses. Hence, if we want to know the one who told the wisdom in the second divine scripture, we first should know the one who said the wisdom in the past. Hence it became necessary to ask the question - who warned you? If you can find out who said it in the past, you will have the opportunity to recognize who is saying it now. We encourage you to approach this scripture with the <b>belief</b> that the individual who communicated the first divine scripture is also the source of the second divine scripture.
+  Wakati swali 'Nani alikuonya?' inafufuliwa, tunapaswa kuzungumza juu ya yule aliyesema hekima zamani. Kulingana na hili, yule aliyesema hekima katika andiko la kwanza la kimungu ndiye aliyewaonya wanadamu kwanza. Kuna sababu ya kumjua aliyesema zamani. Kwa kuwa ni Mungu pekee anayeweza kusema hekima yake na Mungu ndiye pekee, Mungu huyohuyo hufundisha hekima yake wakati wowote na popote inapohitajika. Kwa hiyo, yule yule aliyesema mapema alisema tena katika mistari. Kwa hiyo, ikiwa tunataka kumjua yule aliyesema hekima katika andiko la pili la kimungu, tunapaswa kwanza kumjua yule ambaye alisema hekima wakati uliopita. Kwa hivyo ikawa muhimu kuuliza swali - ni nani aliyekuonya? Ikiwa unaweza kujua ni nani aliyesema hapo awali, utakuwa na fursa ya kutambua ni nani anayesema sasa. Tunakuhimiza ufikie andiko hili na<strong>imani</strong>kwamba mtu binafsi ambaye aliwasilisha andiko la kwanza la kimungu pia ndiye chanzo cha andiko la pili la kimungu.
 
-  Before reading the second divine scripture, we need to know what verses God, who told the first divine scripture, told in the Bible scripture. The Bible comprises a total of 66 chapters, of which four contain verses directly spoken by God. The other 62 chapters have verses from other gnanis. These chapters are known as 1) The Gospel of Matthew, 2) The Gospel of Mark, 3) The Gospel of Luke, and 4) The Gospel of John. These four Gospel accounts are situated in the central portion of the Bible, effectively dividing it into three main sections. The initial 39 chapters form the first part, followed by the four Gospels as the second part, with the remaining 23 chapters constituting the third part. Of particular note is the designation of these four chapters as <b>‘Gospels,’</b> emphasizing their significance as they contain the words of Jesus during His earthly life.
-
+  Kabla ya kusoma andiko la pili la kimungu, tunahitaji kujua ni mistari gani ambayo Mungu, ambaye aliambia andiko la kwanza la kimungu, aliwaambia katika maandiko ya Biblia. Biblia ina jumla ya sura 66, na nne kati yake zina mistari iliyosemwa moja kwa moja na Mungu. Sura zingine 62 zina aya kutoka kwa gnani zingine. Sura hizi zinajulikana kama 1) Injili ya Mathayo, 2) Injili ya Marko, 3) Injili ya Luka, na 4) Injili ya Yohana. Masimulizi hayo manne ya Injili yako katika sehemu ya kati ya Biblia, na kuigawanya kwa matokeo katika sehemu kuu tatu. Sura 39 za kwanza zinafanyiza sehemu ya kwanza, ikifuatwa na Injili nne zikiwa sehemu ya pili, na zile sura 23 zinazobaki zikifanyiza sehemu ya tatu. Cha muhimu zaidi ni kuteuliwa kwa sura hizi nne kama<strong>'Injili</strong>,&rsquo; akikazia umaana wao kwa kuwa yana maneno ya Yesu wakati wa maisha Yake duniani.
   <b>
-  The first part of the Bible has 39 parts.
-  The second part of the Bible has 4 Gospels.
-  The third part of the Bible has 23 parts.
+  Sehemu ya kwanza ya Biblia ina sehemu 39.
+  Sehemu ya pili ya Biblia ina Injili 4.
+  Sehemu ya tatu ya Biblia ina sehemu 23.
   </b>
-
-  In the first and third parts, other gnanis conveyed God’s wisdom. Jesus, an incarnation of the one who delivered the first divine scripture, reiterated verses in the four Gospels. Therefore, to understand this, the question, <b>‘Who warned you to flee from the coming wrath?’</b> is posed. Hence, it can be said that this verse, placed above all others, holds great significance.
+  Katika sehemu ya kwanza na ya tatu, gnani nyingine zilitoa hekima ya Mungu. Yesu, mwili wa yule aliyetoa andiko la kwanza la kimungu, alirudia mistari katika Injili nne. Kwa hiyo, kuelewa hili, swali<strong>, 'Ni nani aliyewaonya ninyi kuikimbia ghadhabu inayokuja?'</strong>imetolewa. Kwa hiyo, inaweza kusemwa kwamba aya hii, iliyowekwa juu ya nyingine zote, ina umuhimu mkubwa.
 </div></div>
 </span>`
 },
 
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 3,
-verse: `<b>The Gospel of Mathew, 3rd chapter, 11th verse.</b>`,
+verse: `<b>Injili ya Mathayo, sura ya 3, mstari wa 11</b>`,
 meaning: ` <b>
-(11) I baptize you with water for mind change. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.
+(3:11) Mimi ninakubatiza kwa maji kwa ajili ya kubadilisha mana (akili). Lakini baada yangu anakuja aliye na nguvu zaidi kuliko mimi, ambaye sistahili hata kubeba viatu vyake. Yeye atawabatiza kwa Roho Mtakatifu na kwa moto.
 </b>`,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse contains the words <b>‘change of manas’</b> and <b>‘baptize,’</b> as well as ‘with water and with fire.’ To fully grasp the meaning of this verse, it’s essential to understand these four words. If any one of these words remains unclear, the essence of the verse remains elusive. So, let’s delve into the meanings of these four words. The first word is ‘change of manas. ’ Manas (mind) in our body retains and recalls what has been learned and stored. Here, ‘change of manas’ refers to the alteration of manas. Manas is responsible for remembering the events of our life. When the first manas undergoes a change and the second manas takes its place, all the memories of the first manas are erased. The second manas has no recollection of the first manas. The first manas ceases to exist with death, and the second manas emerges with birth. When the first manas is replaced by the second manas, it’s termed a ‘change of manas. ’ This natural transition of manas happens with each cycle of birth and death. Baptism is unnecessary for the ‘change of manas’ because it occurs naturally with the process of death and rebirth.
+<div class="poem"><div class="poemtext">
+  Hii mstari ina ya maneno<strong>'mabadiliko</strong><strong>ya mana'</strong>na<strong>'kubatiza,'</strong>na vilevile 'kwa maji na kwa moto.' Ili kuelewa kikamilifu maana ya mstari huu, ni muhimu kuelewa maneno haya manne. Iwapo neno lolote kati ya haya litaendelea kuwa lisiloeleweka, basi kiini cha Aya kinabaki kuwa kigumu. Kwa hivyo, hebu tuzame maana ya maneno haya manne. Neno la kwanza ni 'mabadiliko ya manas.' Manas (akili) katika mwili wetu huhifadhi na kukumbuka kile ambacho kimejifunza na kuhifadhiwa. Hapa, 'mabadiliko ya manas' inarejelea mabadiliko ya manas. Manas ana jukumu la kukumbuka matukio ya maisha yetu. Mana ya kwanza inapotokea mabadiliko na mana ya pili kuchukua nafasi yake, kumbukumbu zote za mana za kwanza zinafutika. Manas ya pili haina kumbukumbu ya mana ya kwanza. Manas wa kwanza huacha kuishi na kifo, na manas wa pili huibuka na kuzaliwa. Manas ya kwanza inapobadilishwa na manas ya pili, inaitwa 'mabadiliko ya manas.' Mpito huu wa asili wa manas hutokea kwa kila mzunguko wa kuzaliwa na kifo. Ubatizo sio lazima kwa 'mabadiliko ya mana' kwa sababu hutokea kwa kawaida na mchakato wa kifo na kuzaliwa upya.
 
-  When a person dies and is reborn, they shed their old body and acquire a new one. This physical transformation that occurs is known as birth. It’s important to recognize that humans possess two distinct types of bodies: the visible (physical) and the invisible (subtle). Just as the old, visible body is replaced by a new one in the process of birth, similarly, when the unseen, subtle body undergoes a change, Hindus (Indus) refer to it as <b>‘upadesa,</b> ’ while Christians term it <b>‘baptism.</b> ’ As mentioned in this verse, baptism signifies the transformation of the unseen manas. Much like how the old manas, laden with memories, fades away in death, and a new manas emerges in birth, during baptism, the manas undergoes a profound change. It ceases to remind us of mundane, ignorant memories and begins to <b>recall wisdom and divine-related memories</b>. Baptism is the process through which an individual, guided by the teachings of a <b>Guru</b>, attains a change of manas in life. In this transformation, an ignorant manas is replaced with one that is attuned to wisdom.
-  <b>
-  Change of Manas = Turning from ignorance to wisdom.
-  Baptism = Attaining upadesa from Guru.</b>
+  Mtu anapokufa na kuzaliwa upya, huacha mwili wake wa zamani na kupata mpya. Mabadiliko haya ya kimwili yanayotokea yanajulikana kama kuzaliwa. Ni muhimu kutambua kwamba wanadamu wana aina mbili tofauti za miili: inayoonekana (ya kimwili) na yasiyoonekana (ya hila). Kama vile mwili wa zamani, unaoonekana unabadilishwa na mwingine mpya katika mchakato wa kuzaliwa, vivyo hivyo, wakati mwili usioonekana, wa hila unafanyika mabadiliko, Wahindu (Indus) hurejelea kuwa.<strong>'upadesa</strong>,' huku Wakristo wakiitaja<strong>'ubatizo</strong>.' Kama ilivyotajwa katika mstari huu, ubatizo unaashiria mabadiliko ya manas zisizoonekana. Sawa na jinsi manas wa zamani, wakiwa wameelemewa na kumbukumbu, hufifia katika kifo, na manasi mpya huibuka wakati wa kuzaliwa, wakati wa ubatizo, manas hupitia mabadiliko makubwa. Inaacha kutukumbusha kumbukumbu za kawaida, za ujinga na huanza<strong>kumbuka hekima na kumbukumbu zinazohusiana na Mungu.</strong>Ubatizo ni mchakato ambao mtu binafsi, akiongozwa na mafundisho ya a<strong>Guru</strong>, hupata mabadiliko ya mana katika maisha. Katika mageuzi haya, manasa mjinga hubadilishwa na kushikamana na hekima.
 
-  Baptist John offered ‘upadesa’ with water, declaring, “I baptize you with water, but someone more powerful than me will come after, who will baptize you with the Holy Spirit and fire.” We’ve previously explored the concepts of ‘change of manas’ and ‘baptism’ in detail. Now, let’s delve into the meanings of ‘water’ and ‘fire (the opposite of water). ’ We obtain baptism from Guru, but there are two types of Gurus. Some possess wisdom power (Gnana Shakti), while others do not. Many Gurus commonly perform baptism or ‘upadesa’ using water. Some may use milk, both of which are visible liquids, while others use sacred ash or incense smoke as part of the process. Additionally, during ‘upadesa,’ a Guru imparts a mantra, a word, or an image, and there are numerous such ‘upadesas’ in existence, offered by various Gurus. John was one of these Gurus, and he openly admitted to his method, stating, “I baptize you with water.” However, he also foretold the arrival of someone greater, who would baptize with the Holy Spirit and fire. We’ve defined ‘baptism’ as the path to the transformation of the manas from ignorance to wisdom. When this transformation occurs through baptism, it has the power to cleanse all of a person’s sins. Guru gives the appropriate divine fire through his baptism to burn sins. Guru should possess the divinity of fire. The first verse in the chapter of ‘Atma Samyama Yoga’ in the Bhagavad-Gita, the first divine scripture, emphasizes the necessity of this divine fire, stating, ‘cha yogee cha na niragnir nachaakriyah,’ meaning <b>“One who lacks this divine fire (Gnana Shakti), and ceases to act is not a yogi (Guru).”</b>
+  <strong>Mabadiliko ya Manas = Kugeuka kutoka kwa ujinga kwenda kwenye hekima. </strong>
+  <strong>Ubatizo = Kupata upadesa kutoka kwa Guru.</strong>
 
-  A genuine yogi (Guru) is not one who refrains from action but is characterized by the presence of inner fire, which symbolizes <b>wisdom power.</b> This is what the verse mentioned as ‘baptism with fire.’ Here, ‘fire’ signifies the <b>divine power (Gnana Shakti),</b> which is not visible to the naked eye. When a person receives this divine fire from their Guru, it ignites a transformative power within them, capable of burning away their accumulated karma. The fire of wisdom (Gnana Shakti) bestowed upon the baptized individual begins to destroy his karma. While a guru like John administered baptism for the purpose of ‘change of manas,’ he <b>did not possess the wisdom power</b> in his baptism required to burn away karma. Thus, he stated, “I can only baptize you with water.” John explained to the people that his baptism, <b>performed with water</b>, would not burn away their karma. Instead, he anticipated that the one who would come after him would administer a baptism capable of accomplishing this.
-  <b>
-  Baptism with water = Upadesa that does not burn karma.
-  Baptism with fire = Upadesa that burns karma
-  </b>
+  Yohana Mbatizaji alitoa 'upadesa' kwa maji, akisema, "Mimi nawabatiza kwa maji, lakini atakuja mwingine mwenye nguvu kuliko mimi, ambaye atawabatiza kwa Roho Mtakatifu na moto." Hapo awali tumechunguza dhana za 'mabadiliko ya manas' na 'ubatizo' kwa undani. Sasa, hebu tuzame katika maana ya 'maji' na 'moto (kinyume cha maji).' Tunapata ubatizo kutoka kwa Guru, lakini kuna aina mbili za Gurus. Wengine wana nguvu ya hekima (Gnana Shakti), wakati wengine hawana. Gurus wengi kwa kawaida hufanya ubatizo au 'upadesa' kwa kutumia maji. Baadhi wanaweza kutumia maziwa, ambayo yote ni vimiminika vinavyoonekana, huku wengine wakitumia majivu takatifu au moshi wa uvumba kama sehemu ya mchakato. Zaidi ya hayo, wakati wa 'upadesa,' Guru hutoa mantra, neno, au picha, na kuna 'upadesas' nyingi kama hizo zilizopo, zinazotolewa na Gurus mbalimbali. Yohana alikuwa mmoja wa Waguru hawa, naye alikiri waziwazi njia yake, akisema, &ldquo;Mimi ninakubatiza kwa maji.&rdquo; Hata hivyo, alitabiri pia kuwasili kwa mtu mkuu zaidi, ambaye angebatiza kwa Roho Mtakatifu na moto. Tumefafanua 'ubatizo' kama njia ya mabadiliko ya manas kutoka ujinga hadi hekima. Mabadiliko haya yanapotokea kwa njia ya ubatizo, huwa na uwezo wa kutakasa dhambi zote za mtu. Guru anatoa moto ufaao wa kimungu kupitia ubatizo wake ili kuchoma dhambi. Guru anapaswa kumiliki uungu wa moto. Mstari wa kwanza katika sura ya 'Atma Samyama Yoga' katika Bhagavad-Gita, andiko la kwanza la kimungu, linasisitiza umuhimu wa moto huu wa kiungu, likisema, 'cha yogee cha na niragnir nachaakriyah,' maana yake.<strong>"Mtu ambaye anakosa moto huu wa kimungu (Gnana Shakti), na akaacha kutenda sio yoga (Guru)."</strong>
+
+  Yogi halisi (Guru) si yule anayejiepusha na vitendo bali ana sifa ya uwepo wa moto wa ndani, ambao unaashiria<strong>nguvu ya hekima</strong>. Hivi ndivyo aya hiyo inavyotaja kuwa 'ubatizo kwa moto.' Hapa, 'moto' inaashiria<strong>nguvu ya Mungu (Gnana Shakti)</strong>, ambayo haionekani kwa macho. Wakati mtu anapokea moto huu wa kimungu kutoka kwa Guru yao, huwasha nguvu ya kubadilisha ndani yake, inayoweza kuwaka.
+
+  karma yao iliyokusanywa. Moto wa hekima (Gnana Shakti) uliowekwa juu ya mtu aliyebatizwa huanza kuharibu karma yake. Wakati gwiji kama Yohana aliongoza ubatizo kwa madhumuni ya 'mabadiliko ya mana,' yeye<strong>hakuwa na uwezo wa hekima</strong>katika ubatizo wake alihitaji kuchoma karma. Hivyo, alisema, &ldquo;Ninaweza tu kuwabatiza kwa maji.&rdquo; Yohana aliwaeleza watu kwamba ubatizo wake,<strong>kutekelezwa kwa maji</strong>, bila kuchoma karma yao. Badala yake, alitazamia kwamba yule ambaye angekuja baada yake angesimamia ubatizo wenye uwezo wa kutimiza hilo.
+
+  <strong>Ubatizo wa maji = Upadesa usiochoma karma <br>
+  Ubatizo wa moto = Upadesa unaochoma karma</strong>
 </div></div>
 </span>`,
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 4,
-verse: `<b>(3) The Gospel of Mathew, 3rd chapter, 12th verse.</b>`,
+verse: `<b>(3) Injili ya Mathayo, 3rd chapter, 12th verse.</b>`,
 meaning: `<b>
 (12) His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.
 </b>`,
@@ -190,164 +200,173 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
   <img src="assets/img/chaata.png"/><br>
   <img src="assets/img/kallam.png"/>
   </ion-col></ion-row>
-<div class="poem"><div class="poemtext"> John, a renowned guru of his time, was the one who spoke the verse in question. During that era, he imparted ‘upadesa’ (baptism) to many people. John was a great ‘gnani (wise person)’ and had foreseen the arrival of Jesus. He baptized Jesus Christ (Bhagavan), the Son of God. He was also the guru of Jesus. Although John was a famous guru and baptized many people at that time, he was humble. Before he baptized Jesus, he showed humility by saying, “the one who comes after me is more powerful than me, whose sandals I am not worthy to carry.” When Jesus approached him for baptism, John acknowledged Jesus’s greater spiritual power, saying, <b>“You should baptize me. Are you coming to me for baptism?”</b> These words were spoken by John when he foresaw about the arrival of the Lord. The verse also contains references to <b>a winnowing tray, wheat,</b> and an <b>unquenchable fire.</b> Some might wonder about the significance of these elements since they appear commonplace. If the wheat is picked up with the winnowing tray and crushed and burned with fire, it becomes bread. We are all looking at the winnowing tray, the wheat, and the fire in the oven. Some may ask what is so great about this sentence. This verse is part of the second divine scripture, and every verse from this scripture conveys divine wisdom. When viewed with wisdom and spiritual insight, this verse holds a special meaning, emphasizing the greatness of Jesus Christ.
+<div class="poem"><div class="poemtext">
+  John, gwiji mashuhuri wa wakati wake, ndiye aliyezungumza mstari huo. Katika enzi hiyo, alitoa 'upadesa' (ubatizo) kwa watu wengi. Yohana alikuwa 'gnani (mtu mwenye hekima)' mkuu na alikuwa ameona kimbele kuja kwa Yesu. Alimbatiza Yesu Kristo (Bhagavan), Mwana wa Mungu. Pia alikuwa gwiji wa Yesu. Ingawa John alikuwa gwiji maarufu na alibatiza watu wengi wakati huo, alikuwa mnyenyekevu. Kabla ya kumbatiza Yesu, alionyesha unyenyekevu kwa kusema, &ldquo;yule anayekuja baada yangu ana nguvu zaidi kuliko mimi, ambaye sistahili hata kubeba viatu vyake.&rdquo; Yesu alipomwendea ili abatizwe, Yohana alikiri uwezo mkuu wa kiroho wa Yesu, akisema,<strong>"Unapaswa kunibatiza. Je, unakuja kwangu kwa ajili ya ubatizo?&rdquo;</strong>Maneno haya yalisemwa na Yohana alipoona kimbele kuhusu kuja kwa Bwana. Aya hiyo pia ina marejeo kwa<strong>atrei ya kupepeta</strong>,<strong>ngano</strong>, na na<strong>moto usiozimika</strong>. Wengine wanaweza kujiuliza juu ya umuhimu wa vipengele hivi kwa vile vinaonekana kuwa vya kawaida. Ikiwa ngano itaokotwa kwa kupepetwa tray na kusagwa na kuchomwa moto, inakuwa mkate. Sisi sote tunatazama trei ya kupepeta, ngano, na moto katika tanuri. Wengine wanaweza kuuliza ni nini kikubwa kuhusu sentensi hii. Aya hii ni sehemu ya andiko la pili la kimungu, na kila mstari kutoka katika andiko hili unatoa hekima ya kimungu. Inapotazamwa kwa hekima na ufahamu wa kiroho, mstari huu una maana ya pekee, inayokazia ukuu wa Yesu Kristo.
 
-  In ancient times, it was customary to place newborn babies on a winnowing tray (basket). As soon as a baby was born, rice would be poured into the winnowing tray, flattened, and the baby laid on it according to the custom. This practice was prevalent across all sections of society, from the poor to the wealthy, from the knowledgeable to the ignorant. The belief was that Brahma, the creator deity, would inscribe the infant’s future, often referred to as <b>‘karma writing’ or ‘Brahma Vrata,’</b> on the baby’s forehead during the two minutes they spent on the winnowing tray. Regardless of personal beliefs, John’s words, particularly in the context of Jesus, hold true. John used an analogy, comparing deeds to wheat. Wheat, as a staple food, sustains life, but it depletes as we consume it. In a similar vein, Jeevatma experiences karma in the form of deeds. As we undergo karmic experiences, the ‘karma’ of our deeds diminishes. Karma writing, also known as forehead writing or God’s judgment, signifies that the karma we experience is inscribed in our body, and our life experiences reflect this inscription. John likened the deeds influenced by our karma to wheat, and the ‘winnowing tray’ was symbolically the head where these deeds were stored. Just as we harvest grains from a winnowing tray to prepare food, our head is described as a ‘winnowing tray’ because it stores the karma we experience.
+  Katika nyakati za kale, ilikuwa ni desturi ya kuweka watoto wachanga kwenye tray ya winnowing (kikapu). Mara tu mtoto alipozaliwa, mchele ungemiminwa kwenye trei ya kupepeta, ukiwa bapa, na mtoto kulazwa juu yake kulingana na desturi. Tabia hii ilikuwa imeenea katika makundi yote ya jamii, kutoka kwa maskini hadi matajiri, kutoka kwa ujuzi hadi wajinga. Imani ilikuwa kwamba Brahma, mungu muumbaji, angeandika wakati ujao wa mtoto mchanga, ambao mara nyingi hujulikana kama<strong>'uandishi wa karma' au 'Brahma Vrata,'</strong>kwenye paji la uso la mtoto wakati wa dakika mbili walizotumia kwenye trei ya kupepeta. Bila kujali imani za kibinafsi, maneno ya Yohana, hasa katika muktadha wa Yesu, yana ukweli. Yohana alitumia mlinganisho, akilinganisha matendo na ngano. Ngano, kama chakula kikuu, hudumisha maisha, lakini hupungua tunapoitumia. Katika hali kama hiyo, Jeevatma hupata karma kwa namna ya vitendo. Tunapopitia uzoefu wa karma, 'karma' ya matendo yetu hupungua. Uandishi wa Karma, unaojulikana pia kama uandishi wa paji la uso au hukumu ya Mungu, unaashiria kwamba karma tunayopata imeandikwa katika miili yetu, na uzoefu wetu wa maisha unaonyesha maandishi haya. Yohana alifananisha matendo yaliyoathiriwa na karma yetu na ngano, na 'sinia ya kupepeta' ilikuwa kwa mfano kichwa ambapo hati hizi zilihifadhiwa. Tunapovuna nafaka kutoka kwa trei ya kupepeta ili kuandaa chakula, kichwa chetu kinafafanuliwa kuwa 'trei ya kupepeta' kwa sababu huhifadhi karma tunayotumia.
 
-  Karma is inscribed in a human being’s head without their awareness. As a result, no one can predict the future. Every human is bound by karma and cannot escape its influence. While all humans seem to be mere puppets manipulated by karma, the Holy Spirit or Paramatma remains outside the control of karma. When God chooses to incarnate as a human, He creates His own karma by writing it upon His own head, thus coming to Earth. He possesses no inherent karma but deliberately authors His own destiny to impart wisdom to humanity. Concerning God, who takes charge of His own karma, John expressed, <b>‘His winnowing tray is in His hand.’</b> No one else in the world possesses such control over their karma. In contrast to human limitations, God shapes His own karma and descends as a human being on Earth to share His wisdom. It’s essential to understand that Jesus’ life, from birth to death, was a consequence of self- constructed karma. His birth in a humble barn, his suffering, and his crucifixion were all products of his self-created destiny. No external force could bring about His birth or torment Him without His consent. He determined the course of His earthly existence, indeed holding His own winnowing tray.
+  Karma imeandikwa katika kichwa cha mwanadamu bila ufahamu wao. Matokeo yake, hakuna mtu anayeweza kutabiri siku zijazo. Kila binadamu amefungwa na karma na hawezi kuepuka ushawishi wake. Ingawa wanadamu wote wanaonekana kuwa vibaraka tu wanaotumiwa na karma, Roho Mtakatifu au Paramatma inabaki nje ya udhibiti wa karma. Mungu anapochagua kupata mwili kama mwanadamu, Yeye huumba karma Yake mwenyewe kwa kuiandika juu ya kichwa Chake mwenyewe, hivyo kuja Duniani. Hana karma ya asili lakini kwa makusudi anaandika hatima Yake mwenyewe ili kutoa hekima kwa wanadamu. Kuhusu Mungu, ambaye huchukua jukumu la karma yake mwenyewe, Yohana alionyesha,<strong>' Sinia yake ya kupepetea iko mkononi Mwake.'</strong>Hakuna mtu mwingine ulimwenguni anaye na udhibiti kama huo juu ya karma yao. Kinyume na mapungufu ya mwanadamu, Mungu anatengeneza karma yake mwenyewe na kushuka kama mwanadamu duniani ili kushiriki hekima yake. Ni muhimu kuelewa kwamba maisha ya Yesu, tangu kuzaliwa hadi kifo, yalikuwa matokeo ya karma iliyojijenga. Kuzaliwa kwake katika ghala nyenyekevu, mateso yake, na kusulubishwa kwake vyote vilikuwa mazao ya hatima yake aliyojiumba mwenyewe. Hakuna nguvu ya nje ingeweza kuleta kuzaliwa Kwake au kumtesa bila idhini Yake. Aliamua mwendo wa kuwepo kwake duniani, kwa hakika akiwa ameshikilia sinia Yake ya kupepeta.
 
-  All ordinary people accrue new karma for every deed they perform. Each action on Earth generates new karma. Just as smoke is closely linked to fire, karma is intrinsically associated with deeds. It is a fundamental principle of Prakruti that every action carries karmic consequences. When God incarnates and appears as the Son of God (Bhagavan), every action He undertakes also generates new karma. Ordinary individuals are unable to escape the impending karma. However, Bhagavan Jesus possesses the full fire of wisdom (Gnana Shakti), allowing Him to burn the karma naturally arising from His actions. Christ, the consummate gnani, always has full wisdom power. All karma is consumed in the unquenchable fire of wisdom. Actions are intrinsically connected to karma, much like grains are linked to chaff. John expressed this as, <b>‘He burns the chaff with unquenchable fire,’</b> signifying how Christ eradicates the karma associated with deeds through His wisdom. Jesus purifies Himself from the dust of gunas and incinerates the karma entwined with His actions. John compared Jesus’ body to a threshing floor, symbolizing His removal of the influence of gunas, just as one cleanses a threshing floor. He equated deeds to wheat, the karma originating from those deeds to chaff, and the fire that consumes the karma to an unquenchable fire. John encapsulated the greatness of Jesus in a single sentence, yet, regrettably, we have not fully grasped its significance.
+  Watu wote wa kawaida hupata karma mpya kwa kila tendo wanalofanya. Kila hatua duniani inazalisha karma mpya. Kama vile moshi unavyohusishwa kwa karibu na moto, karma inahusishwa na vitendo. Ni kanuni ya msingi ya Prakruti kwamba kila hatua hubeba matokeo ya karmic. Wakati Mungu anapata mwili na kuonekana kama Mwana wa Mungu (Bhagavan), kila tendo Analofanya pia huzalisha karma mpya. Watu wa kawaida hawawezi kuepuka karma inayokuja. Hata hivyo, Bhagavan Yesu ana moto kamili wa hekima (Gnana Shakti), ukimruhusu kuchoma karma kiasili inayotokana na matendo yake. Kristo, gnani mkamilifu, daima ana nguvu kamili ya hekima. Karma yote huliwa katika moto usiozimika wa hekima. Vitendo vinaunganishwa kihalisi na karma, kama vile nafaka zinavyounganishwa na makapi. Yohana alieleza haya kama,<strong>' Makapi huyachoma kwa moto usiozimika.</strong>ikiashiria jinsi Kristo anavyotokomeza karma inayohusishwa na matendo kupitia hekima yake. Yesu anajitakasa kutoka kwa vumbi la gunas na kuchoma karma iliyofunikwa na matendo yake. Yohana alilinganisha mwili wa Yesu na kiwanja cha kupuria, akifananisha kuondolewa Kwake kwa ushawishi wa gunas, kama vile mtu asafishavyo nafaka. Alilinganisha matendo na ngano, karma inayotokana na matendo hayo hadi makapi, na moto unaoteketeza karma na moto usiozimika. Yohana alijumuisha ukuu wa Yesu katika sentensi moja, hata hivyo, kwa masikitiko, hatujaelewa kikamilifu umuhimu wake.
 
-  The verse may appear straightforward, but it contains profound and subtle meanings. The four Gospels are rich in verses with similar depth. Due to my limited wisdom, I haven’t provided explanations for all 66 chapters of the Bible but have focused on descriptions for the crucial four Gospels, rarely touching on other sections.
+  Mstari huo unaweza kuonekana moja kwa moja, lakini una maana nzito na zisizo wazi. Injili nne zina mistari mingi yenye kina sawa. Kwa sababu ya hekima yangu ndogo, sijatoa ufafanuzi wa sura zote 66 za Biblia lakini nimekazia maelezo ya Injili nne muhimu, na mara chache nikigusa sehemu nyinginezo.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 5,
-verse: `<b>(4) The Gospel of Mathew, 3rd chapter, 16th and 17th verses.</b>`,
+verse: `<b>4) Injili ya Mathayo, sura ya 3, aya ya 16 na 17.</b>`,
 meaning: `
 <b>
-(16) As soon as Jesus was baptized, he went up out of the water. At that moment the sky was opened, and he saw the Spirit of God descending like a dove and alighting on him.
+(3:16) Mara tu Yesu alipobatizwa, alipanda kutoka majini. Wakati huo mbingu zikafunguka, akamwona Roho wa Mungu akishuka kama njiwa na kutua juu yake.
 <br><br>
-(17) And a voice from the sky said, “This is my Son, whom I love; with him, I am well pleased.”
+(3:17) Na sauti kutoka mbinguni ikasema, Huyu ni mwanangu, ninayempenda; naye, nimefurahishwa sana.
 </b>
 `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> John baptized Jesus with water. Baptism is also referred to as ‘upadesa.’ In Telugu, ‘upadesa’ means a country adjacent to your own. In other words, it’s synonymous with a neighboring country. A neighbor resides in a neighboring country. There is a neighboring country within your body, and within that neighboring country of your body resides a neighbor. Every human has a neighboring country and a neighbor, although these entities are not visible in a human being. The Guru reveals the unseen neighboring country during baptism or ‘upadesa.’ John baptized Jesus with water, and there is no fire involved in this ‘upadesa.’ Therefore, it pertains to the name and lacks a neighboring country and neighbor. Nevertheless, the process of ‘upadesa’ must be carried out in this manner. This is why Jesus said in verse 3:15, <b>“Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b>
+<div class="poem"><div class="poemtext">
+  Yohana alimbatiza Yesu kwa maji. Ubatizo pia unajulikana kama 'upadesa.' Katika Kitelugu, 'upadesa' inamaanisha nchi iliyo karibu na yako. Kwa maneno mengine, ni sawa na nchi jirani. Jirani anaishi katika nchi jirani. Kuna nchi jirani ndani ya mwili wako, na ndani ya nchi hiyo jirani ya mwili wako anakaa jirani. Kila binadamu ana nchi jirani na jirani, ingawa vyombo hivi havionekani kwa binadamu. Guru inaonyesha nchi jirani isiyoonekana wakati wa ubatizo au 'upadesa.' Yohana alimbatiza Yesu kwa maji, na hakuna moto unaohusika katika 'upadesa' huo. Kwa hiyo, inahusu jina na haina nchi jirani na jirani. Walakini, mchakato wa 'upadesa' lazima ufanyike kwa njia hii. Ndiyo maana Yesu alisema katika mstari wa 3:15.<strong>"Na iwe hivyo sasa; inatufaa sisi kufanya hivi ili kutimiza uadilifu (hekima) yote.&rdquo;</strong>
 
-  Although Jesus received upadesa with water, He was aware of the neighboring country within His body. He could see both the visible external world and the invisible neighboring country all the time. Therefore, it was considered genuine upadesa, even though the upadesa given by John pertained only to the name. Jesus was baptized after living thirty years as an ordinary Jeevatma. From that point on, He began to speak about divine matters in the form of wisdom not as a Jeevatma, but as Atma. To demonstrate that Jesus, as Atma, conveyed Paramatma’s wisdom, Atma descended like a dove and landed on him immediately after He emerged from the water following His baptism. Furthermore, Paramatma (the Holy Spirit) declared, <b>“This is my son, whom I love; with him, I am well pleased.”</b> The Holy Spirit (God) affirmed that Atma was His beloved Son, and He expressed His joy in His beloved Son, Jesus. By this, it becomes evident that the Holy Spirit is the Father, and Atma is the Son known as Jesus. All of this indicates that the Holy Spirit (Paramatma) did not appear as Atma but instead lived in this world as an ordinary man, appearing as a Jeevatma. I did not say this to praise Christians or promote Christianity. I am sharing with you what I believe to be the absolute truth about how God manifested on Earth.
+  Ingawa Yesu alipokea upadesa kwa maji, alifahamu nchi jirani ndani ya mwili wake. Aliweza kuona ulimwengu wa nje unaoonekana na nchi jirani isiyoonekana kila wakati. Kwa hivyo, ilizingatiwa upadesa halisi, ingawa upadesa uliotolewa na Yohana ulihusu jina tu. Yesu alibatizwa baada ya kuishi miaka thelathini kama Jeevatma wa kawaida. Kuanzia wakati huo na kuendelea, Alianza kuzungumza juu ya mambo ya kimungu kwa njia ya hekima sio kama Jeevatma, lakini kama Atma. Ili kuonyesha kwamba Yesu, kama Atma, aliwasilisha hekima ya Paramatma, Atma alishuka kama njiwa na kutua juu yake mara baada ya kutoka majini baada ya ubatizo Wake. Zaidi ya hayo, Paramatma (Roho Mtakatifu) alitangaza<strong>, &ldquo;Huyu ni mwanangu, ninayempenda; naye, nimefurahishwa sana.&rdquo;</strong>Roho Mtakatifu (Mungu) alithibitisha kwamba Atma alikuwa Mwanawe mpendwa, na Alionyesha furaha Yake katika Mwanawe mpendwa, Yesu. Kwa hili, inakuwa dhahiri kwamba Roho Mtakatifu ni Baba, na Atma ni Mwana anayejulikana kama Yesu. Haya yote yanaonyesha kwamba Roho Mtakatifu (Paramatma) hakuonekana kama Atma bali aliishi katika ulimwengu huu kama mtu wa kawaida, akionekana kama Jeevatma. Sikusema hivi ili kuwasifu Wakristo au kukuza Ukristo. Ninashiriki nawe kile ninachoamini kuwa ukweli kamili kuhusu jinsi Mungu alivyojidhihirisha Duniani.
 </div></div>
 </span>`,
 },
 
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 6,
-verse: `<b>(5)	The Gospel of Mathew, 4th chapter, 10th verse.</b> `,
+verse: `<b>5) Injili ya Mathayo, sura ya 4, mstari wa 10.</b> `,
 meaning: ` <b>
-(10) Jesus said to him, “Away from me, Satan! For it is written: Worship the Lord your God and serve him only.”
+(4:10) Yesu akamwambia, Ondoka kwangu, Shetani; Kwa maana imeandikwa: Mwabudu Bwana Mungu wako na umtumikie yeye peke yake.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> The word <b>‘Satan’</b> is introduced in this verse. In the preceding verses, Satan is occasionally referred to as a ‘tempter (shodakudu in Telugu)’ and in other instances as a ‘defamer (apavadi in Telugu). ’ The term "apavadi" means one who judges wrongly and tells lies, while "shodakudu" implies someone who seeks out evil within you and, if it exists, brings it to the surface. ‘apavadi’ or ‘shodakudu’ is referred to as Satan in this sentence. Both ‘apavadi’ and ‘shodakudu’ belong to the Telugu language, but the word ‘Satan’ is not from Telugu. The word ‘Satan’ appears frequently in this scripture. In the realm of spiritual education, ‘Satan’ is used interchangeably with <b>‘Maya.</b> ’ Since Satan and Maya are essentially the same, descriptions of Maya can also be applied to Satan.
+<div class="poem"><div class="poemtext">
+  Neno<strong>'Shetani'</strong>imetambulishwa katika aya hii. Katika mistari iliyotangulia, mara kwa mara Shetani anajulikana kama 'mjaribu (shodakudu kwa Kitelugu)' na katika hali nyinginezo kama 'mkashifu (apavadi kwa Kitelugu).' Neno "apavadi" linamaanisha mtu anayehukumu vibaya na kusema uwongo, wakati "shodakudu" inamaanisha mtu anayetafuta maovu ndani yako na, ikiwa yapo, anayadhihirisha. 'apavadi' au 'shodakudu' inarejelewa kama Shetani katika sentensi hii. Zote mbili 'apavadi' na 'shodakudu' ni za lugha ya Kitelugu, lakini neno 'Shetani' halitokani na Kitelugu. Neno 'Shetani' linaonekana mara kwa mara katika andiko hili. Katika nyanja ya elimu ya kiroho, 'Shetani' inatumika kwa kubadilishana na<strong>'Maya</strong>.' Kwa kuwa Shetani na Maya ni kitu kimoja, maelezo ya Maya yanaweza pia kutumiwa kwa Shetani.
 
-  In the first divine scripture, Maya refers to the essence of gunas within the head. Concerning Maya, the first divine scripture states, <b>‘Gunamayee mama maaya,’</b> where ‘mama maaya’ means ‘Maya is mine,’ as proclaimed by God. According to this, it is said that Maya is the combination of gunas. God is the creator of all things, including Maya, and thus, God declared that Maya is His own. Maya is of feminine gender, while God and the two souls, Atma and Jeevatma, who separated from God, are masculine (a total of three). Everything else created by God can be said to be feminine. Therefore, Maya is referred to as feminine. We should not consider Maya as being external; rather, the Maya that tempted Jesus was within His own head. Residing in His head, Maya tempted Jesus and engaged in arguments with him. Similarly, the gunas within the head of every person act as their Maya, constantly tempting and debating with them. Following Jesus’ baptism, Maya initially tempted him three times, and Jesus responded with His wisdom on all three occasions.
+  Katika andiko la kwanza la kimungu, Maya inarejelea kiini cha gunas ndani ya kichwa. Kuhusu Maya, andiko la kwanza la kimungu linasema<strong>, 'Gunamayee mama maaya,'</strong>wapi mama maaya' maana yake 'Maya ni wangu,' kama ilivyotangazwa na Mungu. Kulingana na haya, inasemekana kuwa Maya ni mchanganyiko wa gunas. Mungu ndiye muumbaji wa vitu vyote, kutia ndani Maya, na kwa hivyo, Mungu alitangaza kwamba Maya ni Wake. Maya ni wa jinsia ya kike, wakati Mungu na roho mbili, Atma na Jeevatma, waliojitenga na Mungu, ni wanaume (jumla ya watatu). Kila kitu kingine kilichoumbwa na Mungu kinaweza kusemwa kuwa cha kike. Kwa hiyo, Maya inajulikana kama kike. Tusimchukulie Maya kuwa ni mtu wa nje; badala yake, Maya aliyemjaribu Yesu alikuwa ndani ya kichwa Chake mwenyewe. Akiwa anakaa kichwani Mwake, Maya alimjaribu Yesu na kubishana naye. Vile vile, gunas ndani ya kichwa cha kila mtu hufanya kama Maya wao, kila mara wakiwajaribu na kujadiliana nao. Baada ya Yesu kubatizwa, mwanzoni Maya alimjaribu mara tatu, na Yesu akajibu kwa hekima katika pindi zote tatu.
 
-  Jesus set an example in His life that humans should emulate. Whenever Maya tested Jesus, He responded with wisdom. Therefore, every person should learn to do the same. When Satan asked Jesus to bow down to her, Jesus gave Satan (Maya) a fitting reply. Jesus responded to Satan, saying, <b>“Worship the Lord your God, and serve Him alone.”</b> Jesus uttered these words, but it’s crucial to understand that it was the Atma within His body that spoke those words. The Holy Spirit, Paramatma, doesn’t communicate directly with anyone. Instead, He conveys His wisdom through the Atma. So, we should recognize that the wisdom was imparted by Paramatma Himself, even though it was expressed by Atma within the body. In the third and final divine scripture, in 3:7, God states, “God’s wisdom is not known to any person except God.” This emphasizes that the complete wisdom revealed by the Atma within the body is conveyed by Paramatma (God).
+  Yesu aliweka mfano katika maisha yake ambao wanadamu wanapaswa kuiga. Kila Maya alipomjaribu Yesu, alijibu kwa hekima. Kwa hivyo, kila mtu anapaswa kujifunza kufanya vivyo hivyo. Shetani alipomwomba Yesu amsujudie, Yesu alimpa Shetani (Maya) jibu linalofaa. Yesu akamjibu Shetani,<strong>"Mwabudu Bwana, Mungu wako, na kumtumikia yeye peke yake.&rdquo;</strong>Yesu alitamka maneno haya, lakini ni muhimu kuelewa kwamba ilikuwa Atma ndani ya mwili wake ambayo ilizungumza maneno hayo. Roho Mtakatifu, Paramatma, hawasiliani moja kwa moja na mtu yeyote. Badala yake, Anafikisha hekima Yake kupitia Atma. Kwa hiyo, tunapaswa kutambua kwamba hekima ilitolewa na Paramatma Mwenyewe, ingawa ilionyeshwa na Atma ndani ya mwili. Katika andiko la tatu na la mwisho la kimungu, katika 3:7, Mungu anasema, &ldquo;Hekima ya Mungu haijulikani na mtu awaye yote isipokuwa Mungu.&rdquo; Hii inasisitiza kwamba hekima kamili iliyofunuliwa na Atma ndani ya mwili inapitishwa na Paramatma (Mungu).
 
-  There are twelve major religions in the world today, and Hinduism is unique in that it encompasses all devatas not present in other religions. God created both devatas and human beings. However, humans have forsaken God and turned to the worship of devatas, without fully understanding God’s wisdom. This choice underscores that humans did not prioritize God’s teachings as found in their scriptures. Those who abandon God and worship devatas can be seen as being under the influence of Maya, heeding the words of Maya. In the grand scheme, there are essentially two sides: God’s side and Maya’s side. However, in some religions, people exclusively worship God without turning to other devatas. It’s primarily within Hinduism that worship of multiple devatas, apart from God, is more common. Consequently, it becomes evident that those who worship devatas are aligning themselves with Maya’s influence.
+  Kuna dini kuu kumi na mbili ulimwenguni leo, na Uhindu ni wa kipekee kwa kuwa unajumuisha devatas zote ambazo hazipo katika dini zingine. Mungu aliumba viumbe na wanadamu. Hata hivyo, wanadamu wamemwacha Mungu na kugeukia ibada ya wapotovu, bila kuelewa kikamili hekima ya Mungu. Uchaguzi huo unakazia kwamba wanadamu hawakutanguliza mafundisho ya Mungu kama yanavyopatikana katika maandiko yao. Wale wanaomwacha Mungu na kuabudu devatas wanaweza kuonekana kuwa chini ya ushawishi wa Maya, wakizingatia maneno ya Maya. Katika mpango mkuu, kimsingi kuna pande mbili: upande wa Mungu na upande wa Maya. Hata hivyo, katika dini fulani, watu humwabudu Mungu pekee bila kugeukia mambo mengine mabaya. Kimsingi ni ndani ya Uhindu ambapo ibada ya watu wengi, mbali na Mungu, ni ya kawaida zaidi. Kwa hiyo, inakuwa dhahiri kwamba wale wanaoabudu devatas wanajipatanisha na ushawishi wa Maya.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 7,
-verse: ` <b>(6)	The Gospel of Mathew, 5th chapter, 10th verse.</b>`,
+verse: ` <b>6) Injili ya Mathayo, sura ya 5, mstari wa 10.</b>`,
 meaning: `<b>
 (10) Blessed are those who are persecuted because of righteousness (wisdom), for theirs is the kingdom of paraloka.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> The verse includes the word ‘righteousness,’ but it should be <b>‘wisdom’ instead of ‘righteousness.’</b> In the Hebrew language, Jesus likely used the word ‘wisdom.’ However, when translated into English, the word equivalent to the Hebrew term was not accurately represented, and ‘righteousness’ was used instead of ‘wisdom.’ It’s essential to distinguish between ‘righteousness’ and ‘wisdom.<b>’ Righteousness and justice are concepts related to worldly matters, while wisdom and dharma are of a divine nature.</b> Righteousness and justice are associated with karma, while wisdom and dharma have the power to burn karma. This distinction underscores that righteousness pertains to the material realm, while wisdom is of a divine nature. In the world, we encounter righteousness, corruption, justice, and injustice. Righteousness leads to punya (good karma), whereas corruption results in sin. Similarly, justice yields punya, while injustice gives rise to sin. In light of these differences, it’s clear that the verse in question should use ‘wisdom’ in place of ‘righteousness.’
+<div class="poem"><div class="poemtext">
+  Mstari huo unajumuisha neno &lsquo;haki,&rsquo; lakini inapaswa kuwa hivyo<strong>'hekima' badala ya 'haki.'</strong>Katika lugha ya Kiebrania, inaelekea Yesu alitumia neno 'hekima.' Hata hivyo, lilipotafsiriwa katika Kiingereza, neno linalolingana na neno la Kiebrania halikuwakilishwa kwa usahihi, na neno &lsquo;uadilifu&rsquo; lilitumiwa badala ya &lsquo;hekima. Ni muhimu kutofautisha kati ya 'haki' na 'hekima.' <strong>Uadilifu na uadilifu ni dhana zinazohusiana na mambo ya kidunia, wakati hekima na dharma ni asili ya kiungu.</strong>Haki na haki vinahusishwa na karma, wakati hekima na dharma zina uwezo wa kuchoma karma. Tofauti hii inasisitiza kwamba uadilifu unahusiana na ulimwengu wa kimwili, wakati hekima ni ya asili ya kimungu. Katika ulimwengu, tunakutana na uadilifu, ufisadi, haki, na ukosefu wa haki. Uadilifu huongoza kwenye punya (karma nzuri), ambapo ufisadi huleta dhambi. Vile vile, uadilifu hutoa punya, wakati dhulma huzaa dhambi. Kwa kuzingatia tofauti hizi, ni wazi kwamba mstari husika unapaswa kutumia 'hekima' badala ya 'haki.'
 
-  Those who face persecution for their pursuit of wisdom and those who endure hardships on the path of wisdom can be considered blessed. This is because, through their suffering for the sake of wisdom, they can attain moksham, which signifies liberation from the bondage of karma. When a person achieves moksham, they transcend this worldly existence and enter a different state beyond the world. Such an individual is said to have entered paraloka, which is a state devoid of worldly experiences. It’s important to note that not everyone’s journey toward wisdom involves persecution or violence. Some individuals will acquire wisdom and attain moksham (paraloka) without any obstacles.
+  Wale wanaokabili mnyanyaso kwa ajili ya kutafuta kwao hekima na wale wanaovumilia magumu kwenye njia ya hekima wanaweza kuhesabiwa kuwa wenye heri. Hii ni kwa sababu, kupitia mateso yao kwa ajili ya hekima, wanaweza kufikia moksham, ambayo inaashiria ukombozi kutoka kwa utumwa wa karma. Wakati mtu anapata moksham, huvuka uwepo huu wa kidunia na kuingia katika hali tofauti zaidi ya ulimwengu. Inasemekana kwamba mtu kama huyo aliingia paraloka, ambayo ni hali isiyo na uzoefu wa ulimwengu. Ni muhimu kutambua kwamba sio safari ya kila mtu kuelekea hekima inahusisha mateso au vurugu. Baadhi ya watu watapata hekima na kupata moksham (paraloka) bila vizuizi vyovyote.
 </dv></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 8,
-verse: ` <b>(7)	The Gospel of Mathew, 5th chapter, 17th verse.</b> `,
+verse: ` <b>(7)	Injili ya Mathayo, sura ya 5, mstari wa 17.</b> `,
 meaning: ` <b>
-(17)Do not think that I have come to abolish the Law (Dharma Shastra) or the Prophets; I have not come to abolish them but to fulfill them.
+(5:17) Msidhani kuwa nimekuja kutangua Sheria (Dharma Shastra) au Manabii; sikuja kutangua bali kutimiliza.
 </b> `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> No one can condemn the Dharma Shastra. It cannot be condemned. It has been in existence since the dawn of creation, with numerous prophets and teachers imparting its wisdom. When Paramatma (the Supreme Being) descends to Earth as Bhagavan, He not only practices the Dharma Shastra but also makes its principles understandable to all. However, when Bhagavan, as the Son of God, reveals and practices the dharmas outlined in the Dharma Shastra, they may not appear as dharmas to some individuals. This discrepancy arises from the fact that some people mistakenly believe adharmas to be dharmas. Consequently, the true dharmas may seem like adharmas when Bhagavan imparts His teachings. This is why Jesus stated in the verse above, <b>‘Do not think that I have come to abolish the Law (Dharma Shastra) but to fulfill it.’</b>
+<div class="poem"><div class="poemtext">
+  Hakuna anayeweza kulaani Dharma Shastra. Haiwezi kuhukumiwa. Imekuwapo tangu mwanzo wa uumbaji, na manabii na waalimu wengi wakipeana hekima yake. Wakati Paramatma (Kiumbe Mkuu) anaposhuka duniani kama Bhagavan, Yeye sio tu anatenda Dharma Shastra lakini pia hufanya kanuni zake kueleweka kwa wote. Hata hivyo, wakati Bhagavan, kama Mwana wa Mungu, anapofichua na kutekeleza dharma zilizoainishwa katika Dharma Shastra, zinaweza zisionekane kama dharma kwa baadhi ya watu. Tofauti hii inatokana na ukweli kwamba baadhi ya watu wanaamini kimakosa kuwa adharma ni dharmas. Kwa hivyo, dharma ya kweli inaweza kuonekana kama adharma wakati Bhagavan anapotoa mafundisho Yake. Hii ndiyo sababu Yesu alisema katika mstari hapo juu,<strong>'Msifikiri kwamba nimekuja kutangua Sheria (Dharma Shastra) bali kuitimiza.'</strong>
 
-  People in the world have fallen into the influence of Maya (Satan) and have come to believe that adharmas are dharmas. Consequently, they engage in various forms of worship, thinking it to be sincere devotion. Maya has redirected people’s understanding of God towards itself, leading them to believe they are progressing towards God. In this process, it steers them to practice adharmas rather than dharmas, effectively leading them in the opposite direction of God. In such a state, even when God incarnates as a human and practices the true dharmas, those actions may appear misleading to those influenced by Maya. People may mistakenly think that what they are doing is the true dharma and that they are genuine believers. They might accuse God who has come as a human of following adharmas and may even label Him as a blasphemer. When the real God came to Earth as Jesus, what He said and practiced were indeed dharmas. However, these dharmas appeared to contradict the teachings of scholars, swamis, and gurus. This discrepancy is why the chief priests, scribes, and Caiaphas opposed and denounced Jesus. Hence, Jesus emphasized in the verse, <b>“I have not come to abolish them but to fulfill them.”</b>
+  Watu ulimwenguni wameangukia katika ushawishi wa Maya (Shetani) na wameamini kwamba adharma ni dharmas. Kwa sababu hiyo, wao hushiriki ibada mbalimbali, wakifikiri kwamba ni ujitoaji wa moyo mweupe. Maya ameelekeza upya ufahamu wa watu juu ya Mungu kuelekea kwake, na kuwaongoza kuamini kwamba wanasonga mbele kuelekea kwa Mungu. Katika mchakato huu, inawaelekeza kufanya mazoezi ya adharma badala ya dharma, kuwaongoza kwa njia tofauti na Mungu. Katika hali kama hiyo, hata wakati Mungu anapata mwili kama mwanadamu na kutekeleza dharma ya kweli, vitendo hivyo vinaweza kuonekana kuwa vya kupotosha kwa wale walioathiriwa na Maya. Watu wanaweza kufikiri kimakosa kwamba wanachofanya ni dharma ya kweli na kwamba wao ni waumini wa kweli. Wanaweza kumshutumu Mungu ambaye amekuja kama mwanadamu kwa kufuata adharma na wanaweza hata kumtaja kuwa ni mkufuru. Wakati Mungu wa kweli alipokuja Duniani kama Yesu, kile Alichosema na kutenda kilikuwa dharmas. Hata hivyo, dharma hizi zilionekana kupingana na mafundisho ya wasomi, swamis, na gurus. Tofauti hii ndiyo sababu wakuu wa makuhani, waandishi, na Kayafa walimpinga na kumshutumu Yesu. Kwa hiyo, Yesu alisisitiza katika mstari huo,<strong>" sikuja kutangua, bali kutimiliza.&rdquo;</strong>
 </div></div>
 </span>  `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 1,
 pageNumber: 9,
-verse: ` <b>(8)	The Gospel of Mathew, 5th chapter, 18th verse.</b>`,
-meaning: `<b>(18) For truly I tell you, until sky and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law (Dharma Shastra) until everything is accomplished.    </b>`,
+verse: ` <b>(8)	Injili ya Mathayo, sura ya 5, mstari wa 18.</b>`,
+meaning: `<b>(5:18) Kwa maana amin, nawaambia, mpaka mbingu na nchi zitakapotoweka, hakuna herufi ndogo kabisa, hata nukta moja ya kalamu, itakayotoweka katika Sheria (Dharma Shastra) mpaka yote yatimie.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this verse, the term <strong>&lsquo;Dharma Shastra&rsquo;</strong> is unique, and some may wonder what it means. To address such inquiries, it&rsquo;s essential to understand the concept of shastra (science), the various types of sciences, and the distinctiveness of Dharma Shastra within the field of sciences. First, if we grasp the meaning of the word <strong>&lsquo;shastra&rsquo;</strong>, we will understand shastra to some extent. The word &lsquo;shastra&rsquo; is derived from the Telugu word &lsquo;<strong>shasanam</strong>, &rsquo; which conveys the idea of <strong>&lsquo;must be enforced.&rsquo;</strong> Consequently, &lsquo;shastra&rsquo; implies <strong>&lsquo;whatever is stated must come to pass.&rsquo;</strong> Additionally, the term &lsquo;<strong>shapam</strong>&rsquo; is derived from &lsquo;shastra,&rsquo; and it signifies<strong> &lsquo;must be executed.&rsquo;</strong> Thus, all three words - <strong>shasanam&rsquo; (statute), &rsquo;shapam&rsquo; (curse), and &rsquo;shastra&rsquo; (science)</strong> share the same underlying meaning. Shastra is typically categorized into six distinct areas of study. Some may argue that the six sciences can be grouped into two kinds, while others propose three categories. Broadly speaking, shastras can be considered two types. In other words, we can describe shastras as threefold. If we categorize them as two types, one set is related to worldly matters, and the other pertains to matters related to Paramatma (the Supreme Being). In the threefold classification, four shastras are associated with worldly concerns, one relates solely to Paramatma, and other falls into the category of being partially related to Paramatma and partially related to worldly matters.
+<div class="poem"><div class="poemtext">
+  Katika aya hii, neno<strong>'Dharma Shastra'</strong>ni ya kipekee, na huenda wengine wakajiuliza maana yake. Ili kushughulikia maswali kama haya, ni muhimu kuelewa dhana ya shastra (sayansi), aina mbalimbali za sayansi, na upambanuzi wa Dharma Shastra ndani ya uwanja wa sayansi. Kwanza, tukifahamu maana ya neno 'shastra', tutaelewa shastra kwa kiasi fulani. Neno<strong>'shastra'</strong>linatokana na neno la Kitelugu<strong>'shasanam</strong>,' ambayo inatoa wazo la<strong>'lazima itekelezwe.'</strong>Kwa hivyo, 'shastra' inamaanisha<strong>'yote yaliyosemwa lazima yatimie.'</strong>Kwa kuongeza, neno<strong>'shapam'</strong>imechukuliwa kutoka kwa 'shastra,' na inaashiria<strong>' lazima itekelezwe.'</strong>Kwa hivyo, maneno yote matatu - <strong>shasanam' (sheria), 'shapam' (laana), na 'shastra' (sayansi) </strong>shiriki maana sawa ya msingi. Shastra kwa kawaida imeainishwa katika maeneo sita tofauti ya utafiti. Wengine wanaweza kusema kwamba sayansi sita zinaweza kuunganishwa katika aina mbili, wakati wengine wanapendekeza aina tatu. Kwa ujumla, shastra inaweza kuzingatiwa aina mbili. Kwa maneno mengine, tunaweza kuelezea shastra kama tatu. Ikiwa tutaziainisha kama aina mbili, seti moja inahusiana na mambo ya kidunia, na nyingine inahusu mambo yanayohusiana na Paramatma (Mwenye Kuu). Katika uainishaji wa aina tatu, shastra nne zinahusishwa na masuala ya kidunia, moja inahusiana na Paramatma pekee, na nyingine inaangukia katika kundi la kuwa na uhusiano wa sehemu na Paramatma na kwa kiasi fulani kuhusiana na mambo ya kidunia.
 
-The six shastras are as follows: 1) Mathematics, 2) Astronomy, 3) Chemistry, 4) Physics, 5) Astrology, and 6) Brahma Vidya. Of these, the first four are concerned with worldly matters, while the fifth, Astrology, has connections with both worldly concerns and the divine. Alternatively, if Astrology is also considered within the category of worldly shastras, the first five shastras are classified as worldly, while Brahma Vidya Shastra remains as the sole science related to the Divine. There are a total of six sciences, with Brahma Vidya being the most significant. This is why it is known as the Brahma Vidya shastra, with ‘Brahma’ signifying greatness. ‘Brahma’ is not a name, but a term used to denote God’s greatest and supreme nature. <b>As it is a science dedicated to the understanding of God, it is appropriately named the Brahma Vidya shastra.</b> Given that Brahma Vidya pertains to the science of God, it carries the ‘vidya’ designation. The other five worldly sciences, namely Mathematics, Astronomy, Chemistry, Physics, and Astrology, lack the <b>‘vidya’</b> suffix in their names. The term ‘vidya’ is reserved for the science related to God. Some may wonder about the reason for this distinction, and the answer is as follows.
+  Shastra sita ni kama ifuatavyo: 1) Hisabati, 2) Astronomia, 3) Kemia, 4) Fizikia, 5) Unajimu, na 6) Brahma Vidya. Kati ya hizi, nne za kwanza zinahusika na mambo ya kidunia, wakati ya tano, Unajimu, ina uhusiano na wasiwasi wa kidunia na wa kimungu. Vinginevyo, ikiwa Unajimu pia unazingatiwa ndani ya kategoria ya shastra za kidunia, shastra tano za kwanza zimeainishwa kama za kidunia, wakati Brahma Vidya Shastra inabaki kama sayansi pekee inayohusiana na Uungu. Kuna jumla ya sayansi sita, huku Brahma Vidya akiwa muhimu zaidi. Hii ndiyo sababu inajulikana kama Brahma Vidya shastra, na 'Brahma' ikimaanisha ukuu. 'Brahma' si jina, lakini neno linalotumiwa kuashiria asili kuu na kuu ya Mungu.<strong>Kwa kuwa ni sayansi iliyojitolea kwa ufahamu wa Mungu, inaitwa kwa kufaa Brahma Vidya shastra.</strong>Ikizingatiwa kwamba Brahma Vidya inahusu sayansi ya Mungu, inabeba jina la 'vidya'. Sayansi nyingine tano za kidunia, ambazo ni Hisabati, Unajimu, Kemia, Fizikia, na Unajimu, hazina elimu.<strong>'vidya'</strong>kiambishi katika majina yao. Neno 'vidya' limetengwa kwa ajili ya sayansi inayohusiana na Mungu. Wengine wanaweza kujiuliza juu ya sababu ya tofauti hii, na jibu ni kama ifuatavyo.
 
-  Sciences can be divided into two types: worldly-related and Paramatma-related. The five material sciences can be fully comprehended by anyone. However, Brahma Vidya, the greatest of all, which reveals God’s dharmas, is the only one that includes the term ‘vidya’ in its name, earning it the title of the greatest Vidya shastra. The word ‘vidya’ (education) originates from the sound <b>‘vith,</b> ’ which means knowing. Vidya implies knowledge that should be acquired. A ‘vidyarthi’ (student) is someone who seeks knowledge, asking for something they do not yet possess and acquiring it from those who possess the knowledge. Students acquire essential education from knowledgeable teachers. Vidya refers to knowledge that can be known but not fully comprehended. In a similar manner, no one can claim to fully understand the subject of God. No one can assert that they possess complete knowledge of God. Learning about God is a lifelong pursuit, and people continue to gain understanding throughout their lives. There is no one who can say that this is the limit and that they know everything. Humans will always continue to learn about the matter of God, but will never know it fully. Therefore, the science of God is always referred to as Vidya shastra, and it is perpetually the Brahma Vidya shastra. In contrast, one can fully grasp the other five sciences, leaving nothing more to be known. As a result, the term ‘vidya’ is not added to their names.
+  Sayansi inaweza kugawanywa katika aina mbili: inayohusiana na ulimwengu na inayohusiana na Paramatma. Sayansi tano za nyenzo zinaweza kueleweka kikamilifu na mtu yeyote. Hata hivyo, Brahma Vidya, mkuu kuliko wote, anayefichua dharma za Mungu, ndiye pekee anayejumuisha neno 'vidya' katika jina lake, akiipata jina la Vidya shastra mkubwa zaidi. Neno 'vidya' (elimu) linatokana na sauti<strong>'vith</strong>,' ambayo ina maana ya kujua. Vidya inamaanisha maarifa ambayo yanapaswa kupatikana. 'Vidyarthi' (mwanafunzi) ni mtu anayetafuta elimu, akiomba kitu ambacho bado hajakimiliki na kukipata kutoka kwa wenye ujuzi. Wanafunzi hupata elimu muhimu kutoka kwa walimu wenye ujuzi. Vidya inarejelea ujuzi ambao unaweza kujulikana lakini haueleweki kikamilifu. Vivyo hivyo, hakuna anayeweza kudai kwamba anaelewa kikamilifu somo la Mungu. Hakuna anayeweza kudai kwamba wana ujuzi kamili wa Mungu. Kujifunza juu ya Mungu ni ufuatiliaji wa maisha yote, na watu wanaendelea kupata ufahamu katika maisha yao yote. Hakuna mtu anayeweza kusema kwamba hii ni kikomo na kwamba wanajua kila kitu. Wanadamu daima wataendelea kujifunza kuhusu jambo la Mungu, lakini kamwe hawatalijua kikamilifu. Kwa hiyo, sayansi ya Mungu daima inajulikana kama Vidya shastra, na daima ni Brahma Vidya shastra. Kinyume chake, mtu anaweza kufahamu kikamilifu sayansi nyingine tano, bila kuacha chochote zaidi kujulikana. Matokeo yake, neno 'vidya' haliongezwe kwa majina yao.
 
-  The one who possesses complete knowledge of God (the Brahma) can share this wisdom with others. If an individual lacks knowledge of God’s wisdom, who else can confidently convey it? Our response to this question is as follows: Only God himself fully knows His own wisdom. Consequently, God must personally convey His wisdom. However, God does not communicate directly with anyone. Instead, God, while not appearing as God, imparts His wisdom by taking on the form of a man. It is important to note that while God may come in a human-like form, He is not a human being. In the guise of a man, God has revealed His wisdom in its entirety, presenting it as a science with prescribed principles and ordinances. Therefore, what God has revealed is referred to as the Brahma Vidya shastra. God Himself communicated the Brahma Vidya shastra, and it is incumbent upon humanity to comprehend it. When a person gains full understanding of the Brahma Vidya, they are liberated from karma and can unite with God. Consequently, individuals must persist in acquiring knowledge of God’s science until they attain moksham (liberation). Therefore, it is aptly named Brahma Vidya, as it is the highest form of education in the world.
+  Yule aliye na maarifa kamili ya Mungu (Brahma) anaweza kushiriki hekima hii na wengine. Ikiwa mtu binafsi hana ujuzi wa hekima ya Mungu, ni nani mwingine anayeweza kuieleza kwa uhakika? Jibu letu kwa swali hili ni kama ifuatavyo: Mungu pekee ndiye anajua hekima yake mwenyewe. Kwa hiyo, Mungu lazima binafsi atoe hekima Yake. Hata hivyo, Mungu hawasiliani moja kwa moja na mtu yeyote. Badala yake, Mungu, ingawa haonekani kama Mungu, hutoa hekima Yake kwa kuchukua umbo la mwanadamu. Ni muhimu kutambua kwamba ingawa Mungu anaweza kuja katika umbo linalofanana na la mwanadamu, Yeye si mwanadamu. Katika sura ya mwanadamu, Mungu amedhihirisha hekima yake kwa ukamilifu, akiiwasilisha kama sayansi yenye kanuni na maagizo yaliyowekwa. Kwa hiyo, kile ambacho Mungu amefunua kinaitwa Brahma Vidya shastra. Mungu Mwenyewe aliwasiliana na Brahma Vidya shastra, na ni wajibu kwa wanadamu kuielewa. Wakati mtu anapata ufahamu kamili wa Brahma Vidya, anakombolewa kutoka kwa karma na anaweza kuungana na Mungu. Kwa hiyo, ni lazima watu binafsi wadumu katika kupata ujuzi wa sayansi ya Mungu hadi wapate moksham (ukombozi). Kwa hiyo, inaitwa kwa kufaa Brahma Vidya, kwa kuwa ndiyo aina ya elimu ya juu zaidi ulimwenguni.
 
-  God’s dharmas are articulated in the Brahma Vidya shastra, which is why it is referred to as the Dharma Shastra in the divine scriptures. God initially revealed His shastra with ordinances at the very dawn of creation. Subsequently, three divine scriptures emerged at different times and in distinct locations. These three divine scriptures can be regarded as the three Dharma Shastras, all of which exclusively contain dharmas. Consequently, all three Dharma Shastras share the same principles and are rooted in God’s dharmas. They are unified in their adherence to the Brahma Vidya and teach God’s dharmas. As a result, the three Dharma Shastras mutually corroborate with one another and do not contradict each other. <b>The first divine scripture is known as the Bhagavad-Gita, the second divine scripture is named the Bible, and the third divine scripture (the final divine scripture) is called the Quran.</b> While these three scriptures bear different names, they convey the dharmas of the same God.
+  Dharma za Mungu zimefafanuliwa katika Brahma Vidya shastra, ndiyo maana inajulikana kama Dharma Shastra katika maandiko matakatifu. Hapo awali Mungu alifunua shastra yake kwa maagizo katika mapambazuko ya uumbaji. Baadaye, maandiko matatu ya kimungu yalitokea kwa nyakati tofauti na katika maeneo tofauti. Maandiko haya matatu ya kiungu yanaweza kuzingatiwa kama Dharma Shastras tatu, ambazo zote zinajumuisha peke yake. dharma. Kwa hivyo, Dharma Shastra zote tatu zinashiriki kanuni sawa na zimejikita katika dharma za Mungu. Wameunganishwa katika kufuata kwao Brahma Vidya na kufundisha dharma za Mungu. Kama matokeo, Dharma Shastras tatu zinathibitishana na hazipingani.<strong>Maandiko ya kwanza ya kiungu yanajulikana kama Bhagavad-Gita, andiko la pili la kiungu linaitwa Biblia, na andiko la tatu la kimungu (maandiko ya mwisho ya kimungu) linaitwa Quran.</strong>Ingawa maandiko haya matatu yana majina tofauti, yanawasilisha dharma ya Mungu mmoja.
 
-  Following the Brahma Vidya shastra, three prophets conveyed God’s wisdom, which subsequently became three distinct divine scriptures. Although these three divine scriptures are separate, they all expound on the same God’s dharmas from three different perspectives. Since the dharmas presented within these scriptures are based on science, they will be realized exactly as they have been stated, as affirmed in the verse <b>‘until sky and earth disappear.’</b> The outer world’s Sky and Earth are eternal, as God has made them so. However, the invisible counterparts of Earth and Sky within the human body are entirely perishable. Hence, the phrase ‘until sky and earth disappear’ must be understood as ‘until the human body dies (disappears).’ When an individual seeks God’s wisdom, they must adhere to all of God’s commandments (dharmas). Without wholeheartedly practicing God’s dharmas, one cannot attain paraloka. As outlined in the Dharma Shastra, moksham (liberation) can only be achieved when all the dharmas have been fulfilled. Even if a person does not practice even a little of what is outlined in the Dharma Shastra, they will not attain moksham. Instead of merely suggesting, <b>‘even if a little thing is not followed from the prescribed dharmas,’</b> it is expressed <b>as ‘not the smallest letter, not the least stroke of a pen.’</b> Therefore, it is crucial to follow every aspect of the Dharma Shastra without leaving anything overlooked. It is important to know that the letter and stroke of a pen mentioned are not related to the writing in the book.
+  Kufuatia Brahma Vidya shastra, manabii watatu waliwasilisha hekima ya Mungu, ambayo baadaye ikawa maandiko matatu tofauti ya kimungu. Ingawa maandiko haya matatu ya kiungu ni tofauti, yote yanaeleza juu ya dharma ya Mungu mmoja kutoka kwa mitazamo mitatu tofauti. Kwa vile dharma zinazotolewa ndani ya maandiko haya zinatokana na sayansi, zitatimizwa sawasawa kama zilivyoelezwa, kama inavyothibitishwa katika aya.<strong>'mpaka mbingu na nchi zitakapotoweka.</strong>Anga za ulimwengu wa nje na Dunia ni za milele, kama vile Mungu amezifanya hivyo. Hata hivyo, wenzao wasioonekana wa Dunia na Anga ndani ya mwili wa binadamu wanaweza kuharibika kabisa. Kwa hivyo, maneno 'mpaka mbingu na ardhi zitoweke' lazima ieleweke kuwa 'mpaka mwili wa mwanadamu unakufa (kutoweka).' Mtu anapotafuta hekima ya Mungu, ni lazima azingatie amri zote za Mungu (dharmas). Bila kufanya mazoezi ya dharma ya Mungu kwa moyo wote, mtu hawezi kufikia paraloka. Kama ilivyoainishwa katika Dharma Shastra, moksham (ukombozi) unaweza kupatikana tu wakati dharma zote zimetimizwa. Hata kama mtu hafanyi mazoezi hata kidogo ya yale yaliyoainishwa katika Dharma Shastra, hatapata moksham. Badala ya kupendekeza tu,<strong>'hata kama kitu kidogo hakifuatwi kutoka kwa dharma zilizowekwa,'</strong>inaonyeshwa<strong>kama 'sio herufi ndogo zaidi, wala hata alama ya kalamu.'</strong>Kwa hivyo, ni muhimu kufuata kila kipengele cha Dharma Shastra bila kuacha chochote kupuuzwa. Ni muhimu kujua kwamba herufi na kiharusi cha kalamu iliyotajwa havihusiani na maandishi katika kitabu.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 10,
-verse: ` <b>(9)	The Gospel of Mathew, 5th chapter, 19th verse.</b>`,
+verse: ` <b>(9)	Injili ya Mathayo, sura ya 5, mstari wa 19.</b>`,
 meaning: `<b>
-(19) Therefore, anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of paraloka, but whoever practices and teaches these commands will be called great in the kingdom of paraloka. </b> `,
+(5:19) Kwa hiyo, yeyote atakayeitupilia mbali amri mojawapo iliyo ndogo katika hizo amri na kuwafundisha wengineipasavyo, ataitwa mdogo kabisa katika ufalme wa paraloka. </b> `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> While there are some fundamental dharmas outlined in the Dharma Shastra, many are interconnected with them. God’s dharmas are also referred to as <b>commandments.</b> There are primarily <b>two</b> most essential of God’s commandments, but several others are connected to them. Anyone who transgresses even the tiniest of these connected commandments and imparts such teachings is acting against righteousness. A person should not transgress any of the dharmas, whether they are minor or significant, as instructed by God. Every single dharma, no matter how small, should be diligently practiced without exception. However, some individuals, instead of adhering to even the smallest dharmas, have strayed from the path of dharmas. They have not only embraced adharmas but also spread such teachings. Despite being regarded as Gurus by society, they have failed to comprehend God’s commandments correctly. Regrettably, they have misconstrued God’s dharmas as adharmas and have become proponents of adharmas. They misguide people by imparting such teachings, asserting that they are imparting true wisdom and the genuine commandments of God. Even though they may be esteemed as great Gurus in the eyes of the world, in God’s eyes, they are considered the least.
+<div class="poem"><div class="poemtext">
+  Ingawa kuna dharma za kimsingi zilizoainishwa katika Dharma Shastra, nyingi zimeunganishwa nazo. Dharma za Mungu pia zinajulikana kamaamri.kimsingi  Kuna amri mbili muhimu zaidi kati za amri za Mungu, lakini nyingine kadhaa zimeunganishwa nazo. Yeyote anayevunja hata amri ndogo kabisa kati ya hizi amri zilizounganishwa na kutoa mafundisho kama hayo anatenda kinyume haki. Mtu hapaswi kuvuka dharma yoyote, iwe ni ndogo au muhimu, kama ilivyoelekezwa na Mungu. Kila dharma moja, hata iwe ndogo jinsi gani, inapaswa kufanywa kwa bidii bila ubaguzi. Hata hivyo, baadhi ya watu binafsi, badala ya kuambatana na hata dharma ndogo zaidi, wamepotoka kutoka kwenye njia ya dharmas. Hawajakubali tu adharma bali pia wameeneza mafundisho hayo. Licha ya kuonekana kama Gurus na jamii, wameshindwa kuelewa amri za Mungu kwa usahihi. Kwa kusikitisha, wameelewa vibaya dharma za Mungu kama adharma na wamekuwa wafuasi wa adharma. Wanapotosha watu kwa kuwafundisha mafundisho hayo, wakidai kwamba wanawapa hekima ya kweli na amri za kweli za Mungu. Ingawa wanaweza kuheshimika kama Gurus wakubwa machoni pa ulimwengu, machoni pa Mungu, wanachukuliwa kuwa duni.
 
-  Those who grasp the dharmas accurately impart them as dharmas to those interested, even if they are not well-known Gurus. Some individuals misinterpret God’s dharmas as adharmas and, in turn, teach these adharmas. Consequently, those who teach adharmas cannot attain the kingdom of paraloka. The ignorant will never attain the kingdom of paraloka, as it remains permanently closed to them, deeming them unworthy. Even if someone who comprehends God’s commandments from the scriptures is not considered a Guru, they will attain a significant place in paraloka when they teach the dharmas they know. Such an individual is not just known as a follower of dharmas but also holds high regard in God’s eyes. A true dharma follower is one who meticulously imparts even the smallest of God’s dharmas in great detail.
+  Wale wanaozifahamu dharma kwa usahihi huzitoa kama dharma kwa wale wanaopendezwa, hata kama si Waguru wanaojulikana sana. Baadhi ya watu hutafsiri vibaya dharma za Mungu kama adharma na, kwa upande wake, hufundisha adharma hizi. Kwa hivyo, wale wanaofundisha adharma hawawezi kufikia ufalme wa paraloka. Wajinga hawatapata kamwe ufalme wa paraloka, kwani unabaki kufungwa kwao kwa kudumu, wakiwaona kuwa hawastahili. Hata kama mtu anayeelewa amri za Mungu kutoka kwenye maandiko hachukuliwi kuwa Guru, atapata nafasi muhimu katika paraloka wakati anafundisha dharmas wanayojua. Mtu kama huyo hajulikani tu kama mfuasi wa dharmas lakini pia ana heshima kubwa machoni pa Mungu. Mfuasi wa kweli wa dharma ni yule anayetoa kwa uangalifu hata dharma ndogo kabisa ya Mungu kwa undani sana.
 </div></div>
 
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 1,
 pageNumber: 11,
-verse: `<b>(10)	The Gospel of Mathew, 5th chapter, 20th verse.</b> `,
+verse: `<b>(10)	Injili ya Mathayo, sura ya 5, mstari wa 20.</b> `,
 meaning: ` <b>
-      (20) For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of paraloka.</b>`,
+      (5:20) Kwa maana nawaambia ya kwamba wema wenu usipozidi ule wa Mafarisayo na wa walimu wa sheria, hakika hamtaingia katika ufalme wa paraloka.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the world, there are many Pharisees, devotees, and teachers. It is essential to possess a greater depth of wisdom than they do. God has stated that those who possess less wisdom than Pharisees, devotees, and teachers cannot enter paraloka. As the verse suggests, when you possess more wisdom than Swamis and Pharisees, who engage in yajnas (ritual sacrifices) and act contrary to what God has instructed, you will easily attain paraloka.
+<div class="poem"><div class="poemtext">
+  Ulimwenguni, kuna Mafarisayo wengi, waaminifu, na walimu. Ni muhimu kuwa na hekima nyingi zaidi kuliko wao. Mungu amesema kwamba wale walio na hekima ndogo kuliko Mafarisayo, waaminifu, na walimu hawawezi kuingia paraloka. Kama aya inavyopendekeza, unapokuwa na hekima zaidi kuliko Swami na Mafarisayo, ambao hujishughulisha na yajnas (dhabihu za ibada) na kutenda kinyume na kile ambacho Mungu ameamuru, utapata paraloka kwa urahisi.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 12,
-verse: `<b>(11)	The Gospel of Mathew, 5th chapter, 28th verse.</b> `,
+verse: `<b>(11)	Injili ya Mathayo, sura ya 5, mstari wa 28.</b> `,
 meaning: `<b>
-(28) But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. </b>     `,
+(5:28) Lakini mimi nawaambia kwamba yeyote anayemtazama mwanamke kwa kumtamani amekwisha kuzini naye moyoni mwake. </b>     `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Human actions can be categorized into two distinct approaches: external actions that are observable and internal actions that occur within a person's thoughts and feelings. Both of these dimensions are present in every individual. In one approach, a person engages in actions related to their gunas with internal thoughts and emotions. In the other approach, the same actions are performed through the interaction of gunas and the physical body. The consequences of these actions result in either punya (good karma) or sin (bad karma). It is important to note that there are two types of actions: physical (visible) and non-physical (invisible). <b>When evaluating a person’s character, society often relies on their observable physical actions to determine whether they are considered good or bad. However, it becomes more challenging to make such judgments when a person’s actions are internal, involving thoughts and emotions, as they are not readily discernible.</b> It is difficult to ascertain whether a person is good or bad when we are unaware of their actions.
+<div class="poem"><div class="poemtext">
+  Matendo ya binadamu yanaweza kugawanywa katika njia mbili tofauti: vitendo vya nje vinavyoonekana na vitendo vya ndani vinavyotokea ndani ya mawazo na hisia za mtu. Vipimo hivi vyote viwili viko katika kila mtu. Kwa njia moja, mtu hujihusisha na vitendo vinavyohusiana na gunas zao na mawazo ya ndani na hisia. Kwa njia nyingine, vitendo sawa vinafanywa kupitia mwingiliano wa gunas na mwili wa kimwili. Matokeo ya vitendo hivi husababisha ama punya (karma nzuri) au dhambi (karma mbaya). Ni muhimu kutambua kwamba kuna aina mbili za vitendo: kimwili (inayoonekana) na isiyo ya kimwili (isiyoonekana).<strong>) Wakati wa kutathmini tabia ya mtu, jamii mara nyingi hutegemea matendo yao ya kimwili yanayoweza kuonekana ili kubaini kama yanachukuliwa kuwa mazuri au mabaya. Hata hivyo, inakuwa vigumu zaidi kufanya maamuzi hayo wakati matendo ya mtu ni ya ndani, yanayohusisha mawazo na hisia, kwa kuwa hayatambuliki kwa urahisi.</strong>Ni vigumu kujua kama mtu ni mzuri au mbaya wakati hatujui matendo yake.
 
-  A person’s <b>aham</b> (the ego or sense of self), whether present in their physical actions or non-physical thoughts, plays a crucial role in the generation of karma. Sin or punya karma is received by an individual due to the presence of aham in their body. While the external organs of the body are involved in physical actions, it is the functioning of aham that influences the karmic outcome of those actions. Even when a person does not physically engage in an action, their aham, located next to buddhi (intellect), attaches karma based on what aham senses in the thoughts of buddhi when contemplation is undertaken with the influence of gunas. If aham is not active, a person will not accumulate karma, even if they are involved in physical or non-physical work. This concept is reflected in the first divine scripture, specifically in the 17th verse of Moksha Sanyasa Yoga, which states, <b>“Although a person eliminates all beings in the world without the presence of aham in their feelings, they will not incur sin for the act of killing, and they will not be considered a murderer.”</b> This emphasizes the importance of aham in determining the moral consequences of one’s actions. Jesus also conveyed a similar message when He said, <b>‘You will incur sin through your thoughts because of aham, even if you haven’t physically carried out the action.’</b> This reveals the unity in the teachings of both the first and second divine scriptures, as well as the consistency of the wisdom conveyed. A person’s actions performed without aham are considered as if they were not done, and thoughts that involve aham are treated as if the action was executed. Hence, the presence of aham within the body influences the accumulation of punya and sin by the Jeevatma. Consequently, it was stated from the outset of creation that ‘performing actions without aham is Karma Yogam,’ a concept reiterated in both the first and second divine scriptures.
+  Ya mtu<strong>aham</strong>(ego au hisia ya ubinafsi), iwe iko katika matendo yao ya kimwili au mawazo yasiyo ya kimwili, ina jukumu muhimu katika kizazi cha karma. Dhambi au punya karma inapokelewa na mtu binafsi kutokana na kuwepo kwa aham katika miili yao. Wakati viungo vya nje vya mwili vinahusika katika utendaji wa kimwili, ni utendaji wa aham ambao huathiri matokeo ya karmic ya vitendo hivyo. Hata wakati mtu hajishughulishi kimwili na kitendo, aham yao, iliyo karibu na buddhi (akili), huambatanisha karma kulingana na kile aham anahisi katika mawazo ya Buddhi wakati kutafakari inafanywa kwa ushawishi wa gunas. Ikiwa aham haifanyi kazi, mtu hatajilimbikiza karma, hata ikiwa anahusika katika kazi ya kimwili au isiyo ya kimwili. Wazo hili linaonyeshwa katika andiko la kwanza la kimungu, haswa katika aya ya 17 ya Moksha Sanyasa Yoga, ambayo inasema,<strong>"Ijapokuwa mtu anaviondoa viumbe vyote duniani bila ya kuwepo kwa aham katika hisia zao, hatapata dhambi kwa kitendo cha kuua, na hatahesabiwa kuwa ni muuaji.&rdquo;</strong>Hili linatilia mkazo umuhimu wa aham katika kuamua matokeo ya kimaadili ya matendo ya mtu. Yesu pia alitoa ujumbe kama huo aliposema,<strong>'Utapata dhambi kupitia mawazo yako kwa sababu ya aham, hata kama haujafanya tendo hilo kimwili.'</strong>Hilo lafunua umoja katika mafundisho ya maandiko ya kimungu ya kwanza na ya pili, pamoja na uthabiti wa hekima inayotolewa. Matendo ya mtu yanayofanywa bila aham yanazingatiwa kana kwamba hayakufanywa, na mawazo yanayohusisha aham yanachukuliwa kana kwamba kitendo hicho kilitekelezwa. Kwa hivyo, uwepo wa aham ndani ya mwili huathiri mkusanyiko wa punya na dhambi na Jeevatma. Kwa hiyo, ilielezwa kutoka kwa mwanzo wa uumbaji kwamba 'kufanya vitendo bila aham ni Karma Yogam,' dhana iliyorudiwa katika maandiko ya kwanza na ya pili ya kimungu.
 </div></div>
 </span>`
     },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 13,
-verse: `<b>(12)	The Gospel of Mathew, 5th chapter, 29th and 30th verses.</b>`,
+verse: `<b>(12)	Injili ya Mathayo, sura ya 5, aya ya 29 na 30.</b>`,
 meaning: ` <b>
-(29) If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
+(5:29) Ikiwa jicho lako la kulia likikukosesha, ling'oe na ulitupe mbali. Ni afadhali kwako kupoteza kiungo kimoja cha mwili wako, kuliko mwili wako wote kutupwa katika jehanum.
 <br><br>
-(30) And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.</b>`,
+(5:30) Na mkono wako wa kulia ukikukosesha, ukate na uutupe. Ni afadhali kwako kupoteza kiungo kimoja kuliko mwili wako wote kwenda jehanamu.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Verse 29 mentions <b>‘eye,’</b> and verse 30 mentions <b>‘hand.’</b> Upon closer examination, it becomes apparent that the human body consists of two types of body parts: physical or visible and non-physical or subtle. There are a total of ten (10) physical body parts and fifteen (15) subtle body parts, bringing the combined count to 25, including Jeevatma. Each body part corresponds to a distinct function within the body. The human body possesses five gnanendriyas (sensory organs) and five karmendriyas (motor organs). These two sets of organs collectively enable physical actions. The gnanendriyas, which include the eye, ear, nose, tongue, and skin, serve as receptors that transmit external information to the inner faculties. Similarly, there are five karmendriyas- hands, legs, mouth, anus, and sexual organ. The manas (mind) then conveys this information from the senses to the buddhi (intellect). While the gnanendriyas serve to transmit external information from the surroundings into the internal faculties, the inner buddhi conveys instructions through the manas to the karmendriyas, which subsequently carry out the actions as directed by the buddhi.
+<div class="poem"><div class="poemtext">
+  Aya 29 inataja<strong>'jicho,'</strong>na mstari&nbsp;30 inataja<strong>'mkono.' </strong>Baada ya uchunguzi wa karibu, inakuwa dhahiri kwamba mwili wa mwanadamu una aina mbili za sehemu za mwili: kimwili au inayoonekana na isiyo ya kimwili au ya hila. Kuna jumla ya sehemu kumi (10) za mwili na sehemu kumi na tano (15) za mwili zilizofichika, na kufanya hesabu iliyojumuishwa kuwa 25, pamoja na Jeevatma. Kila sehemu ya mwili inalingana na kazi tofauti ndani ya mwili. Mwili wa mwanadamu una gnanendriyas tano (viungo vya hisia) na karmendriyas tano (viungo vya magari). Haya seti mbili za viungo kwa pamoja huwezesha vitendo vya kimwili. Gnanendriyas, ambayo ni pamoja na jicho, sikio, pua, ulimi, na ngozi, hutumika kama vipokezi vinavyosambaza taarifa za nje kwa uwezo wa ndani. Vile vile, kuna karmendriyashands tano, miguu, mdomo, mkundu, na kiungo cha ngono. Kisha manas (akili) huifikisha habari hii kutoka kwenye hisia hadi kwa buddhi(akili). Wakati gnanendriyas hutumikia kusambaza taarifa za nje kutoka kwa mazingira hadi kwenye vitivo vya ndani, Buddha wa ndani hupeleka maagizo kupitia manas kwa karmendriyas, ambayo baadaye hufanya vitendo kama ilivyoelekezwa na buddhi.
 
-  Humans perform actions coordinated by the interplay of gnanendriyas (sensory organs) and karmendriyas (motor organs). Notably, the <b>eye</b> among the gnanendriyas and the <b>hand</b> among the karmendriyas hold particular importance, which is why both are mentioned in these verses. Even if the buddhi (intellect) does not direct the karmendriyas to carry out a task, sin can still be attributed to a person based on the thoughts of the buddhi when aham (ego), closely connected to the buddhi, is active. This underscores the pivotal role of the eye in potential sin. For example, when a person gazes at a woman with lustful thoughts, they may incur sin due to the influence of aham, even if they haven’t physically harmed the other person. The eye, in this manner, creates the possibility of attaching sin to an individual for actions that may never occur in the physical realm. Therefore, the verse advises us to ‘gouge the eye out and throw it away.’ However, it’s essential to note that this should not be taken literally, as physically removing one’s eye is not the intended meaning of the verse. The verse specifically mentions ‘your right eye,’ but it’s important to understand that both the right and left eye are capable of leading to similar outcomes. Sin can arise from both eyes. The mention of the right eye alone prompts contemplation about the reason behind this distinction.
-
+  Wanadamu hufanya vitendo vinavyoratibiwa na mwingiliano wa gnanendriyas (viungo vya hisia) na karmendriyas (viungo vya gari). Hasa, the<strong>jicho</strong>miongoni mwa gnanendriyas na<strong>mkono </strong>miongoni mwa karmendriyas wana umuhimu fulani, ndiyo maana zote zimetajwa katika aya hizi. Hata kama buddhi (akili) haielekezi karmendriyas kutekeleza kazi fulani, bado dhambi inaweza kuhusishwa na mtu kulingana na mawazo ya Buddhi wakati aham (ego), iliyounganishwa kwa karibu na Buddhi, inafanya kazi. Hii inasisitiza jukumu muhimu la jicho katika dhambi inayoweza kutokea. Kwa mfano, mtu anapomtazama mwanamke mwenye mawazo ya matamanio, anaweza kupata dhambi kutokana na ushawishi wa aham, hata kama hajamdhuru mtu mwingine kimwili. Jicho, kwa namna hii, hutengeneza uwezekano wa kuambatanisha dhambi kwa mtu binafsi kwa matendo ambayo hayawezi kutokea katika ulimwengu wa kimwili. Kwa hiyo, aya hiyo inatuusia &lsquo;kuchuna jicho nje na kulitupa.' Walakini, ni muhimu kutambua kwamba hii haipaswi kuchukuliwa kihalisi, kwani kuondoa jicho la mtu sio maana iliyokusudiwa ya aya. Mstari huo unataja haswa 'jicho lako la kulia,' lakini ni muhimu kuelewa kwamba jicho la kulia na la kushoto linaweza kusababisha matokeo sawa. Dhambi inaweza kutokea kutoka kwa macho yote mawili. Kutajwa kwa jicho la kulia peke yake kunachochea kutafakari juu ya sababu ya tofauti hii.
 </div></div>
 
 <div class="container" style="color:black;font-size: 11px;">
@@ -356,2258 +375,2395 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
             Jeeva
           </div>
           <div class="io-mind">
-            Mind
+            Akili
           </div>
           <div class="io-chittam">
             Chittam
           </div>
           <div class="io-intellect">
-            Intellect
+            Buddhi
           </div>
           <div class="io-ego">
             Ego
           </div>
           <div class="so-eye">
-            Eye
+            Jicho
           </div>
           <div class="so-nose">
-            Nose
+            Pua
           </div>
           <div class="so-ear">
-            Ear
+            Sikio
           </div>
           <div class="so-tongue">
-            Tongue
+            Lugha
           </div>
           <div class="so-skin">
-            Skin
+            Ngozi
           </div>
-          <div class="ao-hands">
-            Hands
+          <div class="ao-hands" style="font-size:6px">
+            Mikono
           </div>
-          <div class="ao-legs">
-            Legs
+          <div class="ao-legs" style="font-size:6px">
+            Miguu
           </div>
-          <div class="ao-mouth">
-            Mouth
+          <div class="ao-mouth" style="font-size:6px">
+            Mdomo
           </div>
-          <div class="ao-anus">
-            Anus
+          <div class="ao-anus" style="font-size:6px">
+            Mkundu
           </div>
-          <div class="ao-sex-organ">
-            Sex Organ
+          <div class="ao-sex-organ" style="font-size:6px">
+           Kiungo <br> cha <br> ngono
           </div>
         </div>
 
-  The human body naturally exhibits differences between its right and left sides, often associated with strength and weakness. In the mentioned verse, both right-side body parts, namely the right eye and right hand, are specified. Another essential point to consider in this verse is the statement, <b>“It is better for you to lose one part of your body than for your whole body to be thrown into hell.”</b> It's crucial to recognize that neither the eye nor the hand, as external body parts, are the direct sources of sin. The primary driver of sin is the presence of aham (ego) within the body. This perspective aligns with the teachings found in both the first and second divine scriptures. Hence, it becomes evident that external bodily components have no direct involvement in the acquisition or experience of sin. <b>It is the feeling of aham within the body that brings sin. The Jeeva residing in the body experiences the sin.</b> The responsibility for karma acquisition lies with the feeling of aham, and it is the duty of Jeeva to experience the repercussions of karma. Therefore, the external eye (gnanendriya) and hand (karmendriya) function without regard to karma.
+  Mwili wa mwanadamu kwa kawaida huonyesha tofauti kati ya pande zake za kulia na za kushoto, mara nyingi zinazohusiana na nguvu na udhaifu. Katika aya iliyotajwa, sehemu zote za mwili za upande wa kulia, yaani jicho la kulia na mkono wa kulia, zimebainishwa. Jambo lingine muhimu la kuzingatia katika aya hii ni kauli<strong>, "Ni afadhali kwako kupoteza kiungo kimoja cha mwili wako kuliko mwili wako wote kutupwa katika jehanum."</strong>Ni muhimu kutambua kwamba wala jicho wala mkono, kama viungo vya nje, si vyanzo vya moja kwa moja vya dhambi. Kichocheo kikuu cha dhambi ni uwepo wa aham (ego) ndani ya mwili. Mtazamo huu unalingana na mafundisho yanayopatikana katika maandiko ya kwanza na ya pili ya kimungu. Kwa hiyo, inakuwa dhahiri kwamba viungo vya nje vya mwili havishiriki moja kwa moja katika kupatikana au uzoefu wa dhambi.<strong>Ni hisia ya aham ndani ya mwili ambayo huleta dhambi. Jeeva inayoishi katika mwili hupata dhambi. </strong>Jukumu la kupata karma liko kwenye hisia za aham, na ni jukumu la Jeeva kupata athari za karma. Kwa hiyo, jicho la nje (gnanendriya) na mkono (karmendriya) hufanya kazi bila kuzingatia karma.
 
-  Some may wonder why Jesus advised gouging out the eye and cutting off the hand when they are unrelated to karma. Our response is that when the eye transmits external information, it reaches the buddhi (intellect). Subsequently, the buddhi processes this information in accordance with the gunas. However, if the <b>aham (ego) is suppressed and disengaged</b> from these sensory inputs, it prevents sin and punya from manifesting in the gunas that the buddhi processes or in the sight perceived by the eye. By dissociating the inner aham from the information provided by the eye, one can effectively prevent the sin associated with the eye, akin to removing the eye itself. Similarly, when the aham is not connected to what is heard, it’s as if the ear were removed. It’s essential to recognize that sin and punya originate not only from the eyes but also from the other four senses. Given the critical role of the eye among the gnanendriyas and the natural predominance of the right eye in visual perception, Jesus emphasized ‘gouge the right eye out’ in the verse. While the verse may seem straightforward, its subtle significance should be understood.
+  Huenda wengine wakashangaa kwa nini Yesu alishauri kung'oa jicho na kukata mkono wakati mambo hayahusiani na karma. Majibu yetu ni kwamba jicho linaposambaza taarifa za nje humfikia buddha (akili). Baadaye, Buddhi anakiri habari hii kwa mujibu wa gunas. Hata hivyo, ikiwa<strong>aham (ego) amekandamizwa na kutengwa</strong>kutokana na pembejeo hizi za hisi, inazuia dhambi na punya kudhihirika kwenye gunas ambayo Buddhi huichakata au kuona kwa macho Kwa kutenganisha aham ya ndani kutoka kwa habari iliyotolewa na jicho, mtu anaweza kuzuia kwa ufanisi dhambi inayohusishwa na jicho, sawa na kuondoa jicho yenyewe. Vile vile, wakati aham haijaunganishwa na kile kinachosikika, ni kama sikio limeondolewa. Ni ni muhimu kutambua kwamba dhambi na punya haitokani na macho tu bali pia na hisi nyingine nne. Kwa kuzingatia jukumu muhimu la jicho kati ya gnanendriyas na kutawala kwa asili kwa jicho la kulia katika mtazamo wa kuona, Yesu alisisitiza 'kung'oa jicho la kulia' katika mstari huo. Ingawa mstari unaweza kuonekana moja kwa moja, umuhimu wake wa hila unapaswa kueleweka.
 
-  Likewise, the mention of the right hand among the karmendriyas carries significance. Karma does not solely emanate from the right hand but also from the actions performed by other karmendriyas. Karma occurs even when the gnanendriyas do not engage in physical tasks and is generated through the functioning of the karmendriyas. When referring to the five gnanendriyas, we group the two eyes as one entity, just as both ears are counted as one. Although there are two nostrils, they are collectively treated as one nose. The remaining components consist of the skin and the tongue. Similarly, in the karmendriyas, the two hands are considered as one, and the same applies to the two legs. The remaining three are the mouth, the anus, and the sexual organ and are not in pairs. Given that the right eye and right hand are comparatively more dominant in these paired organs, the verse singles out the right eye and right hand. The right eye possesses superior vision, and the right hand is more versatile in executing tasks. In a subtler interpretation of the verse, Jesus told us to <b>suppress aham to prevent sin arising from the sight of the eye and the actions of the hand.</b> However, it’s crucial to grasp that eliminating the right eye or right hand does not halt the inflow of karma, as other bodily organs can also give rise to karma. This verse underscores the idea that aham is the fundamental source of sin, emphasizing the need to control it. The body’s organs do not generate sin, nor do the body bear the burden of sin. Instead, it’s the aham that accumulates sin within the body. Moreover, Jeevatma, a component of the body, experiences bad and good karma. The body encompasses five gnanendriyas, five karmendriyas, five vayus, five tanmatras, and five antahkaranas, with the Jeevatma being part of the antahkaranas. This sums up to a total of twenty-five components, including the Jeevatma within the body’s framework. In essence, a profound understanding of the body’s mechanisms can lead to a deeper comprehension of Jesus’ verses. A true gnani recognizes this intricate composition of the body. As a spiritualist once poetically conveyed, anyone lacking such knowledge should not be deemed a gnani.
-
-        <i>
-      Panchatatvamulanu panchikarinchaka
-      Manchi yatulamanna maatalanna
-      Kunchamandu gajamu gruddupettina chandambu
+  Vivyo hivyo, kutajwa kwa mkono wa kulia kati ya karmendriyas kuna umuhimu. Karma haitoki tu kutoka kwa mkono wa kulia bali pia kutoka kwa vitendo vinavyofanywa na karmendriyas zingine. Karma hutokea hata wakati gnanendriyas haishiriki katika kazi za kimwili na inazalishwa kupitia utendaji wa karmendriyas. Tunaporejelea gnanendriya tano, tunaweka macho mawili kama kitu kimoja, kama vile masikio yote yanavyohesabiwa kuwa moja. Ingawa kuna pua mbili, kwa pamoja zinachukuliwa kama pua moja. Vipengele vilivyobaki vinajumuisha ngozi na ulimi. Vile vile, katika karmendriyas, mikono miwili inachukuliwa kuwa moja, na hiyo inatumika kwa miguu miwili. Tatu zilizobaki ni mdomo, mkundu, na kiungo cha ngono na haziko katika jozi. Kwa kuzingatia kwamba jicho la kulia na mkono wa kulia vinatawala zaidi kwa kulinganisha katika viungo hivi vilivyooanishwa, aya hii inabainisha jicho la kulia na mkono wa kulia. Jicho la kulia lina uwezo wa kuona vizuri zaidi, na mkono wa kulia ni rahisi zaidi katika kutekeleza majukumu. Katika tafsiri ya hila ya mstari, Yesu alituambia<strong>kukandamiza aham ili kuzuia dhambi itokayo kwa macho na matendo ya mkono.</strong>Walakini, ni muhimu kuelewa kwamba kuondoa jicho la kulia au mkono wa kulia hakuzuii uingiaji wa karma, kwani viungo vingine vya mwili vinaweza pia kusababisha karma. Aya hii inakazia wazo la kwamba aham ndiye chanzo kikuu cha dhambi, ikisisitiza haja ya kuidhibiti. Viungo vya mwili havizai dhambi, wala mwili haubebi mzigo wa dhambi. Badala yake, ni aham ambayo hukusanya dhambi ndani ya mwili. Zaidi ya hayo, Jeevatma, sehemu ya mwili, hupata karma mbaya na nzuri. Mwili huo unajumuisha gnanendriya tano, karmendriya tano, vayus tano, tanmatra tano, na antahkarana tano, na Jeevatma ikiwa ni sehemu ya antahkarana. Hii inajumlisha hadi jumla ya vipengele ishirini na tano, ikiwa ni pamoja na Jeevatma ndani ya mfumo wa mwili. Kimsingi, ufahamu wa kina wa taratibu za mwili unaweza kusababisha ufahamu wa kina wa mistari ya Yesu. Gnani wa kweli hutambua muundo huu mgumu wa mwili. Kama mwanamizimu aliyewahi kuwasilishwa kwa kishairi, mtu yeyote asiye na ujuzi huo hapaswi kuchukuliwa kuwa gnani.
+  <br>
+      <b> <i>
+      Panchatatvamulanu panchikarinchaka<br>
+      Manchi yatulamanna maatalanna<br>
+      Kunchamandu gajamu gruddupettina chandambu<br>
       Akhila jivasanga aatmalinga.
-  </i>
-<b>Meaning: -</b> The term sankhya refers to the comprehensive knowledge of Pancha Bhutas, which include Sky, Air, Fire, Water, and Earth. This knowledge encompasses the understanding of how each of these elements was created, how they were divided into five distinct components, and how these twenty-five parts collectively form the various organs and components of the body, both visible and invisible. Assuming oneself to be a gnani (a knower or enlightened individual) without possessing a deep understanding of the Sankhya of the body is akin to making a false claim. It’s tantamount to asserting that an elephant laid an egg beneath a basket. In reality, even if an elephant were to be securely tethered with chains and placed beneath a basket, it would not lay eggs. Therefore, the assertion that an elephant laid eggs beneath a basket is entirely baseless. In a similar vein, it is erroneous for an individual to declare themselves a gnani when they lack knowledge of the intricate details concerning the body's organs. True wisdom requires a profound understanding of the body’s composition, including its visible and invisible parts.
+  </i></b> <br><br>
+<b>Maana:-</b> Neno sankhya linamaanisha maarifa ya kina ya Pancha Bhutas, ambayo ni pamoja na Anga, Hewa, Moto, Maji na Dunia. Ujuzi huu unajumuisha ufahamu wa jinsi kila moja ya vipengele hivi viliumbwa, jinsi vilivyogawanywa katika vipengele vitano tofauti, na jinsi sehemu hizi ishirini na tano kwa pamoja zinavyounda viungo na vipengele mbalimbali vya mwili, vinavyoonekana na visivyoonekana. Kujiona kuwa gnani (mjuaji au mtu aliyeelimika) bila kuwa na ufahamu wa kina wa Sankhya ya mwili ni sawa na kutoa madai ya uwongo. Ni sawa na kudai kwamba tembo alitaga yai chini ya kikapu. Kwa kweli, hata ikiwa tembo angefungwa kwa minyororo kwa usalama na kuwekwa chini ya kikapu, hawezi kutaga mayai. Kwa hiyo, madai kwamba tembo alitaga mayai chini ya kikapu haina msingi kabisa. Katika hali kama hiyo, ni makosa kwa mtu kujitangaza kuwa gnani wakati hana ujuzi wa mambo tata kuhusu viungo vya mwili.
+Hekima ya kweli huhitaji ufahamu mwingi wa umbo la mwili, kutia ndani sehemu zake zinazoonekana na zisizoonekana.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 14,
-verse: `  <b>(13)	The Gospel of Mathew, 6th chapter, 3rd and 4th verses.</b>`,
+verse: `  <b>(13)	Injili ya Mathayo, sura ya 6, aya ya 3 na ya 4.</b>`,
 meaning: ` <b>
-(3) But when you do dharma, do not let your left hand know what your right hand is doing.
+(6:3) Lakini unapofanya dharma, usijulishe mkono wako wa kushoto unaofanya mkono wako wa kulia.
 <br><br>
-(4) So that your giving may be in secret. Then your father, who sees what is done secretly, will reward you.
+(6:4) Ili kutoa kwenu kuwe kwa siri. Kisha baba yako, ambaye anaona yale yanayofanywa kwa siri, atakupa thawabu.
 </b>`,
 pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Many preachers have misinterpreted this verse, suggesting that it pertains to donation. In certain places of worship, it is even suggested that the money given for God’s service should be so discreet that “the right hand should not know what the left hand is doing.” As a result, contributions are often hidden or wrapped in one's hand before being donated. However, it is important to clarify that this verse is not about donation; it is about dharma. There is a significant difference between dharma and donation. <b>Donation involves giving to others, while dharma refers to the principles one practices.</b> To truly understand how to practice dharma, it is essential to comprehend what these dharmas entail. In this verse, there is no mention of donation; rather, it emphasizes dharma. God’s dharmas are primarily two, as outlined in the divine scripture. The third one is physical. There are also other dharmas that are interconnected with these three primary ones. To reach God, a person primarily needs to focus on these three essential dharmas, while other dharmas revolve around aspects of God. These three core dharmas are the key practices for attaining God.
+<div class="poem"><div class="poemtext">
+  Wahubiri wengi wametafsiri aya hii kimakosa, wakipendekeza kwamba inahusu mchango. Katika sehemu fulani za ibada, inapendekezwa hata kwamba pesa zinazotolewa kwa ajili ya utumishi wa Mungu ziwe za busara hivi kwamba &ldquo;mkono wa kuume usijue ufanyalo mkono wa kushoto.&rdquo; Kwa sababu hiyo, michango mara nyingi hufichwa au kufungwa mkononi mwa mtu kabla ya kuchangwa. Hata hivyo, ni muhimu kufafanua kwamba aya hii haihusu mchango; ni kuhusu dharma. Kuna tofauti kubwa kati ya dharma na mchango.<strong>Mchango unahusisha kutoa kwa wengine, wakati dharma inarejelea mazoea ya kanuni-sone.</strong>Ili kuelewa kweli jinsi ya kufanya mazoezi ya dharma, ni muhimu kuelewa ni nini dharma hizi zinajumuisha. Katika aya hii, hakuna kutajwa kwa mchango; badala yake, inasisitiza dharma. Dharma za Mungu kimsingi ni mbili, kama zilivyoainishwa katika maandiko matakatifu. Ya tatu ni ya kimwili. Pia kuna dharma zingine ambazo zimeunganishwa na hizi tatu za msingi. Ili kufikia Mungu, mtu kimsingi anahitaji kuzingatia dharma hizi tatu muhimu, wakati dharma zingine zinahusu vipengele vya Mungu. Dharma hizi tatu za msingi ni mazoea muhimu ya kumfikia Mungu.
 
-  The three dharmas, Brahma, Karma, and Bhakti Yoga, are necessary to reach God. Two of them involve internal practice with feelings or thoughts, while one involves external practice. The practice of the first two dharmas is not recognizable by others. However, when it comes to the third dharma, there is a possibility of it being noticed b others. This is why, in the verse, Jesus refers to a singular ‘dharma’ rather than ‘dharmas.’ He emphasizes that one should practice a dharma that might be noticed by others with caution and in secret. He conveys this by saying, <b>“do not let your left hand know what your right hand is doing.”</b> The underlying message is that when others observe your dharma practice, they might misinterpret it or become influenced negatively. Hence, Jesus advises that when practicing dharma, it should be done discreetly and without seeking recognition from others.
+  Dharma tatu, Brahma, Karma, na Bhakti Yoga, ni muhimu kufikia Mungu. Mbili kati yao inahusisha mambo ya ndani fanya mazoezi na hisia au mawazo, wakati moja inahusisha mazoezi ya nje. Utendaji wa dharma mbili za kwanza hautambuliki na wengine. Walakini, inapokuja kwa dharma ya tatu, kuna uwezekano wa kutambuliwa na wengine. Hii ndiyo sababu, katika mstari huo, Yesu anarejelea 'dharma' ya umoja badala ya 'dharmas.' Anasisitiza kwamba mtu anapaswa kufanya dharma ambayo inaweza kutambuliwa na wengine kwa tahadhari na kwa siri. Anaeleza haya kwa kusema,<strong>"mkono wako wa kushoto usijue ufanyalo mkono wako wa kuume.</strong>Ujumbe wa msingi ni kwamba wengine wanapotazama mazoezi yako ya dharma, wanaweza kutafsiri vibaya au kuathiriwa vibaya. Kwa hiyo, Yesu anashauri kwamba wakati wa kutumia dharma, inapaswa kufanywa kwa busara na bila kutafuta kutambuliwa na wengine.
 </div></div>
 </span>`
 },
 {
-  chapterName: "The Gospel Of Mathew",
+  chapterName: "Injili ya Mathayo",
   chapterNumber: 2,
   pageNumber: 15,
-  verse: `  <b>(14)	The Gospel of Mathew, 6th chapter, 6th verse.</b> `,
+  verse: `  <b>(14)	Injili ya Mathayo, sura ya 6, mstari wa 6.</b> `,
   meaning: `<b>
-  (6) But when you pray, go into your room, close the door, and pray to your Father, who is unseen. Then your father, who sees what is done secretly, will reward you.</b>`,
+  (6:6) Bali wewe usalipo, ingia katika chumba chako cha ndani, na ufunge mlango, na usali mbele za Baba yako asiyeonekana. Kisha baba yako, ambaye anaona yale yanayofanywa kwa siri, atakupa thawabu.</b>`,
   pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When praying to God, it is essential to ensure that your prayers are filled with dharma. Mere verbal expressions without dharma do not constitute genuine prayer and won’t connect you with God. Therefore, when engaging in prayer that may be observed by others, Jesus told to go into a private room, close the door, and offer your prayers to the inner Atma, the divine presence within you. Atma, who is in the body, is the father of humans. A prayer that may be known to others should be conducted in such a way that no one is aware of it. By doing so, Atma, who is secretly in the body, shall reward you. In the first divine scripture, this practice is referred to as <b>‘Brahma (Great) Yogam.’</b>
+<div class="poem"><div class="poemtext">
+  Unapoomba kwa Mungu, ni muhimu kuhakikisha kwamba maombi yako yamejazwa na dharma. Maneno ya maneno tu bila dharma hayajumuishi maombi ya kweli na hayatakuunganisha na Mungu. Kwa hiyo, wakati wa kushiriki katika sala ambayo inaweza kutazamwa na wengine, Yesu aliambia uingie katika chumba cha faragha, ufunge mlango, na usali sala zako kwa Atma ya ndani, uwepo wa Mungu ndani yako. Atma, ambaye yuko katika mwili, ndiye baba wa wanadamu. Sala ambayo inaweza kujulikana kwa wengine inapaswa kufanywa kwa njia ambayo hakuna mtu anayeijua. Kwa kufanya hivyo, Atma, ambaye yuko kwa siri katika mwili, atakulipa. Katika andiko la kwanza la kimungu, tendo hili linarejelewa kama <b>'Brahma (Mkuu) Yoga.</b>'
 </div></div>
   </span>`
     },
     {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 16,
-verse: `  <b>(15)	The Gospel of Mathew, 6th chapter, 7th and 8th verses. </b> `,
+verse: `  <b>(15)	Injili ya Mathayo, sura ya 6, aya ya 7 na ya 8. </b> `,
 meaning: `  <b>
-(7) When you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words.
+(6:7) Nanyi mnaposali, msiendelee kupayuka-payuka kama washirikina, kwa maana wao wanadhani kuwa watasikiwa kwa sababu ya wingi wa maneno yao.
 <br><br>
-(8) Do not be like them, for your father knows what you need before you ask him.</b>`,
+(6:8) Msiwe kama wao, kwani baba yenu anajua mnachohitaji kabla hamjamwomba.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Many people in society today pray with futile words rather than <b>‘Yogam,’</b> which adheres to dharma in reaching God. They assume that God will fulfill their desires if they use many words. Their intention is not to unite with God, but rather to seek worldly desires and benefits. However, you should not pray like them. Your father, Atma, already knows everything even before you ask. He knows what should or should not be granted to you. Therefore, it is of no use to inquire about material benefits. Your Father, Atma, guides you according to your karma. Hence, Atma provides you with what you have earned through your past karma. Whether you ask or not, Atma bestows everything according to karma. Atma is the Father of all humans, and the Holy Spirit, the Father of Atma, is the witness to all things.
+<div class="poem"><div class="poemtext">
+  Watu wengi katika jamii leo huomba kwa maneno yasiyo na maana badala ya kuomba<b>'Yoga,'</b>ambayo hushikamana na dharma katika kumfikia Mungu. Wanafikiri kwamba Mungu atatimiza matakwa yao ikiwa wanatumia maneno mengi. Nia yao si kuungana na Mungu, bali ni kutafuta matamanio na manufaa ya kidunia. Walakini, haupaswi kuomba kama wao. Baba yako, Atma, tayari anajua kila kitu hata kabla ya kuuliza. Anajua ni nini unapaswa kupewa au usipewe. Kwa hivyo, haina maana kuuliza juu ya faida za nyenzo. Baba yako, Atma, anakuongoza kulingana na karma yako. Kwa hivyo, Atma hukupa kile ulichonacho umepata kupitia karma yako ya zamani. Ikiwa unauliza au la, Atma hutoa kila kitu kulingana na karma. Atma ndiye Baba wa wanadamu wote, na Roho Mtakatifu, Baba wa Atma, ndiye shahidi wa vitu vyote.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 17,
-verse: ` <b>(16)	The Gospel of Mathew, 7th chapter, 13th and 14th verses.</b> `,
+verse: ` <b>(16)	Injili ya Mathayo, sura ya 7, aya ya 13 na 14.</b> `,
 meaning: `<b>
-(13) Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it.
+(7:13) Ingieni kwa kupitia mlango mwembamba. Maana mlango ni mpana, na njia ni pana iendayo upotevuni, nao ni wengi waingiao kwa mlango huo.
 <br><br>
-(14) But small is the gate and narrow the road that leads to life, and only a few find it.
+(7:14) Lakini mlango ni mdogo, na njia ni nyembamba iendayo uzimani, na waionao ni wachache.
 </b> `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There are two paths in this world: one is the path of Paramatma (The Holy Spirit), and the other is the path of Maya. While there are very few who seek God, many are drawn to the vast path of Maya. The gateway to moksham is narrow and challenging to traverse. God’s path is likewise narrow, and only a few manage to discover it.
+<div class="poem"><div class="poemtext">
+  Kuna njia mbili katika ulimwengu huu: moja ni njia ya Paramatma (Roho Mtakatifu), na nyingine ni njia ya Maya. Ingawa kuna wachache sana wanaomtafuta Mungu, wengi wanavutwa kwenye njia kubwa ya Maya. Lango la kuelekea moksham ni jembamba na ni gumu kupita. Njia ya Mungu vile vile ni nyembamba, na ni wachache tu wanaoweza kuigundua.
 
-  The verse mentions God’s gate (entrance) and the road. The first is the entrance, and the next is the path. There are only two roads for all human beings. One is narrow, and the other is wide. The gate to the narrow road is narrow, and the entrance to the broad road is wide. The entrance and the path must be a few times larger than the one who enters. Then it is only possible to enter the gate and the road. The narrow gate’s size and the narrow path’s width equal the size of the person who enters. But in the second choice, the wide gate’s size and the width of the broad road are 108 times bigger than the person who enters. In this way, there are only two paths in this world—one with a gate 108 times wider and a broad road, and the other with a gate and path of exact size. The Lord compared these two types of gates and paths to wisdom and ignorance. The path of wisdom is very narrow, and the entrance size is limited, making it challenging to walk. The ignorant path is 108 times larger and is free from hindrances. The path of wisdom is narrow and has obstacles, but its destination is Paramatma. Even though there are no obstacles on the wide gate and the broad ignorant path, it leads to Satan. Paramatma’s path is without birth and death, without destruction, and is always in a state of no change. Satan’s path has birth, death, and destruction and is always in a state of change. Although the path of Paramatma is far superior, and Satan’s way is the worst, most people choose to walk on Satan’s road. When a person enters Satan’s path, all their associates support them and do not cause any trouble. There will be no financial difficulties, and life will feel comfortable. However, when a person chooses the path of wisdom, their relatives and spouses may become enemies and obstruct their journey. Life may become challenging. Hence, very few, if any, among the millions choose the path of wisdom.
+  Aya inataja mlango wa Mwenyezi Mungu (mlango) na njia. Ya kwanza ni mlango, na inayofuata ni njia. Kuna barabara mbili tu kwa wanadamu wote. Moja ni nyembamba, na nyingine ni pana. Lango la njia nyembamba ni nyembamba, na lango la njia pana ni pana. Mlango na njia lazima iwe kubwa mara chache kuliko yule anayeingia. Kisha inawezekana tu kuingia lango na barabara. Ukubwa wa lango jembamba na upana wa njia nyembamba ni sawa na saizi ya mtu anayeingia. Lakini katika chaguo la pili, ukubwa wa lango pana na upana wa barabara pana ni kubwa mara 108 kuliko mtu anayeingia. Kwa njia hii, kuna njia mbili tu katika ulimwengu huu —moja yenye lango pana mara 108 na barabara pana, na nyingine ikiwa lango na njia ya ukubwa kamili. Bwana alilinganisha aina hizi mbili za milango na njia za hekima na ujinga. Njia ya hekima ni nyembamba sana, na ukubwa wa mlango ni mdogo, na kufanya iwe vigumu kutembea. Njia ya ujinga ni kubwa mara 108 na haina vikwazo. Njia ya hekima ni nyembamba na ina vikwazo, lakini marudio yake ni Paramatma. Ingawa hakuna vizuizi kwenye lango pana na njia pana ya ujinga, inaongoza kwa Shetani. Njia ya Paramatma haina kuzaliwa na kifo, bila uharibifu, na daima iko katika hali ya kutobadilika. Njia ya Shetani ina kuzaliwa, kifo, na uharibifu na daima iko katika hali ya mabadiliko. Ingawa njia ya Paramatma ni bora zaidi, na njia ya Shetani ndiyo mbaya zaidi, watu wengi huchagua kutembea kwenye njia ya Shetani. Mtu anapoingia katika njia ya Shetani, washirika wake wote wanamuunga mkono na hawasababishi matatizo yoyote. Hakutakuwa na shida za kifedha, na maisha yatahisi vizuri. Walakini, mtu anapochagua njia ya hekima, jamaa na wenzi wao wanaweza kuwa maadui na kuzuia safari yao. Maisha yanaweza kuwa magumu. Kwa hiyo, ni wachache sana, ikiwa wapo, kati ya mamilioni wanaochagua njia ya hekima.
 
-  Many people are journeying along the vast, ignorant path, which presents no hindrance or opposition. Surprisingly, they remain oblivious to the existence of a narrow passage leading to moksham and the Father of the paraloka. In the Bhagavad-Gita, Krishna states that not even one among thousands wishes to traverse the narrow path. Rarely does someone enter it, and even rarer is reaching the destination due to obstacles posed by Maya. Krishna, in the Bhagavad-Gita, further emphasizes that the person who overcomes these obstacles and reaches the destination is considered ‘the blessed one,’ and such an individual will unite with the eternal Paramatma. Both Krishna and Jesus represent the Paramatma. Krishna elucidated the paths of wisdom and ignorance in the Bhagavad-Gita towards the end of Dvapara Yuga, while Jesus conveyed a similar message in the holy text, three thousand years into Kali Yuga. Those who comprehend the paths of wisdom and ignorance as explained by Sri Krishna and Jesus Christ should embark on the suggested path of wisdom, persisting despite all obstacles, until they ultimately reach Paramatma, which is eternal moksham.
+  Watu wengi wanasafiri kwenye njia kubwa ya ujinga, ambayo haileti kizuizi au upinzani. Kwa kushangaza, wao hubakia kutojua kuwepo kwa njia nyembamba inayoelekea moksham na Baba wa paraloka. Katika Bhagavad-Gita, Krishna anasema kwamba hakuna hata mmoja kati ya maelfu anayetaka kuvuka njia nyembamba. Ni mara chache mtu huingia humo, na hata mara chache zaidi hufika kulengwa kwa sababu ya vizuizi vilivyoletwa na Maya. Krishna, katika Bhagavad-Gita, anasisitiza zaidi kwamba mtu anayeshinda vizuizi hivi na kufikia hatima anachukuliwa kuwa 'aliyebarikiwa,' na mtu kama huyo ataungana na Paramatma ya milele. Wote Krishna na Yesu wanawakilisha Paramatma. Krishna alifafanua njia za hekima na ujinga katika Bhagavad-Gita kuelekea mwisho wa Dvapara Yuga, wakati Yesu aliwasilisha ujumbe sawa katika maandishi takatifu, miaka elfu tatu katika Kali Yuga. Wale wanaofahamu njia za hekima na ujinga kama zilivyofafanuliwa na Sri Krishna na Yesu Kristo wanapaswa kuanza njia iliyopendekezwa ya hekima, wakiendelea licha ya vizuizi vyote, hadi wafikie Paramatma, ambayo ni moksham ya milele.
+
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 18,
-verse: ` <b>(17)	The Gospel of Mathew, 7th chapter, 7th and 8th verses.</b>
+verse: ` <b>(17)	Injili ya Mathayo, sura ya 7, aya ya 7 na ya 8.</b>
 `,
 meaning: `
 <b>
-(7) Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.<br><br>
-(8) For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+(7:7) Ombeni nanyi mtapewa; tafuteni nanyi mtapata; bisheni nanyi mtafunguliwa mlango.<br><br>
+(7:8) Maana kila aombaye hupokea; atafutaye huona; naye abishaye, mlango utafunguliwa.
 </b> `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> In this verse, three essential verbs—<b>ask, seek, and knock.</b> Jesus instructed us to perform these three things in a spiritual context. The Lord’s teachings do not revolve around worldly matters, unlike many others. Unfortunately, many have misunderstood this verse, interpreting it as a call for material blessings. Consequently, people began requesting earthly favors from the Lord, contrary to His original message. Even though people read the Holy Bible, Satan has entered their hearts, clouding their understanding of Jesus’s teachings and leading them to seek material desires. Man’s intent is not to transgress God’s word, but Satan capitalizes on their lack of comprehension, deceiving them into thinking they are not violating divine commandments. In reality, this leads them to transgress God’s word. Satan, a creation of God, exists wherever God’s presence is felt. Wherever God’s word abides, the influence of Satan may also be present. Therefore, it is crucial to diligently comprehend God’s verses and safeguard ourselves against the influence of Satan when interpreting the scripture.
+<div class="poem"><div class="poemtext">
+  Katika aya hii, vitenzi vitatu muhimu&mdash;<strong>kuuliza, kutafuta, na kubisha</strong>. Yesu alituagiza kufanya mambo haya matatu katika muktadha wa kiroho. Mafundisho ya Bwana hayazunguki katika mambo ya kidunia, tofauti na mengine mengi. Kwa bahati mbaya, wengi wameelewa vibaya aya hii, wakiifasiri kama wito wa baraka za kimwili. Kwa hiyo, watu walianza kuomba upendeleo wa kidunia kutoka kwa Bwana, kinyume na ujumbe Wake wa asili. Ingawa watu wanasoma Biblia Takatifu, Shetani ameingia mioyoni mwao, akitia giza uelewaji wao wa mafundisho ya Yesu na kuwaongoza kutafuta tamaa za kimwili. Kusudi la mwanadamu sio kuhalifu neno la Mungu, lakini Shetani anajitolea kwa kukosa kwao ufahamu, akiwadanganya kwa kufikiria kuwa hawavunji amri za kimungu. Kwa kweli, hii inawaongoza kuhalifu neno la Mungu. Shetani, kiumbe wa Mungu, yupo popote pale ambapo uwepo wa Mungu unahisiwa. Popote ambapo neno la Mungu linakaa, ushawishi wa Shetani unaweza pia kuwepo. Kwa hiyo, ni muhimu kuelewa kwa bidii aya za Mungu na kujilinda dhidi ya ushawishi wa Shetani tunapofasiri maandiko.
 
-  We should ask God, seek God, and knock on God’s door. This is the way of God. If you ask for something else or seek something else, it will be the way of Satan (Maya). Those who follow God’s path seek God’s wisdom. You may have many questions: How is God? How can we reach God? How can we understand all the details about God? Do not assume that no one on Earth can answer these questions. God comes and provides the answers you seek when humans on Earth are unable to access God’s information due to the influence of Satan. You can find answers to your questions, but you may not recognize who provides these answers. Even when God is born on Earth and offers answers, we often perceive Him as a regular human being rather than God. If you ask, you will gain complete wisdom. If you search, you will discover that God has come to Earth in human form. When God incarnates on Earth, He does not claim to be God and does not reveal Himself to anyone. This is His rule. According to this rule, those who do not seek will not find, but the seekers will recognize Him. Since only a few asked wisdom when the Lord Jesus was on Earth, He shared His wisdom with them. Because there were so few seekers, He did not appear as God to anyone; to all, He seemed like an ordinary man. His twelve disciples, too, perceived Him as a preacher and were unaware that Paramatma, who encompassed the entire universe, had incarnated as Jesus. He intentionally behaved in a manner that prevented anyone from recognizing Him as God.
+  Tunapaswa kumwomba Mungu, kumtafuta Mungu, na kubisha mlango wa Mungu. Hii ndiyo njia ya Mungu. Ikiwa unaomba kitu kingine au kutafuta kitu kingine, itakuwa ni njia ya Shetani (Maya). Wale wanaofuata njia ya Mungu wanatafuta hekima ya Mungu. Unaweza kuwa na maswali mengi: Mungu yukoje? Tunawezaje kumfikia Mungu? Je, tunawezaje kuelewa maelezo yote kuhusu Mungu? Usifikirie kuwa hakuna mtu Duniani anayeweza kujibu maswali haya. Mungu huja na kutoa majibu unayotafuta wakati wanadamu Duniani hawawezi kupata habari za Mungu kwa sababu ya ushawishi wa Shetani. Unaweza kupata majibu kwa maswali yako, lakini huenda usitambue ni nani anayetoa majibu haya. Hata wakati Mungu anazaliwa duniani na kutoa majibu, mara nyingi tunamwona kama mwanadamu wa kawaida badala ya Mungu. Ukiuliza utapata hekima kamili. Ukipekua utagundua Mungu amekuja Duniani katika umbo la mwanadamu. Mungu anapopata mwili Duniani, Hadai kuwa Mungu na Hajidhihirishi kwa yeyote. Huu ni utawala Wake. Kulingana na kanuni hii, wale ambao hawatatafuta hawatapata, lakini watafutaji watamtambua. Kwa kuwa ni wachache waliouliza hekima wakati Bwana Yesu alipokuwa duniani, aliwashirikisha hekima yake. Kwa sababu kulikuwa na watafutaji wachache sana, Hakuonekana kama Mungu kwa yeyote; kwa wote, Alionekana kama mtu wa kawaida. Wanafunzi wake kumi na wawili, pia, walimwona kama mhubiri na hawakujua kwamba Paramatma, ambao alizunguka ulimwengu wote, alikuwa amefanyika mwili kama Yesu. Alitenda kimakusudi kwa njia ambayo ilizuia mtu yeyote asimtambue kuwa Mungu.
 
-  The King of Paraloka, Paramatma, washed the feet of His disciples during His time on Earth as a man. This humble act made it challenging for His disciples and others to recognize Him. Regrettably, people failed to identify Him as the Lord and treated Him disrespectfully, regarding Him as an ordinary man. He endured spitting on His face, a crown of thorns on His head, beatings, and crucifixion. Even when Jesus died and rose again with the same body on the third day, some of His disciples mistook Him for a devil. This highlights that His disciples were inquisitive but not truly seeking. As the saying goes, <b>"seeing is greater than listening,"</b> those who witnessed Him in person held a higher status than those who merely heard His teachings. While people had the opportunity to see the God of the entire world in the form of Jesus, it was as if they hadn’t truly seen Him. In this context, the Lord described His disciples as blind, despite having physical sight. To avoid such blindness, one should actively seek God. As the verse suggests, everyone who asks receives, and everyone who seeks finds. Therefore, the asker receives God’s words, the seeker gets God’s form. The one who sees is greater than the one who listens and the one who experiences is greater than the one who sees. Based on this principle, the one who knocks gains access to the realm of moksham. Knocking, in this context, isn’t about knocking on a neighbor’s or a stranger’s door but rather about seeking entry into the kingdom of moksham and the gates of the kingdom of Paraloka. Those who seek moksham unite with Paramatma and experience His true essence. Those accustomed to asking and seeking should definitely try to unite with God. That means they will definitely become a knocker. Through the processes of asking, seeking, and knocking, anyone can come into union with God. Thus, these three essential qualities should be cultivated by every individual, as outlined in the aforementioned verse. Following God’s guidance, the asker gains wisdom, the seeker finds Bhagavan, and the one who knocks gains access to the house of moksham.
+  Mfalme wa Paraloka, Paramatma, aliosha miguu ya wanafunzi wake wakati alipokuwa duniani kama mwanadamu. Kitendo hiki cha unyenyekevu ilifanya iwe changamoto kwa wanafunzi Wake na wengine kumtambua. Kwa kusikitisha, watu walishindwa kumtambua Yeye kama Bwana na kumtendea bila heshima, wakimchukulia kama mtu wa kawaida. Alivumilia kutemewa mate usoni Mwake, taji ya miiba juu ya kichwa chake, kupigwa, na kusulubishwa. Hata Yesu alipokufa na kufufuka na mwili uleule siku ya tatu, baadhi ya wanafunzi wake walimdhania kuwa ni shetani. Hii inaangazia kwamba wanafunzi Wake walikuwa wadadisi lakini hawakutafuta kikweli.
+
+  Kama msemo unavyokwenda<strong>, "kuona ni kubwa kuliko kusikiliza,"</strong>wale waliomshuhudia ana kwa ana walishikilia hadhi ya juu kuliko wale waliosikia tu mafundisho Yake. Ingawa watu walikuwa na fursa ya kumwona Mungu wa ulimwengu mzima katika umbo la Yesu, ilikuwa kana kwamba hawakumwona Yeye kwa kweli. Katika muktadha huu, Bwana alielezea wanafunzi wake kama vipofu, licha ya kuwa na macho ya kimwili. Ili kuepuka upofu huo, mtu anapaswa kumtafuta Mungu kwa bidii. Kama mstari unavyopendekeza, kila aombaye hupokea, na kila atafutaye huona. Kwa hiyo, muulizaji hupokea maneno ya Mungu, mtafutaji anapata umbo la Mungu. Anayeona ni mkuu kuliko asikiaye na mwenye uzoefu ni mkuu kuliko aonaye. Kulingana na kanuni hii, yule anayebisha anapata ufikiaji wa eneo la moksham. Kubisha, katika muktadha huu, si kuhusu kugonga mlango wa jirani au mgeni bali ni kutafuta kuingia katika ufalme wa moksham na malango ya ufalme wa Paraloka. Wale wanaotafuta moksham wanaungana na Paramatma na kupata asili Yake ya kweli. Wale waliozoea kuuliza na kutafuta lazima kwa hakika kujaribu kuungana na Mungu. Hiyo ina maana kuwa hakika watakuwa wagongaji. Kupitia taratibu za kuuliza, kutafuta, na kubisha, mtu yeyote anaweza kuja katika muungano na Mungu. Kwa hivyo, sifa hizi tatu muhimu zinapaswa kusitawishwa na kila mtu, kama ilivyoainishwa katika aya iliyotajwa hapo juu. Kwa kufuata mwongozo wa Mungu, muulizaji anapata hekima, mtafutaji anapata Bhagavan, na yule anayebisha anapata ufikiaji wa nyumba ya moksham.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 19,
-verse: `<b>(18)	The Gospel of Mathew, 7th chapter, 15th verse.</b>`,
+verse: `<b>(18)	Injili ya Mathayo, sura ya 7, mstari wa 15.</b>`,
 meaning: ` <b>
-(15) Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.
+(7:15) Jihadhari na manabii wa uwongo. Wanawajia wamevaa mavazi ya kondoo, lakini kwa ndani ni mbwa- mwitu wakali.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Human beings require guidance to find their path to God, and this guidance often comes from others. To walk in God’s path, a person must place their trust in another. Those who follow this spiritual path rely on their guides to show them the way. The follower’s journey depends on the guide, as they must follow the path the guide illuminates. This makes the follower reliant on the guide, and if the guide provides the correct direction, the follower will progress correctly. Conversely, if the guide offers the wrong direction, the follower may stray from the path. The ultimate destination of an ordinary person is strongly influenced by the chosen guide or guru. Once a person is recognized as a guru, individuals tend to believe and trust their guidance throughout their lives. Therefore, great care should be exercised when selecting someone as your guru or guide. In the verse mentioned above, the Lord warned, <b>‘Beware of false prophets.’</b> He cautioned that some contemporary gurus may not be genuine guides. They may present themselves in sheep’s clothing, pretending to be genuine gurus, but in reality, they are like ferocious wolves in disguise. According to the teachings of Jesus, many individuals may dress and act like gurus, even using words such as God, wisdom, and Atma in their discourse. However, their true nature may not lead you closer to God. Just as a wolf concealed under sheep’s skin is not a sheep, these individuals, despite their appearance, are not genuine gurus. Therefore, the Lord’s advice is to be vigilant and cautious about false prophets to avoid wasting one’s life by following those who do not offer true guidance.
+<div class="poem"><div class="poemtext">
+  Wanadamu wanahitaji mwongozo ili kupata njia yao kwa Mungu, na mwongozo huu mara nyingi hutoka kwa wengine. Ili kutembea katika njia ya Mungu, mtu lazima aweke tumaini lake kwa mwingine. Wale wanaofuata njia hii ya kiroho wanategemea viongozi wao kuwaonyesha njia. Safari ya mfuasi inategemea mwongozo, kwani lazima wafuate njia ambayo mwongozo unamulika. Hii humfanya mfuasi kutegemea mwongozo, na ikiwa mwongozo utatoa mwelekeo sahihi, mfuasi ataendelea kwa usahihi. Kinyume chake, ikiwa mwongozo utatoa mwelekeo mbaya, mfuasi anaweza kupotea kutoka kwenye njia. Marudio ya mwisho ya mtu wa kawaida huathiriwa sana na mwongozo uliochaguliwa au guru. Mara tu mtu anapotambuliwa kama gwiji, watu huwa wanaamini na kuamini mwongozo wao katika maisha yao yote. Kwa hivyo, uangalifu mkubwa unapaswa kutekelezwa wakati wa kuchagua mtu kama gwiji au mwongozo wako. Katika aya iliyotajwa hapo juu, Bwana alionya,<strong>'Jihadharini na manabii wa uongo.'</strong>Alionya kwamba baadhi ya gurus wa kisasa wanaweza wasiwe viongozi wa kweli. Huenda wakajionyesha wakiwa wamevaa ngozi ya kondoo, wakijifanya kuwa magurudumu wa kweli, lakini kwa kweli, wao ni kama mbwa-mwitu wakali waliojificha. Kulingana na mafundisho ya Yesu, watu wengi wanaweza kuvaa na kutenda kama magwiji, hata kutumia maneno kama vile Mungu, hekima, na Atma katika hotuba zao. Hata hivyo, asili yao ya kweli inaweza isikupeleke karibu na Mungu. Kama vile mbwa- mwitu aliyefichwa chini ya ngozi ya kondoo si kondoo, watu hao, licha ya kuonekana kwao, si wasomi wa kweli. Kwa hiyo, ushauri wa Bwana ni kuwa macho na tahadhari juu ya manabii wa uongo ili kuepuka kupoteza maisha ya mtu kwa kufuata wale ambao hawatoi mwongozo wa kweli.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 20,
-verse: `<b>(19)	The Gospel of Mathew, 7th chapter, 21st verse.</b>`,
+verse: `<b>(19)	Injili ya Mathayo, sura ya 7, mstari wa 21.</b>`,
 meaning: ` <b>
-(21) Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of paraloka, but only the one who does the will of my Father who is in paraloka. </b>
+(7:21) Si kila mtu aniambiaye, Bwana, Bwana, atakayeingia katika ufalme wa paraloka, bali ni yeye tu afanyaye mapenzi ya Baba yangu aliye katika paraloka. </b>
 `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Lord Jesus emanated from Paramatma. Jesus is Bhagavan incarnate in human form, whereas Paramatma, the Father of Paraloka, is God in a formless state, omnipresent throughout the entire universe. When Bhagavan, embodied as Jesus, walked the Earth, some recognized His divine magnificence and revered Him for their material desires. They addressed Him as ‘Lord, Lord,’ seeking personal gains. However, approaching the visible form of the Lord and calling Him great without attaining divine wisdom is insufficient. Although the one in a visible form and the one in an invisible form are the same, there are inherent limitations to the visible form, whereas the invisible Father of Paraloka is limitless. The boundless Paramatma occasionally assumes a tangible form to impart His divine teachings to humanity. Jesus is the form chosen by Paramatma for this purpose. While the Lord presented Himself to us as Jesus, the Father of Paraloka spoke through the words of Jesus. God incarnated as Jesus to proclaim His dharmas.
+<div class="poem"><div class="poemtext">
+  Bwana Yesu alitoka Paramatma. Yesu ni Bhagavan aliyefanyika mwili katika umbo la mwanadamu, ambapo Paramatma, the Baba wa Paraloka, ni Mungu katika hali isiyo na umbo, yuko kila mahali katika ulimwengu wote mzima. Wakati Bhagavan, aliyeumbwa kama Yesu, alipotembea Duniani, wengine walitambua ukuu wake wa kiungu na kumheshimu kwa tamaa zao za kimwili. Walimwita 'Bwana, Bwana,' wakitafuta faida za kibinafsi. Hata hivyo, kukaribia umbo linaloonekana la Bwana na kumwita Yeye mkuu bila kupata hekima ya kimungu haitoshi. Ijapokuwa ile iliyo katika umbo inayoonekana na ile isiyoonekana ni sawa, kuna vikwazo vya asili kwa umbo linaloonekana, ambapo Baba asiyeonekana wa Paraloka hana kikomo. Paramatma isiyo na kikomo mara kwa mara huchukua umbo linaloshikika ili kutoa mafundisho Yake matakatifu kwa wanadamu. Yesu ndiye fomu iliyochaguliwa na Paramatma kwa kusudi hili. Wakati Bwana alijionyesha kwetu kama Yesu, Baba wa Paraloka alizungumza kupitia maneno ya Yesu. Mungu alipata mwili kama Yesu ili kutangaza dharma zake.
 
-  Merely calling Jesus ‘Lord’ without putting God’s wisdom into practice and aligning with the will of the Father of Paraloka brings no real benefits. The one who actively practices God’s wisdom stands higher than the one who merely utters the Lord’s name. The one who abides by God’s words is more important than the one who merely salutes to God. A person who lives in accordance with God’s commandments is truly following God’s will, and such individuals are destined for Paraloka (moksham). God does not seek flattery and does not yield to it; rather, God is pleased by those who embrace and apply His wisdom. Therefore, it is more meaningful to practice God’s teachings rather than merely offering praise. God possesses an understanding of the thoughts and intentions of all beings and can distinguish between those who truly comprehend and live by His wisdom and those who do not. Those who comprehend and live by God’s wisdom hold special importance to God. Those who misunderstand or disregard wisdom and fail to act in accordance with God’s cannot attain moksham.
+  Kumwita tu Yesu 'Bwana' bila kutumia hekima ya Mungu katika matendo na kupatana na mapenzi ya Baba wa Paraloka hakuleti manufaa yoyote. Yule ambaye huzoea hekima ya Mungu kwa bidii anasimama juu zaidi kuliko yule anayetaja tu jina la Bwana. Yule anayeshika maneno ya Mungu ni muhimu zaidi kuliko yule anayemsalimu Mungu tu. Mtu anayeishi kupatana na amri za Mungu kwa kweli anafuata mapenzi ya Mungu, na watu kama hao wamekusudiwa kwenda Paraloka (moksham). Mungu hatafuti maneno ya kujipendekeza na wala hakubaliani nayo; bali, Mungu hupendezwa na wale wanaokumbatia na tumia hekima yake. Kwa hiyo, ni jambo la maana zaidi kufanya mazoezi ya mafundisho ya Mungu badala ya kutoa sifa tu. Mungu ana ufahamu wa mawazo na nia za viumbe vyote na anaweza kutofautisha kati ya wale wanaoelewa na kuishi kwa hekima Yake kweli na wale wasioelewa. Wale wanaoelewa na kuishi kwa hekima ya Mungu wanakuwa na umuhimu wa pekee kwa Mungu. Wale wasioelewa au kupuuza hekima na kushindwa kutenda kulingana na ya Mungu hawawezi kufikia moksham.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 21,
-verse: ` <b>(20)	The Gospel of Mathew, 7th chapter, 22nd and 23rd verses. </b>`,
+verse: ` <b>(20)	Injili ya Mathayo, sura ya 7, aya ya 22 na 23. </b>`,
 meaning: ` <b>
-(22) Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name and in your name drive out demons and, in your name, perform many miracles?
+(7:22) Wengi wataniambia siku ile, ‘Bwana, Bwana, hatukufanya unabii kwa jina lako na kwa jina lako kutoa pepo, na kwa jina lako kufanya miujiza mingi?
 <br><br>
-(23) Then I will tell them plainly, ‘I never knew you. Away from me, you evildoers!’</b>`,
+(7:23) Kisha nitawaambia waziwazi: Sikuwajua ninyi kamwe. Ondokeni kwangu, enyi watenda maovu!</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some people who recognize the greatness of the Lord (Jesus) may overlook Paramatma, the ruler of paraloka, and focus solely on praising Jesus. Paramatma, the Father of the entire world, sent a part of Himself as Jesus. Jesus possesses as much power as Paramatma. Praising the Lord Jesus is akin to praising the Father, Paramatma. Many people offer their praise to the Lord, but there are those who do so out of selfish motives, while others are selfless in their devotion to God. The Father of paraloka conveyed his message through Jesus, whom He sent, on numerous occasions. Many are familiar with the words of the Supreme Father but do not comprehend His true nature. It might be asserted that not even one out of millions who read the Father’s words, listen, and offer their praise, truly understands the Father’s actual essence. The Lord proclaimed God’s commandments, wisdom, and verses. The visible Lord (Jesus) serves as the symbol of the invisible God, and He is the image and representative of God. Those who fail to grasp the wisdom and commandments contained in the verses cannot fully benefit from their praise of the Lord.
+<div class="poem"><div class="poemtext">
+  Baadhi ya watu wanaotambua ukuu wa Bwana (Yesu) wanaweza kumpuuza Paramatma, mtawala wa paraloka, na kulenga tu kumsifu Yesu. Paramatma, Baba wa ulimwengu mzima, alituma sehemu Yake kama Yesu. Yesu ana nguvu nyingi kama Paramatma. Kumsifu Bwana Yesu ni sawa na kumsifu Baba, Paramatma. Watu wengi hutoa sifa zao kwa Bwana, lakini kuna wale wanaofanya hivyo kwa nia ya ubinafsi, ilhali wengine hawana ubinafsi katika ujitoaji wao kwa Mungu. Baba wa paraloka aliwasilisha ujumbe wake kupitia Yesu, ambaye Yeye alimtuma, mara nyingi. Wengi wanafahamu maneno ya Baba Mkuu lakini hawaelewi asili Yake ya kweli. Inaweza kusemwa kwamba hakuna hata mmoja kati ya mamilioni wanaosoma maneno ya Baba, kusikiliza, na kutoa sifa zao, anaelewa kwa hakika kiini halisi cha Baba. Bwana alitangaza amri za Mungu, hekima, na aya. Bwana anayeonekana (Yesu) anatumika kama ishara ya Mungu asiyeonekana, na Yeye ndiye sura na mwakilishi wa Mungu. Wale wanaoshindwa kufahamu hekima na amri zilizomo ndani ya Aya hawawezi kufaidika kikamilifu na sifa zao za Mola.
 
-  Humanity can only derive some profit from praising the Lord as supreme. It is imperative to recognize that the ultimate benefit for a person is to attain paraloka. The most significant achievement one can reach is paraloka. It is crucial to understand that the ultimate goal for anyone is to break free from Satan’s (Maya) world and enter God’s realm. The ultimate and most significant gain for humanity is to unite with God’s paraloka without ever returning to this world where Satan resides. There is nothing more valuable for a person than gaining access to paraloka. To reap such enormous benefits and avoid entanglement with Satan, one must fully grasp God’s wisdom. Those who do not delve into the profound wisdom contained in Jesus’ verses and His commandments will only be partial devotees rather than complete believers. Blessed is the one who follows all of the Lord’s teachings without exceeding the boundaries of His commandments. Even those who may not fully comprehend Paramatma’s wisdom are not complete believers, despite being great preachers and fervent praisers of the Lord. This is not to dismiss such individuals, but to emphasize that they have faith in God without being complete believers. Doubt lies within every person until they completely understand God’s wisdom, even if it may not be apparent now. Great preachers who believe they are wholehearted devotees of the Lord may still harbor doubts until they gain a thorough understanding of God’s wisdom. Therefore, the Lord proclaimed, <b>“The one who places trust in me with their manas is superior to the one who flatters me.”</b> Complete faith requires the full wisdom of God.
+  Ubinadamu unaweza tu kupata faida fulani kutokana na kumsifu Bwana kama mkuu. Ni muhimu kutambua kwamba manufaa ya mwisho kwa mtu ni kufikia paraloka. Mafanikio muhimu zaidi ambayo mtu anaweza kufikia ni paraloka. Ni muhimu kuelewa kwamba lengo kuu la mtu yeyote ni kujitenga na ulimwengu wa Shetani (Maya) na kuingia katika ulimwengu wa Mungu. Faida kuu na muhimu zaidi kwa wanadamu ni kuungana na paraloka ya Mungu bila kurudi tena katika ulimwengu huu ambapo Shetani anakaa. Hakuna kitu cha thamani zaidi kwa mtu kuliko kupata paraloka. Ili kupata faida nyingi kama hizo na kuepuka kunaswa na Shetani, ni lazima mtu afahamu kikamili hekima ya Mungu. Wale wasiozama katika hekima ya kina iliyomo katika aya za Yesu na amri zake watakuwa tu. waja kwa sehemu badala ya waumini kamili. Heri mtu anayefuata mafundisho yote ya Bwana bila kuvuka mipaka ya amri zake. Hata wale ambao hawawezi kuelewa kikamilifu hekima ya Paramatma sio waumini kamili, licha ya kuwa wahubiri wakuu na wasifu wa Bwana. Hili si la kuwafukuza watu kama hao, bali ni kusisitiza kwamba wana imani kwa Mungu bila kuwa waamini kamili. Shaka iko ndani ya kila mtu hadi aelewe kabisa hekima ya Mungu, hata ikiwa inaweza kuwa wazi sasa. Wahubiri wakuu wanaoamini kuwa wao ni wajitoleaji wa Bwana kwa moyo wote wanaweza bado kuwa na mashaka hadi wapate ufahamu kamili wa hekima ya Mungu. Kwa hiyo, Bwana alitangaza,<strong>"Yule anayeniamini kwa manas yake ni bora kuliko yule anayenibembeleza.&rdquo;</strong>Imani kamili inahitaji hekima kamili ya Mungu.
 
-  It can be said that those who do not understand that Jesus and God are one and those who believe that Jesus will return as Jesus do not comprehend the vastness of God. The one who does not realize that God is eternal, without a beginning or an end, that God has descended to Earth many times, and that He will come whenever necessary, lacks complete wisdom. Those with perfect wisdom can discern the arrival of God, while those without absolute wisdom cannot recognize His coming. Even when God has taken human form and stood before a person, the one who only sees His outward appearance and actions may fail to recognize God. When the Lord comes incognito, some Christians may not recognize Him and may be unaware of His presence, even to the point of attempting to baptize Him.
+  Inaweza kusemwa kwamba wale ambao hawaelewi kwamba Yesu na Mungu ni mmoja na wale wanaoamini kwamba Yesu atarudi kama vile Yesu hawaelewi ukuu wa Mungu. Yule ambaye hatambui kwamba Mungu ni wa milele, hana mwanzo wala mwisho, kwamba Mungu ameshuka duniani mara nyingi, na kwamba atakuja kila inapobidi, hukosa hekima kamili. Wale walio na hekima kamilifu wanaweza kutambua kuwasili kwa Mungu, wakati wale wasio na hekima kamili hawawezi kutambua kuja kwake. Hata wakati Mungu amechukua umbo la mwanadamu na kusimama mbele ya mtu, yule anayeona tu sura Yake ya nje na matendo anaweza kushindwa kumtambua Mungu. Wakati Bwana huja kwa siri, baadhi ya Wakristo wanaweza wasimtambue na wanaweza kuwa hawajui uwepo Wake, hata kufikia hatua ya kujaribu kumbatiza.
 
-  On Earth, believers are better than non-believers, and absolute believers surpass ordinary believers. Only absolute believers can enter paraloka. God does not accept them until they become absolute believers. When entering paraloka, God acknowledges only absolute gnanis. If someone is not an absolute gnani, God will say, “I do not know them.” Hence, one must strive to attain absolute wisdom. Many aspire to draw near to God and enter His kingdom. However, as they are within Satan’s dominion (Maya), Satan exerts its utmost efforts to prevent them from reaching God and from becoming complete gnanis. Even preachers who are aware of Satan’s opposition to God may not fully comprehend the extent of Satan’s influence. Those who lack a comprehensive understanding of Satan’s activities may inadvertently follow Satan’s path while believing they are on the path to God. This is why God has stated that preachers who assume they are close to God may still fall short of entering His presence.
+  Duniani Waumini ni bora kuliko makafiri, na Waumini wa kweli huwazidi Waumini wa kawaida. Waumini kamili tu wanaweza kuingia paraloka. Mwenyezi Mungu hawakubali mpaka wawe waumini kamili. Wakati wa kuingia paraloka, Mungu anakubali tu gnanis kabisa. Ikiwa mtu si gnani kabisa, Mungu atasema, "Mimi siwajui." Kwa hivyo, mtu lazima ajitahidi kupata hekima kamili. Wengi wanatamani kumkaribia Mungu na kuingia ufalme wake. Hata hivyo, kwa kuwa wako ndani ya himaya ya Shetani (Maya), Shetani anatumia jitihada zake zote kuwazuia wasimfikie Mungu na wasiwe mbuni kamili. Hata wahubiri wanaofahamu upinzani wa Shetani kwa Mungu huenda wasielewe kikamili ukubwa wa uvutano wa Shetani. Wale ambao hawana ufahamu wa kina wa shughuli za Shetani wanaweza kufuata njia ya Shetani bila kukusudia huku wakiamini kuwa wako kwenye njia ya kuelekea kwa Mungu. Hii ndiyo sababu Mungu amesema kwamba wahubiri wanaodhani kuwa wako karibu na Mungu bado wanaweza kukosa kuingia katika uwepo Wake.
 
-  In the verse, Jesus said, <b>“Even though you cast out demons and perform miracles in my name, and heal the sick in my name, you are evildoers. Depart from me.”</b>
+  Katika aya hiyo, Yesu alisema,<strong>"Ijapokuwa mnatoa pepo na kufanya miujiza kwa jina langu, na kuponya wagonjwa kwa jina langu, ninyi ni watenda mabaya. Ondokeni kwangu.&rdquo;</strong>
 
-  In today’s society, people often regard those who perform miracles in the name of God as true devotees, believing them to be close to the Lord. Even those who work wonders themselves may think they are in close communion with the Lord. This perception arises because they see the glory of the Lord manifested through their actions. When they lay their hands on a patient while reciting God’s words, and the patient experiences healing, they attribute it to the Lord’s miracles occurring through them. While it is true that miracles can indeed happen, making the Lord’s presence known to all, they overlook why the Lord expressed displeasure with such actions, as mentioned in the above verse. In doing so, they forget the Lord’s words. The question arises: Why did the Lord reprimand them if what they were doing seemed to be good and a manifestation of the Lord’s miracles? Why did Jesus state that they were walking on an evil path? If the Lord has said so, it is undoubtedly true.
+  Katika jamii ya leo, mara nyingi watu huwachukulia wale wanaofanya miujiza kwa jina la Mungu kuwa wajitoleaji wa kweli, wakiwaamini kuwa wako karibu na Bwana. Hata wale wanaofanya maajabu wenyewe wanaweza kufikiri kuwa wako katika ushirika wa karibu na Bwana. Mtazamo huu hutokea kwa sababu wanaona utukufu wa Bwana ukidhihirika kupitia matendo yao. Wanapoweka mikono yao juu ya mgonjwa wakati wa kukariri maneno ya Mungu, na mgonjwa anapata uponyaji, wanahusisha na miujiza ya Bwana inayotokea kupitia kwao. Ingawa ni kweli kwamba miujiza inaweza kweli kutokea, na kufanya kuwapo kwa Bwana kujulikane kwa wote, wao hupuuza ni kwa nini Bwana alionyesha kutopendezwa na matendo kama hayo, kama ilivyotajwa katika mstari hapo juu. Kwa kufanya hivyo, wanasahau maneno ya Bwana. Swali linazuka: Kwa nini Bwana aliwakemea ikiwa kile walichokuwa wakifanya kilionekana kuwa kizuri na dhihirisho la miujiza ya Bwana? Kwa nini Yesu alisema kwamba walikuwa wakitembea katika njia mbaya? Ikiwa Bwana amesema hivyo, bila shaka ni kweli.
 
-  The unbelievable truth becomes evident when you contemplate what the truth means in the Lord’s teachings. It is a grave mistake for a person not to discern whether the miracles performed in the Lord’s name are of God or Satan. Many who appear as preachers and gurus in the eyes of the people believe they are on God’s path but are, in fact, on Maya’s path. This realization can be quite distressing. It’s possible that many preachers may become upset with my words, but please remember that these are not my words; they are the words of God. As stated in the Gospel of Matthew 7:22, the Lord said, <b>“This is evil. I never knew you.”</b> We should acknowledge that the same Maya (Satan) that tempted the Lord in the past is still attempting to deceive us today. Understanding Maya (Satan) is also an essential part of divine wisdom. Without recognizing Maya, we may mistakenly follow Satan, who assumes the guise of God, instead of following God. Today, many speakers, gurus, and preachers make the same mistake. Satan (Maya), which can assume many forms, performs tricks and miracles in the name of God. Those who are unaware that this is not pleasing to God cannot progress. The distressing truth is that many people on Earth blindly follow Satan, believing it to be God. They are oblivious to the fact that they are pursuing Satan’s path, not God’s. It may seem almost impossible for them to break free from Satan’s influence. Even if God Himself were to convey this truth, they might criticize God but remain unchanged. To them, Maya appears as God, and God appears as a mere human being.
+  Ukweli usioaminika unadhihirika unapotafakari nini maana ya ukweli katika mafundisho ya Bwana. Ni kosa kubwa sana kwa mtu kutotambua kama miujiza inayofanywa kwa jina la Bwana ni ya Mungu au Shetani. Wengi wanaoonekana kuwa wahubiri na wakubwa mbele ya watu wanaamini kwamba wako kwenye njia ya Mungu lakini kwa kweli wako kwenye njia ya Maya. Utambuzi huu unaweza kuhuzunisha sana. Inawezekana kwamba wahubiri wengi wanaweza kukasirishwa na maneno yangu, lakini tafadhali kumbuka kwamba haya si maneno yangu; ni maneno ya Mungu. Kama ilivyoelezwa katika Injili ya Mathayo 7:22, Bwana alisema,<strong>"Huu ni uovu. Sikuwahi kukufahamu.&rdquo;</strong>Tunapaswa kukiri kwamba Maya yule yule (Shetani) aliyemjaribu Bwana hapo awali bado anajaribu kutudanganya leo. Kuelewa Maya (Shetani) pia ni sehemu muhimu ya hekima ya kimungu. Bila kumtambua Maya, tunaweza kumfuata Shetani kimakosa, ambaye anajifanya kuwa kama Mungu, badala ya kumfuata Mungu. Leo, wasemaji wengi, wakuu, na wahubiri hufanya makosa sawa. Shetani (Maya), ambaye anaweza kuchukua aina nyingi, hufanya hila na miujiza kwa jina la Mungu. Wale wasiojua kwamba jambo hilo halimpendezi Mungu hawawezi kuendelea. Ukweli wenye kuhuzunisha ni kwamba watu wengi Duniani wanamfuata Shetani kwa upofu, wakiamini kuwa ni Mungu. Hawajali ukweli kwamba wanafuata njia ya Shetani, si ya Mungu. Huenda ikaonekana kuwa haiwezekani kwao kuachana na uvutano wa Shetani. Hata kama Mungu Mwenyewe angefikisha ukweli huu, wanaweza kumkosoa Mungu lakini wakabaki bila kubadilika. Kwao, Maya anaonekana kama Mungu, na Mungu anaonekana kama mwanadamu tu.
 
-  Those who aspire to enter God’s kingdom and have faith in God should reflect upon the previously mentioned verse and contemplate why God disapproved of and referred to those who perform miracles as evildoers. Consider who is favored by God and who is not. It is essential to familiarize yourself with God’s verses, wisdom, and commandments. You should fully embrace God’s wisdom without transgressing His commandments, recognizing them as the boundaries set around you. Keep in mind that God’s kingdom is within these boundaries, while Satan’s dominion lies outside. Stay vigilant in the face of Satan’s influence, remembering the boundaries delineated by Jesus in his holy scripture for all of humanity.
+  Wale wanaotamani kuingia katika ufalme wa Mungu na kuwa na imani katika Mungu wanapaswa kutafakari juu ya mstari uliotajwa hapo awali na kutafakari kwa nini Mungu alikataa na kuwataja wale wanaofanya miujiza kuwa watenda maovu. Fikiria ni nani anayependelewa na Mungu na nani asiyependelewa. Ni muhimu kujifahamisha na mistari, hekima, na amri za Mungu. Unapaswa kukumbatia hekima ya Mungu kikamilifu bila kuvunja amri zake, ukitambua kuwa ni mipaka iliyowekwa. karibu na wewe. Kumbuka kwamba ufalme wa Mungu uko ndani ya mipaka hii, wakati utawala wa Shetani uko nje. Kaa macho mbele ya ushawishi wa Shetani, ukikumbuka mipaka iliyoainishwa na Yesu katika andiko lake takatifu kwa wanadamu wote.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 22,
-verse: ` <b>(21) The Gospel of Mathew, 8th chapter, 22nd verse. </b>`,
+verse: ` <b>(21) Injili ya Mathayo, sura ya 8, mstari wa 22. </b>`,
 meaning: ` <b>
-(22) Jesus told him, “Follow me, and let the dead bury their own dead.”</b>`,
+(8:22) Yesu akamwambia, “Nifuate, waache wafu wazike wafu wao.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The above verse mentioned was Jesus’s response when one of His disciples said to Him, “Lord, first let me go and bury my father.” Jesus’s words may seem unclear to some, prompting questions about their meaning. When we consider this, we can classify humanity into two categories: those who possess wisdom and practice it as yogam will attain eternal life (moksham). Such people are very few in number. Those who are eligible for everlasting life will not be counted among the dead. Those who attain everlasting life will never truly experience death and can be said to have achieved moksham. On the other hand, those who are ignorant or do not engage in the practice of yogam can be considered as spiritually dead. Such individuals do not possess eternal life and will ultimately face death. It can be said that they are destined to experience death at some point. The ignorant are often buried by other ignorant individuals. Hence, Jesus’s statement, “Let the dead bury the dead,” conveys the idea that those who lack wisdom are referred to as the spiritually dead. It emphasizes that those who possess wisdom should not associate themselves with the ignorant. Therefore, Jesus told the disciple, “You understand the wisdom and follow me. Let the ignorant bury the ignorant.”
+<div class="poem"><div class="poemtext">
+  Mstari uliotajwa hapo juu ulikuwa ni jibu la Yesu wakati mmoja wa wanafunzi Wake alipomwambia, “Bwana, niruhusu kwanza niende nikamzike baba yangu.” Huenda maneno ya Yesu yakaonekana kuwa yasiyoeleweka kwa wengine, na hivyo kutokeza maswali kuhusu maana yake. Tunapozingatia hili, tunaweza kuainisha ubinadamu katika makundi mawili: wale walio na hekima na kuitumia kama yogam watapata uzima wa milele (moksham). Watu kama hao ni wachache sana. Wale wanaostahili kupata uzima wa milele hawatahesabiwa miongoni mwa wafu. Wale wanaopata uzima wa milele hawatawahi kamwe kufa na inaweza kusemwa kuwa wamepata moksham. Kwa upande mwingine, wale ambao hawajui au hawashiriki katika mazoezi ya yoga wanaweza kuchukuliwa kuwa wamekufa kiroho. Watu kama hao hawana uzima wa milele na hatimaye watakabiliwa na kifo. Inaweza kusemwa kwamba wamekusudiwa kupata kifo wakati fulani. Wajinga mara nyingi huzikwa na wajinga wengine. Kwa hiyo, maneno ya Yesu, “Waache wafu kuzika wafu,” linatoa wazo la kwamba wale wasio na hekima wanarejezewa kuwa wafu kiroho. Inasisitiza kwamba wale walio na hekima hawapaswi kujihusisha na wajinga. Kwa hiyo, Yesu alimwambia mwanafunzi huyo, “Wewe unaelewa hekima na unifuate. Wacha wajinga wazike wajinga."
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 23,
-verse: ` <b>(22)	The Gospel of Mathew, 9th chapter, 12th and 13th verses.</b>`,
+verse: ` <b>(22)	Injili ya Mathayo, sura ya 9, aya ya 12 na 13.</b>`,
 meaning: ` <b>
-(12) On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.”
+ (9:12) Aliposikia hayo, Yesu alisema, “Wenye afya hawahitaji tabibu, bali walio hawawezi.
 <br><br>
-(13) For I have not come to call the righteous, but sinners.</b>`,
+(9:13) Kwa maana sikuja kuwaita wenye haki, bali wenye dhambi.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  As we’ve previously discussed, God occasionally descends upon the Earth to establish dharmas. Similarly, Jesus stated that He came to guide the ignorant onto the path of wisdom. He mentioned that He came to call sinners, not the righteous. Here ‘sinners’ represent those who are ignorant and lack wisdom, while the ‘righteous’ denote those who possess wisdom. God takes on the role of a spiritual physician, often referred to as a preacher, to heal those afflicted by the ailment of ignorance. Through the medicine of wisdom, He cures the spiritually sick. Those who are already spiritually healthy with wisdom do not require the guidance of such a physician or preacher. When the disease of ignorance spreads globally, affecting all people, God incarnates to provide His divine medicine of dharmas and transform the ignorant into gnanis (wise individuals). If God did not assume this role as a spiritual physician, the entire world would be plagued by ignorance. Therefore, God incarnates to reveal His wisdom to those in need.
+<div class="poem"><div class="poemtext">
+  Kama tulivyojadili hapo awali, Mungu mara kwa mara hushuka juu ya Dunia ili kuanzisha dharma. Vile vile, Yesu alisema kwamba alikuja kuwaongoza wajinga kwenye njia ya hekima. Alitaja kwamba alikuja kuwaita wenye dhambi, si wenye haki. Hapa 'wenye dhambi' wanawakilisha wale ambao hawana maarifa na hawana hekima, wakati 'wenye haki' wanawakilisha wale walio na hekima. Mungu anachukua nafasi ya tabibu wa kiroho, ambaye mara nyingi huitwa mhubiri, kuponya wale wanaosumbuliwa na maradhi ya ujinga. Kupitia dawa ya hekima, Yeye huwaponya wagonjwa wa kiroho. Wale ambao tayari wako na afya nzuri kiroho na hekima hawahitaji mwongozo wa daktari au mhubiri kama huyo. Ugonjwa wa ujinga unapoenea duniani kote, ikiathiri watu wote, Mungu anapata mwili ili kutoa dawa yake ya kimungu ya dharmas na kubadilisha wajinga kuwa gnanis (watu wenye busara). Ikiwa Mungu hangechukua jukumu hili kama daktari wa kiroho, ulimwengu wote ungekuwa na ujinga. Kwa hiyo, Mungu anapata mwili ili kufichua hekima yake kwa wale wanaohitaji.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 24,
-verse: ` <b>(23) The Gospel of Mathew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>`,
+verse: ` <b>(23) Injili ya Mathayo, sura ya 8, 23, 24, 25 na 26 mistari. </b>`,
 meaning: `<b>
-(23) Then He got into the boat and His disciples followed Him.
+(8:23) Kisha akapanda mashua na wanafunzi wake wakamfuata.
 <br><br>
-(24) Suddenly a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping.
+(8:24) Ghafla, dhoruba kali ikatokea ziwani, hata mawimbi yakaipiga mashua. Lakini Yesu alikuwa amelala.
 <br><br>
-(25) The disciples went and woke Him, saying, “Lord, save us! We’re going to drown!”
+(8:25) Wanafunzi wake wakaenda, wakamwamsha, wakisema, Bwana, tuokoe! Tutazama!
 <br><br>
-(26) He replied, “You of little faith, why are you so afraid?” Then He got up and rebuked the winds and the waves, and it was completely calm.   </b>`,
+(8:26) Akajibu, Enyi wenye imani haba, mbona mnaogopa hivi? Kisha akaamka, akazikemea zile pepo na mawimbi, kukawa shwari kabisa.  </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This event is a significant incident from Jesus’ life. While Jesus may not have directly taught a lesson here, there is much we can learn from this event. Both the sea and the storm are connected to Prakruti. The air in the storm and the water in the sea are integral components of Prakruti. Prakruti is under the sole control of Paramatma, the supreme divine entity. Prakruti consists of five elements: Sky, Air, Fire, Water, and Earth. Even Atma, which possesses divinity following Paramatma, holds no authority over Prakruti. Atma within the body governs only the Chara (Changeable) Prakruti, which exists in the form of the body. It does not exert any authority over the Achara (Unchangeable) Prakruti. Prakruti does not heed Atma; it solely obeys the command of Paramatma. Prakruti is composed of five bhootas, which can be understood as life forces or Jeevas. These five Jeevas represent the five elements of Prakruti and, as such, they adhere to the divine word of God. They follow the instructions of Paramatma.
+<div class="poem"><div class="poemtext">
+  Tukio hili ni tukio muhimu kutoka kwa maisha ya Yesu. Ingawa Yesu huenda hakufundisha somo moja kwa moja hapa, kuna mengi tunaweza kujifunza kutokana na tukio hili. Bahari na dhoruba zote zimeunganishwa na Prakruti. Hewa katika dhoruba na maji katika bahari ni sehemu muhimu za Prakruti. Prakruti iko chini ya udhibiti wa pekee wa Paramatma, chombo kikuu cha kimungu. Prakruti ina vitu vitano: Anga, Hewa, Moto, Maji na Dunia. Hata Atma, ambayo ina uungu kufuatia Paramatma, haina mamlaka juu ya Prakruti. Atma ndani ya mwili inasimamia tu Chara (Changeable) Prakruti, ambayo ipo kwa namna ya mwili. Haina mamlaka yoyote juu ya Achara (Isiyobadilika) Prakruti. Prakruti haizingatii Atma; inatii tu amri ya Paramatma. Prakruti inaundwa na bhoota tano, ambazo zinaweza kueleweka kama nguvu za maisha au Jeevas. Jeeva hizi tano zinawakilisha vipengele vitano vya Prakruti na, kwa hivyo, wanashikamana na neno la kimungu la Mungu. Wanafuata maagizo ya Paramatma.
 
-  Because Jesus was the Holy Spirit who appeared as an ordinary man, the storm in the sea ceased at His command. Only God can control Prakruti, so Jesus can be considered God’s incarnation. It is mentioned in verses 7, 8, and 9 of Gnana Yoga in the Bhagavad-Gita, the first divine scripture, that God descends to Earth in human form to impart His wisdom. When God takes on a human form, He outwardly resembles an ordinary man, even though He is not an ordinary individual. Because He appears as an ordinary man, identifying Him is challenging. However, there are two key indicators to recognize Him: <b>1) The presence of God’s incarnation wherever divine dharmas are taught.2) The ability to command Prakruti can be recognized as God’s incarnation.</b> The calming of the sea at Jesus’ command is a manifestation of this divine power, demonstrating that only God can perform such feats. When dharmas are taught and Prakruti is commanded, the human form of God becomes recognizable. Jesus not only taught God’s wisdom but also practiced it and commanded Prakruti. Therefore, Jesus can be identified as God in human form. The immediate cessation of the storm on the sea served as proof of Jesus’ divinity.
+  Kwa sababu Yesu alikuwa Roho Mtakatifu ambaye alionekana kama mtu wa kawaida, tufani katika bahari ilikoma kwa amri yake. Ni Mungu pekee anayeweza kudhibiti Prakruti, kwa hivyo Yesu anaweza kuzingatiwa kuwa mwili wa Mungu. Imetajwa katika mistari ya 7, 8, na 9 ya Gnana Yoga katika Bhagavad-Gita, andiko la kwanza la kimungu, kwamba Mungu anashuka duniani katika umbo la mwanadamu ili kutoa hekima yake. Mungu anapochukua umbo la mwanadamu, kwa nje Anafanana na mwanadamu wa kawaida, ingawa Yeye si mtu wa kawaida. Kwa sababu Anaonekana kama mtu wa kawaida, kumtambulisha ni changamoto. Hata hivyo, kuna viashiria viwili muhimu vya kutambua Yeye:<strong>1) Uwepo wa kupata mwili kwa Mungu popote pale ambapo dharma za kimungu zinafundishwa.2) Uwezo wa kuamuru Prakruti unaweza kutambuliwa kama Mungu kupata mwili.</strong> Kutulizwa kwa bahari kwa amri ya Yesu ni udhihirisho wa nguvu hizo za kimungu, kuonyesha kwamba ni Mungu pekee anayeweza kufanya mambo hayo. Dharma inapofundishwa na Prakruti kuamriwa, umbo la mwanadamu la Mungu linatambulika. Yesu hakufundisha tu hekima ya Mungu bali pia aliitenda na kumwamuru Prakruti. Kwa hiyo, Yesu anaweza kutambuliwa kuwa Mungu katika umbo la mwanadamu. Kukoma mara moja kwa dhoruba juu ya bahari kulitumikia kama uthibitisho wa uungu wa Yesu.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 25,
-verse: ` <b>(24)The Gospel of Mathew, 9th chapter, 6th verse.</b>`,
+verse: ` <b>(24) Injili ya Mathayo, sura ya 9, mstari wa 6.</b>`,
 meaning: `<b>
-(6) I want you to know that the Son of Man has authority on earth to forgive sins. So, he said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
+(9:6) Nataka mjue kwamba Mwana wa Adamu anayo mamlaka duniani ya kusamehe dhambi. Basi, akamwambia yule mwenye kupooza, "Simama, chukua mkeka wako, uende nyumbani." Kisha mtu huyo akainuka na kwenda nyumbani.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-  Jesus Himself said that the Son of Man has authority on Earth to forgive sins. When a paralyzed man was brought to Jesus, He said to him, “Your sins are forgiven.” Some of the scribes said to themselves that Jesus was blaspheming. Knowing their thoughts, Jesus said, “Why do you entertain evil thoughts in your hearts? Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk?’ But I want you to know that the Son of Man has the authority to forgive sins.” So, He said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
+  Yesu mwenyewe alisema kwamba Mwana wa Adamu anayo mamlaka duniani ya kusamehe dhambi. Mtu mwenye kupooza alipoletwa kwa Yesu, akamwambia, Umesamehewa dhambi zako. Baadhi ya waandishi walijisemea moyoni kwamba Yesu alikuwa akikufuru. Yesu akijua mawazo yao, akasema, “Kwa nini mnawazia mawazo mabaya mioyoni mwenu? Ni lipi lililo rahisi zaidi, kusema, Umesamehewa dhambi zako, au kusema, Simama, utembee? Lakini nataka mjue kwamba Mwana wa Adamu anayo mamlaka ya kusamehe dhambi.” Kwa hiyo, Yeye akamwambia yule aliyepooza, "Simama, chukua mkeka wako, uende nyumbani." Kisha mtu huyo akainuka na kwenda nyumbani.
 
-  If we observe this, Jesus forgave sins because the scribes thought evil of Him. He also declared that the Son of Man has authority on Earth to forgive sins. Despite coming to Earth as the Son of God, He humbled Himself by identifying as the Son of Man. He told and proved that He alone possesses the authority to forgive sins. Those who understand that only God (The Holy Spirit) can forgive sins will recognize who Jesus truly is. By claiming to be the Son of Man, Jesus deliberately obscured His divinity, even though He originated from the Holy Spirit. The paralyzed man immediately rose and went home when Jesus instructed him to do so. The crowd was astonished after witnessing this miracle. Despite performing such a remarkable deed, Jesus was treated as an ordinary man and brought to court as if He were guilty. This illustrates how humans often forget the help they receive.
+  Tukiona haya, Yesu alisamehe dhambi kwa sababu waandishi walimdhania mabaya. Pia alitangaza kwamba Mwana wa Adamu anayo mamlaka duniani ya kusamehe dhambi. Licha ya kuja Duniani kama Mwana wa Mungu, alijinyenyekeza kwa kujitambulisha kuwa Mwana wa Adamu. Aliambia na kuthibitisha kwamba Yeye peke yake ndiye mwenye mamlaka ya kusamehe dhambi. Wale wanaoelewa kwamba ni Mungu pekee (Roho Mtakatifu) anayeweza kusamehe dhambi watatambua Yesu ni nani hasa. Kwa kudai kuwa Mwana wa Adamu, Yesu alificha uungu Wake kimakusudi, ingawa alitoka kwa Roho Mtakatifu. Yule mtu aliyepooza alisimama mara moja na kwenda nyumbani wakati Yesu alipomwagiza afanye hivyo. Umati ulistaajabu baada ya kushuhudia muujiza huu. Licha ya kufanya tendo hilo la ajabu, Yesu alitendewa kama mtu wa kawaida na kufikishwa mahakamani kana kwamba alikuwa na hatia. Hilo linaonyesha jinsi wanadamu mara nyingi husahau msaada wanaopokea.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 26,
-verse: ` <b>(25) The Gospel of Mathew, 10th chapter, 20th verse.</b>`,
+verse: ` <b>(25) Injili ya Mathayo, sura ya 10, mstari wa 20.</b>`,
 meaning: `<b>
-(20) For it will not be you speaking, but the Spirit of your Father speaking through you. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  While this verse may appear ordinary, it holds profound spiritual wisdom. It’s essential to understand that the term <b>‘Your Father’</b> in this verse does not refer to one’s biological father but to the spiritual Father of Jeevatma. Atma, the Father of Jeevatma, resides within the body and guides it. It’s crucial to remember that the Father of Atma is Paramatma. Every human being represents Jeevatma. Depending on a person’s karma, Atma influences and guides them (Jeevatma), causing them to experience karma (sins and punya karma). Atma controls all bodily functions and determines the pleasure and pain experienced by Jeevatma within the body.
-
-  Jeevatma does not actively engage in any bodily functions. Despite its apparent inaction, Jeeva silently experiences the consequences of its actions, both joy and sorrow. Although Jeevatma identifies itself as the individual within the body, he lacks the capacity to act. Instead, it is the Atma that orchestrates all activities within the body. Due to ignorance, Jeevatma mistakenly believes he is the one performing actions by listening to the words of ‘aham’ (the ego). In reality, Atma is the true actor within the body, but Jeevatma often forgets Atma’s presence and believes that he is the doer of everything. In the context of the verse, Jesus aimed to enlighten those in ignorance. He conveyed, <b>“Your father, Atma, resides within you and communicates through you. You are not the one speaking.”</b> According to this verse, it is evident that not only the deeds performed but also the spoken words are not articulated by Jeevatma. Jesus stated that it is sheer ignorance for people to believe that they are speaking, whereas it is Atma who articulates the words. Jeevatma does not perform the deeds executed by the ten physical body parts (organs of action); it is Atma that accomplishes everything through these body parts. Recognizing this truth represents the highest form of wisdom among all wisdom.
-</div></div>
-</span>
-`
-},
-{
-chapterName: "The Gospel Of Mathew",
-chapterNumber: 2,
-pageNumber: 27,
-verse: ` <b>(26) The Gospel of Mathew, 10th chapter, 30th verse.</b>`,
-meaning: ` <b>
-(30) Even the very hairs of your head are all numbered.
-</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In a temple, people often share their thoughts with God, believing that God is unaware of their innermost feelings. They exhibit respect and awe when in the temple but may behave differently outside. For instance, after leaving the temple, some individuals may occupy two train seats without allowing other passengers to sit, displaying inconsiderate behavior. This action stems from the misconception that God is aware of their actions inside the temple but not outside. However, what <b>many fail to realize is that God is omniscient and omnipresent, perceiving all actions, even in the most secluded places.</b> This verse spoken by Jesus highlights the glory of God and serves as a reminder that God’s awareness extends everywhere.
-
-The verse highlights God’s extraordinary carefulness towards humans, as God has established a precise system for all aspects of human existence. This divine system encompasses even the minutest details, such as ‘karma-visarga’ —the division of karma into tiny parts. Through karma-visarga, God determines how many times a person should open and close their eyelids, ensuring a precise count. God also dictates the number of hairs on our heads and when and which hairs should fall out, all through karma-visarga. Additionally, God orchestrates the challenges that individuals face and the extent of their suffering. In the Bhagavad-Gita, the Lord affirms that God possesses knowledge of everything that has occurred, is happening, and will transpire on Earth. This reinforces the notion that there is nothing beyond God’s awareness.
-</div></div>
-
-</span>`
-},
-{
-chapterName: "The Gospel Of Mathew",
-chapterNumber: 2,
-pageNumber: 28,
-verse: ` <b>(27) The Gospel of Mathew, 10th chapter, 34th, 35th and 36th verses.</b>`,
-meaning: `<b>
-(34) Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.
-<br><br>
-(35) For I have come to turn “‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.
-<br><br>
-(36) A man’s enemies will be the members of his own household.
-</b>`,
-pageText: `
-<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  While it may not be fair to say that Jesus intentionally aimed to create conflicts among humans, it’s evident that such conflicts have arisen. Jesus came with the intention of leading people from ignorance to wisdom rather than sowing discord. He shared his wisdom with good intentions, but it often led to disputes among those who didn’t fully comprehend His teachings. Much like how cold water sprayed on sand cools it, while limestones become warm, altering their appearance, and turning into lime, the reception of Jesus’ wisdom varies. Those with a deep understanding of wisdom find happiness in Jesus’ teachings, while conflicts arise among the ignorant. In some cases, when one spouse seeks wisdom, the other may disagree, leading to disagreement within families. This unexpected consequence can lead to divisions within households, where fathers may turn against sons, mothers against daughters, and mothers-in-law against daughters-in-law. Though Jesus’ intentions are noble, they inadvertently lead to humans forgetting their kinship and fostering enmity. That is why if Jesus gives a flower, it turns into a thorn. If He gives bendable wood, it becomes a sturdy sword. It’s important to note that this outcome is not Jesus’ fault, but rather the result of human nature and the influence of different gunas.
-</div></div>
-</span>
-`
-},
-{
-chapterName: "The Gospel Of Mathew",
-chapterNumber: 2,
-pageNumber: 29,
-verse: `<b>(28)	The Gospel of Mathew, 10th chapter, 37th verse.</b>`,
-meaning: `<b>
-(37) Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.
-</b>`,
-pageText: `
-<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It is a fundamental aspect of human nature for parents to love their children, just as it is natural for children to love their parents. The bond between parents and their offspring is often characterized by profound love, surpassing any other attachment in the world. However, the human mind is also significantly influenced by its inherent qualities, known as gunas. When a person harbors an <b>intense love for wisdom and God,</b> they naturally gravitate towards the pursuit of wisdom rather than material or worldly things. It becomes challenging to prioritize wisdom when one’s affection is primarily directed elsewhere. The human mind operates under the influence of six good and bad gunas, akin to shackles made of gold and iron, respectively. Both types of gunas serve the purpose of binding an individual. However, it’s important to note that neither extreme love (a good guna) nor jealousy (a bad guna) leads a person toward wisdom. What truly matters is the individual’s genuine interest in wisdom. The six bad gunas include greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). In contrast, the six good gunas encompass charity (dana), mercy (daya), benevolence (audarya), dispassion (vairagya), humbleness (vinaya), and love (prema).
-</div></div>
-</span>
-`
-},
-{
-chapterName: "The Gospel Of Mathew",
-chapterNumber: 2,
-pageNumber: 30,
-verse: `<b>(29)	The Gospel of Mathew, 10th chapter, 38th verse.</b>`,
-meaning: `<b>
-(38) Whoever does not take up their cross and follows me is not worthy of me.
-</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Christians often speak of and hold deep reverence for the cross. It’s common to see Christians wearing a cross around their necks, and this symbol holds great importance in their faith. It’s widely known that Jesus was crucified and died on the cross. The question that arises is why Christians hold in such high regard a symbol that was used as an instrument of Jesus’ execution. The answer lies in the profound nature of following someone greater than themselves and emulating their actions. However, no one has contemplated why the cross, a symbol associated with the Lord’s death, should be held in such high regard. Indeed, whether intentionally or unintentionally, there seems to be a gap in understanding the details of the cross. Let’s take a moment to contemplate the cross and delve into deeper details.
-
-  In the verse, Jesus warned that <b>taking up the cross leads one to walk in God’s path, while if the cross picks you up, it means walking in Satan’s way.</b> A similar message is conveyed when Jesus said, “Whoever does not take up the cross and follow me is not worthy of me.” This implies that those who do not bear the cross are not worthy of God. It is important to understand that, according to this perspective, the cross symbolizes Satan. For a more detailed exploration of this concept, please consider reading my book, “Is the Cross God?”
-
-  The cross represents the serpent in spiritual symbolism. It’s common to draw parallels between the serpent and Satan, and the dove with Atma. Satan, or Maya, resides within the human body and often leads individuals down the path of ignorance. When Satan lifts a person, it signifies the person’s weakness and Satan’s dominance. On the other hand, when a person carries the cross, it indicates that the individual’s strength surpasses that of Satan. This is why Jesus, at certain points in His life, carried the cross to demonstrate that humanity can conquer Satan. Likewise, when Jesus was crucified on the cross, it symbolized the cross bearing Him, signifying that Satan can lure anyone onto its path. To walk the path of wisdom, humans must be willing to carry their own cross, as Jesus emphasized in the verse, “Whoever does not take up their cross and follow me is not worthy of me.”
-
-  We symbolize Satan in the form of a cross, which represents a colossal snake or serpent, akin to the concept of Maya. Maya has the power to lead individuals astray from the path to God and towards ignorance. To overcome such influence, we must first understand Maya. Upon analysis, Maya can be identified as the cluster of gunas within a person’s head. Anyone who aligns their actions with these gunas inadvertently follows the path of ignorance, essentially allowing Maya to control their course. To conquer Maya, one must gain mastery over the gunas, refusing to be swayed by their influence. When a person achieves this, it can be said that they have defeated Maya, or Satan, using their inner strength. Such a person can pick up Maya and walk the path of wisdom. Therefore, Jesus’ message in the verse emphasizes that by conquering the ‘cross’ —representative of Maya—one becomes worthy of God’s grace. It’s important to note that the ‘cross’ isn’t merely a wooden symbol but rather a representation of the python, a symbol of Satan. According to the elders, the cross symbolizes Maya, while the bird stands as a symbol of Atma. During Jesus’ baptism by John, it was said that the Spirit (Atma) descended like a dove and entered Jesus’ body. In this context, the ‘cross’ represents the opposing force to Atma. Therefore, Jesus’ teaching underscores that when a person, utilizing their wisdom and inner strength, carries the ‘cross’ and walks the path of wisdom, they become worthy of God and paraloka.
-</div></div>
-
-</span>
-`
-},
-{
-chapterName: "The Gospel Of Mathew",
-chapterNumber: 2,
-pageNumber: 31,
-verse: `<b>(30)	The Gospel of Mathew, 10th chapter, 40th verse.</b>`,
-meaning: ` <b>
-(40) Anyone who receives you receives me, and anyone who receives me receives the one who sent me. </b>`,
+(10:20) Kwa maana si ninyi msemao, bali ni Roho wa Baba yenu asemaye ndani yenu. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-  While human beings are Jeevatmas, they are created by Atma. Paramatma, or the Holy Spirit, created both Atma and Prakruti. However, when Paramatma incarnates as a man, the question arises whether to refer to Him as Atma or Jeevatma. If God takes human form, He can be considered a Jeevatma based on His appearance. When human beings (Jeevatmas) pass away, Atma incorporates them into itself. Just as Atma encompasses human beings, it also includes God when He incarnates as a man and appears as a Jeevatma. This concept is echoed in the verse, <b>“Whoever receives you also receives me.”</b> The one who incarnated as a human being (Jeevatma) is, in reality, God. However, it is God who sent the man, such as Jesus. When Atma encompasses a man resembling a Jeevatma, it’s as if God, the sender of the man, is also included within Atma. Hence, in the verse, Jesus conveyed, <b>“The one who receives me receives the one who sent me.”</b>
+  Ingawa aya hii inaweza kuonekana kuwa ya kawaida, ina hekima ya kina ya kiroho. Ni muhimu kuelewa kwamba muda<strong>'Baba yako'</strong>katika aya hii haimrejelei baba mzazi wa mtu bali Baba wa kiroho wa Jeevatma. Atma, Baba wa Jeevatma, anakaa ndani ya mwili na kuuongoza. Ni muhimu kukumbuka kuwa Baba wa Atma ni Paramatma. Kila binadamu anawakilisha Jeevatma. Kulingana na karma ya mtu, Atma huwashawishi na kuwaongoza (Jeevatma), na kuwafanya wapate karma (dhambi na punya karma). Atma hudhibiti kazi zote za mwili na huamua raha na maumivu yanayopatikana kwa Jeevatma ndani ya mwili.
+
+  Jeevatma haishiriki kikamilifu katika kazi zozote za mwili. Licha ya kutochukua hatua dhahiri, Jeeva hupata matokeo ya vitendo vyake kimya kimya, furaha na huzuni. Ingawa Jeevatma inajitambulisha kama mtu binafsi ndani ya mwili, hana uwezo wa kutenda. Badala yake, ni Atma ambayo hupanga shughuli zote ndani ya mwili. Kwa sababu ya ujinga, Jeevatma anaamini kimakosa kuwa yeye ndiye anayefanya vitendo kwa kusikiliza maneno ya 'aham' (ego). Kwa kweli, Atma ndiye muigizaji wa kweli ndani ya mwili, lakini Jeevatma mara nyingi husahau uwepo wa Atma na anaamini kuwa yeye ndiye mtendaji wa kila kitu. Katika muktadha wa mstari huo, Yesu alilenga kuwaangazia wale walio katika ujinga. Alifikisha<strong>, &ldquo;Baba yako, Atma, anakaa ndani yako na huwasiliana kupitia wewe. Si wewe unayezungumza.</strong>&rdquo; Kulingana na aya hii, ni dhahiri kwamba si tu matendo yanayofanywa bali pia maneno yanayosemwa hayasemwi na Jeevatma. Yesu alisema hivyo ni ujinga mtupu kwa watu kuamini kuwa wanazungumza, kumbe ni Atma ndiye anayefafanua maneno. Jeevatma haifanyi matendo yanayotekelezwa na sehemu kumi za mwili wa kimwili (vyombo vya utendaji); ni Atma ambayo hutimiza kila kitu kupitia sehemu hizi za mwili. Kutambua ukweli huu kunawakilisha namna ya juu zaidi ya hekima kati ya hekima zote.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
+chapterNumber: 2,
+pageNumber: 27,
+verse: ` <b>(26) Injili ya Mathayo, sura ya 10, mstari wa 30.</b>`,
+meaning: ` <b>
+(10:30) Hata nywele za vichwa vyenu zimehesabiwa zote.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika hekalu, mara nyingi watu hushiriki mawazo yao na Mungu, wakiamini kwamba Mungu hajui hisia zao za ndani. Wanaonyesha heshima na woga wanapokuwa hekaluni lakini wanaweza kuwa na tabia tofauti nje. Kwa mfano, baada ya kutoka hekaluni, watu fulani wanaweza kukalia viti viwili vya treni bila kuruhusu abiria wengine kuketi, wakionyesha tabia ya kutojali. Hatua hii inatokana na dhana potofu kwamba Mungu anafahamu matendo yao ndani ya hekalu lakini si nje. Hata hivyo, nini<strong>wengi wanashindwa kutambua ni kwamba Mungu ni mjuzi wa yote na yuko kila mahali, anaona matendo yote, hata katika sehemu zilizofichwa zaidi.</strong>Mstari huu ulionenwa na Yesu unaangazia utukufu wa Mungu na unatumika kama ukumbusho kwamba ufahamu wa Mungu unaenea kila mahali.
+
+  Aya inaangazia uangalifu wa ajabu wa Mungu kwa wanadamu, kwani Mungu ameweka mfumo sahihi kwa nyanja zote za uwepo wa mwanadamu. Mfumo huu wa kimungu unajumuisha hata mambo madogo madogo, kama vile 'karmavisarga'&mdash; mgawanyo wa karma katika sehemu ndogo. Kupitia karmavisarga, Mungu huamua ni mara ngapi mtu anapaswa kufungua na kufunga kope zao, kuhakikisha hesabu sahihi. Mungu pia anaamuru idadi ya nywele kwenye vichwa vyetu na ni lini na nywele zipi zinapaswa kuanguka, yote kupitia karma-visarga. Zaidi ya hayo, Mungu hupanga matatizo ambayo watu hukabili na kadiri ya mateso yao. Katika Bhagavad-Gita, Bwana anathibitisha kwamba Mungu ana ujuzi wa kila kitu kilichotokea, kinachotokea, na kitakachotokea duniani. Hili linatia nguvu dhana ya kwamba hakuna kitu zaidi ya ufahamu wa Mungu.
+</div></div>
+
+</span>`
+},
+{
+chapterName: "Injili ya Mathayo",
+chapterNumber: 2,
+pageNumber: 28,
+verse: ` <b>(27) Injili ya Mathayo, sura ya 10, mistari ya 34, 35 na 36.</b>`,
+meaning: `<b>
+ (10:34) Msidhani ya kuwa nimekuja kuleta amani duniani. sikuja kuleta amani, bali upanga.
+<br><br>
+(10:35) Kwa maana nimekuja kugeuza “‘mtu dhidi ya baba yake, binti dhidi ya mama yake, mkwe dhidi ya mama mkwe wake.
+<br><br>
+(10:36) Adui za mtu watakuwa watu wa nyumba yake mwenyewe.
+</b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ingawa huenda isiwe sawa kusema kwamba Yesu alikusudia kuzua mizozo kati ya wanadamu kimakusudi, ni wazi kwamba migogoro hiyo imetokea. Yesu alikuja kwa nia ya kuwaongoza watu kutoka ujinga hadi kwenye hekima badala ya kupanda mafarakano. Alishiriki hekima yake kwa nia njema, lakini mara nyingi ilisababisha mabishano kati ya wale ambao hawakuelewa kikamilifu mafundisho Yake. Sawa na jinsi maji baridi yanayonyunyiziwa kwenye mchanga yanavyoipoza, huku mawe ya chokaa yanapo joto, yakibadilisha sura yake, na kugeuka kuwa chokaa, mapokezi ya hekima ya Yesu hutofautiana. Wale walio na ufahamu wa kina wa hekima hupata furaha katika mafundisho ya Yesu, huku mizozo ikitokea kati ya wajinga. Katika baadhi ya matukio, wakati mwenzi mmoja anatafuta hekima, mwingine anaweza kutokubaliana, na kusababisha kutokubaliana ndani ya familia. Tokeo hili lisilotazamiwa linaweza kusababisha migawanyiko ndani ya nyumba, ambapo akina baba wanaweza kuwapinga wana, mama dhidi ya binti zao, na mama-mkwe dhidi ya binti-wakwe. Ingawa nia ya Yesu ni nzuri, inaongoza kwa wanadamu bila kukusudia kusahau ukoo wao na kukuza uadui. Ndiyo maana Yesu akitoa ua, linageuka kuwa mwiba. Akitoa mbao zinazopinda, huwa upanga imara. Ni muhimu kutambua kwamba matokeo haya si kosa la Yesu, bali ni matokeo ya asili ya binadamu na ushawishi wa bunduki mbalimbali.</div></div>
+</span>
+`
+},
+{
+chapterName: "Injili ya Mathayo",
+chapterNumber: 2,
+pageNumber: 29,
+verse: `<b>(28)	Injili ya Mathayo, sura ya 10, aya ya 37.</b>`,
+meaning: `<b>
+(10:37) Ampendaye baba yake au mama yake kuliko mimi, hanistahiki; yeyote anayependa mwana au binti yake kuliko mimi hanistahili.
+</b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ni sehemu ya msingi ya asili ya kibinadamu kwa wazazi kuwapenda watoto wao, kama ilivyo kawaida kwa watoto kuwapenda wazazi wao. Uhusiano kati ya wazazi na watoto wao mara nyingi huonyeshwa kwa upendo wa kina, unaopita uhusiano mwingine wowote ulimwenguni. Walakini, akili ya mwanadamu pia huathiriwa kwa kiasi kikubwa na sifa zake za asili, zinazojulikana kama gunas. Wakati mtu anahifadhi<strong>upendo mkubwa kwa hekima na Mungu</strong>, wao kwa asili huvuta kuelekea kutafuta hekima badala ya vitu vya kimwili au vya kidunia. Inakuwa vigumu kutanguliza hekima wakati shauku ya mtu inapoelekezwa kwingine. Akili ya mwanadamu hufanya kazi chini ya ushawishi wa guns sita nzuri na mbaya, sawa na pingu zilizotengenezwa kwa dhahabu na chuma, kwa mtiririko huo. Aina zote mbili za bunduki hutumikia kusudi la kumfunga mtu binafsi. Hata hivyo, ni muhimu kutambua kwamba wala upendo uliokithiri (guna nzuri) au wivu (guna mbaya) huongoza mtu kwenye hekima. Jambo kuu ni kupendezwa kikweli na hekima ya mtu binafsi. Gunas sita mbaya ni pamoja na uchoyo (kaama), hasira (krodha), avarice (lobha), shauku (moha), kiburi (madam), na wivu (matsara). Kinyume chake, bunduki sita nzuri hujumuisha hisani(dana), rehema (siku),&nbsp;wema&nbsp;(audarya),&nbsp;chuki (vairagya), unyenyekevu (vinaya), na upendo (prema).
+</div></div>
+</span>
+`
+},
+{
+chapterName: "Injili ya Mathayo",
+chapterNumber: 2,
+pageNumber: 30,
+verse: `<b>(29)	Injili ya Mathayo, sura ya 10, aya ya 38.</b>`,
+meaning: `<b>
+(10:38) Mtu ye yote asiyeuchukua msalaba wake na kunifuata, hanistahili.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Wakristo mara nyingi huzungumza na kushikilia heshima kubwa kwa msalaba. Ni kawaida kuona Wakristo wamevaa msalaba shingoni mwao, na ishara hii ina umuhimu mkubwa katika imani yao. Inajulikana sana kwamba Yesu alisulubiwa na kufa msalabani. Swali linalozuka ni kwa nini Wakristo hustahi sana ishara iliyotumiwa kuwa chombo cha kuuawa kwa Yesu. Jibu liko katika asili ya kina ya kumfuata mtu mkuu kuliko wao na kuiga matendo yao. Hata hivyo, hakuna mtu ambaye amefikiria kwa nini msalaba, ishara inayohusishwa na kifo cha Bwana, unapaswa kuheshimiwa sana. Hakika, iwe kwa makusudi au bila kukusudia, inaonekana kuna pengo katika kuelewa maelezo ya msalaba. Hebu tuchukue muda kutafakari msalaba na tuzame kwa undani zaidi.
+
+  Katika mstari huo, Yesu alionya hivyo<strong>kujitwika msalaba kunampelekea mtu kutembea katika njia ya Mungu, huku msalaba ukikuinua maana yake ni kutembea katika njia ya Shetani.</strong>Ujumbe sawa ni Yesu aliposema, &ldquo;Mtu ye yote asiyeuchukua msalaba na kunifuata hanistahili. Hii ina maana kwamba wale ambao hawabebi msalaba hawastahili Mungu. Ni muhimu kuelewa kwamba, kwa mujibu wa mtazamo huu, msalaba unaashiria Shetani. Kwa uchunguzi wa kina zaidi wa dhana hii, tafadhali fikiria kusoma kitabu changu, &ldquo;Je, Msalaba ni Mungu?
+
+  Msalaba unawakilisha nyoka katika ishara ya kiroho. Ni kawaida kuchora ulinganifu kati ya nyoka na Shetani, na njiwa na Atma. Shetani, au Maya, anakaa ndani ya mwili wa mwanadamu na mara nyingi huwaongoza watu kwenye njia ya ujinga. Shetani anapomwinua mtu, inaashiria udhaifu wa mtu huyo na utawala wa Shetani. Kwa upande mwingine, mtu anapobeba msalaba, inaonyesha kwamba nguvu za mtu huyo zinapita zile za Shetani. Hii ndiyo sababu Yesu, katika sehemu fulani za maisha yake, alibeba msalaba ili kuonyesha kwamba wanadamu wanaweza kumshinda Shetani. Vivyo hivyo, Yesu aliposulubishwa msalabani, ilifananisha msalaba uliombeba, ikimaanisha kwamba Shetani anaweza kumvuta mtu yeyote kwenye njia yake. Ili kutembea katika njia ya hekima, wanadamu wanapaswa kuwa tayari kubeba msalaba wao wenyewe, kama Yesu alivyosisitiza katika mstari huo, &ldquo;Mtu asiyeuchukua msalaba wake na kunifuata, hanistahili.
+
+  Tunafananisha Shetani kwa namna ya msalaba, ambayo inawakilisha nyoka au nyoka mkubwa, sawa na dhana ya Maya. Maya ana uwezo wa kuwapotosha watu njia ya Mungu na kuelekea ujinga. Ili kushinda uvutano huo, ni lazima kwanza tuelewe Maya. Baada ya uchambuzi, Maya inaweza kutambuliwa kama nguzo ya bunduki ndani ya kichwa cha mtu. Yeyote anayelinganisha vitendo vyao na bunduki hizi bila kukusudia anafuata njia ya ujinga, kimsingi kuruhusu Maya kudhibiti mkondo wao. Ili kumshinda Maya, ni lazima mtu apate kuwashinda gunas, akikataa kushawishiwa na ushawisi wao. Mtu anapofanikisha hili, inaweza kusemwa kwamba amemshinda Maya, au Shetani, kwa kutumia nguvu zao za ndani. Mtu kama huyo anaweza kumchukua Maya na kutembea kwenye njia ya hekima. Kwa hiyo, ujumbe wa Yesu katika mstari huo unakazia kwamba kwa kuushinda &lsquo;msalaba&rsquo;&mdash;mwakilishi wa Maya&mdash;mtu anastahili neema ya Mungu. Ni muhimu kutambua kwamba 'msalaba' si tu ishara ya mbao bali ni kiwakilishi cha chatu, ishara ya Shetani. Kulingana na wazee, msalaba unaashiria Maya, wakati ndege anasimama kama ishara ya Atma. Wakati wa ubatizo wa Yesu na Yohana, ilisemekana kwamba Roho (Atma) alishuka kama njiwa na kuingia katika mwili wa Yesu. Katika muktadha huu, 'msalaba' unawakilisha nguvu inayopingana na Atma. Kwa hiyo, mafundisho ya Yesu yanakazia kwamba mtu, kwa kutumia hekima na nguvu zake za ndani, anapobeba &lsquo;msalaba&rsquo; na kutembea katika njia ya hekima, anastahili Mungu na paraloka.
+</div></div>
+
+</span>
+`
+},
+{
+chapterName: "Injili ya Mathayo",
+chapterNumber: 2,
+pageNumber: 31,
+verse: `<b>(30)	Injili ya Mathayo, sura ya 10, aya ya 40.</b>`,
+meaning: ` <b>
+(10:40) Anayewapokea ninyi, anipokea mimi; na ye yote anipokeaye mimi, anampokea yeye aliyenituma.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Wakati wanadamu ni Jeevatmas, wameundwa na Atma. Paramatma, au Roho Mtakatifu, aliumba Atma na Prakruti. Walakini, wakati Paramatma anapata mwili kama mwanadamu, swali linazuka kama kumrejelea kama Atma au Jeevatma. Ikiwa Mungu huchukua umbo la mwanadamu, Anaweza kuchukuliwa kuwa Jeevatma kulingana na mwonekano Wake. Wakati wanadamu (Jeevatmas) wanapita, Atma inawaingiza ndani yake yenyewe. Kama vile Atma inavyowazunguka wanadamu, pia inajumuisha Mungu anapopata mwili kama mwanadamu na kuonekana kama Jeevatma. Dhana hii inasisitizwa katika aya hii, &ldquo;.<strong>Anayewapokea ninyi, ananipokea mimi.&rdquo;</strong>Yule aliyepata mwili kama mwanadamu (Jeevatma) ni, kwa kweli, Mungu. Hata hivyo, ni Mungu aliyemtuma mtu huyo, kama vile Yesu. Atma inapomzunguka mtu anayefanana na Jeevatma, ni kana kwamba Mungu, mtumaji wa mtu huyo, pia amejumuishwa ndani ya Atma. Kwa hiyo, katika aya hiyo, Yesu alisema,<strong>"Yeye anipokeaye mimi, anampokea yeye aliyenituma.&rdquo;</strong>
+</div></div>
+</span>
+`
+},
+{
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 32,
-verse: `<b>(31)	The Gospel of Mathew, 11th chapter, 9th verse.</b>`,
+verse: `<b>(31)	Injili ya Mathayo, sura ya 11, mstari wa 9.</b>`,
 meaning: ` <b>
-(9) What did you go out to see? A prophet? Yes, I tell you, and (I am) more than a prophet.</b>`,
+ (11:9) Mlitoka kwenda kuona nini? Nabii? Naam, nawaambia, na (mimi ni) zaidi ya nabii.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It can be said that a prophet (pravaktha) is one who teaches knowledge that no one has told. In Telugu, <b>‘Pra’</b> denotes importance, and <b>‘Vaktha’</b> means the one who speaks. A prophet is thus someone who imparts essential wisdom. However, Jesus proclaimed that He is more than a prophet. There is only one individual surpassing a prophet, revealing wisdom beyond the capacity of prophets. The divine scripture asserts, <b>“God did not impart His wisdom to any human being. God’s wisdom remains unknown to all except God.”</b> In the final divine scripture, it is stated in verse 3:7 that God must convey His wisdom. Based on this, it is understood that although God comes as a prophet to share wisdom, He is more than a prophet. The last divine scripture, in 42:51, declares, <b>“God does not communicate directly with humans.”</b> However, God can manifest as a disguised man and convey His message. Whenever God takes on human form, even if referred to as a prophet, He is more than a prophet. In light of Jesus’ statement in this verse, it becomes evident that Jesus surpasses prophets and represents an incarnation of God. Despite Jesus openly declaring his identity on multiple occasions, many failed to recognize Him.
+<div class="poem"><div class="poemtext">
+  Inaweza kusemwa kwamba nabii (pravaktha) ni yule anayefundisha elimu ambayo hakuna mtu aliyeiambia. Kwa Kitelugu,<strong>'Pra'</strong>inaashiria umuhimu, na<strong>'Vaktha'</strong>maana yake ni yule anayezungumza. Kwa hivyo nabii ni mtu ambaye hutoa hekima muhimu. Hata hivyo, Yesu alitangaza kwamba Yeye ni zaidi ya nabii. Kuna mtu mmoja tu anayempita nabii, anayedhihirisha hekima zaidi ya uwezo wa manabii. Maandiko ya Mungu yanasema, <strong>&ldquo;Mungu hakumpa mwanadamu yeyote hekima yake.</strong><strong>Hekima ya Mungu bado haijulikani kwa wote isipokuwa Mungu. </strong>Katika andiko la mwisho la kimungu, imesemwa katika mstari wa 3:7 kwamba Mungu lazima atoe hekima Yake. Kulingana na hili, inaeleweka kwamba ingawa Mungu huja kama nabii kushiriki hekima, Yeye ni zaidi ya nabii. Andiko la mwisho la kimungu, katika 42:51, linatangaza<strong>, &ldquo;Mungu hawasiliani moja kwa moja na wanadamu.&rdquo; </strong>Hata hivyo, Mungu anaweza kujidhihirisha kama mwanadamu aliyejificha na kufikisha ujumbe Wake. Wakati wowote Mungu anapochukua umbo la mwanadamu, hata kama anatajwa kuwa nabii, Yeye ni zaidi ya nabii. Kwa kuzingatia kauli ya Yesu katika mstari huu, inakuwa dhahiri kwamba Yesu anawapita manabii na anawakilisha kupata mwili kwa Mungu. Licha ya Yesu kutangaza wazi utambulisho wake mara nyingi, wengi walishindwa kumtambua.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 33,
-verse: `<b>(32)	The Gospel of Mathew, 11th chapter, 28th verse.</b>`,
+verse: `<b>(32)	Injili ya Mathayo, sura ya 11, aya ya 28.</b>`,
 meaning: ` <b>
-(28) Come to me, all you who are weary and burdened, and I will give you rest. </b>`,
+(11:28) Njoni kwangu ninyi nyote msumbukao na wenye kulemewa na mizigo, nami nitawapumzisha. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It’s a common understanding that people get weary when carrying physical weight. However, humans also experience weariness without even bearing any visible burden. The invisible burden, in this case, is sin (karma), and everyone who undergoes karmic experiences tends to feel weary. Humans continually encounter karma, except during sleep when they are temporarily free from it. Even in dreams, the influence of karma persists, signifying a constant state of labor. Considering the perpetual nature of this burden, Jesus extends an invitation to all, saying, <b>“Come to me. I will give you rest.”</b>
+<div class="poem"><div class="poemtext">
+  Ni ufahamu wa kawaida kwamba watu huchoka wakati wa kubeba uzito wa mwili. Walakini, wanadamu pia hupata uchovu bila hata kubeba mzigo wowote unaoonekana. Mzigo usioonekana, katika kesi hii, ni dhambi (karma), na kila mtu anayepata uzoefu wa karmic huwa na hisia ya uchovu. Wanadamu hukutana na karma kila wakati, isipokuwa wakati wa kulala wakati wamejitenga nayo kwa muda. Hata katika ndoto, ushawishi wa karma unaendelea, kuashiria hali ya mara kwa mara ya kazi. Kwa kuzingatia hali ya kudumu ya mzigo huu, Yesu anatoa mwaliko kwa wote, akisema,<strong>" Njooni kwangu. Nitakupa kilicho chako.&rdquo;</strong>
 
-  The question arises: How do we find rest when turning to Jesus, given that we consistently experience karma? The answer is as follows: When Jesus imparts divine wisdom to those who seek Him, the karma of all those acquainted with this wisdom is consumed in the wisdom power. Through the destruction of karma, individuals are liberated from its continuous impact, reducing the toil of suffering, and providing rest. This invitation is extended to people of all castes and religions, as evidenced by Jesus saying, <b>“All come to me.”</b> Some may refer to Jesus as a Christian Guru or prophet. However, labeling Him solely as Christian would be inaccurate, as His call is inclusive, inviting people of all backgrounds. Those who embraced His teachings and sought Him should not be confined to the label of Christians. Since God and divine wisdom are universally necessary, Jesus extends His invitation to all, as He declared, <b>“All come to me.”</b>
+  Swali linazuka: Je, tunapataje pumziko tunapomgeukia Yesu, ikizingatiwa kwamba sisi hupitia karma mara kwa mara? Jibu ni kama ifuatavyo: Yesu anapotoa hekima ya kimungu kwa wale wanaomtafuta, karma ya wale wote wanaofahamu hekima hii inatumiwa katika nguvu ya hekima. Kupitia uharibifu wa karma, watu binafsi wanakombolewa kutokana na athari zake zinazoendelea, kupunguza taabu ya mateso, na kutoa pumziko. Mwaliko huu unatolewa kwa watu wa tabaka zote na dini zote, kama inavyothibitishwa na Yesu akisema,<strong>"Wote wanakuja kwangu.&rdquo;</strong>Wengine wanaweza kurejelea Yesu kama Guru au nabii wa Kikristo. Hata hivyo, kumtaja Yeye tu kama Mkristo itakuwa si sahihi, kwani wito Wake unajumuisha wote, unaowaalika watu wa asili zote. Wale ambao walikubali mafundisho Yake na kumtafuta hawapaswi kufungwa kwenye lebo ya Wakristo. Kwa kuwa Mungu na hekima ya kimungu ni muhimu ulimwenguni pote, Yesu anatoa mwaliko wake kwa wote, kama alivyotangaza,<strong>"Wote wanakuja kwangu.&rdquo;</strong>
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 34,
-verse: ` <b>(33)	The Gospel of Mathew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b>`,
+verse: ` <b>(33)	Injili ya Mathayo, sura ya 12, 17, 18, 19, 20 na 21 mistari.</b>`,
 meaning: ` <b>
-(17) This was to fulfill what was spoken through the prophet Isaiah.
+(12:17) Hili lilikuwa kutimiza yale yaliyonenwa kupitia nabii Isaya.
 <br><br>
-(18) Here is my servant whom I have chosen, the one I love, in whom I delight; I will put my Spirit on him.
+(12:18) Huyu hapa mtumishi wangu niliyemchagua, nimpendaye, ninayependezwa naye; nitaweka Roho yangu juu yake.
 <br><br>
-(19) He will proclaim justice (wisdom) to the nations; He will not quarrel or cry out; no one will hear his voice in the streets.
+(12:19) Atatangaza uadilifu (hekima) kwa mataifa; Hatagombana wala hatapiga kelele; hakuna mtu atakayesikia sauti yake barabarani.
 <br><br>
-(20) A bruised reed he will not break, and a smoldering wick he will not snuff out, till he has brought justice (wisdom) through to victory.
+(12:20) Mwanzi uliopondeka hatauvunja, na utambi unaofuka moshi hatauzima, mpaka aifikishe haki (hikima) kwa ushindi.
 <br><br>
-(21) In his name the nations will put their hope. </b>`,
+(12:21) Katika jina lake mataifa yataweka tumaini lao. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  About 350 years ago, a great man named Veerabrahmam foretold the events and natural disasters that were about to take place. Similarly, a great man named Isaiah foretold the coming of Jesus. If we examine Isaiah’s words in detail, the greatness in his words will become known to all. It became clear who Isaiah was talking about. Isaiah lived many years before Jesus was born. In the 13th chapter, Isaiah conveyed a few more things. Looking at these verses, it becomes evident that God, the Holy Spirit, spoke of Jesus. Examining the verses where Jesus spoke about Himself in the scripture and the verses where the Holy Spirit talked about Jesus, it becomes apparent that the one who spoke about Jesus (the Holy Spirit) and Jesus are the same.
+<div class="poem"><div class="poemtext">
+  Miaka 350 hivi iliyopita, mtu mashuhuri anayeitwa Veerabrahmam alitabiri matukio na misiba ya asili ambayo ilikuwa karibu kutukia. Vivyo hivyo, mtu mkuu anayeitwa Isaya alitabiri kuja kwa Yesu. Tukichunguza maneno ya Isaya kwa undani, ukuu katika maneno yake utajulikana kwa wote. Ikawa wazi ni nani Isaya alikuwa anazungumza juu yake. Isaya aliishi miaka mingi kabla ya Yesu kuzaliwa. Katika sura ya 13, Isaya alitaja mambo machache zaidi. Tukiangalia mistari hii, inakuwa dhahiri kwamba Mungu, Roho Mtakatifu, alizungumza juu ya Yesu. Tukichunguza mistari ambayo Yesu alizungumza juu yake mwenyewe katika maandiko na mistari ambayo Roho Mtakatifu alizungumza juu ya Yesu, inakuwa dhahiri kwamba yule aliyezungumza juu ya Yesu (Roho Mtakatifu) na Yesu ni sawa.
 
-  In the first verse, it is stated, <b>“Here is my servant.”</b> There are various forms of materialistic service, but this verse does not refer to materialistic service. Instead, it speaks about the service of Paramatma. There is only one form of Paramatma’s service, and the genuine <b>Paramatma’s service involves preaching and spreading God’s wisdom to others.</b> Because Jesus was actively spreading God’s wisdom, the Holy Spirit declared, “Here is my servant.” Anyone who propagates God’s wisdom becomes the <b>most favored by God.</b> Therefore, Paramatma expressed love for Jesus, saying, <b>“I love him and am delighted in him.”</b> This sentiment is articulated in <b>15:28, 29, and 30 of the final divine scripture,</b> where it is described that the Holy Spirit creates a human being from clay and breathes His soul (the Holy Spirit’s soul) into them. Subsequently, angels recognize the human being as God and prostrate before Him. Therefore, in accordance with Isaiah’s words, “The Holy Spirit will put His spirit upon Him,” it becomes evident that Jesus, in human incarnation, is the soul of Paramatma.
+  Katika aya ya kwanza, imeelezwa,<strong>"Huyu hapa mtumishi wangu.&rdquo;</strong>Kuna aina mbalimbali za huduma ya kimaada, lakini aya hii hairejelei huduma ya kimaada. Badala yake, inazungumza juu ya huduma ya Paramatma. Kuna aina moja tu ya huduma ya Paramatma, na ya kweli<strong>Utumishi wa Paramatma unahusisha kuhubiri na kueneza hekima ya Mungu kwa wengine.</strong>Kwa sababu Yesu alikuwa akieneza hekima ya Mungu kwa bidii, Roho Mtakatifu alisema, &ldquo;Huyu hapa mtumishi wangu.&rdquo; Yeyote anayeeneza hekima ya Mungu anakuwa<strong>aliyependelewa zaidi na Mungu</strong>. Kwa hiyo, Paramatma alionyesha upendo kwa Yesu, akisema,<strong>"Ninampenda na ninafurahishwa naye.&rdquo;</strong>Hisia hii inaelezwa katika<strong>15:28, 29, na 30 ya andiko la mwisho la kimungu</strong>, ambapo inaelezwa kwamba Roho Mtakatifu huumba mwanadamu kutokana na udongo na kuipulizia nafsi yake (roho ya Roho Mtakatifu) ndani yao. Baadaye, Malaika humtambua mwanadamu kuwa ni Mungu na kumsujudia. Kwa hiyo, kulingana na maneno ya Isaya, &ldquo;Roho Mtakatifu ataweka roho Yake juu Yake,&rdquo; inakuwa dhahiri kwamba Yesu, katika kupata mwili wa kibinadamu, ni nafsi ya Paramatma.
 
-  The 19th verse states, “He will proclaim justice to the nations.” It appears that the translators of the Bible into English may have used an inaccurate term. It is supposed to be written as <b>“wisdom”</b> instead of <b>“justice.”</b> Justice is more closely linked to the material world, and therefore, it might not be the most suitable term. While <b>righteousness and justice pertain to worldly matters, wisdom and dharma are associated with Paramatma.</b> The use of “righteousness” and “justice” instead of “wisdom” appears to be a translation error. Numerous such errors were identified, revised, and corrected.
+  Mstari wa 19 unasema, &ldquo;Atatangaza haki kwa mataifa.&rdquo; Inaonekana kwamba watafsiri wa Biblia katika Kiingereza huenda walitumia neno lisilo sahihi. Inatakiwa kuandikwa kama<strong>" hekima&rdquo;</strong>badala ya<strong>"haki.&rdquo;</strong>Haki ina uhusiano wa karibu zaidi na ulimwengu wa nyenzo, na kwa hivyo, inaweza kuwa istilahi inayofaa zaidi. Wakati<strong>uadilifu na uadilifu vinahusiana na mambo ya kidunia, hekima na dharma vinahusishwa na Paramatma.</strong>Matumizi ya &ldquo;haki&rdquo; na &ldquo;haki&rdquo; badala ya &ldquo;hekima&rdquo; yanaonekana kuwa makosa ya tafsiri. Makosa mengi kama haya yalitambuliwa, iliyorekebishwa na kusahihishwa.
 
-  The 19th verse states, “He will proclaim justice to the nations.” Here, “proclaim” means to preach or teach. The verse could be better understood as, <b>“He will spread wisdom to the nations.”</b> This amendment aligns with the fact that, after living for 30 years, Jesus taught His wisdom for about two years and three months, as indicated by this verse. During this time, Jesus unselfishly preached his wisdom in various places, curing many people with different kinds of diseases. He restored sight to the blind, enabled the lame to walk, healed leprosy patients, and even raised the dead. Despite His miraculous actions, some accused Jesus of being a wizard and blamed Him for acting against God. Nevertheless, Jesus did not engage in quarrels or screams, as affirmed by the statement, <b>“He will not quarrel or cry out.”</b>
+  Mstari wa 19 unasema, &ldquo;Atatangaza haki kwa mataifa.&rdquo; Hapa, &ldquo;kutangaza&rdquo; maana yake ni kuhubiri au kufundisha. Aya hiyo inaweza kueleweka vizuri zaidi kama,<strong>"Ataeneza hekima kwa mataifa.&rdquo; </strong>Marekebisho hayo yanapatana na uhakika wa kwamba, baada ya kuishi kwa miaka 30, Yesu alifundisha hekima Yake kwa karibu miaka miwili na miezi mitatu, kama inavyoonyeshwa na mstari huu. Wakati huo, Yesu alihubiri hekima yake bila ubinafsi katika sehemu mbalimbali, akiwaponya watu wengi waliokuwa na magonjwa mbalimbali. Alirejesha kuona kwa vipofu, aliwawezesha viwete kutembea, aliwaponya wagonjwa wa ukoma, na hata akawafufua wafu. Licha ya matendo yake ya miujiza, wengine walimshtaki Yesu kuwa mchawi na wakamlaumu kwa kutenda kinyume na Mungu. Hata hivyo, Yesu hakujihusisha na ugomvi au mayowe, kama inavyothibitishwa na maneno,<strong>"Hatagombana wala hatapiga kelele.&rdquo;</strong>
 
-  Jesus conveyed his wisdom to those who approached Him, yet he refrained from shouting in the streets, as indicated in the verse, <b>“no one will hear His voice in the streets.”</b> The verse also emphasizes that He will not break a bruised reed, underscoring that His actions were solely focused on spreading wisdom. Additionally, the verse highlights Jesus’s role in ensuring that the power of wisdom, once ignited in a person, remains unextinguished until it burns away all the karma associated with that individual. Since karma comes in various forms, it is likened to a wick composed of many strands, explaining the phrase, <b>“He will not snuff out a smoldering wick.”</b> Furthermore, the verse expresses the anticipation of some for Jesus’s wisdom, stating, <b>“In His name, the nations will put their hope.”</b>
+  Yesu alitoa hekima yake kwa wale waliomkaribia, lakini alijiepusha na kupiga kelele barabarani, kama inavyoonyeshwa katika mstari huo.<strong>"hakuna mtu atakayeisikia sauti yake katika njia kuu.&rdquo;</strong>Aya hiyo pia inasisitiza kwamba Yeye hatauvunja mwanzi uliopondeka, ikisisitiza kwamba matendo Yake yalilenga tu kueneza hekima. Zaidi ya hayo, mstari huo unakazia daraka la Yesu katika kuhakikisha kwamba nguvu za hekima, mara tu zinapowashwa ndani ya mtu, hazizimike mpaka ziteketeze karma yote inayohusiana na mtu huyo. Kwa kuwa karma inakuja kwa namna mbalimbali, inafananishwa na utambi unaojumuisha nyuzi nyingi, ikielezea maneno,<strong>"Hatazimisha utambi unaofuka moshi.&rdquo;</strong>Zaidi ya hayo, mstari huo unaonyesha kutazamia kwa wengine hekima ya Yesu, ukisema,<strong>"Kwa jina lake, mataifa wataweka tumaini lao.&rdquo;</strong>
 </div></div>
 
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 35,
-verse: `<b>(34)	The Gospel of Mathew, 12th chapter, 31st verse.</b>`,
+verse: `<b>(34)	Injili ya Mathayo, sura ya 12, mstari wa 31.</b>`,
 meaning: `<b>
-(31) So, I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit (Atma) will not be forgiven.    </b>`,
+(12:31) Kwa hiyo, nawaambia, kila aina ya dhambi na kashfa zinaweza kusamehewa, lakini kufuru dhidi ya Roho (Atma) haitasamehewa.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse holds particular significance in the scripture. When human beings grasp God’s wisdom, that wisdom transforms into fire (wisdom power). This fire has the capability to burn away various sins (karma). Knowing divine wisdom allows humans to avoid sins unrelated to Atma. However, it’s crucial to note that the wisdom power cannot absolve sins stemming from blasphemy and actions against Atma; such sins may remain unforgiven.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Mstari huu una umuhimu fulani katika maandiko. Wanadamu wanaposhika hekima ya Mungu, hekima hiyo hubadilika kuwa moto (nguvu za hekima). Moto huu una uwezo wa kuteketeza dhambi mbalimbali (karma). Kujua hekima ya kimungu kunaruhusu wanadamu kuepuka dhambi zisizohusiana na Atma. Hata hivyo, ni muhimu kutambua kwamba uwezo wa hekima hauwezi kuondoa dhambi zinazotokana na kufuru na vitendo dhidi ya Atma; dhambi kama hizo zinaweza kubaki bila kusamehewa</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 36,
-verse: `<b>(35)	The Gospel of Mathew, 12th chapter, 32nd verse.</b>`,
+verse: `<b>(35)	Injili ya Mathayo, sura ya 12, mstari wa 32.</b>`,
 meaning: `<b>
-(32) Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age (yuga) or in the age (yuga) to come.  </b>`,
+(12:32) Yeyote atakayenena neno la kumpinga Mwana wa Adamu atasamehewa, lakini yeye atakayenena neno juu ya Roho Mtakatifu hatasamehewa, katika ulimwengu huu (yuga) au katika ulimwengu ujao. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  All human beings are commonly referred to as the sons of man; ordinary people acknowledge that their parents are human. But Jesus, despite His outward appearance as an ordinary man, should not be categorized as the son of man. When Jesus spoke of His Father, He specified that His Father existed in paraloka, not as a man on earth. Consequently, Jesus is appropriately identified as the Son of God. In contrast, the general term “son of man” can be applied to all people. Despite Jesus presenting himself with the name and experiences of an ordinary man, His true designation is the Son of God.
+<div class="poem"><div class="poemtext">
+  Wanadamu wote kwa kawaida hurejelewa kuwa wana wa binadamu; watu wa kawaida wanakubali kwamba wazazi wao ni wanadamu. Lakini Yesu, licha ya kuonekana kwake kwa nje kama mtu wa kawaida, hapaswi kuainishwa kama mwana wa Adamu. Yesu alipozungumza kuhusu Baba Yake, alitaja waziwazi kwamba Baba yake aliishi katika paraloka, si kama mwanadamu duniani. Kwa hiyo, Yesu anatambulishwa kwa kufaa kuwa Mwana wa Mungu.
 
-  The seed donor for an ordinary person is not a human. Any man claiming to have children is not truly a father. Atma, which serves as the head of the body and performs all functions within it, is the seed donor for humans and all living beings. Unfortunately, many humans are unaware of this fact. Consequently, a man asserts that he is the father of another human, even though he cannot carry out any functions within the body. It is emphasized multiple times in the first and second divine scriptures that Atma is the sole doer of all things. While a person, in reality, does not commit any sins because he is incapable of performing actions, the misconception that he is the doer leads to the accumulation of sin in his (Jeevatma) account. Thus, a person becomes responsible for sins he has not committed. Similarly, despite Atma being the true Father of a man, the man is considered the son of a human being when he claims his father is a man.
+  Tofauti na hilo, neno la jumla &ldquo;mwana wa binadamu&rdquo; linaweza kutumiwa kwa watu wote. Licha ya Yesu kujionyesha kwa jina na uzoefu wa mtu wa kawaida, jina lake la kweli ni Mwana wa Mungu Mfadhili wa mbegu kwa mtu wa kawaida sio mwanadamu. Mwanaume yeyote anayedai kuwa na watoto sio baba kweli. Atma, ambayo hutumika kama kichwa cha mwili na hufanya kazi zote ndani yake, ndiye mtoaji wa mbegu kwa wanadamu na viumbe vyote vilivyo hai. Kwa bahati mbaya, watu wengi hawajui ukweli huu. Kwa hiyo, mwanamume anadai kwamba yeye ni baba wa mwanadamu mwingine, ingawa hawezi kufanya kazi yoyote ndani ya mwili. Imesisitizwa mara nyingi katika maandiko ya kimungu ya kwanza na ya pili kwamba Atma ndiye mtendaji pekee wa mambo yote. Wakati mtu, kiuhalisia, hatendi madhambi yoyote kwa sababu hana uwezo wa kufanya vitendo, dhana potofu kwamba yeye ndiye mtendaji hupelekea mlundikano wa dhambi katika akaunti yake (Jeevatma). Hivyo, mtu anakuwa na jukumu la dhambi ambazo hajafanya. Vile vile, licha ya Atma kuwa Baba wa kweli wa mtu, mwanamume huyo anachukuliwa kuwa mtoto wa binadamu anapodai baba yake ni mwanaume.
 
-  Jesus is aware that His Father is the Father of paraloka. Unlike everyone else, He was not born of Atma. Jesus acknowledges that He is the Son of God, the Holy Spirit. Throughout the Bible scripture, Jesus is referred to as the Son of God because He explicitly stated on many occasions that His Father was the Holy Spirit. God’s wisdom has the power to forgive sins committed against ordinary individuals. However, the sin of blasphemy against the Son of God will never be forgiven. This sin of blasphemy is destined to be experienced for <b>two yugas</b> – in the current yuga (era) and the subsequent one.
+  Yesu anafahamu kwamba Baba yake ndiye Baba wa paraloka. Tofauti na kila mtu mwingine, Yeye hakuzaliwa na Atma. Yesu anakiri kwamba Yeye ni Mwana wa Mungu, Roho Mtakatifu. Katika andiko lote la Biblia, Yesu anatajwa kuwa Mwana wa Mungu kwa sababu Yeye alisema waziwazi mara nyingi kwamba Baba alikuwa Roho Mtakatifu. Hekima ya Mungu ina uwezo wa kusamehe dhambi zilizofanywa dhidi ya watu wa kawaida. Hata hivyo, dhambi ya kumkufuru Mwana wa Mungu haitasamehewa kamwe. Dhambi hii ya kukufuru imekusudiwa kuwa nayo<strong>yuga mbili</strong>-katika yuga ya sasa (zama) na inayofuata.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 37,
-verse: `<b>(36)	The Gospel of Mathew, 12th chapter, 36th and 37th verses.</b>`,
+verse: `<b>(36)	Injili ya Mathayo, sura ya 12, aya ya 36 na 37.</b>`,
 meaning: ` <b>
-(36) But I tell you that everyone will have to give an account on the day of judgment for every empty word they have spoken.
+(12:36) Lakini mimi nawaambia kwamba kila mtu atalazimika kutoa hesabu siku ya hukumu kwa kila neno tupu alilosema.
 <br><br>
-(37) For by your words you will be acquitted, and by your words you will be condemned.     </b>`,
+(12:37) Kwa maana kwa maneno yako utahesabiwa haki, na kwa maneno yako utahukumiwa.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  From the moment of birth, humans engage in numerous actions and utter many words. They believe they are personally responsible for every small deed and word. In reality, they have not done anything. It is Atma within the body that performs all actions. However, an unaware individual falsely attributes every action and word to themselves, and consequently, the karmic consequences of their deeds and words accrue to them. Atma stores all accumulated karma in the karma chakra and assesses it on the day of death. On this judgment day, Atma evaluates every deed and word of the individual, weighing the sins and punya associated with each. A person is considered a gnani (wise person) if they acquire wisdom in life, and conversely, a person is regarded as ignorant if they perform deeds with ignorance. Additionally, Atma considers whether a person has acquired wisdom (gnani) or remains in ignorance. The judgment is based on the individual’s status as either a gnani or an ignorant one, determining their next life accordingly. The Holy Spirit does not judge a person based on karma. It is the Atma, responsible for all functions in the body, that judges the individual on the day of death and directs the Jeeva to the next life. This day is known as the <b>‘judgment day’</b> or <b>‘final day,’</b> also serving as the first day of the next life (birthday). Recognizing that Atma is the ultimate arbiter on the last and first days of life, one should understand that the Holy Spirit does not participate in these processes. The last day can be referred to as the day of counting karma. Atma is the one who performs all functions of the body. Understanding this, if a person believes they have not personally done anything, they are neither considered a sinner nor a virtuous person. It’s crucial to recognize that the Atma determines the karma in a person’s deeds and guides them to the next birth. Depending on one’s thoughts, they will be judged as either a gnani, ignorant, righteous, or a sinner.
+<div class="poem"><div class="poemtext">
+  Tangu kuzaliwa, wanadamu hujihusisha na vitendo vingi na kusema maneno mengi. Wanaamini kuwa wanawajibika kibinafsi kwa kila tendo na neno dogo. Kwa kweli, hawajafanya chochote. Ni Atma ndani ya mwili ambayo hufanya vitendo vyote. Walakini, mtu asiyejua anajihusisha kwa uwongo kila kitendo na neno kwake, na kwa hivyo, matokeo ya karmic ya matendo na maneno yao yanawapata. Atma huhifadhi karma yote iliyokusanywa katika chakra ya karma na kutathmini siku ya kifo. Katika siku hii ya hukumu, Atma hutathmini kila tendo na neno la mtu binafsi, akipima uzito dhambi na punya kuhusishwa na kila mmoja. Mtu huchukuliwa kuwa gnani (mtu mwenye busara) ikiwa atapata hekima katika maisha, na kinyume chake, mtu huchukuliwa kuwa mjinga ikiwa anafanya vitendo kwa ujinga. Zaidi ya hayo, Atma huzingatia ikiwa mtu amepata hekima (gnani) au amebaki katika ujinga. Hukumu inategemea hadhi ya mtu kama gnani au mjinga, kuamua maisha yao yajayo ipasavyo. Roho Mtakatifu hamhukumu mtu kulingana na karma. Ni Atma, inayohusika na kazi zote katika mwili, ambayo inahukumu mtu binafsi siku ya kifo na inaongoza Jeeva kwa maisha ya pili. Siku hii inajulikana kama'siku ya hukumu'au'siku ya mwisho,'pia hutumika kama siku ya kwanza ya maisha yajayo (siku ya kuzaliwa). Kwa kutambua kwamba Atma ndiye mwamuzi mkuu wa siku za mwisho na za kwanza za maisha, mtu anapaswa kuelewa kwamba Roho Mtakatifu hashiriki katika taratibu hizi. Siku ya mwisho inaweza kuitwa siku ya kuhesabu karma. Atma ndiye anayefanya kazi zote za mwili. Kuelewa hili, ikiwa mtu anaamini kuwa yeye binafsi hajafanya chochote, yeye hachukuliwi kuwa mwenye dhambi au mtu mwema. Ni muhimu kutambua kwamba Atma huamua karma katika matendo ya mtu na kuwaongoza kwa kuzaliwa ijayo. Kulingana na mawazo ya mtu, watahukumiwa kuwa ama gnani, mjinga, mwenye haki, au mwenye dhambi.
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 38,
-verse: `<b>(37)	The Gospel of Mathew, 12th chapter, 40th verse.</b>`,
+verse: `<b>(37)	Injili ya Mathayo, sura ya 12, aya ya 40.</b>`,
 meaning: ` <b>
-(40) For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth.  </b>`,
+(12:40) Kwa maana kama vile Yona alivyokuwa siku tatu mchana na usiku ndani ya tumbo la samaki mkubwa, vivyo hivyo Mwana wa Adamu atakuwa katika moyo wa nchi siku tatu mchana na usiku. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse draws a parallel between the events preceding the time of Jesus and the prophesied occurrences. It notes that Jonah, after being swallowed by a giant fish, resided inside its belly for three days and three nights. The verse also prophesies, “Jesus will be three days and three nights in the heart of the earth.” While it is accurate that Jonah spent three days and three nights in the fish, it is not precise to state that Jesus, the Son of Man, lived for the same duration in the heart of the earth. Historically, Jesus was crucified on the cross on Friday evening and rose from the dead before dawn on Sunday morning. According to historical records, Jesus was likely crucified between 3:30 p.m. and 4 p.m. on Friday, and His body was placed in a tomb on Friday evening. Consequently, Jesus was not in the tomb during the daytime on Friday, but rather on Friday night and the entirety of Saturday. The resurrection is said to have occurred before dawn on Sunday. Therefore, Jesus spent Friday night and the entire day on Saturday in the tomb, rising from the dead before Sunday morning.
+<div class="poem"><div class="poemtext">
+  Mstari huu unatoa ulinganifu kati ya matukio yaliyotangulia wakati wa Yesu na matukio yaliyotabiriwa. Inasema kwamba Yona, baada ya kumezwa na samaki mkubwa, alikaa ndani ya tumbo lake kwa siku tatu mchana na usiku. Mstari huo pia unatabiri, &ldquo;Yesu atakuwa siku tatu mchana na usiku katika moyo wa dunia.&rdquo; Ingawa ni sahihi kwamba Yona alitumia siku tatu mchana na usiku ndani ya samaki, si sahihi kusema kwamba Yesu, Mwana wa Adamu, aliishi kwa muda uleule katika moyo wa dunia. Kihistoria, Yesu alisulubishwa msalabani siku ya Ijumaa jioni na alifufuka kutoka kwa wafu kabla ya mapambazuko ya Jumapili asubuhi. Kulingana na rekodi za kihistoria, Yesu inaelekea alisulubishwa kati ya saa 3:30 na saa kumi jioni siku ya Ijumaa, na mwili Wake ukawekwa kaburini Ijumaa jioni. Kwa hiyo, Yesu hakuwa kaburini wakati wa mchana siku ya Ijumaa, lakini badala ya Ijumaa usiku na Jumamosi nzima. Ufufuo huo unasemekana ulitokea kabla ya mapambazuko siku ya Jumapili. Kwa hiyo, Yesu alitumia Ijumaa usiku na siku nzima Jumamosi kaburini, akifufuka kutoka kwa wafu kabla ya Jumapili asubuhi.
 
-  The verse appears to indicate that Jesus was buried for only two nights and one day. Consequently, this verse in the scripture may seem incorrect, raising doubts about its accuracy. Nevertheless, the verse in the divine scripture is considered to be unfailingly accurate. When others questioned the authenticity of this particular verse, I too experienced a sense of doubt. Having said that there is no room for untruth except truth in this sentence, I had to answer what others asked me. Yet, recalling the guidance in Matthew 10:20, <b>“For it is not you who will be speaking, but the Spirit of your Father speaking through you,”</b> dispels the need for fear in providing an answer. The understanding is that the Spirit, or Atma, is the one posing questions and providing responses. As Jeevas, our role is to listen and comprehend what Atma is communicating.
+  Mstari huo unaonekana kuonyesha kwamba Yesu alizikwa kwa siku mbili tu na siku moja. Kwa hiyo, aya hii katika maandiko inaweza kuonekana kuwa si sahihi, ikizua shaka juu ya usahihi wake. Hata hivyo, mstari katika maandiko ya kimungu ni inachukuliwa kuwa sahihi bila kushindwa. Wakati wengine walipohoji ukweli wa aya hii, mimi pia nilipata hali ya shaka. Baada ya kusema kwamba hakuna nafasi ya uwongo isipokuwa ukweli katika sentensi hii, ilinibidi kujibu yale ambayo wengine waliniuliza. Lakini, tukikumbuka mwongozo katika Mathayo 10:20,<strong>"Kwa maana si ninyi mtakaokuwa mkinena, bali ni Roho wa Baba yenu asemaye ndani yenu.&rdquo;</strong>huondoa hitaji la hofu katika kutoa jibu. Uelewa ni kwamba Roho, au Atma, ndiye anayeuliza maswali na kutoa majibu. Kama Jeevas, jukumu letu ni kusikiliza na kuelewa kile ambacho Atma anawasiliana.
 
-  The one commonly referred to as the Son of Man is, in truth, the Son of God. Although we commonly label Jesus as the Son of God, it’s essential to recognize that He is not the son of any human but God himself. This assertion is made with certainty, grounded in the understanding that He is God incarnate. While the body inhabited by God experienced death, God himself is immortal. In fact, there are four types of death: natural death, unnatural death, temporary death, and the ultimate death. While the majority are familiar with the first type, those possessing spiritual wisdom, or ‘gnanis,’ know all four types. The last death occurs when God takes on human form or when a person attains moksham, merging with God. Despite the widespread belief in Jesus’ death on the cross, no one can say for certain the specific type of death He experienced.
+  Yule anayejulikana sana kama Mwana wa Adamu, kwa kweli, ni Mwana wa Mungu. Ingawa kwa kawaida tunamwita Yesu kama Mwana wa Mungu, ni muhimu kutambua kwamba Yeye si mwana wa binadamu yeyote ila Mungu mwenyewe. Madai haya yanafanywa kwa uhakika, yakiegemezwa katika ufahamu kwamba Yeye ni Mungu mwenye mwili. Ingawa mwili unaokaliwa na Mungu ulipatwa na kifo, Mungu mwenyewe hawezi kufa. Kwa kweli, kuna aina nne za kifo: kifo cha asili, kifo kisicho cha kawaida, kifo cha muda, na kifo cha mwisho. Ingawa wengi wanafahamu aina ya kwanza, wale walio na hekima ya kiroho, au 'gnanis,' wanajua aina zote nne. Kifo cha mwisho hutokea wakati Mungu anachukua umbo la mwanadamu au wakati mtu anapofikia moksham, akiunganishwa na Mungu. Licha ya imani iliyoenea katika kifo cha Yesu msalabani, Hapana mtu anaweza kusema kwa uhakika aina maalum ya kifo Alichopata.
 
-  In this verse, it is stated that Jesus was in the heart of the earth for three days and three nights, yet it doesn’t explicitly mention His death. During His crucifixion, the prevailing belief was that He had died on the cross. However, upon emerging from the tomb on Sunday morning, Jesus claimed He had not experienced death. To address the skepticism of His disciples, He displayed the marks of the nails on His wrists and feet, along with the wound from the spear, making it clear that He had not died. Nevertheless, historical records affirm that His body was taken down from the cross and placed in a tomb after His death on Friday evening. This apparent contradiction, where He died on Friday yet appeared on Sunday as if He had not died, prompts questions about the seemingly untrue statement that <b>He would be three days and three nights in the heart of the earth.</b> As per 12:40, He wasn’t there for three nights and three days, but instead was only there for two nights and one day. Exploring the reason behind this seeming inconsistency unveils a deeper truth concealed within the apparent falsehood. Let us further examine how truth is concealed within this apparent contradiction.
+  Katika mstari huu, imeelezwa kwamba Yesu alikuwa ndani ya moyo wa dunia kwa siku tatu mchana na usiku, lakini haisemi waziwazi kifo chake. Wakati wa kusulubishwa kwake, imani iliyoenea ilikuwa kwamba alikufa msalabani. Hata hivyo, alipotoka kaburini Jumapili asubuhi, Yesu alidai kuwa hakuwa amepitia kifo. Ili kushughulikia mashaka ya wanafunzi Wake, alionyesha alama za misumari kwenye vifundo vya mikono na miguu yake, pamoja na jeraha la mkuki, akionyesha wazi kwamba hakuwa amekufa. Hata hivyo, kumbukumbu za kihistoria zinathibitisha kwamba mwili Wake ulishushwa kutoka msalabani na kuwekwa kaburini baada ya kifo Chake Ijumaa jioni. Mkanganyiko huu wa dhahiri, ambapo Alikufa siku ya Ijumaa bado alionekana Jumapili kama kwamba Hakufa, unazua maswali juu ya taarifa inayoonekana kuwa isiyo ya kweli kwamba<strong>Angekuwa siku tatu mchana na usiku katika moyo wa dunia.</strong>Kama kwa 12:40, Hakuwa huko kwa usiku tatu na siku tatu, lakini badala yake alikuwa tu kwa usiku mbili na siku moja. Kuchunguza sababu inayoonekana kutopatana kunafunua ukweli wa ndani zaidi uliofichwa ndani ya uwongo unaoonekana. Acheni tuchunguze zaidi jinsi ukweli unavyofichwa ndani ya mkanganyiko huu unaoonekana.
 
-  It is true that Jesus died on the cross, but no one knew that it was <b>temporary death.</b> Jesus experienced a temporary death out of four kinds of deaths and rose again early Sunday morning from temporary death. He informed His disciples that He was not dead. He would not have risen again if He had experienced a natural death. However, He got up on the third day because He got a ‘temporary death.’ Thus, the notion that Jesus died on the cross is a misconception and not true. Similarly, the scripture stating that Jesus was in the tomb for three days is accurate but warrants a deeper understanding.
+  Ni kweli kwamba Yesu alikufa msalabani, lakini hakuna aliyejua kwamba ndivyo<strong>kifo cha muda</strong>. Yesu alipata kifo cha muda kati ya aina nne za vifo na akafufuka tena mapema Jumapili asubuhi kutokana na kifo cha muda. Aliwajulisha wanafunzi wake kwamba hakufa. Asingefufuka tena kama angepitia kifo cha kawaida. Hata hivyo, aliamka siku ya tatu kwa sababu alipata 'kifo cha muda.' Hivyo, dhana kwamba Yesu alikufa msalabani ni dhana potofu na si kweli. Vivyo hivyo, andiko linalosema kwamba Yesu alikuwa kaburini kwa siku tatu ni sahihi lakini linahitaji uelewevu wa kina zaidi.
 
-  Jesus is present within the body as Jeevatma, while Atma, the Father of all, also resides within. Jeevatma experiences the consequences of karma within each human body, while Atma performs necessary actions in accordance with karma. Atma permeates the entire body, whereas Jeevatma is located within the head. Atma exerts control over the body through its ten parts and organs. The vitality of a person is often associated with bodily motion, and a person is considered alive when the body is in motion. Conversely, when the ten parts and organs cease functioning, accompanied by the absence of breathing, the person is deemed dead. In the event of natural death, both Atma and Jeevatma exit the body, resulting in the immobilization of the body due to the absence of Atma.
+  Yesu yuko ndani ya mwili kama Jeevatma, wakati Atma, Baba wa wote, pia anakaa ndani. Jeevatma hupata matokeo ya karma ndani ya kila mwili wa binadamu, wakati Atma hufanya vitendo muhimu kwa mujibu wa karma. Atma hupenya mwili mzima, ambapo Jeevatma iko ndani ya kichwa. Atma hufanya udhibiti juu ya mwili kupitia sehemu zake kumi na viungo. Uhai wa mtu mara nyingi huhusishwa na mwendo wa mwili, na mtu hufikiriwa kuwa hai wakati mwili uko katika mwendo. Kinyume chake, wakati sehemu kumi na viungo vinaacha kufanya kazi, ikifuatana na kutokuwepo kwa kupumua, mtu huyo anahesabiwa kuwa amekufa. Katika tukio la kifo cha asili, Atma na Jeevatma hutoka nje ya mwili, na kusababisha kutoweza kwa mwili kwa sababu ya kutokuwepo kwa Atma.
 
-  In the case of temporary death, neither Atma nor Jeevatma departs from the body. Atma undergoes a contraction, shrinking from the outer edges to a tiny size, and enters the head similarly to Jeevatma. During this period, none of the body’s organs function, and breathing ceases, giving the appearance of death. The man is commonly perceived as dead since both external and internal bodily functions cease. Resurrection occurs when Atma, resuming its usual function, emerges and starts working again. This phenomenon is exemplified in the case of Jesus. During His crucifixion, Atma contracted within His body, maintaining this state for Friday night and the entirety of Saturday. Early Sunday morning, Atma resumed normal function, leading to Jesus’ emergence from the tomb alive. Atma experienced <b>temporary death</b> for only two nights and a day. While the Atma in Jesus’ body was in the tomb for two nights and a day, it is also accurate to say that Jesus (Jeevatma) was in the tomb for three nights and three days, depicting a process not fully understood by us. Let us see what it was.
+  Katika kesi ya kifo cha muda, sio Atma wala Jeevatma huondoka kwenye mwili. Atma inakabiliwa na contraction, ikipungua kutoka kwenye kingo za nje hadi ukubwa mdogo, na huingia kichwa sawa na Jeevatma. Katika kipindi hiki, hakuna viungo vya mwili vinavyofanya kazi, na kupumua hukoma, kutoa kuonekana kwa kifo. Mwanamume kwa kawaida huchukuliwa kuwa amekufa kwani kazi za nje na za ndani za mwili hukoma. Ufufuo hutokea wakati Atma, kurejesha kazi yake ya kawaida, inatokea na kuanza kufanya kazi tena. Jambo hili ni mfano katika kisa cha Yesu. Wakati wa kusulubishwa Kwake, Atma aliingia ndani ya mwili Wake, akidumisha hali hii kwa Ijumaa usiku na Jumamosi nzima. Mapema Jumapili asubuhi, Atma alianza tena kazi ya kawaida, na kusababisha Yesu kuibuka kutoka kaburini akiwa hai. Atma uzoefu<strong>kifo cha muda</strong>kwa usiku na mchana mbili tu. Wakati Atma katika mwili wa Yesu ilikuwa kaburini kwa usiku mbili na mchana, pia ni sahihi kusema kwamba Yesu (Jeevatma) alikuwa kaburini kwa usiku tatu na siku tatu, akionyesha mchakato usioeleweka kabisa na sisi. Hebu tuone ilikuwa ni nini.
 
-  It can be said that Jesus was resurrected due to Atma’s actions within His body. However, before Atma died on the cross, Jeevatma had already been buried in the body. The connection between Jeevatma and buddhi was severed in Jesus’ body after He learned of His impending arrest on Thursday. Jesus entered an unknown state, completely unaware of His arrest, trial, flogging, and crucifixion, essentially being buried in His body tomb. He remained unconscious for three days, as if in a grave. Despite this, Atma carried out all necessary bodily functions, but Jesus was oblivious to these actions. To prevent Jesus from experiencing any pain or suffering associated with flogging and crucifixion, Atma sent him into an unknown state, similar to sleep. Jeevatma remained buried in the body until Atma awakened him on Sunday morning. Hence, the verse states, “Jesus was in the tomb for three days and three nights.” People knew that Jesus’ body was placed in the tomb, but the Jeevatma in His body entered a state of the unknown before that. Afterward, Jesus’ Atma experienced temporary death on Friday evening. However, people, who could only observe visible things, were unaware of the workings of Atma and Jeevatma in Jesus’ body. It is true that Jesus was in the grave for three days and three nights, and His Atma was in the grave for two nights and a day.
-
+  Inaweza kusemwa kwamba Yesu alifufuka kutokana na matendo ya Atma ndani ya mwili Wake. Walakini, kabla ya Atma kufa msalabani, Jeevatma tayari alikuwa amezikwa kwenye mwili. Uhusiano kati ya Jeevatma na buddhi ulikatizwa katika mwili wa Yesu baada ya kujua kuhusu kukamatwa kwake siku ya Alhamisi. Yesu aliingia katika hali isiyojulikana, bila kujua kabisa kukamatwa Kwake, kesi, kuchapwa viboko, na kusulubishwa, kimsingi akazikwa katika kaburi la mwili Wake. Alibaki bila fahamu kwa siku tatu, kana kwamba yuko kaburini. Licha ya hayo, Atma alitekeleza majukumu yote muhimu ya mwili, lakini Yesu hakujali matendo haya. Ili kumzuia Yesu asipate maumivu au mateso yoyote yanayohusiana na kuchapwa viboko na kusulubiwa, Atma alituma kumpeleka katika hali isiyojulikana, sawa na usingizi. Jeevatma alibaki amezikwa kwenye mwili hadi Atma alipomwamsha Jumapili asubuhi. Kwa hiyo, mstari huo unasema, &ldquo;Yesu alikuwa kaburini siku tatu mchana na usiku.&rdquo; Watu walijua kwamba mwili wa Yesu uliwekwa kaburini, lakini Jeevatma katika mwili Wake iliingia katika hali isiyojulikana kabla ya hapo. Baadaye, Atma wa Yesu alikufa kwa muda Ijumaa jioni. Hata hivyo, watu, ambao wangeweza tu kutazama vitu vinavyoonekana, hawakujua kazi ya Atma na Jeevatma katika mwili wa Yesu. Ni kweli kwamba Yesu alikuwa kaburini kwa siku tatu mchana na usiku, na Atma yake alikuwa kaburini kwa usiku mbili na mchana.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 39,
-verse: `<b>(38)	The Gospel of Mathew, 13th chapter, 13th, 14th and 15th verses.</b>`,
+verse: `<b>(38)	Injili ya Mathayo, sura ya 13, aya ya 13, 14, na 15.</b>`,
 meaning: `<b>
-(13) Though seeing, they do not see; though hearing, they do not hear or understand.
+(13:13) Ingawa wanaona, lakini hawaoni; ingawa wanasikia, hawasikii wala hawaelewi.
 <br><br>
-(14) In them is fulfilled the prophecy of Isaiah: You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
+(13:14) Ndani yao unatimia unabii wa Isaya: Mtasikia lakini hamtaelewa; mtakuwa mnaona lakini hamtambui.
 <br><br>
-(15) For this people’s heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise, they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them. </b>`,
+(13:15) Maana mioyo ya watu hawa imekuwa mizito; hawasikii kwa masikio yao, na wamefumba macho yao. Vinginevyo wangeona kwa macho yao.kusikia kwa masikio yao, na kuelewa kwa mioyo yao, na kugeuka, nami ningewaponya. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The prophet Isaiah prophesied about this a long time ago. Both then and now, there have been ignorant people. They see with their eyes, hear with their ears, and divert their manas (mind) even after comprehending with their buddhi. Due to their lack of interest in what they have seen, heard, and known, their buddhi slows down to avoid destroying their karma through Jesus. Their ears become deaf to divine wisdom. They listen to everything that is said but do not understand what they hear and become entangled in material things. They can only see the money. To them, those who possess wisdom appear foolish.
+<div class="poem"><div class="poemtext">
+  Nabii Isaya alitabiri kuhusu jambo hilo muda mrefu uliopita. Wakati huo na sasa, kumekuwa na watu wajinga. Wanaona kwa macho yao, na wanasikia kwa masikio yao, na wanageuza mana (akili) zao hata baada ya kufahamu kwa Buddha wao. Kwa sababu ya ukosefu wao wa kupendezwa na yale ambayo wameona, kusikia, na kujua, Buddha wao anapunguza mwendo ili kuepuka kuharibu karma yao kupitia Yesu. Masikio yao yanakuwa kiziwi kwa hekima ya kimungu. Wanasikiliza kila kinachosemwa lakini hawaelewi wanachosikia na wananaswa na vitu vya kimwili. Wanaweza tu kuona pesa. Kwao, wale walio na hekima huonekana kuwa wapumbavu.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 40,
-verse: `<b>(39)	The Gospel of Mathew, 15th chapter, 7th, 8th and 9th verses.</b>`,
+verse: `<b>(39)	Injili ya Mathayo, sura ya 15, aya ya 7, ya 8, na ya 9.</b>`,
 meaning: `<b>
-(7) You hypocrites! Isaiah was right when he prophesied about you.
+(15:7) Enyi wanaafiki! Isaya alikuwa sahihi alipotabiri juu yako.
 <br><br>
-(8) These people honor me with their lips, but their hearts are far from me.
+(15:8) Watu hawa huniheshimu kwa midomo, lakini mioyo yao iko mbali nami.
 <br><br>
-(9) They worship me in vain; their teachings are merely human rules.    </b>`,
+(15:9) Wananiabudu bure; mafundisho yao ni kanuni za kibinadamu tu. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  We have often said, “God knows the matter of God; humans do not know.” God can speak about Himself, and humans will come to know when God reveals how to worship Him. Although God has foretold how He should be worshipped, many preach different ways that differ from what God has said. Many swamis and gurus are teaching people human-created rules, such as upadesas and other methods of worship. God Himself reveals that “such upadesas and worship are futile” and cannot bring humans closer to Him. Many swamis and gurus talk about God in their speeches but preach anti-God and God-unspoken worships and upadesas. Even though these gurus and swamis talk about God and wisdom, they perform futile worships without understanding divine wisdom and lead others to do the same. For example, fasting has nothing to do with worshipping God. Not only are they suffering from fasting, but they are also bothering the God within. That is how they are harming the God within. Similarly, it was said in the Bhagavad-Gita five thousand years ago, <b>“You cannot know and reach me through studying the Vedas, making donations, or performing
-sacrifices (yajnas), penances (tapas) etc.”</b> In the Bhagavad-Gita, God said that many people highly honor Him but worship Him in vain, in an adharma manner. The Lord has said the same thing in the holy scripture now.
+<div class="poem"><div class="poemtext">
+  Mara nyingi tumesema, &ldquo;Mungu anajua jambo la Mungu; binadamu hawajui.&rdquo; Mungu anaweza kusema juu Yake Mwenyewe, na wanadamu watakuja kujua Mungu atakapofichua jinsi ya kumwabudu. Ingawa Mungu ametabiri jinsi Anavyopaswa kuabudiwa, wengi huhubiri kwa njia tofauti tofauti na yale ambayo Mungu amesema. Swami na gurus wengi wanafundisha watu sheria zilizotungwa na wanadamu, kama vile upadesas na njia nyinginezo za ibada. Mungu Mwenyewe afunua kwamba &ldquo;upadesa na ibada kama hizo ni ubatili&rdquo; na haziwezi kuwaleta wanadamu karibu Naye. Swami na gurus wengi huzungumza juu ya Mungu katika hotuba zao lakini huhubiri ibada zinazompinga Mungu na ibada zisizotamkwa na upadesa. Ijapokuwa waalimu hao wa majini huzungumza juu ya Mungu na hekima, wao hufanya ibada zisizofaa bila kuelewa hekima ya kimungu na huwaongoza wengine kufanya vivyo hivyo. Kwa mfano, kufunga hakuna uhusiano wowote na kumwabudu Mungu. Sio tu kwamba wanateseka kwa kufunga, lakini pia wanamsumbua Mungu aliye ndani. Hivyo ndivyo wanavyomdhuru Mungu aliye ndani. Vile vile, ilisemwa katika Bhagavad-Gita miaka elfu tano iliyopita, &ldquo;<strong>Huwezi kujua na kunifikia kupitia kusoma Vedas, kutoa michango, au kutoa dhabihu (yajnas) na toba (tapas)."</strong>Katika Bhagavad-Gita, Mungu alisema kwamba watu wengi wanamheshimu sana lakini wanamwabudu bure, kwa njia ya adharma. Bwana amesema jambo lile lile katika maandiko matakatifu sasa.
 
-  Words come from the mouth, but feelings come from the heart. Although many people speak highly of God, their hearts do not truly align with God’s principles. Despite their praise, they do not have God’s dharmas in their hearts. Maya’s dharmas took place in their hearts. They speak about God, but what they do under the influence of Maya is anti-God worship. Many gurus name what they say as God’s wisdom, but the worship they are performing, as God said, will not unite them with God. It is also warned in the Gita that those worships are on the wrong path. However, famous Peetadipatis perform futile yajnas, donations, fasting, Vedic chanting, and penance. The Holy Bible and Bhagavad-Gita state that those who engage in these practices are far from God. Therefore, from now on, let us not only glorify God in our words but also follow what God said, leaving behind futile and anti-God worship.
-
+  Maneno hutoka kinywani, lakini hisia hutoka moyoni. Ingawa watu wengi humsifu Mungu, mioyo yao haipatani kikweli na kanuni za Mungu. Licha ya sifa zao, hawana dharma za Mungu mioyoni mwao. Dharma za Maya zilifanyika mioyoni mwao. Wanazungumza juu ya Mungu, lakini wanachofanya chini ya ushawishi wa Maya ni ibada ya kupinga Mungu. Wasomi wengi hutaja kile wanachosema kuwa hekima ya Mungu, lakini ibada wanayofanya, kama Mungu alivyosema, haitawaunganisha na Mungu. Pia inaonywa katika Gita kwamba ibada hizo ziko kwenye njia mbaya. Walakini, Peetadipatis maarufu hufanya yajnas bure, michango, kufunga, kuimba kwa Vedic, na toba. Biblia Takatifu na Bhagavad-Gita zinasema kwamba wale wanaojihusisha na mazoea haya wako mbali na Mungu. Kwa hiyo, kuanzia sasa na kuendelea, na tusimtukuze Mungu kwa maneno yetu tu bali pia tufuate yale ambayo Mungu alisema, tukiacha ibada isiyo na maana na inayompinga Mungu.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 41,
-verse: `<b>(40)	The Gospel of Mathew, 15th chapter, 11th verse.</b>`,
+verse: `<b>(40)	Injili ya Mathayo, sura ya 15, mstari wa 11.</b>`,
 meaning: ` <b>
-(11) What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them. </b>`,
+ (15:11) Kinachoingia kinywani mwa mtu hakimtia unajisi, bali kile kitokacho katika vinywa vyao ndicho kimtiacho unajisi. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Man consumes food through the mouth, and the variety of food is vast, not limited to a single type. Individuals can be categorized as either vegetarians or non-vegetarians. Some spiritual leaders, such as swamis and gurus, advocate vegetarianism as a path to understanding God’s wisdom, asserting that avoiding meat is essential. Here the Lord said, <b>“What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”</b> Various opinions exist regarding dietary practices for those on the path of divine wisdom. Some recommend abstaining from non- vegetarian food, while others suggest a diet of exclusively raw, uncooked food. Some propose a vegetarian diet limited to one meal a day. Despite these diverse dietary restrictions, it is emphasized that the sanctity or uncleanness of an individual is not determined by the food consumed. While the food we eat may have an impact on physical health, it does not influence spiritual purity. Eating any particular food does not obstruct the pursuit of divine wisdom. Man consumes food with his mouth and articulates words with the same organ. Notably, the process of ingesting food through the mouth poses no issue; rather, it is the words that emanate from the mouth that have the potential to defile a person. While man engages in actions and verbal expressions, his true nature is unveiled through his words. <b>Elders uphold the belief that one possessing divine wisdom is deemed holy, while those lacking wisdom are considered unclean.</b> A person with wisdom is regarded as pure based on their speech. Conversely, ignorance is exposed in the words of someone lacking wisdom. The defilement of an individual becomes evident through their speech; hence, Jesus conveyed the aforementioned verse. According to the teachings of the Bible and the Bhagavad-Gita, a person is not defiled by the food they consume. Rather, it is one’s karma that provides sustenance. Those on the path of wisdom are not bound by dietary restrictions. What matters to God is not the specific food consumed but the adherence to the wisdom path. Therefore, whatever food is consumed in accordance with one’s habits is inconsequential to God.
+<div class="poem"><div class="poemtext">
+  Mwanadamu hutumia chakula kupitia kinywa, na aina mbalimbali za chakula ni nyingi, si tu kwa aina moja. Watu binafsi wanaweza kuainishwa kama wala mboga mboga au wasio wala mboga. Baadhi viongozi wa kiroho, kama vile swamis na gurus, hutetea ulaji mboga kuwa njia ya kuelewa hekima ya Mungu, wakisisitiza kwamba kuepuka nyama ni muhimu. Hapa Bwana alisema,<strong>" Kinachoingia kinywani mwa mtu hakimtia unajisi, bali kile kitokacho kinywani mwake ndicho kimtiacho unajisi.</strong>Kuna maoni mbalimbali kuhusu mazoea ya chakula kwa wale walio kwenye njia ya hekima ya kimungu. Wengine wanapendekeza kujiepusha na vyakula visivyo vya mboga, huku wengine wakipendekeza kula chakula kibichi pekee na kisichopikwa.
+
+  Wengine hupendekeza mlo wa mboga pungufu kwa mlo mmoja kwa siku. Licha ya vizuizi hivi tofauti vya lishe, inasisitizwa kuwa utakatifu au uchafu wa mtu hauamuliwi na chakula kinachotumiwa. Ingawa chakula tunachokula kinaweza kuwa na uvutano juu ya afya ya kimwili, hakiathiri usafi wa kiroho. Kula chakula chochote hususa hakuzuii kutafuta hekima ya kimungu. Mwanadamu hutumia chakula kwa kinywa chake na hufafanua maneno kwa chombo kimoja. Hasa, mchakato wa kumeza chakula kupitia kinywa hauleti suala; bali ni maneno yanayotoka kinywani ambayo yana uwezo wa kumtia mtu unajisi. Wakati mwanadamu anajihusisha na vitendo na usemi wa maneno, asili yake ya kweli inafichuliwa kupitia maneno yake.<strong>Wazee hutegemeza imani ya kwamba mtu aliye na hekima ya kimungu huonwa kuwa mtakatifu, na wale wasio na hekima huonwa kuwa wachafu.</strong>Mtu mwenye hekima anachukuliwa kuwa msafi kulingana na usemi wake. Kinyume chake, ujinga hufichuliwa katika maneno ya mtu asiye na hekima. Unajisi wa mtu binafsi unadhihirika kupitia usemi wao; kwa hiyo, Yesu ilifikisha Aya iliyotajwa. Kulingana na mafundisho ya Biblia na Bhagavad-Gita, mtu hatiwa unajisi na chakula anachokula. Badala yake, ni karma ya mtu ambayo hutoa riziki. Wale walio kwenye njia ya hekima hawafungwi na vizuizi vya lishe. Kilicho muhimu kwa Mungu si chakula mahususi kinachotumiwa bali ni kufuata njia ya hekima. Kwa hiyo, chakula chochote kinachotumiwa kwa mujibu wa mazoea ya mtu hakina umuhimu kwa Mungu.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 42,
-verse: `<b>(41)	The Gospel of Mathew, 15th chapter, 12th and 13th verses.</b>`,
+verse: `<b>(41)	Injili ya Mathayo, sura ya 15, aya ya 12 na 13.</b>`,
 meaning: `<b>
-(12) Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”
+(15:12) Kisha wanafunzi wakamwendea, wakamwuliza, Je! unajua ya kuwa Mafarisayo walichukizwa waliposikia hayo?
 <br><br>
-(13)  He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.” </b>`,
+(15:13) Akajibu, “Kila pando asilolipanda Baba yangu wa mbinguni litang’olewa.”</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When the Lord proclaimed that man is not defiled by food and is free to consume any nourishment while still adhering to God’s path, the Pharisees raised objections. They contested that the Lord’s words lacked divine wisdom and outright rejected them. Accusing Jesus of promoting ignorance, they questioned the source of His authority to teach such principles. The Pharisees, considering themselves great teachers, asserted that only they possessed the rightful authority to impart wisdom about God. Upon learning of the Pharisees’ objections, the disciples apprised Jesus of the situation. In response, He declared, <b>‘Every plant not planted by my heavenly Father will be uprooted by the roots.’</b>
+<div class="poem"><div class="poemtext">
+  Bwana alipotangaza kwamba mwanadamu hajatiwa unajisi kwa chakula na yuko huru kula chakula chochote huku angali akishikamana na njia ya Mungu, Mafarisayo walizua pingamizi. Walipinga kwamba maneno ya Bwana hayana hekima ya kimungu na wakayakataa moja kwa moja. Wakimshutumu Yesu kwa kuendeleza ujinga, walitilia shaka chanzo cha mamlaka Yake ya kufundisha kanuni hizo. Mafarisayo, wakijiona kuwa walimu wakuu, walidai kwamba wao tu ndio waliokuwa na haki mamlaka ya kutoa hekima juu ya Mungu. Waliposikia upinzani wa Mafarisayo, wanafunzi walimweleza Yesu kuhusu hali hiyo. Akijibu, alisema,<strong>'Kila mmea usiopandwa na Baba yangu wa mbinguni utang'olewa na mizizi yake.'&nbsp;</strong>
 
-  The Paraloka Father, Paramatma, establishes His dharmas, which can wane on Earth but never truly perish. When such diminishment occurs, Paramatma incarnates as Bhagavan to reinforce these dharmas. As the dharmas weaken, adharmas proliferate. Dharmas are divine, belonging to God, while adharmas are affiliated with Satan. Paramatma sows the seeds of dharmas, whereas Satan sows those of adharmas. Upon Paramatma’s earthly incarnation to impart His dharmas, Satan takes on various forms such as scholars, Pharisees, teachers, and swamis. In this guise, Satan imparts its own version of wisdom, persuading humans that its dharmas are synonymous with God’s dharmas. Maya’s (Satan) dharmas occasionally undermine Paramatma’s dharmas. Some may question why Maya’s dharmas can weaken God’s powerful dharmas. Paramatma, as the Paraloka Father, incarnates as Bhagavan in a specific place and time to propagate His dharmas. Although these dharmas may gain strength during that period, they wane after a few thousand years. This is because God’s return as Bhagavan occurs only when deemed necessary. In contrast, Maya perpetually creates gurus and swamis, convincing them that its wisdom is synonymous with God’s wisdom. Through them, Maya propagates its dharmas continuously, ensuring a persistent influence on Earth.
+  Baba wa Paraloka, Paramatma, anaanzisha dharma yake, ambayo inaweza kupungua duniani lakini kamwe isiangamie. Upungufu kama huo unapotokea, Paramatma hupata mwili kama Bhagavan ili kuimarisha dharma hizi. Kadiri dharma zinavyodhoofika, adharma huongezeka. Dharma ni za kimungu, za Mungu, wakati adharma zinahusishwa na Shetani. Paramatma hupanda mbegu za dharma, ambapo Shetani hupanda zile za adharma. Juu ya mwili wa Paramatma wa kidunia ili kutoa dharma Yake, Shetani anachukua sura mbalimbali kama vile wasomi, Mafarisayo, walimu, na swami. Kwa sura hii, Shetani anatoa toleo lake mwenyewe la hekima, akiwashawishi wanadamu kwamba dharma zake ni sawa na dharma za Mungu.
 
-  People are often drawn to swamis, gurus, and babas who consistently operate under Maya’s influence, rather than the infrequent appearance of an unidentified Bhagavan who arrives once in a thousand years. While God manifests in one place at a time, Satan is born in various forms across many places, assuming roles such as swamis, gurus, and babas, actively diminishing God’s dharmas. Similar to a field overrun with weeds affecting the growth of trees planted by a farmer, the influence of Satan proliferates around God’s planted dharmas. To counter this, God, akin to a diligent farmer, intervenes by uprooting the weeds, including their roots, to fortify the trees He has sown. However, over time, many weeds may resurface without any intentional sowing. Paramatma, likened to a farmer, initially planted His dharmas. Satan, in turn, fosters weeds (adharmas) around God’s plants (dharmas). The natural weakening of God’s plant occurs under the influence of Maya’s weeds. To address this, God intervenes, <b>extracting many of Maya’s dharmas</b> that have encroached upon His dharmas. This aligns with the essence of Jesus’ statement—God dismantles Satan’s dharmas undermining His own, thereby reinforcing and fortifying His divine principles.
+  Dharma za Maya (Shetani) mara kwa mara hudhoofisha dharma za Paramatma. Wengine wanaweza kuhoji kwa nini dharma za Maya zinaweza kudhoofisha dharma zenye nguvu za Mungu. Paramatma, kama Baba wa Paraloka, anapata mwili kama Bhagavan katika mahali maalum na wakati wa kueneza dharma zake. Ingawa dharma hizi zinaweza kupata nguvu katika kipindi hicho, zinapungua baada ya miaka elfu chache. Hii ni kwa sababu kurudi kwa Mungu kama Bhagavan hutokea pale tu inapoonekana kuwa ni muhimu. Kinyume chake, Maya daima hutengeneza gurus na swami, akiwasadikisha kwamba hekima yake ni sawa na hekima ya Mungu. Kupitia kwao, Maya hueneza dharma zake kila wakati, kuhakikisha ushawishi unaoendelea Duniani.
+
+  Watu mara nyingi huvutiwa na swamis, gurus, na baba ambao mara kwa mara hufanya kazi chini ya ushawishi wa Maya, badala ya kuonekana mara kwa mara kwa Bhagavan asiyejulikana ambaye hufika mara moja katika miaka elfu. Wakati Mungu anajidhihirisha katika sehemu moja kwa wakati, Shetani anazaliwa kwa namna mbalimbali katika sehemu nyingi, akichukua majukumu kama vile swamis, gurus, na baba, akipunguza kwa bidii dharma za Mungu. Sawa na shamba lililojaa magugu yanayoathiri ukuzi wa miti iliyopandwa na mkulima, ushawishi wa Shetani unaenea karibu na dharma zilizopandwa za Mungu. Ili kukabiliana na hilo, Mungu, sawa na mkulima mwenye bidii, anaingilia kati kwa kung&rsquo;oa magugu, kutia ndani mizizi yake, ili kuimarisha miti ambayo Amepanda. Walakini, baada ya muda, magugu mengi yanaweza kuibuka tena bila kupanda kwa makusudi. Paramatma, iliyofananishwa na mkulima, hapo awali ilipanda dharma Zake. Shetani naye anakuza magugu (adharmas) kuzunguka mimea ya Mungu (dharmas). Udhaifu wa asili wa mmea wa Mungu hutokea chini ya ushawishi wa magugu ya Maya. Ili kukabiliana na hili, Mungu anaingilia kati,<strong>kuchimba dharma nyingi za Maya </strong>ambao wameingilia dharma Zake. Hili linapatana na kiini cha kauli ya Yesu&mdash;Mungu anasambaratisha dharma za Shetani zinazodhoofisha Wake, na hivyo kuimarisha na kuimarisha kanuni Zake takatifu.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 43,
-verse: `<b>(42) The Gospel of Mathew, 15th chapter, 14th verse.</b>`,
+verse: `<b>(42) Injili ya Mathayo, sura ya 15, mstari wa 14.</b>`,
 meaning: `<b>
-(14) Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit. </b>`,
+(15:14) Waacheni; hao ni viongozi vipofu. Kipofu akimwongoza kipofu, wote wawili watatumbukia shimoni. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Individuals under the influence of Maya, including Pandits and Pharisees, who are themselves part of Maya, criticized Bhagavan Jesus without comprehending God’s wisdom. They are unaware of God’s wisdom, lacking any insight into divine wisdom. They remain blind without wisdom sight. How can those devoid of God’s wisdom proclaim and guide others in it? They pretend to have wisdom sight and spread what they perceive as God’s wisdom. People, trusting these apparent seers, seek guidance, assuming they possess complete knowledge of God’s wisdom. Unbeknownst to them, these leaders themselves are blind. Imagine a scenario where a blind person leads others who are also blind, claiming to have sight and guiding them along the way. Inevitably, the blind leader stumbles into pit, leading the others into the same predicament. Similarly, those ignorant of God’s wisdom mock those with true wisdom, proclaiming themselves as great gurus. Those with wisdom need not engage in argument with them. Individuals lacking wisdom-sight cannot ascend to the pinnacle of moksham. Although many may follow a guru lacking wisdom-sight, none attains moksham; instead, they fall into the <b>pit of gunas.</b>
+<div class="poem"><div class="poemtext">
+  Watu binafsi chini ya ushawishi wa Maya, kutia ndani Pandits na Mafarisayo, ambao wenyewe ni sehemu ya Maya, walimchambua Bhagavan Yesu bila kuelewa hekima ya Mungu. Hawajui hekima ya Mungu, hawana ufahamu wowote wa hekima ya kimungu. Wanabaki vipofu bila kuona hekima. Wale wasio na hekima ya Mungu wanawezaje kutangaza na kuwaongoza wengine ndani yake? Wanajifanya kuwa wanaona hekima na kueneza kile wanachokiona kuwa hekima ya Mungu. Watu, wakiwatumaini hawa waonaji wa dhahiri, wanatafuta mwongozo, wakidhani wana ujuzi kamili wa hekima ya Mungu. Bila wao kujua, hawa viongozi wenyewe ni vipofu. Hebu wazia kisa ambapo kipofu anaongoza wengine ambao pia ni vipofu, akidai kuwa wanaona na kuwaongoza njiani. Bila kuepukika, kiongozi kipofu anajikwaa shimoni, akiwaongoza wengine katika hali hiyo hiyo. Vivyo hivyo, wale wasiojua hekima ya Mungu huwadhihaki wale walio na hekima ya kweli, wakijitangaza kuwa magwiji wakubwa. Wale walio na hekima hawahitaji kubishana nao. Watu wasio na hekima ya kuona hawawezi kupanda hadi kilele cha moksham. Ingawa huenda wengi wakamfuata gwiji ambaye hana uwezo wa kuona, hakuna anayepata moksham; badala yake, wanaanguka kwenye<strong>shimo la gunas.</strong>
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 44,
-verse: ` <b>(43) The Gospel of Mathew, 16th chapter, 21st and 22nd verses.<br>
-The Gospel of Mathew, 17th chapter, verses 22nd and 23rd verses.
+verse: ` <b>(43) Injili ya Mathayo, sura ya 16, aya ya 21 na 22.<br>
+Injili ya Mathayo, sura ya 17, aya ya 22 na 23.
 <br>
-The Gospel of Mathew, 20th chapter, verses 17th, 18th and 19th verses.</b>
+Injili ya Mathayo, sura ya 20, aya ya 17, 18, na 19.</b>
 `,
 meaning: ` <b>
-(16:21) From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief priests, and the teachers of the law, and that he must be killed and on the third day be raised to life. (First time)
+(16:21) Tangu wakati huo Yesu alianza kuwaeleza wanafunzi wake kwamba imempasa kwenda Yerusalemu na kupata mateso mengi kwa wazee na makuhani wakuu na walimu wa sheria, na kwamba lazima auawe. na siku ya tatu atafufuliwa. (Mara ya kwanza)
 <br><br>
-(16:22) Peter took him aside and began to rebuke him. “Never, Lord!” he said. “This shall never happen to you!”
+(16:22) Petro akamchukua kando na kuanza kumkemea. “Kamwe, Bwana!” Alisema. "Hii haitatokea kwako kamwe!"
 <br><br>
-(17:22) When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men.”
+(17:22) Hata walipokusanyika Galilaya, aliwaambia, Mwana wa Adamu anakwenda kutiwa katika mikono ya watu.
 <br><br>
-(17:23) They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief. (Second time)
+(17:23) Watamwua, na siku ya tatu atafufuliwa. Wanafunzi wakajawa na huzuni. (Mara ya pili)
 <br><br>
-(20:17) Now Jesus was going up to Jerusalem. On the way, he took the Twelve aside and said to them.
+(20:17) Sasa Yesu alikuwa akipanda kwenda Yerusalemu. Walipokuwa njiani, aliwachukua wale kumi na wawili kando, akawaambia.
 <br><br>
-(20:18) We are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death.
+(20:18) Tunapanda kwenda Yerusalemu, na Mwana wa Adamu atatiwa mikononi mwa makuhani wakuu na walimu wa sheria. Watamhukumu kifo.
 <br><br>
-(20:19) They will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!” (Third time)
+(20:19) Watamkabidhi kwa watu wa Mataifa ili wadhihakiwe na kupigwa mijeledi na kusulubiwa. Siku ya tatu atafufuliwa! (Mara ya tatu)
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus, in chapters 16, 17, and 20 of the Gospel of Matthew, foretold His own future. It is uncommon for ordinary humans to predict the time of their death, given the uncertainty and unknown nature of the future. Jesus, however, disclosed the circumstances of His death not just once but three times, showcasing something extraordinary within Him. This act served to demonstrate to the unaware that He was more than a mere human being. The ability to speak about one’s death in such detail is a rarity, but Jesus could do so because He had preordained His demise. Atma stands as the sole determiner of life’s karma within the body.
+<div class="poem"><div class="poemtext">
+  Yesu, katika sura ya 16, 17, na 20 ya Injili ya Mathayo, alitabiri wakati Wake mwenyewe ujao. Ni kawaida kwa wanadamu wa kawaida kutabiri wakati wa kifo chao, kutokana na kutokuwa na uhakika na asili isiyojulikana ya wakati ujao. Hata hivyo, Yesu alifichua hali za kifo Chake si mara moja tu bali mara tatu, akionyesha jambo lisilo la kawaida ndani Yake. Kitendo hiki kilitumika kudhihirisha kwa wasiojua kwamba Yeye alikuwa zaidi ya mwanadamu tu. Uwezo wa kusema juu ya kifo cha mtu kwa undani kama huo ni jambo la kawaida sana, lakini Yesu angeweza kufanya hivyo kwa sababu alikuwa amepanga mapema kifo chake. Atma inasimama kama kiamua pekee cha karma ya maisha ndani ya mwili.
 
-  Jesus, on three separate occasions, explicitly spoke about His impending death. His ability to foretell His fate stemmed from His predetermined karma. According to Jesus, Atma—the judge of karma—is the Son of Paramatma. Jesus consistently asserted that His Father is the Holy Spirit, identifying Himself as the Atma responsible for determining karma. Having decided His life’s karma, Jesus prophesied that He would be handed over to the elders and chief priests, be killed by them, and rise to life on the third day. Remarkably, these events unfolded exactly as He had predicted. Jesus spoke about His death without fear, a demonstration that every discerning individual can recognize, indicating that Jesus was no ordinary man; there was something extraordinary about Him.
+  Yesu, katika matukio matatu tofauti, alizungumza waziwazi kuhusu kifo chake kinachokuja. Uwezo wake wa kutabiri hatima Yake inatokana na karma Yake iliyoamuliwa kimbele. Kulingana na Yesu, Atma—hakimu wa karma—ni Mwana wa Paramatma. Yesu alisisitiza mara kwa mara kwamba Baba Yake ni Roho Mtakatifu, akijitambulisha kuwa Atma anayehusika na kuamua karma. Baada ya kuamua karma ya maisha yake, Yesu alitabiri kwamba angekabidhiwa kwa wazee na makuhani wakuu, watauawa nao, na kufufuka siku ya tatu. Ajabu, matukio haya yalijidhihirisha sawasawa na alivyotabiri. Yesu alizungumza juu ya kifo Chake bila woga, wonyesho ambao kila mtu mwenye utambuzi anaweza kutambua, akionyesha kwamba Yesu hakuwa mtu wa kawaida; kulikuwa na jambo lisilo la kawaida juu Yake.
+
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 45,
-verse: `<b>(44)	The Gospel of Mathew, 19th chapter, 23rd and 24th verses.</b>`,
+verse: `<b>(44)	Injili ya Mathayo, sura ya 19, aya ya 23 na 24.</b>`,
 meaning: `<b>
-(23) Then Jesus said to his disciples, “Truly I tell you; it is hard for someone who is rich to enter the kingdom of paraloka.
+(19:23) Kisha Yesu akawaambia wanafunzi wake, Amin, nawaambia; ni vigumu kwa mtu tajiri kuingia katika ufalme wa paraloka.
 <br><br>
-(24) Again, I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.
+(19:24) Tena, nawaambieni, ni rahisi zaidi ngamia kupenya tundu la sindano, kuliko tajiri kuingia katika ufalme wa Mungu.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Jesus conveyed a parable, stating, <b>“It is easier for a camel to pass through the eye of a needle than for a wealthy person to enter the kingdom of God.”</b> Just as it is impossible for a camel to navigate the eye of a needle, similarly, it is challenging for a rich individual to enter the kingdom of God. Some elders believe that wealth often begets arrogance, a trait considered one of the six negative qualities (gunas). Arrogance, the fifth of these qualities, accompanies greed (kaama), anger (krodha), avarice (lobha), passion (moha), and jealousy (matsara). Arrogance is present to varying degrees in every individual. Whether it be at 90%, 80%, 70%, 60%, 50%, 40%, or 30%, everyone possesses some level of arrogance. One person may exhibit 90% arrogance, while another might have 80%, and some may express as little as 30% arrogance.
+<div class="poem"><div class="poemtext">
+  Yesu alitoa mfano, akisema,<strong>"Ni rahisi zaidi ngamia kupita katika tundu la sindano kuliko tajiri kuingia katika ufalme wa Mungu.&rdquo;</strong>Ndivyo ilivyo haiwezekani kwa ngamia kupita kwenye tundu la sindano, vivyo hivyo, ni changamoto kwa mtu tajiri kuingia katika ufalme wa Mungu. Wazee wengine wanaamini kwamba mara nyingi utajiri huzaa kiburi, sifa inayozingatiwa kuwa moja ya sifa sita mbaya (gunas). Ujeuri, sifa ya tano kati ya hizi, huambatana na uchoyo (kaama), hasira (krodha), avarice (lobha), shauku (moha), na wivu (matsara). Kiburi kipo kwa viwango tofauti kwa kila mtu. Iwe kwa 90%, 80%, 70%, 60%, 50%, 40%, au 30%, kila mtu ana kiwango fulani cha kiburi. Mtu mmoja anaweza kuonyesha kiburi cha 90%, wakati mwingine anaweza kuwa na 80%, na wengine wanaweza kuonyesha kiburi kidogo cha 30%.
 
-  Not only does arrogance shape the thoughts of the Jeevatma within the body, but the other five associated gunas also play a significant role. The level of arrogance can vary, and it's observed that the poor generally exhibit less arrogance than the rich. The wealthier an individual is, the higher their level of arrogance tends to be. Someone with millions of dollars may manifest an even greater degree of arrogance and be more influenced by the other gunas. Wealth has the power to bring about significant changes in a person, often leading them away from wisdom. In the context of <b>moksham</b> being likened to the eye of a needle, the analogy extends to the rich being comparable to a camel. Just as a camel cannot pass through the eye of a needle, a wealthy person, with the strong influence of gunas akin to a camel, faces challenges in attaining liberation. The analogy emphasizes that just as a camel cannot fit through the eye of a needle, a wealthy person, under the influence of powerful <b>gunas,</b> encounters obstacles in entering paraloka (moksham).
+  Sio tu kwamba kiburi hutengeneza mawazo ya Jeevatma ndani ya mwili, lakini bunduki zingine tano zinazohusiana pia zina jukumu muhimu. Kiwango cha kiburi kinaweza kutofautiana, na inazingatiwa kuwa maskini kwa ujumla huonyesha kiburi kidogo kuliko matajiri. Kadiri mtu anavyokuwa tajiri, ndivyo kiwango chao cha kiburi kinavyoelekea kuwa juu. Mtu mwenye mamilioni ya dola anaweza kujidhihirisha kwa kiwango kikubwa zaidi cha kiburi na kuathiriwa zaidi na gunas nyingine. Utajiri una uwezo wa kuleta mabadiliko makubwa kwa mtu, mara nyingi huwapeleka mbali na hekima. Katika muktadha wa<strong>moksham</strong>kufananishwa na tundu la sindano, mlinganisho huo unaenea hadi kwa matajiri kulinganishwa na ngamia. Kama vile ngamia hawezi kupita kwenye tundu la sindano, mtu tajiri, akiwa na uvutano mkubwa wa bunduki kama ngamia, hukabili changamoto katika kupata ukombozi. Mfano huo unasisitiza kwamba kama vile ngamia hawezi inafaa kupitia tundu la sindano, mtu tajiri, <strong>kwa ushawishi mkubwa wa gunas sawa na ngamia</strong>, hukutana na vikwazo katika kuingia paraloka (moksham).
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 46,
-verse: `<b>(45)	The Gospel of Mathew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>`,
+verse: `<b>(45)	Injili ya Mathayo, sura ya 22, 36, 37, 38, 39 na 40 mistari.</b>`,
 meaning: `<b>
-(36) Teacher, which is the greatest commandment in the Law (Dharma Shastra)?
+(22:36) Mwalimu, ni amri ipi iliyo kuu zaidi katika Sheria ( Dharma Shastra )?
 <br><br>
-(37) Jesus replied: “Love the Lord your God with all your heart and with all your soul and with all your mind.”
+(22:37) Yesu alijibu hivi: “Mpende Bwana Mungu wako kwa moyo wako wote na kwa roho yako yote na kwa akili yako yote.”
 <br><br>
-(38) This is the first and greatest commandment.
+(22:38) Hii ndiyo amri kuu na ya kwanza.
 <br><br>
-(39) And the second is like it: ‘Love your neighbor as yourself.’
+(22:39) Na ya pili inafanana nayo: Mpende jirani yako kama nafsi yako.
 <br><br>
-(40) All the Law and the Prophets hang on these two commandments.    </b>`,
+(22:40) Sheria yote na Manabii hutegemea amri hizi mbili. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some people approached Jesus, posing a question about the most crucial commandment in the law (Dharma Shastra), with the intention to test and potentially mock Him if He stumbled. In response, Jesus promptly answered, <b>“Love the Lord your God with all your heart, soul, and mind.”</b> He emphasized that this directive was the primary and greatest commandment, followed by a second commandment. The use of the term ‘commandment’ in this verse underscores its significance, with Jesus asserting that these two commandments serve as the foundation for all the law and the Prophets. This verse is explained as follows.
+<div class="poem"><div class="poemtext">
+  Baadhi ya watu walimwendea Yesu, wakimuuliza swali kuhusu amri muhimu zaidi katika sheria (Dharma Shastra), kwa nia ya kumjaribu na uwezekano wa kumdhihaki ikiwa atajikwaa. Yesu akajibu mara moja,<strong>"Upendo wa</strong><strong>Bwana Mungu wako kwa moyo wako wote, na kwa roho yako yote, na kwa akili zako zote.&rdquo;</strong>Alisisitiza kwamba agizo hili lilikuwa amri kuu na kuu zaidi, ikifuatwa na amri ya pili. Matumizi ya neno 'amri' katika mstari huu yanasisitiza umuhimu wake, huku Yesu akisisitiza kwamba amri hizi mbili zinatumika kama msingi wa torati yote na Manabii. Aya hii inafafanuliwa kama ifuatavyo.
 
-  A commandment is essentially an instruction given to direct action. In the broader context, the question arises: who is the authority issuing the command? The answer lies in the understanding that elders commonly give commands to the younger. Extending this idea, God, the creator of the world, holds the highest authority, and what He communicates commandingly is considered a <b>commandment</b> or <b>law</b>. This law comprises unalterable acts and is commonly referred to as <b>dharma.</b> The term ‘dharma’ is employed because this law is inherently unchangeable. For instance, the spiciness of a chili pepper is an unalterable characteristic, or dharma, of the chili pepper. This spiciness is consistently present in all chili peppers. So, it can be said that the dharma of the chili peppers is its spiciness. Similarly, sourness is the dharma of tamarind, and bitterness is the dharma of neem.
+  Amri kimsingi ni maagizo yanayotolewa ili kuelekeza hatua. Katika muktadha mpana zaidi, swali linazuka: ni nani mwenye mamlaka anayetoa amri? Jibu linapatikana katika kuelewa kwamba kwa kawaida wazee hutoa amri kwa mdogo. Kuendeleza wazo hili, Mungu, Muumba wa ulimwengu, anayo mamlaka ya juu zaidi, na kile Anachowasilisha kwa amri kinachukuliwa kuwa<strong>amri</strong>au<strong>sheria</strong>. Sheria hii inajumuisha vitendo visivyobadilika na kwa kawaida hujulikana kama<strong>dharma</strong>. Neno 'dharma' limetumika kwa sababu sheria hii kwa asili haiwezi kubadilika. Kwa mfano, utomvu wa pilipili ni tabia isiyoweza kubadilika, au dharma, ya pilipili. Spiciness hii iko mara kwa mara katika pilipili zote za pilipili. Kwa hivyo, inaweza kusemwa kwamba dharma ya pilipili ni utomvu wake. Vile vile, uchungu ni dharma ya ukwaju, na uchungu ni dharma ya mwarobaini.
 
-  Dharma encompasses a set of rules and regulations. If one asks who has dharma, then anything that is created has dharma, just as the created tamarind, chili, and neem have dharma. Since God is the creator of creation, He does not possess any dharmas. The creator God stands beyond the constraints of dharma. Both Atma and Jeevatma, excluding God, are subject to dharmas. Additionally, the created Prakruti also possesses its own set of dharmas. To grasp Brahma Vidya or spiritual education, understanding the dharmas of Atma and Jeevatma becomes crucial. Jeevatma, specifically intended to comprehend Brahma Vidya, <b>only needs to be acquainted with the dharma of Atma.</b>
+  Dharma inajumuisha seti ya sheria na kanuni. Ikiwa mtu atauliza ni nani aliye na dharma, basi chochote kilichoumbwa kina dharma, kama vile tamarind, pilipili na mwarobaini vilivyoumbwa. dharma. Kwa vile Mungu ndiye muumbaji wa uumbaji, hana dharma yoyote. Muumba Mungu anasimama zaidi ya vikwazo vya dharma. Atma na Jeevatma, isipokuwa Mungu, wako chini ya dharmas. Zaidi ya hayo, Prakruti iliyoundwa pia ina seti yake ya dharma. Ili kufahamu Brahma Vidya au elimu ya kiroho, kuelewa dharmas ya Atma na Jeevatma inakuwa muhimu. Jeevatma, iliyokusudiwa haswa kuelewa Brahma Vidya,<strong>inahitaji tu kufahamiana na dharma ya Atma.</strong>
 
-  In this verse, the method of understanding Atma is highlighted as significant. The Dharma Shastra delves into the nature of Atma, with the foremost dharma outlined as <b>“Loving the Lord your God is the first and greatest commandment.”</b> The Lord referred to here is primarily the one who is born. Jesus emphasized that the paramount commandment is to love the God who is born. However, a question arises: when God is the creator, uncreated, and devoid of dharma, how can the primarily born (the Lord) also be considered God? The dilemma centers around whether the self-existent is God or the one born is God. The answer to this quandary is elucidated as follows.
+  Katika aya hii, njia ya kuelewa Atma imeangaziwa kuwa muhimu. Dharma Shastra inachunguza asili ya Atma, na dharma ya kwanza iliyoainishwa kama<strong>"Kumpenda Bwana, Mungu wako, ndiyo amri kuu na ya kwanza.&rdquo;</strong>Bwana anayerejelewa hapa kimsingi ni yule anayezaliwa. Yesu alikazia kwamba amri kuu ni kumpenda Mungu anayezaliwa. Hata hivyo, swali linazuka: wakati Mungu ni muumbaji, ambaye hajaumbwa, na asiye na dharma, ni jinsi gani yule aliyezaliwa kimsingi (Bwana) anaweza pia kuchukuliwa kuwa Mungu? Mtanziko unajikita kuzunguka kama aliyepo mwenyewe ni Mungu au aliyezaliwa ni Mungu. Jibu la utata huu linafafanuliwa kama ifuatavyo.
 
-  God, the unborn and creator, did not undergo a birth. Initially, God created Prakruti. Following the creation of Prakruti, God (Paramatma) intended to bring forth living beings. Once Prakruti was formed, God chose not to engage in direct action. After creating the five elements—Sky, Air, Fire, Water, and Earth—God desired a state of inactivity. When God wished to manifest in a form, <b>Atma</b> (the Lord) came into existence to create, govern, and, ultimately, terminate living beings. Atma formulates rules and oversees the cycle of life and death for all living things. Since Atma is the creator of all living beings, it is fitting to refer to Atma as God. <b>Consequently, God, the creator of Prakruti, is recognized as the primary entity, while God, the creator of living organisms within Prakruti, is acknowledged as the secondary entity.</b>
+  Mungu, ambaye hajazaliwa na muumbaji, hakupata kuzaliwa. Hapo awali, Mungu aliumba Prakruti. Kufuatia uumbaji wa Prakruti, Mungu (Paramatma) alikusudia kuleta viumbe hai. Mara tu Prakruti ilipoundwa, Mungu alichagua kutojihusisha nayo hatua ya moja kwa moja. Baada ya kuumba vile vitu vitano&mdash;Anga, Hewa, Moto, Maji, na Dunia&mdash;Mungu alitamani hali ya kutotenda. Mungu alipotaka kudhihirika kwa namna,<strong>Atma</strong>(Bwana) alikuwepo ili kuumba, kutawala, na, hatimaye, kuwakomesha viumbe hai. Atma hutengeneza sheria na kusimamia mzunguko wa maisha na kifo kwa vitu vyote vilivyo hai. Kwa kuwa Atma ndiye muumbaji wa viumbe vyote hai, inafaa kutaja Atma kama Mungu.<strong>Kwa hivyo, Mungu, muumbaji wa Prakruti, anatambuliwa kama chombo kikuu, wakati Mungu, muumbaji wa viumbe hai ndani ya Prakruti, anakubaliwa kama chombo cha pili.</strong>
 
-  The first God, recognized as Paramatma, created Atma, is God to Atma, and remains distinct from Atma. The second God, known as Atma, is the creator of living beings. Although both Paramatma and Atma function as creators and Gods, <b>the first God (Paramatma) is beyond dharmas, while the second God (Atma) adheres to dharmas. The God without dharmas is the primary creator, whereas the God with dharmas is the secondary creator.</b> No one knows that there are two Gods in the world. Even though there are two Gods, with the first God being the greatest, Atma holds a special significance to humans as the creator of human beings. It is essential for humans to worship Atma exclusively. Individuals are encouraged to understand the dharmas associated with the second God. Importantly, all the dharmas revealed in scriptures are centered around Atma.
+  Mungu wa kwanza, anayetambuliwa kama Paramatma, aliumba Atma, ni Mungu kwa Atma, na anabaki tofauti na Atma. Mungu wa pili, anayejulikana kama Atma, ndiye muumbaji wa viumbe hai. Ingawa Paramatma na Atma zinafanya kazi kama waumbaji na Miungu,<strong>Mungu wa kwanza (Paramatma) yuko zaidi ya dharmas, wakati Mungu wa pili (Atma) anashikamana na dharmas. Mungu asiye na dharma ndiye muumbaji mkuu, ambapo Mungu aliye na dharmas ndiye muumbaji wa pili. </strong>Hakuna anayejua kwamba kuna Miungu miwili duniani. Ingawa kuna Miungu miwili, Mungu wa kwanza akiwa mkuu zaidi, Atma ana umuhimu wa pekee kwa wanadamu kama muumbaji wa wanadamu. Ni muhimu kwa wanadamu kuabudu Atma pekee. Watu binafsi wanahimizwa kuelewa dharmas zinazohusiana na Mungu wa pili. Muhimu zaidi, dharma zote zilizofunuliwa katika maandiko zimezingatia Atma.
 
-  If a person desires to worship and pray, it is directed towards the second God, Atma. No one can worship the first God. It is not possible for anyone to pray or worship Him. Worship and prayer to the first God are deemed unnecessary, for this <b>God neither begets nor is born,</b> as emphasized in the final scripture. Surah 112 further reinforces that <b>the first God is indifferent to prayers.</b> It is noteworthy that both Christians and Muslims may not recognize the existence of two Gods (two Allahs), as they uphold the belief in a singular God whom they worship. However, the distinction between <b>the God to be worshipped and the initial creator God</b> is often overlooked. The Hindus are unaware of God but worship many deities and walk in the wrong path (ignorant path) altogether.
+  Ikiwa mtu anataka kuabudu na kuomba, inaelekezwa kwa Mungu wa pili, Atma. Hakuna awezaye kumwabudu Mungu wa kwanza. Haiwezekani mtu yeyote kumuomba au kumwabudu. Ibada na maombi kwa Mungu wa kwanza huchukuliwa kuwa sio lazima, kwa hili<strong>Mungu hazai wala hazaliwi</strong>, kama inavyokaziwa katika andiko la mwisho. Sura ya 112 inasisitiza zaidi hilo<strong>Mungu wa kwanza hajali maombi</strong>. Inastahiki kujua kwamba Wakristo na Waislamu wote wanaweza wasitambue kuwepo kwa Miungu wawili (Allah wawili), kwa vile wanashikilia imani ya Mungu mmoja ambaye wanamwabudu. Hata hivyo, tofauti kati ya<strong>Mungu wa kuabudiwa na muumba wa mwanzo</strong>mara nyingi hupuuzwa. Wahindu hawamjui Mungu lakini wanaabudu miungu mingi na wanatembea katika njia mbaya (njia ya ujinga) kabisa.
 
-  The first God transcends the realm of dharmas, making Him unknowable and beyond worship. To worship Atma, the God governed by dharmas, specific elements of the human body become essential. According to the Dharma Shastra, it is crucial for Jeeva to worship Atma, the God, using both manas and buddhi. This becomes significant dharma. The verse emphasizes, <b>“Love Atma, the God, with all your heart, soul, and mind,”</b> where love is interpreted as worship. This stands as the foremost commandment or dharma. <b>Interpreting the commandment as dharma, ‘all your heart’ signifies all your buddhi, and ‘all your soul’ refers to you, Jeeva. Love, in this context, implies worship. In the Dharma Shastra, it is said that you should worship Atma, the God, with your mind and your buddhi.</b> With the mention of the second commandment, let us delve into what it entails.
+  Mungu wa kwanza anavuka eneo la dharmas, na kumfanya asijulikane na zaidi ya ibada. Kuabudu Atma, Mungu anayetawaliwa na dharmas, vipengele maalum vya mwili wa mwanadamu huwa muhimu. Kulingana na Dharma Shastra, ni muhimu kwa Jeeva kumwabudu Atma, Mungu, kwa kutumia manas na buddhi. Hii inakuwa dharma muhimu. Aya inasisitiza,<strong>"Mpende Atma, Mungu, kwa moyo wako wote, nafsi yako yote na akili zako zote,&rdquo; </strong>ambapo upendo hufasiriwa kama ibada. Hii inasimama kama amri kuu au dharma<strong>. Kufasiri amri kama dharma, 'moyo wako wote' inaashiria buddhi yako yote, na 'nafsi yako yote' inarejelea wewe, Jeeva. Upendo, katika muktadha huu, unamaanisha kuabudu. Katika Dharma Shastra, inasemekana kwamba unapaswa kumwabudu Atma, Mungu, kwa akili yako</strong><strong>na buddhi wako.</strong>Kwa kutajwa kwa amri ya pili, hebu tuzame katika kile inachohusisha.
 
-  The second commandment instructs, <b>“Love your neighbor as yourself.”</b> These two commandments form the cornerstone of the Dharma Shastra and the teachings of the Prophets, as stated in the verse. Essentially, they serve as the foundation for the dharmas within the realm of Brahma Vidya and the guidance provided by the Prophets in imparting these dharmas. The verse subtly suggests that self-love and the prioritization of personal well-being are universal tendencies. When faced with threats, individuals exhibit an innate instinct to safeguard their own lives, often going to extraordinary lengths, even at the cost of sacrificing possessions. The profound hope individuals harbor for their own lives is evident in their prayers to various deities and their willingness to undertake any measure to ensure their well-being. This observation highlights the innate tendency of individuals to prioritize self-love. The verse instructs, “Love your neighbor as yourself,” emphasizing the imperative to extend the same degree of care and consideration to one’s neighbor as one inherently seeks for their own well- being and values their own life.
+  Amri ya pili inaagiza,<strong>"Mpende jirani yako kama nafsi yako.&rdquo;</strong>Amri hizi mbili zinaunda msingi wa Dharma Shastra na mafundisho ya Mitume, kama ilivyoelezwa katika aya. Kimsingi, zinatumika kama msingi wa dharma ndani ya eneo la Brahma Vidya na mwongozo uliotolewa na Mitume katika kutoa dharma hizi. Mstari huo unapendekeza kwa hila kwamba kujipenda na kutanguliza ustawi wa kibinafsi ni mielekeo ya ulimwengu mzima. Wanapokabiliwa na vitisho, watu huonyesha silika ya asili ya kulinda maisha yao wenyewe, mara nyingi wakifanya bidii kupita kawaida, hata kwa gharama ya kudhabihu mali. Tumaini kuu ambalo watu binafsi wanalo kwa ajili ya maisha yao linaonekana wazi katika sala zao kwa miungu mbalimbali na utayari wao wa kuchukua hatua yoyote ili kuhakikisha hali njema yao. Uchunguzi huu unaangazia tabia ya asili ya watu kutanguliza kujipenda. Mstari huo unaagiza, &ldquo;Mpende jirani yako kama nafsi yako,&rdquo; ukikazia sharti la kupanua kiwango kilekile cha utunzaji na ufikirio kwa jirani kama mtu anavyotafuta kwa asili ustawi wake na kuthamini maisha yake mwenyewe.
 
-  While the conventional understanding of a ‘neighbor’ often refers to someone living next door, the verse, “Love your neighbor as yourself” urges us to extend love to the one very close to us, not our next-door neighbor. Delving deeper, the verse prompts reflection on who our neighbor truly is. According to the verse, aside from your <b>Atma,</b> there is no one else within your body. If you identify as a soul (Jeevatma), there is another soul akin to you — the second God, Atma. In total, there are only three souls, signifying two souls besides yourself, with one being Paramatma. However, referring to Paramatma as your neighbor is impractical since He is omnipresent and all-pervading. Excluding Paramatma, the remaining Atma is your neighbor. This concept aligns with the understanding that, except for Atma and Paramatma, all of creation is considered feminine Prakruti, with Atma and Paramatma representing the masculine aspect.
+  Ingawa uelewaji wa kawaida wa 'jirani' mara nyingi hurejelea mtu anayeishi jirani, mstari, &ldquo;Mpende jirani yako kama wewe mwenyewe&rdquo; unatuhimiza tuonyeshe upendo kwa yule aliye karibu naye. karibu nasi, sio jirani yetu wa karibu. Tukitafakari kwa undani zaidi, mstari huo unachochea kutafakari kuhusu jirani yetu ni nani hasa. Kulingana na aya hiyo, kando na yako<strong>Atma</strong>, hakuna mwingine ndani ya mwili wako. Ikiwa unatambua kama nafsi (Jeevatma), kuna nafsi nyingine sawa na wewe - Mungu wa pili, Atma. Kwa jumla, kuna nafsi tatu tu, zikiashiria nafsi mbili zaidi yako mwenyewe, na moja ikiwa Paramatma. Walakini, kurejelea Paramatma kama jirani yako haiwezekani kwani Yeye yuko kila mahali na anaenea kote. Ukiondoa Paramatma, Atma iliyobaki ni jirani yako. Dhana hii inalingana na ufahamu kwamba, isipokuwa kwa Atma na Paramatma, uumbaji wote unachukuliwa kuwa Prakruti ya kike, huku Atma na Paramatma wakiwakilisha kipengele cha kiume.
 
-  Atma, being the only masculine entity akin to you, is appropriately deemed your neighbor. The first God, Paramatma, stands beyond the realm of worship, relationships, and dharmas, making Atma the rightful subject of worship. The divine scriptures consistently assert the worthiness of worshiping Atma, labeling Him as <b>‘your Allah.’</b> This declaration is reiterated in Surah 6:102, 3:18, and 16:51. The significance of the two commandments, “Love your neighbor Atma as yourself,” is underscored in the Dharma Shastra. <b>Worshiping Atma emerges as the primary duty of gurus, preachers, and prophets.</b> This is evident in the response Jesus gave to a Pharisee when questioned about the most fundamental dharma in the law. Reflecting on this verse prompts a deeper consideration of the entity you are directing your worship towards.
+  Atma, kuwa chombo pekee cha kiume sawa na wewe, inachukuliwa kuwa jirani yako ipasavyo. Mungu wa kwanza, Paramatma, anasimama zaidi ya eneo la ibada, mahusiano, na dharmas, na kuifanya Atma kuwa somo linalofaa la kuabudiwa. Maandiko matakatifu mara kwa mara yanasisitiza ustahiki wa kumwabudu Atma, yakimtaja Yeye kama<strong>'Mwenyezi Mungu wako.'</strong>Tamko hili limerudiwa katika Sura 6:102, 3:18, na 16:51. Umuhimu wa amri mbili, "Mpende jirani yako Atma kama wewe mwenyewe," unasisitizwa katika Dharma Shastra.<strong>Kuabudu Atma kunaibuka kama jukumu kuu la gurus, wahubiri, na manabii.</strong>Hili linadhihirika katika jibu ambalo Yesu alimpa Mfarisayo alipoulizwa kuhusu dharma ya msingi kabisa katika sheria. Kutafakari aya hii inahimiza kuzingatiwa kwa kina kwa chombo unachoelekeza ibada yako.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 47,
-verse: ` <b>(46)	The Gospel of Mathew, 23rd chapter, 8th, 9th and 10th verses.</b>`,
+verse: ` <b>(46)	Injili ya Mathayo, sura ya 23, mistari ya 8, 9, na 10.</b>`,
 meaning: ` <b>
-(8) “But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.
+(23:8) “Lakini ninyi msiitwe Rabi, kwa maana mnaye Mwalimu mmoja, na ninyi nyote ni ndugu.
 <br><br>
-(9) And do not call anyone on earth ‘father,’ for you have one Father, and he is in paraloka.
+(23:9) Wala msimwite mtu yeyote duniani 'baba,' maana mnaye Baba mmoja, naye yuko katika paraloka.
 <br><br>
-(10) Nor are you to be called instructors, for you have one Instructor, the Messiah. </b>`,
+(23:10) Wala ninyi msiitwe wakufunzi, kwani mnaye Mwalimu mmoja, Masihi. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some may refer to a preacher as a father or consider gurus who preach equal to a father. However, the verse states that no one should be called a preacher. It says not to call anyone Rabbi, as there is only one master, and all others are brothers, as stated in the verse. A preacher is someone who teaches, but the verse refers specifically to one who teaches divine wisdom. According to the verse, only one person knows divine wisdom, and no one else does. Why do the rest of them not know? Who is the one who knows? The answer to those questions is as follows.
+<div class="poem"><div class="poemtext">
+  Wengine wanaweza kurejelea mhubiri kuwa baba au kufikiria gurus wanaohubiri sawa na baba. Hata hivyo, mstari huo unasema kwamba mtu yeyote asiitwe mhubiri. Inasema tusimwite mtu yeyote Rabi, kwani kuna bwana mmoja tu, na wengine wote ni ndugu, kama ilivyoonyeshwa kwenye aya. Mhubiri ni mtu anayefundisha, lakini mstari huo unarejelea haswa mtu anayefundisha hekima ya kimungu. Kulingana na mstari huo, ni mtu mmoja tu anayejua hekima ya kimungu, na hakuna mwingine anayejua. Kwanini hao wengine hawajui? Ni nani anayejua? Majibu ya maswali hayo ni kama ifuatavyo.
 
-  God’s wisdom is not known to anyone except God, as stated in the divine scriptures. It is also mentioned in the divine scriptures that God did not pass His wisdom onto any human being. This means that no person knows God’s wisdom. Therefore, no one can teach God’s wisdom. Hence, you should not be called Rabbi, as stated in the verse. Only God can teach the wisdom of God. Thus, it is said in the verse that your master is only one, and He is God. A human being is not a master (teacher), and all human beings are brethren, as stated in the verse.
+  Hekima ya Mungu haifahamiki kwa yeyote isipokuwa Mwenyezi Mungu, kama ilivyoelezwa katika maandiko matakatifu. Pia imetajwa katika maandiko matakatifu kwamba Mungu hakupitisha hekima yake kwa mwanadamu yeyote. Hii ina maana kwamba hakuna mtu anayejua hekima ya Mungu. Kwa hiyo, hakuna anayeweza kufundisha hekima ya Mungu. Kwa hivyo, hupaswi kuitwa Rabi, kama ilivyoelezwa katika aya. Ni Mungu pekee anayeweza kufundisha hekima ya Mungu. Hivyo, inasemwa katika aya kwamba bwana wako ni mmoja tu, na Yeye ni Mungu. Mwanadamu sio bwana (mwalimu), na wanadamu wote ni ndugu, kama ilivyoelezwa katika aya.
 
-  Everyone has biological parents. Everyone believes that the visible parents from childhood are the real parents. Many elders advise that you should respect your parents. Everyone respects their biological parents. It may be said that there are no other mother or father figures except for the visible parents. All of this is worldly related. However, every man has invisible, unknown parents according to divine wisdom. If asked whether visible parents are real parents or invisible parents are real parents, it becomes evident that invisible parents are real parents. The reason we say this is that the father is the seed donor for every human being. Accordingly, <b>God (Atma), the unseen father, is the seed donor of all living beings.</b> Hence, the invisible father becomes the real father. Whether we know it or not, our birth father is Atma. Therefore, <b>do not call any man your father upon the earth, for one is your father, who is in paraloka,</b> as said in the verse.
+  Kila mtu ana wazazi wa kibiolojia. Kila mtu anaamini kwamba wazazi wanaoonekana tangu utoto ni wazazi halisi. Wazee wengi wanashauri kwamba unapaswa kuwaheshimu wazazi wako. Kila mtu anawaheshimu wazazi wake wa kumzaa. Inaweza kusemwa kuwa hakuna takwimu zingine za mama au baba isipokuwa kwa wazazi wanaoonekana. Yote haya yanahusiana na ulimwengu. Walakini, kila mtu ana wazazi wasioonekana, wasiojulikana kulingana na hekima ya kimungu. Ukiulizwa ikiwa wazazi wanaoonekana ni wazazi halisi au wazazi wasioonekana ni wazazi halisi, inakuwa wazi kwamba wazazi wasioonekana ni wazazi halisi. Sababu ya sisi kusema hivi ni kwamba baba ndiye mtoaji mbegu kwa kila mwanadamu. Kwa hiyo,<strong>Mungu (Atma), baba asiyeonekana, ndiye mtoaji wa mbegu wa viumbe vyote vilivyo hai.</strong>Kwa hiyo, baba asiyeonekana anakuwa baba halisi. Ikiwa tunajua au la, baba yetu mzazi ni Atma. Kwa hiyo,<strong>msimwite mtu baba duniani, maana baba yenu ni mmoja, aliye katika paraloka</strong>, kama ilivyosemwa katika aya hiyo.
 
-  The verse states that the visible preacher is not the true preacher, the biological father is not the actual father, and the visible guru is not the right guru. Many teach something and are called gurus. If you are called a guru, then you are playing a role that is not suitable for you. God alone can come to earth as a Guru at any time. When God incarnates as a human being, He becomes the Guru and teaches wisdom. Therefore, we should understand that <b>the incarnation of God as a man on earth is the true Guru.</b>
-</div></div>
+  Mstari huo unasema kwamba mhubiri anayeonekana sio mhubiri wa kweli, baba wa kibaolojia sio baba halisi, na gwiji anayeonekana sio gwiji anayefaa. Wengi hufundisha kitu na huitwa gurus. Ikiwa unaitwa guru, basi unacheza nafasi ambayo haifai kwako. Mungu pekee ndiye anayeweza kuja duniani kama Guru wakati wowote. Mungu anapopata mwili kama mwanadamu, Anakuwa Guru na kufundisha hekima. Kwa hiyo, tunapaswa kuelewa kwamba<strong>mwili wa Mungu kama mwanadamu duniani ni Guru wa kweli.</strong>
+<div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 48,
-verse: ` <b>(47)	The Gospel of Mathew, 23rd chapter, 15th verse.</b>`,
+verse: ` <b>(47)	Injili ya Mathayo, sura ya 23, aya ya 15.</b>`,
 meaning: `  <b>
-(15) “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.  </b>`,
+(23:15) “Ole wenu walimu wa sheria na Mafarisayo, wanafiki! Unasafiri nchi kavu na baharini ili kupata mwongofu mmoja, na ukifaulu, unawafanya kuwa mtoto wa kuzimu maradufu kuliko wewe.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Religion did not exist until three thousand years after Kali Yuga. Two thousand years ago, when Christianity was born, Christians initially emerged as groups and later formed a Christian community. After some time, the Christian community claimed itself to be a Christian religion. Thus, the first religion was born. After claiming to be a Christian religion, they tried to expand their faith. Others later identified themselves as a religion based on their teachings. Thus, religions were created one after the other. Very soon, twelve religions formed on earth. After the creation of religions, some people became involved in expanding their faiths. They traveled over land and sea to convert others to their religion.
+<div class="poem"><div class="poemtext">
+Dini haikuwepo hadi miaka elfu tatu baada ya Kali Yuga. Miaka elfu mbili iliyopita, Ukristo ulipozaliwa, Wakristo waliibuka kuwa vikundi na baadaye wakaunda jumuiya ya Kikristo. Baada ya muda, jumuiya ya Kikristo ilijidai kuwa dini ya Kikristo. Hivyo, dini ya kwanza ilizaliwa. Baada ya kudai kuwa dini ya Kikristo, walijaribu kupanua imani yao. Wengine baadaye walijitambulisha kuwa dini iliyotegemea mafundisho yao. Hivyo, dini ziliundwa moja baada ya nyingine. Hivi karibuni, dini kumi na mbili ziliundwa duniani. Baada ya kuanzishwa kwa dini, baadhi ya watu walishiriki katika kupanua imani zao. Walisafiri nchi kavu na baharini ili kuwaongoa wengine kwenye dini yao.
 
-  Religion is created by people’s will, not by God’s wisdom. In these religions created by people, there appears to be divine wisdom, but the wisdom in them is contrary to the wisdom revealed by God. Hence, a person who relies on divine wisdom and scripture, regardless of religion, will understand God’s teachings and wisdom. If a person is tied to religion and claims to belong to a specific religious group, they will understand Maya’s wisdom. If a person embraces religion, he will become entangled in sin. On the other hand, a person without religious affiliation will be eligible to enter the kingdom of paraloka.
+Dini inaundwa na mapenzi ya watu, si kwa hekima ya Mungu. Katika dini hizi zilizoundwa na watu, inaonekana kuna hekima ya kimungu, lakini hekima ndani yake ni kinyume na hekima iliyofunuliwa na Mungu. Kwa hiyo, mtu anayetegemea hekima na maandiko ya kimungu, bila kujali dini, ataelewa mafundisho na hekima ya Mungu. Ikiwa mtu amefungamana na dini na kudai kuwa mfuasi wa kundi fulani la kidini, ataelewa hekima ya Maya. Mtu akikubali dini ataingia kwenye dhambi. Kwa upande mwingine, mtu asiye na uhusiano wa kidini atastahili kuingia katika ufalme wa paraloka.
+
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 49,
-verse: `<b>(48) The Gospel of Mathew, 24th chapter, 35th verse.</b>`,
+verse: `<b>(48) Injili ya Mathayo, sura ya 24, aya ya 35.</b>`,
 meaning: ` <b>
-(35) Sky and earth will pass away, but my words will never pass away.       </b>`,
+(24:35) Mbingu na ardhi zitapita, lakini maneno yangu hayatapita kamwe.    </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Paramatma (God) does not speak. Atma, which resides in the body, can speak. Atma is the second creator and the second God. Atma, present in the body, communicates through speech. The second God (Atma) imparts much wisdom to humanity. The wisdom taught in this manner is conveyed through words. Atma’s teachings from the body, in the form of words, will never pass away, even if the sky and earth were to pass away, as stated in the verse. What is important to note here is <b>that the sky and earth mentioned will pass away, but my words will never pass away.</b> But it can be said that the sky and the earth never pass away. However, the verse seems to convey that the sky and earth will pass away. Therefore, we should understand that both the sky and earth mentioned in the verse are not the sky and earth we see. The sky and the earth described in the verse are perishable. The earth and the sky that never perish are one type, while the perishable earth and sky are another kind. In Prakruti, which is in the form of the human body, there is the sky, air, fire, water, and earth. All of them—the first sky, the last earth, and the remaining air, fire, and water— in the form of the body are perishable. <b>The human body will perish, but the wisdom imparted from man will never pass away.</b>
+<div class="poem"><div class="poemtext">
+  Paramatma (Mungu) haongei. Atma, ambayo inakaa katika mwili, inaweza kuzungumza. Atma ni muumbaji wa pili na Mungu wa pili. Atma, iliyopo katika mwili, huwasiliana kupitia hotuba. Mungu wa pili (Atma) hutoa hekima nyingi kwa wanadamu. Hekima inayofundishwa kwa namna hii inatolewa kupitia maneno. Mafundisho ya Atma kutoka kwa mwili, kwa namna ya maneno, hayatapita kamwe, hata kama mbingu na ardhi zitapita, kama ilivyoelezwa katika aya. Cha muhimu kuzingatia hapa ni<strong>kwamba mbingu na nchi zilizotajwa zitapita, lakini maneno yangu hayatapita kamwe.</strong>Lakini inaweza kusemwa kwamba mbingu na dunia hazipiti kamwe. Hata hivyo, aya hiyo inaonekana kuwasilisha kwamba mbingu na ardhi zitapita. Kwa hiyo, tunapaswa kuelewa kwamba mbingu na ardhi vyote vilivyotajwa katika Aya si mbingu na ardhi tunayoiona. Mbingu na ardhi vilivyoelezwa katika aya hiyo vinaharibika. Ardhi na mbingu zisizoharibika ni aina moja, na ardhi na mbingu ni aina nyingine. Katika Prakruti, ambayo iko katika umbo la mwili wa mwanadamu, kuna anga, hewa, moto, maji na ardhi. Vyote hivyo - mbingu ya kwanza, dunia ya mwisho, na hewa iliyobaki, moto na maji - katika umbo la mwili, vinaweza kuharibika.<strong>Mwili wa mwanadamu utaangamia, lakini hekima inayotolewa kutoka kwa mwanadamu haitapita kamwe.</strong>
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 50,
-verse: `<b>(49)	The Gospel of Mathew, 24th chapter, 42nd verse. </b>`,
+verse: `<b>(49) Injili ya Mathayo, sura ya 24, aya ya 42. </b>`,
 meaning: ` <b>
-(42) Therefore, keep watch, because you do not know on what day your Lord will come.      </b>`,
+((24:42) Basi kesheni, kwa maana hamjui ni siku gani atakayokuja Mola wenu.      </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Whenever there is a threat to God’s dharmas on Earth, and Satan’s dharmas spread extensively, God sends a part of Himself to the earth to protect His commandments (dharmas). Whenever there is a need, God must come as a human being. Krishna in the Dvapara Yuga and the Lord Jesus in the Kali Yuga came in that manner. Remarkably, we could identify them after they arrived and left, but when they were on Earth, we could not identify who they were. No one recognized when God Himself came as the Lord. Even those who saw His glory could not know that He was God but thought He was great. In Dvapara Yuga, Krishna said, <b>“I will come when dharmas are polluted.”</b> He came again as Lord Jesus and reiterated His dharmas. There will not be any difference in the commandments He gave, either in Dvapara Yuga or Kali Yuga. But there are no similarities in their names, lives, and lifestyles. Hence, Satan emphasized their external differences and tricked humans into not realizing that both were the same. Man needs some wisdom in order to know who has come, who is to come, when He has come, and when He can come. As long as man is in ignorance, he does not know God’s coming and remains unaware even after God has come and gone. Therefore, if people want to know God’s arrival and recognize Him, they must possess wisdom related to God. Nowadays, God’s wisdom is not known, and Satan’s wisdom is widespread. Hence, <b>“You do not know on what day your Lord will come,” said the verse. “Stay awake to know Him,”</b> is also mentioned in the verse. Here<b> ’stay awake’ means having wisdom.</b>
+<div class="poem"><div class="poemtext">
+  Wakati wowote kunapotokea tishio kwa dharma za Mungu Duniani, na dharma za Shetani kuenea sana, Mungu hutuma sehemu yake mwenyewe duniani ili kulinda amri zake (dharmas). Wakati wowote kuna hitaji, Mungu lazima aje kama mwanadamu. Krishna katika Yuga ya Dvapara na Bwana Yesu katika Yuga ya Kali walikuja kwa namna hiyo. Ajabu, tungeweza kuwatambua baada ya kufika na kuondoka, lakini walipokuwa duniani, hatukuweza kuwatambua ni akina nani. Hakuna aliyetambua wakati Mungu Mwenyewe alikuja kama Bwana. Hata wale waliouona utukufu wake hawakuweza kujua kuwa yeye ni Mungu bali walidhani ni mkuu. Katika Dvapara Yuga, Krishna alisema,<strong>"Nitakuja wakati dharma zimechafuliwa."</strong>Alikuja tena kama Bwana Yesu na akarudia dharma zake. Hakutakuwa na tofauti yoyote katika amri Alizotoa, ama katika Dvapara Yuga au Kali Yuga. Lakini hakuna kufanana katika majina yao, maisha, na mtindo wa maisha. Kwa hiyo, Shetani alikazia tofauti zao za nje na kuwadanganya wanadamu wasitambue kwamba wote wawili walikuwa sawa. Mwanadamu anahitaji hekima fulani ili kujua ni nani amekuja, ni nani ajaye, Amekuja lini, na wakati Anaweza kuja. Maadamu mwanadamu yuko katika ujinga, hajui ujio wa Mungu na anabaki bila kufahamu hata baada ya Mungu kuja na kuondoka. Kwa hivyo, ikiwa watu wanataka kujua kuwasili kwa Mungu na kumtambua, lazima wawe na hekima inayohusiana na Mungu. Siku hizi, hekima ya Mungu haijulikani, na hekima ya Shetani imeenea sana. Kwa hivyo,<strong>"Hamjui ni siku gani atakayokuja Mola wenu,&rdquo;</strong>ilisema aya hiyo<strong>. &ldquo;Kaeni macho ili kumjua Yeye,&rdquo;</strong>pia imetajwa katika Aya. Hapa<strong>'kukaa macho' maana yake ni kuwa na hekima.</strong>
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 51,
-verse: ` <b>(50) The Gospel of Mathew, 26th chapter, 26th, 27th and 28th verses.</b>`,
+verse: ` <b>(50) Injili ya Mathayo, sura ya 26, aya ya 26, 27 na 28.</b>`,
 meaning: `<b>
-(26) While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”
+(26:26) Walipokuwa wakila, Yesu alitwaa mkate, na baada ya kushukuru, akaumega, akawapa wanafunzi wake, akisema, “Twaeni mle; huu ni mwili wangu.”
 <br><br>
-(27) Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.
+(26:27) Kisha akatwaa kikombe, akashukuru, akawapa, akisema, Nyweni katika hiki nyote;
 <br><br>
-(28) This is my blood of the covenant (God’s wisdom without the bonds of ignorance), which is being poured out for many for the forgiveness of sins. </b>`,
+(26:28) Hii ni damu yangu ya agano (hekima ya Mungu isiyo na vifungo vya ujinga), ambayo inamwagika kwa ajili ya wengi kwa msamaha wa dhambi. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  While Jesus and His twelve disciples were eating, Jesus took bread, blessed it, broke it, gave it to His disciples, and said, <b>“Take and eat; this is my body.”</b> He also took grape juice in a cup and said, <b>“All of you drink from it; this is my blood.”</b> He compared grape juice to His blood and elaborated further, stating, <b>“This is my blood of the covenant, which is being poured out for many for the forgiveness of sins.”</b> These seemingly ordinary words of Jesus should be considered among the most important of His teachings. Unfortunately, some Christians, unaware of the essence of these words spoken at mealtime, fail to grasp their significance. <b>Some interpret that Jesus spoke these words about His past or future although it was about the present.</b>
+<div class="poem"><div class="poemtext">
+  Yesu na wanafunzi wake kumi na wawili walipokuwa wakila, Yesu alitwaa mkate, akabariki, akaumega, akawapa wanafunzi wake, akasema,<strong>"Kuchukua na kula; huu ni mwili wangu.&rdquo;</strong>Pia alichukua maji ya zabibu kwenye kikombe na kusema,<strong>"Nyote mnakunywa humo; hii ni damu yangu.&rdquo;</strong>Alilinganisha maji ya zabibu na damu Yake na akafafanua zaidi, akisema,<strong>"Hii ndiyo damu yangu ya agano, imwagikayo kwa ajili ya wengi kwa ondoleo la dhambi.&rdquo;</strong>
 
-  Jesus gave grape juice in a cup and said, “This is my blood,” but He did not specify that it was the blood of His body that was shed on the cross. Nevertheless, many Christian preachers attribute the blood mentioned in this verse to Jesus’ body’s blood shed on the cross, claiming that a person’s sins are forgiven because Jesus spilled His blood for sinners. However, there is a discrepancy between what man says and what Jesus said. Jesus did not mention His body’s blood in the verse. In such cases, it would be unfair to say that Jesus shed His blood for sinners. On that day, those who put Jesus on the cross, made Him spill His blood, and caused His death committed a terrible and unforgivable sin. However, it would be incorrect to assert that people’s sins were forgiven and will be forgiven by Jesus’ death.
+  Maneno haya ya Yesu yanayoonekana kuwa ya kawaida yanapaswa kuzingatiwa kati ya mafundisho yake muhimu zaidi. Kwa bahati mbaya, baadhi ya Wakristo, bila kujua kiini cha maneno haya yanayosemwa wakati wa chakula, yanashindwa kufahamu umuhimu wake.<strong>Wengine wanafasiri kwamba Yesu alizungumza maneno haya kuhusu wakati wake uliopita au ujao ingawa yalihusu sasa.</strong>
 
-  When Jesus gave grape juice to His disciples and said, <b>“This is the blood of the covenant, which is being poured out for many for the forgiveness of sins,”</b> He used the present tense, indicating that it was happening at that moment, and did not mention a future event. He did not allude to the future spilling of His blood on the cross. Therefore, it would be incorrect to claim that the blood spilled on the cross was for the forgiveness of sins. <b>Those responsible for Jesus spilling His blood on the cross received sin, not forgiveness of sin.</b> What Jesus referred to was the blood of the covenant, signifying God’s wisdom, which is not bound by ignorance. He taught this divine wisdom daily, comparing it to the pouring out of the blood of the covenant from His mouth. He imparted the fire of wisdom each day to burn away human sins, likening His teachings to covenant blood flowing from His mouth. The true meaning of this verse can only be understood through careful analysis.
+  Yesu alitoa maji ya zabibu katika kikombe na kusema, &ldquo;Hii ni damu yangu,&rdquo; lakini hakueleza bayana kwamba ilikuwa ni damu ya mwili wake iliyomwagwa msalabani. Hata hivyo, wahubiri wengi wa Kikristo wanahusisha damu inayotajwa katika mstari huu na damu ya mwili wa Yesu iliyomwagwa msalabani, wakidai kwamba dhambi za mtu zinasamehewa kwa sababu Yesu aliimwaga damu yake kwa ajili ya wenye dhambi. Hata hivyo, kuna tofauti kati ya kile ambacho mwanadamu husema na kile ambacho Yesu alisema. Yesu hakutaja damu ya mwili wake katika mstari huo. Katika hali kama hizo, itakuwa si haki kusema kwamba Yesu alimwaga damu yake kwa ajili ya wenye dhambi. Siku hiyo, wale waliomweka Yesu msalabani, walimfanya kumwaga damu yake, na kusababisha kifo chake wakafanya dhambi mbaya sana isiyoweza kusamehewa. Hata hivyo, itakuwa si sahihi kudai kwamba dhambi za watu zilisamehewa na zitasamehewa kwa kifo cha Yesu.
 
-  The meaning of the statement is poorly understood because the word ‘covenant’ is often omitted from the phrase ‘covenant blood’ with only the word ‘blood’ being considered. It is not realized that ‘covenant’ means ‘wisdom with dharmas.’ Another reason for mentioning ‘blood’ in the verse is not physical blood. The physical body is full of blood, and as long as there is blood in the body, the body is alive. If the body sheds its blood, the body dies. According to this, it becomes known that the essence of the body is blood. While they were eating, Jesus first took bread and gave it to His disciples, saying, <b>“Take and eat; this is my body.”</b> Here He compared bread with His body. Then He took grape juice in a cup and gave it to them, saying, <b>“This is my blood of the covenant.”</b> He said about the bread, “This is my body. Eat this.” Jesus compared the bread to His body and instructed them to eat it. If you eat bread, then you are eating Jesus’s body. The basis and the essence of the body is its blood.
+  Yesu alipowapa wanafunzi wake maji ya zabibu na kusema,<strong>"Hii ndiyo damu ya agano, imwagikayo kwa ajili ya wengi kwa ondoleo la dhambi,&rdquo;</strong>Alitumia wakati uliopo, akionyesha kwamba ilikuwa ikitokea wakati huo, na hakutaja tukio la baadaye. Hakudokeza juu ya kumwagika kwa damu Yake msalabani siku zijazo. Kwa hiyo, ni itakuwa si sahihi kudai kwamba damu iliyomwagika msalabani ilikuwa kwa ajili ya msamaha wa dhambi.<strong>Wale waliohusika na Yesu kumwaga damu yake msalabani walipokea dhambi, si msamaha wa dhambi.</strong>Kile ambacho Yesu alitaja ni damu ya agano, inayoonyesha hekima ya Mungu, ambayo haifungwi na ujinga. Alifundisha hekima hii ya kimungu kila siku, akiilinganisha na kumwagwa kwa damu ya agano kutoka kinywani Mwake. Alitoa moto wa hekima kila siku ili kuteketeza dhambi za wanadamu, akifananisha mafundisho yake na damu ya agano inayotiririka kutoka kinywani Mwake. Maana ya kweli ya aya hii inaweza tu kueleweka kupitia uchambuzi makini.
 
-  When comparing divine wisdom to the covenant blood, the body of bread can be likened to the Holy Scripture and God’s wisdom. In this way, <b>the body contains blood, and the scripture contains wisdom. Eating the body means reading the scripture and reading it will reveal the essence of its wisdom. Drinking blood means understanding wisdom.</b> Unfortunately, people often focus only on the bread and grape juice that Jesus gave, without realizing that the bread represents the divine scripture, and the grape juice represents its wisdom. <b>Jesus compared the scripture to His body (bread) and the wisdom within it to blood (grape juice). The shedding of the blood of the covenant refers to the wisdom with dharmas being taught at that time.</b> Many have failed to recognize that Jesus compared the scripture to His body and its wisdom to blood, leading to the mistaken belief that the blood shed on the cross was for the forgiveness of sins.
+  Maana ya tamko hilo haieleweki vyema kwa sababu neno &lsquo;agano&rsquo; mara nyingi halijaachwa katika maneno &lsquo;damu ya agano&rsquo; huku likizingatiwa tu neno &lsquo;damu&rsquo;. Haitambuliki kwamba 'agano' linamaanisha 'hekima pamoja na dharmas.' Sababu nyingine ya kutaja 'damu' katika mstari si damu ya kimwili.⁷ mwili umejaa damu, na maadamu kuna damu ndani ya mwili, mwili uko hai. Mwili ukitoa damu yake, mwili hufa. Kulingana na hili, inajulikana kuwa kiini cha mwili ni damu. Walipokuwa wakila, Yesu alitwaa mkate kwanza, akawapa wanafunzi wake, akisema,<strong>" Kuchukua na kula; huu ni mwili wangu.&rdquo;</strong>Hapa alilinganisha mkate na mwili wake. Kisha akatwaa maji ya zabibu katika kikombe, akawapa, akisema,<strong>"Hii ndiyo damu yangu ya agano.&rdquo; </strong>Alisema kuhusu mkate, &ldquo;Huu ni mwili wangu. Kula hii.&rdquo; Yesu alilinganisha mkate na mwili Wake na akawaagiza kuula. Ikiwa unakula mkate, basi unakula mwili wa Yesu. Msingi na asili ya mwili ni damu yake.
 
+  Wakati wa kulinganisha hekima ya kimungu na damu ya agano, mwili wa mkate unaweza kufananishwa na Maandiko Matakatifu na hekima ya Mungu. Kwa njia hii,<strong>mwili una damu, na maandiko yana hekima. Kula mwili kunamaanisha kusoma maandiko na kuyasoma kutafichua kiini cha hekima yake.</strong><strong>Kunywa damu kunamaanisha kuelewa hekima.</strong>Kwa bahati mbaya, mara nyingi watu huzingatia tu mkate na maji ya zabibu ambayo Yesu alitoa, bila kutambua kwamba mkate unawakilisha maandiko ya kimungu, na maji ya zabibu yanawakilisha hekima yake.<strong>Yesu alilinganisha maandiko na mwili (mkate) wake na hekima ndani yake na damu (maji ya zabibu). Kumwagika kwa damu ya agano inarejelea hekima na dharma zinazofundishwa wakati huo.</strong>
+
+  Wengi wameshindwa kutambua kwamba Yesu alilinganisha maandiko na mwili wake na hekima yake na damu, na hivyo kusababisha imani potofu kwamba damu iliyomwagwa msalabani ilikuwa kwa ajili ya ondoleo la dhambi.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 52,
-verse: `<b>(51)	The Gospel of Mathew, 28th chapter, 18th verse.</b>`,
+verse: `<b>(51)	Injili ya Mathayo, sura ya 28, aya ya 18.</b>`,
 meaning: `<b>
-(18) Then Jesus came to them and said, “All authority in paraloka and on earthhas been given to me. </b>`,
+(28:18) Kisha Yesu akaja kwao, akasema nao, akasema, Nimepewa mamlaka yote duniani na duniani. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In Telugu, ‘Loka’ means having experiences. In Loka, we encounter both hardships and pleasures. The experience of pleasure is called Svarga Loka (heaven), while the experience of hardship is referred to as Naraka Loka (hell). Loka is not a separate country or special place; rather, it is the sum of all experiences. According to one’s experiences of pleasure and sorrow, Loka is divided into heaven and hell. All experiences of heaven and hell take place on earth and are not separate physical locations. So, depending on the experiences, we may refer to them as heaven or hell, but in reality, both heaven and hell exist on earth.
+<div class="poem"><div class="poemtext">
+  Katika Kitelugu, 'Loka' inamaanisha kuwa na uzoefu. Katika Loka, tunakutana na shida na raha. Uzoefu wa raha unaitwa Svarga Loka (mbinguni), wakati uzoefu wa shida unajulikana kama Naraka Loka (kuzimu). Loka si nchi tofauti au mahali maalum; badala yake, ni jumla ya uzoefu wote. Kulingana na uzoefu wa mtu wa raha na huzuni, Loka imegawanywa mbinguni na kuzimu. Uzoefu wote wa mbinguni na kuzimu unafanyika duniani na sio maeneo tofauti ya kimwili. Kwa hivyo, kulingana na uzoefu, tunaweza kurejelea kama mbingu au kuzimu, lakini kwa kweli, mbingu na kuzimu zipo duniani.
 
-  There are two types of lokas on earth – Ihaloka and Paraloka. <b>Ihaloka involves experiences, whereas Paraloka does not have any experiences.</b> Both Ihaloka and Paraloka exist on earth. ‘Para’ means different or separate. Paraloka means something different from experiences. In other words, Paraloka has no experience and is distinct from the loka. In Telugu, ‘manishi’ means the one who acquires experiences through the manas (mind). Therefore, all people on earth belong to Ihaloka. No man has seen Paraloka. A body-wearing man is never without experiences. Therefore, it can be said that every person belongs to the loka and is living in Ihaloka. It may be said that the one with no experience is in Paraloka. <b>“All authority in Paraloka and on earth has been given to me,” said</b> the above verse.
+  Kuna aina mbili za lokas duniani - Ihaloka na Paraloka. <strong>Ihaloka inahusisha uzoefu, ambapo Paraloka hana uzoefu wowote.</strong>Wote Ihaloka na Paraloka wapo duniani. 'Para' ina maana tofauti au tofauti. Paraloka ina maana tofauti na uzoefu. Kwa maneno mengine, Paraloka hana uzoefu na ni tofauti na loka. Katika Kitelugu, 'manishi' ina maana ya mtu ambaye anapata uzoefu kupitia manas (akili). Kwa hiyo, watu wote duniani ni wa Ihaloka. Hakuna mtu aliyemwona Paraloka. Mwanaume aliyevaa mwili huwa hana uzoefu. Kwa hivyo, inaweza kusemwa kwamba kila mtu ni wa loka na anaishi Ihaloka. Inaweza kusemwa kwamba yule asiye na uzoefu yuko Paraloka.<strong>" Mamlaka yote katika Paraloka na duniani nimepewa,&rdquo; alisema</strong>aya hapo juu.
 
-  If Jesus were an ordinary man, He would be in Ihaloka and not know Paraloka. Despite appearing to be an ordinary man, his body only had Atma and not Jeevatma. Atma lived in Jesus’s body and pretended to be a Jeevatma. Both Atma and Jeevatma exist in all humans, where Atma performs all body functions, and Jeevatma experiences joy and sorrow at work. In this way, it can be said that Jeevatma in a person’s body is in heaven at times and in hell at other times. But when God comes as a human, His body does not have Jeevatma. Although Atma works in the body of the Son of God, it does not experience anything. Therefore, He is said to be in Paraloka. Since Jesus was not an ordinary man, He has authority on earth (Ihaloka) and Paraloka. The Holy Spirit, Paramatma, gave Atma (Jesus) complete authority. Jesus, who is Atma, is also the head of divine wisdom. God’s wisdom is now known to anyone except to God. Therefore, the subject of souls is unknown to people. Jesus taught the wisdom of three souls and instructed His disciples, who knew the wisdom of the souls, to teach Atma’s wisdom to all people.
+  Ikiwa Yesu angekuwa mtu wa kawaida, angekuwa katika Ihaloka na asingejua Paraloka. Licha ya kuonekana kuwa mtu wa kawaida, mwili wake ulikuwa na Atma tu na sio Jeevatma. Atma aliishi katika mwili wa Yesu na kujifanya kuwa Jeevatma. Atma na Jeevatma zote zipo kwa wanadamu wote, ambapo Atma hufanya kazi zote za mwili, na Jeevatma hupata furaha na huzuni kazini. Kwa njia hii, inaweza kusemwa kwamba Jeevatma katika mwili wa mtu iko mbinguni wakati fulani na kuzimu wakati mwingine. Lakini Mungu anapokuja kama mwanadamu, mwili wake hauna Jeevatma. Ingawa Atma inafanya kazi katika mwili wa Mwana wa Mungu, haina uzoefu wowote. Kwa hiyo, Anasemekana kuwa katika Paraloka. Kwa kuwa Yesu hakuwa mtu wa kawaida, ana mamlaka duniani (Ihaloka) na Paraloka. Roho Mtakatifu, Paramatma, alimpa Atma (Yesu) mamlaka kamili. Yesu, ambaye ni Atma, pia ndiye kichwa cha hekima ya kimungu. Hekima ya Mungu sasa inajulikana kwa yeyote isipokuwa kwa Mungu. Kwa hiyo, somo la nafsi halijulikani kwa watu. Yesu alifundisha hekima ya nafsi tatu na akawaagiza wanafunzi wake, waliojua hekima ya nafsi, wafundishe hekima ya Atma kwa watu wote.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "Injili ya Mathayo",
 chapterNumber: 2,
 pageNumber: 53,
-verse: ` <b>(52)	The Gospel of Mathew, 28th chapter, 19th and 20th verses.</b>`,
+verse: ` <b>(52)	Injili ya Mathayo, sura ya 28, aya ya 19, na 20.</b>`,
 meaning: ` <b>
-(19) Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
+(28:19) Kwa hiyo, enendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa jina la Baba na la Mwana na la Roho Mtakatifu.
 <br><br>
-(20) Teaching them to obey everything I have commanded you. And surely, I am with you always, to the very end of the age (Yuga).       </b>`,
+(28:20) Mkiwafundisha kuyashika yote niliyowaamuru nyinyi. Na hakika mimi nipo pamoja nanyi siku zote, hata ukamilifu wa dahari (Yuga).   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The Gospel of Matthew has 28 chapters. The last verses, 19th, and 20th of chapter 28, contain the secret of the entire spiritual education. The information about the three souls mentioned in verse 19 is the most important wisdom in scripture. In this verse, the word ‘Father’ is used before the word ‘Son,’ requiring careful consideration to understand it. Those who reflect on this will know that the sequence is the Son, the Father, and the Holy Spirit. To further explain, <b>one must understand that the Son is Jeevatma, the Father is Atma, and the Holy Spirit is Paramatma.</b> There are no other souls in the world besides these three. According to the Thraitha theorem, these three souls are Jeevatma, Atma, and Paramatma.
+<div class="poem"><div class="poemtext">
+  Injili ya Mathayo ina sura 28. Mistari ya mwisho, ya 19, na 20 ya sura ya 28, ina siri ya elimu yote ya kiroho. Habari juu ya nafsi tatu zilizotajwa katika mstari wa 19 ni hekima muhimu zaidi katika maandiko. Katika mstari huu, neno &lsquo;Baba&rsquo; limetumiwa kabla ya neno &lsquo;Mwana,&rsquo; likihitaji kufikiria kwa makini ili kulielewa. Wale wanaotafakari juu ya hili watajua kwamba mlolongo huo ni Mwana, Baba, na Roho Mtakatifu. Kwa kueleza zaidi,<strong>mtu lazima aelewe kwamba Mwana ni Jeevatma, Baba ni Atma, na Roho Mtakatifu ni Paramatma.</strong>Hakuna roho zingine ulimwenguni isipokuwa hizi tatu. Kulingana na nadharia ya Thraitha, nafsi hizi tatu ni Jeevatma, Atma, na Paramatma.
 
-  Baptism means upadesa. In Telugu, ‘Upa’ (sub) means adjacent. Upadesa means a neighboring or adjacent country. In more detail, it means “leaving this country where you are now and getting permission to go to the adjacent or neighboring country.” An officer must first give permission to go to the neighboring country. That officer can be called a Guru. Guru means the one who is the head of the neighboring country or Paraloka. No matter how many gurus are on earth, God, the head of Paraloka, is the true Guru. God, the ruler of Paraloka, is the true Guru who gives us true baptism when He comes to earth as a man. Although there are many gurus on earth, they are all gurus in name only. The baptism they give is in name only.
+  Ubatizo unamaanisha upadesa. Katika Kitelugu, 'Upa' (ndogo) ina maana ya karibu. Upadesa maana yake ni nchi jirani au jirani. Kwa undani zaidi, inamaanisha "kuondoka katika nchi hii ulipo sasa na kupata kibali cha kwenda nchi jirani au jirani." Afisa lazima kwanza ape ruhusa kwenda nchi jirani. Afisa huyo anaweza kuitwa Guru. Guru maana yake ni yule ambaye ni mkuu wa nchi jirani au Paraloka. Haijalishi ni gurus wangapi duniani, Mungu, mkuu wa Paraloka, ndiye Guru wa kweli. Mungu, mtawala wa Paraloka, ndiye Guru wa kweli ambaye hutupatia ubatizo wa kweli anapokuja duniani kama mwanadamu. Ingawa kuna gurus wengi duniani, wote ni gurus kwa jina tu. Ubatizo wanaotoa ni kwa jina tu.
 
-  When God, the real Guru, is not on earth as a human, according to the tradition of wisdom, preachers must make some disciples and give them upadesa. Upadesa is like permission to the neighboring country. In the upadesa process, the guru instructs disciples with water, with a mantra, word, or Vibhuti (sacred ash). Upadesa is permission to Paraloka, and the word or water is like a ticket recognizing the entry to Paraloka. Most gurus use a mantra or a word in the upadesa process. Similarly, Jesus told His disciples, <b>“Go and make people of all nations disciples.”</b> He also told His disciples to baptize them when they became disciples. When giving the disciples the permission ticket in the upadesa process, He said, “Baptize them in the name of the three souls - the Father, the Son, and the Holy Spirit.” According to the wisdom tradition, baptism should be done this way. So, when John, a Guru, gave baptism, He administered baptism with water. According to that method, Jesus also received upadesa from John. At that time, John saw Jesus and spoke.
+  Wakati Mungu, Guru halisi, hayupo duniani kama mwanadamu, kulingana na mapokeo ya hekima, wahubiri lazima wafanye baadhi ya wanafunzi na kuwapa upadesa. Upadesa ni kama ruhusa kwa nchi jirani. Katika mchakato wa upadesa, guru huwafundisha wanafunzi kwa maji, kwa mantra, neno, au Vibhuti (majivu takatifu). Upadesa ni ruhusa kwa Paraloka, na neno au maji ni kama tikiti inayotambua kuingia kwa Paraloka. Gurus wengi hutumia mantra au neno katika mchakato wa upadesa. Vivyo hivyo, Yesu aliwaambia wanafunzi wake,<strong>"Nendeni mkafanye watu wa mataifa yote kuwa wanafunzi.&rdquo;</strong>Pia aliwaambia wanafunzi wake wawabatize watakapokuwa wanafunzi. Alipokuwa akiwapa wanafunzi tikiti ya ruhusa katika mchakato wa upadesa, Alisema, &ldquo;Mwabatize kwa jina la nafsi tatu &ndash; Baba, Mwana, na Roho Mtakatifu.&rdquo; Kulingana na mapokeo ya hekima, ubatizo unapaswa kufanywa kwa njia hii. Kwa hivyo, wakati Yohana, Guru, alipobatiza, Alibatiza kwa maji. Kulingana na njia hiyo, Yesu pia alipokea upadesa kutoka kwa Yohana. Wakati huo, Yohana alimwona Yesu na kusema.
 
-  This is what the Gospel of Matthew says in verses 3:14 and 3:15. <b>When Jesus came to Him, John tried to deter Him, saying, “I need to be baptized by you, and do You come to me?” Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b> Even Jesus said one must receive baptism from the Guru according to the wisdom tradition. I also said the same thing about baptism. Jesus authorized His disciples to give baptism and said, “All people need to be baptized, not just a caste or a group.” He also told them to give an entry document of the Father, the Son, and the Holy Spirit. Jesus told His disciples to do the work because God could not always be on earth as a man to give upadesa. In addition to baptism, Jesus also told His disciples to teach them to obey all things He told His disciples.
+  Hivi ndivyo Injili ya Mathayo inavyosema katika mistari 3:14 na 3:15.<strong>Yesu alipomjia, Yohana alijaribu kumzuia akisema, Mimi nahitaji kubatizwa na wewe, nawe waja kwangu? Yesu akajibu, &ldquo;Acha iwe hivi sasa; inatufaa sisi kufanya hivi ili kutimiza uadilifu (hekima) yote.&rdquo;</strong>Hata Yesu alisema lazima mtu apokee ubatizo kutoka kwa Guru kulingana na mapokeo ya hekima. Pia nilisema jambo lile lile kuhusu ubatizo.
 
-  Jesus also said, “I am always with you,” without causing doubt in the disciples that they were not gurus. He notably said, <b>“I am with you always, even unto the end of yuga.”</b> Those who know about yugas may pose a question when they hear what Jesus said. Yuga (era) does not end, and another yuga starts at the end of the current yuga. In that case, why did Jesus say that there is an end to the yugas, when there is no end to them? The answer is as follows. Time is eternal and lasts forever, just like God (Paramatma). Time, being a nickname for God, is also eternal. Since time is Paramatma, the three souls are named after the time. Paramatma is divided into three souls – Jeevatma, Atma, and Paramatma. The names past, future, and present tense are given to the time so that the time has these three names appear in it. The name ‘yogam,’ necessary to reach God, is given to time. In this way, the four names are given to time, and the word ‘yogam’ is appended at the end of all four names to indicate ‘yogam’ is necessary to reach God.
+  Yesu aliwapa wanafunzi wake mamlaka ya kubatiza na kusema, "Watu wote wanahitaji kubatizwa, sio tu tabaka au kikundi." Pia aliwaambia watoe hati ya kuingia ya Baba, Mwana, na Roho Mtakatifu. Yesu aliwaambia wanafunzi wake wafanye kazi hiyo kwa sababu Mungu hangeweza kuwa duniani sikuzote kama mwanadamu ili kutoa upadesa. Mbali na ubatizo, Yesu pia aliwaambia wanafunzi wake wawafundishe kutii mambo yote aliyowaambia wanafunzi wake.
 
-  Time is divided into four parts named Kruta, Traita, Dvapara, and Kali, respectively. The word ‘yogam’ is added to the end of each name, creating the names Kruta Yuga, Traita Yuga, Dvapara Yuga, and Kali Yuga. <b>Kruta means the one (Atma) who does. Traita means three. Dvapara means the one (Paramatma) who is separate from the two. Kali means the one (Jeevatma) who gets destroyed.</b> The first divine scripture refers to these three souls as <b>Kshara, Akshara, and Purushottama.</b> In Telugu, Kshara means destructible Jeevatma, Akshara means indestructible Atma, and Purushottama means Paramatma, who is superior to both Jeevatma and Atma. In the final divine scripture, verse 50:21, these three are referred to as <b>the Passenger, the Driver, and the Witness,</b> and in the second divine scripture, <b>the Son, the Father, and the Holy Spirit. Yogam</b> is necessary to understand these three males (Purusha), which is why the word ‘yogam’ is added to the end of the four yuga names. Through yogam, Jeevatma can know himself; hence it is called Kali Yogam. With yogam, Atma will be known; hence it is called Kruta Yogam. By yogam, one can reach Paramatma; therefore, it is called Traita Yogam and Dvapara Yogam. Those who are rich in divine wisdom gave these names. Over time, Traita became Treta, and the word yogam became yuga. This is why in the verse, <b>‘end of the yuga’</b> is used instead of <b>‘end of the yogam.’</b> When the correct word is used, Jesus’ statement “I will always be with you until the end of the yogam” can be interpreted as “I am with you always until the conclusion of the yogam.” When Jeevatma reaches the end of yogam, He unites with God. When God and Jeeva are separate, yogam is necessary to union with God and God will be present with Jeevatma. <b>Once yogam is completed, Jeevatma will merge with God,</b> and there will no longer be a need for God to be present with Jeevatma. This is the meaning behind the statement <b>“until the end of the yuga.”</b>
+  Yesu pia alisema, &ldquo;Mimi nipo pamoja nanyi sikuzote,&rdquo; bila kusababisha shaka kwa wanafunzi kwamba hawakuwa wachungaji. Alisema hasa,<strong>"mimi nipo pamoja nanyi siku zote, hata mwisho wa Yuga.&rdquo;</strong>Wale wanaojua kuhusu yuga wanaweza kuuliza swali wanaposikia yale ambayo Yesu alisema. Yuga (zama) haimaliziki, na yuga nyingine huanza mwishoni mwa yuga ya sasa. Katika hali hiyo, kwa nini Yesu alisema kwamba kuna mwisho wa yuga, wakati hakuna mwisho kwao? Jibu ni kama ifuatavyo. Wakati ni wa milele na hudumu milele, kama Mungu (Paramatma). Wakati, kuwa jina la utani la Mungu, pia ni wa milele. Kwa kuwa wakati ni Paramatma, the nafsi tatu zinaitwa baada ya wakati. Paramatma imegawanywa katika nafsi tatu - Jeevatma, Atma, na Paramatma. Majina ya wakati uliopita, ujao, na wakati uliopo yametolewa kwa wakati ili wakati majina haya matatu yaonekane ndani yake. Jina 'yogam,' muhimu ili kumfikia Mungu, limepewa wakati. Kwa njia hii, majina manne yanapewa wakati, na neno 'yogam' limeambatanishwa mwishoni mwa majina yote manne ili kuonyesha 'yogam' ni muhimu ili kufikia Mungu.
+
+  Muda umegawanywa katika sehemu nne zinazoitwa Kruta, Traita, Dvapara, na Kali, mtawalia. Neno 'yogam' huongezwa hadi mwisho wa kila jina, na kuunda majina Kruta Yuga, Traita Yuga, Dvapara Yuga, na Kali Yuga. <strong>Kruta inamaanisha yule (Atma) anayefanya hivyo. Traita maana yake ni tatu. Dvapara maana yake ni yule (Paramatma) aliyejitenga na hao wawili. Kali inamaanisha yule (Jeevatma) anayeangamizwa.</strong>Maandiko ya kwanza ya kiungu yanazitaja nafsi hizi tatu kama<strong>Kshara, Akshara, na Purushottama</strong>. Katika Kitelugu, Kshara inamaanisha Jeevatma inayoweza kuharibika, Akshara inamaanisha Atma isiyoweza kuharibika, na Purushottama inamaanisha Paramatma, ambaye ni bora kuliko Jeevatma na Atma. Katika andiko la mwisho la kimungu, mstari wa 50:21, watatu hawa wanarejelewa kama<strong>Abiria, Dereva, na Shahidi</strong>, na katika andiko la pili la kimungu,<strong>Mwana, Baba, na Roho Mtakatifu. Yoga</strong>muhimu kuelewa hawa wanaume watatu (Purusha), ndiyo maana neno 'yogam' linaongezwa hadi mwisho wa majina manne ya yuga. Kupitia yogam, Jeevatma anaweza kujijua; kwa hivyo inaitwa.
+
+  Yoga ya Kali. Kwa yogam, Atma itajulikana; kwa hivyo inaitwa Kruta Yogam. Kwa yogam, mtu anaweza kufikia Paramatma; kwa hiyo, inaitwa Traita Yogam na Dvapara Yogam. Wale ambao ni matajiri katika hekima ya kimungu walitoa majina haya. Baada ya muda, Traita ikawa Treta, na neno yogam likawa yuga. Ndio maana katika aya,<strong>'mwisho wa yuga'</strong>inatumika badala ya<strong>' mwisho wa yoga.'</strong>Neno sahihi linapotumiwa, usemi wa Yesu &ldquo;nitakuwa pamoja nanyi sikuzote hadi mwisho wa yoga&rdquo; inaweza kufasiriwa kuwa &ldquo;mimi nipo pamoja nanyi sikuzote mpaka tamati ya yoga.&rdquo; Jeevatma inapofikia mwisho wa yoga, anaungana na Mungu. Mungu na Jeeva wanapotengana, yoga ni muhimu ili kuungana na Mungu na Mungu atakuwepo na Jeevatma.<strong>Mara baada ya yoga kukamilika, Jeevatma itaungana na Mungu</strong>, na hakutakuwa tena na haja ya Mungu kuwepo na Jeevatma. Hii ndio maana nyuma ya kauli<strong>"hadi mwisho wa yuga."</strong>
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "Injili ya Marko",
 chapterNumber: 3,
 pageNumber: 54,
-verse: ` <b>(1)	The Gospel of Mark, 2nd chapter, 19th and 20th verses.</b>`,
+verse: ` <b>(1)	Injili ya Marko, sura ya 2, aya ya 19 na 20.</b>`,
 meaning: `<b>
-(19) How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them.
+(2:19) Wageni wa bwana-arusi wawezaje kufunga akiwa pamoja nao? Hawawezi, mradi tu wanaye pamoja nao.
 <br><br>
-(20) But the time will come when the bridegroom will be taken from them, and on that day they will fast. </b>`,
+(2:20) Lakini wakati utakuja ambapo bwana arusi ataondolewa kwao, na siku hiyo watafunga. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some people came to Jesus and asked, “Why is it that John’s disciples and the disciples of the Pharisees are fasting, but not yours?” Jesus replied with the following verses. In this context, fasting refers to abstaining from food, a common worldly meaning. In Telugu, the word for the bridegroom is ‘Pellikoduku,’ which translates to ‘son of marriage.’ In Telugu, the phrase ‘son of marriage’ holds a special meaning because the word ‘marriage’ (or ‘Pelli’ in Telugu) symbolizes God in a spiritual sense. Therefore, the ‘son of marriage’ refers to the Son of God. When Jesus, the Son of God, is with His followers, they will experience joy and not fast. However, when the bridegroom (the Son of God) is taken away from them, those who were with Him will fast with grief because He is departing from them. Similarly, Jesus’ disciples will not fast as long as He is present with them. When Jesus is absent, they will fast in sorrow. The phrase ‘bridegroom’ (the son of marriage) should be understood as referring to the Son of God.
+<div class="poem"><div class="poemtext">
+  Baadhi ya watu walimwendea Yesu na kumwuliza, “Mbona wanafunzi wa Yohana na wanafunzi wa Mafarisayo wanafunga, lakini wako si kufunga? Yesu alijibu kwa mistari ifuatayo. Katika muktadha huu, mfungo unarejelea kujiepusha na chakula, maana ya kawaida ya kidunia. Katika Kitelugu, neno la bwana harusi ni 'Pellikoduku,' ambalo hutafsiriwa 'mwana wa ndoa.' Katika Kitelugu, maneno 'mwana wa ndoa' huwa na maana maalum kwa sababu neno 'ndoa' (au 'Pelli' katika Kitelugu) huashiria Mungu katika maana ya kiroho. Kwa hiyo, ‘mwana wa ndoa’ anarejelea Mwana wa Mungu. Wakati Yesu, Mwana wa Mungu, akiwa pamoja na wafuasi Wake, watapata furaha na si kufunga. Hata hivyo, bwana-arusi (Mwana wa Mungu) anapoondolewa kutoka kwao, hao waliokuwa pamoja Naye watafunga kwa huzuni kwa sababu anaondoka kwao. Vivyo hivyo, wanafunzi wa Yesu hawatafunga maadamu Yeye yuko pamoja nao. Yesu asipokuwepo, watafunga kwa huzuni. Msemo 'bwana-arusi' (mwana wa ndoa) unapaswa kueleweka kuwa unamrejelea Mwana wa Mungu.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 55,
-verse: `<b>(2) The Gospel of Mark, 4th chapter, 38th and 39th verses.</b>`,
+verse: `<b>(2) Injili ya Marko, sura ya 4, aya ya 38 na 39.</b>`,
 meaning: ` <b>
-(38) Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?”
+(4:38) Yesu alikuwa nyuma ya meli, akilala juu ya mto. Wanafunzi wakamwamsha, wakamwambia, Mwalimu, hujali sisi tukizama?
 <br><br>
-(39) He got up, rebuked the wind, and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. </b>`,
+(4:39) Akaamka, akaukemea upepo, akayaambia mawimbi, Nyamaza! Tulia!” Kisha upepo ukatulia na kukawa shwari kabisa. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When Jesus and His disciples were crossing the sea in a small boat, they encountered a storm, and the boat began taking on water due to the waves. The disciples were terrified and feared that they would drown. They awoke Jesus and informed Him of the perilous situation. Jesus rose, rebuked the wind, and commanded the waves to be still. The wind ceased, and a calm descended upon the sea. The disciples were amazed and asked one another, “It is a great wonder, and how did it happen?” They recognized Jesus’ power, but they didn’t fully understand the reason for it. There is remarkable wisdom in this incident.
+<div class="poem"><div class="poemtext">
+  Yesu na wanafunzi wake walipokuwa wakivuka bahari kwa mashua ndogo, walikumbana na dhoruba, na mashua ikaanza kuzama kwa sababu ya mawimbi. Wanafunzi waliogopa na kuogopa kwamba wangezama. Walimwamsha Yesu na kumjulisha hali ya hatari. Yesu akainuka, akaukemea upepo, akaamuru mawimbi yatulie. Upepo ukakoma, na utulivu ukashuka juu ya bahari. Wanafunzi walishangaa na kuulizana, "Ni ajabu sana, na imekuwaje?" Walitambua nguvu za Yesu, lakini hawakuzitambua kuelewa kabisa sababu yake. Kuna hekima ya ajabu katika tukio hili.
 
-  Jesus is not an ordinary man; it must be emphasized that He is God, who looked and behaved like an ordinary man. When God, the Holy Spirit, comes in human form, no one can recognize Him. The birth of God is a secret when He is a human being, and no one can ever know Him through worldly knowledge. It may only be possible to know Him through wisdom. There are two ways to recognize God’s incarnation based on wisdom: 1) It can be known that there is God’s incarnation wherever God’s dharmas, which no one has explained, are revealed scientifically. 2) It can be said that Paramatma is in human form wherever Prakruti is governed. No one can recognize God’s incarnation apart from these two methods.
+  Yesu si mtu wa kawaida; ni lazima kusisitizwa kwamba Yeye ni Mungu, ambaye alionekana na kujiendesha kama mtu wa kawaida. Mungu, Roho Mtakatifu, anapokuja katika umbo la mwanadamu, hakuna anayeweza kumtambua. Kuzaliwa kwa Mungu ni siri wakati Yeye ni mwanadamu, na hakuna mtu anayeweza kumjua kupitia ujuzi wa ulimwengu. Inawezekana tu kumjua kwa hekima. Kuna njia mbili za kutambua kupata mwili kwa Mungu kwa msingi wa hekima: 1) Inaweza kujulikana kwamba kuna kupata mwili kwa Mungu popote ambapo dharma za Mungu, ambazo hakuna mtu ameelezea, zinafichuliwa kisayansi. 2) Inaweza kusemwa kuwa Paramatma iko katika umbo la mwanadamu popote Prakruti inatawaliwa. Hakuna anayeweza kutambua kupata mwili kwa Mungu kando na mbinu hizi mbili.
 
-  Devatas bowed down to Ravana Brahma in Traita Yuga. When He ordered the nine planets, it became known that He was no ordinary man. Ravana Brahma taught divine dharmas, which were unknown to anyone, and made people practice them. Thus, it became known that Ravana Brahma is God’s incarnation. Similarly, it became known that Krishna in Dvapara Yuga was God’s incarnation when He commanded Sun and taught dharmas in Bhagavad-Gita. Jesus, who came as a man 2,000 years ago, became recognized as God in two ways: by commanding the sea and teaching divine dharmas. The storm during the sea voyage seemed to serve the purpose of making people aware of who Jesus was. Even though God’s incarnation is secret, God provided this opportunity to know.
+  Devatas waliinama chini kwa Ravana Brahma huko Traita Yuga. Alipoziamuru zile sayari tisa, ilijulikana kuwa Yeye hakuwa mtu wa kawaida. Ravana Brahma alifundisha dharma za kimungu, ambazo hazikujulikana kwa mtu yeyote, na kuwafanya watu kuzifanya. Kwa hivyo, ilijulikana kuwa Ravana Brahma ni mwili wa Mungu. Vile vile, ilijulikana kuwa Krishna huko Dvapara Yuga alikuwa mwili wa Mungu alipoamuru Sun na kufundisha dharmas katika Bhagavad-Gita. Yesu, ambaye alikuja kama mwanadamu Miaka 2,000 iliyopita, ilitambuliwa kama Mungu kwa njia mbili: kwa kuamuru bahari na kufundisha dharma za kimungu. Dhoruba wakati wa safari ya baharini ilionekana kutumikia kusudi la kuwajulisha watu Yesu alikuwa nani. Ingawa kupata mwili kwa Mungu ni siri, Mungu alitoa fursa hii ya kujua.
+
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 56,
-verse: `<b>(3)	The Gospel of Mark, 5th chapter, 38th, 39th, 40th, 41st, 42nd and 43rd verses.</b>`,
+verse: `<b>(3)	Injili ya Marko, sura ya 5, 38, 39, 40, 41, 42 na 43.</b>`,
 meaning: `<b>
-(38) When they came to the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly.
+(5:38) Walipofika kwenye nyumba ya kiongozi wa sinagogi, Yesu aliona ghasia, watu wakilia na kuomboleza kwa sauti kubwa.
 <br><br>
-(39) He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”
+(5:39) Akaingia ndani, akawaambia, Mbona ghasia na maombolezo haya yote? Mtoto hakufa bali amelala.”
 <br><br>
-(40) But they laughed at him. After he put them all out, he took the child’s father and mother and the disciples who were with him and went in where the child was.
+(5:40) Lakini wao wakamcheka. Baada ya kuwatoa wote nje, akawachukua baba na mama ya mtoto na wale wanafunzi waliokuwa pamoja naye, akaingia pale alipokuwa mtoto.
 <br><br>
-(41) He took her by the hand and said to her, “Talitha koum!” (which means “Little girl, I say to you, get up!”).
+(5:41) Akamshika mkono, akamwambia, Talitha kumi. (maana yake, “Msichana mdogo, nakuambia, inuka!”).
 <br><br>
-(42) Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished.
+(5:42) Mara yule msichana akasimama, akaanza kutembea (alikuwa na umri wa miaka kumi na miwili). Kwa hili walishangaa kabisa.
 <br><br>
-(43) He gave strict orders not to let anyone know about this and told them to give her something to eat.</b>`,
+(5:43) Alitoa amri kali kutomjulisha mtu yeyote kuhusu jambo hili na akawaambia wampe kitu cha kula.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It is a great surprise when a person comes back to life after being declared dead. Jesus brought several people back from the dead during His life. He not only resurrected others, but He also rose from the dead Himself. If we contemplate this event, some unknown mysteries will be uncovered. There are four types of death: timely death (natural death), untimely death, temporary death, and final death. Once a person experiences the final death, they will not be born again; instead, they attain liberation or moksham. Natural death is the most common form of death, in which a person leaves their current body and goes to the next birth. There is no option other than going to the next birth in natural death.
+<div class="poem"><div class="poemtext">
+  Inashangaza sana mtu anapofufuka baada ya kutangazwa kuwa amekufa. Yesu aliwafufua watu kadhaa kutoka kwa wafu wakati wa maisha yake. Hakuwafufua wengine tu, bali pia alifufuka mwenyewe kutoka kwa wafu. Tukitafakari tukio hili, baadhi ya mafumbo yasiyojulikana yatafichuliwa. Kuna aina nne za kifo: kifo cha wakati (kifo cha asili), kifo cha ghafla, kifo cha muda, na kifo cha mwisho. Mara tu mtu anapopitia kifo cha mwisho, hatazaliwa tena; badala yake, wanapata ukombozi au moksham. Kifo cha asili ni aina ya kawaida ya kifo, ambayo mtu huacha mwili wake wa sasa na kwenda kwa kuzaliwa ijayo. Hakuna chaguo isipokuwa kwenda kwa kuzaliwa tena kwa kifo cha asili.
 
-  In the case of an untimely death, a person does not entirely die but instead loses half of their body and continues to live with the remaining half. Although it may seem unbelievable, this is what happens. The human body consists of two parts. The human body and the bodies of all living beings consist of both physical (visible) and non- physical (subtle) parts. In the case of the human body, the physical body is comprised of ten parts, and the subtle body is comprised of fifteen parts. In the event of an untimely death, a person leaves behind their physical body of ten parts and continues to exist with their subtle body of fifteen parts. As a result, someone who has experienced an untimely death can be considered ‘half-dead.’ When the rest of the subtle body eventually dies, it leads to natural death, and the person goes to the next birth. During untimely death, the person is not visible, but they continue to exist with their subtle body until they experience natural death.
+  Katika kesi ya kifo kisichotarajiwa, mtu hafi kabisa lakini badala yake hupoteza nusu ya mwili wake na kuendelea kuishi na nusu iliyobaki. Ingawa inaweza kuonekana kuwa ya kushangaza, hii ndio hufanyika. Mwili wa mwanadamu una sehemu mbili. Mwili wa mwanadamu na miili ya viumbe vyote hai inajumuisha sehemu zote za kimwili (zinazoonekana) na zisizo za kimwili (zilizofichika). Katika kesi ya mwili wa mwanadamu, mwili wa mwili unajumuishwa ya sehemu kumi, na mwili wa hila unajumuisha sehemu kumi na tano. Katika tukio la kifo kisichotarajiwa, mtu huacha mwili wake wa sehemu kumi na kuendelea kuwepo na mwili wao wa hila wa sehemu kumi na tano. Kwa sababu hiyo, mtu ambaye amepatwa na kifo kisichotarajiwa anaweza kuchukuliwa kuwa 'nusu mfu.' Wakati mwili uliobaki wa hila hatimaye hufa, husababisha kifo cha asili, na mtu huenda kwa kuzaliwa ijayo. Wakati wa kifo kisichotarajiwa, mtu huyo haonekani, lakini wanaendelea kuwepo na mwili wao wa hila hadi wapate kifo cha asili.
 
-  Currently, no one is aware of what happens during temporary death. In a temporary death, all bodily functions cease, and the Jeevatma remains in the body but is in a state of sleep. In temporary death, the person appears dead, but the Jeevatma remains in the body. This has led to incidents where people who experienced temporary death were mistakenly declared dead and buried, even though they were still alive. No one can detect that a person who has undergone temporary death is not actually dead. As a result, there have been numerous instances of people being buried alive.
+  Hivi sasa, hakuna mtu anayejua kinachotokea wakati wa kifo cha muda. Katika kifo cha muda, kazi zote za mwili hukoma, na Jeevatma inabaki katika mwili lakini iko katika hali ya usingizi. Katika kifo cha muda, mtu anaonekana amekufa, lakini Jeevatma inabaki kwenye mwili. Hii imesababisha matukio ambapo watu waliopata kifo cha muda walitangazwa kimakosa kuwa wamekufa na kuzikwa, ingawa walikuwa bado hai. Hakuna mtu anayeweza kugundua kwamba mtu ambaye amekufa kwa muda hajafa kwa kweli. Kutokana na hali hiyo, kumekuwa na matukio mengi ya watu kuzikwa wakiwa hai.
 <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
-The Story of Abdul Aziz in Jammu and Kashmir
+Hadithi ya Abdul Aziz katika Jammu na Kashmir
 </b></ion-col></ion-row>
-  On December 7, 2009, a story aired at 1:30 pm on the TV9 channel. Abdul Aziz, a 60-year-old man, had passed away a week earlier, on November 30, 2009, in Rajouri, a village in Jammu and Kashmir. Following Islamic tradition, as he was a Muslim, he was buried.
+Mnamo Desemba 7, 2009, hadithi ilionyeshwa saa 1:30 jioni kwenye chaneli ya TV9. Abdul Aziz, mzee wa miaka 60, aliaga dunia wiki moja mapema, Novemba 30, 2009, huko Rajouri, kijiji huko. Jammu na Kashmir. Kwa kufuata mila ya Kiislamu, kwa vile alikuwa Mwislamu, alizikwa.
 
-  Three days after his burial, the police received a complaint alleging that Abdul Aziz had not died naturally, and that foul play might be involved. The police promptly registered the case, proceeded to the cemetery, and exhumed Abdul Aziz’s corpse in the presence of his relatives. His body was then sent to a government hospital for a post- mortem examination.
+Siku tatu baada ya kuzikwa, polisi walipokea malalamiko wakidai kuwa Abdul Aziz hakufa kawaida, na kwamba mchezo mchafu unaweza kuhusika. Polisi waliiandikisha kesi hiyo mara moja, wakaelekea makaburini na kuifukua maiti ya Abdul Aziz mbele ya ndugu zake. Kisha mwili wake ulipelekwa katika hospitali ya serikali kwa uchunguzi wa maiti.
 
-  During the autopsy, the doctor first hit the head with a knife to examine the skull, and the head was injured. To the astonishment of everyone present, Abdul Aziz, presumed dead until then, woke up and inquired about the situation. The incredulous doctor, still processing the unexpected turn of events, sat down, and asked, “We are doing an autopsy.” Abdul Aziz calmly replied, “I am alive.” The doctor immediately informed Abdul Aziz’s relatives of the miraculous incident, and they arrived to take him back home.
+Wakati wa uchunguzi wa maiti, daktari kwanza alipiga kichwa kwa kisu kuchunguza fuvu, na kichwa kilijeruhiwa. Kwa mshangao wa kila mtu aliyekuwepo, Abdul Aziz, ambaye alidhaniwa kuwa amekufa hadi wakati huo, aliamka na kuuliza juu ya hali hiyo. Daktari asiyeamini, akiwa bado anashughulikia mabadiliko yasiyotarajiwa, aliketi, na kuuliza, "Tunafanya uchunguzi wa maiti." Abdul Aziz akajibu kwa utulivu, "Niko hai." Mara moja daktari akawajulisha ndugu wa Abdul Aziz juu ya tukio lile la muujiza, wakafika kumrudisha nyumbani.
 
-  Three days before, the same doctor had examined Abdul Aziz for fifteen minutes and confirmed his death. The doctor, recognizing the extraordinary nature of this event, described it as a miracle. The people of Rajouri village were equally astonished that Abdul Aziz, whom they had buried with their own hands, had come back to life three days later. As of now, six years and seven months have passed since the incident occurred. All TV channels aired this news on the same day. Given that this incident transpired in the presence of doctors, it remains undeniable and beyond mere superstition.
-  <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
-  An Incident in Visakhapatnam district
+Siku tatu kabla, daktari huyo huyo alikuwa amemchunguza Abdul Aziz kwa dakika kumi na tano na kuthibitisha kifo chake. Daktari, akitambua hali ya ajabu ya tukio hili, alielezea kuwa ni muujiza. Watu wa kijiji cha Rajouri walishangazwa vile vile kwamba Abdul Aziz, ambaye walimzika kwa mikono yao wenyewe, alikuwa amefufuka siku tatu baadaye.
+
+Hadi sasa, miaka sita na miezi saba imepita tangu tukio hilo kutokea. Vituo vyote vya televisheni vilipeperusha habari hii siku hiyo hiyo. Kwa kuzingatia kwamba tukio hili lilitokea mbele ya madaktari, bado haliwezekani na zaidi ya ushirikina tu.
+<ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
+ Tukio katika wilaya ya Visakhapatnam
   </b></ion-col></ion-row>
-  Srungavarapu Kota is situated on the way to Araku Valley in Visakhapatnam. There is a village named Saarepuram, located 12 km away from Srungavarapu Kota. In this village, lived a 67-year-old woman named Samudramma who had been suffering from high blood pressure and diabetes for ten years. She received medical treatment from Dr. Dharmalingachari, a senior doctor at Srungavarapu Kota. Dr. Dharmalingachari was a well-known 60-year-old veteran with a degree in M.B.B.S.
+  Srungavarapu Kota iko njiani kuelekea Bonde la Araku huko Visakhapatnam. Kuna kijiji kiitwacho Saarepuram, kilichoko kilomita 12 kutoka Srungavarapu Kota. Katika kijiji hiki, aliishi mwanamke mwenye umri wa miaka 67 anayeitwa Samudramma ambaye alikuwa akisumbuliwa na shinikizo la damu na kisukari kwa miaka kumi. Alipata matibabu kutoka kwa Dk. Dharmalingachari, daktari mkuu katika Srungavarapu Kota. Dk. Dharmalingachari alikuwa mwanajeshi maarufu mwenye umri wa miaka 60 mwenye shahada katika MBBS.
 
-  Six years ago, one evening at 6 PM, Samudramma was brought to Dr. Dharmalingachari after being pronounced dead by doctors at a government hospital. When the doctor examined her, he could not find a pulse. He declared her dead, stating that she did not need any medical treatment as she had no breathing or pulse. Her body was taken back to their village, 12 km away, to be buried the following day as it was already night. However, Samudramma’s body was kept in the porch for three days due to heavy rain that lasted for two days. To everyone’s surprise, she got up and called out to her relatives on the fourth morning. They immediately contacted Dr. Dharmalingachari and brought her to him after 15 days. The doctor then asked her if she had seen Yama’s servants or Yamaloka, as she had been declared dead for three days. She said she did not see anything.
+  Miaka sita iliyopita, jioni moja saa kumi na mbili jioni, Samudramma aliletwa kwa Dk. Dharmalingachari baada ya kutangazwa kuwa amefariki na madaktari katika hospitali ya serikali. Daktari alipomchunguza, hakuweza kupata mapigo ya moyo. Alimtangaza kuwa amekufa, akisema kwamba hakuhitaji matibabu yoyote kwa kuwa hakuwa na kupumua au mapigo ya moyo. Mwili wake ulirudishwa kijijini kwao, umbali wa kilomita 12, kuzikwa siku iliyofuata kwani tayari ilikuwa usiku. Hata hivyo, mwili wa Samudramma uliwekwa barazani kwa siku tatu kutokana na mvua kubwa iliyonyesha kwa siku mbili. Kwa Mshangao wa kila muntu, aliamka na kuwaita jamaa zake asubuhi ya nne. Mara moja waliwasiliana na Dk. Dharmalingachari na kumleta kwake baada ya siku 15. Kisha daktari akamuuliza kama amewaona watumishi wa Yama au Yamaloka, kwani alitangazwa kuwa amekufa kwa siku tatu. Alisema hakuona chochote.
 
-  This incident occurred six years ago in the presence of a doctor, so it cannot be denied or dismissed as superstitious.
+ 	Tukio hili lilitokea miaka sita iliyopita mbele ya daktari, kwa hivyo haliwezi kukataliwa au kufutwa kuwa ni la kishirikina.
+
   <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
-  Survivor from Pyre (Translated from a Telugu Newspaper) July 10, 2012, Sakshi News
+  Aliyenusurika kutoka Pyre (Imetafsiriwa kutoka kwa Kitelugu Gazeti) Julai 10, 2012, Sakshi News
   </b></ion-col></ion-row>
-<b>Chennai:</b> On Tuesday, doctors confirmed the death of 50-year-old Muttuswamy of Krishurayapuram in the Karur district of Tamil Nadu. They advised his relatives to proceed with the funeral rites. Believing that Muttuswamy had succumbed to old age and illness, the relatives gathered at the cemetery to perform the pyre.
+  <strong>Chennai:</strong>Siku ya Jumanne, madaktari walithibitisha kifo cha Muttuswamy mwenye umri wa miaka 50 wa Krishurayapuram katika wilaya ya Karur ya Tamil Nadu. Walishauri jamaa zake waendelee na ibada ya mazishi. Wakiamini kwamba Muttuswamy alishindwa na uzee na ugonjwa, watu wa ukoo walikusanyika kwenye kaburi ili kufanya pyre.
 
-  As they were about to commence the fire, Muttuswamy’s sister Paapatti approached the body. Overcome with grief, she fell onto the corpse and cried out, “Brother, will you leave me?” In that poignant moment, Muttuswamy’s legs and arms moved, and there was a slight groan. The tearful relatives were shocked and shouted, “Muttuswamy...Muttuswamy!” Muttuswamy woke up from the pyre as if he had just risen from sleep and asked his relatives what had happened. They all embraced Muttuswamy with happiness and took him back to the hospital. Notably, Muttuswamy’s daughter had gotten married just the day before.
+  Walipokuwa karibu kuanza moto, dadake Muttuswamy Paapatti aliukaribia mwili huo. Akiwa ameingiwa na huzuni, alianguka juu ya maiti na kulia, &ldquo;Ndugu, je, utaniacha?&rdquo; Katika wakati huo wa kuhuzunisha, miguu na mikono ya Muttuswamy ikasogea, na kukawa na mguno kidogo. Wale jamaa waliokuwa wakitokwa na machozi walishtuka na kupiga kelele, &ldquo;Muttuswamy...Muttuswamy!&rdquo; Mutuswamy aliamka kutoka kwenye pyre kana kwamba alikuwa ameamka kutoka usingizini na kuwauliza jamaa zake kilichotokea. Wote wakamkumbatia Muttuswamy kwa furaha na kumrudisha hospitali. Hasa, binti ya Muttuswamy alikuwa ameolewa siku moja kabla.
 
-  <b>Doctors’ Negligence:</b> Relatives criticized the doctors for their negligence in treating Muttuswamy, who had been admitted to a local hospital ten days ago after falling ill. They condemned the doctors for the incident, and the news quickly spread throughout the Karur district. This incident sparked widespread debate and was seen as another example of temporary death.
-<img src="assets/img/temp_death.png"/>
+  <strong>Uzembe wa Madaktari:</strong>Jamaa waliwakosoa madaktari hao kwa kuzembea kumtibu Muttuswamy, ambaye alikuwa amelazwa katika hospitali ya eneo hilo siku kumi zilizopita baada ya kuugua. Waliwashutumu madaktari kwa tukio hilo, na habari hiyo ikaenea haraka katika wilaya yote ya Karur. Tukio hili lilizua mjadala mkubwa na kuonekana kama mfano mwingine wa kifo cha muda.
+  <img src="assets/img/temp_death.png"/>
+  Mtu akipatwa na kifo cha muda, anaweza kuishi katika hali hiyo kwa hadi mwaka mmoja au zaidi. Uamsho unaweza kutokea kwa hiari au kwa msaada wa mtu kugonga au kuwaamsha. Katika hali nyingi, watu binafsi ambao hupata kifo cha muda asubuhi huamka jioni, huku wengine wakipata fahamu baada ya wiki moja au zaidi. Hivi majuzi, mwanamume mmoja anayeitwa Muttuswamy huko Tamil Nadu alifufuka baada ya kuwa kwenye mazishi. Vivyo hivyo, Yesu alimfufua msichana ambaye alikuwa amekufa kwa muda, na kusema kwamba hakuwa amekufa kwa kweli. Pia kuna maelezo ya kihistoria ya Yesu kujihuisha Mwenyewe. Ni muhimu kutambua kwamba matukio haya yote yalihusishwa na kifo cha muda.
 
-  If someone experiences temporary death, they may survive in that state for up to a year or more. The revival can occur either spontaneously or with the help of someone tapping or waking them up. In many cases, individuals who undergo temporary death in the morning awaken in the evening, while others regain consciousness after a week or more. Recently, a man named Muttuswamy in Tamil Nadu came back to life after being on a funeral pyre. Similarly, Jesus resurrected a girl who had experienced temporary death, declaring that she was not actually dead. There is also a historical account of Jesus reviving Himself. It is important to note that all these incidents were attributed to temporary death. Our scripture, <b>‘The Mystery of Death,</b> ’ delves into the four types of death and their reality. Reading this scripture will provide you with a comprehensive understanding of the various types of death.
+  Maandiko yetu,'<strong>Siri ya Kifo</strong>,' inachunguza aina nne za kifo na ukweli wake. Kusoma andiko hili kutakupatia ufahamu wa kina wa aina mbalimbali za kifo.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 57,
-verse: `<b>(4)	The Gospel of Mark, 7th chapter, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd and 23rd verses.</b><`,
+verse: `<b>(4)	Injili ya Marko, sura ya 7, 15, 16, 17, 18, 19, 20, 21, 22 na 23.</b><`,
 meaning: `<b>
-(15) Nothing outside a person can defile them by going into them.
+(7:15) Hakuna kitu nje ya mtu kinachoweza kumtia unajisi kwa kuingia ndani yake.
 <br><br>
-(15) Rather, it is what comes out of a person that defiles them.
+(7:16) Bali ni kile kinachomtoka mtu ndicho kinachomtia unajisi.
 <br><br>
-(17) After he had left the crowd and entered the house, his disciples asked him about this parable.
+(7:17) Naye alipokwisha kuuacha umati na kuingia nyumbani, wanafunzi wake wakamwuliza juu ya mfano huo.
 <br><br>
-(18) “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them?
+(7:18) “Je! Aliuliza. “Hamwoni kwamba kitu chochote kikimwingia mtu kutoka nje hakiwezi kumtia unajisi?
 <br><br>
-(19) For it does not go into their heart but into their stomach, and then out of the body.”
+(7:19) Kwa maana haiwaingii mioyoni mwao, ila tumboni, na kisha kutoka mwilini.
 <br><br>
-(20) He went on: “What comes out of a person is what defiles them.
+(7:20) Akaendelea kusema: “Kinachomtoka mtu ndicho kinachomtia unajisi.
 <br><br>
-(21) For it is from within, out of a person’s heart, that evil thoughts come sexual immorality, theft, murder,
+(7:21) Kwa maana hutoka ndani ya moyo wa mtu mawazo mabaya, uasherati, wizi, uuaji;
 <br><br>
-(22) adultery, greed, malice, deceit, lewdness, envy, slander, arrogance, and folly.
+(7:22) uzinzi, uchoyo, uovu, udanganyifu, uasherati, husuda, matukano, majivuno na upumbavu.
 <br><br>
-(23) All these evils come from inside and defile a person.     </b>`,
+(7:23) Maovu haya yote yanatoka ndani na kumtia mtu unajisi.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Man is born with six bad gunas and six good gunas. Gunas also grow along with the individual, influencing the buddhi located in the head and prompting external actions under its command. Buddhi instructs karmendriyas (organs of action) to perform actions outside the body, operating in accordance with gunas. As Buddhi works in alignment with gunas, the negative gunas influence buddhi, which then directs the actions of gunas, and the external senses respond according to buddhi’s command. These gunas manifest as undesirable qualities such as greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). The gunas first impact the buddhi and subsequently govern the body from there. All the wrongs committed by humans are rooted in the influence of gunas within the body.
+<div class="poem"><div class="poemtext">
+  Mwanadamu amezaliwa na bunduki mbaya sita na bunduki sita nzuri. Gunas pia hukua pamoja na mtu binafsi, na kuathiri Buddhi aliye kichwani na kusababisha vitendo vya nje chini ya amri yake. Buddhi anaagiza karmendriyas (viungo vya utendaji) kufanya vitendo nje ya mwili, kufanya kazi ndani kwa mujibu wa bunduki. Buddhi anapofanya kazi kwa upatanishi na gunas, gunas hasi huathiri Buddhi, ambayo huelekeza vitendo vya gunas, na hisi za nje hujibu kulingana na amri ya Buddhi. Bunduki hizi hudhihirisha sifa zisizohitajika kama vile uchoyo (kaama), hasira (krodha), ari (lobha), shauku (moha), kiburi (madam), na wivu (matsara). Gunas kwanza huathiri Buddha na hatimaye kutawala mwili kutoka hapo. Makosa yote yanayofanywa na wanadamu yanatokana na ushawishi wa gunas ndani ya mwili.
 
-  Food consumed from the outside contributes to the body’s health but does not affect the buddhi. Such food is converted into nutrients, promoting physical well-being. The food humans eat has no direct impact on the buddhi; it enters the body, supporting overall health. When food benefits the body, it strengthens and maintains good health. Therefore, the food entering the body externally does not lead to undesirable behavior in humans. It is the effect of the gunas originating from within the body that can result in negative conduct. Consequently, deviating from dietary rules may be acceptable, but maintaining control over the gunas is crucial.
+  Chakula kinachotumiwa kutoka nje huchangia afya ya mwili lakini haiathiri buddhi. Chakula kama hicho hubadilishwa kuwa virutubisho, kukuza ustawi wa mwili. Chakula ambacho wanadamu wanakula hakina athari ya moja kwa moja kwa Buddhi; huingia ndani ya mwili, kusaidia afya kwa ujumla. Chakula kinapofaidi mwili, huimarisha na kudumisha afya njema. Kwa hiyo, chakula kinachoingia ndani ya mwili kwa nje haiongoi tabia isiyofaa kwa wanadamu. Ni athari za gunas inayotoka ndani ya mwili ambazo inaweza kusababisha mwenendo mbaya. Kwa hivyo, kupotoka kutoka kwa sheria za lishe kunaweza kukubalika, lakini kudumisha udhibiti wa gunas ni muhimu.
+
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 58,
-verse: ` <b>(5)	The Gospel of Mark, 3rd chapter, 35th verse.</b>`,
+verse: ` <b>(5) Injili ya Marko, sura ya 3, mstari wa 35.</b>`,
 meaning: ` <b>
-(35) Whoever does God’s will is my brother and sister and mother.     </b>`,
+(3:35) Yeyote anayefanya mapenzi ya Mungu huyo ndiye kaka yangu na dada yangu na mama yangu.   </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> When we question what God’s will is, we can understand that His commandments (dharmas) represent His will. By obeying His commandments, we align ourselves with God’s will. Conversely, if we act according to our own desires without adhering to His commands, we violate His guidance and follow Satan’s will. When God incarnates on earth as Bhagavan, those who comprehend His wisdom, act in accordance with it, propagate His teachings, and disseminate His commandments will draw closer to him. Conversely, those who choose the path of Satan become adversaries of God. Those who actively promote God’s words and adhere to His commandments are regarded as His sisters, brothers, and closest followers. Whether God is physically present on earth or not, it's crucial to recognize that gnanis (those possessing wisdom) within His boundaries who follow His commands will be considered close to God.
+<div class="poem"><div class="poemtext">
+  Tunapohoji mapenzi ya Mungu ni nini, tunaweza kuelewa kwamba amri zake (dharmas) zinawakilisha mapenzi yake. Kwa kutii amri zake, tunajipatanisha na mapenzi ya Mungu. Kinyume chake, ikiwa tunatenda kulingana na matamanio yetu bila kushikamana na amri Zake, tunakiuka mwongozo Wake na kufuata mapenzi ya Shetani. Mungu anapopata mwili duniani kama Bhagavan, wale wanaofahamu hekima Yake, kutenda kulingana nayo, kueneza mafundisho Yake, na kusambaza amri Zake watamkaribia zaidi. Kinyume chake, wale wanaochagua njia ya Shetani wanakuwa maadui wa Mungu. Wale wanaoendeleza maneno ya Mungu kwa bidii na kuzingatia amri Zake wanachukuliwa kuwa dada, kaka, na wafuasi Wake wa karibu zaidi. Iwe Mungu yuko duniani kimwili au hayupo, ni muhimu kutambua kwamba Gnanis (wale walio na hekima) ndani ya mipaka Yake wanaofuata amri Zake watachukuliwa kuwa karibu na Mungu.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 59,
-verse: ` <b>(6)	The Gospel of Mark, 4th chapter, 17th verse.</b>`,
+verse: ` <b>(6)	Injili ya Marko, sura ya 4, mstari wa 17.</b>`,
 meaning: `<b>
-(17) But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. </b>`,
+(4:17) Lakini kwa kuwa hawana mizizi, wanadumu kwa muda mfupi tu. inapotokea dhiki au adha kwa ajili ya lile neno, huanguka upesi. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the Gita, Lord Krishna speaks of four kinds of devotees: 1) Those who worship in trouble, 2) Those who pray for wealth, 3) Those who are interested in knowing about God, 4) Those who possess wisdom (Gnanis). The Lord said in the Gita that He favors Gnanis. Similarly, Lord Jesus talks about four types of devotees in the Bible, but the verse referred to here pertains to only one of these types. Some individuals are curious about God’s wisdom and seek to follow it. Satan begins to tempt them in its way. They face many troubles in that process. When they encounter difficulties because of wisdom, Satan begins to preach in their heads. Satan says to them, “You are facing troubles because you know wisdom. Don’t be foolish. You can escape the coming problems by pretending to be on the wisdom path.” Those who do not understand the true essence of wisdom may start to act accordingly. After some time, if the person faces problems because of wisdom or Guru, and these issues lead to conflicts with others or fears of persecution, Maya will take advantage of the situation. Maya creates these kinds of thoughts in the person’s head, and individuals may start to think, “I should have been wiser from the beginning. I got into this situation because I followed the Guru for wisdom, even though my close relatives warned me not to. Why should I suffer for this wisdom? It is better to abandon wisdom and the Guru. Blindly following wisdom will only lead to ruin for my family and me. Since we are in the world, we must conform to its ways. Those in the forest face no problems regardless of their actions, but it would be foolish for us in the village to go against the norms.” Such thoughts can cause individuals to distance themselves from wisdom, even after being on the path for some time. Therefore, Jesus said that even those who have been on the path of wisdom for some time will object when there is toil and torture for the sake of wisdom.
+<div class="poem"><div class="poemtext">
+  Katika Gita, Bwana Krishna anazungumza juu ya aina nne za waja: 1) Wale wanaoabudu katika shida, 2) Wale wanaomba mali, 3) Wale wanaopenda kujua juu ya Mungu, 4) Wale walio na hekima (Gnanis). Bwana alisema katika Gita kwamba anapendelea Gnanis. Vile vile, Bwana Yesu anazungumza kuhusu aina nne za waabudu katika Biblia, lakini mstari unaorejelewa hapa unahusu moja tu ya aina hizi. Watu fulani wanatamani kujua hekima ya Mungu na wanatafuta kuifuata. Shetani anaanza kuwajaribu kwa njia yake. Wanakabiliwa na matatizo mengi katika mchakato huo. Wanapokutana na magumu kwa sababu ya hekima, Shetani huanza kuhubiri vichwani mwao. Shetani anawaambia, &ldquo;Mnapatwa na matatizo kwa sababu mnajua hekima. Usiwe mjinga. Unaweza kuepuka matatizo yanayokuja kwa kujifanya kuwa kwenye njia ya hekima.&rdquo; Wale ambao hawaelewi kiini cha kweli cha hekima wanaweza kuanza kutenda ipasavyo. Baada ya muda fulani, ikiwa mtu huyo anakabiliwa na matatizo kwa sababu ya hekima au Guru, na masuala haya yanasababisha migogoro na wengine au hofu ya mateso, Maya atachukua fursa ya hali hiyo. Maya huunda mawazo ya aina hii katika kichwa cha mtu, na watu binafsi wanaweza kuanza kufikiria, &ldquo;Ningepaswa kuwa na hekima zaidi tangu mwanzo. Niliingia katika hali hii kwa sababu nilimfuata Guru kwa hekima, ingawa ndugu zangu wa karibu walinionya nisifanye. Kwa nini niteseke kwa hekima hii? Ni bora kuacha hekima na Guru. Kufuata hekima kwa upofu kutasababisha tu uharibifu kwa familia yangu na mimi. Kwa kuwa tuko ulimwenguni, ni lazima tufuate njia zake. Waliopo msituni hawakabiliwi na matatizo bila kujali matendo yao, lakini itakuwa ni upumbavu kwetu kijijini kwenda kinyume na kanuni.&rdquo; Mawazo hayo yanaweza kuwafanya watu wajitenge na hekima, hata baada ya kuwa njiani kwa muda fulani. Kwa hiyo, Yesu alisema kwamba hata wale ambao wamekuwa kwenye njia ya hekima kwa muda watapinga wakati kuna taabu na mateso kwa ajili ya hekima.
 
-  Those who truly value God’s wisdom and understand its importance will not fall prey to Satan’s temptations. One cannot escape the clutches of Satan unless they value wisdom and their Guru more than their wife, close friends, and even their own life, despite knowing that they may face persecution or death on the path of wisdom. Even the disciples of Lord Jesus were afraid of the guards on the day of His arrest and abandoned their Guru to save their own lives. They fled with fear due to trouble and persecution. If they had also been prepared to face death along with Lord Jesus on that day, their lives would have been blessed. Maya obstructed the disciples partially that day. Unlike them, we should stand firm in the face of any trouble or persecution on the path of wisdom. Blessed is the one who is willing to die for the divine path rather than living in fear on the path of ignorance. In the Bhagavad-Gita, the Lord said, <b>“It is better to die in Paramatma’s dharma, which is your dharma, than to fear in the path of Satan, which is not your dharma.”</b>
+  Wale wanaothamini kweli hekima ya Mungu na kuelewa umuhimu wake hawataanguka katika majaribu ya Shetani. Mtu hawezi kuepuka makucha ya Shetani isipokuwa athamini hekima na Guru yao kuliko mke wake, marafiki wa karibu, na hata maisha yao wenyewe, licha ya kujua kwamba wanaweza kukumbana na mateso au kifo kwenye njia ya hekima. Hata wanafunzi wa Bwana Yesu waliogopa walinzi siku ya kukamatwa kwake na walimwacha Guru wao ili kuokoa maisha yao wenyewe. Walikimbia kwa hofu kutokana na shida na mateso. Kama wangekuwa wametayarishwa pia kukabiliana na kifo pamoja na Bwana Yesu siku hiyo, maisha yao yangebarikiwa. Maya aliwazuia wanafunzi kwa sehemu siku hiyo. Tofauti nao, tunapaswa kusimama kidete tunapokabili matatizo au mateso yoyote kwenye njia ya hekima. Amebarikiwa yule ambaye yuko tayari kufa kwa ajili ya njia ya kimungu kuliko kuishi kwa hofu kwenye njia ya ujinga. Katika Bhagavad-Gita, Bwana alisema, &ldquo;<strong>Ni bora kufa katika dharma ya Paramatma, ambayo ni dharma yako, kuliko kuogopa katika njia ya Shetani, ambayo sio dharma yako.</strong>
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 60,
-verse: ` <b>(7)	The Gospel of Mark, 4th chapter, 21st and 22nd verses.</b>`,
+verse: ` <b>(7)	Injili ya Marko, sura ya 4, aya ya 21 na 22.</b>`,
 meaning: `<b>
-(21) He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand?
+(4:21) Akawaambia, Je! mwaleta taa na kuiweka chini ya bakuli au kitanda? Badala yake, je, huiweke kwenye kinara chake?
 <br><br>
-(22) For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.     </b>`,
+(4:22) Kwani yaliyofichika yatafichuliwa, na yaliyofichika yatadhihirika.   </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the present time, many gurus are saying that disciples should not share their wisdom with others. They say that their wisdom is confidential and should only be shared with those who have received upadesa. When someone asks them a question, they avoid answering it. However, wisdom should not be concealed. God Himself comes in human form and takes the trouble to convey wisdom. Although we do not know the true wisdom, we should not make excuses for sharing the little wisdom that we know. Wisdom is like a lamp that removes ignorance in others. Just as an object in darkness can be seen in the lamp’s light, an unknown thing in ignorance can be understood with wisdom. Wisdom is needed to dispel ignorance, just as a lamp is required to dispel darkness. Lighting a lamp and then keeping it under a bowl is foolish. Similarly, it is unwise not to share the wisdom that you have. Even secrets are meant to be disclosed. Bhagavan revealed the best divine wisdom in the world. In that case, anything of lesser value than wisdom cannot be concealed. No mystery in the world can be kept hidden; it will surely come out. God’s wisdom is necessary for everyone and should not be kept a secret. Those who want to conceal it cannot do so.
+<div class="poem"><div class="poemtext">
+  Katika wakati huu, gurus wengi wanasema kwamba wanafunzi hawapaswi kushiriki hekima yao na wengine. Wanasema kuwa hekima yao ni ya siri na inapaswa kushirikiwa tu na wale ambao wamepokea upadesa. Mtu anapowauliza swali, huepuka kulijibu. Hata hivyo, hekima haipaswi kufichwa. Mungu Mwenyewe anakuja katika umbo la mwanadamu na kuchukua taabu kuwasilisha hekima. Ingawa hatujui hekima ya kweli, hatupaswi kutoa visingizio vya kushiriki hekima ndogo tunayoijua. Hekima ni kama taa inayoondoa ujinga kwa wengine. Kama vile kitu gizani kinavyoweza kuonekana katika nuru ya taa, jambo lisilojulikana katika ujinga linaweza kueleweka kwa hekima. Hekima inahitajika ili kuondoa ujinga, kama vile taa inavyohitajika ili kuondoa giza. Kuwasha taa na kuiweka chini ya bakuli ni upumbavu. Vivyo hivyo, si jambo la hekima kutoshiriki hekima uliyo nayo. Hata siri zinakusudiwa kufichuliwa. Bhagavan alifunua hekima bora zaidi ya kimungu ulimwenguni. Katika hali hiyo, chochote chenye thamani ndogo kuliko hekima hakiwezi kufichwa. Hakuna siri duniani inayoweza kufichwa; hakika itatoka. hekima ya Mungu ni muhimu kwa kila mtu na haipaswi kuwa siri. Wale wanaotaka kuficha hawawezi kufanya hivyo.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 61,
-verse: `<b>(8)	The Gospel of Mark, 6th chapter, 4th verse.</b>`,
+verse: `<b>(8)	Injili ya Marko, sura ya 6, mstari wa 4.</b>`,
 meaning: `<b>
-(4) Jesus said to them, “A prophet is not without honor except in his own town, among his relatives and in his own home.”      </b>`,
+(6:4) Yesu akawaambia, Nabii hakosi heshima isipokuwa katika mji wake, na kwa jamaa zake, na nyumbani kwake.     </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In Telugu, a prophet is defined as someone who teaches something important. The wisdom of Paramatma is the most essential thing for every human being. A person who imparts this wisdom is called a prophet. Ordinary humans do not know the wisdom of Paramatma, except for the one who comes from Paramatma. The one who comes from Paramatma and is born as a man is called Bhagavan or Prophet. The prophet is not honored in His own home, among His relatives, or in His own town because He appears to be an ordinary man. No matter how great someone is, it is natural to be underestimated at home and by relatives. Since they have seen the prophet since childhood, family members and relatives may ridicule Him, saying that He has no greatness and that only fools will listen to Him. They may also claim that He does not know anything beyond what they know. Even God cannot become a prophet to His own family members. Even when others recognize and speak about His greatness, His relatives and family members question what excellence He possesses. They do not recognize His importance and ridicule Him, pointing out things such as Him wetting the bed and soiling His underwear in His childhood. Therefore, while He is a prophet to others, He is not honored in His own home and town. According to this principle, Lord Jesus was not recognized as a prophet by His family and relatives.
+<div class="poem"><div class="poemtext">
+  Katika Kitelugu, nabii anafafanuliwa kama mtu anayefundisha jambo muhimu. Hekima ya Paramatma ndio kitu muhimu zaidi kwa kila mwanadamu. Mtu anayetoa hekima hii anaitwa nabii. Wanadamu wa kawaida hawajui hekima ya Paramatma, isipokuwa kwa yule anayetoka Paramatma. Yule anayetoka Paramatma na kuzaliwa kama mwanamume anaitwa Bhagavan au Mtume. Nabii haheshimiwi katika nyumba yake mwenyewe, kati ya jamaa zake, au katika mji wake mwenyewe kwa sababu anaonekana kuwa mtu wa kawaida. Haijalishi mtu ni mkuu kiasi gani, ni kawaida kudharauliwa nyumbani na kwa jamaa. Kwa kuwa wamemwona nabii huyo tangu utotoni, wanafamilia na watu wa ukoo wanaweza kumdhihaki, wakisema kwamba Yeye hana ukuu na kwamba wapumbavu tu ndio watamsikiliza. Wanaweza pia kudai kwamba Yeye hajui chochote zaidi ya kile wanachokijua wao. Hata Mungu hawezi kuwa nabii kwa watu wa familia yake mwenyewe. Hata wakati wengine wanatambua na kusema juu ya ukuu Wake, jamaa na wanafamilia Wake wanahoji ubora gani Anao. Hawatambui Umuhimu Wake na kumdhihaki, akionyesha mambo kama vile Yeye kukojoa kitanda na kuchafua chupi Yake katika utoto Wake. Kwa hiyo, wakati Yeye ni nabii kwa wengine, Yeye haheshimiwi katika nyumba Yake na mji Wake. Kulingana na kanuni hii, Bwana Yesu hakutambuliwa kama nabii na familia yake na jamaa zake.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 62,
-verse: `<b>(9)	The Gospel of Mark, 8th chapter, 38th verse.</b>`,
+verse: `<b>(9)	Injili ya Marko, sura ya 8, mstari wa 38.</b>`,
 meaning: `<b>
-(38) If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of them when he comes in his Father’s glory with the holy angels. </b>`,
+(8:38) Mtu ye yote akinionea haya mimi na maneno yangu katika kizazi hiki cha uzinzi na dhambi, Mwana wa Adamu atamwonea haya mtu atakapokuja katika utukufu wa Baba yake pamoja na malaika watakatifu. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Some people learn wisdom in society but choose to keep it a secret. They feel that knowing wisdom is a mistake; hence, they do it confidentially. They may also feel ashamed to go to a Guru and learn wisdom from them, and therefore keep it confidential. Some individuals are in search of a Guru to become disciples but prefer a wealthy Guru due to their status and wealth. They are embarrassed to approach a poor Guru, even if that Guru has more wisdom. Consequently, they choose a wealthy Guru who may not possess much wisdom. Although some individuals have learned wisdom from a Guru, they do not want to be referred to as disciples of that Guru. Thus, many people feel ashamed and take great care to avoid being exposed.
+<div class="poem"><div class="poemtext">
+  Watu wengine hujifunza hekima katika jamii lakini huchagua kuifanya siri. Wanahisi kwamba kujua hekima ni kosa; kwa hiyo, wanaifanya kwa siri. Wanaweza pia kuona aibu kwenda kwa Guru na kujifunza hekima kutoka kwao, na kwa hivyo kuiweka siri. Baadhi ya watu wanatafuta Guru ili wawe wanafunzi lakini wanapendelea Guru tajiri kutokana na hali na mali zao. Wanaona aibu kumkaribia Guru maskini, hata kama Guru huyo ana hekima zaidi. Kwa hiyo, wanachagua Guru tajiri ambaye hawezi kuwa na hekima nyingi. Ingawa baadhi ya watu wamejifunza hekima kutoka kwa Guru, hawataki kuitwa wanafunzi wa Guru huyo. Hivyo, watu wengi wanaona aibu na kuchukua tahadhari kubwa ili kuepuka kufichuliwa.
 
-  One may feel ashamed of material things, but one should not be ashamed of the wisdom of Paramatma. Let us consider an example. Two people are walking on the road. One is handsome but poor and unintelligent, while the other is unattractive but rich and intelligent. They are both close relatives. People who see them on the road will judge them by their outward appearance, not by their intelligence. After a while, a traveler sees them and asks the handsome person who the second person is. The handsome person is ashamed to say that the unattractive person is his close relative because of their appearance. Instead, he simply says that they know each other. The unattractive person thinks that he has been introduced as an acquaintance rather than a close relative because of his appearance. Later, another traveler sees them and asks the unattractive person who the other person is. Being intelligent, the unattractive person responds similarly by saying that they are merely acquaintances. The handsome person is pleased to be introduced as an acquaintance rather than a relative. The unattractive person thinks, "I am also ashamed to introduce this stupid person as my close relative." The unattractive person followed the behavior of the handsome person.
+  Mtu anaweza kujisikia aibu kwa vitu vya kimwili, lakini haipaswi kuaibishwa na hekima ya Paramatma. Acheni tuchunguze mfano mmoja. Watu wawili wanatembea barabarani. Mmoja ni mzuri lakini maskini na hana akili, wakati mwingine hana mvuto lakini tajiri na mwenye akili. Wote wawili ni jamaa wa karibu. Watu wanaowaona njiani watawahukumu kwa sura yao ya nje, si kwa akili zao. Baada ya muda, msafiri anawaona na kumuuliza yule mtu mzuri ambaye ni mtu wa pili. Mtu mzuri ana aibu kusema kwamba mtu asiyevutia ni jamaa yake wa karibu kwa sababu ya kuonekana kwao. Badala yake, anasema tu kwamba wanajuana. Mtu asiyevutia hufikiri kwamba ametambulishwa kuwa mtu anayefahamiana naye badala ya kuwa jamaa wa karibu kwa sababu ya sura yake. Baadaye, msafiri mwingine anawaona na kumuuliza mtu asiyevutia huyo mtu mwingine ni nani. Akiwa mwenye akili, mtu asiyevutia anajibu vivyo hivyo kwa kusema kwamba wao ni watu wanaofahamiana tu. Mrembo huyo anafurahi kutambulishwa kama mtu anayefahamiana na sio jamaa. Mtu asiyevutia anafikiri, "Mimi pia nina aibu kumtambulisha mtu huyu mjinga kama jamaa yangu wa karibu." Mtu asiyevutia alifuata tabia ya mtu mzuri.
 
-  The second traveler, who asked the unattractive person, had a rule for many years. His rule was to give 10,000 coins if he met close relatives. However, although they were close relatives, they did not receive the 10,000 coins because they did not introduce themselves as such. Consequently, the first poor person did not receive any money. Since the second person is rich, he does not care if he received the money or not. The first-person lost money because he was ashamed and lied. If you are ashamed of wisdom just because others do not like it, then wisdom is also ashamed of you. The first-person lost money because he was first ashamed and lied. Hence, they would not receive future profit liberation. Based on this, the Lord said, <b>“If anyone is ashamed of me and my words, I am also ashamed of them.”</b> Therefore, one should understand that it is okay to be ashamed of material matters, but one should not be ashamed of Paramatma’s wisdom.
+  Msafiri wa pili, ambaye aliuliza mtu asiyevutia, alikuwa na sheria kwa miaka mingi. Sheria yake ilikuwa kutoa sarafu 10,000 ikiwa atakutana na jamaa wa karibu. Walakini, ingawa walikuwa karibu jamaa hawakupokea hizo 10,000 kwa sababu hawakujitambulisha hivyo. Kwa hiyo, maskini wa kwanza hakupokea pesa yoyote. Kwa kuwa mtu wa pili ni tajiri, hajali ikiwa alipokea pesa au la. Mtu wa kwanza alipoteza pesa kwa sababu alikuwa na aibu na kusema uwongo. Ikiwa unaona aibu na hekima kwa sababu tu wengine hawaipendi, basi hekima pia ina aibu kwako. Mtu wa kwanza alipoteza pesa kwa sababu alikuwa na aibu kwanza na kusema uwongo. Kwa hivyo, hawatapokea ukombozi wa faida ya siku zijazo. Kulingana na hili, Bwana alisema,<strong>"Mtu ye yote akinionea aibu mimi na maneno yangu, mimi pia ninawaonea haya.&rdquo;</strong>Kwa hiyo, mtu anapaswa kuelewa kwamba ni sawa kuona aibu juu ya mambo ya kimwili, lakini mtu haipaswi kuwa na aibu kwa hekima ya Paramatma.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 63,
-verse: `<b>(10)	The Gospel of Mark, 9th chapter, 7h verse.</b>`,
+verse: `<b>(10)	Injili ya Marko, sura ya 9, mstari wa 7.</b>`,
 meaning: `<b>
-(7) Then a cloud appeared and covered them, and a voice came from the cloud: “This is my Son, whom I love. Listen to him!”</b>`,
+(9:7) Kisha wingu likatokea na kuwafunika, na sauti ikatoka katika hilo wingu: “Huyu ni Mwanangu, mpendwa wangu; Msikilizeni!”</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Most people are not aware of the clouds in the sky. During the rainy season, the clouds produce thunder and make a loud noise. The clouds are alive and perform many tasks, but their specific roles are unknown. According to history, the Sun heard the divine wisdom that the clouds first revealed at the beginning of creation. There are no secrets unknown to the clouds on earth. God behind the clouds said about Jesus, <b>“This is my beloved Son. Listen to him.”</b> Therefore, it is God’s will that people should hear God’s wisdom from Jesus. What God says as a man is God’s wisdom, but when humans do not listen, God speaks from the clouds. Although humans may not always respect what others say, they value what the clouds say, which is why God spoke from the clouds in the sky.
+<div class="poem"><div class="poemtext">
+  Watu wengi hawajui kuhusu mawingu angani. Wakati wa mvua, mawingu hutokeza ngurumo na kutoa sauti kubwa. Mawingu ni hai na hufanya kazi nyingi, lakini majukumu yao maalum haijulikani. Kulingana na historia, Jua lilisikia hekima ya kimungu ambayo mawingu yalifunua mwanzoni mwa uumbaji. Hakuna siri zisizojulikana kwa mawingu duniani. Mungu nyuma ya mawingu alisema kuhusu Yesu,<strong>"Huyu ni Mwanangu mpendwa. Msikilizeni.&rdquo;</strong>Kwa hiyo, ni mapenzi ya Mungu kwamba watu wasikie hekima ya Mungu kutoka kwa Yesu. Anachosema Mungu kama mwanadamu ni hekima ya Mungu, lakini wanadamu wasiposikiliza, Mungu huzungumza kutoka mawinguni. Ingawa wanadamu huenda wasiheshimu sikuzote yale ambayo wengine husema, wanathamini yale mawingu yasemayo, ndiyo sababu Mungu alizungumza kutoka mawinguni angani.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 3,
 pageNumber: 64,
-verse: ` <b>(11)	The Gospel of Mark, 10th chapter, 17th and 18th verses.</b>`,
+verse: ` <b>(11)	Injili ya Marko, sura ya 10, aya ya 17 na 18.</b>`,
 meaning: ` <b>
-(17) As Jesus started on his way, a man ran up to him and fell on his knees before him. “Good teacher,” he asked, “what must I do to inherit eternal life?”
+(10:17) Yesu alipoanza safari yake, mtu mmoja alimkimbilia na kupiga magoti mbele yake. “Mwalimu mwema,” aliuliza, “nifanye nini ili niurithi uzima wa milele?”
 <br><br>
-(18) “Why do you call me good?” Jesus answered. “No one is good—except God alone.  </b>`,
+(10:18) “Mbona unaniita mwema?” Yesu akajibu. “Hakuna aliye mwema, isipokuwa Mungu peke yake.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some Christians claim that the Bible was originally written in Hebrew and then translated into many other languages. Hence, some words were not translated correctly. For example, the phrase “Good teacher” is used in the first verse, and in the second verse, “God is good.” However, based on what Jesus said, <b>“No one is good—except God alone,”</b> the word should neither be ‘Good teacher’ nor ‘Good God.’ A person who teaches wisdom eloquently can be called a good teacher, and someone who performs good deeds can be called a good person.
+<div class="poem"><div class="poemtext">
+  Wakristo fulani wanadai kwamba Biblia iliandikwa awali katika Kiebrania na kisha kutafsiriwa katika lugha nyingine nyingi. Kwa hiyo, baadhi ya maneno hayakutafsiriwa ipasavyo. Kwa mfano, neno &ldquo;Mwalimu Mwema&rdquo; limetumiwa katika mstari wa kwanza, na katika mstari wa pili, &ldquo;Mungu ni mwema.&rdquo; Walakini, kulingana na kile Yesu alisema,<strong>"Hakuna aliye mwema isipokuwa Godalone,&rdquo; </strong>neno hilo lisiwe 'Mwalimu Mwema' wala 'Mungu Mwema.' Mtu anayefundisha hekima kwa ufasaha anaweza kuitwa mwalimu mzuri, na mtu anayefanya mambo mema anaweza kuitwa mtu mwema. Kuna walimu wazuri na watu wema duniani. Kwa hiyo, ingemdharau Mungu kulinganisha yao na kusema,<strong>"Hakuna aliye mwema</strong><strong>-isipokuwa Mungu</strong><strong>peke yake.&rdquo;</strong>Mbali na hayo, hakuna linganisha maneno 'mwalimu mwema' katika sentensi ya kwanza na 'mtu mwema' katika sentensi ya pili. Andiko la pili la kimungu, Biblia, limetafsiriwa katika lugha nyingi zaidi kuliko maandiko mengine mawili matakatifu. Biblia imetafsiriwa katika lugha 1,400, na kuifanya kuwa andiko pekee ambalo limetafsiriwa katika lugha nyingi.
 
-  There are good teachers and good people on earth. Therefore, it would be belittling God to compare them and say, <b>“No one is good—except God alone.”</b> Apart from that, there is no match between the words ‘good teacher’ in the first sentence and ‘good person’ in the second sentence. The second divine scripture, the Bible, has been translated into more languages than the other two holy scriptures. The Bible has been translated into 1,400 languages, making it the only scripture that has been translated into most languages.
+  Maandiko ya kwanza ya kiungu ndio msingi wa andiko la pili la kimungu, Biblia, na andiko la mwisho la kimungu, Quran. Quran inatoa ushuhuda katika 5:44, 5:46, 5:48, na 5:68 kwamba.<strong>hekima ya maandiko ya kwanza ya kimungu, Taurati (Bhagavad-Gita), pia iko katika maandiko mengine mawili.</strong>Kwa hiyo, tunapozingatia maneno yaliyotumiwa katika Injili ya Marko, 10:17 na 10:18, tunaweza kuelewa kwamba kunaweza kuwa na walimu wengi wazuri na watu wema katika ulimwengu, lakini hakuna Uttama Purusha (Kiumbe Mkuu) miogoni mwa wanaume. Kwa hiyo, kama ilivyoelezwa katika Bhagavad-Gita,<strong>"Mungu pekee ndiye Purushottama.&rdquo;</strong>Inaweza kusemwa kwamba maneno yasiyohusiana yalitumiwa katika mistari hapo juu, ambapo neno lilipaswa kuwa 'Purushottama.' Hili linaeleweka vyema unapotazama mistari ya 16,17, na 18 katika sura ya 15 ya Bhagavad-Gita, Purushottama Prapti Yoga.
 
-  The first divine scripture is the basis for the second divine scripture, the Bible, and the last divine scripture, the Quran. The Quran provides testimony in 5:44, 5:46, 5:48, and 5:68 that <b>the wisdom of the first divine scripture, the Taurat (the Bhagavad-Gita), is also present in the other two scriptures.</b> Therefore, when we consider the words used in the Gospel of Mark, 10:17 and 10:18, we can understand that there may be many good teachers and good people in the world, but there is no Uttama Purusha (Supreme Being) among men. Hence, as stated in the Bhagavad-Gita, <b>“God alone is Purushottama.”</b> It can be said that unrelated words were used in the above verses, where the word should have been ‘Purushottama.’ This is well understood when you look at verses 16,17, and 18 in the 15th chapter of the Bhagavad-Gita, the Purushottama Prapti Yoga.
-
-  According to the first divine scripture, there is only one Purusha. Although there is only one Purusha, God is divided into three - Jeevatma, Atma, and Paramatma. Among these three males, <b>the male who is better than Jeevatma and Atma is Paramatma, also known as Purushottama,</b> as mentioned in Bhagavad-Gita. It can be said that all except the three males are Prakruti, which is feminine. Men and women in the world are all related to feminine nature. Therefore, in the verse, Jesus said, <b>“Don’t call me Purushottama (Uttama Purusha). God alone is Uttama Purusha.”</b> There are three main religions on earth. The people of each religion took a divine scripture and said this is our scripture. However, in reality, these three scriptures are not related to any specific religion. They provide wisdom to all human beings, and therefore, they should be regarded as scriptures meant for all human beings.
+  Kulingana na andiko la kwanza la kimungu, kuna Purusha moja tu. Ingawa kuna Purusha moja tu, Mungu amegawanywa katika tatu - Jeevatma, Atma, na Paramatma. Kati ya hawa wanaume watatu,<strong>mwanamume ambaye ni bora kuliko Jeevatma na Atma isParamatma, pia inajulikana kama Purushottama</strong>, kama ilivyotajwa katika Bhagavad-Gita. Inaweza kusemwa kwamba wote isipokuwa wanaume watatu ni Prakruti, ambayo ni ya kike. Wanaume na wanawake ulimwenguni wote wanahusiana na asili ya kike. Kwa hiyo, katika aya hiyo, Yesu alisema,<strong>"Usiniite Purushottama (Uttama Purusha). </strong><strong>Mungu pekee ndiye Uttama Purusha.&rdquo;</strong>Kuna dini kuu tatu duniani. Watu wa kila dini walichukua andiko la kimungu na wakasema hili ni andiko letu. Hata hivyo, kwa kweli, maandiko haya matatu hayahusiani na dini yoyote maalum. Yanatoa hekima kwa wanadamu wote, na kwa hivyo, yanapaswa kuzingatiwa kama maandiko yaliyokusudiwa kwa wanadamu wote.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "TInjili ya Marko",
 chapterNumber: 4,
 pageNumber: 65,
-verse: `<b>(12)	The Gospel of Mark, 16th chapter, 15th and 16th verses.</b>`,
+verse: `<b>(12)	Injili ya Marko, sura ya 16, aya ya 15 na 16.</b>`,
 meaning: `<b>
-(15) He said to them, “Go into all the world and preach the gospel to all creation.
+(16:15) Akawaambia, Enendeni ulimwenguni mwote, mkaihubiri Injili kwa viumbe vyote.
 <br><br>
-(16) Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.   </b>`,
+(16:16) Aaminiye na kubatizwa ataokoka, lakini asiyeamini atahukumiwa.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  After Jesus was crucified and laid in the tomb, He rose from the tomb at dawn on Sunday morning. He first appeared to Mary Magdalene and then to other disciples. Jesus appeared to the disciples thirty-three times after coming out of the tomb. He told the above two verses to the eleven disciples when they sat together for a meal. Since all humans in the world are immersed in ignorance, He instructed His disciples to go and <b>preach the gospel, which is God’s wisdom,</b> to them. The same message is conveyed in the 15th verse, <b>“Go into all the world and preach the gospel to all creation.”</b> Here, ‘all the world’ does not mean different worlds; it refers to people who earn their livelihoods on earth and suffer in various ways.
+<div class="poem"><div class="poemtext">
+  Baada ya Yesu kusulubishwa na kulazwa kaburini, alifufuka kutoka kaburini alfajiri ya Jumapili asubuhi. Kwanza alimtokea Maria Magdalene na kisha kwa wanafunzi wengine. Yesu aliwatokea wanafunzi mara thelathini na tatu baada ya kutoka kaburini. Aliwaambia wale wanafunzi kumi na mmoja mistari miwili hapo juu walipoketi pamoja kwa ajili ya chakula. Kwa kuwa wanadamu wote ulimwenguni wamezama katika ujinga, Aliwaagiza wanafunzi Wake kwenda na<strong>kuhubiri injili ambayo ni hekima ya Mungu</strong>, kwao. Ujumbe huohuo umetolewa katika aya ya 15.<strong>"Enendeni ulimwenguni mwote mkaihubiri Injili kwa viumbe vyote.&rdquo;</strong>Hapa, 'ulimwengu wote' haimaanishi ulimwengu tofauti; inahusu watu wanaopata riziki zao duniani na kuteseka kwa njia mbalimbali.
 
-  Jesus also said, “Preach the gospel to all creation.” It means preaching the gospel, divine wisdom, to people of all ages. He said to preach them divine wisdom and grant them permission, ‘baptism,’ to go to paraloka. Baptism is like a permit to liberation or paraloka. Those who have been granted permission to paraloka will be saved by my wisdom and escape from the experience of sin. He said that the troubles of sins would punish those who are not baptized as they do not have protection from sins.
+  Yesu pia alisema, &ldquo;Hubiri injili kwa viumbe vyote.&rdquo; Inamaanisha kuhubiri injili, hekima ya kimungu, kwa watu wa nyakati zote. Alisema kuwahubiria hekima ya kimungu na kuwapa ruhusa, 'ubatizo,' kwenda paraloka. Ubatizo ni kama kibali cha ukombozi au paraloka. Wale ambao wamepewa ruhusa ya paraloka wataokolewa kwa hekima yangu na kuepuka uzoefu wa dhambi. Alisema kwamba shida za dhambi zitawaadhibu wale ambao hawajabatizwa kwa vile hawana ulinzi kutoka kwa dhambi.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 66,
-verse: `<b>(1)	The Gospel of Luke, 2nd chapter, 49th verse.</b>`,
+verse: `<b>(1)	Injili ya Luka, sura ya 2, mstari wa 49.</b>`,
 meaning: ` <b>
-(49) “Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s business?”      </b>`,
+(2:49) “Kwa nini mlikuwa mnanitafuta?” Aliuliza. “Je, hamkujua kwamba nilipaswa kuwa katika kazi ya Baba yangu?”  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus’s parents were looking for Him, and when they saw Him, they were astonished. His mother said to Him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.” In response, Jesus said, <b>“Why were you searching for me? Didn’t you know I had to be in my Father’s business?”</b> Although Jesus’s visible (physical) father was also there, He was referring to his invisible (non- physical) Father. It is important to clarify which father Jesus was referring to so that we can understand the Father’s tasks and, consequently, comprehend the tasks Jesus would be doing and why He left his mother and father.
+<div class="poem"><div class="poemtext">
+  Wazazi wa Yesu walikuwa wakimtafuta, na walipomwona, walishangaa. Mama yake akamwambia, &ldquo;Mwanangu, mbona umetutenda hivi? Baba yako na mimi tumekuwa tukikutafuta kwa shauku.&rdquo; Kwa kujibu, Yesu alisema,<strong>"Kwa nini ulikuwa unanitafuta? Hamkujua yanipasa kuwa katika kazi ya Baba yangu?</strong>Ingawa baba wa Yesu anayeonekana (wa kimwili) alikuwepo pia, Alikuwa akimaanisha Baba yake asiyeonekana (asiye wa kimwili). Ni muhimu kufafanua ni baba gani Yesu alikuwa akimaanisha ili tuweze kuelewa kazi za Baba na, kwa hiyo, kufahamu kazi ambazo Yesu angekuwa anafanya na kwa nini aliwaacha mama na baba yake.
 
-  In his own words, Jesus declared himself to be the Son of Man. On some occasions, He also claimed to be the Son of God. Therefore, He is both the Son of Man and the Son of God. If one asks whose sons all these people are, it can be said that all humans are sons of man. However, there is a secret involved here. For a man to be born, a seed(sperm) donor is required. Although it is natural to assume that the father is the seed donor for a man’s birth, it is important to note that, although a man appears to be male in appearance, He cannot be counted as a male because He is created as a model for a male. Both a man and his wife can be counted under the feminine Prakruti.
+  Kwa maneno yake mwenyewe, Yesu alijitangaza kuwa Mwana wa Adamu. Wakati fulani, Yeye pia alidai kuwa Mwana wa Mungu. Kwa hiyo, Yeye ni Mwana wa Adamu na Mwana wa Mungu. Mtu akiuliza watu hawa wote ni wana wa nani, inaweza kusemwa hivyo wanadamu wote ni wana wa binadamu. Walakini, kuna siri inayohusika hapa. Ili mwanamume azaliwe, mtoaji wa mbegu (manii) anahitajika. Ingawa ni kawaida kudhani kuwa baba ndiye mtoaji mbegu kwa ajili ya kuzaliwa kwa mwanamume, ni muhimu kutambua kwamba, ingawa mtu anaonekana kuwa wa kiume kwa sura, hawezi kuhesabiwa kuwa ni mwanamume kwa sababu ameumbwa kama kielelezo cha mwanamume. Mwanamume na mkewe wanaweza kuhesabiwa chini ya Prakruti ya kike.
 
-  Although Jeevatma, who is in a human body, is Atma-related-male, He cannot beget someone. Atma, which is in the body, made every human born. We have already stated that Atma does all the tasks in the body and is the seed donor for all beings. Jesus referred to himself as the “Son of Man,” even though He was not an ordinary man, to indicate that his Father was not the visible Joseph but rather Atma that resides within all human bodies. The first divine scripture teaches us that every living entity born from a mother’s womb has Atma as its father and Prakruti as its mother. However, Jesus was born directly without a physical father, as He was the Son of the Holy Spirit (Paramatma), who is different from Atma. This is why He is referred to as the Son of God. When Jesus met His parents, He told them He must be about His Father’s work but did not specify the father He was referring to (Atma or the Holy Spirit). In his own opinion, He considered Himself to be the Son of God. Jesus did not perform the tasks of Atma, which is in the body. He was focused on spreading God’s wisdom. The omnipresent Paramatma carries out the task of spreading divine wisdom. Therefore, Jesus intended to do His Father’s (the Holy Spirit) work. Paramatma Himself created a body and filled it with His own soul. Even though Jesus was God, He referred to Himself as the Son of Man at times and the Son of God at other times to prevent people from recognizing Him.
+  Ingawa Jeevatma, ambaye yuko katika mwili wa mwanadamu, ni Atmarelated-mwanaume, Hawezi kumzaa mtu. Atma, ambayo iko katika mwili, ilifanya kila mwanadamu aliyezaliwa. Tayari tumeshasema kwamba Atma hufanya kazi zote katika mwili na ndiye mtoaji wa mbegu kwa viumbe vyote. Yesu alijiita &ldquo;Mwana wa Adamu,&rdquo; ingawa Yeye hakuwa mtu wa kawaida, ili kuonyesha kwamba Baba yake hakuwa Yusufu anayeonekana bali Atma anayeishi ndani ya miili yote ya kibinadamu. Maandiko ya kwanza ya kiungu yanatufundisha kwamba kila kiumbe hai kilichozaliwa kutoka tumboni mwa mama kina Atma kama baba yake na Prakruti kama mama yake. Hata hivyo, Yesu alizaliwa moja kwa moja bila baba wa kimwili, kwa vile Alikuwa Mwana wa Roho Mtakatifu (Paramatma), ambaye ni tofauti na Atma. Hii ndiyo sababu anaitwa Mwana wa Mungu. Yesu alipokutana na wazazi wake, aliwaambia ni lazima awe juu ya kazi ya Baba yake lakini hakubainisha baba ambaye alikuwa anamrejelea (Atma au Roho Mtakatifu). Kwa maoni yake mwenyewe, Alijiona kuwa Mwana wa Mungu. Yesu hakufanya kazi za Atma, iliyo katika mwili. Alikazia fikira kueneza hekima ya Mungu. Paramatma iliyo kila mahali inatekeleza kazi ya kueneza hekima ya kimungu.
+
+  Kwa hiyo, Yesu alikusudia kufanya kazi ya Baba yake (Roho Mtakatifu). Paramatma Mwenyewe aliumba mwili na kuujaza na nafsi yake. Ingawa Yesu alikuwa Mungu, alijiita Mwana wa Adamu wakati fulani na Mwana wa Mungu nyakati zingine ili kuzuia watu wasimtambue.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 67,
-verse: `<b>(2)	The Gospel of Luke, 11th chapter, 37th, 38th, 39th, 40th and 41st verses.</b>`,
+verse: `<b>(2)	Injili ya Luka, sura ya 11, 37, 38, 39, 40 na 41 mistari..</b>`,
 meaning: `<b>
-(37) As Jesus was speaking, one of the Pharisees invited him home for a meal. So, he went in and took his place at the table.
+(11:37) Yesu alipokuwa akizungumza, mmoja wa Mafarisayo alimkaribisha nyumbani kwa chakula. Basi, akaingia na kukaa mezani.
 <br><br>
-(38) His host was amazed to see that he sat down to eat without first performing the hand-washing ceremony required by Jewish custom.
+(11:38) Mwenyeji wake alistaajabu kuona kwamba aliketi kula bila kufanya kwanza sherehe ya kunawa mikono iliyohitajiwa na desturi ya Kiyahudi.
 <br><br>
-(39) Then the Lord said to him, “You Pharisees are so careful to clean the outside of the cup and the dish, but inside you are filthy—full of greed and wickedness!
+(11:39) Kisha Bwana akamwambia, “Ninyi Mafarisayo mnajali sana kusafisha kikombe na bakuli kwa nje, lakini ndani yenu ni mchafu, mmejaa ulafi na uovu!
 <br><br>
-(40) Fools! Didn’t God make the inside as well as the outside?
+(11:40) Wapumbavu! Je, si Mungu aliyeumba ndani na nje?
 <br><br>
-(41) So, clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.</b>`,
+(11:41) Basi safisheni ndani kwa kutoa zawadi (dharmas) kwa masikini, na mtakuwa safi kote.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The last verse states, <b>“Clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.”</b> Unfortunately, humans have not correctly understood this verse and have interpreted it in various ways. When Jesus mentions ‘giving gifts,’ people have construed it as donating money, clothes, and food to the poor. However, Jesus did not assert that external acts of charity would purify a person from within. His intention was that the practice of dharma should be internalized, and only then would inner evils be cleansed. Jesus did not prioritize external cleanliness but instead underscored the purification of inner qualities (gunas). Therefore, He encouraged others to follow the path of dharma, which opposes the gunas. Jesus Himself experienced inner purification and adhered to the path of dharma. That is why He urged others to traverse the same path.
+<div class="poem"><div class="poemtext">
+  Aya ya mwisho inasema,<strong>"Safisha ndani kwa kutoa zawadi (dharmas) kwa masikini, na utakuwa safi kote."</strong>Kwa bahati mbaya, wanadamu hawajaelewa vizuri aya hii na wameifasiri kwa njia mbalimbali. Yesu anapotaja &lsquo;kutoa zawadi,&rsquo; watu wameiona kuwa kutoa pesa, nguo, na chakula kwa maskini. Hata hivyo, Yesu hakudai kwamba matendo ya upendo ya nje yangetakasa mtu kutoka ndani. Nia yake ilikuwa kwamba mazoezi ya dharma lazima yafanywe ndani, na ndipo tu maovu ya ndani yangesafishwa. Yesu hakutanguliza usafi wa nje badala yake alisisitiza utakaso wa sifa za ndani (gunas). Kwa hiyo, Aliwahimiza wengine kufuata njia ya dharma, ambayo inapinga gunas. Yesu Mwenyewe alipata utakaso wa ndani na alishikamana na njia ya dharma. Ndio maana Aliwahimiza wengine kupita njia hiyo hiyo.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 68,
-verse: `<b>(3)	The Gospel of Luke, 12th chapter, 4th and 5th verses</b>`,
+verse: `<b>(3)	Injili ya Luka, sura ya 12, aya ya 4 na ya 5.</b>`,
 meaning: ` <b>
-(4) I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.
+(12:4) Nawaambia ninyi rafiki zangu, msiwaogope wale wauao mwili, na baada ya hayo hawawezi kufanya lolote zaidi.
 <br><br>
-(5) But I will show you whom you should fear: Fear him who, after your body has been killed, has authority to throw you into hell. Yes, I tell you, fear him.    </b>`,
+(12:5) Lakini nitawaonyesheni mtakayemwogopa: Mcheni yule ambaye baada ya mwili wenu kuchinjwa mamlaka ya kukutupa jehanamu. Naam, nawaambia, mwogopeni huyo.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Humans can harm the body, but they cannot harm the Jeevatma within. Jeevatma, being invisible from the outside, remains unaffected. Since the body is visible, others can only inflict harm upon it, not the Jeevatma. Therefore, there is no need to fear such individuals. The only one to be feared is God. Even in death, God evaluates our sins, administers punishment, and causes suffering. The ties between individuals are severed after death. Even if the deceased is reborn in the murderer’s household, they will not recognize the murderer as an enemy. However, God recognizes the Jeevatma even after death and is aware of its subsequent births. Hence, it is crucial to fear God, who holds us accountable for our karma after death. There is no need to fear other humans who cannot harm the Jeevatma and will not recognize us after death.
+<div class="poem"><div class="poemtext">
+Wanadamu wanaweza kuumiza mwili, lakini hawawezi kuumiza Jeevatma ndani. Jeevatma, kuwa haionekani kutoka nje, bado haijaathiriwa. Kwa kuwa mwili unaonekana, wengine wanaweza tu kuumiza juu yake, sio Jeevatma. Kwa hiyo, hakuna haja ya kuwaogopa watu kama hao. Anayepaswa kuogopwa ni Mungu pekee. Hata tunapokufa, Mungu hutathmini dhambi zetu, hutuadhibu, na kusababisha kuteseka. Uhusiano kati ya watu binafsi hukatwa baada ya kifo. Hata ikiwa mtu aliyekufa atazaliwa upya katika nyumba ya muuaji, hawatamtambua muuaji kuwa adui. Hata hivyo, Mungu anatambua Jeevatma hata baada ya kifo na anajua kuzaliwa kwake baadae. Kwa hiyo, ni muhimu kumwogopa Mungu, ambaye anatuwajibisha kwa karma yetu baada ya kifo.
+  Hakuna haja ya kuogopa wanadamu wengine ambao hawawezi kuumiza Jeevatma na hawatatutambua baada ya kifo.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 69,
-verse: `<b>(4)	The Gospel of Luke, 12th chapter, 25th verse.</b>`,
+verse: `<b>(4)	Injili ya Luka, sura ya 12, mstari wa 25.</b>`,
 meaning: ` <b>
-(25) Which of you by worrying can add to his stature one cubit?       </b>`,
+(12:25) Ni nani miongoni mwenu kwa kujisumbua aweza kujiongezea kimo chake hata mkono mmoja?   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Even though individuals believe that they are accomplishing everything through their intelligence, there is no inherent connection between them and their intelligence. People are not independent and are incapable of acting on their own. They are akin to puppets manipulated by karma. Those who believe they can act as they please are in a state of ignorance about themselves. According to the structure that God has created, karma is in God’s control, and individuals are in karma’s control. As karma governs them, they cannot make decisions independently. Regardless of how much they plan and utilize their intelligence, they cannot alter their height. If every individual understands themselves and contemplates the extent of their power, they will recognize their insignificance, realizing that God is infinitely greater than them.
+<div class="poem"><div class="poemtext">
+  Ingawa watu wanaamini kwamba wanafanikisha kila kitu kupitia akili zao, hakuna uhusiano wa asili kati yao na akili zao. Watu hawako huru na hawana uwezo wa kuchukua hatua wao wenyewe. Wao ni sawa na vikaragosi vinavyotumiwa na karma. Wale wanaoamini kuwa wanaweza kutenda wapendavyo wako katika hali ya kutojijua wao wenyewe. Kulingana na muundo ambao Mungu ameumba, karma iko katika udhibiti wa Mungu, na watu binafsi wako katika udhibiti wa karma. Kama karma inavyowatawala, hawawezi kufanya maamuzi kwa uhuru. Bila kujali ni kiasi gani wanapanga na kutumia akili zao, hawawezi kubadilisha urefu wao. Ikiwa kila mtu atajielewa na kutafakari ukubwa wa uwezo wao, watatambua udogo wao, wakitambua kwamba Mungu ni mkuu zaidi yao.
 </div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 70,
-verse: `<b>(5)	The Gospel of Luke, 12th chapter, 33rd and 34th verses.</b>`,
+verse: `<b>(5)	Injili ya Luka, sura ya 12, aya ya 33 na 34.</b>`,
 meaning: ` <b>
-(33) Sell your possessions and give them to the poor. Provide purses for yourselves that will not wear out, a treasure in paraloka that will never fail, where no thief comes near, and no moth destroys.
+(12:33) Uzeni mali zenu na wapeni masikini. Jifanyieni mifuko ambayo haitachakaa, hazina isiyoisha kamwe, mahali ambapo mwizi hakaribii, na nondo haharibu.
 <br><br>
-(34) For where your treasure is, there your heart will be also.     </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There are two types of wealth: one that can buy anything in the world and another that can buy God, who is beyond the world. The former is material wealth, created by humans and visible to the naked eye, with which we buy material possessions, while the latter is wisdom wealth, created by the divine and not easily visible. There are many differences between wisdom-wealth and material wealth. While thieves can steal material wealth, they cannot steal wisdom wealth, as it is not a physical commodity. Moths can destroy material wealth, but they cannot damage wisdom wealth. Material wealth cannot eliminate even the smallest karma, but wisdom wealth can eliminate even big karma. One can acquire material wealth through work, but wisdom wealth is gained through intimacy with the divine. Material wealth can be appraised, but wisdom wealth cannot be measured. When a person dies, their connection with material wealth is severed, as not even a penny goes with the Jeevatma. In contrast, wisdom wealth accompanies the Jeevatma even after death, as all the wisdom one gains in life is carried forward into future births. Those who are rich in the world may be respected in society but not in God’s presence. God recognizes those with wisdom wealth, even if other humans do not respect them. In summary, there are many differences between material wealth and wisdom wealth.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of Luke",
-chapterNumber: 4,
-pageNumber: 71,
-verse: `<b>(6)	The Gospel of Luke, 12th chapter, 49th verse.</b>`,
-meaning: ` <b>
-(49) I have come to bring fire on the earth, and how I wish it were already kindled.       </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this context, the term ‘fire’ does not refer to the ordinary fire we see daily. Fire is of two types: ordinary fire and extraordinary fire (wisdom fire). Ordinary fire can burn firewood and other objects, while <b>gnanagni (wisdom fire) burns the firewood of karma.</b> As humans are ensnared in sin and suffer hardships, God descends to bring the wisdom fire to burn away their karma and liberate them from the cycle of birth and death, helping them reach God. When God imparts wisdom, He likens it to fire because gaining wisdom can lead to liberation. God brought this fire to earth in the past, and it kindled for a while before disappearing. Jesus came to reignite the fire and keep it burning. He wanted the fire to continue burning, so He proclaimed that He came to start a fire where there was none, and He wished for the fire He had previously ignited to persist.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of Luke",
-chapterNumber: 4,
-pageNumber: 72,
-verse: `<b>(7)	The Gospel of Luke, 12th chapter, 51st, 52nd and 53rd verses.</b>
-`, meaning: `<b>
-(51) Do you think I came to bring peace on earth? No, I tell you, but division.
-<br><br>
-(52) From now on there will be five in one family divided against each other, three against two and two against three.
-<br><br>
-(53) They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Paramatma reveals His wisdom when He incarnates on earth in Bhagavan’s form. Bhagavan’s wisdom generates opposing sentiments for those on Satan’s path. In such cases, differences of opinion arise between those who comprehend wisdom and those who do not. Those who possess wisdom will disagree with those who lack it. When such a situation unfolds within the same household, family members may become hostile toward each other. If anyone attempts to gain wisdom at home, Satan will be vigilant. Satan fosters division, pitting fathers against sons, sons against fathers, mothers against daughters, daughters against mothers, mothers-in-law against daughters-in- law, and daughters-in-law against mothers-in-law. Even Bhagavan (Guru) may advise you to disagree with those who oppose you on matters of wisdom, knowing that a husband and wife are quarreling because of His wisdom. Consequently, their quarrel may intensify rather than subside. Therefore, <b>the Lord said, “I did not come to bring reconciliation but division.”</b> Do you think that Bhagavan, who has come to teach wisdom on earth, advises you to heed your household while neglecting His wisdom? Do you believe that the Lord, who instructed you to cut off your hand if it obstructs God’s wisdom, suggests reconciling with your wife and relatives? Never. He exhorted you not to compromise with them, even if it means sacrificing your life. Hence, many conflicts arise in families because of God’s wisdom. Notably, wherever true wisdom is proclaimed, there will be discord within the household. There are no disagreements when Satan’s wisdom is presented under the guise of divine wisdom. Everyone tends to support such wisdom. One can discern that if all household members become adversaries due to divine wisdom, then such wisdom is genuinely God’s wisdom.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of Luke",
-chapterNumber: 4,
-pageNumber: 73,
-verse: `<b>(8)	The Gospel of Luke, 13th chapter, 3rd verse.</b>`,
-meaning: `<b>(3) Unless you change your mind, you too will all perish.</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Manas (mind) is the most crucial part of the body, named so because it retains memories. It consistently operates under the influence of Maya (Satan), reinforcing worldly concerns. Since a person’s birth, the mind has been aligned with Satan and has never functioned in alignment with God. The transformation of such a mind from Satan’s influence to God’s alignment is termed a “change of mind.” No one can transition to God’s side without a change in their mind. When the mind undergoes transformation, gnanagni (wisdom fire) begins to manifest. Through the destruction of their entire karma by gnanagni, a person unites with God without experiencing birth and death. If the mind remains unchanged and continues to dictate thoughts, an individual must undergo cycles of birth, death, and endure the torments of hell. Therefore, it is imperative for everyone to undergo a change of mind.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of Luke",
-chapterNumber: 4,
-pageNumber: 74,
-verse: ` <b>(9)	The Gospel of Luke, 14th chapter, 26th verse.</b>`,
-meaning: `<b>
-(26) If anyone comes to me and does not hate father and mother, wife and children, brothers, and sisters—yes, even their own life—such a person cannot be my disciple.       </b>`,
+(12:34) Kwa kuwa hazina yako ilipo, ndipo utakapokuwapo na moyo wako.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-  If anyone listens to this, they will be surprised and ask, “What kind of wisdom is this? What kind of Guru? What kind of disciples?” One may come to a Guru and question him, “Does any Guru tell their disciples that they are not a disciple unless they scold their family?” We need to think here. If a person scolds all of their household, the Guru is not a madman to be pleased and accept them as a disciple. It is not advised to hate everyone indiscriminately. The Guru becomes pleased when a disciple, in line with the Guru’s sentiments, scolds the ignorant who walk on Satan’s path. When a disciple opposes the ignorant, the Guru perceives that the disciple is aligned with his teachings and accepts them. If a disciple supports the ignorant instead of contradicting them, the Guru will not acknowledge them as a disciple. Hatred is common between two groups – gnanis (wise) and the ignorant. If father and mother, wife and children, brothers and sisters are on the ignorant list, the disciple should oppose them. The Lord said that one who does not oppose the ignorant and favors relatives is not his disciple. It is emphasized that one should not compromise on ignorance. Jesus said that the disciple should forsake their mother, father, brothers and sisters, wife, and children if they obstruct the path to wisdom.
+  Kuna aina mbili za mali: moja inayoweza kununua chochote duniani na nyingine inayoweza kumnunua Mungu, ambaye yuko nje ya ulimwengu. Ya kwanza ni utajiri wa mali, ulioumbwa na wanadamu na unaoonekana kwa macho, ambayo tunanunua mali ya kimwili, wakati wa mwisho ni utajiri wa hekima, unaotengenezwa na ya kimungu na haionekani kwa urahisi. Kuna tofauti nyingi kati ya hekima-utajiri na mali. Ingawa wezi wanaweza kuiba mali, hawawezi kuiba utajiri wa hekima, kwa kuwa si bidhaa ya kimwili. Nondo zinaweza kuharibu mali, lakini haziwezi kuharibu utajiri wa hekima. Utajiri wa nyenzo hauwezi kuondoa hata karma ndogo, lakini utajiri wa hekima unaweza kuondoa hata karma kubwa. Mtu anaweza kupata mali kupitia kazi, lakini utajiri wa hekima hupatikana kupitia urafiki wa karibu na Mungu.
+
+  Utajiri wa mali unaweza kutathminiwa, lakini utajiri wa hekima hauwezi kupimwa. Mtu anapokufa, uhusiano wao na mali hukatwa, kwani hata senti haiendi na Jeevatma. Kinyume chake, utajiri wa hekima huandamana na Jeevatma hata baada ya kifo, kwani hekima yote anayopata mtu maishani inasonga mbele katika kuzaliwa kwa siku zijazo. Wale walio matajiri duniani wanaweza kuheshimiwa katika jamii lakini si mbele za Mungu. Mungu huwatambua wale walio na utajiri wa hekima, hata ikiwa wanadamu wengine hawawaheshimu. Kwa muhtasari, kuna tofauti nyingi kati ya utajiri wa mali na utajiri wa hekima.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
+chapterNumber: 4,
+pageNumber: 71,
+verse: `<b>(6)	Injili ya Luka, sura ya 12, mstari wa 49.</b>`,
+meaning: ` <b>
+(12:49) Nimekuja kuleta moto katika ardhi, na ninatamani ungekuwa umekwisha washwa.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika muktadha huu, neno 'moto' halirejelei moto wa kawaida tunaouona kila siku. Moto ni wa aina mbili: moto wa kawaida na moto wa ajabu (moto wa hekima). Moto wa kawaida unaweza kuchoma kuni na vitu vingine, wakati<strong>gnanagni (moto wa hekima) huchoma kuni za karma.</strong>Wanadamu wanaponaswa katika dhambi na kuteseka na magumu, Mungu anashuka kuleta moto wa hekima ili kuchoma karma yao na kuwakomboa kutoka kwa mzunguko wa kuzaliwa na kifo, kuwasaidia kufikia Mungu. Mungu anapotoa hekima, anaifananisha na moto kwa sababu kupata hekima kunaweza kuleta ukombozi. Mungu alileta moto huu duniani hapo zamani, na uliwashwa kwa muda kabla ya kutoweka. Yesu alikuja kutawala moto na kuendelea kuwaka. Alitaka moto uendelee kuwaka, hivyo akatangaza kwamba alikuja kuwasha moto mahali pasipokuwa na moto, na akatamani ule moto aliokuwa ameuwasha uendelee kudumu.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Luka",
+chapterNumber: 4,
+pageNumber: 72,
+verse: `<b>(7)	Injili ya Luka, sura ya 12, aya ya 51, ya 52 na ya 53.</b>
+`, meaning: `<b>
+(12:51) Je, unafikiri nilikuja kuleta amani duniani? La, nawaambia, bali mafarakano.
+<br><br>
+(12:52) Kuanzia sasa watakuwa watu watano katika familia moja wakifarakana, watatu kwa wawili na wawili kwa watatu.
+<br><br>
+(12:53) Watafarakana, baba dhidi ya mwanawe, na mwana dhidi ya babaye, mama dhidi ya bintiye na binti dhidi ya mama, mama mkwe dhidi ya binti-mkwe na binti-mkwe dhidi ya mama mkwe.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Paramatma inafichua hekima yake anapopata mwili duniani katika umbo la Bhagavan. Hekima ya Bhagavan inazalisha hisia pinzani kwa wale walio kwenye njia ya Shetani. Katika hali kama hizo, tofauti za maoni hutokea kati ya wale wanaofahamu hekima na wale wasioelewa. Wale walio na hekima watatofautiana na wale wasio na hekima. Hali kama hiyo inapotokea katika nyumba moja, washiriki wa familia wanaweza kuwa na uadui kati yao. Mtu yeyote akijaribu kupata hekima nyumbani, Shetani atakuwa macho. Shetani kulea mgawanyiko , kuwagombanisha baba dhidi ya wana, wana dhidi ya baba zao, mama dhidi ya binti zao, binti dhidi ya mama zao, wakwe zao dhidi ya wakwe zao, wakwe zao dhidi ya mama mkwe. Hata Bhagavan (Guru) anaweza kukushauri usikubaliane na wale wanaokupinga kwenye mambo ya hekima, ukijua kuwa mume na mke wanagombana kwa sababu ya hekima yake. Kwa hivyo, ugomvi wao unaweza kuongezeka badala ya kupungua. Kwa hiyo,<strong>Bwana akasema, Sikuja kuleta upatanisho, bali kuleta mafarakano.</strong>Je, unafikiri kwamba Bhagavan, ambaye amekuja kufundisha hekima duniani, anakushauri uisikilize nyumba yako huku ukipuuza hekima yake? Je, unaamini kwamba Bwana, aliyekuagiza kukata mkono wako ikiwa inazuia hekima ya Mungu, anapendekeza upatane na mke wako na jamaa zako? Kamwe. Alikuhimiza usikubali maelewano nao, hata kama itamaanisha kutoa maisha yako. Kwa hiyo, migogoro mingi hutokea katika familia kwa sababu ya hekima ya Mungu. Hasa, popote ambapo hekima ya kweli inatangazwa, kutakuwa na mafarakano ndani ya nyumba. Hakuna kutokubaliana wakati hekima ya Shetani inatolewa chini ya kivuli cha hekima ya kimungu. Kila mtu huelekea kuunga mkono hekima hiyo. Mtu anaweza kutambua kwamba ikiwa washiriki wote wa nyumba wanakuwa maadui kwa sababu ya hekima ya kimungu, basi hekima hiyo ni hekima ya Mungu kikweli.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Luka",
+chapterNumber: 4,
+pageNumber: 73,
+verse: `<b>(8)	Injili ya Luka, sura ya 13, mstari wa 3.</b>`,
+meaning: `<b>(13:3) Isipokuwa mkibadilisha nia yenu, ninyi pia mtaangamia.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Manas (akili) ndio sehemu muhimu zaidi ya mwili, inayoitwa hivyo kwa sababu huhifadhi kumbukumbu. Inatenda kazi mfululizo chini ya ushawishi wa Maya (Shetani), ikiimarisha mahangaiko ya kilimwengu. Tangu kuzaliwa kwa mtu, akili imeunganishwa na Shetani na haijawahi kufanya kazi katika kupatana na Mungu. Kugeuzwa kwa akili kama hiyo kutoka kwa uvutano wa Shetani hadi kupatana na Mungu kunaitwa “badiliko la nia”. Hakuna anayeweza kuvuka upande wa Mungu bila mabadiliko katika mawazo yake. Wakati akili inapitia mabadiliko, gnanagni (moto wa hekima) huanza kudhihirika. Kupitia uharibifu wa karma yao yote kwa gnanagni, mtu huungana na Mungu bila kupata kuzaliwa na kifo. Ikiwa akili itabaki bila kubadilika na inaendelea kuamuru mawazo, mtu lazima apitie mzunguko wa kuzaliwa, mauti, na kustahimili mateso ya kuzimu. Kwa hiyo, ni muhimu kwa kila mtu kufanyiwa mabadiliko ya mawazo.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Luka",
+chapterNumber: 4,
+pageNumber: 74,
+verse: ` <b>(9)	Injili ya Luka, sura ya 14, mstari wa 26</b>`,
+meaning: `<b>
+(14:26) Mtu akija kwangu naye hamchukii baba na mama, mke na watoto, ndugu na dada—naam, hata maisha yao wenyewe—mtu huyo hawezi kuwa mfuasi wangu.      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mtu yeyote akisikiliza hili, atashangaa na kuuliza, “Hii ni hekima ya namna gani? Guru wa aina gani? Wanafunzi wa aina gani?” Mtu anaweza kuja kwa Guru na kumuuliza, “Je, Guru yeyote anawaambia wanafunzi wake kwamba wao si mfuasi isipokuwa wawakaripie familia zao?” Tunahitaji kufikiria hapa. Ikiwa mtu atakemea kaya yao yote, Guru si mwendawazimu wa kufurahishwa na kuwakubali kama mfuasi. Haishauriwi kuchukia kila mtu bila kubagua. Guru anafurahishwa wakati mwanafunzi, kulingana na hisia za Guru, anawakemea wajinga wanaotembea kwenye njia ya Shetani. Mwanafunzi anapopinga wajinga, Guru hugundua kuwa mfuasi huyo anaendana na mafundisho yake na kuyakubali. Ikiwa mwanafunzi anaunga mkono wajinga badala ya kuwapinga, Guru hatawakubali kama mfuasi. Chuki ni ya kawaida kati ya makundi mawili - gnanis (mwenye hekima) na wajinga. Ikiwa baba na mama, mke na watoto, kaka na dada wako kwenye orodha ya wajinga, mwanafunzi anapaswa kuwapinga. Bwana alisema kwamba yule anayefanya asimpinge wajinga na kuwapendelea jamaa sio mfuasi wake. Inasisitizwa kwamba mtu hapaswi kukubaliana na ujinga. Yesu alisema kwamba mwanafunzi anapaswa kuacha mama, baba, kaka na dada, mke na watoto ikiwa watazuia njia ya hekima.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 75,
-verse: ` <b>(10)	The Gospel of Luke, 14th chapter, 27th verse.</b>`,
+verse: ` <b>(10)	Injili ya Luka, sura ya 14, mstari wa 27.</b>`,
 meaning: `<b>
-(27) Whoever does not carry their cross and follows me cannot be my disciple.      </b>`,
+(14:27) Mtu ye yote asiyeuchukua msalaba wake na kunifuata, hawezi kuwa mfuasi wangu.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When firewood is bundled, it becomes easier to pick up and carry for long distances; it would not be possible to carry it otherwise. Similarly, when the 108 gunas in a person’s mind are tied together in a dysfunctional condition, they become a bundle in the hands of man. There are two kinds of gunas - good and bad - in the human body. <b>The six bad gunas are greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). Similarly, the six good gunas are charity (dana), mercy (daya), benevolence (audarya), dispassion (vairagya), humbleness (vinaya), and love (prema).</b> Each of the six bad and good gunas is further divided into nine parts. Thus, the six bad gunas are divided into 54 parts, and the six good gunas are divided into 54 parts as well. Together, the good and bad gunas make up a total of 108.
+<div class="poem"><div class="poemtext">
+  Wakati kuni zimefungwa, inakuwa rahisi kuchukua na kubeba kwa umbali mrefu; isingewezekana kubeba vinginevyo. Vile vile, wakati bunduki 108 katika akili ya mtu zimefungwa pamoja katika hali isiyofanya kazi, huwa fungu mikononi mwa mwanadamu. Kuna aina mbili za bunduki - nzuri na mbaya - katika mwili wa mwanadamu<strong>.</strong>
 
-  The 108 parts of gunas are called <b>Maya</b> in the first divine scripture. In the second divine scripture, they are called <b>Satan</b>. In the final divine scripture, these gunas are named <b>Iblis</b>. God Himself spoke of Maya as “Guna-mayi mama maya” in the first divine scripture. It means that Maya, which God created, is in the form of gunas in the human body. God mainly created Maya to prevent humans from following the divine path. Maya can make a person stay by its side instead of following God’s way. It can be said that Maya is guna, or guna is Maya. In Telugu, Maya means ‘invisible.’ Maya is present in the head without being seen. Maya, which is present in our body, is also called the Cross. In the spiritual sense, Maya is compared to a python, while Atma is compared to a dove.
+  <strong>Gunas sita mbaya ni uchoyo (kaama), hasira (krodha), avarice (lobha), shauku (moha), kiburi (madam), na wivu (matsara). Vile vile, bunduki sita nzuri ni hisani (dana), rehema (daya), hisani (audarya), dispassion (vairagya), unyenyekevu (vinaya), na upendo (prema).</strong>Kila moja ya bunduki sita mbaya na nzuri imegawanywa zaidi katika sehemu tisa. Kwa hiyo, bunduki sita mbaya zimegawanywa katika sehemu 54, na bunduki sita nzuri zimegawanywa katika sehemu 54 pia. Kwa pamoja, bunduki nzuri na mbaya hufanya jumla ya 108.
 
-  A python is a mighty serpent. One who has been caught by it cannot become free. That means Maya is strong. Jesus said that whoever controls, bundles, and holds such strong Maya in their hand is my disciple. Jesus said that the conqueror of Maya was truly my disciple. <b>Whoever captures Maya (the Cross) and follows God’s path by carrying it is a true disciple of God.</b> One who carries the Cross that we talk about greatly today and follows Jesus is His disciple, as stated in this verse.
+  Sehemu 108 ya gunas zinaitwa<strong>Maya</strong>katika andiko la kwanza la kimungu. Katika andiko la pili la kimungu, wanaitwa<strong>Shetani</strong>. Katika andiko la mwisho la kimungu, gunas hizi zimetajwa<strong>Iblisi</strong>. Mungu Mwenyewe alizungumza kuhusu Maya kama &ldquo;Guna-mayi mama maya&rdquo; katika andiko la kwanza la kimungu. Ina maana kwamba Maya, ambayo Mungu aliumba, iko katika umbo la gunas katika mwili wa mwanadamu. Mungu hasa aliumba Maya ili kuwazuia wanadamu wasifuate njia ya kimungu. Maya anaweza kumfanya mtu akae upande wake badala ya kufuata njia ya Mungu. Inaweza kusemwa kwamba Maya ni guna, au guna ni Maya. Katika Kitelugu, Maya ina maana 'asiyeonekana.' Maya yupo kichwani bila kuonekana. Maya, ambayo iko katika mwili wetu, pia inaitwa Msalaba. Kwa maana ya kiroho, Maya anafananishwa na chatu, huku Atma akifananishwa na njiwa.
+
+  Chatu ni nyoka mwenye nguvu. Mtu ambaye amekamatwa nayo hawezi kuwa huru. Hiyo ina maana Maya ana nguvu. Yesu alisema kwamba yeyote anayemtawala, kuwafunga na kuwashika Maya wenye nguvu kiasi hicho mkononi mwao huyo ndiye mwanafunzi wangu. Yesu alisema kwamba mshindi wa Maya alikuwa mwanafunzi wangu kweli.<strong>Yeyote anayemkamata Maya (Msalaba) na kuifuata njia ya Mungu kwa kuibeba ni mfuasi wa kweli wa Mungu.</strong>Mtu anayebeba Msalaba ambao tunazungumza juu yake sana leo na kumfuata Yesu ni mfuasi wake, kama inavyoonyeshwa katika mstari huu.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 76,
-verse: `<b>(11)	The Gospel of Luke, 18th chapter, 29th verse.</b>`,
+verse: `<b>(11)	Injili ya Luka, sura ya 18, mstari wa 29.</b>`,
 meaning: `<b>
-(29) “Truly I tell you,” Jesus said to them, “no one who has left home or wife or brothers or sisters or parents or children for the sake of the kingdom of God will fail to receive many times as much in this age, and in the age to come eternal life.”   </b>`,
+(18:29) “Amin, nawaambia,” Yesu akawaambia, “hakuna mtu aliyeacha nyumba, au mke, au ndugu, au dada, au wazazi, au watoto, kwa ajili ya ufalme wa Mungu, hatashindwa kupokea mara nyingi zaidi. katika ulimwengu huu, na katika wakati ujao uzima wa milele.”  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The kingdom of God refers to Moksham, which is liberation from the cycle of rebirth. Once a person attains Moksham (liberation), they are not reborn on earth and do not suffer from Satan. Moksham means being released from Satan and merging with God. In other words, a person becomes one with God. The union of the Jeeva, which is small and has a specific form, with the infinitely vast, limitless, and omnipresent God is an outstanding achievement. To attain this position, a person must follow the path of wisdom and be willing to give up attachments to their spouse, children, parents, siblings, and home if these attachments hinder their spiritual journey. Such a person becomes a complete gnani in this world and attains God in the Paraloka. Giving up a spouse, children, siblings, and parents is a significant decision because Maya surrounds a person and ties them to their near and dear ones. Prahlada did not count his father, Mirabai left her husband and relatives, and Buddha abandoned a young wife, one-year-old son, parents, home, and kingdom for wisdom. However, those who distance themselves from their loved ones can come closer to God. For acquiring someone who is eternal, leaving behind someone who stays with you for a while is an intelligent decision. However, such a decision may seem foolish to the world. It is rare to find someone willing to leave everything behind in Satan’s kingdom for God’s sake. Because when anyone gets the idea of God in their mind, Satan mainly focuses on them and diverts them from the thought and the path of wisdom. It is impossible for a person to overcome Satan’s power and conquer it, as stated in Bhagavad-Gita, Vignana Yogam, verse 14. One may wonder how it is possible to go to God when Satan’s power is so great. Why attempt and fail? However, if a person completely trusts in God and continues their efforts despite their inability to stand against Satan, God Himself will pull them away from Satan to His side. Therefore, the only way for the tiniest human being to defeat Satan is to surrender completely to God. Bhagavad-Gita states, <b>“Maya metam tarantite,”</b> which means <b>“I will get him out of Maya,”</b> about those who trust God completely. Thus, if a person puts their complete trust and burden on God, God can save them from Satan.
+<div class="poem"><div class="poemtext">
+  Ufalme wa Mungu unarejelea Moksham, ambayo ni ukombozi kutoka kwa mzunguko wa kuzaliwa upya. Mara tu mtu anapofikia Moksham (ukombozi), hazaliwi tena duniani na hateswe na Shetani. Moksham inamaanisha kuachiliwa kutoka kwa Shetani na kuunganishwa na Mungu. Kwa maneno mengine, mtu anakuwa mmoja na Mungu. Muungano wa Jeeva, ambao ni mdogo na una umbo maalum, pamoja na Mungu mkubwa sana, asiye na kikomo, na aliye kila mahali ni mafanikio bora. Ili kufikia nafasi hii, mtu lazima afuate njia ya hekima na awe tayari kuachana na mwenzi wake, watoto, wazazi, ndugu na nyumbani ikiwa viambatisho hivi vinazuia safari yao ya kiroho. Mtu kama huyo anakuwa gnani kamili katika ulimwengu huu na anapata Mungu katika Paraloka. Kutoa mwenzi, watoto, ndugu, na wazazi ni uamuzi muhimu kwa sababu Maya huzunguka mtu na kumfunga kwa wapendwa wao wa karibu. Prahlada hakumhesabu baba yake, Mirabai alimwacha mumewe na jamaa, na Buddha alimwacha mke mdogo, mtoto wa mwaka mmoja, wazazi, nyumba, na ufalme kwa hekima. Hata hivyo, wale wanaojitenga na wapendwa wao wanaweza kumkaribia Mungu zaidi. Kwa ajili ya kupata mtu ambaye ni wa milele, kuacha nyuma mtu ambaye kukaa na wewe kwa muda ni uamuzi wa busara. Hata hivyo, uamuzi huo unaweza kuonekana kuwa upumbavu kwa ulimwengu. Ni nadra kupata mtu aliye tayari kuacha kila kitu nyuma katika ufalme wa Shetani kwa ajili ya Mungu. Kwa sababu mtu yeyote anapopata wazo la Mungu akilini mwake, Shetani hukazia fikira zaidi juu yao na kuwakengeusha kutoka kwa mawazo na njia ya hekima. Haiwezekani kwa mtu kushinda nguvu za Shetani na kuzishinda, kama inavyoelezwa katika Bhagavad-Gita, Vignana Yogam, mstari wa 14. Mtu anaweza kujiuliza inawezekanaje kumwendea Mungu wakati nguvu za Shetani ni kubwa sana. Kwa nini kujaribu na kushindwa? Hata hivyo, ikiwa mtu anamtumaini Mungu kabisa na kuendelea na jitihada zao licha ya kutokuwa na uwezo wa kumpinga Shetani, Mungu Mwenyewe atawavuta kutoka kwa Shetani hadi upande Wake. Kwa hivyo, njia pekee ya mwanadamu mdogo zaidi kumshinda Shetani ni kujisalimisha kabisa kwa Mungu. Bhagavad-Gita inasema,<strong>"Maya metam tarantite,&rdquo;</strong>ambayo ina maana<strong>"Nitamwondoa Maya,"</strong>kuhusu wale wanaomtumaini Mungu kabisa. Kwa hivyo, ikiwa mtu ataweka imani na mzigo wake kamili kwa Mungu, Mungu anaweza kuwaokoa kutoka kwa Shetani.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 77,
-verse: `<b>(12)	The Gospel of Luke, 21st chapter, 15th verse.</b>`,
+verse: `<b>(12)	Injili ya Luka, sura ya 21, mstari wa 15.</b>`,
 meaning: ` <b>
-(15) I will give you words and wisdom that none of your adversaries will be able to resist or contradict. </b>`,
+(21:15) Nitawapeni maneno na hekima ambayo hakuna adui yenu atakayeweza kupinga au kupinga. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When young children, who have some knowledge of wisdom, question the teachings of renowned preachers and gurus, they do not find answers in their teachings. Therefore, preachers have made a rule that no one should question their teachings. The main reason for the lack of answers in their teachings is that they are not based on science. Unscientific teaching cannot provide answers to rational questions. Preachers continue to teach, but they do not answer when asked. When Paramatma incarnates as Bhagavan, He teaches the true wisdom of Paramatma. Therefore, those who know the wisdom taught by Bhagavan can teach and answer any question. Adversaries who see Bhagavan’s devotees, who know Paramatma’s wisdom, come to them with the ego that they are gurus and gnanis and speak contradictorily. The wisdom that adversaries cannot speak against has already been told to the devotees at such a time. The word of God says that many people are jealous and increase rivalry against those who know true wisdom. Even when God came down, adversaries confronted Him and said, “You don’t know wisdom yet and need to go to a specific place to learn genuine wisdom.” Some people came to me and said, “You do not know wisdom.” Such people will also come to you. God said in the above verse that He would give you the wisdom to answer them.
+<div class="poem"><div class="poemtext">
+  Watoto wadogo, ambao wana ujuzi fulani wa hekima, wanapotilia shaka mafundisho ya wahubiri mashuhuri na magurudumu, hawapati majibu katika mafundisho yao. Kwa hiyo, wahubiri wameweka sheria kwamba mtu yeyote asihoji mafundisho yao. Sababu kuu ya kukosa majibu katika mafundisho yao ni kwamba hayatokani na sayansi. Mafundisho yasiyo ya kisayansi hayawezi kutoa majibu kwa maswali ya busara. Wahubiri wanaendelea kufundisha, lakini hawajibu wanapoulizwa. Paramatma inapopata mwili kama Bhagavan, Anafundisha hekima ya kweli ya Paramatma. Kwa hiyo, wale wanaojua hekima iliyofundishwa na Bhagavan wanaweza kufundisha na kujibu swali lolote. Maadui wanaowaona waja wa Bhagavan, ambao wanajua hekima ya Paramatma, wanakuja kwao na ego kwamba wao ni gurus na gnanis na wanazungumza kinyume. Hekima ambayo maadui hawawezi kusema dhidi yake tayari imeambiwa kwa waja kwa wakati kama huo. Neno la Mungu linasema kwamba watu wengi wana wivu na kuongeza ushindani dhidi ya wale wanaojua hekima ya kweli. Hata Mungu aliposhuka, maadui walimkabili na kusema, “Bado hujajua hekima na unahitaji kwenda mahali maalum ili kujifunza hekima ya kweli.” Baadhi ya watu walikuja kwangu na kusema, “Wewe hujui hekima.” Watu kama hao pia watakuja kwako. Mungu alisema katika mstari hapo juu kwamba atakupa hekima ya kuwajibu.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "Injili ya Luka",
 chapterNumber: 4,
 pageNumber: 78,
-verse: ` <b>(13)	The Gospel of Luke, 21st chapter, 17th verse. </b>`,
+verse: ` <b>(13)	Injili ya Luka, sura ya 21, mstari wa 17. </b>`,
 meaning: `<b>
 (17) Everyone will hate you because of me.      </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The wisdom revealed by Bhagavan, the Son of God, is against those who are possessed by Satan. There is a chance that ordinary people may misunderstand this wisdom, as it appears to be entirely against preachers and gurus who possess some wisdom. Pandits, preachers, and gurus often do not like the words of those who preach the name of God. They, and the people who follow them, begin to hate those who preach God’s path because they find God’s words contrary to their teachings. Hence, God said in the above verse, <b>“Everyone will hate you because of me.”</b>
-  </div></div>
+<div class="poem"><div class="poemtext">
+  Hekima iliyofunuliwa na Bhagavan, Mwana wa Mungu, ni dhidi ya wale ambao wametekwa na Shetani. Kuna nafasi ili watu wa kawaida wasiweze kuelewa hekima hii, kwa kuwa inaonekana kuwa kinyume kabisa na wahubiri na wakuu walio na hekima fulani. wahubiri na magurudumu mara nyingi hawapendi neno ya wale wanaohubiri jina la Mungu. Wao, na watu wanaowafuata, wanaanza kuwachukia wale wanaohubiri njia ya Mungu kwa sababu wanaona maneno ya Mungu kinyume na mafundisho yao. Kwa hiyo, Mungu alisema katika aya hiyo hapo juu,<strong>" Kila mtu atakuchukia kwa sababu yangu.&rdquo;</strong>  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 79,
-verse: `<b>(1)	The Gospel of John, 1st chapter, 1st verse.</b>`,
-meaning: `<b>(1) In the beginning was the Word, and the Word was with God, and the Word was God.</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The Gospel of John comprises 21 chapters. In this scripture, I will provide explanations for some of the verses that humans have failed to understand, misunderstood, or might interpret incorrectly. I have chosen these verses as part of God’s service, feeling like a mere pen that God uses me to do this work. Earlier, I explained some verses from the first divine scripture, the Bhagavad-Gita, and the third divine scripture, the Quran. As I deeply desire to explain all three divine scriptures, I will now illustrate some verses from the second divine scripture, the Injeel (Bible). The wisdom provided in this scripture is scientific and authentic. Now, let’s examine the first verse from the first chapter of the Gospel of John, which consists of three short sentences that must be explained to understand it fully.
-
-  Let us now discuss the first three words of the Gospel of John in the second divine scripture.
-<b>
-            Word was at the beginning.
-            Word was with God.
-            Word was God.</b>
-
-  In the teachings of the Bible, let’s refer to these three verses as the beginning verses of the Bible. Some may argue that the verses from Genesis should be called the first words of the Bible. However, we have already explained our method. We consider teachings that humans need as scripture and will discuss the first verses from it. Following this principle, Bhagavan Jesus taught the four Gospels. Even though the Gospel of John was the last one, it started with the teachings. Similarly, we took the 11th verse of the second chapter as the beginning of the Bhagavad-Gita because God’s wisdom started from there. We also took verses 11th, 12th, and 13th from Sankhya- Yoga as the first three sentences. Likewise, the first verses were taken from the 43rd chapter of the Injeel (the Bible), and we took three verses from the Taurat (Bhagavad- Gita) as the first three sentences. Here, however, we took three sentences from one verse in the Gospel of John as the first three sentences, rather than three consecutive verses. The sequence of sentences is not important; we took the ones that conveyed three meanings as three sentences. Although these are three short sentences, each one of them has profound meaning.
-
-  These three sentences convey subtle meanings. The first three sentences of the Bhagavad-Gita delve into the concepts of Jeevatma and Atma. However, the opening words of the Gospel of John teach a special meaning. The initiation of the Bhagavad- Gita discusses the three components - Jeevatma, Atma, and the body. Conversely, the initial three sentences of the Gospel of John explore the three aspects - Wisdom, Atma, and Paramatma. Nevertheless, these sentences don’t explicitly clarify the positions of Atma and Paramatma. Although the term ‘God’ appears in two of the sentences, wisdom and Atma remain ambiguously identifiable. Now, let’s scrutinize the first sentence of the trio.
-
-  The first sentence is <b>“The Word was at the beginning.”</b> A word is articulated in speech, generated by sound emanating from the mouth. One can perceive a sound and discern whether a sentence is long or short based on the auditory cues. The language of the sentence may not necessarily be familiar and can vary in length. It is indeterminable whether the word (sentence) was spoken softly or loudly. Let’s analyze the sentence <b>“The Word was at the beginning.”</b> While we understand that the word was spoken at the beginning, humans did not possess any language skills at that initial stage. Therefore, a pertinent question arises about the language in which the word was spoken. To address this inquiry, let’s consider the events that transpired at the beginning.
-
-  If we inquire about the origin of the sound in the beginning, we can attribute the sound heard by the human ear to Prakruti. Prakruti comprises five great bhootas - Earth, Water, Air, Fire, and Sky - each possessing life. The Sky, endowed with life, generated the sound at the beginning. This raises the question of how the Sky produces sound when it is seemingly void. This inquiry is rational, and understanding the answers transforms it into a scientific exploration. According to Brahma Vidya Shastra, did the Sky itself create the sound? Since the Sky is a Jeeva, Jeevatma is not capable and cannot act according to scientific principles; it is the dharma of Jeevatma. Paramatma also has one dharma. Paramatma (God) does not possess a name, form, or work. This is the primary dharma of God. God is not an agent of action; He does not engage in work. According to Jeevatma’s dharma, Jeevatma is not capable and cannot perform any work. Although God is capable, He does not engage in any actions. Therefore, Jeevatma and God have opposing dharmas. In the beginning, the word emanated through the Sky. As the Sky is also a Jeeva, it did not produce that sound. The sound that originated from the Sky is a factual occurrence, but the Jeeva of the Sky is not capable and cannot generate any sound. Thus, someone behind the Sky may have been the source of the sound. God did not create the sound because He does not engage in work. Although the sound from the Sky is true, neither the Jeeva of the Sky nor God is the cause of the sound. A doubt may arise whether there was someone apart from both.
-
-  To dispel this doubt, it is essential to understand the entities in the universe. Initially, God created the universe. God, while being God, created Prakruti from Himself. He first created Prakruti as five parts and then created Atma and Jeevatma to infuse vitality into Prakruti, which was devoid of life. Similar to Himself, God created masculine (Purusha) Atma and Jeevatma. He designated Jeevatma as the passenger and Atma as the driver, entrusting Atma with the execution of all tasks. In every individual, Atma carries out all functions within the body while coexisting with Jeevatma. In His scriptures, God asserted that even great scholars may not fully comprehend Atma. Only dedicated yogis, as mentioned in the Bhagavad-Gita Purushottama Prapti Yoga 11th verse, can truly understand Atma, emphasizing that Atma remains concealed within the body without being known.
-
-  If God does not work, some may ask how He made Prakruti, Atma, and Jeevatma. My reply is that it is true that God does not work. This principle was articulated by God after the creation of Prakruti, Atma, and Jeevatma. Before the act of creation, God was the sole existence and, during that period, God engaged in work. There was no entity other than God before creation. Consequently, God worked before the act of creation. God created Prakruti, followed by the creation of Atma and Jeevatma. Subsequently, God established His dharma. While God refrained from working after creation, He was active before the act of creation. God delegated all responsibilities to Atma and determined that Atma would execute all tasks. Consequently, Paramatma ceased engaging in the actions He used to perform after the creation of Atma. As Atma assumed the responsibilities, Paramatma became a passive observer (witness).
-
-  God does not engage in work; Jeeva is incapable of action, and Atma is the one that performs all tasks. Therefore, it was Atma that produced the sound from the Sky at the beginning. Atma, concealed within the Sky, generated the sound. The sound created by Atma became God’s wisdom, hence referred to as the ‘word,’ signifying a sound with meaning. Describing the creation event, the phrase <b>“The Word was at the beginning”</b> is used to express that a meaningful sound originated from the Sky. We’ve learned what the ‘word’ is and who articulated it. The ‘word’ was spoken with God’s wisdom by Atma in the form of sound. What Atma articulated from the Sky became the first wisdom for the world. Though the sound from the Sky held wisdom, it manifested as a loud sound in the form of thunder, beyond the comprehension of human language. The Sun comprehended the thunderous sound in the Sky and, recognizing its unintelligibility for humans, conveyed the message to a man named Manu on Earth in a language understood by humans.
-
-  God’s wisdom manifested in the form of an incomprehensible sound at the outset of creation. This is articulated in the first sentence of the first chapter of John’s Gospel, stating that the <b>“The Word was at the beginning.”</b> On that day, humans were unaware that the sound bore God’s wisdom; They only understood somewhat when the Sun conveyed the message. Krishna conveyed the same wisdom in the form of the Bhagavad- Gita, stating that it was the same wisdom spoken at the beginning of creation. However, human attention did not initially focus on the thunderous sound at the beginning, and to this day, no one realizes that the sound of thunder encapsulates the wisdom of the Bhagavad-Gita. The Sun conveyed the same wisdom to Manu that Krishna had spoken, translating the wisdom originating from the sky in the form of thunder. The wisdom from the sound of the Sky emerged from the Atma of the Sky. Atma’s wisdom originated from Atma itself. Atma itself became the wisdom, and the same wisdom came out of Atma. This wisdom from Atma is comparable to how cotton transforms into thread, and the thread emerges from the cotton. While cotton and thread are distinct, cotton becomes the thread. Similarly, Atma and wisdom are different, but Atma’s wisdom emanates from Atma. If the thread is separated, it consists of cotton fibers; likewise, if Atma’s wisdom is dissected, it contains the essence of Atma.
-
-  In the beginning, God conveyed His wisdom through the sound of the Sky, as described in Quran 42:51, where one of the ways God reveals His wisdom is through the revelation from the Sky. God transmitted His wisdom through the Atma of the Sky during the initiation of creation. The wisdom, presented in the form of thunder, was not comprehensible to humans as it lacked a language they could understand. Consequently, the Sun, having grasped the wisdom in the thunders, relayed it to a man on earth in human language. Eventually, this wisdom spread throughout the earth. However, as time progressed, adharmas replaced dharmas, causing the initially conveyed wisdom to fade from human memory. In Dvapara Yuga, Bhagavan assumed the form of Krishna and informed Arjuna that He was sharing the same wisdom the Sun had conveyed. Despite having the same wisdom presented in the form of the Bhagavad- Gita, the first divine scripture, humans have forgotten its origins.
-
-  The first three sentences in the Gospel of John were written 3000 years after the Bhagavad-Gita was spoken, as humans had forgotten the wisdom imparted by God. The sentence <b>“The Word was at the beginning”</b> is now understood. It is recognized that the wisdom in the form of thunder originated from the Atma of the Sky, as indicated in the second sentence. Therefore, it is asserted that <b>“The Word was with God.”</b> Further exploration reveals that the sound of the word was born out of Atma. Just as the twisted thread emerges from cotton fiber, Atma’s mobility transformed into energy, and the wisdom in the energy manifested in the form of sound. Similar to how the thread contains cotton fiber, the sound of wisdom encompasses Atma’s power. Atma’s wisdom is in the form of both Atma’s power and Atma itself. Atma’s wisdom and Atma are one and the same, and it is hence said: <b>“The Word was God.”</b>
-
-  So far, we have discussed that God created Jeevatma and Atma, with God actively working before creation. However, after the act of creation, God empowered Atma to carry out the tasks, seemingly disappearing and making His presence unknown. God refrained from performing any tasks, and, in this state, He became akin to one who did not exist. Consequently, Atma assumed the responsibility of performing God’s work. Although Atma executes the functions of both Jeevatma and Paramatma, its actions remain concealed from others. The aforementioned statements outline the entire operational process of Atma. Initially, when Paramatma created the universe, there were three souls, but after creation, only two souls—Jeevatma and Atma—are recognized. In the absence of Paramatma’s presence, Atma took on the role of Paramatma, which is why Atma can be referred to as God. Despite not being God (Paramatma), Atma performs God’s tasks and occupies God’s position.
-
-  The wisdom of Atma originates from Atma itself. By asserting that Atma is God, it is affirmed that <b>The Word (wisdom) was with God.</b> This statement is accurate when we consider Atma as God. Even though Atma is not God, it must be acknowledged as God because God has bestowed upon Atma the authority to act as God. Therefore, when the Word (wisdom) is identified as Atma, it can be declared that the same wisdom (Atma) is God. This explanation aligns with the statement in the Gospel of John that <b>The Word was God.</b> Having addressed questions such as “What is the Word?”, “How is the Word connected to Atma?” and “Why is Atma considered God?”, I assume that the meaning of the first three sentences from the Gospel of John 1:1 is now comprehensible. If one fails to grasp this after such a detailed explanation, the wisdom of Atma may remain elusive. Understanding Atma’s wisdom is crucial to comprehend God’s system. To discern God’s ways, one must begin with an understanding of the wisdom of the Word. Once this wisdom is known, it becomes evident that the wisdom is Atma, and Atma is God.
-<b>
-At creation God  (Paramatma)  Prakruti  Atma Jeevatma
-After creation   (Paramatma)  Prakruti  Atma Jeevatma
-After creation   Atma (God)   Prakruti  Atma Jeevatma</b>
-
-  In the act of creation, God worked to create both the feminine Prakruti and the masculine Atma and Jeevatma. Initially, God, as the Purusha (male), created two souls, Atma and Jeevatma, similar to Him. Following the creation of Prakruti, Atma, and Jeevatma, God transitioned into a role of witnessing without active involvement. Given God’s innate nature of not engaging in work, it may seem as if there is no God, despite His existence. When the balance of dharmas is disrupted, and adharmas prevail on Earth, God sends His soul as Bhagavan to restore dharmas. In reestablishing dharmas, God’s representative is sent, eliminating the need for God to directly engage in the work. Atma, on the other hand, assumes responsibility for all other tasks. Consequently, after creation, God becomes inert and seemingly irrelevant. It could be stated that God, in this state, appears non-existent. Atma steps in to fill the perceived void of God and effectively becomes God, making us oblivious to the absence of God. Hence, the phrase <b>“The Word was God”</b> is presented in the second divine scripture, signifying a distinction between God and the word. While the word is not inherently God, it transformed into God. The expression <b>“The Word was God”</b> highlights the transformation of the word (wisdom) into God. Since the word (wisdom) is identified with Atma, and Atma is considered God, it is asserted that Atma, being the word, is God. Everyone is mistaken in knowing who God is and who Atma is.
-
-  In reality, God no longer exists after the act of creation. Without anyone knowing that there is no God in the world, Atma takes over the role of God, performing the duties of both Jeevatma and Prakruti. Simultaneously, Atma assumes a position akin to God. After creation, God transformed into a formless, nameless entity with no assigned tasks. Describing such a God as non-existent might be more accurate than asserting His existence. As there is no entity in God’s place, Atma steps into the role of God, elucidated by the phrase <b>“The Word was God”</b> in the third sentence. Despite many people hearing and studying these sentences, the underlying secret remains unknown.
-
-  To elucidate the reality about Atma, which embodies the role of God, it is stated that <b>“The Word was God.”</b> When Atma, personifying God, engages in any action, it attributes the action to “Jeevatma has done” or “God has done,” convincing everyone of God’s existence. Questions may arise regarding who holds authority over the universe if there is no God, or whether this perspective aligns with God’s wisdom or atheism. The response to these inquiries is as follows: We are saying that God is not in the place of God, but we are not saying that God does not exist at all. God’s actions remain unknown, and it is emphasized that He lacks a name, work, or form, hence having no direct relationship with humans, but we never said that God didn’t exist at all. In times of a threat to dharmas, God sends His representative to restore order. Even in this scenario, the representative refrains from explicitly claiming to be God, adopting the moniker ‘Bhagavan.’ The mystery surrounding God’s identity and qualities persists. God is there, yet no one knows what God is like. No one has seen or directly communicated with God since creation. Anything can be said about anything in the world, but nobody can say anything definitive about God. Terms like ‘Allah’ in Kruta Yuga signify God’s limitless nature, and designations like ‘Parabrahma’ emphasize God’s superiority over Atma, who fulfills various roles. Additionally, the term ‘Paramatma’ highlights God’s distinction from Atma, and ‘Purushottama’ denotes God’s supremacy compared to Jeevatma and Atma. It is better to admit that neither you nor I know anything about God.
-  </div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 80,
-verse: ` <b>(2) 	The Gospel of John, 1st chapter, 9th verse.</b>`,
-meaning: `<b>
-(9) The true light that gives light to everyone was coming into the world.     </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  If there is light in the outside world, it is because of a burning fire. However, in this context, true light is mentioned in the verse. The true light is kindled without fire and enters every human being, illuminating the entire body from head to toe. There is only one such light without fire, and that is Atma, which comes from God and is designated by God (the Creator). Atma provides light of consciousness to the entire body. When Atma enters the body, the 25 trillion cells in the human body are filled with its light. Each cell becomes a burning lamp without fire. The light of the lamp has a specific temperature. The human body has a temperature of 98.4 °F because of Atma’s light. When Atma leaves the body, the body becomes cold without any heat. A body without Atma’s light is called a dead body. In verse 24:35, it is said, <b>“Atma is the light, and the body is the niche.”</b> It can be stated that Atma, which illuminates the body, can be called the true light.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 81,
-verse: ` <b>(3)	The Gospel of John, 1st chapter, 10th verse.</b>`,
-meaning: ` <b>
-(10) He was in the world, and though the world was made through him, the world did not recognize him.        </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The term ‘Loka (World)’ in Telugu refers to something that undergoes experiences. Atma is present in humans who undergo experiences, and it is the creator of all human beings. However, it is crucial to recognize the distinction between Atma and God. God created Atma, and Atma, in turn, created humans. It is important to understand that God did not directly create humans; instead, He formed the entire Prapancha, initially devoid of any living beings. God first brought forth Prakruti and then empowered Atma to generate, govern, and terminate human life. Since then, Atma has been continuously creating humans, functioning as the sustaining light of human life, and orchestrating the processes of death and rebirth. Despite this, humans often remain oblivious to the presence of Atma, which is near and within them and is essentially God. Atma gives birth to human beings; hence Atma is the Father to humans. God created Atma; hence He is the Father to Atma. Although Atma is sometimes referred to as God, the true God is the Holy Spirit, while Atma is the Father of humans.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 82,
-verse: ` <b>(4)	The Gospel of John, 1st chapter, 11th verse.</b>`,
-meaning: `  <b>
-(11) He came to that which was his own, but his own did not receive him.       </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The term “His own” encompasses all those whom He created. Atma, acting upon the commandment of the Holy Spirit, brought humans into existence, and manifested to them in the form of divine wisdom, referred to as the Word. Even though Atma came to humans in the form of wisdom, humans tend to perceive their own knowledge as significant, often overlooking or dismissing the offered wisdom.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 83,
-verse: `  <b>(5)	The Gospel of John, 1st chapter, 12th verse. </b>`,
-meaning: `<b>
-(12) Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Those who comprehend the wisdom offered by Atma will embrace Atma. Those who are acquainted with Atma’s wisdom and hold faith in Atma have the prospect of becoming Atma’s heirs. Consequently, the verse asserts, “He gave the right to become children of God.” The term “God’s children” denotes those who are familiar with Atma’s wisdom.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 84,
-verse: ` <b>(6)	The Gospel of John, 1st chapter, 13th verse.</b>`,
-meaning: `<b>
-(13) Men born not of natural descent, nor of human decision or a husband’s will, but born of God.      </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  All human beings originate from Atma. They are not born of women’s blood nor the will of males or females.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 85,
-verse: `<b>(7)	The Gospel of John, 1st chapter, 14th verse.</b>`,
-meaning: ` <b>
-(14) The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The God Atma (Wisdom) assumed a physical form, resembling that of a human, and dwelled among humans, radiating grace and wisdom.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 86,
-verse: `  <b>(8)	The Gospel of John, 1st chapter, 18th verse.</b>`,
-meaning: ` <b>
-(18) No man has seen God at any time; the only begotten Son, which is in the bosom of the Father, revealed him.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The word ‘God’ is used for both Atma and Paramatma. In the final divine scripture, the term ‘Allah’ is used for both Gods — Atma and Paramatma. Hence, Muslims could not recognize two Gods. To avoid this mistake, the Bible states that Atma is the Father, and Paramatma is the Holy Spirit. The term ‘begotten Son’ refers to <b>the only son created by God.</b> Paramatma (the Holy Spirit) is eternal. After creating Prakruti in the beginning, Paramatma created a son called Atma to bring all living beings into existence. Atma created all living beings according to the commandments of the Holy Spirit. Therefore, there is only one Father (created God) for all living beings. The Father of the created Atma is the Holy Spirit. <b>“No one has ever seen God (the Holy Spirit or Paramatma),”</b> as stated in the verse. God (the Holy Spirit) does not have a form, name, or work; hence, no one has ever seen Paramatma. Atma, the only begotten Son, reveals the unseen God through His wisdom. Atma is the only begotten Son separated from the heart of the Great God, Paramatma. Because no one has seen the Holy Spirit, only Atma can speak about his Father, the Holy Spirit.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 87,
-verse: ` <b>(9)	The Gospel of John, 1st chapter, 51st verse.</b>`,
-meaning: `<b>
-(51) He then added, “Very truly I tell you, you will see sky opens, and the angels of God ascending and descending on the Son of Man.”  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This is the word that Jesus spoke to Nathanael Himself. Jesus claimed to be the Son of Man, even though Nathanael had referred to Him as the Son of God. Jesus did not deny being the Son of God but instead reduced Himself to the Son of Man. He assured Nathanael and others that they would witness extraordinary events. As we’ve emphasized before, God’s servants, the angels, serve as rulers in the human world. These angels, often referred to as Bhutas and Planets (Grahas), are numerous in the sky, totaling billions. During an encounter with Jesus, the servants of God, aware of His identity, descended from the sky and bowed before Him. However, many human beings remain unaware of who Jesus truly is and do not bow down before Him. Similar references are found in the Quran, the final divine scripture, specifically in verses 15:28, 15:29, and 15:30. In the mentioned verse, it is prophesied that Nathanael would witness the presence of Bhutas and Grahas around the Son of Man, as if the doors to the sky had opened. The phrase ‘ascending and descending’ denotes coming and going, with ‘descending on the Son of Man’ implying angels’ arrival at Jesus. When Nathanael acknowledged Jesus as the Son of God, Jesus, recognizing Nathanael’s wisdom vision, assured him in verse 50 that he would witness even greater phenomena. Verse 51 follows, expressing that Nathanael, possessing wisdom vision, could perceive things beyond the ordinary sight of others. The events described in verse 51 are visible only to those with divine wisdom, providing insight into the true identity of Jesus.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 88,
-verse: `<b>(10)	The Gospel of John, 3rd chapter, 3rd verse.</b>`,
-meaning: ` <b>
-(3) Jesus replied, “Very truly I tell you, no one can see the kingdom of God unless they are born again.       </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The verse should not be interpreted literally, as it carries a deeper, symbolic meaning. God and His kingdom are beyond physical visibility for anyone. Jesus explicitly conveyed that understanding and perceiving God’s kingdom requires a spiritual rebirth. This does not imply a physical death and subsequent rebirth. If taken literally, it would mean that anyone seeking to know God would need to undergo a physical death, which is a misunderstanding. Nicodemus, who held a literal interpretation, raised a question based on this misconception.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 89,
-verse: `<b>(11)	The Gospel of John, 3rd chapter, 4th, 5th, 6th, 7th and 8th verses.</b>`,
-meaning: `<b>
-(4) “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!”
-<br><br>
-(5) Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit (Atma).
-<br><br>
-(6) Flesh gives birth to flesh, but the Spirit (Atma) gives birth to spirit.
-<br><br>
-(7) You should not be surprised at my saying, “You must be born again.”
-<br><br>
-(3:8) The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So, it is with everyone born of the Spirit (Atma).” </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When a man dies and is reborn, it is called rebirth. If the rebirth happens physically, all the organs of the man will change. If that happens, the desire to see God and God’s kingdom will also vanish. The body should not die to keep the organs and ambitions as they are. The body contains both wisdom and ignorance, but the ignorance in the body should completely die. When a man gets rid of ignorant thoughts and desires, he is considered dead in ignorance and born of wisdom. One who gets rid of ignorance and gains wisdom can be said to be born of Atma. <b>The duty of man is to know Atma in the body.</b> To know Atma, one must know Atma’s wisdom. When a man knows the wisdom of Atma, he is considered born of Atma. When the body dies, a man gets a new body, but changing one’s will in the same body without getting a new body is like a new birth. The wind blows wherever it pleases, and we hear its sound depending on where it blows. As the wind changes its direction, if a man changes his purpose, it will be a new birth for him. One who desires Atma knows Atma in the same body and the same life. There is no need to go to another life to know Atma.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 90,
-verse: `<b>(12)	The Gospel of John, 3rd chapter, 13th verse. </b>`,
-meaning: `<b>
-(13) No one has ever gone into Paraloka except the one who came from Paraloka the Son of Man. </b>`,
-pageText: `
-<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Ihaloka, Heaven (Swarga-Loka), Hell (Naraka-Loka), and Paraloka are the names of the four worlds. The world (Loka) where we all live is called Ihaloka. Heaven and hell are not separate worlds; both are on earth. Loka is neither a kingdom nor a territory. The place and time of experience together are called loka. The place where one experiences hardship is called Yamaloka, Naraka-Loka, or hell. Similarly, the place where one experiences happiness is called Swarga-Loka or heaven. Since both these experiences occur on earth, it can be said that this world (Ihaloka) is both heaven and hell. However, Paraloka is different from hell and heaven. While both hell and heaven involve experiences, Paraloka does not have any experiences. The state in which there is no experience is called Paraloka. When a person transcends karma, they do not experience happiness or sorrow and enter Paraloka. It is called the state of being one with God, Mukti, or Moksham. A person in Ihaloka is always bound by sin and punya karma. Whoever is in Paraloka does not have any karma. If a person dies in Ihaloka, they cannot go to Paraloka but return to Ihaloka. On the other hand, a person in Paraloka, when coming into this world for any necessity, goes back to Paraloka. Therefore, although the resident of Paraloka who came from Paraloka stays in this world for some time according to His will, He will later enter Paraloka. Hence, the verse <b>“No one has ever gone into Paraloka except the Son of Man who is in Paraloka”</b> implies that the one who is in Paraloka is God. Even if someone who became God is born as a human, He will return to Paraloka. The same thing is expressed in John 3:13.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 91,
-verse: ` <b>(13)	The Gospel of John, 3rd chapter, 15th verse.</b>`,
-meaning: `<b>
-(15) That whosoever believes in Him should not perish but have eternal life.     </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Everyone who believes in God will attain eternal life without undergoing death. However, it is written that, “Eternal life is through Him only.” Paramatma exists both within and outside the body. <b>When Jeevatma merges with Paramatma, it is stated that Jeevatma has achieved Paraloka, also recognized as the kingdom of God.</b> It can also be articulated that Jeevatma has attained eternal life (moksham). The verse declares, “Whoever believes in God will ultimately be liberated from karma and receive eternal life.” Paraloka, representing eternal life, pervades everywhere, irrespective of one’s physical location. Consequently, whoever achieves moksham unites with the Holy Spirit (Paramatma) within their body.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 92,
-verse: `<b>(14)	The Gospel of John, 3rd chapter, 17th verse.</b>`,
-meaning: `<b>
-(17) For God did not send his Son into the world to judge the world, but to save the world through Him.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  God sent his Son as a man into the world to save humans, not to judge them. The responsibility of the man who came from God is to teach God’s wisdom to humans and save them from their sins. He did not come to judge the sins and punya of human beings. God did not send His representative to earth for judgment; instead, He came to save people. This verse is crucial in the Bible. Atma judges a man when he dies. The one who came from God teaches humans how to escape from karma, while the Atma performs the task of judging them.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 93,
-verse: `<b>(15)	The Gospel of John, 3rd chapter, 18th verse. </b>`,
-meaning: `<b>
-(18) Whoever believes in Him is not judged, but whoever does not believe stands judged already because they have not believed in the name of God’s one and only Son.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The verse says, “One who believes in Him,” which refers to either the invisible God or the visible God’s representative who came from God. The verse also states, “They have not believed in the name of God’s one and only Son,” which implies that it should be understood as referring to God’s representative who came from God. God Himself came to earth in the disguise of man to teach wisdom to humans. Jesus said, <b>“I am the Son of God, or the Son of Man, or God’s one and only Son,” </b>so as not to be recognized. In Hinduism, God is called Bhagavan when He disguises Himself and comes to earth as a man. Krishna is the one who came like that; hence He is called Bhagavan in the Bhagavad-Gita. Although Jesus, who is the Son of God, appeared as a man, He should also be called Bhagavan. When God incarnates as a man on earth, Hindus call Him Bhagavan, and Christians call Him the Son of Man. While it is said in the final divine scripture (15:28, 29, 30) that <b>God sends His representative by breathing His soul into Him,</b> Muslims believe that God does not come as a man. Whoever does not have faith in God’s representative, the Son of God, is already judged.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 94,
-verse: `<b>(16) The Gospel of John, 3rd chapter, 19th, 20th, 21st verses.</b>`,
-meaning: ` <b>
-(19) This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil.
-<br><br>
-(20) Everyone who does evil hates the light and will not come into the light for fear that their deeds will be exposed.
-<br><br>
-(21) But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Paramatma, who remains unknown to anyone, symbolizes darkness. Atma, brought into existence by Paramatma, embodies the true light. Paramatma has created two Sons: an invisible Atma, serving as the light within the body, and another Atma that incarnates as a human among humans. While the Atma, unseen and illuminating the body, is referred to as the Son, the other Son of God, manifesting as a man, is distinctively termed <b>the only begotten Son.</b> Jesus, the only begotten Son, descended to earth. However, due to their malevolent actions, people cherished their own darkness and refrained from approaching Jesus, the light of wisdom.
-
-  Every ignorant individual harbors aversion towards God’s representative who brings the <b>light of wisdom</b> to the world. They fear that their nefarious deeds will be exposed in the presence of God’s representative, leading them to shun the light and conceal their actions. Those who anticipate that God’s light, taking human form on earth, will unveil their dark deeds avoid coming to the Son of God when He appears. Those who adhere to God’s wisdom comprehend that Atma is accountable for all their actions within the body. They approach God’s Son because all their deeds are within <b>God’s light, guided by wisdom.</b> However, only a small fraction of people on earth recognizes that Atma, who is God, is responsible for all their actions. Consequently, only a limited number approach the Son of God when He appears. Since the earth is populated with individuals who believe they are solely responsible for their actions, they refrain from seeking the Son of God. Not only do they steer clear of the Son of God, but they also harbor animosity and inflict hardships upon God’s representative, who infrequently manifests on earth. They deride the Son of God, subjecting Him to numerous tribulations.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 95,
-verse: ` <b>(17)	The Gospel of John, 5th chapter, 19th verse.</b>`,
-meaning: ` <b>
-(19) Jesus gave them this answer: “Very truly I tell you, the Son can do nothing by Himself; He can do only what He sees his Father doing, because whatever the Father does the Son also does.</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this verse, the mention of ‘Father and Son’ is accompanied by the statement that “The Son will do the things which the Father does.” It’s crucial to discern the identities of the Father and Son, given that the Holy Spirit (God) is the only one. Although God has one eternal Son, there is also another Son who occasionally incarnates on Earth. It’s important to ascertain which Son the verse is addressing. John 3:17 emphasizes, <b>“For God did not send His Son into the world to condemn the world, but to save the world through Him,</b> ” referring to God’s son, who manifests on Earth. This verse (5:19) refers to the Son, Atma, who serves as the light within the human body. Atma is eternal on the earth, providing <b>‘the light of mobility’</b> to everyone’s body. Based on this, especially when reading the verse, one should determine which of the two sons God, the Holy Spirit, has spoken about in the verse. John 5:19 characterizes Atma as God’s eternal son, stating that Atma mirrors the actions of the Holy Spirit and engages solely in inherited tasks from the Father, doing nothing independently.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 96,
-verse: `<b>(18)	The Gospel of John, 5th chapter, 20th verse.</b>`,
-meaning: ` <b>
-(20) For the Father loves the Son and shows Him all He does. Yes, and He will show Him even greater works than these, so that you will be amazed. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When we ask who said, <b>“Paramatma (the Holy Spirit) loves the Son and shows Him all He does,”</b> we find that Jesus, the second Son of God, spoke these words to His disciples while He was on earth. No one was able to fully recognize the Son of God when He walked among humans as a man. Despite His teachings and miracles, some subjected Him to great suffering and humiliation, ultimately leading to His death. However, God’s only begotten Son, named Jesus, was in their midst and said, <b>“The Father will show Him (Atma) even greater works than these so that you will be amazed.”</b> God commanded Atma to rule over the Jeevas and to show even greater things. Let us now explore what those great things are.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 97,
-verse: `<b>(19)	The Gospel of John, 5th chapter, 21st, 22nd, 23rd verses. </b>`,
-meaning: `<b>
-(21) For just as the Father raises the dead and gives them life, even so the Son gives life to whom He is pleased to give it.
-<br><br>
-(22) Moreover, the Father judges no one, but has entrusted all judgment to the Son.
-<br><br>
-(23) That all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father, who sent Him.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There is something noteworthy here. Although there is a mention of <b>‘two Allahs’</b> in the Quran, Muslims could not find it. Similarly, there is a mention of <b>‘two Sons’</b> in the Bible, but Christians could not understand it and talk about only one Son. All three of these verses have the word ‘Son.’ One needs to determine which of the two Sons is mentioned in these verses. Many are not able to comprehend that there is a second Son because only one Son at a time is mentioned in the verses. God said, <b>“For God did not send his Son into the world to judge the world but to save the world through Him” in John 3:17, and “The Father has entrusted all judgment to the Son” in John 5:22.</b> Based on this, one should understand that God has two Sons.
-
-  God said about Atma, “As the Father, the Holy Spirit, raises the dead and gives them life, the Son also raises the dead and gives life.” Just as the Father raises the dead and gives life, Atma decides a person’s next life experiences after death based on their past life’s sins and punya. Therefore, “Like the Father, the Son gives life to whom He is pleased,” is said in the verse. <b>“Whom He likes”</b> means <b>“those who are determined by karma”</b> from Atma’s perspective. As Atma is the hidden light in the body that determines a person’s next life’s karma, “He will resurrect the one He judged,” is said in the verse. “To resurrect” means “to be born again.”
-
-  God gave Atma the power to judge the dead and bring them back to life so that everyone could glorify his Son, Atma, just as everyone glorifies the Holy Spirit as the great God. At the very moment of a person’s death, Atma, the light in the body, determines their karma for the second life based on their past life’s sins and punya and immediately takes them to the second life. Atma decides the second life based on the person’s karma and gives them life again. Those who do not know that Atma does such great things do not see Atma with great respect. One who does not respect Atma will not respect God who sent Atma. Such ignorance neither respects Atma, which is in the body, nor Paramatma, which is inside and outside of the body.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 98,
-verse: `<b>(20)	The Gospel of John, 5th chapter, 24th verse.</b>`,
-meaning: ` <b>
-(24) Very truly I tell you, whoever hears my word and believes Him who sent me has eternal life and will not be judged but has crossed over from death to life. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Previously, verses 5:21, 5:22, and 5:23 discussed the Soul (Atma), who is the mobility in the body. The verse 5:24 states about the Soul, which came in human form with the name Jesus. Whoever believes in the Holy Spirit, who sent Jesus, the only begotten Son, will attain moksham. Such a person attains moksham without undergoing judgment immediately after their death.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 99,
-verse: ` <b>(21)	The Gospel of John, 5th chapter, 26th verse.</b>`,
-meaning: ` <b>
-(26) For as the Father has life in Himself, so He has granted the Son also to have life in Himself.       </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  God, the Holy Spirit, is eternal forever. Just as Paramatma is eternal, Atma, His son, has been granted the authority to be eternal forever. The Holy Spirit, the Father of Atma, bestowed upon Him that authority. In the first divine scripture when comparing Jeevatma to Atma, Jeevatma is referred to as Kshara (Perishable soul), while Atma is designated as Akshara (Imperishable soul).
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 100,
-verse: ` <b>(22)	The Gospel of John, 5th chapter, 37th verse.</b>`,
-meaning: `<b>
-(37) You have never heard His voice nor seen His form.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this context, ‘His’ refers to Paramatma (the Holy Spirit). God, known as Paramatma or the Holy Spirit, is devoid of a name, form, or specific tasks. No one has witnessed such a God because He lacks a discernible form. Consequently, no human has ever laid eyes on God. God does not communicate with anyone as He remains inactive. Therefore, it can be asserted that no living person has truly seen God. Any assertion of having witnessed God can be regarded as false. God is neither visible nor vocal.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 101,
-verse: `<b>(23)	The Gospel of John, 5th chapter, 38th verse. </b>`,
-meaning: `<b>
-(38) Nor does His word dwell in you, for you do not believe the one He sent.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Although the first creator, the Holy Spirit, does not actively engage in work, there are certain responsibilities that fall within His domain. Nevertheless, He refrains from direct action. Instead, God, Paramatma, has assigned His servants to carry out His work. These millions of servants constitute His dominion and execute all the tasks designated for Him. While God Himself remains inactive, His servants fulfill the roles He is supposed to undertake. Paramatma, however, has a crucial task at hand – the imparting of divine wisdom. God Himself is required for this task, as His servants cannot perform it. The final scripture states, <b>“God should teach God’s wisdom because no man knows God’s wisdom except God.</b> ” In disguise, God comes to teach the wisdom of God. Though He speaks in disguise, His identity remains unknown, as no one can discern the one in disguise. Despite God imparting His wisdom, it often goes unrecognized as His words. As God is wise, He assumes the guise of <b>‘Bhagavan’</b> and imparts wisdom.
-
-  Even when God personally comes to earth disguised as a man to teach wisdom, He also foretells sending a special man whose true identity will remain unknown. “One who comes from God will teach God’s wisdom,” God Himself declared in His divine scriptures. Consequently, everyone anticipates that the one sent from God will convey God’s wisdom. Thus, God’s incarnation remains veiled to all. Although God came to earth as a man during the Treta Yuga, no one recognized Him. During the Dvapara Yuga, God came as a man and imparted the teachings of the Bhagavad-Gita, even declaring <b>“I am God”</b> in the Bhagavad-Gita, yet no one recognized Him. Similarly, when God incarnated as Jesus in the Kali Yuga, no one recognized Him, causing Him numerous challenges. None realized that He was the real God. Some who professed to be God’s believers claimed Jesus was the Son of Man, failing to acknowledge Him as God. Others identified Jesus as the Son of God but still fell short of recognizing His divinity.
-
-  Although Jesus was God incarnate, He stated, <b>“You did not believe the one He sent”</b> in this verse without revealing His true identity. He expressed that people lacked faith in the man sent by God, stating, “God’s word did not live in you.” If there is no faith in the man sent by God, why does God’s word not resonate with humans? The reason lies in the disbelief in the divine messenger, who is God Himself and the bearer of wisdom. Consequently, God’s word fails to take root in those who lack faith in Him.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 102,
-verse: ` <b>(24)	The Gospel of John, 6th chapter, 25th, 26th, 27th verses.</b>`,
-meaning: ` <b>
-(25) When they found Him on the other side of the lake, they asked Him, “Rabbi, when did you get here?”
-<br><br>
-(26) Jesus answered, “Very truly I tell you, you are looking for me, not because you saw the signs I performed but because you ate the loaves and had your fill.
-<br><br>
-(27) Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. For on Him God the Father has placed His seal of approval.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse emphasizes two types of food: Perishable food and Imperishable food. Many humans seek perishable food, as illustrated when a crowd approached Jesus, asking, “When did you come here?” Jesus responded, <b>“You are not seeking God’s wisdom; you are seeking me, hoping for loaves of bread. ”</b> He further advised them, “Do not toil for perishable food.” Everyday food, which is consumed, digested, and destroyed within three hours, falls into the category of perishable food. Digestion, in essence, is a process of destruction, where all ingested food is broken down in the digestive tract and transformed into waste, much like burning wood into ashes.
-
-  In contrast, the wisdom a person acquires through their ears, entering their mind in the form of words, is considered imperishable food. <b>God’s wisdom is the only food that cannot be destroyed. Reading or hearing God’s wisdom is akin to consuming imperishable food for the mind.</b> The Son of Man provides this undestroyable food, as indicated by the verse, <b>“For on Him God the Father has placed His seal of approval.”</b> ‘Seal’ means acceptance or decision. God, having decided, sent His begotten Son to share His wisdom. The term ‘seal of approval’ in the verse signifies God’s decision or consent. In the Quran, it is stated that God did not reveal His wisdom to any human being, highlighting that the one who imparts God’s wisdom is no ordinary person. God asserted that His wisdom is known only to Himself, implying that the begotten Son who comes to reveal God’s wisdom is God Himself. The phrase "the Son of God" may mislead humans, but it can be understood as ‘Son’ meaning "God’s manifestation." God, choosing not to come directly as God to speak to humans, adopts the guise of the Son. This interpretation finds support in the following verse.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 103,
-verse: `  <b>(25)	The Gospel of John, 6th chapter, 32nd verse. </b>`,
-meaning: ` <b>
-(32) Jesus said to them, “Very truly I tell you, it is not Moses who has given you the bread from paraloka, but it is my Father who gives you the true bread from paraloka. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the mentioned verse, Jesus declared, <b>“Moses did not give you the bread of wisdom from Paraloka.”</b> This raises questions: Is the Dharma Shastra taught by Moses false? Does Moses’ Dharma Shastra lack wisdom with dharmas? If what Moses taught is not the true bread of God, why is it called Moses’ Dharma Shastra? These questions prompt various considerations. On one hand, it is false to claim that what Moses taught is not Dharma Shastra. On the other hand, in alignment with God’s statement, it can be asserted that what Moses taught is not Dharma Shastra. It is also accurate that Moses did not provide imperishable bread from Paraloka. Such questions and doubts arise, creating a need for proper answers to understand the true divine wisdom.
-
-  Prophet Moses is well-known among Christians, yet many Muslims might not be aware that the name ‘Moses’ in the Bible transformed into ‘Musa’ over 1400 years. It is crucial to note that Moses and Musa are, indeed, the same name. The statement that Moses did not convey the Dharma Shastra can be both true and false, presenting an intriguing ambiguity with a strong, unknown reason. This revelation may surprise some and face disagreement from others, but its truth remains independent of opinions. It is true that the prophet Moses existed a few thousand years ago. Approximately five thousand years ago, the prophet Moses shared the wisdom he possessed. A prophet, by definition, is someone who imparts God’s wisdom, and Moses earned this title through divine thoughts from a young age. At the age of 20,<b> Bhagavan,</b> who had descended upon the earth, provided Moses with the first divine scripture, known as ‘<b>Taurath.</b> ’ Moses continued to share the wisdom contained in that scripture.
-
-  Since it was rooted in dharmas, it became known as Moses’ Dharma Shastra. Moses passed away at the age of 54. After Moses’ death, Bhagavan entered his body and conveyed dharmas that Moses had never spoken of for nine years. Despite Bhagavan leaving Moses’ body at the age of 63, this fact remained unknown, leading people to believe that Prophet Moses had lived for 63 years and taught the dharmas himself. Although God provided Moses with a divine scripture, He did not directly impart wisdom to him. Hence, the statement, “Moses was not given the bread from Paraloka,” holds true. The wisdom imparted through Moses’ body by God is known as Moses’ Dharma Shastra. This is why the verse states, “The Father of Paraloka, the Holy Spirit, gave true bread.” Moses’ actual lifespan was 54 years, and no one knew that God extended Moses’ life to 63 years. All these mysteries are elucidated in my scripture, <b>Krishna Musa</b>.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 104,
-verse: ` <b>(26)	The Gospel of John, 6th chapter, 46th verse.</b>`,
-meaning: `<b>
-(46) No one has seen the Father except the one who is from God; only He has seen the Father. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Understanding this verse is not a challenging task. Upon reading the Bhagavad- Gita, the Bible, and the Quran in their entirety, it becomes evident that the verses in these final divine scriptures carry subtle meanings. The Quran’s verses, in particular, hold a depth that surpasses other divine scriptures, making their meanings elusive to many. While verses in the Bible might appear straightforward, their true reality often eludes comprehension. Consequently, God is providing a comprehensive understanding of every verse through us.
-
-  God, represented as the Holy Spirit, exists both before and after creation. He is the primary God. The true appearance or nature of God remains unknown to humans. In the final divine scripture, the Quran, the primary God is named Allah, and the second God, Atma, is also referred to as Allah. Hence, Paramatma is the first Allah, and Atma is the second Allah. In the second divine scripture, the Bible, Paramatma is designated as God, and Atma is addressed as the Father. It is crucial to recognize that the Holy Spirit is the Father of Atma, and Atma is the Father of humans. The Quran affirms that both Paramatma and Atma are Gods, while the Bible distinguishes one as God and the other as the Father. It is essential to understand that the Father of humankind is Atma, and the Father of Atma is the Holy Spirit. The verse emphasizes that no human has seen the Father (Atma) and is ignorant of Atma’s nature. <b>However, Atma is the only one who originated from God and has therefore witnessed his Father, the Holy Spirit. In contrast, Jeevatma has never witnessed his Father, Atma.</b>
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 105,
-verse: `<b>(27)	The Gospel of John, 7th chapter, 37th and 38th verses.</b>`,
-meaning: ` <b>
-(37) On the last and greatest day of the festival, Jesus stood and said in a loud voice, “Let anyone who is thirsty come to me and drink.”
-<br><br>
-(38) Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.    </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The verse carries a subtle meaning. Just as a thirsty person naturally seeks water, the pursuit of those seeking wisdom is likened to thirst. The verse states, <b>“Whoever thirsts for wisdom should come to me and quench their thirst.</b> ” When someone approaches Jesus and receives divine wisdom, it is akin to satisfying their <b>thirst for wisdom</b> from Jesus. Those who believe in Jesus attain complete divine wisdom, becoming repositories of wisdom and sharing it with others. Jesus proclaimed that rivers of living water would flow from within them. In this context, <b>living water symbolizes divine wisdom,</b> which bestows moksham (liberation) upon humans and keeps them in a perpetual state. Hence, wisdom is referred to as living water. Just as humans satisfy their physical thirst by drinking water through their mouths, they should similarly <b>nourish their intellect(buddhi) with divine wisdom by listening through their ears.</b>
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 106,
-verse: `<b>(28)	The Gospel of John, 8th chapter, 12th verse.</b>`,
-meaning: ` <b>
-(12) When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness but will have the light of life.”  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  God, known as the Holy Spirit, created Atma to carry out His rule and work through others. He declared Atma to be his son and gave him the power to perform His tasks. Atma received the authority to take human lives, passing judgment based on their karma from previous births, and facilitating their rebirth. In the role of a judge, Atma acts in accordance with each individual’s karma. Human entanglement in karma influences their thoughts, and Atma, responding to this karma, imparts ignorance as sought by individuals. Consequently, over time, adharmas increase on Earth.
-
-  The Holy Spirit, or God, must incarnate on Earth in human form as Bhagavan to curb adharmas and promote dharmas when adharmas emerge due to human interests and Atma-induced ignorance. When God takes on the guise of a man, He is called Bhagavan. This incarnation teaches divine wisdom without revealing His divine identity, often being referred to as the Son of God, with God being His Father. According to this perspective, there is one God, the creator, who has two Sons—one as the permanent Atma within humans and another as a temporary Son in human form. When the first Son (Atma) within humans develops adharmas, the second temporary Son, incarnated as a human, imparts dharmas. Thus, there is only one God with two Sons. The Son in the form of Jesus proclaimed, <b>“I am the light of the world.</b> ” Wisdom transforms into a wisdom fire (Gnana Shakti), burning away human karma. Jesus, embodying the wisdom fire, is the light of wisdom. He came to teach wisdom to humanity, and those who follow and comprehend His wisdom will not dwell in ignorance but in wisdom. Hence, Jesus declared, “Whoever follows me will never walk in darkness but will have the light of life.” Only God, who incarnates in human form, can bestow the light of wisdom, and establish dharmas.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 107,
-verse: `<b>(29)	The Gospel of John, 8th chapter, 14th verse.</b>`,
-meaning: `<b>
-(14) Jesus answered, “Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Jesus, in His outward appearance, resembled an ordinary man without any distinct features. As individuals dwelling within bodies made of Prakruti, the external appearance of every being appears the same. Jesus, too, presented Himself as an ordinary human being. There’s a saying among elders that no one knows what kind of snake resides in a termite mound, drawing a parallel to the mysterious nature of the Jeeva within a body. Every born Jeeva comes into a body from somewhere, guided by the decisions of the Atma based on its karma. Upon completing karma and death, the Jeeva enters a new body under the judgment of the Atma. Despite residing in the body, the Jeeva remains unaware of its origin for each new birth. The manas (mind) is the organ responsible for remembering, but it, too, dies with each passing life, causing the loss of memory from previous births. Consequently, an individual, say, at the age of 40, only recalls the last 40 years of the current birth and not the numerous previous ones.
-
-  This process applies not only to humans but also to every living creature. Although Jesus may seem like an ordinary man, it is essential to consider whether the same cyclical process applies to Him. Jesus was born in Israel, signifying He came from elsewhere. But He was conscious of His origin, stating, <b>“I know where I came from.”</b> Unlike ordinary individuals who are unaware of their future births upon death, Jesus was acutely aware of His destination after death. This stark difference between Jesus and an ordinary man prompts one to inquire about the uniqueness of Jesus. The answer to this question holds the key to the best wisdom, revealing that Jesus was not an ordinary man but was born with a specific purpose.
-
-  An individual born with a predetermined purpose before birth is termed "born for a cause." No human being possesses such a pre-birth purpose. In contrast, God is born with the specific intent of establishing dharma on Earth. Only God, and not any human, has the capability to establish dharma. God remains eternal and unchanged, unaffected by birth or death, maintaining consistent memory. When God incarnates on Earth in the form of a disguised man, imparts teachings on dharma, and departs, He does not undergo rebirth after death, a fate common to ordinary humans. In death, a human’s manas (mind) is destroyed, but God neither dies nor is born elsewhere. He assumes a unique disguise as a man, fulfills His purpose, and then returns to His origin. Thus, in the verse, Jesus declared, <b>“I know where I am going,”</b> emphasizing the distinctive nature of God’s existence and purpose.
-
-  Humans lack knowledge of the whereabouts or nature of God. When God incarnates as a man, His origin remains unknown. Unlike a conventional human birth, God’s birth is distinct; He does not undergo rebirth elsewhere after dying in some other place. The omnipresent God, existing even in the womb, transforms His form and appears to be born as a baby. Given that God is present where He is born, it becomes challenging to pinpoint His origin. Those unaware that God is omnipresent remain oblivious to where Jesus originated. Moreover, the destination of God after assuming a different form remains unknown. Consequently, in the verse, Jesus stated, <b>“You have 115 no idea where I come from or where I am going,”</b> emphasizing the mysterious nature of God’s existence and movements.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 108,
-verse: `<b>(30)	The Gospel of John, 8th chapter, 19th verse.</b>`,
-meaning: `<b>
-(19) Then they asked him, “Where is your Father?” “You do not know me or my Father,” Jesus replied. “If you knew me, you would know my Father also.” </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Does God exist? If He does, how is He? Where is He? If you know the answers to these questions, you will understand who the Father and the Son are. There is only one God, but we should know where the Son came from. The words ‘Father’ and ‘Son’ are frequently used in the Bible. <b>One should understand that ‘Father’ means God; the term was used to refer to God in the Bible. In the Quran, God is called ‘Allah,’ and in the Bhagavad-Gita, God is referred to as ‘Paramatma.’</b> Although these words are different, they all signify God. The essence of God should be seen in the term ‘Father.’ When Jesus was on earth, the Pharisees asked Him about his Father. Jesus replied, <b>“You did not see me or my Father.”</b> The Pharisees did not inquire about Jesus, even though He was before them. They wanted to know about his physical father, not realizing that Jesus’ father was God. They might have been surprised when Jesus directly spoke about Himself and his Father. They thought they were seeing Jesus in person and asked him to find out about his unknown father. Then Jesus said, <b>“You did not see me or my Father.”</b> We need to understand the meaning of that word.
-
-  Jesus’ Father is the Holy Spirit. Atma, the Holy Spirit’s Son, is present in all bodies and governs their operations. The Holy Spirit, referred to as the Father, and Atma, known as the Son, are ever-present. The Holy Spirit, Paramatma, is eternal and has existed since before creation. Atma, the Holy Spirit’s Son, has been present in all bodies since after creation.
-
-  Besides the permanent Son, Atma, God (the Holy Spirit) has another Son called <b>‘the only begotten Son,’</b> who occasionally comes upon the earth. There are significant differences between the permanent Son (Atma) and the temporary Son (the only begotten Son). For example, when Atma comes with a normal human body, the body has a separate Jeevatma. Although the entire body belongs to Atma, and Atma is the body’s head, Jeevatma also resides with Atma in the body and thinks that the body is mine. If the temporary Son, the only begotten Son, comes upon the earth with a body, there is no Jeevatma in that body. In an ordinary person’s body, God and Atma are different. Atma performs every task in that body, and God does not work. But in the only begotten Son’s body, Paramatma (God) resides as Atma and performs tasks in Atma’s form. Because there is no Jeevatma in the only begotten Son’s body, the one who acts as Atma also acts as Jeevatma. Although the one in the only begotten Son’s body is God, He pretends to be Jeevatma. <b>The one who came in disguise as the only begotten Son is the Holy Spirit (God). That God is acting like Jeevatma.</b> There are many differences between God’s permanent Son and the temporary Son.
-
-  It can be said that most people are unaware that God has a permanent Son and the only begotten Son who comes occasionally. By acquiring wisdom, one can understand the existence of Atma and Atma’s wisdom, but recognizing the only begotten Son is challenging. Identifying the only begotten Son among so many humans is difficult. Therefore, no one identified the only begotten Son who came in Treta Yuga, Dvapara Yuga, and Kali Yuga. Although Jesus was the only begotten Son of God in the Kali Yuga, people could not recognize Him as the second Son of God. Despite His proclamation of being the Son of God, people could not identify Him and subjected Him to many insults and torture. People failed to recognize those who came in Dvapara Yuga and Kali Yuga as the Son of God, even though they declared, “I am the Son of God.” I hesitate to affirm that the one who came in Treta Yuga was the Son of God. On that day, God Himself came in disguise as the Son and imparted wisdom on earth. Even though He was known as a great gnani and taught wisdom, I am also hesitant to say that He was Bhagavan because He was portrayed as an evil man among the people. Yet, I do not fear to say, <b>“Ravana Brahma is the only begotten Son.”</b>
-
-  In the Dvapara Yuga, Krishna came as Bhagavan. Both Bhagavan and the only begotten Son are the same. However, because Krishna was portrayed as cunning, many people are still unaware of His greatness today. Even though God came in disguise as a man and taught divine dharmas, humans did not focus on the wisdom He imparted; instead, they mostly scrutinized His behavior during that time. Only a few, out of millions, recognized His wisdom and declared that Krishna was God, but the majority spoke ill of Him. Those who were unaware of Krishna’s incarnation in the Dvapara Yuga found it challenging to recognize Jesus as the Son of God in the Kali Yuga. Because Krishna and Jesus anticipated that humans might not recognize the wisdom they taught, they both stated, <b>“We are Gods,”</b> in the context of their words, believing that humans can recognize their wisdom by doing so. Similarly, Jesus said, <b>“You do not know me or my Father,”</b> with the intention of making people realize that God and Jesus are the same.
-
-  Those who claim to have devotion to God often speak sarcastically when they encounter others who possess more wisdom than themselves. The Pharisees spoke to Jesus with the same attitude. Knowing that Jesus was born to Mary without a father, they asked Him, “Where is your father?” Jesus understood that they were mocking Him and not asking with devotion. He replied with a mind-boggling answer, <b>“You do not know me or my Father.”</b> Those who comprehend His words correctly will understand that the visible Jesus and the invisible God are one and the same. Jesus also said, <b>“If you knew me, you would know my Father also.”</b> However, it can be said that those who heard His words did not understand what He was saying. If they had comprehended His message, they would have recognized who Jesus was on that day. They would have realized that He was not an ordinary man. Despite Jesus’ words, they treated Him as if He were an ordinary man. It seems they knew nothing remarkable about Jesus.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 109,
-verse: `  <b>(31)	The Gospel of John, 8th chapter, 21st verse.</b>`,
-meaning: ` <b>
-(21) Once more Jesus said to them, “I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.”  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus spoke many words to let people know about Himself, and the words above are one example. <b>“I am going away, and you will look for me. Where I go, you cannot come,”</b> Jesus said to the people. On the surface, this verse might not seem particularly profound. When someone goes somewhere without informing others, we don’t know where they have gone, and even if we search, we may not be able to find them. The lack of information means that we cannot go where they have gone. You might wonder what wisdom lies in this common occurrence. Let’s look at it from another angle. In our youth, we used to play the game of ‘Thief and Police.’ In this game, the thief hides, and after a couple of minutes, the police start searching to catch them. To catch the thief, the police must go to the place where the thief is hiding. If the police cannot reach the hiding place, they cannot find the thief even after searching elsewhere. One day, when I was ten, we played this game. I was the thief, and the others were the police. Before hiding, I said, “I am going, and you cannot find me.” They confidently replied, “We will find you in ten minutes.” Then I added, “Where I go, you cannot come,” and went to hide from them.
-
-  Two minutes later, the police started the chase but could not find me for half an hour. Despite searching all the places, they couldn’t reach where I was hiding. On that day, I was sitting in the pooja room in my house, and I had closed the doors. The others playing as police searched everywhere, including the house where I was hiding, but they didn’t come to the pooja room because the doors were closed, and they didn’t search inside. Initially, I thought there was nothing special in the above verse, as it resembled the game of ‘Thief and Police.’ However, I later realized that the phrase <b>“You will die in your sin”</b> in the verse held significant meaning. Although it resembled a game, I discovered that it contained profound wisdom. I then delved into a comprehensive understanding of the meaning of this word. Here is what it means.
-
-  Jesus was visible to everyone on earth for some time, but unfortunately, no one believed in Him. Despite performing many miracles to prove that He was not an ordinary man—giving sight to the blind, enabling the lame to walk, curing leprosy, and even bringing the dead back to life to demonstrate His ability to forgive sins—people failed to recognize His true greatness. Even those who did not recognize Jesus during His lifetime would later search for Him, seeking relief from their suffering. However, there will be no benefit in searching for Him once He is gone, as He will not be visible to anyone. People who die in their sins cannot have them forgiven by Jesus, as they do not know where He went. Even if those who denied Jesus during His lifetime later acknowledge Him as God, their sins will not be forgiven. Jesus had foretold all these things to the people in advance. When Jesus said, <b>“I am going away,”</b> no one asked Him to stay longer. Instead, people shouted for Him to be crucified, leading to His death on the cross.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 110,
-verse: `<b>(32)	The Gospel of John, 8th chapter, verses 23 and 24.</b>`,
-meaning: `<b>
-(23) But he continued, “You are from below; I am from above. You are of this world; I am not of this world.
-<br><br>
-(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.”   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In these two verses, the 24th verse seems similar to the 21st verse, but the 23rd verse is unique. Jesus gave the people a second chance to recognize that He was not an ordinary man and said, “You are from below; I am from above. You are of this world; I am not of this world.” This verse is divided into two parts: the first one is “You are from below; I am from above,” and the second one is “You are of this world; I am not of this world.” Based on the first part of the verse, “You are from below; I am from above,” there have been two kinds of people since Kruta Yuga – the lower people and the upper people. There is a reason behind how these two names – the lower and the upper – came into existence. This is how people are divided into the lower and upper categories.
-
-  The age of Kruta Yuga spans 1,728,000 years. During the first thousand years of Kruta Yuga, two tribes emerged among the people - the gnanis (those with wisdom) and the ignorant. There were very few gnanis on Earth during that time, while the ignorant were innumerable. In that yuga, the world population was only about 30 million, and the Indian population was not more than 300,000. The Sun descended upon the Earth and imparted divine wisdom to a person named Manu. Only two or three individuals learned the wisdom directly from Manu, and all other people held great respect for these gnanis, learning the divine wisdom from them. In those days, people held gnanis in high esteem, making them sit on the upper seat while they themselves sat on the floor, listening to the wisdom. It was customary for people to give the upper seat to gurus and sit on the floor. Based on this, Jesus said, “You are from below; I am from above.” This means, <b>“I am your teacher (Guru) to you all.”</b>
-
-  It was common for teachers to sit on the upper seat while people who sought wisdom sat on the floor. Teachers used to convey to the people that they were below the teachers who were above them. The teachers who imparted divine wisdom were known as teachers of Brahma Vidya. ‘Brahma’ means great, and ‘Brahma Vidya’ means great teaching. The teachers who possessed knowledge of Brahma Vidya were called Brahmins. In those days, Brahmins meant teachers. Only two or three teachers in the entire India were referred to as Brahmins. Those Brahmins used to categorize the rest of the people as ‘lower people.’ All those who lacked wisdom were designated as ‘lower people.’ This way, the entire country had ‘lower people.’ After some time, the caste system began based on this division. As the caste system took shape, those who knew Brahma Vidya began to say, “We are Brahmins.” Similarly, those who were ignorant were labeled “You are below us (Maa-diguvavaru in Telugu).” Thus, two tribes - <b>the upper (Eguvavaru in Telugu) and the lower (Diguvavaru in Telugu)</b> - formed. Although the word ‘lower (Maadiguva vaaru)’ exists even today, people may not fully understand its historical meaning. Over time, the term ‘Maadiguva vaaru’ transformed into the Madiga caste (scheduled caste), which is now counted as a lower caste.
-
-  When the caste system originated, there were two castes—the Brahmins and the Madiga (Scheduled Caste). The term ‘Madiga’ was initially used to refer to those who were considered ignorant and lacked wisdom. However, over time, even among those who lack wisdom, numerous castes emerged, and those who remained unclassified were still labeled as Madiga. Looking back into history, Madiga was not originally a caste but rather a name given to the ignorant by two or three teachers. Based on this, people from all castes who lack wisdom can be called Madiga. People are divided into castes due to an unknown history. It is unjust and ignorant to label the remaining people as Madiga. Over 2,000 years ago, Jesus also used the words ‘upper’ (Eguvavaru) and ‘lower’ (Diguvavaru). He said, <b>“You are from below; I am from above,”</b> referring to the ignorant. It should be understood that the words ‘upper’ and ‘lower’ are used to indicate, “I am a gnani, and you are ignorant.”
-
-  Jesus’ second word is, “You are of this world; I am not of this world.” ‘Loka’ (World) in Telugu means ‘having experiences.’ There are two types of people based on the experiences they have. Those with experiences belong to this world, and those without experiences do not belong to this world. Ordinary people enjoy every experience in the world, so they are the residents of this world. Jesus, who does not have any experience, said that He was not of this world. Although He looks like a man, He does not have any experiences like a man. Even though Jesus is in a human body, He is not a Jeevatma like others. When He is not a Jeevatma, there is no karma. Hence, He does not have experience based on karma. Paramatma specially sent Jesus. In other words, the Holy Spirit came in disguise as Jesus. According to spiritual dharma, we should not say that. Paramatma specially created and sent Jesus. Therefore, Jesus should be called the Son of the Holy Spirit. As Jesus is not a Jeevatma, it can be said that He does not have experiences. If Jesus were a Jeevatma, He should not be called the Son of the Holy Spirit. Jeevatma is the Son of Atma. Atma’s Father is the Holy Spirit. Hence, Jeevatma becomes the grandson of the Holy Spirit. Jesus is called God’s son because He is sent from God by God. Jesus was also explicitly called the only begotten Son. Atma is the Son of the Holy Spirit. The only begotten Son is the temporary Son who descends upon the earth in need. Therefore, the temporary Son becomes the Son of the Holy Spirit like Atma and will not become a grandson like Jeevatma. Jeevatma gets experience. Hence, Jeevatma, who has experiences, is from this world. Jesus, as Atma, who does not have experiences, is not of this world. He is from Paraloka.
-
-  Jesus gave the people a second chance to recognize Him as an extraordinary man and quoted these verses (John 8:23, 24). However, humans could not perceive Jesus’ greatness and considered Him an ordinary man. Therefore, they cannot be absolved of their sins by Jesus or His teachings. Jesus, the Son of the Holy Spirit, came among men and spoke many words to make Himself known. He reiterated for the second time that those who could not find and believe in Him would die in their sins, as He had mentioned earlier in John 8:21. He provided a third opportunity by speaking His final words. Jesus repeated three sets of verses to help people identify Him. He warned that those who did not recognize Him would not be forgiven of their sins. Let us examine the third set of verses to see what He said.
-
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 111,
-verse: `<b>(33)	The Gospel of John, 8th chapter, 24th verse.</b>`,
-meaning: `<b>
-(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.
-</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It becomes known that this verse gave a third chance to know who Jesus was. In this verse, Jesus directly told the public who He was. He said, <b>“Those who do not believe that I am the Holy Spirit, and the Creator will die in their sin.”</b> Jesus Himself declared who He was. Initially, He said, <b>“I will go away; you cannot come to the place where I have gone,”</b> to give them some opportunity to understand Him. In the second verse, He said, <b>“You are of this world; I am not of this world,”</b> providing more details to help them understand who He was. It can be understood that Jesus is the Holy Spirit from the second verse. In the third verse, He said, <b>“One who does not believe that I am He is not able to get out of sin,”</b> providing greater clarity. In the third verse, Jesus declared, <b>“I am God.”</b> Despite this, people recognized Jesus as an ordinary man and were unable to realize that He was God. However, some were surprised by Jesus’ words. Although they did not believe it, they asked Him who He was. Jesus replied using these three verses (John 8:21, 22, 23) to help them understand that He was not an ordinary man. Nevertheless, they did not realize this and asked, “Who are you?” Jesus replied, <b>“Just what I have been telling you from the beginning.”</b>
-
-  In addition, He said, “He who sent me is trustworthy, and what I have heard from Him, I tell the world.” However, people did not realize that He was talking about his Father (the Holy Spirit). Although He said so much, people did not recognize Jesus. Some treated Him as an ordinary man, and others treated Him worse than an ordinary man. Jesus said something else about those people.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 112,
-verse: ` <b>(34)	The Gospel of John, 8th chapter, 28th verse.</b>`,
-meaning: ` <b>
-(28) So, Jesus said, “When you have lifted up the Son of Man, then you will know that I am He and that I do nothing on my own but speak just what the Father has taught me. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There is some confusion in this verse regarding the phrase, <b>“You have lifted up the Son of Man. ”</b> One may not understand the phrase. To interpret this phrase correctly, one should read it as “When people lift Jesus over their heads” instead of “When you have lifted up Jesus.” Some may ask, “Why would people lift Jesus over their heads?” The answer is that <b>Jesus should be understood with the head</b> that is over our body. One who understands Jesus with their <b>intellect (buddhi)</b> will know that Jesus is the Holy Spirit. Furthermore, this verse reveals that the divine wisdom being taught by Jesus is not His own; instead, He is teaching as directed by the Holy Spirit.
-
-  Instead of stating that humans should understand Jesus with the buddhi in the head, the verse says that people have lifted Jesus up. It becomes known that Jesus is Paramatma (the Holy Spirit) if one understands Him <b>with the buddhi</b> in the body. As long as people have not understood that Jesus is God, <b>“the sins of the people are not forgiven, and they die in their sin, ”</b> as stated in the previous three verses. If they understand as Jesus said, it becomes known that Jesus is God. The secret that the Holy Spirit incarnates as a man to teach His wisdom becomes revealed. When it is learned that Jesus is God, some may think that Jesus Himself is saying all the wisdom that Jesus speaks. However, it is not possible to say as some people think. The reason is that after saying, <b>“I am He, ”</b> He spoke another word.
-
-  Jesus said, <b>“I do nothing on my own but speak just what the Father has taught me.”</b> This might create the impression that the Father and Jesus are distinct. The reason for expressing it in two ways is rooted in the fact that Jesus was a man. God, in His true form, is invisible and embodies power. When God takes on a human form, and if an individual perceives this truth with the intellect (buddhi), they will understand that the Holy Spirit and Jesus are one and the same. However, when God incarnates as a man, it is against <b>spiritual law</b> for the incarnation to openly declare, “I am God.” Even though one may recognize the visible person as God, this truth should not be openly revealed according to spiritual law. Following this spiritual rule, Jesus stated, <b>“I do nothing on my own but speak just what the Father has taught me,”</b> adhering to the principles of spiritual law.
-
-  Jesus said, “I am saying what the Father said.” Both phrases — “I do nothing on my own” and “God does everything'” — mean the same thing. When people recognize that Jesus is the Holy Spirit, their sins will be forgiven. While it is wise to understand that Jesus is the Holy Spirit, it is spiritually incorrect to say that the Holy Spirit is Jesus. Therefore, Jesus Himself said, <b>“Until you know that I am God, your sins will not be forgiven,”</b> and <b>“I am He,”</b> so that humans would understand who Jesus was. According to spiritual law, He ultimately said, “I am doing everything my Father told me to do.” Therefore, one should not assume that Jesus spoke in two ways in the verse. Although it is written in the verse that “I am God” and “I am doing what God says,” both convey the same meaning. One may think that Jesus spoke contradictory things if this is not understood. One who understands wisdom can recognize that God comes as a man but should not declare that a particular person is God. Therefore, Jesus also said, “I am God” in one word and “My Father is God” in another. Both are true. Additionally, Jesus said the following to the people.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 113,
-verse: `<b>(35)	The Gospel of John, 8th chapter, 29th verse.</b>`,
-meaning: ` <b>
-(29) The one who sent me is with me; He has not left me alone, for I always do what pleases Him.     </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse is said to indicate that Jesus and the Holy Spirit are one and the same. To support this, Jesus said, “The one who sent me is with me.” This means that the God who sent Jesus is in Him and that the Holy Spirit and Jesus are the same. There is something called ‘Will’ in the human body. Jesus said that He would always do things according to God’s will. In a different way, He said that God’s will is working in Him. It is a testimony to the fact that God is in Jesus. Jesus also said that the Holy Spirit had not left Him alone. It is as if Jesus said that God was with Him and that God was Him. Jesus himself spoke these words to recognize Him as God. Although God came as ‘Jesus’ in the Kali Yuga, people did not recognize Him. Therefore, it became necessary for Jesus to say these words to recognize His greatness. Otherwise, people would not grasp Jesus’ wisdom. When Jesus spoke these verses, some people believed Him.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 114,
-verse: ` <b>(36)	The Gospel of John, 8th chapter, 53rd and 54th verses.</b>`,
-meaning: ` <b>
-(53) Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?”
-<br><br>
-(54) Jesus replied, “If I glorify myself, my glory means nothing. My Father, whom you claim as your God, is the one who glorifies me. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Although Jesus provided detailed explanations for people to understand Him, they struggled to grasp His identity, leading them to inquire, “Who are you?” In response, Jesus stated, “If I glorify myself, my glory means nothing.” Having already spoken about Himself on five occasions, He recognized the potential for His words to be perceived as false if He were to repeat or elaborate further. Therefore, Jesus explained, “If I say something different one more time from what has been said so far, then My Father, whom you claim as your God, glorifies me.” This statement underscores the fundamental unity between Jesus and his Father, whom people claim as God. However, in adherence to spiritual rules, one should not directly claim to be God. Hence, Jesus declared, “I am God” initially to help people understand Him. Later, He clarified by stating that God was his Father. “Just because I told you two things differently, you should not be confused. You should understand me with the truth,” said Jesus, emphasizing the importance of comprehending His identity beyond the surface expressions.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 115,
-verse: `<b>(37)	The Gospel of John, 8th chapter, 55th verse. </b>`,
-meaning: `<b>
-(55) Though you do not know Him, I know Him. If I said I did not, I would be a liar like you, but I do know Him and obey His word.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus proclaimed, “You do not know God; I know God,” addressing the perception of many who regarded Him as an ordinary man. The need for such a statement arose to clarify Jesus’ distinct relationship with God. Some questioned how Jesus, being human like others, could claim to know God when others did not. To address this query, we can consider Jesus’ repeated declaration, “I am He,” in three distinct verses. According to this statement, Jesus does not possess Jeevatma in His body, even though He has a human form. Instead, the Holy Spirit serves as the sole Atma in His body, actively engaging in every action. The misconception arises when people assume that the Atma is the Jeevatma leading them to believe that Jesus may not know God. However, the truth is that Paramatma (the Holy Spirit) Himself resides in Jesus’ body, making God known to Him. As the Holy Spirit is the consciousness within Jesus, there is no need for a separate knowing; Jesus inherently possesses God as His consciousness. In contrast, ordinary humans have the mind (manas) as consciousness in their bodies but lack the consciousness of either Atma or Paramatma. The lack of Paramatma’s consciousness is the reason why humans do not know God, whereas Jesus, with God as His consciousness, inherently knows God.
-
-  If Jesus were to assert, “I do not know God,” it would suggest a lack of God’s consciousness in Him, akin to ordinary humans. Such a statement would be tantamount to falsehood. Therefore, Jesus declared, “If I said I did not know God, I would be a liar like you.” The uniqueness lies in the fact that the Holy Spirit is the sole inhabitant in Jesus’ body, eliminating the existence of a dual pair of souls – Atma, responsible for actions, and Jeevatma, for experiences. In Jesus’ body, where only the Holy Spirit resides, every uttered word originates from the Holy Spirit. Hence, when Jesus expressed, “I am conscious of Him. I know Him, and I obey His word,” these words emanated from the Holy Spirit, despite Jesus speaking in a manner akin to everyone else. Despite His outward appearance as an ordinary man, there was no aspect unknown to Him. An illustration of this profound knowledge unfolded when Jesus spoke about Abraham, a figure long deceased, evoking amazement and prompting a question from those around Him.
-</div></div>
-
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 116,
-verse: ` <b>(38)	The Gospel of John, 8th chapter, 57th and 58th verses.</b>`,
-meaning: `<b>
-(57) “You are not yet fifty years old,” they said to Him, “and You have seen Abraham!”.
-<br><br>
-(58) “Very truly I tell you,” Jesus answered, “before Abraham was born, I am!” </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When Jesus uttered these words, He was approximately 32 years old, on the verge of entering His 33rd year. Abraham, a historical figure, had lived centuries prior to Jesus, akin to a great-grandfather to the people of Jesus’ time. When Jesus referred to Abraham, the Jews present questioned how He could speak of a man who had long preceded Him, having been born and died in a different era. In response, Jesus made the enigmatic statement, “Before Abraham was born, I am.” This assertion appeared deceptive to those around Him, given the clear generational distinction between Jesus and Abraham. Nevertheless, what Jesus expressed was an absolute truth, even if it seemed paradoxical to His contemporaries.
-
-  Let’s explore the truth behind this statement. Jesus’ physical body was born approximately 32 years ago. However, only the Holy Spirit resides in His body, not the Jeevatma. If Jeevatma were present, Jesus wouldn’t have memories from previous births, as Jeevatma doesn’t retain such memories. In contrast, Paramatma (the Supreme Soul) is present in Jesus’ body and is eternal. It has existed since before the creation of the universe and is the creator of all living beings, including Abraham. Abraham, like any other human being, was born, lived, and died, with the Holy Spirit as a witness. While Atma gave life to Abraham, God (Paramatma) witnessed the entire journey. <b>God is the ultimate witness, Atma is the doer, and Jeevatma experiences life.</b> Although Abraham was born through Atma, God, as the ultimate witness, knows everything about Abraham. Paramatma knows how many times Abraham was born in the past and how many times he will be born in the future. Therefore, when Jesus said, “Before Abraham was born, I am,” He referred to His identity as the eternal Paramatma who has existed since before Abraham’s birth and will continue to exist after His death. This statement emphasizes Jesus’ timeless existence beyond the limitations of physical birth and death.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 117,
-verse: `<b>(39)	The Gospel of John, 9th chapter, 39th verse.</b>`,
-meaning: ` <b>
-(39) Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When some people accused Jesus of being a sinner, the individual whose karma had been removed by Jesus overheard their words and responded with the following information.
-
-  (John 9:25-38) He replied, <b>“Whether He is a sinner or not, I don’t know. One thing I do know. I was blind but now I see!”</b>. Then they asked him, <b>“What did He do to you? How did He open your eyes?”</b> He answered, <b>“I have told you already and you did not listen. Why do you want to hear it again? Do you want to become His disciples too?”</b> Then they hurled insults at him and said, <b>“You are this fellow’s disciple! We are disciples of Moses! We know that God spoke to Moses, but as for this fellow, we don’t even know where He came from.”</b> The man answered, <b>“Now that is remarkable! You do not know where He came from, yet He opened my eyes. We know that God does not listen to sinners. He listens to the godly person who does His will. Nobody has ever heard of opening the eyes of a man born blind. If this man were not from God, He could do nothing.”</b> To this they replied, <b>“You were steeped in sin at birth; how dare you lecture us!”</b> And they threw him out. Jesus heard that they had thrown him out, and when Jesus found him, He said, <b>“Do you believe in the Son of Man?” “Who is He, sir?”</b> the man asked. <b>“Tell me so that I may believe in Him.”</b> Jesus said, <b>“You have now seen Him; in fact, He is the one speaking with you.”</b> Then the man said, <b>“Lord, I believe,”</b> and he worshiped Him. After the events that had just occurred, Jesus said, <b>“For judgment, I have come into this world, so that the blind will see and those who see will become blind.”</b> This statement can be understood in light of the previous events.
-
-  The purpose of Jesus’ statement was to convey that <b>those who have faith in God can see me,</b> even if they don’t know who He is. Those who don’t believe in God may interact with Jesus daily and see His physical body, but they cannot recognize Him. Therefore, Jesus said that He came into the world to make unbelievers unaware that He is God. Despite God taking on human form and standing next to unbelievers, they cannot recognize the Son of God due to their ignorant blindness. This blindness is a type of ignorance that prevents them from knowing God, even when He appears in human form. When Jesus said that <b>a devotee who sees God’s incarnation (the Son of God) may not recognize Him based on the outward appearance, but instead, through intuition,</b> some of the people around Him asked if they were blind as well. Jesus replied to them like this.
-</div></div>
-
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 118,
-verse: `<b>(40)	The Gospel of John, 9th chapter, 41st verse.</b>`,
-meaning: `<b>
-(41) Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In verse 39, Jesus explained the distinction between those with faith and those without. He stated that a blind person with divine faith could see Him, while unbelievers could physically see Him but couldn’t perceive His true identity. In the 41st verse, Jesus delved further into the behavior of those operating with a <b>worldly perspective.</b> Individuals with a worldly mindset proclaim, “I am seeing,” attributing their actions to themselves and consequently accumulating karma for their deeds. God bestowed sight upon humans to comprehend His wisdom, yet not everyone employs their vision to recognize God. Some remain spiritually blind despite having physical eyes. Concerning worldly matters, every individual is, in essence, blind. The truth is no one autonomously engages in worldly activities. No one possesses sight or hearing. Despite their inherent lack, people claim, “I am seeing,” falsely assuming they have sight and consequently incurring sin for their actions. Even though humans are spiritually blind, they accumulate sin when they mistakenly believe they possess sight. Jesus emphasized that recognizing one’s spiritual blindness and acknowledging <b>the truth</b> of having seen nothing absolves them of sin. In essence, acknowledging one’s spiritual blindness prevents the accumulation of sin in worldly matters.
-
-  Those who lack divine wisdom are unaware of their lack of sight in mundane matters. Their inability to comprehend Jesus’ words stems from their ignorance that God has endowed sight only for understanding matters related to Him. To grasp the essence of the verse, each individual’s Jeeva (soul) must first recognize whether they are blind or possess insight in the body. In truth, the Jeeva in every person’s body is entirely blind in all aspects. Each Jeeva mistakenly believes that the body belongs to them and that they are the doer of all actions in the body. However, Jeevatma has no independent agency in the body; <b>Atma</b> is the true owner and controller. Atma continually operates within the body, and, in reality, Jeeva doesn’t perform any tasks in the body. Devoid of sight, hearing, and full functionality, Jeeva is blind, deaf, and disabled in every sense. Positioned next to the <b>buddhi</b> (intellect) in the body, Jeeva becomes aware of information that reaches the intellect, but Jeeva can’t independently know anything. Despite lacking direct knowledge, Jeeva erroneously believes that it has personally witnessed everything. Although Atma is the active force in the body, Jeeva wrongly attributes all actions to itself. When Jeeva falsely claims responsibility for a deed, it must endure the karmic consequences associated with that action.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 119,
-verse: `<b>(41)	The Gospel of John, 10th chapter, 18th verse.</b>`,
-meaning: `<b>
-(18) No one takes life from me, but I lay it down of my own accord. I have the authority to lay it down and authority to take it up again. This command I received from my Father. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  No one knows when an ordinary person will leave this life. Once someone dies, they will not return. This is evident in every death. <b>Jeeva also departs from the body in death. However, most people do not realize that Jeeva is separate from the life force in a person.</b> Many people think that Jeeva and the life force are the same. But in the verse, it is said, <b>“No one takes life from me,”</b> which shows that Jesus is different, and his force is different. Although everyone has their own life force in their body, like Jesus, they cannot set it aside or take it up again. Within the body are many internal organs, life, buddhi, and manas. Anything inside the body is under the control of Atma, not under the control of man. Hence, Atma decides whether to set aside a person’s life or send it where Atma wishes, as it is its task. Jeeva has no relation to the life force in their body, but Atma has a relationship with the life force in the body.
-
-  Jesus is not an ordinary Jeeva, but rather He is Atma. As such, He has the authority to lay aside His life, and no one can take it away from Him. This means that <b>Jesus does not die at anyone else’s hands;</b> if He were to die, He would choose to lay aside His life. Only Atma has the power to put life aside and then bring it back when desired. The Holy Spirit gave Jesus the authority to do this, as Jesus Himself declared, <b>“No one takes life from me, but I lay it down of my own accord. I have the authority to lay it down and take it up again. This command I received from my Father.”</b> As foretold, Jesus made His life (prana or breathing) hid in His body when He was crucified, appearing dead to those around him. Yet He emerged alive early on Sunday morning, having taken back His life. This demonstrates that Jesus, being Atma, has the power to lay down His life and then come back to life in the same body, and this authority was given to Him by His Father, the Holy Spirit. Additionally, Atma has the authority to take others’ lives and send them for reincarnation.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 120,
-verse: ` <b>(42)	The Gospel of John, 10th chapter, 30th verse.</b>`,
-meaning: ` <b>
-(30) I and the Father are one.    </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Atma is the Father of Jeeva, and correspondingly, Paramatma is accountable for the creation of Atma. Therefore, Atma is also the Father of human beings, while Paramatma is the Father of Atma. As Jesus is Atma, He is the Son of God. When <b>a son pays close attention to his father,</b> it signifies a state of union between the son and the father. This is the essence of Jesus’ statement, <b>“I and my Father are one,”</b> as He directed His focus towards His father, the Holy Spirit.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 121,
-verse: ` <b>(43)	The Gospel of John, 11th chapter, 25th verse.</b>`,
-meaning: ` <b>
-(25) Jesus said to her, “I am the resurrection and the life. The one who believes in me will live, even though they die. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this context, ‘resurrection’ is indicative of birth, while ‘life’ signifies liberation (moksham), implying freedom from the cycle of rebirth. Since both birth and moksham are related to Atma, Jesus declared, “The one who believes in me will not be reborn after death but will attain <b>moksham.</b>”
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 122,
-verse: `<b>(44)	The Gospel of John, 11th chapter, 26th verse.</b>`,
-meaning: `<b>
-(26) Whoever lives by believing in me will never die.     </b>`,
+verse: `<b>(1)	Injili ya Yohana, sura ya 1, mstari wa 1.</b>`,
+meaning: `<b>(1:1) Hapo mwanzo kulikuwako Neno, naye Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-The one who has attained moksham will experience eternal life and never face death again. Therefore, Jesus proclaimed, “Everyone who has faith in God will attain moksham and never die again.”
+  Injili ya Yohana ina sura 21. Katika andiko hili, nitatoa maelezo kwa baadhi ya mistari ambayo wanadamu wameshindwa kuelewa, kutoelewa, au wanaweza kufasiri kimakosa. Nimechagua mistari hii kama sehemu ya huduma ya Mungu, nikihisi kama kalamu ambayo Mungu ananitumia kufanya kazi hii. Hapo awali, nilieleza baadhi ya mistari kutoka katika andiko la kwanza la kimungu, Bhagavad-Gita, na andiko la tatu la kimungu, Kurani. Ninapotamani sana kueleza maandiko yote matatu ya kimungu, sasa nitaonyesha baadhi ya mistari kutoka katika andiko la pili la kimungu, Injili (Biblia). Hekima iliyotolewa katika andiko hili ni ya kisayansi na ya kweli. Sasa, hebu tuchunguze aya ya kwanza kutoka sura ya kwanza ya Injili ya Yohana, ambayo ina sentensi tatu fupi ambazo lazima zifafanuliwe ili kuielewa kikamilifu.
+  Hebu sasa tujadili maneno matatu ya kwanza ya Injili ya Yohana katika andiko la pili la kimungu.
+            <b>
+            Neno alikuwako hapo mwanzo.
+            Neno alikuwa pamoja na Mungu.
+            Neno alikuwa Mungu.
+            </b>
+
+  Katika mafundisho ya Biblia, hebu turejelee mistari hii mitatu kama mistari ya mwanzo ya Biblia. Huenda wengine wakabisha kwamba mistari kutoka Mwanzo yapasa kuitwa maneno ya kwanza ya Biblia. Walakini, tayari tumeelezea njia yetu. Tunazingatia mafundisho ambayo wanadamu wanahitaji kuwa maandiko na tutazungumzia mistari ya kwanza kutoka kwayo. Kwa kufuata kanuni hii, Bhagavan Yesu alifundisha Injili nne. Ingawa Injili ya Yohana ilikuwa ya mwisho, ilianza na mafundisho. Vile vile, tulichukua mstari wa 11 wa sura ya pili kama mwanzo wa Bhagavad-Gita kwa sababu hekima ya Mungu ilianzia hapo. Pia tulichukua aya ya 11, 12, na 13 kutoka Sankhya- Yoga kama sentensi tatu za kwanza. Vivyo hivyo, aya za kwanza zilichukuliwa kutoka sura ya 43 ya Injili (Biblia), na tukachukua aya tatu kutoka Taurat (Bhagavad-Gita) kama sentensi tatu za kwanza. Hapa, hata hivyo, tulichukua sentensi tatu kutoka mstari mmoja katika Injili ya Yohana kama sentensi tatu za kwanza, badala ya mistari mitatu mfululizo. Mlolongo wa sentensi sio muhimu; tulichukua zile zinazoleta maana tatu kama sentensi tatu. Ingawa haya ni sentensi fupi tatu, kila moja ina maana kubwa.
+
+  Sentensi hizi tatu hutoa maana fiche. Sentensi tatu za kwanza za Bhagavad-Gita hujikita katika dhana za Jeevatma na Atma. Hata hivyo, maneno ya utangulizi ya Injili ya Yohana yanafundisha maana ya pekee. Kuanzishwa kwa Bhagavad-Gita kunajadili vipengele vitatu - Jeevatma, Atma, na mwili. Kinyume chake, sentensi tatu za mwanzo za Injili ya Yohana huchunguza vipengele vitatu - Hekima, Atma, na Paramatma. Hata hivyo, sentensi hizi hazifafanui kwa uwazi nafasi za Atma na Paramatma. Ingawa neno 'Mungu' linaonekana katika sentensi mbili, hekima na Atma hubakia kutambulika kwa njia isiyoeleweka. Sasa, hebu tuchunguze sentensi ya kwanza ya watatu. Sentensi ya kwanza ni<strong>"Neno alikuwako hapo mwanzo.&rdquo; </strong>Neno hutamkwa katika hotuba, inayotokana na sauti inayotoka kinywa. Mtu anaweza kutambua sauti na kutambua kama sentensi ni ndefu au fupi kulingana na viashiria vya kusikia. Lugha ya sentensi inaweza si lazima ifahamike na inaweza kutofautiana kwa urefu. Haiwezekani kuamua ikiwa neno (sentensi) lilitamkwa kwa upole au kwa sauti kubwa. Hebu tuchambue sentensi<strong>"Neno alikuwako hapo mwanzo.&rdquo;</strong>Ingawa tunaelewa kuwa neno hilo lilizungumzwa hapo mwanzo, wanadamu hawakuwa na ujuzi wowote wa lugha katika hatua hiyo ya awali. Kwa hiyo, swali linalofaa linatokea kuhusu lugha ambayo neno hilo lilitamkwa. Ili kushughulikia uchunguzi huu, hebu tuzingatie matukio yaliyotokea mwanzoni.
+
+  Tukiuliza kuhusu asili ya sauti hapo mwanzo, tunaweza kuhusisha sauti iliyosikika na sikio la mwanadamu na Prakruti. Prakruti inajumuisha bhoota tano kuu - Dunia, Maji, Hewa, Moto, na Anga - kila moja ina uhai. Anga, iliyojaliwa uhai, ilitoa sauti mwanzoni. Hii inazua swali la jinsi Anga hutoa sauti wakati inaonekana kuwa tupu. Uchunguzi huu ni wa busara, na kuelewa majibu kunabadilisha kuwa uchunguzi wa kisayansi. Kulingana na Brahma Vidya Shastra, Je, Anga yenyewe ilitengeneza sauti? Kwa kuwa Anga ni Jeeva, Jeevatma haina uwezo na haiwezi kutenda kulingana na kanuni za kisayansi; ni dharma ya Jeevatma. Paramatma pia ina dharma moja. Paramatma (Mungu) hana jina, umbo, au kazi. Hii ndiyo dharma kuu ya Mungu. Mungu si wakala wa utendaji; Hajishughulishi na kazi. Kulingana na dharma ya Jeevatma, Jeevatma haina uwezo na haiwezi kufanya kazi yoyote. Ingawa Mungu ana uwezo, hajishughulishi na matendo yoyote. Kwa hivyo, Jeevatma na Mungu wana dharma zinazopingana. Hapo mwanzo, neno hilo lilitoka kwa anga. Kwa vile Sky pia ni Jeeva, haikutoa sauti hiyo. Sauti iliyotoka Angani ni tukio la kweli, lakini Jeeva of the Sky haina uwezo na haiwezi kutoa sauti yoyote. Kwa hivyo, mtu nyuma ya Anga anaweza kuwa chanzo cha sauti. Mungu hakuumba sauti kwa sababu Yeye hajishughulishi na kazi. Ingawa sauti kutoka Angani ni ya kweli, si Jeeva ya Angani wala Mungu ndiye chanzo cha sauti hiyo. Shaka inaweza kutokea ikiwa kulikuwa na mtu mbali na wote wawili.
+
+  Ili kuondoa shaka hii, ni muhimu kuelewa vyombo katika ulimwengu. Hapo awali, Mungu aliumba ulimwengu. Mungu, wakati akiwa Mungu, alimuumba Prakruti kutoka kwake. Kwanza aliunda Prakruti kama sehemu tano na kisha akaunda Atma na Jeevatma ili kuingiza nguvu ndani ya Prakruti, ambayo haikuwa na maisha. Sawa na Yeye mwenyewe, Mungu aliumba kiume (Purusha) Atma na Jeevatma. Alimteua Jeevatma kama abiria na Atma kama dereva, akimkabidhi Atma kutekeleza majukumu yote. Katika kila mtu, Atma hufanya kazi zote ndani ya mwili wakati inashirikiana na Jeevatma. Katika maandiko yake, Mungu alisisitiza kwamba hata wanazuoni wakubwa wanaweza wasimfahamu Atma kikamilifu. Ni yoga iliyojitolea pekee, kama ilivyotajwa katika aya ya 11 ya Bhagavad-Gita Purushottama Prapti Yoga, inaweza kuelewa Atma, ikisisitiza kwamba Atma inabaki kufichwa ndani ya mwili bila kujulikana.
+
+  Ikiwa Mungu hafanyi kazi, wengine wanaweza kuuliza jinsi alivyofanya Prakruti, Atma, na Jeevatma. Jibu langu ni kwamba ni kweli kwamba Mungu hafanyi kazi. Kanuni hii ilitamkwa na Mungu baada ya uumbaji wa Prakruti, Atma, na Jeevatma. Kabla ya tendo la uumbaji, Mungu alikuwa pekee wa kuwepo na, katika kipindi hicho, Mungu alishiriki katika kazi. Hakukuwa na mtu mwingine isipokuwa Mungu kabla ya uumbaji. Kwa hiyo, Mungu alifanya kazi kabla ya tendo la uumbaji. Mungu aliumba Prakruti, ikifuatiwa na uumbaji wa Atma na Jeevatma. Baadaye, Mungu alianzisha dharma yake. Ingawa Mungu alijizuia kufanya kazi baada ya uumbaji, Alikuwa hai kabla ya tendo la uumbaji. Mungu alikabidhi majukumu yote kwa Atma na kuamua kwamba Atma angetekeleza kazi zote. Kwa hiyo, Paramatma iliacha kujihusisha na matendo Aliyozoea kufanya baada ya kuundwa kwa Atma. Atma alipochukua majukumu, Paramatma akawa mtazamaji tu (shahidi).
+
+  Mungu hajishughulishi na kazi; Jeeva hana uwezo wa kuchukua hatua, na Atma ndiye anayefanya kazi zote. Kwa hivyo, ilikuwa Atma ambayo ilitoa sauti kutoka Angani hapo mwanzo. Atma, iliyofichwa ndani ya Anga, ilitoa sauti. Sauti iliyoundwa na Atma ikawa hekima ya Mungu, kwa hiyo inajulikana kuwa 'neno,' ikimaanisha sauti yenye maana. Kuelezea tukio la uumbaji, maneno<strong>"Neno alikuwako hapo mwanzo&rdquo;</strong>hutumika kueleza kwamba sauti yenye maana ilitoka Angani. Tumejifunza neno 'neno' ni nini na ni nani aliyelitamka. 'Neno' lilitamkwa kwa hekima ya Mungu na Atma kwa namna ya sauti. Kile Atma alichoeleza kutoka Angani kilikuwa hekima ya kwanza kwa ulimwengu. Ingawa sauti kutoka Angani ilishikilia hekima, ilijidhihirisha kama sauti kubwa kwa namna ya radi, kupita ufahamu wa lugha ya mwanadamu. Jua lilielewa sauti ya ngurumo angani na, kwa kutambua kutoeleweka kwake. binadamu, alifikisha ujumbe huo kwa mtu aitwaye Manu Duniani kwa lugha inayoeleweka na wanadamu.
+
+  Hekima ya Mungu ilionyeshwa kwa njia ya sauti isiyoeleweka mwanzoni mwa uumbaji. Hili limefafanuliwa katika sentensi ya kwanza ya sura ya kwanza ya Injili ya Yohana, ikisema kwamba<strong>"Neno alikuwako hapo mwanzo.&rdquo;</strong>Siku hiyo, wanadamu hawakujua kwamba sauti hiyo ilikuwa na hekima ya Mungu; Walielewa kwa kiasi fulani tu wakati Jua lilipowasilisha ujumbe. Krishna aliwasilisha hekima hiyohiyo katika umbo la Bhagavad-Gita, akisema kwamba ilikuwa hekima ile ile iliyosemwa mwanzoni mwa uumbaji. Hata hivyo, tahadhari ya mwanadamu hapo awali haikuzingatia sauti ya radi mwanzoni, na hadi leo, hakuna mtu anayetambua kwamba sauti ya radi hujumuisha hekima ya Bhagavad-Gita. Jua liliwasilisha hekima ile ile kwa Manu ambayo Krishna alikuwa amesema, ikitafsiri hekima inayotoka angani kwa namna ya radi. Hekima kutoka kwa sauti ya Anga iliibuka kutoka kwa Atma ya Angani. Hekima ya Atma ilitoka kwa Atma yenyewe. Atma yenyewe ikawa hekima, na hekima hiyo hiyo ilitoka kwa Atma. Hekima hii kutoka kwa Atma inalinganishwa na jinsi pamba inavyobadilika kuwa thread, na thread inatoka kwenye pamba. Wakati pamba na thread ni tofauti, pamba inakuwa thread. Vile vile, Atma na hekima ni tofauti, lakini hekima ya Atma inatoka kwa Atma. Ikiwa thread imetenganishwa, inajumuisha nyuzi za pamba; halikadhalika, hekima ya Atma ikichambuliwa, ina asili ya Atma.
+
+  Hapo mwanzo, Mungu aliwasilisha hekima yake kupitia sauti ya Anga, kama ilivyoelezwa katika Quran 42:51, ambapo moja ya njia Mungu hudhihirisha hekima yake ni kupitia ufunuo kutoka mbinguni. Mungu alipitisha hekima yake kupitia Atma ya Anga wakati wa uanzishwaji wa uumbaji. Hekima, iliyowasilishwa kwa njia ya radi, haikueleweka kwa wanadamu kwani ilikosa lugha wanayoweza kuelewa. Kwa hivyo, Jua, likiwa limeshika hekima katika ngurumo, liliipeleka kwa mtu duniani kwa lugha ya kibinadamu. Hatimaye, hekima hii ilienea duniani kote.
+
+  Walakini, kadiri muda ulivyosonga mbele, adharma zilibadilisha dharma, na kusababisha hekima iliyowasilishwa hapo awali kufifia kutoka kwa kumbukumbu ya mwanadamu. Huko Dvapara Yuga, Bhagavan alichukua umbo la Krishna na kumfahamisha Arjuna kwamba Alikuwa akishiriki hekima ile ile ambayo Jua lilikuwa limewasilisha. Licha ya kuwa na hekima ile ile iliyotolewa kwa namna ya Bhagavad-Gita, andiko la kwanza la kimungu, wanadamu wamesahau asili yake.
+
+  Sentensi tatu za kwanza katika Injili ya Yohana ziliandikwa miaka 3000 baada ya Bhagavad-Gita kusemwa, kwani wanadamu walikuwa wamesahau hekima iliyotolewa na Mungu. sentensi<strong>"Neno alikuwako hapo mwanzo&rdquo;</strong>sasa inaeleweka. Inatambulika kuwa hekima katika mfumo wa radi ilitoka kwa Atma ya Anga, kama inavyoonyeshwa katika sentensi ya pili. Kwa hiyo, inadaiwa kuwa<strong>"Neno alikuwa pamoja na Mungu.&rdquo; </strong>Uchunguzi zaidi unaonyesha kuwa sauti ya neno hilo lilizaliwa kutoka kwa Atma. Kama vile uzi uliosokotwa hutoka kwenye nyuzi za pamba, uhamaji wa Atma hubadilika kuwa nishati, na hekima katika nishati inayoonyeshwa kwa namna ya sauti. Sawa na jinsi uzi ina nyuzi za pamba, sauti ya hekima inajumuisha nguvu za Atma. Hekima ya Atma iko katika mfumo wa nguvu za Atma na Atma yenyewe. Hekima ya Atma na Atma ni kitu kimoja, na kwa hivyo inasemwa:<strong>"Neno alikuwa Mungu.&rdquo;</strong>
+
+  Kufikia sasa, tumejadili kwamba Mungu aliumba Jeevatma na Atma, na Mungu akifanya kazi kikamilifu kabla ya uumbaji. Hata hivyo, baada ya tendo la uumbaji, Mungu alimpa Atma uwezo wa kutekeleza kazi hizo, akionekana kutoweka na kufanya uwepo Wake usijulikane. Mungu alijiepusha na kufanya kazi yoyote, na, katika hali hii, Akawa sawa na yule ambaye hakuwepo. Kwa hivyo, Atma alichukua jukumu la kufanya kazi ya Mungu. Ingawa Atma hutekeleza majukumu ya Jeevatma na Paramatma, vitendo vyake vinasalia kufichwa kutoka kwa wengine. Taarifa zilizotajwa hapo juu zinaelezea mchakato mzima wa uendeshaji wa Atma. Hapo awali, wakati Paramatma ilipounda ulimwengu, kulikuwa na roho tatu, lakini baada ya uumbaji, roho mbili tu - Jeevatma na Atma - ndizo zinazotambuliwa. Kwa kukosekana kwa uwepo wa Paramatma, Atma alichukua jukumu la Paramatma, ndiyo sababu Atma inaweza kuitwa Mungu. Licha ya kutokuwa Mungu (Paramatma), Atma hufanya kazi za Mungu na kuchukua nafasi ya Mungu.
+
+  Hekima ya Atma inatoka kwa Atma yenyewe. Kwa kudai kuwa Atma ni Mungu, inathibitishwa hivyo<strong>Neno (hekima) lilikuwa kwa Mungu</strong>. Kauli hii ni sahihi tunapomchukulia Atma kama Mungu. Ingawa Atma si Mungu, lazima ikubaliwe kama Mungu kwa sababu Mungu amempa Atma mamlaka ya kutenda kama Mungu. Kwa hiyo, Neno (hekima) linapotambulishwa kuwa Atma, linaweza kutangazwa kuwa hekima ile ile (Atma) ni Mungu. Maelezo haya yanawiana na taarifa katika Injili ya Yohana kwamba<strong>Neno alikuwa Mungu</strong>. Baada ya kujibu maswali kama vile &ldquo;Neno ni nini?&rdquo;, &ldquo;Neno linaunganishwaje na Atma?&rdquo; na &ldquo;Kwa nini Atma anachukuliwa kuwa Mungu?&rdquo;, Nadhani kwamba maana ya sentensi tatu za kwanza kutoka Injili ya Yohana 1:1 sasa inaeleweka. Ikiwa mtu atashindwa kufahamu hili baada ya maelezo hayo ya kina, hekima ya Atma inaweza kubaki kuwa ngumu. Kuelewa hekima ya Atma ni muhimu ili kuelewa mfumo wa Mungu. Ili kutambua njia za Mungu, ni lazima mtu aanze na ufahamu wa hekima ya Neno. Mara hekima hii inapojulikana, inakuwa dhahiri kwamba hekima ni Atma, na Atma ni Mungu.
+<b>
+<table style="width:100%">
+<tr>
+  <td>Katika uumbaji</td>
+  <td>Mungu (Paramatma)</td>
+  <td>Prakruti</td>
+  <td>Atma</td>
+  <td>Jeevatma</td>
+</tr>
+<tr>
+  <td>Baada ya uumbaji</td>
+  <td>Paramatma</td>
+  <td>Prakruti</td>
+  <td>Atma</td>
+  <td>Jeevatma</td>
+</tr>
+<tr>
+  <td>Baada ya uumbaji</td>
+  <td>Atma (Mungu)</td>
+  <td>Prakruti</td>
+  <td>Atma</td>
+  <td>Jeevatma</td>
+</tr>
+</table>
+
+</b>
+  Katika tendo la uumbaji, Mungu alifanya kazi kuumba Prakruti wa kike na Atma na Jeevatma wa kiume. Hapo awali, Mungu, kama Purusha (mwanaume), aliumba nafsi mbili, Atma na Jeevatma, sawa na Yeye. Kufuatia kuundwa kwa Prakruti, Atma, na Jeevatma, Mungu alibadilika na kuwa jukumu la kushuhudia bila kushiriki kikamilifu. Kwa kuzingatia asili ya Mungu ya kutojishughulisha na kazi, inaweza kuonekana kana kwamba hakuna Mungu, licha ya kuwepo kwake. Wakati usawa wa dharma unavurugika, na adharma zinatawala duniani, Mungu hutuma roho yake kama Bhagavan kurejesha dharmas. Katika kuanzisha tena dharma, mwakilishi wa Mungu anatumwa, akiondoa hitaji la Mungu kushiriki moja kwa moja katika kazi hiyo. Atma, kwa upande mwingine, huchukua jukumu kwa kazi zingine zote. Kwa hivyo, baada ya uumbaji, Mungu anakuwa ajizi na anaonekana kutohusika. Inaweza kusemwa kwamba Mungu, katika hali hii, anaonekana hayupo. Atma huingia ndani ili kujaza utupu unaotambulika wa Mungu na kwa ufanisi kuwa Mungu, na kutufanya tughafilike na kutokuwepo kwa Mungu. Kwa hivyo, kifungu<strong>"Neno alikuwa Mungu&rdquo;</strong>limeonyeshwa katika andiko la pili la kimungu, likimaanisha tofauti kati ya Mungu na neno. Ingawa neno si asili ya Mungu, lilibadilishwa kuwa Mungu. Usemi huo<strong>"Neno alikuwa Mungu&rdquo;</strong>inaangazia mabadiliko ya neno (hekima) kuwa Mungu. Kwa kuwa neno (hekima) linahusishwa na Atma, na Atma inachukuliwa kuwa Mungu, inadaiwa kwamba Atma, akiwa neno, ni Mungu. Kila mtu amekosea kujua Mungu ni nani na Atma ni nani.
+
+  Kwa kweli, Mungu hayupo tena baada ya tendo la uumbaji. Bila mtu yeyote kujua kwamba hakuna Mungu duniani, Atma anachukua nafasi ya Mungu, akifanya kazi za Jeevatma na Prakruti. Wakati huo huo, Atma anachukua nafasi sawa na Mungu. Baada ya uumbaji, Mungu alibadilika na kuwa kitu kisicho na umbo, kisicho na jina kisicho na kazi aliyopewa. Kumuelezea Mungu kama huyo kuwa hayupo kunaweza kuwa sahihi zaidi kuliko kudai kuwepo kwake. Kwa vile hakuna kitu mahali pa Mungu, Atma anaingia katika jukumu la Mungu, akifafanuliwa na kifungu cha maneno.<strong>" Neno alikuwa Mungu</strong>&rdquo; katika sentensi ya tatu. Licha ya watu wengi kusikia na kusoma sentensi hizi, siri ya msingi bado haijulikani.
+
+  Ili kufafanua ukweli kuhusu Atma, ambayo inajumuisha jukumu la Mungu, imeelezwa kuwa<strong>"Neno alikuwa Mungu.&rdquo;</strong>Wakati Atma, inayomtambulisha Mungu, inaposhiriki katika tendo lolote, inahusisha kitendo hicho na &ldquo;Jeevatma amefanya&rdquo; au &ldquo;Mungu amefanya,&rdquo; kumsadikisha kila mtu kuwako kwa Mungu. Maswali yanaweza kutokea kuhusu ni nani aliye na mamlaka juu ya ulimwengu ikiwa hakuna Mungu, au kama mtazamo huu unapatana na hekima ya Mungu au ukosefu wa Mungu. Jibu la maswali haya ni kama ifuatavyo: Tunasema kwamba Mungu hayuko mahali pa Mungu, lakini hatusemi kwamba Mungu hayupo kabisa. Matendo ya Mungu hayajulikani, na inasisitizwa kwamba Yeye hana jina, kazi, au umbo, kwa hiyo hana moja kwa moja. uhusiano na wanadamu, lakini hatukusema kamwe kwamba Mungu hayupo kabisa. Katika nyakati za tishio kwa dharma, Mungu hutuma mwakilishi wake kurejesha utulivu. Hata katika hali hii, mwakilishi anajiepusha na kudai kwa uwazi kuwa yeye ni Mungu, na kuchukua moniker 'Bhagavan.' Siri inayozunguka utambulisho wa Mungu na sifa zake zinaendelea kuwepo. Mungu yupo, lakini hakuna ajuaye jinsi Mungu alivyo. Hakuna mtu ambaye ameona au kuwasiliana moja kwa moja na Mungu tangu uumbaji. Chochote kinaweza kusemwa juu ya kitu chochote ulimwenguni, lakini hakuna mtu anayeweza kusema chochote cha uhakika juu ya Mungu. Masharti kama vile 'Allah' katika Kruta Yuga yanaashiria asili ya Mungu isiyo na kikomo, na majina kama 'Parabrahma' yanasisitiza ukuu wa Mungu juu ya Atma, ambaye hutekeleza majukumu mbalimbali. Zaidi ya hayo, neno 'Paramatma' linaangazia tofauti ya Mungu kutoka kwa Atma, na 'Purushottama' inaashiria ukuu wa Mungu ikilinganishwa na Jeevatma na Atma. Ni afadhali kukiri kwamba wewe wala mimi hatujui lolote kuhusu Mungu.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 80,
+verse: ` <b>(2) 	Injili ya Yohana, sura ya 1, mstari wa 9.</b>`,
+meaning: `<b>
+(1:9) Nuru ya kweli itiayo nuru kila mtu ilikuwa ikija katika ulimwengu.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ikiwa kuna mwanga katika ulimwengu wa nje, ni kwa sababu ya moto unaowaka. Hata hivyo, katika muktadha huu, nuru ya kweli imetajwa katika aya hiyo. Nuru ya kweli huwashwa bila moto na inaingia kwa kila mwanadamu, ikimulika mwili mzima kuanzia kichwani hadi miguuni. Kuna nuru moja tu kama hiyo bila moto, nayo ni Atma, ambayo inatoka kwa Mungu na imeteuliwa na Mungu (Muumba). Atma hutoa mwanga wa fahamu kwa mwili mzima. Atma inapoingia mwilini, seli trilioni 25 za mwili wa mwanadamu hujazwa na mwanga wake. Kila seli inakuwa taa inayowaka bila moto. Nuru ya taa ina joto maalum. Joto la mwili wa binadamu ni&nbsp;98.4 &deg; F kwa sababu ya mwanga wa Atma. Wakati Atma inapoacha mwili, mwili huwa baridi bila joto lolote. Mwili usio na mwanga wa Atma unaitwa maiti. Katika mstari wa 24:35, inasemwa,<strong>"Atma ni nuru, na mwili ni mahali pazuri."</strong>Inaweza kusema kuwa Atma, ambayo huangaza mwili, inaweza kuitwa mwanga wa kweli.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 81,
+verse: ` <b>(3)	Injili ya Yohana, sura ya 1, mstari wa 10.</b>`,
+meaning: ` <b>
+(1:10) Alikuwako ulimwenguni, hata kwa yeye ulimwengu uliumbwa, lakini ulimwengu haukumtambua.      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Neno 'Loka (Ulimwengu)' katika Kitelugu hurejelea kitu ambacho hupitia uzoefu. Atma iko kwa wanadamu ambao hupitia uzoefu, na ndiye muumbaji wa wanadamu wote. Walakini, ni muhimu kutambua tofauti kati ya Atma na Mungu. Mungu aliumba Atma, na Atma, kwa upande wake, aliumba wanadamu. Ni muhimu kuelewa kwamba Mungu hakuwaumba wanadamu moja kwa moja; badala yake, Aliunda Prapancha nzima, mwanzoni bila ya kiumbe chochote kilicho hai. Mungu kwanza alileta Prakruti na kisha akampa Atma uwezo wa kuzalisha, kutawala, na kukomesha maisha ya binadamu. Tangu wakati huo, Atma imekuwa mfululizo kuwaumba wanadamu, wakifanya kazi kama mwanga endelevu wa maisha ya mwanadamu, na kuandaa michakato ya kifo na kuzaliwa upya. Licha ya hayo, mara nyingi wanadamu hubakia kutojali uwepo wa Atma, ambayo iko karibu na ndani yao na kimsingi ni Mungu. Atma huzaa wanadamu; kwa hivyo Atma ndiye Baba kwa wanadamu. Mungu aliumba Atma; kwa hiyo Yeye ni Baba kwa Atma. Ingawa Atma wakati mwingine huitwa Mungu, Mungu wa kweli ni Roho Mtakatifu, wakati Atma ndiye Baba wa wanadamu.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 82,
+verse: ` <b>(4)	Injili ya Yohana, sura ya 1, mstari wa 11.</b>`,
+meaning: `  <b>
+(1:11) Alikuja katika mali yake, lakini walio wake hawakumpokea.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Neno “Wake Mwenyewe” linajumuisha wale wote aliowaumba. Atma, akitenda kulingana na amri ya Roho Mtakatifu, aliwafanya wanadamu kuwapo, na kuwadhihirisha katika umbo la hekima ya kimungu, inayorejelewa kuwa Neno. Ingawa Atma alikuja kwa wanadamu kwa njia ya hekima, wanadamu huwa na mtazamo wa ujuzi wao wenyewe kama muhimu, mara nyingi hupuuza au kupuuza hekima iliyotolewa.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 83,
+verse: `  <b>(5)	Injili ya Yohana, sura ya 1, mstari wa 12. </b>`,
+meaning: `<b>
+(1:12) Bali wote waliompokea aliwapa uwezo wa kufanyika watoto wa Mungu, ndio wale waliaminio jina lake.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Wale wanaofahamu hekima inayotolewa na Atma watakumbatia Atma. Wale ambao wanafahamu hekima ya Atma na wana imani katika Atma wana matarajio ya kuwa warithi wa Atma. Kwa hiyo, mstari huo unasisitiza, “Alitoa uwezo wa kufanyika watoto wa Mungu.” Neno “watoto wa Mungu” linamaanisha wale wanaofahamu hekima ya Atma.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 84,
+verse: ` <b>(6)	Injili ya Yohana, sura ya 1, mstari wa 13.</b>`,
+meaning: `<b>
+(1:13) Watu waliozaliwa si kwa jinsi ya asili, wala si kwa uamuzi wa kibinadamu, wala kwa mapenzi ya mume, bali waliozaliwa na Mungu.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Wanadamu wote wanatoka Atma. Hawakuzaliwa kwa damu ya wanawake wala kwa mapenzi ya mwanamume au mwanamke.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 85,
+verse: `<b>(7)	Injili ya Yohana, sura ya 1, mstari wa 14.</b>`,
+meaning: ` <b>
+(1:14) Naye Neno alifanyika mwili, akakaa kwetu. Tumeuona utukufu wake, utukufu wa Mwana pekee aliyetoka kwa Baba, amejaa neema na kweli.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mungu Atma (Hekima) alichukua umbo la kimwili, linalofanana na lile la mwanadamu, na akaishi kati ya wanadamu, akiangaza neema na hekima.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 86,
+verse: `  <b>(8) Injili ya Yohana, sura ya 1, mstari wa 18.</b>`,
+meaning: ` <b>
+(1:18) Hakuna mtu aliyemwona Mungu wakati wo wote; Mwana pekee, aliye katika kifua cha Baba, alimfunua. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Neno 'Mungu' linatumika kwa Atma na Paramatma. Katika maandiko ya mwisho ya kiungu, neno 'Allah' linatumika kwa Miungu yote miwili - Atma na Paramatma. Kwa hiyo, Waislamu hawakuweza kutambua Miungu wawili. Ili kuepuka kosa hili, Biblia inasema kwamba Atma ni Baba, na Paramatma ni Roho Mtakatifu. Neno 'Mwana mzaliwa' linamaanisha <strong>mwana pekee aliyeumbwa na Mungu</strong>. Paramatma (Roho Mtakatifu) ni wa milele. Baada ya kuunda Prakruti hapo mwanzo, Paramatma iliunda mwana aitwaye Atma kuleta viumbe hai vyote kuwepo. Atma aliumba viumbe vyote vilivyo hai kulingana na amri za Roho Mtakatifu. Kwa hiyo, kuna Baba mmoja tu (Mungu aliyeumbwa) kwa viumbe vyote vilivyo hai. Baba wa Atma aliyeumbwa ni Roho Mtakatifu. "<strong>Hakuna mtu ambaye amewahi kumuona Mungu (Roho Mtakatifu au Paramatma),&rdquo;</strong>kama ilivyoelezwa katika aya. Mungu (Roho Mtakatifu) hana umbo, jina, au kazi; kwa hivyo, hakuna mtu ambaye amewahi kuona Paramatma. Atma, Mwana wa pekee, anamfunua Mungu asiyeonekana kupitia hekima yake. Atma ndiye Mwana pekee aliyetenganishwa na moyo wa Mungu Mkuu, Paramatma. Kwa sababu hakuna mtu ambaye amemwona Roho Mtakatifu, ni Atma pekee anayeweza kusema juu ya Baba yake, Roho Mtakatifu.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 87,
+verse: ` <b>(9)	Injili ya Yohana, sura ya 1, mstari wa 51.</b>`,
+meaning: `<b>
+(1:51) Kisha akaongeza, Amin, amin, nawaambia, mtaona mbingu zinafunguka, na malaika wa Mungu wakipanda na kushuka juu ya Mwana wa Adamu.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Hili ndilo neno ambalo Yesu alimwambia Nathanaeli Mwenyewe. Yesu alidai kuwa Mwana wa Adamu, ingawa Nathanaeli alikuwa amemtaja kuwa Mwana wa Mungu. Yesu hakukana kuwa Mwana wa Mungu lakini badala yake alijipunguza kuwa Mwana wa Adamu. Alimhakikishia Nathanaeli na wengine kwamba wangeshuhudia matukio ya ajabu. Kama vile tumekazia hapo awali, watumishi wa Mungu, malaika, wanatumikia wakiwa watawala katika ulimwengu wa wanadamu. Malaika hawa, ambao mara nyingi huitwa Bhutas na Sayari (Grahas), ni wengi angani, na jumla ya mabilioni. Wakati wa kukutana na Yesu, watumishi wa Mungu, wakijua utambulisho Wake, walishuka kutoka mbinguni na kusujudu mbele zake. Hata hivyo, wanadamu wengi hubaki bila kumjua Yesu ni nani hasa na hawasujudu mbele zake. Marejeo sawa yanapatikana katika Quran, andiko la mwisho la kimungu, haswa katika aya 15:28, 15:29, na 15:30. Katika mstari uliotajwa, imetabiriwa kwamba Nathanaeli angeshuhudia uwepo wa Bhutas na Grahas karibu na Mwana wa Adamu, kana kwamba milango ya anga imefunguliwa. Maneno ‘kupanda na kushuka’ yanamaanisha kuja na kwenda, huku ‘kushuka juu ya Mwana wa Adamu’ kumaanisha malaika kuwasili kwa Yesu. Nathanaeli alipomkubali Yesu kuwa Mwana wa Mungu, Yesu, akitambua maono ya hekima ya Nathanaeli, alimhakikishia katika mstari wa 50 kwamba angeshuhudia matukio makubwa zaidi. Kifungu cha 51 inafuata, ikionyesha kwamba Nathanaeli, akiwa na maono ya hekima, angeweza kuona mambo zaidi ya macho ya kawaida ya wengine. Matukio yanayofafanuliwa katika mstari wa 51 yanaonekana tu na wale walio na hekima ya kimungu, yakiwapa ufahamu wa kweli kuhusu utambulisho wa kweli wa Yesu.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 88,
+verse: `<b>(10)	Injili ya Yohana, sura ya 3, mstari wa 3.</b>`,
+meaning: ` <b>
+(3:3) Yesu akajibu, Amin, amin, nakuambia, hakuna mtu awezaye kuuona ufalme wa Mungu isipokuwa amezaliwa mara ya pili.       </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mstari huo haupaswi kufasiriwa kihalisi, kwani unabeba maana ya kina zaidi ya ishara. Mungu na ufalme wake ni zaidi ya kuonekana kimwili kwa mtu yeyote. Yesu alieleza kwa uwazi kwamba kuelewa na kuuona ufalme wa Mungu kunahitaji kuzaliwa upya kiroho. Hii haimaanishi kifo cha kimwili na kuzaliwa upya baadae. Ikiwa inachukuliwa kihalisi, ingemaanisha kwamba yeyote anayetafuta kumjua Mungu angehitaji kufa kimwili, jambo ambalo ni kutoelewana. Nikodemo, ambaye alishikilia tafsiri halisi, aliuliza swali kulingana na maoni haya yasiyofaa.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 89,
+verse: `<b>(11)	Injili ya Yohana, sura ya 3, 4, 5, 6, 7, na 8 mistari..</b>`,
+meaning: `<b>
+(3:4) “Mtu awezaje kuzaliwa akiwa mzee?” Nikodemo aliuliza. “Hakika hawawezi kuingia tumboni mwa mama yao mara ya pili ili kuzaliwa!
+<br><br>
+(3:5) Yesu akajibu, “Kweli nawaambieni, hakuna mtu awezaye kuingia katika ufalme wa Mungu isipokuwa amezaliwa kwa maji na kwa Roho (Atma).
+<br><br>
+(3:6) Mwili huzaa mwili, lakini Roho (Atma) huzaa roho.
+<br><br>
+(3:7) Hupaswi kushangazwa na kusema kwangu, “Lazima uzaliwe mara ya pili.”
+<br><br>
+(3:8) Upepo huvuma popote unapotaka. Unaisikia sauti yake, lakini huwezi kujua inatoka wapi wala inakokwenda. Hivyo ndivyo ilivyo kwa kila mtu aliyezaliwa kwa Roho (Atma).” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mwanadamu anapokufa na kuzaliwa upya, inaitwa kuzaliwa upya. Ikiwa kuzaliwa upya hutokea kimwili, viungo vyote vya mtu vitabadilika. Hilo likitokea, hamu ya kumwona Mungu na ufalme wa Mungu pia itatoweka. Mwili usife ili kuweka viungo na matamanio jinsi yalivyo. Mwili una hekima na ujinga, lakini ujinga katika mwili unapaswa kufa kabisa. Mtu anapoondoa mawazo na matamanio ya ujinga, anachukuliwa kuwa amekufa kwa ujinga na amezaliwa na hekima. Mtu anayeondoa ujinga na kupata hekima anaweza kusemwa kuwa amezaliwa na Atma.<strong>Wajibu wa mwanadamu ni kumjua Atma</strong><strong>katika mwili</strong>. Ili kujua Atma, mtu lazima ajue hekima ya Atma. Wakati mtu anajua hekima ya Atma, anachukuliwa kuwa mzaliwa wa Atma. Mwili unapokufa, mtu anapata mwili mpya, lakini kubadilisha mapenzi katika mwili huo huo bila kupata mwili mpya ni sawa na kuzaliwa upya. Upepo huvuma popote unapotaka, na tunasikia sauti yake kulingana na mahali unapovuma. Upepo unapobadilisha mwelekeo wake, ikiwa mtu atabadilisha kusudi lake, itakuwa kuzaliwa upya kwake. Anayetamani Atma anajua Atma katika mwili sawa na maisha sawa. Hakuna haja ya kwenda kwenye maisha mengine kumjua Atma.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 90,
+verse: `<b>(12)	Injili ya Yohana, sura ya 3, mstari wa 13. </b>`,
+meaning: `<b>
+(3:13) Hakuna mtu ambaye amewahi kuingia Paraloka isipokuwa yule aliyetoka Paraloka—Mwana wa Adamu.</b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ihaloka, Mbinguni (Swarga-Loka), Kuzimu (Naraka-Loka), na Paraloka ni majina ya ulimwengu nne. Ulimwengu (Loka) tunamoishi sote unaitwa Ihaloka. Mbingu na kuzimu si ulimwengu tofauti; wote wawili wako duniani. Loka si ufalme wala eneo. Mahali na wakati wa uzoefu pamoja huitwa loka. Mahali ambapo mtu hupitia magumu panaitwa Yamaloka, Naraka-Loka, au kuzimu. Vile vile, mahali ambapo mtu hupata furaha huitwa Swarga-Loka au mbinguni. Kwa kuwa matukio haya yote mawili hutokea duniani, inaweza kusemwa kwamba ulimwengu huu (Ihaloka) ni mbinguni na kuzimu. Hata hivyo, Paraloka ni tofauti na kuzimu na mbinguni. Wakati wote kuzimu na mbinguni kuhusisha uzoefu, Paraloka hana uzoefu wowote. Hali ambayo hakuna uzoefu inaitwa Paraloka. Wakati mtu anavuka karma, hawana uzoefu wa furaha au huzuni na kuingia Paraloka. Inaitwa hali ya kuwa kitu kimoja na Mungu, Mukti, au Moksham. Mtu katika Ihaloka daima amefungwa na dhambi na punya karma. Yeyote aliye katika Paraloka hana karma yoyote. Ikiwa mtu anakufa huko Ihaloka, hawezi kwenda Paraloka lakini kurudi Ihaloka. Kwa upande mwingine, mtu katika Paraloka, wakati anakuja katika ulimwengu huu kwa umuhimu wowote, anarudi Paraloka. Kwa hivyo, ingawa mkazi wa Paraloka aliyetoka Paraloka anakaa katika ulimwengu huu kwa muda kulingana na mapenzi Yake, baadaye ataingia Paraloka. Kwa hivyo, aya " <strong>Hakuna mtu aliyewahi kuingia Paraloka isipokuwa Mwana wa Adamu ambaye yuko Paraloka</strong>&rdquo; inadokeza kwamba aliye katika Paraloka ni Mungu. Hata ikiwa mtu ambaye alikuja kuwa Mungu atazaliwa kama mwanadamu, Atarudi Paraloka. Jambo hilo hilo linaonyeshwa katika Yohana 3:13.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 91,
+verse: ` <b>(13)	Injili ya Yohana, sura ya 3, mstari wa 15.</b>`,
+meaning: `<b>
+(3:15) Ili kila anayemwamini asipotee bali awe na uzima wa milele.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kila mtu anayemwamini Mungu atapata uzima wa milele bila kufa. Hata hivyo, imeandikwa kwamba, &ldquo;Uzima wa milele u katika yeye peke yake.&rdquo; Paramatma ipo ndani na nje ya mwili. <strong>Jeevatma inapoungana na Paramatma,</strong><strong>inaelezwa kuwa Jeevatma imepata Paraloka, inayotambulika pia kama ufalme wa Mungu</strong>. Inaweza pia kuelezewa kuwa Jeevatma amepata uzima wa milele (moksham). Mstari huo unatangaza, "Yeyote anayemwamini Mungu hatimaye atakombolewa kutoka kwa karma na kupokea uzima wa milele." Paraloka, inayowakilisha uzima wa milele, inaenea kila mahali, bila kujali eneo la kimwili la mtu. Kwa hivyo, yeyote anayefanikisha moksham anaungana na Roho Mtakatifu (Paramatma) ndani ya miili yao.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 92,
+verse: `<b>(14)	Injili ya Yohana, sura ya 3, mstari wa 17.</b>`,
+meaning: `<b>
+ (3:17) Maana Mungu hakumtuma Mwana ulimwenguni ili auhukumu ulimwengu, bali ulimwengu uokolewe katika yeye.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mungu alimtuma Mwana wake duniani akiwa mwanadamu ili kuwaokoa wanadamu, wala si kuwahukumu. Wajibu wa mtu aliyetoka kwa Mungu ni kufundisha hekima ya Mungu kwa wanadamu na kuwaokoa kutoka kwa dhambi zao. Hakuja kuhukumu dhambi na punya za wanadamu. Mungu hakutuma mwakilishi wake duniani kwa ajili ya hukumu; badala yake, Alikuja kuokoa watu. Mstari huu ni muhimu katika Biblia. Atma humhukumu mtu anapokufa. Yule aliyetoka kwa Mungu huwafundisha wanadamu jinsi ya kutoroka kutoka kwa karma, wakati Atma hufanya kazi ya kuwahukumu.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 93,
+verse: `<b>(15)	Injili ya Yohana, sura ya 3, mstari wa 18. </b>`,
+meaning: `<b>
+(3:18) Kila amwaminiye yeye hahukumiwi; lakini asiyemwamini amekwisha kuhukumiwa kwa sababu hakuliamini jina la Mwana pekee wa Mungu.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mstari huo unasema, &ldquo;Anayemwamini,&rdquo; ambayo inarejelea ama Mungu asiyeonekana au mwakilishi wa Mungu anayeonekana aliyetoka kwa Mungu. Mstari huo pia unasema, &ldquo;Hawakuamini jina la Mwana pekee wa Mungu,&rdquo; jambo linalodokeza kwamba linapaswa kueleweka kuwa linarejelea mwakilishi wa Mungu aliyetoka kwa Mungu. Mungu Mwenyewe alikuja duniani akiwa amejificha kama mwanadamu ili kuwafundisha wanadamu hekima. Yesu alisema, &ldquo;<strong>Mimi ni Mwana wa Mungu, au Mwana wa Adamu, au Mwana wa pekee wa Mungu</strong>,&rdquo; ili yasitambulike. Katika Uhindu, Mungu anaitwa Bhagavan anapojibadilisha na kuja duniani kama mwanadamu. Krishna ndiye aliyekuja hivyo; kwa hiyo Anaitwa Bhagavan katika Bhagavad-Gita. Ingawa Yesu, ambaye ni Mwana wa Mungu, alionekana kama mwanadamu, Anapaswa pia kuitwa Bhagavan. Mungu anapopata mwili kama mwanadamu duniani, Wahindu humwita Bhagavan, na Wakristo humwita Mwana wa Adamu. Ingawa inasemwa katika andiko la mwisho la kimungu (15:28, 29, 30) kwamba <strong>Mungu hutuma mwakilishi wake kwa kumpulizia roho yake</strong>, Waislamu wanaamini kwamba Mungu haji kama mwanadamu. Yeyote asiye na imani katika mwakilishi wa Mungu, Mwana wa Mungu, amekwisha kuhukumiwa.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 94,
+verse: `<b>(16) Injili ya Yohana, sura ya 3, 19, 20, 21 mistari.</b>`,
+meaning: ` <b>
+(3:19) Hukumu ndiyo hii: Nuru imekuja ulimwenguni, lakini watu wakapenda giza badala ya nuru kwa sababu matendo yao yalikuwa maovu.
+<br><br>
+(3:20) Kila mtu atendaye maovu anaichukia nuru, wala haingii kwenye nuru kwa kuogopa kwamba matendo yao yatafichuliwa.
+<br><br>
+(3:21) Lakini yeyote anayeishi katika ukweli huja kwenye nuru, ili ionekane wazi kwamba yale waliyoyafanya yametendwa mbele ya Mungu. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Paramatma, ambayo bado haijulikani kwa mtu yeyote, inaashiria giza. Atma, iliyoletwa na Paramatma, inajumuisha nuru ya kweli. Paramatma imeunda Wana wawili: Atma isiyoonekana, inayotumika kama nuru ndani ya mwili, na Atma nyingine ambayo inafanyika kama mwanadamu kati ya wanadamu. Ingawa Atma, isiyoonekana na inayoangazia mwili, inarejelewa kuwa Mwana, Mwana mwingine wa Mungu, anayejidhihirisha kama mwanadamu, anaitwa kwa njia tofauti.<strong>Mwana pekee</strong>. Yesu, Mwana pekee, alishuka duniani. Hata hivyo, kwa sababu ya matendo yao maovu, watu walithamini giza lao wenyewe na walijiepusha kumkaribia Yesu, nuru ya hekima.
+
+  Kila mtu asiye na ujuzi ana chuki dhidi ya mwakilishi wa Mungu anayeleta<strong>mwanga wa hekima</strong>kwa ulimwengu. Wanaogopa kwamba matendo yao maovu yatafichuliwa mbele ya mwakilishi wa Mungu, na kuwaongoza kuiacha nuru na kuficha matendo yao. Wale wanaotazamia kwamba nuru ya Mungu, ikichukua umbo la mwanadamu duniani, itafichua matendo yao ya giza kuepuka kuja kwa Mwana wa Mungu atakapotokea. Wale wanaoshikamana na hekima ya Mungu wanaelewa kwamba Atma inawajibika kwa matendo yao yote ndani ya mwili. Wanamkaribia Mwana wa Mungu kwa sababu matendo yao yote yamo ndani<strong>Nuru ya Mungu, ikiongozwa na hekima</strong>. Hata hivyo, ni sehemu ndogo tu ya watu duniani wanaotambua kwamba Atma, ambaye ni Mungu, ndiye anayewajibika kwa matendo yao yote. Kwa hiyo, ni idadi ndogo tu inayomkaribia Mwana wa Mungu anapotokea. Kwa kuwa dunia ina watu ambao wanaamini kwamba wanawajibika tu kwa matendo yao, wanaepuka kumtafuta Mwana wa Mungu. Sio tu kwamba wanamweka mbali Mwana wa Mungu, bali pia wana chuki na kuleta ugumu kwa mwakilishi wa Mungu, ambaye mara chache hujidhihirisha duniani. Wanamdhihaki Mwana wa Mungu, wakimtia chini ya dhiki nyingi.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 95,
+verse: ` <b>(17)	Injili ya Yohana, sura ya 5, mstari wa 19.</b>`,
+meaning: ` <b>
+(5:19) Yesu akawapa jibu hili: “Amin, amin, nawaambia, Mwana hawezi kufanya neno peke yake; Anaweza tu yale anayomwona Baba yake akiyafanya, kwa maana yote ayatendayo Baba, Mwana pia anayafanya.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika mstari huu, kutajwa kwa &lsquo;Baba na Mwana&rsquo; kunaambatana na usemi kwamba &ldquo;Mwana atafanya mambo ambayo Baba hufanya.&rdquo; Ni muhimu kutambua utambulisho wa Baba na Mwana, ikizingatiwa kwamba Roho Mtakatifu (Mungu) ndiye pekee. Ingawa Mungu ana Mwana mmoja wa milele, pia kuna Mwana mwingine ambaye mara kwa mara anapata mwili duniani. Ni muhimu kujua ni Mwana yupi mstari unazungumza naye. Yohana 3:17 inasisitiza, &ldquo;<strong>Kwa maana Mungu hakumtuma Mwana ulimwenguni ili auhukumu ulimwengu, bali ulimwengu uokolewe katika yeye</strong>,&rdquo; akimaanisha mwana wa Mungu, anayedhihirisha Dunia moja. Mstari huu (5:19) unarejelea Mwana, Atma, ambaye hutumika kama nuru ndani ya mwili wa mwanadamu. Atma ni ya milele duniani, inatoa ' <strong>mwanga wa uhamaji</strong>' kwa mwili wa kila mtu. Kulingana na hili, hasa wakati wa kusoma mstari, mtu anapaswa kuamua ni nani kati ya wana wawili ambao Mungu, Roho Mtakatifu, amezungumza juu yake katika mstari huo. Yohana 5:19 inamtaja Atma kama mwana wa milele wa Mungu, ikisema kwamba Atma huakisi matendo ya Roho Mtakatifu na hujishughulisha pekee na kazi zilizorithiwa kutoka kwa Baba, bila kufanya chochote kwa kujitegemea.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 96,
+verse: `<b>(18)	Injili ya Yohana, sura ya 5, mstari wa 20.</b>`,
+meaning: ` <b>
+(5:20) Kwa maana Baba anampenda Mwana na kumwonyesha yote anayofanya. Naam, naye atamwonyesha hata kazi kubwa kuliko hizi, hata mtastaajabu. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Tunapouliza nani alisema, "<strong>Paramatma (Roho Mtakatifu) anampenda Mwana na kumwonyesha yote anayofanya</strong>,&rdquo; tunaona kwamba Yesu, Mwana wa pili wa Mungu, aliwaambia wanafunzi Wake maneno hayo alipokuwa duniani. Hakuna aliyeweza kumtambua Mwana wa Mungu kikamili Alipotembea kati ya wanadamu kama mwanadamu. Licha ya mafundisho na miujiza yake, baadhi yao walimtesa na kumfedhehesha sana, na hatimaye kupelekea kifo chake. Hata hivyo, Mwana wa pekee wa Mungu, aitwaye Yesu, alikuwa katikati yao na kusema, &ldquo;<strong>Baba atamwonyesha (Atma) kazi kubwa zaidi kuliko hizi ili mshangae</strong>.&rdquo; Mungu alimwamuru Atma kutawala juu ya Jeevas na kuonyesha mambo makubwa zaidi. Hebu sasa tuchunguze mambo hayo makuu ni nini.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 97,
+verse: `<b>(19)	Injili ya Yohana, sura ya 5, mistari ya 21, ya 22, ya 23. </b>`,
+meaning: `<b>
+(5:21) Kwa maana kama vile Baba huwafufua wafu na kuwapa uzima, vivyo hivyo Mwana huwapa uzima wale ambao amependa kuwapa.
+<br><br>
+(5:22) Zaidi ya hayo, Baba hamhukumu yeyote, bali amekabidhi hukumu yote kwa Mwana.
+<br><br>
+(5:23) Ili wote wamheshimu Mwana kama vile wanavyomheshimu Baba. Yeyote asiyemheshimu Mwana hamheshimu Baba aliyemtuma.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kuna jambo la kukumbukwa hapa. Ingawa kuna kutajwa kwa ' <strong>Mwenyezi Mungu wawili</strong>Katika Quran, Waislamu hawakuweza kuipata. Vile vile, kuna kutajwa kwa '<strong>Wana wawili</strong>&rsquo; katika Biblia, lakini Wakristo hawakuweza kuielewa na kuzungumza juu ya Mwana mmoja tu. Mistari hiyo yote mitatu ina neno 'Mwana.' Mtu anahitaji kuamua ni yupi kati ya Wana wawili aliyetajwa katika aya hizi. Wengi hawawezi kufahamu kwamba kuna Mwana wa pili kwa sababu Mwana mmoja tu ndiye anayetajwa katika mistari hiyo. Mungu alisema, &ldquo;<strong>Kwa maana Mungu hakumtuma Mwana ulimwenguni ili auhukumu ulimwengu, bali ulimwengu uokolewe katika yeye&rdquo; katika Yohana 3:17, na &ldquo;Baba amempa Mwana hukumu yote&rdquo; katika Yohana 5:22</strong>. Kulingana na hili, mtu anapaswa kuelewa kwamba Mungu ana Wana wawili.
+
+  Mungu alisema kuhusu Atma, &ldquo;Kama vile Baba, Roho Mtakatifu, anavyowafufua wafu na kuwapa uzima, Mwana pia huwafufua wafu na kuwahuisha.&rdquo; Kama vile Baba huwafufua wafu na kuwapa uzima, Atma huamua uzoefu wa maisha ya pili ya mtu baada ya kifo kulingana na dhambi zao za maisha ya zamani na punya. Kwa hiyo, &ldquo;Kama Baba, Mwana huwapa uzima wale awapendao,&rdquo; inasemwa katika mstari huo. " <strong>Anayempenda</strong>&rdquo; maana yake &ldquo;<strong>wale ambao wamedhamiriwa na karma</strong>&rdquo; kutoka kwa mtazamo wa Atma. Kama vile Atma ni nuru iliyofichwa katika mwili ambayo huamua karma ya maisha yajayo ya mtu, "Yeye atamfufua Aliyemhukumu,&rdquo; imesemwa katika Aya hiyo. &ldquo;Kufufua&rdquo; kunamaanisha &ldquo;kuzaliwa tena.&rdquo;
+
+  Mungu alimpa Atma uwezo wa kuhukumu wafu na kuwarudisha kwenye uhai ili kila mtu aweze kumtukuza Mwana wake, Atma, kama vile kila mtu anavyomtukuza Roho Mtakatifu kuwa Mungu mkuu. Wakati huo huo wa kifo cha mtu, Atma, nuru katika mwili, huamua karma yao kwa maisha ya pili kulingana na dhambi zao za maisha ya zamani na punya na mara moja huwapeleka kwenye maisha ya pili. Atma anaamua maisha ya pili kulingana na karma ya mtu na kuwapa maisha tena. Wale ambao hawajui kuwa Atma anafanya mambo makubwa kama haya hawaoni Atma kwa heshima kubwa. Asiyemheshimu Atma hatamheshimu Mungu aliyemtuma Atma. Ujinga kama huo hauheshimu Atma, iliyo ndani ya mwili, au Paramatma, iliyo ndani na nje ya mwili.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 98,
+verse: `<b>(20)	Injili ya Yohana, sura ya 5, mstari wa 24.</b>`,
+meaning: ` <b>
+(5:24) Amin, amin, nawaambia, Kila alisikiaye neno langu na kumwamini yeye aliyenipeleka yuna uzima wa milele; wala hatahukumiwa; bali amevuka kutoka mautini kuingia uzimani. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Hapo awali, mistari 5:21, 5:22, na 5:23 ilizungumzia Nafsi. (Atma), ambaye ni uhamaji katika mwili. Mstari wa 5:24 unasema juu ya Nafsi, ambayo ilikuja katika umbo la mwanadamu kwa jina Yesu. Yeyote anayemwamini Roho Mtakatifu, aliyemtuma Yesu, Mwana pekee, atapata moksham. Mtu kama huyo anapata moksham bila kuhukumiwa mara baada ya kifo chao.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 99,
+verse: ` <b>(21)	Injili ya Yohana, sura ya 5, mstari wa 26.</b>`,
+meaning: ` <b>
+(5:26) Kwa maana kama vile Baba ana uzima ndani yake, vivyo hivyo amemjalia Mwana pia kuwa na uzima ndani yake mwenyewe.      </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mungu, Roho Mtakatifu, ni wa milele milele. Kama vile Paramatma ni ya milele, Atma, mwanawe, amepewa mamlaka ya kuwa wa milele milele. Roho Mtakatifu, Baba wa Atma, alimpa mamlaka hayo. Katika andiko la kwanza la kimungu linapolinganisha Jeevatma na Atma, Jeevatma inarejelewa kama Kshara (Nafsi inayoharibika), huku Atma ikitajwa kuwa Akshara (Nafsi Isiyoharibika).
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 100,
+verse: ` <b>(22)	Injili ya Yohana, sura ya 5, mstari wa 37.</b>`,
+meaning: `<b>
+(5:37) Hujapata kusikia sauti yake wala kuona sura yake.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika muktadha huu, 'Yake' inarejelea Paramatma (Roho Mtakatifu). Mungu, anayejulikana kama Paramatma au Roho Mtakatifu, hana jina, umbo, au kazi mahususi. Hakuna aliyemshuhudia Mungu kama huyo kwa sababu hana umbo linaloweza kutambulika. Kwa hiyo, hakuna mwanadamu ambaye amewahi kumtazama Mungu. Mungu hawasiliani na mtu yeyote kwa vile anabaki bila kutenda. Kwa hiyo, inaweza kuthibitishwa kwamba hakuna mtu aliye hai ambaye amemwona Mungu kweli. Madai yoyote ya kuwa umemshuhudia Mungu yanaweza kuchukuliwa kuwa ya uwongo. Mungu haonekani wala hana sauti.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 101,
+verse: `<b>(23)	Injili ya Yohana, sura ya 5, aya ya 38. </b>`,
+meaning: `<b>
+(5:38) Wala neno lake halikai ndani yenu, kwani nyinyi hamumuamini Aliyemtuma.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ingawa muumba wa kwanza, Roho Mtakatifu, hashiriki kikamilifu katika kazi, kuna majukumu fulani ambayo yanaangukia ndani ya milki Yake. Hata hivyo, Yeye hujiepusha na kitendo cha moja kwa moja. Badala yake, Mungu, Paramatma, amewapa watumishi Wake kufanya kazi Yake. Hawa mamilioni ya watumishi wanaunda milki Yake na kutekeleza kazi zote alizopangiwa Yeye. Ingawa Mungu Mwenyewe anabaki kutofanya kazi, watumishi Wake wanatimiza majukumu Anayopaswa kufanya.
+
+  Paramatma, hata hivyo, ina kazi muhimu iliyopo - kutoa hekima ya kimungu. Mungu Mwenyewe anahitajika kwa kazi hii, kwani watumishi wake hawawezi kuifanya. Maandiko ya mwisho yanasema, "<strong>Mungu anapaswa kufundisha hekima ya Mungu kwa sababu hakuna mwanadamu anayejua hekima ya Mungu isipokuwa Mungu</strong>.&rdquo; Kwa kujificha, Mungu huja kufundisha hekima ya Mungu. Ingawa Anazungumza kwa kujificha, utambulisho Wake bado haujulikani, kwani hakuna anayeweza kumtambua aliyejificha. Licha ya Mungu kutoa hekima yake, mara nyingi haitambuliki kama maneno Yake. Kwa vile Mungu ni mwenye hekima, anajifanya kuwa '<strong>Bhagavan</strong>' na hutoa hekima.
+
+  Hata Mungu anapokuja kibinafsi duniani akiwa amejigeuza kuwa mwanadamu ili kufundisha hekima, Yeye pia anatabiri kutuma mtu wa pekee ambaye utambulisho wake wa kweli hautajulikana. &ldquo;Yeye atokaye kwa Mungu atafundisha hekima ya Mungu,&rdquo; Mungu Mwenyewe alitangaza katika maandiko yake matakatifu. Kwa hiyo, kila mtu anatazamia kwamba yule aliyetumwa kutoka kwa Mungu atafikisha hekima ya Mungu. Hivyo, kupata mwili kwa Mungu kunabaki kufichwa kwa wote. Ingawa Mungu alikuja duniani kama mwanadamu wakati wa Treta Yuga, hakuna mtu aliyemtambua. Wakati wa Yuga ya Dvapara, Mungu alikuja kama mwanadamu na kutoa mafundisho ya Bhagavad-Gita, hata kutangaza.<strong>" mimi ni Mungu&rdquo;</strong>katika Bhagavad-Gita, lakini hakuna aliyemtambua. Vile vile, Mungu alipopata mwili kama Yesu katika Kali Yuga, hakuna aliyemtambua, na kumsababishia changamoto nyingi. Hakuna aliyetambua kwamba Alikuwa Mungu halisi. Baadhi ya waliodai kuwa waumini wa Mungu walidai Yesu alikuwa Mwana wa Adamu, na kushindwa kumkiri kuwa Mungu. Wengine walimtambua Yesu kuwa Mwana wa Mungu lakini bado walikosa kuutambua uungu wake.
+
+  Ingawa Yesu alikuwa Mungu mwenye mwili, Alisema, &ldquo; <strong>Hamkumwamini yule aliyemtuma</strong>&rdquo; katika aya hii bila kudhihirisha utambulisho Wake wa kweli. Alionyesha kwamba watu hawakumwamini mtu aliyetumwa na Mungu, akisema, &ldquo;Neno la Mungu halikuishi ndani yenu.&rdquo; Ikiwa hakuna imani kwa mtu aliyetumwa na Mungu, kwa nini neno la Mungu halisikii kwa wanadamu? Sababu iko katika kutomwamini mjumbe wa Mwenyezi Mungu, ambaye ni Mungu Mwenyewe na mbebaji wake hekima. Kwa hiyo, neno la Mungu halina mizizi ndani ya wale wasio na imani Kwake.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 102,
+verse: ` <b>(24)	Injili ya Yohana, sura ya 6, 25, 26, 27 mistari.</b>`,
+meaning: ` <b>
+(6:25) Walipomkuta ng'ambo ya ziwa, wakamwuliza, Rabi, ulifika hapa lini?
+<br><br>
+(6:26) Yesu akawajibu, Amin, amin, nawaambia, Mnanitafuta, si kwa sababu mliona ishara nilizozifanya, bali kwa sababu mlikula ile mikate mkashiba.
+<br><br>
+(6:27 Msitendee kazi chakula chenye kuharibika, bali chakula kidumucho hata uzima wa milele, ambacho Mwana wa Adamu atawapa. Kwa maana juu yake Mungu Baba ameweka muhuri wake wa kibali.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Aya hii inasisitiza aina mbili za vyakula: Chakula kisichoharibika na kisichoharibika. Wanadamu wengi hutafuta chakula chenye kuharibika, kama inavyoonyeshwa wakati umati ulipomkaribia Yesu, ukimuuliza, &ldquo;Ulikuja hapa lini?&rdquo; Yesu akajibu,<strong>"Hutafuti hekima ya Mungu; mnanitafuta, mkitumaini kupata mikate</strong>.&rdquo; Akawashauri zaidi, &ldquo;Msijitaabishe kwa ajili ya chakula chenye kuharibika.&rdquo; Chakula cha kila siku, kinachotumiwa, kumeng'enywa, na kuharibiwa ndani ya saa tatu, iko katika jamii ya chakula kinachoharibika. Usagaji chakula, kimsingi, ni mchakato wa uharibifu, ambapo vyakula vyote vilivyomezwa huvunjwa katika njia ya utumbo na kubadilishwa kuwa taka, kama vile kuchoma kuni ndani ya majivu.
+
+  Kinyume chake, hekima ambayo mtu hupata kupitia masikio yake, ikiingia akilini mwake kwa namna ya maneno, inachukuliwa kuwa chakula kisichoharibika.<strong>Hekima ya Mungu ndiyo chakula pekee kisichoweza kuharibika</strong>.<strong>Kusoma au kusikia hekima ya Mungu ni sawa na kula chakula kisichoharibika kwa akili.</strong>Mwana wa Adamu hutoa chakula hiki kisichoweza kuharibika, kilichoainishwa na mstari, "<strong>Kwa maana juu yake Mungu Baba ameweka muhuri wake wa kibali.</strong>&rdquo; 'Muhuri' maana yake ni kukubalika au uamuzi. Mungu, baada ya kuamua, alimtuma Mwanawe mzaliwa ili kushiriki hekima yake. Neno 'muhuri wa kibali' katika mstari unaashiria uamuzi au ridhaa ya Mungu. Katika Quran, imeelezwa kuwa Mungu hakudhihirisha hekima yake kwa mwanadamu yeyote, na kubainisha kwamba mwenye kutoa hekima ya Mungu si mtu wa kawaida. Mungu alidai kwamba hekima yake inajulikana kwake peke yake, akimaanisha kwamba Mwana mzaliwa ambaye anakuja kufunua hekima ya Mungu ni Mungu Mwenyewe. Maneno &ldquo;Mwana wa Mungu&rdquo; yanaweza kuwapotosha wanadamu, lakini yanaweza kueleweka kuwa &lsquo;Mwana&rsquo; yakimaanisha &ldquo;udhihirisho wa Mungu.&rdquo; Mungu, akichagua kutokuja moja kwa moja kama Mungu kuzungumza na wanadamu, anachukua kivuli cha Mwana. Ufafanuzi huu unaungwa mkono na aya ifuatayo.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 103,
+verse: `  <b>(25)	Injili ya Yohana, sura ya 6, mstari wa 32. </b>`,
+meaning: ` <b>
+(6:32) Yesu akawaambia, Amin, amin, nawaambia, si Musa aliyewapa mkate wa paraloka, bali Baba yangu ndiye awapaye ninyi mkate wa kweli utokao paraloka. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika aya iliyotajwa, Yesu alisema, &ldquo;<strong>Musa hakukupa mkate wa hekima kutoka kwa Paraloka</strong>.&rdquo; Hii inazua maswali: Je, Dharma Shastra iliyofundishwa na Musa ni ya uongo? Je, Dharma Shastra ya Musa inakosa hekima na dharma? Ikiwa kile Musa alichofundisha si mkate wa kweli wa Mungu, kwa nini kinaitwa Dharma Shastra ya Musa? Maswali haya yanazua mazingatio mbalimbali. Kwa upande mmoja, ni uongo kudai kwamba kile Musa alichofundisha si Dharma Shastra. Kwa upande mwingine, kwa kupatana na kauli ya Mungu, inaweza kuthibitishwa kwamba kile Musa alichofundisha si Dharma Shastra. Pia ni sahihi kwamba Musa hakutoa mkate usioharibika kutoka kwa Paraloka. Maswali na mashaka hayo hutokeza, yakitokeza uhitaji wa majibu yanayofaa ili kuelewa hekima ya kweli ya kimungu.
+
+  Nabii Musa anajulikana sana miongoni mwa Wakristo, lakini Waislamu wengi huenda hawajui kwamba jina 'Musa' katika Biblia lilibadilika na kuwa 'Musa' zaidi ya miaka 1400. Ni muhimu kutambua kwamba Moses na Musa, kwa hakika, ni jina moja. Taarifa kwamba Musa hakuwasilisha Dharma Shastra inaweza kuwa ya kweli na ya uwongo, ikileta utata unaovutia na sababu kali, isiyojulikana. Ufunuo huu unaweza kuwashangaza wengine na kukabiliana na kutokubaliana kutoka kwa wengine, lakini ukweli wake unabaki bila maoni. Ni kweli kwamba nabii Musa alikuwepo miaka elfu chache iliyopita. Takriban miaka elfu tano iliyopita, nabii Musa alishiriki hekima aliyokuwa nayo. Nabii, kwa ufafanuzi, ni mtu ambaye hutoa hekima ya Mungu, na Musa alipata cheo hiki kupitia mawazo ya kiungu tangu umri mdogo. Katika umri wa miaka 20,<strong>Bhagavan</strong>, ambaye alikuwa ameshuka duniani, alimpa Musa andiko la kwanza la kimungu, linalojulikana kama '<strong>Taurati</strong>.' Musa aliendelea kushiriki hekima iliyo katika andiko hilo.
+
+  Kwa kuwa ilitokana na dharmas, ilijulikana kama Musa' Dharma Shastra. Musa alifariki akiwa na umri wa miaka 54. Baada ya kifo cha Musa, Bhagavan aliingia kwenye mwili wake na kuwasilisha dharma ambazo Musa hakuwahi kuzizungumzia kwa miaka tisa. Licha ya Bhagavan kuuacha mwili wa Musa akiwa na umri wa miaka 63, ukweli huu haukujulikana, na kusababisha watu kuamini kuwa Nabii Musa aliishi kwa miaka 63 na alifundisha dharmas mwenyewe. Ingawa Mungu alimpa Musa andiko la kimungu, Yeye hakumpa hekima moja kwa moja. Kwa hiyo, maneno, &ldquo;Musa hakupewa mkate kutoka Paraloka,&rdquo; ni ya kweli. Hekima iliyotolewa kupitia mwili wa Musa na Mungu inajulikana kama Musa Dharma Shastra. Hii ndiyo sababu mstari unasema, "Baba wa Paraloka, Roho Mtakatifu, alitoa mkate wa kweli." Muda halisi wa maisha wa Musa ulikuwa miaka 54, na hakuna aliyemjua Mungu huyo kurefusha maisha ya Musa hadi miaka 63. Siri hizi zote zimefafanuliwa katika maandiko yangu,<strong>Krishna Musa</strong>.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 104,
+verse: ` <b>(26)	Injili ya Yohana, sura ya 6, mstari wa 46.</b>`,
+meaning: `<b>
+(6:46) Hakuna aliyemwona Baba ila yeye atokaye kwa Mungu; peke yake ndiye aliyemwona Baba. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kuelewa mstari huu si kazi yenye changamoto. Baada ya kusoma Bhagavad-Gita, Biblia, na Kurani kwa ujumla wake, inakuwa dhahiri kwamba aya katika maandiko haya ya mwisho ya kimungu yana maana fiche. Aya za Kurani, hasa, zinashikilia kina kipitacho maandiko mengine ya Mwenyezi Mungu, na kufanya maana zake kuwa ngumu kwa wengi. Ingawa mistari katika Biblia inaweza kuonekana moja kwa moja, ukweli wake wa kweli mara nyingi huepuka kueleweka. Kwa hiyo, Mungu anatoa ufahamu wa kina wa kila mstari kupitia sisi.
+
+  Mungu, anayewakilishwa kama Roho Mtakatifu, yupo kabla na baada ya uumbaji. Yeye ndiye Mungu mkuu. Mwonekano wa kweli au asili ya Mungu bado haijulikani kwa wanadamu. Katika maandiko ya mwisho ya kiungu, Quran, Mungu wa msingi anaitwa Allah, na Mungu wa pili, Atma, pia anajulikana kama Allah. Kwa hivyo, Paramatma ni Mwenyezi Mungu wa kwanza, na Atma ni Mwenyezi Mungu wa pili. Katika andiko la pili la kimungu, Biblia, Paramatma inatajwa kuwa Mungu, na Atma inaitwa Baba. Ni muhimu kutambua kwamba Roho Mtakatifu ndiye Baba wa Atma, na Atma ni Baba wa wanadamu. Quran inathibitisha kwamba Paramatma na Atma zote ni Miungu, wakati Biblia inatofautisha mmoja kama Mungu na mwingine kama Baba. Ni muhimu kuelewa kwamba Baba wa wanadamu ni Atma, na Baba wa Atma ni Roho Mtakatifu. Aya inasisitiza kwamba hakuna mwanadamu aliyemwona Baba (Atma) na asiyejua asili ya Atma.<strong>Walakini, Atma ndiye pekee aliyetoka kwa Mungu na kwa hivyo amemshuhudia Baba yake, Roho Mtakatifu. Kinyume chake, Jeevatma hajawahi kushuhudia Baba yake, Atma.</strong>
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 105,
+verse: `<b>(27)	Injili ya Yohana, sura ya 7, aya ya 37 na 38.</b>`,
+meaning: ` <b>
+(7:37) Siku ya mwisho na iliyo kuu zaidi ya sikukuu, Yesu alisimama na kusema kwa sauti kuu, “Yeyote aliye na kiu na aje kwangu anywe.
+<br><br>
+(7:38) Aniaminiye mimi, kama yalivyonena Kitabu, mito ya maji yaliyo hai itatoka ndani yake.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Aya hiyo ina maana fiche. Kama vile mtu mwenye kiu kwa kawaida hutafuta maji, kufuatilia kwa wale wanaotafuta hekima kunafananishwa na kiu. Aya hiyo inasema, &ldquo;<strong>Yeyote anayeona kiu ya hekima aje kwangu na kukata kiu yake</strong>.&rdquo; Mtu anapomkaribia Yesu na kupokea hekima ya kimungu, ni sawa na kutosheleza wao<strong>kiu ya hekima</strong>kutoka kwa Yesu. Wale wanaomwamini Yesu hupata hekima kamili ya kimungu, na kuwa hazina ya hekima na kuishiriki na wengine. Yesu alitangaza kwamba mito ya maji yaliyo hai ingetiririka kutoka ndani yao. Katika muktadha huu,<strong>maji yaliyo hai yanaashiria hekima ya kimungu</strong>, ambayo huwapa wanadamu moksham (ukombozi) na kuwaweka katika hali ya kudumu. Kwa hiyo, hekima inaitwa maji yaliyo hai. Kama vile wanadamu hutosheleza kiu yao ya kimwili kwa kunywa maji kupitia vinywa vyao, wanapaswa vivyo hivyo<strong>lisha akili zao (buddhi) kwa hekima ya Mwenyezi Mungu kwa kusikiliza kupitia masikio yao.</strong></div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 106,
+verse: `<b>(28)	Injili ya Yohana, sura ya 8, mstari wa 12.</b>`,
+meaning: ` <b>
+(8:12) Yesu alipozungumza tena na watu, alisema, “Mimi ndimi nuru ya ulimwengu. Yeye anifuataye hatakwenda gizani kamwe, bali atakuwa na nuru ya uzima."  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Mungu, anayejulikana kama Roho Mtakatifu, aliumba Atma kutekeleza utawala wake na kufanya kazi kupitia wengine. Alimtangaza Atma kuwa mtoto wake na akampa uwezo wa kufanya kazi Zake. Atma alipokea mamlaka ya kuchukua maisha ya wanadamu, akitoa hukumu kulingana na karma yao kutoka kwa kuzaliwa hapo awali, na kuwezesha kuzaliwa kwao upya. Katika jukumu la jaji, Atma hufanya kwa mujibu wa karma ya kila mtu. Kuingizwa kwa binadamu katika karma huathiri mawazo yao, na Atma, akijibu karma hii, hutoa ujinga kama unavyotafutwa na watu binafsi. Kwa hiyo, baada ya muda, adharma huongezeka duniani.
+
+  Roho Mtakatifu, au Mungu, lazima apate mwili Duniani katika umbo la mwanadamu kama Bhagavan ili kuzuia adharma na kukuza dharma wakati adharma inapoibuka kwa sababu ya masilahi ya wanadamu na ujinga unaochochewa na Atma. Mungu anapovaa sura ya mwanadamu, anaitwa Bhagavan. Umwilisho huu unafundisha hekima ya kimungu bila kufichua utambulisho Wake wa kimungu, mara nyingi hujulikana kama Mwana wa Mungu, na Mungu akiwa Baba Yake. Kulingana na mtazamo huu, kuna Mungu mmoja, muumba, ambaye ana Wana wawili&mdash;mmoja akiwa Atma wa kudumu ndani ya wanadamu na mwingine akiwa Mwana wa muda katika umbo la kibinadamu. Wakati Mwana wa kwanza (Atma) ndani ya wanadamu anakuza adharma, Mwana wa pili wa muda, aliyefanyika mwili kama mwanadamu, hutoa dharmas. Hivyo, kuna Mungu mmoja tu mwenye Wana wawili. Mwana katika umbo la Yesu alitangaza, &ldquo;<strong>Mimi ndimi nuru ya ulimwengu</strong>.&rdquo; Hekima inabadilika kuwa moto wa hekima (Gnana Shakti), inayowaka karma ya mwanadamu. Yesu, akijumuisha moto wa hekima, ni nuru ya hekima. Alikuja kufundisha hekima kwa wanadamu, na wale wanaofuata na kuelewa hekima Yake hawatakaa katika ujinga bali katika hekima. Kwa hiyo, Yesu alisema, &ldquo;Yeye anifuataye hatakwenda gizani kamwe, bali atakuwa na nuru ya uzima.&rdquo; Ni Mungu pekee, ambaye anapata mwili katika umbo la mwanadamu, ndiye anayeweza kutoa nuru ya hekima, na kuanzisha dharmas.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 107,
+verse: `<b>(29)	Injili ya Yohana, sura ya 8, mstari wa 14.</b>`,
+meaning: `<b>
+(8:14) Yesu akajibu, "Hata kama ninajishuhudia mwenyewe, ushuhuda wangu ni halali, kwa maana najua nilikotoka na niendako. Lakini hamjui nilikotoka wala niendako. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Yesu, katika sura Yake ya nje, alifanana na mtu wa kawaida asiye na sifa zozote tofauti. Kama watu wanaoishi ndani ya miili iliyotengenezwa na Prakruti, mwonekano wa nje wa kila kiumbe unaonekana sawa. Yesu, pia, alijionyesha kama mwanadamu wa kawaida. Kuna msemo kati ya wazee kwamba hakuna mtu anayejua ni aina gani ya nyoka anayekaa kwenye kilima cha mchwa, ikilinganisha na hali ya kushangaza ya Jeeva ndani ya mwili. Kila Jeeva aliyezaliwa huja kwenye mwili kutoka mahali fulani, akiongozwa na maamuzi ya Atma kulingana na karma yake. Baada ya kukamilisha karma na kifo, Jeeva inaingia mwili mpya chini ya hukumu ya Atma. Licha ya kuishi katika mwili, Jeeva bado haijui asili yake kwa kila kuzaliwa upya. Manas (akili) ni chombo kinachohusika na kukumbuka, lakini pia, hufa kwa kila maisha yanayopita, na kusababisha kupoteza kumbukumbu kutoka kwa kuzaliwa hapo awali. Kwa hivyo, mtu binafsi, sema, akiwa na umri wa miaka 40, anakumbuka tu miaka 40 iliyopita ya kuzaliwa kwa sasa na sio nyingi zilizopita.
+
+  Utaratibu huu hautumiki tu kwa wanadamu bali pia kwa kila kiumbe hai. Ingawa Yesu anaweza kuonekana kama mtu wa kawaida, ni muhimu kuzingatia kama mzunguko huo huo mchakato unatumika Kwake. Yesu alizaliwa katika Israeli, ikimaanisha kwamba alitoka mahali pengine. Lakini alikuwa anajua asili yake, akisema, "<strong>Najua nilikotoka</strong>.&rdquo; Tofauti na watu wa kawaida ambao hawajui kuhusu kuzaliwa kwao wakati ujao baada ya kifo, Yesu alijua kabisa mahali Alienda baada ya kifo. Tofauti hii kubwa kati ya Yesu na mtu wa kawaida humsukuma mtu kuuliza kuhusu upekee wa Yesu. Jibu la swali hilo lina ufunguo wa hekima bora zaidi, likifunua kwamba Yesu hakuwa mtu wa kawaida bali alizaliwa akiwa na kusudi hususa.
+
+  Mtu aliyezaliwa na kusudi lililoamuliwa kabla ya kuzaliwa huitwa "kuzaliwa kwa sababu." Hakuna mwanadamu aliye na kusudi kama hilo kabla ya kuzaliwa. Kinyume chake, Mungu anazaliwa na nia maalum ya kuanzisha dharma duniani. Mungu pekee, na si mwanadamu yeyote, ana uwezo wa kuanzisha dharma. Mungu hudumu wa milele na bila kubadilika, bila kuathiriwa na kuzaliwa au kifo, akidumisha kumbukumbu thabiti. Mungu anapopata mwili Duniani katika umbo la mwanadamu aliyejificha, anatoa mafundisho juu ya dharma, na kuondoka, Hapati kuzaliwa upya baada ya kifo, hatima ya kawaida kwa wanadamu wa kawaida. Katika kifo, manas (akili) ya mwanadamu huharibiwa, lakini Mungu hafi wala hazaliwi kwingine. Anajifunika sura ya kipekee kama mwanadamu, Anatimiza kusudi Lake, na kisha anarudi kwenye asili Yake. Kwa hiyo, katika mstari huo, Yesu alisema, &ldquo;<strong>Najua ninakoenda</strong>,&rdquo; ikikazia hali ya pekee ya kuwapo kwa Mungu na kusudi lake.
+
+  Wanadamu hawana ujuzi wa mahali au asili ya Mungu. Wakati Mungu anapata mwili kama mwanadamu, asili Yake inabaki haijulikani. Tofauti na kuzaliwa kwa mwanadamu kwa kawaida, kuzaliwa kwa Mungu ni tofauti; Hafanyiwi kuzaliwa upya mahali pengine baada ya kufa mahali pengine. Mungu aliye kila mahali, aliye hata ndani ya tumbo la uzazi, anageuza umbo lake na kuonekana kama mtoto mchanga. Ikizingatiwa kwamba Mungu yupo mahali anapozaliwa, inakuwa vigumu kubainisha asili yake. Wale wasiojua kwamba Mungu yuko kila mahali hubakia kutojua mahali Yesu alitoka. Zaidi ya hayo, hatima ya Mungu baada ya kuchukua umbo tofauti bado haijulikani. Kwa hiyo, katika mstari huo, Yesu alisema, &ldquo;<strong>Hujui nilikotoka wala ninakokwenda</strong>,&rdquo; ikikazia asili ya ajabu ya kuwako kwa Mungu na mienendo yake.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 108,
+verse: `<b>(30)	Injili ya Yohana, sura ya 8, mstari wa 19.</b>`,
+meaning: `<b>
+(8:19) Kisha wakamwuliza, Yuko wapi Baba yako? “Ninyi hamnijui mimi wala Baba yangu,” Yesu akajibu. “Kama mngalinijua mimi, mngemjua na Baba yangu pia.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Je, Mungu yupo? Ikiwa Yeye anafanya, yukoje? Yuko wapi? Ukijua majibu ya maswali haya, utaelewa Baba na Mwana ni nani. Kuna Mungu mmoja tu, lakini tunapaswa kujua Mwana alitoka wapi. Maneno 'Baba' na 'Mwana' yanatumiwa mara nyingi katika Biblia.<strong>Mtu anapaswa kuelewa kwamba 'Baba' maana yake ni Mungu; neno hilo lilitumiwa kurejelea Mungu</strong><strong>katika Biblia. Katika Quran, Mungu anaitwa 'Allah,' na katika Bhagavad-Gita, Mungu anajulikana kama 'Paramatma.'</strong>Ingawa maneno haya ni tofauti, yote yanaashiria Mungu. Kiini cha Mungu kinapaswa kuonekana katika neno 'Baba.' Yesu alipokuwa duniani, Mafarisayo walimuuliza kuhusu Baba yake. Yesu akajibu, &ldquo; <strong>Hamkuniona mimi wala Baba yangu</strong>.&rdquo; Mafarisayo hawakuuliza juu ya Yesu, ingawa alikuwa mbele yao. Walitaka kujua juu ya baba yake wa kimwili, bila kutambua kwamba baba ya Yesu alikuwa Mungu. Huenda walishangaa Yesu alipozungumza moja kwa moja kumhusu Yeye na Baba yake. Walifikiri walikuwa wanamwona Yesu ana kwa ana na wakamwomba ajue kuhusu baba yake asiyejulikana. Kisha Yesu akasema, &ldquo;<strong>Hamkuniona mimi wala Baba yangu</strong>.&rdquo; Tunahitaji kuelewa maana ya neno hilo.
+
+  Baba wa Yesu ni Roho Mtakatifu. Atma, Mwana wa Roho Mtakatifu, yuko katika miili yote na anatawala utendaji wao. Roho Mtakatifu, anayejulikana kama Baba, na Atma, anayejulikana kama Mwana, yuko kila wakati. Roho Mtakatifu, Paramatma, ni wa milele na amekuwepo tangu kabla ya uumbaji. Atma, Mwana wa Roho Mtakatifu, amekuwepo katika miili yote tangu baada ya uumbaji.
+
+  Kando na Mwana wa kudumu, Atma, Mungu (Roho Mtakatifu) ana Mwana mwingine anayeitwa '<strong>Mwana pekee</strong>,' ambaye mara kwa mara huja duniani. Kuna tofauti kubwa kati ya Mwana wa kudumu (Atma) na Mwana wa muda (Mwana pekee). Kwa mfano, lini Atma inakuja na mwili wa kawaida wa mwanadamu, mwili una Jeevatma tofauti. Ingawa mwili mzima ni wa Atma, na Atma ndio kichwa cha mwili, Jeevatma pia anakaa na Atma mwilini na anafikiria kuwa mwili ni wangu. Ikiwa Mwana wa muda, Mwana wa pekee, atakuja duniani na mwili, hakuna Jeevatma katika mwili huo. Katika mwili wa mtu wa kawaida, Mungu na Atma ni tofauti. Atma hufanya kila kazi katika mwili huo, na Mungu hafanyi kazi. Lakini katika mwili wa Mwana pekee, Paramatma (Mungu) anakaa kama Atma na hufanya kazi katika umbo la Atma. Kwa sababu hakuna Jeevatma katika mwili wa Mwana wa pekee, yule anayefanya kama Atma pia anafanya kama Jeevatma. Ingawa aliye katika mwili wa Mwana pekee ni Mungu, anajifanya kuwa Jeevatma.<strong>Aliyekuja kwa kujificha kama Mwana pekee ni Roho Mtakatifu (Mungu). Kwamba Mungu anatenda kama Jeevatma.</strong>Kuna tofauti nyingi kati ya Mwana wa kudumu wa Mungu na Mwana wa muda.
+
+  Inaweza kusemwa kwamba watu wengi hawajui kwamba Mungu ana Mwana wa kudumu na Mwana pekee ambaye huja mara kwa mara. Kwa kupata hekima, mtu anaweza kuelewa kuwepo kwa hekima ya Atma na Atma, lakini kutambua Mwana wa pekee ni changamoto. Kumtambua Mwana mzaliwa-pekee kati ya wanadamu wengi ni vigumu. Kwa hiyo, hakuna mtu aliyemtambua Mwana wa pekee aliyekuja Treta Yuga, Dvapara Yuga, na Kali Yuga. Ingawa Yesu alikuwa Mwana pekee wa Mungu katika Kali Yuga, watu hawakuweza kumtambua kuwa Mwana wa pili wa Mungu. Licha Yake tangazo la kuwa Mwana wa Mungu, watu hawakuweza kumtambua na kumtia matusi na mateso mengi. Watu walishindwa kutambua wale waliokuja Dvapara Yuga na Kali Yuga kuwa Mwana wa Mungu, ingawa walitangaza, &ldquo;Mimi ni Mwana wa Mungu.&rdquo; Ninasitasita kuthibitisha kwamba yule aliyekuja Treta Yuga alikuwa Mwana wa Mungu. Siku hiyo, Mungu Mwenyewe alikuja kwa kujificha kama Mwana na kutoa hekima duniani. Ingawa alijulikana kama gnani mkuu na aliyefunzwa hekima, pia ninasita kusema kwamba Alikuwa Bhagavan kwa sababu alionyeshwa kama mtu mwovu miongoni mwa watu. Walakini, siogopi kusema, "<strong>Ravana Brahma ndiye Mwana pekee</strong>.&rdquo;
+
+  Katika Dvapara Yuga, Krishna alikuja kama Bhagavan. Bhagavan na Mwana pekee ni sawa. Walakini, kwa sababu Krishna alionyeshwa kama mjanja, watu wengi bado hawajui ukuu Wake leo. Ingawa Mungu alikuja kwa kujificha kama mwanadamu na kufundisha dharma takatifu, wanadamu hawakuzingatia hekima Aliyotoa; badala yake, walichunguza zaidi tabia Yake wakati huo. Ni wachache tu, kati ya mamilioni, waliotambua hekima Yake na kutangaza kwamba Krishna alikuwa Mungu, lakini walio wengi walimsema vibaya. Wale ambao hawakujua juu ya kupata mwili kwa Krishna katika Yuga ya Dvapara waliona kuwa vigumu kutambua Yesu kama Mwana wa Mungu katika Kali Yuga. Kwa sababu Krishna na Yesu walitazamia kwamba huenda wanadamu wasitambue hekima waliyofundisha, wote wawili walisema, &ldquo;<strong>Sisi ni Miungu</strong>,&rdquo; katika muktadha wa maneno yao, wakiamini hivyo wanadamu wanaweza kutambua hekima yao kwa kufanya hivyo. Vile vile Yesu alisema, &ldquo;<strong>Ninyi hamnijui mimi wala Baba yangu,&rdquo; </strong>kwa nia ya kuwafanya watu watambue kwamba Mungu na Yesu ni sawa.
+
+  Wale wanaodai kuwa na ujitoaji kwa Mungu mara nyingi huzungumza kwa dhihaka wanapokutana na wengine walio na hekima zaidi kuliko wao wenyewe. Mafarisayo walizungumza na Yesu kwa mtazamo huo huo. Wakijua kwamba Yesu alizaliwa na Mariamu bila baba, wakamwuliza, &ldquo;Baba yako yuko wapi?&rdquo; Yesu alielewa kwamba walikuwa wakimdhihaki na hawakuomba kwa kujitolea. Alijibu kwa jibu la kushangaza, "<strong>Ninyi hamnijui mimi wala Baba yangu</strong>.&rdquo; Wale wanaoelewa maneno Yake kwa usahihi wataelewa kwamba Yesu anayeonekana na Mungu asiyeonekana ni kitu kimoja. Yesu pia alisema, &ldquo;<strong>Kama mngalinijua mimi, mngalimjua na Baba yangu pia</strong>.&rdquo; Hata hivyo, inaweza kusemwa kwamba wale waliosikia maneno Yake hawakuelewa alichokuwa akisema. Kama wangeelewa ujumbe wake, wangemtambua Yesu ni nani siku hiyo. Wangetambua kwamba Yeye hakuwa mtu wa kawaida. Licha ya maneno ya Yesu, walimchukulia kama mtu wa kawaida. Inaonekana hawakujua lolote la ajabu kuhusu Yesu.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 109,
+verse: `  <b>(31)	Injili ya Yohana, sura ya 8, mstari wa 21.</b>`,
+meaning: ` <b>
+(8:21) Yesu akawaambia tena, "Mimi naenda, nanyi mtanitafuta, nanyi mtakufa katika dhambi yenu. Niendako ninyi hamwezi kuja.”  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Yesu alisema maneno mengi ili kuwajulisha watu juu yake, na maneno yaliyo hapo juu ni mfano mmoja. "<strong>Ninaenda, nanyi mtanitafuta. Niendako ninyi hamwezi kuja</strong>,&rdquo; Yesu akawaambia watu. Kwa juu juu, aya hii inaweza isionekane kuwa ya maana sana. Mtu anapoenda mahali fulani bila kuwafahamisha wengine, hatujui ameenda wapi, na hata tukitafuta, hatuwezi kumpata. Ukosefu wa habari unamaanisha kuwa hatuwezi kwenda huko walikokwenda. Unaweza kujiuliza ni hekima gani ipo katika tukio hili la kawaida. Hebu tuitazame kwa pembe nyingine. Katika ujana wetu, tulikuwa tukicheza mchezo wa 'Mwizi na Polisi.' Katika mchezo huu, mwizi hujificha, na baada ya dakika kadhaa, polisi huanza kutafuta ili kuwakamata. Ili kumkamata mwizi, polisi lazima waende mahali ambapo mwizi amejificha. Ikiwa polisi hawawezi kufika mahali pa kujificha, hawawezi kumpata mwizi hata baada ya kutafuta mahali pengine. Siku moja, nilipokuwa na umri wa miaka kumi, tulicheza mchezo huu. Nilikuwa mwizi, na wengine walikuwa polisi. Kabla ya kujificha, nilisema, &ldquo;Ninaenda, na hamtanipata.&rdquo; Walijibu kwa ujasiri, &ldquo;Tutakupata baada ya dakika kumi.&rdquo; Kisha nikaongeza, &ldquo;Niendako ninyi hamwezi kuja,&rdquo; na nikaenda kujificha kutoka kwao.
+
+  Dakika mbili baadaye, polisi walianza kunifukuza lakini hawakunipata kwa nusu saa. Licha ya kupekua maeneo yote, hawakuweza kufika nilipokuwa nimejificha. Siku hiyo, nilikuwa nimeketi kwenye chumba cha pooja nyumbani kwangu, na nilikuwa nimefunga milango. Wengine wakicheza kama polisi walipekua kila mahali, kutia ndani nyumba niliyokuwa nimejificha, lakini hawakufika kwenye chumba cha pooja kwa sababu milango ilikuwa imefungwa, na hawakupekua ndani. Hapo awali, nilidhani hakuna kitu maalum katika mstari hapo juu, kwani ulifanana na mchezo wa 'Mwizi na Polisi.' Walakini, baadaye niligundua kuwa kifungu "<strong>Utakufa katika dhambi yako</strong>&rdquo; katika mstari huo ulikuwa na maana kubwa. Ingawa ulifanana na mchezo, niligundua kwamba ulikuwa na hekima nyingi. Kisha nikazama katika ufahamu wa kina wa maana ya neno hili. Hapa ndio maana yake.
+
+  Yesu alionekana kwa kila mtu duniani kwa muda fulani, lakini kwa bahati mbaya, hakuna aliyemwamini. Licha ya kufanya miujiza mingi ili kuthibitisha kwamba Yeye hakuwa mtu wa kawaida wa kuona kwa vipofu, akiwawezesha viwete kutembea, kuponya ukoma, na hata kuwafufua wafu ili kuonyesha uwezo Wake wa kusamehe dhambi&mdash;watu walishindwa kutambua ukuu Wake wa kweli. . Hata wale ambao hawakumtambua Yesu wakati wa uhai Wake wangemtafuta baadaye, wakitafuta kitulizo kutokana na mateso yao. Hata hivyo, hakutakuwa na faida katika kumtafuta mara tu atakapoondoka, kwani hataonekana kwa mtu yeyote. Watu wanaokufa katika dhambi zao hawawezi kusamehewa na Yesu, kwani hawajui alikokwenda. Hata kama waliokanusha Yesu wakati wa uhai wake baadaye wanamkiri kuwa Mungu, dhambi zao hazitasamehewa. Yesu alikuwa ametabiri mambo haya yote kwa watu mapema. Yesu aliposema, &ldquo;<strong>Ninaenda mbali</strong>,&rdquo; hakuna aliyemwomba akae zaidi. Badala yake, watu walipiga kelele wakimtaka asulubishwe, na kusababisha kifo chake msalabani.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 110,
+verse: `<b>(32)	Injili ya Yohana, sura ya 8, aya ya 23 na 24.</b>`,
+meaning: `<b>
+(8:23) Lakini aliendelea, “Ninyi ni wa chini; Mimi ni kutoka juu. Ninyi ni wa ulimwengu huu; mimi si wa ulimwengu huu.
+<br><br>
+(8:24) Niliwaambia ya kwamba mtakufa katika dhambi zenu; msipoamini ya kuwa mimi ndiye, mtakufa katika dhambi zenu kweli."   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika aya hizi mbili, mstari wa 24 unafanana na mstari wa 21, lakini mstari wa 23 ni wa pekee. Yesu aliwapa watu nafasi ya pili ya kutambua kwamba Yeye hakuwa mtu wa kawaida na akasema, &ldquo;Ninyi ni wa chini; Mimi ni kutoka juu. Ninyi ni wa ulimwengu huu; mimi si wa ulimwengu huu.&rdquo; Aya hii imegawanyika katika sehemu mbili: ya kwanza ni &ldquo;Ninyi ni wa chini; mimi natoka juu,&rdquo; na ya pili ni &ldquo;Ninyi ni wa ulimwengu huu; mimi si wa ulimwengu huu.&rdquo; Kulingana na sehemu ya kwanza ya mstari huo, &ldquo;Ninyi ni wa chini; Mimi ninatoka juu,&rdquo; kumekuwa na aina mbili za watu tangu Kruta Yuga - watu wa chini na watu wa juu. Kuna sababu nyuma ya jinsi majina haya mawili - ya chini na ya juu - yalitokea. Hivi ndivyo watu wanavyogawanywa katika makundi ya chini na ya juu.
+
+  Umri wa Kruta Yuga unachukua miaka 1,728,000. Wakati wa miaka elfu ya kwanza ya Kruta Yuga, makabila mawili yalitokea kati ya watu - gnanis (wale wenye hekima) na wajinga. Kulikuwa na gnani chache sana duniani wakati huo, wakati wajinga walikuwa wasiohesabika. Katika yuga hiyo, idadi ya watu ulimwenguni ilikuwa karibu milioni 30 tu, na idadi ya Wahindi haikuwa zaidi ya 300,000. Jua lilishuka juu ya Dunia na kutoa hekima ya kimungu kwa mtu anayeitwa Manu. Ni watu wawili au watatu tu waliojifunza hekima moja kwa moja kutoka kwa Manu, na watu wengine wote waliheshimu sana gnani hizi, wakijifunza hekima ya kimungu kutoka kwao. Siku hizo, watu waliheshimu sana gnanis, wakiwafanya wakae kwenye kiti cha juu huku wao wenyewe wakikaa sakafuni, wakisikiliza hekima. Ilikuwa kawaida kwa watu kumpa gurus kiti cha juu na kuketi sakafuni. Kulingana na hili, Yesu alisema, &ldquo;Ninyi ni wa chini; mimi natoka juu.&rdquo; Hii ina maana, "<strong>Mimi ni mwalimu wenu (Guru) kwenu nyote</strong>.&rdquo;
+
+  Ilikuwa kawaida kwa walimu kuketi kwenye kiti cha juu huku watu wanaotafuta hekima wakiketi sakafuni. Walimu walikuwa wanawaeleza watu kuwa wako chini ya walimu waliokuwa juu yao. Walimu waliotoa hekima ya kimungu walijulikana kama walimu wa Brahma Vidya. 'Brahma' ina maana kubwa, na 'Brahma Vidya' inamaanisha mafundisho mazuri. Walimu waliokuwa na ujuzi wa Brahma Vidya waliitwa Brahmins. Katika siku hizo, Brahmins ilimaanisha walimu. Walimu wawili au watatu tu katika India nzima walijulikana kama Brahmins. Wabrahmin hao walikuwa wakiainisha watu wengine kama 'watu wa chini.' Wale wote waliokosa hekima waliwekwa rasmi kuwa 'watu wa chini.' Kwa njia hii, nchi nzima ilikuwa na 'watu wa chini.' Baada ya muda, mfumo wa tabaka ulianza kulingana na mgawanyiko huu. Mfumo wa tabaka ulipoanza, wale waliomjua Brahma Vidya walianza kusema, &ldquo;Sisi ni Wabrahmin.&rdquo; Vile vile, wale ambao walikuwa wajinga walibandikiwa &ldquo;Mko chini yetu (Maadiguvavaru kwa Kitelugu).&rdquo; Kwa hivyo, makabila mawili -<strong>ya juu (Eguvavaru kwa Kitelugu) na ya chini (Dikuvavaru kwa Kitelugu)</strong>-kuundwa. Ingawa neno 'chini (Maadiguva vaaru)' lipo hata leo, huenda watu wasielewe kikamilifu maana yake ya kihistoria. Baada ya muda, neno 'Maadiguva vaaru' lilibadilika na kuwa tabaka la Madiga (tabaka iliyoratibiwa), ambayo sasa inahesabiwa kuwa tabaka la chini.
+
+  Mfumo wa tabaka ulipoanzishwa, kulikuwa na tabaka mbili&mdash; Wabrahmin na Madiga (Tabaka Iliyoratibiwa). Neno 'Madiga' mwanzoni lilitumiwa kuwarejelea wale ambao walichukuliwa kuwa wajinga na wasio na hekima. Hata hivyo, baada ya muda, hata miongoni mwa wale waliokosa hekima, matabaka mengi yaliibuka, na wale ambao walibakia bila kuainishwa bado waliitwa Madiga. Ukitazama nyuma katika historia, Madiga hakuwa mtu wa tabaka asili bali jina lililopewa wajinga walimu wawili au watatu. Kulingana na hili, watu kutoka tabaka zote ambao hawana hekima wanaweza kuitwa Madiga. Watu wamegawanywa katika tabaka kwa sababu ya historia isiyojulikana. Ni dhulma na ujinga kuwataja watu waliosalia kuwa ni Madiga. Zaidi ya miaka 2,000 iliyopita, Yesu pia alitumia maneno 'juu' (Eguvavaru) na 'chini' (Diguvavaru). Alisema, &ldquo;<strong>Wewe ni kutoka chini; Mimi ni kutoka juu</strong>,&rdquo; akimaanisha wajinga. Ieleweke kwamba maneno 'juu' na 'chini' yanatumiwa kuashiria, "Mimi ni gnani, na wewe hujui."
+
+  Neno la pili la Yesu ni, &ldquo;Ninyi ni wa ulimwengu huu; mimi si wa ulimwengu huu.&rdquo; 'Loka' (Dunia) kwa Kitelugu ina maana ya 'kuwa na uzoefu.' Kuna aina mbili za watu kulingana na uzoefu walio nao. Wale walio na uzoefu ni wa ulimwengu huu, na wale wasio na uzoefu sio wa ulimwengu huu. Watu wa kawaida hufurahia kila uzoefu duniani, kwa hiyo wao ni wakazi wa ulimwengu huu. Yesu, ambaye hana uzoefu wowote, alisema kwamba hakuwa wa ulimwengu huu. Ingawa Anaonekana kama mwanadamu, Hana uzoefu wowote kama mwanadamu. Ingawa Yesu yuko katika mwili wa mwanadamu, Yeye si Jeevatma kama wengine. Wakati Yeye si Jeevatma, hakuna karma. Kwa hivyo, Yeye hana uzoefu kulingana na karma. Paramatma alimtuma Yesu hasa. Kwa maneno mengine, Roho Mtakatifu alikuja kwa kujificha kama Yesu. Kulingana na dharma ya kiroho, hatupaswi kusema hivyo. Paramatma ilimuumba na kumtuma Yesu hasa. Kwa hiyo, Yesu anapaswa kuitwa Mwana wa Roho Mtakatifu. Kwa vile Yesu si Jeevatma, inaweza kusemwa kuwa hana uzoefu. Ikiwa Yesu angekuwa Jeevatma, hapaswi kuitwa Mwana wa Roho Mtakatifu. Jeevatma ni Mwana wa Atma. Baba wa Atma ni Roho Mtakatifu. Kwa hivyo, Jeevatma anakuwa mjukuu wa Roho Mtakatifu. Yesu anaitwa mwana wa Mungu kwa sababu ametumwa na Mungu. Yesu pia aliitwa waziwazi kuwa Mwana pekee. Atma ni Mwana wa Roho Mtakatifu. Mwana wa pekee ndiye Mwana wa muda anayeshuka duniani akiwa na uhitaji. Kwa hivyo, Mwana wa muda anakuwa Mwana wa Roho Mtakatifu kama Atma na hatakuwa mjukuu kama Jeevatma. Jeevatma anapata uzoefu. Kwa hivyo, Jeevatma, ambaye ana uzoefu, anatoka katika ulimwengu huu. Yesu, kama Atma, ambaye hana uzoefu, si wa ulimwengu huu. Anatoka Paraloka.
+
+  Yesu aliwapa watu nafasi ya pili ya kumtambua kuwa mtu wa ajabu na akanukuu mistari hii (Yohana 8:23, 24). Hata hivyo, wanadamu hawakuweza kutambua ukuu wa Yesu na kumwona kuwa mtu wa kawaida. Kwa hiyo, hawawezi kusamehewa dhambi zao na Yesu au mafundisho yake. Yesu, Mwana wa Roho Mtakatifu, alikuja kati ya watu na kusema maneno mengi ili kujitambulisha. Alirudia kwa mara ya pili kwamba wale ambao hawakuweza kumpata na kumwamini wangekufa katika dhambi zao, kama alivyotaja mapema katika Yohana 8:21. Alitoa fursa ya tatu kwa kusema maneno Yake ya mwisho. Yesu alirudia seti tatu za mistari ili kuwasaidia watu kumtambua. Alionya kwamba wale ambao hawakumtambua hawatasamehewa dhambi zao. Hebu tuchunguze seti ya tatu ya mistari ili kuona kile Yeye alisema.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 111,
+verse: `<b>(33)	Injili ya Yohana, sura ya 8, mstari wa 24.</b>`,
+meaning: `<b>
+(8:24) Niliwaambia ya kwamba mtakufa katika dhambi zenu; msipoamini kwamba mimi ndiye, mtakufa katika dhambi zenu.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Inajulikana kuwa mstari huu ulitoa nafasi ya tatu ya kujua Yesu alikuwa nani. Katika mstari huu, Yesu aliuambia umma moja kwa moja kuwa Yeye ni nani. Alisema, &ldquo;<strong>Wale wasioamini kwamba Mimi ni Roho Mtakatifu, na Muumba atakufa katika dhambi zao</strong>.&rdquo; Yesu Mwenyewe alitangaza Yeye ni nani. Hapo awali alisema, "<strong>nitaondoka; hamwezi kufika mahali nilipokwenda</strong>,&rdquo; ili kuwapa nafasi fulani ya kumwelewa. Katika aya ya pili, alisema, &ldquo;<strong>Ninyi ni wa ulimwengu huu; mimi si wa ulimwengu huu</strong>,&rdquo; kutoa maelezo zaidi ili kuwasaidia kuelewa Yeye alikuwa nani. Inaweza kueleweka kwamba Yesu ni Roho Mtakatifu kutoka mstari wa pili. Katika aya ya tatu, alisema, &ldquo;<strong>Mtu asiyeamini kuwa mimi ndiye hawezi kutoka katika dhambi</strong>,&rdquo; kutoa uwazi zaidi. Katika mstari wa tatu, Yesu alisema, &ldquo;<strong>Mimi ni Mungu</strong>.&rdquo; Licha ya hayo, watu walimtambua Yesu kuwa mtu wa kawaida na hawakuweza kutambua kwamba Alikuwa Mungu. Hata hivyo, wengine walishangazwa na maneno ya Yesu. Ingawa hawakuamini, walimwuliza Yeye ni nani. Yesu alijibu kwa kutumia mistari hii mitatu ( Yohana 8:21, 22, 23 ) ili kuwasaidia kuelewa kwamba Yeye hakuwa mtu wa kawaida. Hata hivyo, hawakufanya hivyo kutambua hili na kuuliza, "Wewe ni nani?" Yesu akajibu, &ldquo;<strong>Ni vile tu nimekuwa nikikuambia tangu mwanzo</strong>.&rdquo;
+
+  Zaidi ya hayo, Alisema, &ldquo;Yeye aliyenituma ni mwaminifu, na yale niliyoyasikia kutoka Kwake ninauambia ulimwengu.&rdquo; Hata hivyo, watu hawakutambua kwamba alikuwa akizungumza kuhusu Baba yake (Roho Mtakatifu). Ingawa alisema mengi, watu hawakumtambua Yesu. Wengine walimchukulia kama mtu wa kawaida, na wengine walimtendea vibaya kuliko mtu wa kawaida. Yesu alisema jambo lingine kuhusu watu hao.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 112,
+verse: ` <b>(34)	Injili ya Yohana, sura ya 8, mstari wa 28.</b>`,
+meaning: ` <b>
+(8:28) Kwa hiyo, Yesu alisema, “Mtakapokwisha kumwinua Mwana wa Adamu, ndipo mtakapojua ya kuwa mimi ndiye, na ya kuwa sifanyi neno langu mwenyewe, ila ninena yale aliyonifundisha Baba. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kuna mkanganyiko fulani katika aya hii kuhusu maneno, &ldquo;. <strong>Umemwinua Mwana wa Adamu</strong>.&rdquo; Mtu anaweza asielewe kifungu hicho. Ili kufasiri kifungu hiki kwa usahihi, mtu anapaswa kukisoma kama "Wakati watu wanamwinua Yesu juu ya vichwa vyao" badala ya "Wakati umemwinua Yesu." Huenda wengine wakauliza, &ldquo;Kwa nini watu wamwinue Yesu juu ya vichwa vyao?&rdquo; Jibu ni hilo<strong>Yesu anapaswa kueleweka kwa kichwa</strong>ambayo ni juu ya miili yetu. Mtu anayemwelewa Yesu na wao<strong>akili (buddhi)</strong>watajua kwamba Yesu ni Roho Mtakatifu. Zaidi ya hayo, mstari huu unadhihirisha kwamba hekima ya kimungu inayofundishwa na Yesu si yake mwenyewe; badala yake, Anafundisha kama alivyoelekezwa na Roho Mtakatifu.
+
+  Badala ya kusema kwamba wanadamu wanapaswa kumwelewa Yesu wakiwa na buda kichwani, mstari huo unasema kwamba watu wamemwinua Yesu juu. Inajulikana kuwa Yesu ni Paramatma (Roho Mtakatifu) ikiwa mtu anamwelewa<strong>pamoja na Buddhi </strong>katika mwili. Maadamu watu hawajaelewa kwamba Yesu ni Mungu, &ldquo;<strong>dhambi za watu hazisamehewi, nao hufa katika dhambi zao</strong>,&rdquo; kama ilivyoelezwa katika aya tatu zilizotangulia. Ikiwa wanaelewa kama Yesu alisema, inajulikana kwamba Yesu ni Mungu. Siri ambayo Roho Mtakatifu anapata mwili kama mwanadamu ili kufundisha hekima yake inafichuliwa. Inapojulikana kwamba Yesu ni Mungu, wengine wanaweza kufikiri kwamba Yesu Mwenyewe anasema hekima yote ambayo Yesu anazungumza. Walakini, haiwezekani kusema kama watu wengine wanavyofikiria. Sababu ni kwamba baada ya kusema, &ldquo;<strong>Mimi ndiye</strong>,&rdquo; Akasema neno lingine.
+
+  Yesu alisema, &ldquo;<strong>Sifanyi neno kwa nafsi yangu ila kunena yale aliyonifundisha Baba</strong>.&rdquo; Hii inaweza kujenga hisia kwamba Baba na Yesu ni tofauti.
+
+  Sababu ya kuieleza kwa njia mbili inatokana na ukweli kwamba Yesu alikuwa mwanadamu. Mungu, katika umbo lake la kweli, haonekani na anajumuisha nguvu. Mungu anapochukua umbo la mwanadamu, na kama mtu anautambua ukweli huu kwa akili (buddhi), wataelewa kwamba Roho Mtakatifu na Yesu ni kitu kimoja. Hata hivyo, Mungu anapopata mwili kama mwanadamu, ni kinyume cha sheria ya kiroho kwa kupata mwili kutangaza waziwazi, &ldquo;Mimi ni Mungu.&rdquo; Ingawa mtu anaweza kutambua mtu anayeonekana kama Mungu, ukweli huu haupaswi kufichuliwa wazi kulingana na<strong>sheria ya kiroho</strong>. Kufuatia kanuni hii ya kiroho, Yesu alisema, &ldquo;<strong>Sifanyi neno kwa nafsi yangu ila kunena yale aliyonifundisha Baba</strong>,&rdquo; wakishikamana na kanuni za sheria ya kiroho.
+
+  Yesu alisema, &ldquo;Ninasema yale ambayo Baba alisema. Vifungu vyote viwili - "Sifanyi chochote peke yangu" na "Mungu hufanya kila kitu" - inamaanisha kitu kimoja. Watu wanapotambua kwamba Yesu ni Roho Mtakatifu, dhambi zao zitasamehewa. Ingawa ni busara kuelewa kwamba Yesu ni Roho Mtakatifu, kiroho si sahihi kusema kwamba Roho Mtakatifu ni Yesu. Kwa hiyo, Yesu mwenyewe alisema, &ldquo;<strong>Mpaka ujue kwamba mimi ni Mungu, dhambi zako hazitasamehewa</strong>,&rdquo; na &ldquo; <strong>Mimi ndiye</strong>,&rdquo; ili wanadamu waelewe Yesu alikuwa nani. Kulingana na sheria ya kiroho, hatimaye alisema, &ldquo;Nafanya yote ambayo Baba yangu aliniambia nifanye.&rdquo; Kwa hiyo, mtu asifikirie kwamba Yesu alizungumza kwa njia mbili katika mstari huo. Ingawa imeandikwa katika mstari huo kwamba &ldquo;Mimi ni Mungu&rdquo; na &ldquo;ninafanya yale ambayo Mungu anasema,&rdquo; yote mawili yanamaanisha sawa. Mtu anaweza kufikiri kwamba Yesu alizungumza mambo yanayopingana ikiwa haya hayaeleweki. Mtu anayeelewa hekima anaweza kutambua kwamba Mungu huja kama mwanadamu lakini hapaswi kutangaza kwamba mtu fulani ni Mungu. Kwa hiyo, Yesu pia alisema, &ldquo;Mimi ndiye Mungu&rdquo; kwa neno moja na &ldquo;Baba yangu ni Mungu&rdquo; katika neno lingine. Zote mbili ni kweli. Zaidi ya hayo, Yesu alisema yafuatayo kwa watu.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 113,
+verse: `<b>(35)	Injili ya Yohana, sura ya 8, mstari wa 29.</b>`,
+meaning: ` <b>
+(8:29) Yeye aliyenipeleka yu pamoja nami; Hakuniacha peke yangu, kwa maana siku zote nafanya yale yampendezayo.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Aya hii inasemekana kuonyesha kwamba Yesu na Roho Mtakatifu ni kitu kimoja. Ili kuunga mkono jambo hilo, Yesu alisema, “Yule aliyenituma yuko pamoja nami.” Hii ina maana kwamba Mungu aliyemtuma Yesu yu ndani yake na kwamba Roho Mtakatifu na Yesu ni sawa. Kuna kitu kinaitwa 'Will' katika mwili wa mwanadamu. Yesu alisema kwamba sikuzote atafanya mambo kulingana na mapenzi ya Mungu. Kwa njia tofauti, Alisema kwamba mapenzi ya Mungu yanafanya kazi ndani Yake. Ni ushuhuda wa ukweli kwamba Mungu yu ndani ya Yesu. Yesu pia alisema kwamba Roho Mtakatifu hakuwa amemwacha peke yake. Ni kana kwamba Yesu alisema kwamba Mungu alikuwa pamoja Naye na kwamba Mungu alikuwa Yeye. Yesu mwenyewe alisema maneno haya ili kumtambua kuwa ni Mungu. Ingawa Mungu alikuja kama 'Yesu' katika Kali Yuga, watu hawakumtambua. Kwa hiyo, ikawa muhimu kwa Yesu kusema maneno haya ili kutambua ukuu wake. La sivyo, watu hawangefahamu hekima ya Yesu. Yesu aliposema mistari hii, baadhi ya watu walimwamini.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 114,
+verse: ` <b>(36)	Injili ya Yohana, sura ya 8, aya ya 53 na 54.</b>`,
+meaning: ` <b>
+(8:53) Je, wewe ni mkuu kuliko baba yetu Ibrahimu? Alikufa, na manabii pia. Unafikiri wewe ni nani?”
+<br><br>
+(8:54) Yesu akajibu, “Nikijitukuza mwenyewe, utukufu wangu si kitu. Baba yangu, ambaye ninyi mnadai kuwa Mungu wenu, ndiye anayenitukuza mimi. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ingawa Yesu alitoa maelezo ya kina ili watu wamwelewe, walijitahidi kufahamu utambulisho Wake, na kuwaongoza kuuliza, “Ninyi ni nani?” Kwa kujibu, Yesu alisema, “Ikiwa ninajitukuza mwenyewe, utukufu wangu si kitu.” Akiwa tayari amezungumza juu Yake katika matukio matano, Alitambua uwezekano wa maneno Yake kuonekana kuwa ya uwongo ikiwa Angerudia au kufafanua zaidi. Kwa hiyo, Yesu alieleza, “Nikisema neno lililo tofauti tena na lile ambalo limesemwa hadi sasa, basi Baba yangu, ambaye ninyi mwadai kuwa Mungu wenu, atanitukuza mimi.” Maneno hayo yanakazia umoja wa msingi kati ya Yesu na Baba yake, ambaye watu hudai kuwa Mungu. Hata hivyo, kwa kuzingatia sheria za kiroho, mtu haipaswi kudai moja kwa moja kuwa Mungu. Kwa hiyo, Yesu alisema, “Mimi ni Mungu” mwanzoni ili kuwasaidia watu kumwelewa. Baadaye, alifafanua kwa kusema kwamba Mungu alikuwa Baba yake. “Kwa sababu nilikuambia mambo mawili tofauti, usichanganyikiwe. Unapaswa kunielewa kwa ukweli,” akasema Yesu, akikazia umuhimu wa kuelewa utambulisho Wake zaidi ya mambo ya wazi.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 115,
+verse: `<b>(37)	Injili ya Yohana, sura ya 8, mstari wa 55. </b>`,
+meaning: `<b>
+(8:55) Ingawa nyinyi hamumjui, mimi namjua. Ikiwa ningesema kwamba sikufanya, ningekuwa mwongo kama ninyi, lakini ninamjua na ninatii neno lake.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Yesu alitangaza, &ldquo;Ninyi hamjui Mungu; Namjua Mungu,&rdquo; akishughulikia mtazamo wa wengi waliomwona kuwa mtu wa kawaida. Uhitaji wa maneno kama hayo ulitokea ili kufafanua uhusiano wa pekee wa Yesu pamoja na Mungu. Wengine walihoji jinsi Yesu, akiwa mwanadamu kama wengine, angeweza kudai kumjua Mungu wakati wengine hawakumjua. Ili kushughulikia swali hili, tunaweza kuzingatia tamko la kurudiwa la Yesu, &ldquo;Mimi ndiye,&rdquo; katika mistari mitatu tofauti. Kulingana na taarifa hii, Yesu hana Jeevatma katika mwili Wake, ingawa ana umbo la kibinadamu. Badala yake, Roho Mtakatifu hutumika kama Atma pekee katika mwili Wake, akishiriki kikamilifu katika kila tendo. Dhana potofu hutokea wakati watu wanadhani kwamba Atma ni Jeevatma inayowaongoza kuamini kwamba Yesu anaweza kuwa hamjui Mungu. Hata hivyo, ukweli ni kwamba Paramatma (Roho Mtakatifu) Mwenyewe anakaa katika mwili wa Yesu, akimjulisha Mungu. Kama vile Roho Mtakatifu ndiye fahamu ndani ya Yesu, hakuna haja ya kujua tofauti; Yesu ana asili ya Mungu kama fahamu zake. Kinyume chake, wanadamu wa kawaida wana akili (manas) kama fahamu katika miili yao lakini wanakosa ufahamu wa Atma au Paramatma. Ukosefu wa Paramatma ufahamu ndio sababu wanadamu hawamjui Mungu, ilhali Yesu, akiwa na Mungu kama fahamu Zake, anamjua Mungu kiasili.
+
+  Ikiwa Yesu angedai, &ldquo;Simjui Mungu,&rdquo; ingedokeza ukosefu wa ufahamu wa Mungu ndani Yake, sawa na wanadamu wa kawaida. Kauli kama hiyo itakuwa sawa na uwongo. Kwa hiyo, Yesu alisema, &ldquo;Kama ningesema simjui Mungu, ningekuwa mwongo kama ninyi. Upekee upo katika ukweli kwamba Roho Mtakatifu ndiye mkaaji pekee katika mwili wa Yesu, akiondoa uwepo wa jozi mbili za roho - Atma, inayowajibika kwa vitendo, na Jeevatma, kwa uzoefu. Katika mwili wa Yesu, ambapo Roho Mtakatifu pekee anakaa, kila neno lililotamkwa linatoka kwa Roho Mtakatifu. Kwa hiyo, Yesu aliposema, &ldquo;Ninamfahamu. Namjua, na ninalitii neno Lake,&rdquo; maneno haya yalitoka kwa Roho Mtakatifu, licha ya Yesu kusema kwa namna iliyo sawa na kila mtu mwingine. Licha ya sura Yake ya nje kama mtu wa kawaida, hapakuwa na kipengele kisichojulikana Kwake. Mfano wa ujuzi huu wa kina ulifunuliwa wakati Yesu alipozungumza juu ya Abrahamu, mtu ambaye alikuwa amekufa kwa muda mrefu, na kuibua mshangao na kuuliza swali kutoka kwa wale walio karibu Naye.</div></div>
+
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 116,
+verse: ` <b>(38)	Injili ya Yohana, sura ya 8, aya ya 57 na 58.</b>`,
+meaning: `<b>
+(8:57) Wakamwambia, Wewe hujatimiza miaka hamsini bado, nawe umemwona Ibrahimu.
+<br><br>
+(8:58) “Amin, amin, nawaambia,” Yesu akajibu, “kabla Ibrahimu hajazaliwa, mimi niko.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Yesu aliposema maneno haya, Alikuwa na umri wa takriban miaka 32, karibu kuingia mwaka Wake wa 33. Abrahamu, mtu wa kihistoria, aliishi karne nyingi kabla ya Yesu, sawa na babu wa watu wa siku za Yesu. Yesu aliporejelea Abrahamu, Wayahudi waliokuwapo walitilia shaka jinsi alivyoweza kusema juu ya mtu ambaye alikuwa amemtangulia kwa muda mrefu, ambaye alizaliwa na kufa katika enzi tofauti. Kwa kujibu, Yesu alisema maneno ya fumbo, &ldquo;Kabla Abrahamu hajazaliwa, mimi niko.&rdquo; Madai haya yalionekana kuwa ya udanganyifu kwa wale walio karibu Naye, kutokana na tofauti ya wazi ya kizazi kati ya Yesu na Ibrahimu. Hata hivyo, kile ambacho Yesu alieleza kilikuwa ukweli mtupu, hata kama kilionekana kuwa kitendawili kwa watu wa wakati Wake.
+
+  Hebu tuchunguze ukweli nyuma ya kauli hii. Mwili wa Yesu ulizaliwa takriban miaka 32 iliyopita. Walakini, ni Roho Mtakatifu pekee anayekaa katika mwili wake, sio Jeevatma. Ikiwa Jeevatma angekuwepo, Yesu hangekuwa na kumbukumbu kutoka kwa kuzaliwa hapo awali, kwani Jeevatma haihifadhi kumbukumbu kama hizo. Kinyume chake, Paramatma (Nafsi Iliyo Juu Zaidi) iko katika mwili wa Yesu na ni ya milele. Imekuwepo tangu kabla ya kuumbwa kwa ulimwengu na ndiye muumbaji wa viumbe vyote vilivyo hai, akiwemo Ibrahimu. Ibrahimu, kama mwanadamu mwingine yeyote, alizaliwa, akaishi, na akafa, na Roho Mtakatifu kama shahidi. Wakati Atma alimpa uhai Ibrahimu, Mungu (Paramatma) alishuhudia safari nzima.<strong>Mungu ndiye shahidi mkuu, Atma ndiye mtendaji, na Jeevatma anapitia maisha</strong>. Ingawa Ibrahimu alizaliwa kupitia Atma, Mungu, kama shahidi mkuu, anajua kila kitu kuhusu Ibrahimu. Paramatma anajua ni mara ngapi Abrahamu alizaliwa zamani na mara ngapi atazaliwa katika siku zijazo. Kwa hiyo, Yesu aliposema, &ldquo;Kabla Abrahamu hajazaliwa, mimi niko,&rdquo; Alirejelea utambulisho Wake kuwa Paramatma ya milele ambayo imekuwako tangu kabla ya kuzaliwa kwa Abrahamu na itaendelea kuwepo baada ya kifo Chake. Kauli hii inasisitiza kuwepo kwa Yesu bila wakati kupita mipaka ya kuzaliwa kimwili na kifo.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 117,
+verse: `<b>(39)	Injili ya Yohana, sura ya 9, mstari wa 39.</b>`,
+meaning: ` <b>
+(9:39) Yesu alisema, “Nimekuja ulimwenguni kutoa hukumu, ili vipofu waone na wale wanaoona wawe vipofu.”   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Wakati baadhi ya watu walimshtaki Yesu kuwa mwenye dhambi, mtu ambaye karma yake ilikuwa imeondolewa na Yesu alisikia maneno yao na akajibu kwa habari ifuatayo.
+
+  ( Yohana 9:25-38 ) Akajibu,<strong>"Kama Yeye ni mwenye dhambi au la, sijui. Jambo moja najua. Nilikuwa kipofu lakini sasa naona!&rdquo;</strong>. Kisha wakamuuliza,<strong>"Alikufanyia nini?</strong><strong>Alifunguaje macho yako?"</strong>Akajibu,<strong>"Nimewaambia tayari na hamkusikiliza. Kwa nini unataka kusikia</strong><strong>tena? Je! ninyi pia mnataka kuwa wanafunzi Wake?&rdquo;</strong>Kisha wakamtukana na kusema,<strong>"Wewe ni mfuasi wa huyu jamaa! Sisi ni wanafunzi wa Musa! Sisi tunajua ya kuwa Mungu alisema na Musa, lakini mtu huyu hata hatujui alikotoka.&rdquo;</strong>Yule mtu akajibu, <strong>"Sasa hilo ni jambo la ajabu! Ninyi hamjui alikotoka, lakini alifungua macho yangu. Tunajua kwamba Mungu hawasikii wenye dhambi. Anamsikiliza mcha Mungu anayefanya mapenzi yake. Hakuna mtu aliyepata kusikia habari za kufungua macho ya mtu aliyezaliwa kipofu. Kama mtu huyu hakutoka kwa Mungu, hangeweza kufanya lolote.&rdquo;</strong>Wakajibu hivi,<strong>"Ulizama katika dhambi wakati wa kuzaliwa; unathubutuje kutufundisha!&rdquo;</strong>Nao wakamtupa nje. Yesu alisikia kwamba walikuwa wamemtupa nje, na Yesu alipomkuta, alisema,<strong>"Je, unamwamini Mwana wa Adamu?&rdquo; "Yeye ni nani, bwana?"</strong>mtu huyo aliuliza.<strong>"Niambie ili nipate kumwamini.&rdquo;</strong>Yesu alisema, &ldquo;<strong>Sasa mmemwona; kwa kweli, Yeye ndiye anayesema nawe.&rdquo;</strong>Kisha yule mtu akasema,<strong>"Bwana, ninaamini,&rdquo;</strong>na akamsujudia. Baada ya matukio yale yaliyokuwa yametokea, Yesu alisema,<strong>"Kwa ajili ya hukumu nimekuja ulimwenguni, ili vipofu waone na wale wanaoona wawe vipofu."</strong>Taarifa hii inaweza kueleweka kwa kuzingatia matukio ya awali.
+
+  Kusudi la kauli ya Yesu lilikuwa kudhihirisha hilo<strong>wale walio na imani katika Mungu wanaweza kuniona</strong>, hata kama hawamjui Yeye ni nani. Wale wasiomwamini Mungu wanaweza kuingiliana na Yesu kila siku na kuuona mwili Wake wa kimwili, lakini hawawezi kumtambua. Kwa hiyo, Yesu alisema kwamba aliingia ulimwengu kuwafanya makafiri wasijue kuwa Yeye ni Mungu. Licha ya Mungu kuchukua umbo la kibinadamu na kusimama karibu na wasioamini, hawawezi kumtambua Mwana wa Mungu kutokana na upofu wao wa kutojua. Upofu huu ni aina ya ujinga unaowazuia kumjua Mungu, hata anapoonekana katika umbo la mwanadamu. Yesu aliposema hivyo<strong>mja anayeuona mwili wa Mungu (Mwana wa Mungu) anaweza asimtambue kulingana na sura ya nje, lakini badala yake, kupitia utambuzi.</strong>, baadhi ya watu waliomzunguka wakauliza kama wao pia ni vipofu. Yesu akawajibu hivi.
+</div></div>
+
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 118,
+verse: `<b>(40)	Injili ya Yohana, sura ya 9, mstari wa 41.</b>`,
+meaning: `<b>
+(9:41) Yesu alisema, “Kama mngekuwa vipofu, hamngekuwa na hatia; lakini sasa unapodai unaweza kuona, hatia yako inabaki.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika mstari wa 39, Yesu alieleza tofauti kati ya wale walio na imani na wale wasio na imani. Alisema kuwa kipofu aliye na imani takatifu angeweza kumwona, wakati wasioamini wangeweza kumwona kimwili lakini hawakuweza kutambua utambulisho Wake wa kweli. Katika mstari wa 41, Yesu alizama zaidi katika tabia ya wale wanaofanya kazi na a<strong>mtazamo wa kidunia</strong>. Watu wenye mawazo ya kidunia wanatangaza, "Ninaona," wakihusisha matendo yao kwao wenyewe na hivyo kukusanya karma kwa matendo yao. Mungu aliwapa wanadamu uwezo wa kufahamu hekima Yake, lakini si kila mtu anatumia yake maono ya kumtambua Mungu. Wengine hubaki vipofu kiroho licha ya kuwa na macho ya kimwili. Kuhusu mambo ya kidunia, kila mtu, kimsingi, ni kipofu. Ukweli ni kwamba hakuna mtu anayejihusisha na shughuli za kidunia kwa uhuru. Hakuna mwenye kuona au kusikia. Licha ya ukosefu wao wa asili, watu hudai, &ldquo;Ninaona,&rdquo; wakidhania kwamba wanaona na hivyo basi kupata dhambi kwa matendo yao. Ingawa wanadamu ni vipofu kiroho, wanajilimbikiza dhambi wanapoamini kimakosa kuwa wanaona. Yesu alisisitiza kwamba kutambua upofu wa mtu kiroho na kukiri<strong>ukweli</strong>kwa kutoona chochote huwaondolea dhambi. Kimsingi, kukiri upofu wa mtu kiroho huzuia mkusanyiko wa dhambi katika mambo ya kidunia.
+
+  Wale ambao hawana hekima ya kimungu hawatambui ukosefu wao wa kuona katika mambo ya kawaida. Kutoweza kwao kuelewa maneno ya Yesu kunatokana na kutojua kwao kwamba Mungu amewapa uwezo wa kuona tu kwa ajili ya kuelewa mambo yanayohusiana Naye. Ili kufahamu kiini cha aya hiyo, Jeeva (nafsi) ya kila mtu lazima kwanza itambue kama wao ni vipofu au wana ufahamu katika mwili. Kwa kweli, Jeeva katika mwili wa kila mtu ni kipofu kabisa katika nyanja zote. Kila Jeeva anaamini kimakosa kuwa mwili ni wao na wao ndio watendaji wa vitendo vyote mwilini. Hata hivyo, Jeevatma haina wakala wa kujitegemea katika mwili; <strong>Atma</strong>ndiye mmiliki na mtawala wa kweli. Atma daima hufanya kazi ndani ya mwili, na, kwa kweli, Jeeva haifanyi kazi yoyote katika mwili. Bila kuona, kusikia, na kamili utendakazi, Jeeva ni kipofu, kiziwi, na mlemavu kwa kila maana. Imewekwa karibu na<strong>buddhi</strong>(akili) mwilini, Jeeva anafahamu habari inayofikia akili, lakini Jeeva hawezi kujitegemea kujua chochote. Licha ya kukosa maarifa ya moja kwa moja, Jeeva anaamini kimakosa kwamba ameshuhudia kila kitu. Ingawa Atma ndio nguvu inayofanya kazi katika mwili, Jeeva anahusisha vitendo vyote kwa makosa yenyewe. Wakati Jeeva anadai kwa uwongo kuwajibika kwa kitendo, lazima avumilie matokeo ya karmic yanayohusiana na hatua hiyo.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 119,
+verse: `<b>(41)	Injili ya Yohana, sura ya 10, mstari wa 18.</b>`,
+meaning: `<b>
+(10:18) Hakuna aniondoleaye uhai, bali mimi nautoa kwa hiari yangu mwenyewe. Ninayo mamlaka ya kuutoa na mamlaka ya kuutwaa tena. Amri hii niliipokea kutoka kwa Baba yangu. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Hakuna mtu anayejua ni lini mtu wa kawaida ataacha maisha haya. Mara mtu akifa, hatarudi. Hili linadhihirika katika kila kifo. Jeeva pia huondoka kutoka kwa mwili katika kifo. Hata hivyo, watu wengi hawatambui hilo<strong>Jeeva ni tofauti na nguvu ya maisha ndani ya mtu</strong>. Watu wengi wanafikiri kwamba Jeeva na nguvu ya maisha ni sawa. Lakini katika aya inasemwa, "<strong>Hakuna anayechukua uhai kutoka kwangu</strong>,&rdquo; jambo linaloonyesha kwamba Yesu ni tofauti, na nguvu zake ni tofauti. Ingawa kila mtu ana nguvu yake ya maisha katika mwili wake, kama Yesu, hawawezi kuiweka kando au kuichukua tena. Ndani ya mwili kuna viungo vingi vya ndani, maisha, buddhi, na manas. Kitu chochote ndani ya mwili kiko chini ya udhibiti wa Atma, sio chini ya udhibiti wa mwanadamu. Kwa hivyo, Atma anaamua kama kuweka kando maisha ya mtu au kutuma ambapo Atma anataka, kama ni kazi yake.<strong>Jeeva</strong>haina uhusiano na nguvu ya uhai katika miili yao, lakini<strong>Atma</strong>ina uhusiano na nguvu ya maisha katika mwili.
+
+  Yesu si Jeeva wa kawaida, bali ni Atma. Kwa hivyo, Ana mamlaka ya kuweka kando maisha Yake, na hakuna mtu anayeweza kuiondoa kutoka Kwake. Hii ina maana kwamba<strong>Yesu hafi mikononi mwa mtu mwingine yeyote</strong>; kama angekufa, angechagua kuuweka kando uhai wake. Atma pekee ndiye mwenye uwezo wa kuweka maisha kando na kisha kuyarudisha inapohitajika. Roho Mtakatifu alimpa Yesu mamlaka ya kufanya hivyo, kama Yesu mwenyewe alivyotangaza, &ldquo;<strong>Hakuna mtu anayeniondolea uhai, bali mimi nautoa kwa hiari yangu mwenyewe. Ninayo mamlaka ya kuiweka chini na kuichukua tena. Amri hii niliipokea kutoka kwa Baba yangu</strong>.&rdquo; Kama ilivyotabiriwa, Yesu alifanya maisha Yake (prana au kupumua) yafiche katika mwili Wake aliposulubishwa, akionekana amekufa kwa wale waliokuwa karibu naye. Hata hivyo aliibuka hai mapema Jumapili asubuhi, akiwa amechukua maisha Yake. Hii inadhihirisha kwamba Yesu, akiwa Atma, anao uwezo wa kuutoa uhai wake na kisha kuwa hai tena katika mwili uleule, na mamlaka haya alipewa na Baba yake, Roho Mtakatifu. Zaidi ya hayo, Atma ana mamlaka ya kuchukua maisha ya wengine na kuwatuma kwa kuzaliwa upya.
+</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 120,
+verse: ` <b>(42)	Injili ya Yohana, sura ya 10, mstari wa 30.</b>`,
+meaning: ` <b>
+(10:30) Mimi na Baba tu umoja.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Atma ndiye Baba wa Jeeva, na vivyo hivyo, Paramatma inawajibika kwa uundaji wa Atma. Kwa hiyo, Atma pia ni Baba wa wanadamu, wakati Paramatma ni Baba wa Atma. Kama Yesu alivyo Atma, Yeye ni Mwana wa Mungu. Wakati<strong>mwana huzingatia sana baba yake</strong>, inaashiria hali ya muungano kati ya mwana na baba. Hiki ndicho kiini cha kauli ya Yesu, &ldquo;<strong>Mimi na Baba yangu tu umoja</strong>,&rdquo; alipoelekeza mtazamo Wake kwa baba yake, Roho Mtakatifu.</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 121,
+verse: ` <b>(43)	Injili ya Yohana, sura ya 11, mstari wa 25.</b>`,
+meaning: ` <b>
+(11:25) Yesu akamwambia, “Mimi ndimi huo ufufuo na uzima. Yeye aniaminiye mimi, hata kama amekufa, atakuwa anaishi.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Katika muktadha huu, 'ufufuo' ni dalili ya kuzaliwa, wakati 'maisha' inaashiria ukombozi (moksham), ikimaanisha uhuru kutoka kwa mzunguko wa kuzaliwa upya. Kwa kuwa kuzaliwa na moksham vinahusiana na Atma, Yesu alisema, "Yeye aniaminiye hatazaliwa upya baada ya kufa, bali atapata.<strong>moksham</strong>.&rdquo;</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
+chapterNumber: 5,
+pageNumber: 122,
+verse: `<b>(44)	Injili ya Yohana, sura ya 11, mstari wa 26.</b>`,
+meaning: `<b>
+(11:26) Anayeishi kwa kuniamini hatakufa kamwe.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Yule ambaye amefikia moksham atapata uzima wa milele na hatakabiliwa na kifo tena. Kwa hiyo, Yesu alitangaza, “Kila mtu aliye na imani katika Mungu atapata moksham na hatakufa kamwe tena.”</div></div>
+</span>`
+},
+{
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 123,
-verse: `<b>(45)	The Gospel of John, 12th chapter, 25th verse.</b>`,
+verse: `<b>(45)	Injili ya Yohana, sura ya 12, mstari wa 25.</b>`,
 meaning: `<b>
-(25) Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.  </b>`,
+(12:25) Yeyote anayependa maisha yake atayapoteza, na yeyote anayechukia maisha yake katika ulimwengu huu atayaweka kwa uzima wa milele.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus’s statement, “Anyone who loves their life will lose it,” can be explained as follows: Humans (Jeeva) require life to exist on earth, and those who become attached to their earthly life will inevitably lose it since they cannot live forever. A person’s life depends on the flow of Prana (life force) in their body, and once they die, their breathing ceases permanently. Once the final breath leaves the body and merges with outside air, it will never return. When someone moves from their first birth to their second, they receive a new breath (life), but the old one is never regained. Therefore, those who prioritize their earthly life and cling to it will eventually lose it. Despite this certainty, people naturally love their lives more than anything else and seek to prolong their time on earth.
+<div class="poem"><div class="poemtext">
+  Maneno ya Yesu, “Yeyote anayependa uhai wake atayapoteza,” yanaweza kufafanuliwa hivi: Wanadamu (Jeeva) wanahitaji uhai ili kuwepo duniani, na wale wanaoshikamana na maisha yao ya kidunia bila kuepukika wataupoteza kwa kuwa hawawezi kuishi milele. Uhai wa mtu hutegemea mtiririko wa Prana (nguvu ya maisha) katika mwili wake, na mara tu anapokufa, kupumua kwao hukoma kabisa. Pumzi ya mwisho inapoacha mwili na kuunganishwa na hewa ya nje, haitarudi tena. Wakati mtu anahama kutoka kuzaliwa kwake kwa kwanza hadi pili, anapokea pumzi mpya (maisha), lakini ya zamani haipatikani tena. Kwa hiyo, wale wanaotanguliza maisha yao ya kidunia na kushikamana nayo hatimaye watayapoteza. Licha ya uhakika huu, kwa kawaida watu hupenda maisha yao kuliko kitu kingine chochote na hutafuta kurefusha muda wao duniani.
 
-  A person who desires moksham and does not wish to live in this world hates their own life, indicating a lack of interest in worldly affairs. Such a person abandons the cycle of birth and attains eternal life. This life is free from death, and the person who attains it will protect it. While those who attain moksham do not have a special life that is similar to that of an ordinary person, the term ‘eternal life’ is used to help us understand the concept. It is important to note that anyone who attains moksham will remain in a state of eternity forever, without birth or death.
+  Mtu anayetamani moksham na hataki kuishi katika ulimwengu huu anachukia maisha yake mwenyewe, akionyesha kutopendezwa na mambo ya kidunia. Mtu kama huyo huacha mzunguko wa kuzaliwa na kupata uzima wa milele. Maisha haya hayana mauti, na mtu anayeyapata atayalinda. Ingawa wale wanaofikia moksham hawana maisha maalum ambayo yanafanana na ya mtu wa kawaida, neno 'uzima wa milele' linatumiwa kutusaidia kuelewa dhana hiyo. Ni muhimu kutambua kwamba mtu yeyote anayepata moksham atabaki katika hali ya umilele milele, bila kuzaliwa au kifo.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 124,
-verse: `<b>(46)	The Gospel of John, 12th chapter, 40th verse.</b>`,
+verse: `<b>(46)	Injili ya Yohana, sura ya 12, aya ya 40.</b>`,
 meaning: `<b>
-(40) He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn—and I would heal them. </b>`,
+(12:40) Ameyapofusha macho yao, na akazifanya nyoyo zao kuwa ngumu, hata wasione kwa macho yao, wala wasione kwa nyoyo zao, wala wasigeuke, nami nitawaponya. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When God came as a man and told the people the wisdom they needed, Atma, God in the body, blinded their eyes and hardened their hearts so that they could neither see nor understand with their hearts nor get rid of karma. Karma is the cause of their suffering. In this verse, what is important to note is that Atma, created by the Holy Spirit, is in everyone’s body, running everyone. Although Atma is the Son of the Holy Spirit, the Holy Spirit, the Creator, is born as a man to impart wisdom. Although the born is the Holy Spirit, He is called the Son of God instead of God. According to this, Atma, which is in the body, becomes the Son of the Holy Spirit. The Holy Spirit’s incarnation as a human being is also called the Son of the Holy Spirit. Atma in the body blinds the ignorant man’s eyes and hardens their heart so that they do not understand the Son of God’s words and cannot get rid of their karma.
+<div class="poem"><div class="poemtext">
+  Mungu alipokuja kama mwanadamu na kuwaambia watu hekima waliyohitaji, Atma, Mungu katika mwili, alipofusha macho yao na kuifanya mioyo yao kuwa migumu ili wasiweze kuona au kuelewa kwa mioyo yao au kuondokana na karma. Karma ndio sababu ya mateso yao. Katika mstari huu, lililo muhimu kutambua ni kwamba Atma, iliyoumbwa na Roho Mtakatifu, iko katika mwili wa kila mtu, inayoendesha kila mtu. Ingawa Atma ni Mwana wa Roho Mtakatifu, Roho Mtakatifu, Muumba, anazaliwa kama mwanadamu ili kutoa hekima. Ingawa aliyezaliwa ni Roho Mtakatifu, anaitwa Mwana wa Mungu badala ya Mungu. Kulingana na hili, Atma, iliyo ndani ya mwili, inakuwa Mwana wa Roho Mtakatifu. Kufanyika mwili kwa Roho Mtakatifu kama mwanadamu pia huitwa Mwana wa Roho Mtakatifu. Atma katika mwili hupofusha macho ya mtu asiyejua na hufanya mioyo yao kuwa migumu ili wasielewe maneno ya Mwana wa Mungu na hawawezi kuondokana na karma yao.
 
-  The Holy Spirit, the Creator, created a son Atma and placed it in the human body. Additionally, the Holy Spirit created another Son in human form to impart wisdom to those who were ignorant. While Atma within the human body is ever-present, the human incarnation of <b>Atma</b> only appears on earth periodically to teach wisdom. Even when the human incarnation of Atma imparts wisdom to individuals who are disinterested and envious of the Holy Spirit, the Atma within the body causes their intellect (buddhi) to be unable to comprehend it. However, if an individual possesses <b>devotion and interest</b> in the Holy Spirit, the Atma within the body enables them to understand the words of the human incarnation of Atma. One must recognize both the Atma within the body and the second Son, embodied by a human form, <b>to truly comprehend the wisdom of the Holy Spirit.</b>
-</div></div>
+  Roho Mtakatifu, Muumba, aliumba mwana Atma na kumweka katika mwili wa mwanadamu. Zaidi ya hayo, Roho Mtakatifu aliumba Mwana mwingine katika umbo la mwanadamu ili kutoa hekima kwa wale ambao hawakujua. Wakati Atma ndani ya mwili wa mwanadamu iko kila wakati, mwili wa mwanadamu wa <strong>Atma</strong>huonekana tu duniani mara kwa mara ili kufundisha hekima. Hata wakati umwilisho wa mwanadamu wa Atma unapotoa hekima kwa watu ambao hawapendezwi na wanaomwonea wivu Roho Mtakatifu, Atma ndani ya mwili husababisha akili zao (buddhi) kushindwa kuielewa. Walakini, ikiwa mtu anamiliki<strong>ibada na maslahi</strong>katika Roho Mtakatifu, Atma ndani ya mwili inawawezesha kuelewa maneno ya umwilisho wa mwanadamu wa Atma. Mtu lazima atambue Atma ndani ya mwili na Mwana wa pili, aliyejumuishwa na umbo la mwanadamu,<strong>kufahamu kweli hekima ya Roho Mtakatifu</strong>.</div></div>
   </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 125,
-verse: ` <b>(47)	The Gospel of John, 12th chapter, 47th and 48th verses.</b>`,
+verse: ` <b>(47)	Injili ya Yohana, sura ya 12, aya ya 47 na 48.</b>`,
 meaning: ` <b>
-(47) If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.
+(12:47) Ikiwa mtu atayasikia maneno yangu, lakini hayashiki, mimi simhukumu mtu huyo. Kwa maana sikuja kuhukumu ulimwengu, bali kuokoa ulimwengu.
 <br><br>
-(48) There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will judge them at the last day. `,
+(12:48) Yuko hakimu kwa anaye nikataa na asiyekubali maneno yangu; maneno yale niliyosema yatawahukumu siku ya mwisho.`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It can be said that the one who spoke these words is the Atma who is in the form of a human being. When anyone hears but neglects to comprehend the wisdom imparted by God when He comes in human form, the Atma in human form does not judge their next life based on sin and punya after death. The Atma, who came as a man to teach wisdom, did not come to judge humans’ next life. God (Atma) came as a man to reveal His wisdom to the people and save them. Someone else judges the subsequent life of a man who does not listen to the words of the Atma in human form and does not acknowledge Him as great. One should know that such a judge is the Atma, who is always present in the body. The Atma in the human body decides the next birth on the day of death based on the wisdom imparted by the Atma, who is in human form. <b>One cannot know the Holy Spirit unless they understand the work of the Atma in the body and the Atma (Bhagavan), who comes in human form.</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Inaweza kusemwa kwamba aliyezungumza maneno haya ni Atma ambaye yuko katika umbo la mwanadamu. Mtu yeyote anaposikia lakini akapuuza kufahamu hekima inayotolewa na Mungu anapokuja katika umbo la mwanadamu, Atma katika umbo la mwanadamu haihukumu maisha yao yanayofuata kwa msingi wa dhambi na punya baada ya kifo. Atma, ambaye alikuja kama mwanadamu kufundisha hekima, hakuja kuhukumu maisha yajayo ya wanadamu. Mungu (Atma) alikuja kama mwanadamu ili kudhihirisha hekima yake kwa watu na kuwaokoa. Mtu mwingine anahukumu maisha ya baadae ya mtu ambaye haisikii maneno ya Atma katika umbo la mwanadamu na hamkiri kuwa ni mkuu. Mtu anapaswa kujua kwamba hakimu kama huyo ni Atma, ambaye yuko kila wakati kwenye mwili. Atma katika mwili wa mwanadamu huamua kuzaliwa tena siku ya kifo kulingana na hekima iliyotolewa na Atma, ambaye yuko katika umbo la mwanadamu.<strong>Mtu hawezi kumjua Roho Mtakatifu isipokuwa anaelewa kazi ya Atma katika mwili na Atma (Bhagavan), ambaye huja katika umbo la mwanadamu.</strong></div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 126,
-verse: ` <b>(48)	The Gospel of John, 12th chapter, 49th and 50th verses.</b>`,
+verse: ` <b>(48)	Injili ya Yohana, sura ya 12, aya ya 49 na 50.</b>`,
 meaning: ` <b>
-(49) For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.
+(12:49) Maana mimi sikunena kwa nafsi yangu, bali Baba aliyenituma ameniamuru niseme yote niliyonena.
 <br><br>
-(50) I know that his command leads to eternal life. So, whatever I say is just what the Father has told me to say. </b>`,
+ (12:50) Najua kwamba amri yake inaongoza kwenye uzima wa milele. Kwa hiyo, chochote ninachosema ni kile ambacho Baba ameniambia niseme. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   One should understand that the <b>Atma (Bhagavan)</b>, who came as a human being, spoke these words. Jesus, God in the form of a human being, uttered this statement. Whenever God incarnates as a man, all of His wisdom comes from the Holy Spirit. The one who came in human form mentioned that the Holy Spirit prompted Him to convey this wisdom. The wisdom imparted by the Atma (Bhagavan) in human form leads to <b>eternal life (moksham).</b> Although the one who came in human form is not explicitly identified as God, He stated, <b>“Whatever I say is just what the Father has told me to say,”</b> revealing that the speaker is the Holy Spirit. With this, it becomes evident that the one speaking is the Holy Spirit. However, in accordance with spiritual doctrine, it should be emphasized that the Holy Spirit is the Father, and the Atma who came in human form is the Son.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Mtu anapaswa kuelewa kwamba<strong>Atma (Bhagavan)</strong>, ambaye alikuja kama mwanadamu, alisema maneno haya. Yesu, Mungu katika umbo la mwanadamu, alitamka kauli hii. Wakati wowote Mungu anapopata mwili kama mwanadamu, hekima Yake yote hutoka kwa Roho Mtakatifu. Yule aliyekuja katika umbo la mwanadamu alitaja kwamba Roho Mtakatifu ndiye aliyemsukuma kuwasilisha hekima hii. Hekima inayotolewa na Atma (Bhagavan) katika umbo la mwanadamu inaongoza kwa<strong>uzima wa milele (moksham)</strong>. Ingawa yule aliyekuja katika umbo la mwanadamu hajatambulishwa waziwazi kama Mungu, Alisema, &ldquo;<strong>Ninachosema ni kile ambacho Baba ameniambia niseme</strong>,&rdquo; akifunua kwamba mzungumzaji ni Roho Mtakatifu. Kwa hili, inakuwa dhahiri kwamba anayezungumza ni Roho Mtakatifu. Hata hivyo, kwa mujibu wa mafundisho ya kiroho, inapaswa kusisitizwa kwamba Roho Mtakatifu ni Baba, na Atma ambaye alikuja katika umbo la mwanadamu ni Mwana.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 127,
-verse: ` <b>(49) The Gospel of John, 14th chapter, 7th verse.</b>`,
+verse: ` <b>(49) Injili ya Yohana, sura ya 14, mstari wa 7.</b>`,
 meaning: ` <b>
-(7) If you really know me, you will know my Father as well. From now on, you do know Him and have seen Him.
+(14:7) Kama mngenijua mimi kweli, mngemjua na Baba yangu pia. Tangu sasa na kuendelea, mnamjua na mmemwona.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse is similar to the one mentioned earlier (John 12:49, 12:50). As I mentioned before, the Father and the Son are the same; yet, according to spiritual doctrine, it should be said that the Father and the Son are separate. Jesus said, <b>“If you really know me, you will also know my Father.”</b> Although God, when He came as a human, is called the Son of God, in fact, the Father Himself is in the form of the Son. Hence, the verse states, <b>“If you know the Son, you know the Father.”</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Aya hii inafanana na ile iliyotajwa hapo awali (Yohana 12:49, 12:50). Kama nilivyotaja hapo awali, Baba na Mwana ni wale wale; hata hivyo, kulingana na fundisho la kiroho, inapaswa kusemwa kwamba Baba na Mwana ni tofauti. Yesu alisema, &ldquo;<strong>Kama ninyi mnanijua mimi, mtamjua na Baba yangu pia</strong>.&rdquo; Ingawa Mungu, Alipokuja kama mwanadamu, anaitwa Mwana wa Mungu, kwa kweli, Baba Mwenyewe yuko katika umbo la Mwana. Kwa hiyo, aya hiyo inasema, &ldquo;<strong>Kama mnamjua Mwana, mnamjua Baba</strong>.&rdquo;</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 128,
-verse: ` <b>(50)The Gospel of John, 14th chapter, 8th and 9th verses.</b>`,
+verse: ` <b>(50) Injili ya Yohana, sura ya 14, aya ya 8 na 9.</b>`,
 meaning: ` <b>
-(8) Philip said, “Lord, show us the Father and that will be enough for us.”
+(14:8) Filipo akasema, “Bwana, tuonyeshe Baba na hilo litatosha kwetu.”
 <br><br>
-(9) Jesus answered: “Don’t you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, “show us the Father?” </b>`,
+(14:9) Yesu akajibu: “Je, hunijui, Filipo, hata baada ya kukaa kwenu muda mrefu namna hii? Yeyote aliyeniona mimi amemwona Baba. Unawezaje kusema, “Tuonyeshe Baba?” </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse reveals that the one with a visible form is the Holy Spirit. Therefore, Jesus said, <b>“Anyone who has seen me has seen the Father.”</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Mstari huu unafunua kwamba mwenye sura inayoonekana ni Roho Mtakatifu. Kwa hiyo, Yesu alisema,<b>"Yeyote aliyeniona mimi amemwona Baba.”</b></div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 129,
-verse: `<b>(51)	The Gospel of John, 14th chapter, 10th verse. </b>`,
+verse: `<b>(51)	Injili ya Yohana, sura ya 14, mstari wa 10. </b>`,
 meaning: `<b>
-(10) Don’t you believe that I am in the Father, and that the Father is in me? The words I say to you I do not speak with my own authority. Rather, it is the Father, living in me, who is doing His work.  </b>`,
+(14:10) huamini Kwamba mimi niko ndani ya Baba, na Baba yu ndani yangu? Maneno ninayowaambia siyasemi kwa mamlaka yangu mwenyewe. Badala yake, ni Baba, anayeishi ndani yangu, ambaye anafanya kazi yake. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When a person is in disguise, he and his disguise are inseparable. Therefore, when a rich man assumes the guise of a beggar, both the wealthy individual and the beggar coexist. The rich man takes on the appearance of a beggar during his disguise. Although the beggar ventures into a bazaar to beg, it is, in fact, the rich man who is carrying out this act. The unseen rich man is performing the role of a beggar. As the rich man resides within the beggar, and the beggar’s words originate from the rich man, it can be asserted that the rich man is within the beggar, and reciprocally, the beggar is within the rich man—they exist together. Since the inner persona holds greater significance than the external facade, all actions undertaken in disguise are executed by the inner self. Given that the person within is more crucial than the external appearance, it is accurate to state that all tasks carried out by the outwardly visible person belong to the internal individual. Despite the beggar’s outward appearance, he embodies the rich person within. In a sense, it can be affirmed that the beggar is, indeed, the rich person. The Holy Spirit, concealed in human form, holds significance. It is imperative to recognize that the disguise is temporary, while the soul within is eternal. It can be asserted that <b>the one within Jesus is the Holy Spirit.</b> Hence, Jesus proclaimed, “The Father is in me, and I am in the Father.”
-</div></div>
+<div class="poem"><div class="poemtext">
+  Wakati mtu amejificha, yeye na kujificha kwake haviwezi kutenganishwa. Kwa hiyo, tajiri anapojifanya kuwa ombaomba, mtu mmoja mmoja tajiri na mwombaji huishi pamoja. Tajiri huchukua sura ya mwombaji wakati wa kujificha kwake. Ijapokuwa mwombaji huyo anajitosa katika soko la kuomba omba, kwa hakika, ni tajiri anayefanya tendo hilo. Tajiri asiyeonekana anatekeleza jukumu la ombaomba. Tajiri anapokaa ndani ya mwombaji, na maneno ya mwombaji yanatoka kwa tajiri, inaweza kusemwa kwamba tajiri yuko ndani ya mwombaji, na kwa usawa, mwombaji yuko ndani ya tajiri - wanaishi pamoja. Kwa kuwa utu wa ndani una umuhimu mkubwa kuliko uso wa nje, vitendo vyote vinavyofanywa kwa kujificha vinatekelezwa na mtu wa ndani. Kwa kuzingatia kwamba mtu aliye ndani ni muhimu zaidi kuliko sura ya nje, ni sahihi kusema kwamba kazi zote zinazofanywa na mtu anayeonekana kwa nje ni za mtu wa ndani. Licha ya mwonekano wa nje wa mwombaji huyo, anajumuisha mtu tajiri ndani. Kwa maana fulani, inaweza kuthibitishwa kwamba mwombaji kwa hakika ndiye tajiri. Roho Mtakatifu, aliyefichwa ndani ya mwanadamu fomu, ina umuhimu. Ni muhimu kutambua kwamba kujificha ni kwa muda, wakati nafsi ndani ni ya milele. Inaweza kuthibitishwa kuwa <strong>aliye ndani ya Yesu ni Roho Mtakatifu</strong>. Kwa hiyo, Yesu alitangaza, &ldquo;Baba yu ndani yangu, nami niko ndani ya Baba.&rdquo;</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 130,
-verse: `<b>(52)	The Gospel of John, 14th chapter, 6th verse</b>`,
+verse: `<b>(52)	Injili ya Yohana, sura ya 14, mstari wa 6.</b>`,
 meaning: `<b>
-(6) Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me. </b>`,
+(14:6) Yesu akajibu, “Mimi ndimi njia na kweli na uzima. mtu haji kwa Baba ila kwa njia ya mimi. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Building on the previous example, the pathway to understanding the rich man is through the beggar. If the beggar is apprehended, the identity of the rich man becomes apparent. Once the rich man is recognized, one can access the wealth he possesses. Similarly, the avenue to comprehend God is through the incarnation as a human. If someone understands the one who took human form, they will also comprehend the God residing within Him. Acquaintance with God leads to gaining eternal life inherent in God. Hence, on one occasion, Jesus declared, <b>“I am the way and the truth and the life.”</b> When Jesus said, “I am the way,” it signifies <b>the route to understanding God through me.</b> He also stated, “I am the truth,” implying that He is the genuine manifestation of God. Furthermore, He proclaimed, <b>“I am eternal life.”</b> This assertion is grounded in the fact that the true God in the form of Jesus declared that anyone familiar with Him would attain paraloka (moksham) and experience eternal life without facing death in the paraloka.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Kwa kuzingatia mfano uliopita, njia ya kumwelewa tajiri ni kupitia kwa mwombaji. Ombaomba akikamatwa, utambulisho wa tajiri unadhihirika. Tajiri akishatambuliwa, mtu anaweza kupata mali aliyonayo. Vile vile, njia ya kumwelewa Mungu ni kupitia kupata mwili kama mwanadamu. Ikiwa mtu anaelewa yule aliyechukua umbo la mwanadamu, ataelewa pia Mungu anayeishi ndani Yake. Kumjua Mungu kunaongoza kwenye kupata uzima wa milele ulio katika Mungu. Kwa hiyo, pindi moja Yesu alisema, &ldquo;<strong>Mimi ndimi njia na kweli na uzima</strong>.&rdquo; Yesu aliposema, &ldquo;Mimi ndimi njia,&rdquo; inaashiria<strong>njia ya kumwelewa Mungu kupitia kwangu</strong>. Pia alisema, &ldquo;Mimi ndiye ukweli,&rdquo; akimaanisha kwamba Yeye ndiye udhihirisho wa kweli wa Mungu. Zaidi ya hayo, alitangaza, &ldquo;<strong>Mimi ni uzima wa milele</strong>.&rdquo; Dai hili linatokana na uhakika wa kwamba Mungu wa kweli katika umbo la Yesu alitangaza kwamba mtu yeyote anayemfahamu angepata paraloka. (moksham) na kupata uzima wa milele bila kukabili kifo katika paraloka.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 131,
-verse: ` <b>(53)	The Gospel of John, 14th chapter, 16th verse.</b>`,
+verse: ` <b>(53)	Injili ya Yohana, sura ya 14, mstari wa 16.</b>`,
 meaning: `<b>
-(16) I will ask the Father, and He will give you another Advocate to help you and be with you forever.  </b>`,
+(14:16) Nitamwomba Baba, naye atawapa Msaidizi mwingine wa kukusaidia na kuwa nawe milele.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> The Holy Spirit does not remain permanently in human form among the people. Occasionally, the Holy Spirit changes appearance and enters into the lives of people when needed. When the Holy Spirit took the form of Jesus, He lived among the people for only 33 years. Out of these 33 years, He imparted wisdom for only three years. Even before completing three years, He departed from the people after only two years and three months. Jesus said, “I will beg my Father to send another Advocate (Adaranakarta) a second time, who lives longer than me and teaches wisdom.” The one who is coming is the same person as the one who says He beseeches the one who comes. It is the same one who is coming. It is the same one who said that He would request the one who is coming. It is the same one who said He would send another Advocate (Comforter). <b>There is only one.</b> It is the same one who said, it is the same one who asked, and it is the same one who comes. If we do not understand that there is only one who is playing all the characters, the one who says, asks, and comes may appear different. Without recognizing that <b>there is only one orchestrating these roles,</b> we fail to comprehend the God in front of us in human form, the God who implores, and the God who arrives. It is crucial to understand that the one pleading with the Father as Jesus is the forthcoming Comforter. The arriving Advocate is the Holy Spirit.
+<div class="poem"><div class="poemtext">
+  Roho Mtakatifu habaki kudumu katika umbo la mwanadamu miongoni mwa watu. Mara kwa mara, Roho Mtakatifu hubadilisha mwonekano na kuingia katika maisha ya watu inapohitajika. Roho Mtakatifu alipochukua umbo la Yesu, aliishi kati ya watu kwa miaka 33 tu. Kati ya miaka hii 33, Alitoa hekima kwa miaka mitatu tu. Hata kabla ya kutimiza miaka mitatu, Aliwaacha watu baada ya miaka miwili na miezi mitatu tu. Yesu alisema, "Nitamwomba Baba yangu atume Wakili mwingine (Adaranakarta) mara ya pili, ambaye anaishi muda mrefu zaidi kuliko mimi na kufundisha hekima." Anayekuja ni sawa na yule anayesema Anamsihi ajaye. Ni yuleyule anayekuja. Ni yule yule aliyesema kwamba atamwomba yule anayekuja. Ni yuleyule aliyesema atamtuma Wakili mwingine (Msaidizi).<strong>Kuna moja tu</strong>. Ni yuleyule aliyesema, ni yuleyule aliyeuliza, na ni yule yule anayekuja. Ikiwa hatuelewi kwamba kuna mmoja tu ambaye anacheza wahusika wote, yule anayesema, anauliza, na anakuja anaweza kuonekana tofauti. Bila kutambua hilo<strong>kuna moja tu</strong><strong>kuandaa majukumu haya</strong>, tunashindwa kumwelewa Mungu aliye mbele yetu katika umbo la kibinadamu, Mungu anayesihi, na Mungu anayekuja. Ni muhimu kuelewa kwamba yule anayemsihi Baba kama Yesu ndiye Mfariji ajaye. Wakili anayekuja ni Roho Mtakatifu.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 132,
-verse: `<b>(54)	The Gospel of John, 14th chapter, 17th verse.</b>`,
+verse: `<b>(54)	Injili ya Yohana, sura ya 14, aya ya 17.</b>`,
 meaning: `<b>
-(17) The world cannot accept Him because it neither sees Him nor knows Him. But you know Him, for He lives with you and will be in you.  </b>`,
+(14:17) Ulimwengu hauwezi kumkubali kwa sababu haumuoni wala haumtambui. Bali ninyi mnamjua, kwa maana anaishi pamoja nanyi na atakuwa ndani yenu.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The term ‘world (loka)’ can be understood to encompass those individuals who undergo the consequences of karma on earth. When God takes on human form, those bound by karma may not perceive or acknowledge Him. Those who fail to recognize Him are unable to receive His teachings or divine wisdom. Only those who have gained some wisdom through Jesus will be able to recognize the Comforter who comes after Jesus in human form. The Comforter dwells within those individuals, and those who are acquainted with Him will coexist with Him, realizing His presence within them as Atma.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Neno 'ulimwengu (loka)' linaweza kueleweka kujumuisha wale watu ambao wanapitia matokeo ya karma duniani. Mungu anapochukua umbo la mwanadamu, wale waliofungwa na karma wanaweza wasimtambue au kumtambua. Wale wanaoshindwa kumtambua hawawezi kupokea mafundisho Yake au hekima ya kimungu. Ni wale tu ambao wamepata hekima fulani kupitia Yesu wataweza kumtambua Msaidizi anayekuja baada ya Yesu katika umbo la kibinadamu. Mfariji hukaa ndani ya watu hao, na wale wanaomfahamu wataishi pamoja Naye, wakitambua uwepo wake ndani yao kama Atma.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 133,
-verse: `<b>(55)	The Gospel of John, 14th chapter, 20th verse.</b>`,
+verse: `<b>(55)	Injili ya Yohana, sura ya 14, mstari wa 20.</b>`,
 meaning: ` <b>
-(20) On that day you will realize that I am in my Father, and you are in me, and I am in you.   </b>`,
+(14:20) Siku hiyo mtatambua ya kuwa mimi niko ndani ya Baba yangu, nanyi mko ndani yangu, nami ni ndani yenu.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Before delving into this verse, one should grasp the true form of God. God is divided into three aspects, permeating the entire world. Although there is only one God, He is divided into three souls—Jeevatma, Atma, and Paramatma. <b>Jeevatma resides in a specific location within the bodies of all living beings, while Atma extends throughout the entirety of every living being’s body. Paramatma is present both inside and outside the body, existing within every molecule.</b> An individual who comprehends this concept is considered a complete gnani. Paramatma, the Creator, assumes human form to impart wisdom to people. During this manifestation, He asserts that He is the Son, and the Father is Paramatma. This terminology serves a purpose of distinction, but it can be affirmed that both the Son and the Father are inherently the same. God appears in the guise of the <b>‘Son’</b> and resides on earth throughout His entire life, imparting wisdom. This serves as a method for the dissemination of wisdom. Alternatively, God sent out an Atma from Himself to create, sustain, and kill Jeevas. The Atma, which governs the bodies of living beings, is also considered the Son of God. Atma resides within Paramatma, and Jeevatma exists within the realm of Atma. Consequently, the expression <b>“I am (Atma) in my Father”</b> is used instead of stating, <b>“I am (Atma) in my Father, the Paramatma.”</b> As Jeeva is present within the body governed by Atma, the verse emphasizes, “You (Jeevatmas) are in me (Atma).” Atma, diffused throughout the entire body, is also dispersed within you (Jeevatma), who is in a specific location. Therefore, the verse states, <b>“The day when you know the souls’ wisdom, you will know that I am in you.”</b> Those unfamiliar with the concept of the three souls fail to discern who resides within whom. Therefore, <b>it is crucial to comprehend the Thraitha Theorem, which elucidates how God is in the form of three souls.</b>
+<div class="poem"><div class="poemtext">
+  Kabla ya kuzama katika mstari huu, mtu anapaswa kufahamu umbo la kweli la Mungu. Mungu amegawanywa katika nyanja tatu, akienea ulimwenguni kote. Ingawa kuna Mungu mmoja tu, Yeye amegawanywa katika nafsi tatu&mdash; Jeevatma, Atma, na Paramatma.<strong>Jeevatma inakaa katika eneo maalum ndani ya miili ya viumbe vyote vilivyo hai, wakati Atma inaenea kwa ukamilifu wa mwili wa kila kiumbe hai. Paramatma iko ndani na nje ya mwili, iko ndani ya kila molekuli</strong>. Mtu anayeelewa dhana hii anachukuliwa kuwa gnani kamili. Paramatma, Muumba, anachukua umbo la mwanadamu ili kuwapa watu hekima. Wakati wa udhihirisho huu, Yeye anadai kwamba Yeye ni Mwana, na Baba ni Paramatma. Istilahi hii hutumikia kusudi la kutofautisha, lakini inaweza kuthibitishwa kwamba Mwana na Baba kwa asili ni sawa. Mungu anaonekana katika kivuli cha '<strong>Mwana</strong>' na anaishi duniani katika maisha yake yote, akipeana hekima. Hii hutumika kama njia ya kueneza hekima. Vinginevyo, Mungu alituma Atma kutoka Kwake ili kuunda, kudumisha, na kuua Jeevas. Atma, ambayo inasimamia miili ya viumbe hai, pia inachukuliwa kuwa Mwana wa Mungu. Atma inakaa ndani ya Paramatma, na Jeevatma ipo ndani ya eneo la Atma. Kwa hivyo, usemi "<strong>Mimi niko (Atma) ndani ya Baba yangu</strong>&rdquo; hutumika badala ya kusema, &ldquo;<strong>Mimi ni (Atma) ndani ya Baba yangu, Paramatma.&rdquo;</strong>Kama Jeeva yupo ndani ya mwili ikitawaliwa na Atma, aya hiyo inasisitiza, &ldquo;Ninyi (Jeevatmas) umo ndani yangu (Atma).&rdquo; Atma, iliyoenea katika mwili mzima, pia hutawanywa ndani yako (Jeevatma), ambaye yuko katika eneo maalum. Kwa hiyo, aya hiyo inasema, &ldquo;<strong>Siku utakapojua hekima ya nafsi, utajua kuwa mimi niko ndani yako</strong>&rdquo;Wale wasiojua dhana ya nafsi tatu wanashindwa kutambua nani anakaa ndani ya nani. Kwa hiyo,<strong>ni muhimu kuelewa nadharia ya Thraitha, ambayo inafafanua jinsi Mungu alivyo katika umbo la nafsi tatu.</strong>
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 134,
-verse: ` <b>(56)	The Gospel of John, 14th chapter, 25th and 26th verses.</b>`,
+verse: ` <b>(56)	Injili ya Yohana, sura ya 14, aya ya 25 na 26.</b>`,
 meaning: `<b>
-(25) All this I have spoken while still with you.
+(14:25) Hayo yote nimeyasema nikiwa bado nanyi.
 <br><br>
-(26) But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. </b>`,
+(14:26) Lakini huyo Msaidizi, huyo Roho Mtakatifu, ambaye Baba atampeleka kwa jina langu, atawafundisha yote, na kuwakumbusha yote niliyowaambia. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  On one occasion, Jesus addressed His disciples, saying, “While I am still with you, I speak these words.” Additionally, He conveyed, “Another Advocate (Adaranakarta) would come to you after I pass away.” Furthermore, He explained, <b>“The Advocate, who comes like me, would remind you of everything I had spoken and teach everything I had not spoken.”</b> An important aspect to consider here is Jesus’ use of the name ‘Advocate.’ Clarifying the meaning of Advocate, He stated, <b>“Advocate is the Holy Spirit whom the Father will send in my name.”</b> A close examination of the verse reveals that it begins with ‘the Father’ and concludes with ‘the Holy Spirit.’ This sequence suggests that Jesus’ father is the Holy Spirit. It can be posited that the Son is the one in disguise, while the Father is the one not in disguise. In reality, they both are one and the same. <b>The one who imparts wisdom and removes karma is referred to as the Advocate (Comforter).</b> When Jesus asserted that God is the one who sends God in the name of the Advocate, He articulated, “The Father is the Holy Spirit who will send in my name.” This elucidates that <b>God assumes a form, adopts the guise of the Advocate, and imparts divine wisdom.</b> It is noteworthy that Jesus conveyed these words to ensure even those unaware of this matter could comprehend.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Wakati mmoja, Yesu aliwaambia wanafunzi wake, akisema, "Wakati ningali pamoja nanyi, ninazungumza maneno haya." Zaidi ya hayo, Yeye aliwasilisha, "Wakili mwingine (Adaranakarta) atakuja kwenu baada ya mimi kufa." Zaidi ya hayo, Alifafanua, &ldquo; <strong>Wakili, anayekuja kama mimi, angewakumbusha yote niliyosema na kuwafundisha yote ambayo sikusema</strong>.&rdquo; Jambo muhimu la kuzingatia hapa ni matumizi ya Yesu ya jina 'Wakili.' Akifafanua maana ya Wakili, Yeye alisema, "<strong>Mtetezi ni Roho Mtakatifu ambaye Baba atamtuma kwa jina langu</strong>.&rdquo; Uchunguzi wa kina wa mstari huo unaonyesha kwamba unaanza na 'Baba' na kumalizia kwa 'Roho Mtakatifu.' Mfuatano huu unapendekeza kwamba baba yake Yesu ni Roho Mtakatifu. Inaweza kuwekwa kuwa Mwana ndiye aliyejificha, wakati Baba ndiye asiyejificha. Kwa kweli, zote mbili ni moja na sawa<strong>.</strong> <strong>Yule anayetoa hekima na kuondoa karma anaitwa Mtetezi (Msaidizi)</strong>. Yesu alipodai kwamba Mungu ndiye anayemtuma Mungu katika jina la Wakili, alisema hivi: &ldquo;Baba ndiye Roho Mtakatifu atakayetuma kwa jina langu.&rdquo; Hii inafafanua hilo<strong>Mungu anachukua sura, anachukua kivuli cha Wakili, na kutoa hekima ya kimungu</strong>. Ni vyema kutambua kwamba Yesu alitoa maneno haya ili kuhakikisha hata wale wasiojua jambo hili wangeweza kuelewa.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 135,
-verse: ` <b>(57)	The Gospel of John, 15th chapter, 23rd verse. </b>`,
+verse: ` <b>(57)	Injili ya Yohana, sura ya 15, mstari wa 23. </b>`,
 meaning: `<b>
-(23) Whoever hates me hates my Father as well.   </b>`,
+(15:23) Anayenichukia mimi anamchukia na Baba yangu pia.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  I have been asserting from the beginning that God is concealed in the form of Jesus, and the name attributed to God’s disguise is Jesus. Indeed, no one else but the Holy Spirit has come in the name of Jesus. Consequently, anyone blaspheming Jesus is also blaspheming Paramatma. The Comforter (Advocate) is not the one who will come after Jesus. Jesus was also an Advocate. Whenever God assumes human form, He should consistently be called the Advocate. <b>The Advocate imparts wisdom that serves as a remedy for karma,</b> and God alone provides teachings that eradicate karma. Therefore, it can be affirmed that the Advocate is synonymous with the Holy Spirit. However, recognizing God when He takes on human form on Earth proves to be challenging. This challenge is underscored by individuals in Christianity who claim to be gnani and refer to Jesus as a brother. It is emphasized that Jesus is not a brother to anyone. Regardless of whether He appears as Jesus or under another name, He is identified as the Holy Spirit, making Him a Father, not a brother.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Nimekuwa nikisisitiza tangu mwanzo kwamba Mungu amefichwa katika umbo la Yesu, na jina linalohusishwa na kujificha kwa Mungu ni Yesu. Hakika, hakuna mwingine ila Roho Mtakatifu amekuja kwa jina la Yesu. Kwa hivyo, mtu yeyote anayemkufuru Yesu pia anakufuru Paramatma. Msaidizi (Wakili) si yule atakayekuja baada ya Yesu.
+
+  Yesu pia alikuwa Wakili. Wakati wowote Mungu anapochukua umbo la mwanadamu, Anapaswa kuitwa Wakili mara kwa mara. <strong>Wakili hutoa hekima ambayo hutumika kama dawa ya karma,</strong>na Mungu peke yake ndiye anayetoa mafundisho ambayo huondoa karma. Kwa hiyo, inaweza kuthibitishwa kwamba Wakili ni sawa na Roho Mtakatifu. Hata hivyo, kumtambua Mungu anapovaa umbo la mwanadamu duniani huthibitika kuwa changamoto. Changamoto hii inakaziwa na watu binafsi katika Ukristo wanaodai kuwa gnani na kumtaja Yesu kuwa ndugu. Inasisitizwa kwamba Yesu si ndugu wa mtu yeyote. Bila kujali kama Anatokea kama Yesu au chini ya jina lingine, Anatambulishwa kuwa Roho Mtakatifu, na kumfanya kuwa Baba, si ndugu.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 136,
-verse: `<b>(58)	The Gospel of John, 15th chapter, 24th and 25th verses. </b>`,
+verse: `<b>(58)	Injili ya Yohana, sura ya 15, aya ya 24 na 25. </b>`,
 meaning: ` <b>
-(24) If I had not done among them the works no one else did, they would not be guilty of sin. As it is, they have seen, and yet they have hated both me and my Father.
+(15:24) Kama nisingalifanya miongoni mwao kazi ambazo hakuna mtu mwingine aliyezifanya, wasingalikuwa na dhambi. Kama ilivyo, wameona, na bado wamenichukia mimi na Baba yangu pia.
 <br><br>
-(25) But this is to fulfill what is written in their Law: ‘They hated me without reason.’</b>`,
+(15:25) Lakini hii ni ili kutimiza yale yaliyoandikwa katika Sheria yao: 'Walinichukia bila sababu.'</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   The task that no one can accomplish on earth is to forgive and remove the sins of a person. Jesus stated that sins would not have been incurred if He had not undertaken the work of forgiving the karma of others. When He publicly forgave the sins of certain individuals, those who were envious and ignorant of His greatness harbored hatred towards Him. Hating Jesus equates to hating the Holy Spirit. Those who harbored hatred toward Him <b>without a valid reason</b> incurred sin.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Kazi ambayo hakuna awezaye kuikamilisha duniani ni kusamehe na kuondoa dhambi za mtu. Yesu alisema kwamba dhambi hazingefanyika ikiwa hangefanya kazi ya kusamehe karma ya wengine. Wakati Yeye hadharani alisamehe dhambi za watu fulani, wale waliokuwa na kijicho na kutojua ukuu Wake walikuwa na chuki dhidi yake. Kumchukia Yesu ni sawa na kumchukia Roho Mtakatifu. Wale waliokuwa na chuki dhidi Yake<strong>bila sababu halali</strong>dhambi.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 137,
-verse: ` <b>(59)	The Gospel of John, 15th chapter, 26 and 27 verses. </b>`,
+verse: ` <b>(59)	Injili ya Yohana, sura ya 15, mistari ya 26 na 27 </b>`,
 meaning: `<b>
-(26) When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—He will testify about me.
+(15:26) Atakapokuja huyo Msaidizi, nitakayewapelekea kutoka kwa Baba, huyo Roho wa kweli, atokaye kwa Baba, yeye atanishuhudia.
 <br><br>
-(27) And you also must testify, for you have been with me from the beginning.   </b>`,
+(15:27) Na ninyi pia mnapaswa kushuhudia, kwa maana mmekuwa pamoja nami tangu mwanzo.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Jesus came as the Advocate (Bhagavan) and mentioned that He would send another Advocate from the Father to the people. In accordance with spiritual law, He conveyed what He was supposed to say. However, there is no other Advocate with the Father; <b>there is only one God</b> who occasionally appears in the guise of an Advocate. No one else sends Him. When Jesus and the Holy Spirit are considered the same, both the sender and the coming one are identical. Jesus stated, <b>“The Spirit of truth comes as an Advocate, and He will testify about me.”</b> When the one who is coming and the one who is going are the same, it is unsurprising that the coming one will speak about the going one. As the coming Advocate discusses Jesus, His disciples will undoubtedly recall Him. Consequently, the disciples will affirm that Jesus came and imparted wisdom.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Yesu alikuja kama Wakili (Bhagavan) na akataja kwamba angetuma Wakili mwingine kutoka kwa Baba kwa watu. Kwa mujibu wa sheria ya kiroho, Yeye aliwasilisha kile alichopaswa kusema. Hata hivyo, hakuna Wakili mwingine pamoja na Baba; <strong>kuna Mungu mmoja tu</strong>ambaye mara kwa mara huonekana katika kivuli cha Wakili. Hakuna mwingine anayemtuma. Wakati Yesu na Roho Mtakatifu wanachukuliwa kuwa sawa, mtumaji na anayekuja wote wanafanana. Yesu alisema, &ldquo;<strong>Roho wa kweli anakuja kama Mtetezi, naye atanishuhudia</strong>.&rdquo; Wakati yule anayekuja na anayekwenda ni sawa, haishangazi kwamba anayekuja atazungumza juu yake. anayekwenda. Wakili anayekuja anapomjadili Yesu, wanafunzi wake bila shaka watamkumbuka. Kwa hiyo, wanafunzi watathibitisha kwamba Yesu alikuja na kuwapa hekima.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 138,
-verse: ` <b>(60)	The Gospel of John, 16th chapter, 7th verse. </b>`,
+verse: ` <b>(60)	Injili ya Yohana, sura ya 16, mstari wa 7. </b>`,
 meaning: `<b>
-(7) But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send Him to you.</b>`,
+(16:7) Lakini, amin, nawaambieni, ni kwa faida yenu kwamba mimi niondoke. Nisipoondoka, huyo Msaidizi hatakuja kwenu; lakini nikienda, nitampeleka kwenu.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   In the analogy of a single person playing two characters in a play, the second character appears on stage after the first character exits. Since it is the same person playing both roles, the first character must go behind the scenes for the person in the first character to assume the second role. It’s not possible for the second character to emerge unless the first character goes backstage. This transition occurs because the same person is portraying both characters. Similarly, the one who came in Jesus’ role is expected to return to earth in a second character. Therefore, when Jesus departs from the people, the one who played the role of Jesus will return in a second role. The Holy Spirit took on the role of Jesus. If He were to come again to be with the people, He would have to relinquish His role as Jesus and reappear in a new role, with a new name, and a new appearance. Thus, Jesus stated, <b>“It is for your good that I am going away. Unless I go away, the Advocate will not come to you.”</b> While not explicitly mentioning that He would return as an Advocate, He conveyed, “I will send Him to you when I leave.” From these words, anyone with intelligence will easily discern that the one departing and the one returning are the same.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Katika mlinganisho wa mtu mmoja anayecheza wahusika wawili katika mchezo wa kuigiza, mhusika wa pili anaonekana jukwaani baada ya mhusika wa kwanza kuondoka. Kwa kuwa ni mtu yule yule anayecheza majukumu yote mawili, mhusika wa kwanza lazima aende nyuma ya pazia ili mhusika wa kwanza achukue jukumu la pili. Haiwezekani kwa mhusika wa pili kujitokeza isipokuwa mhusika wa kwanza arudi nyuma ya jukwaa. Mpito huu hutokea kwa sababu mtu yuleyule anaonyesha wahusika wote wawili. Vivyo hivyo, yule aliyekuja katika daraka la Yesu anatarajiwa kurudi duniani akiwa na tabia ya pili. Kwa hiyo, Yesu atakapoondoka kutoka kwa watu, yule aliyecheza nafasi ya Yesu atarudi katika nafasi ya pili. Roho Mtakatifu alichukua nafasi ya Yesu. Ikiwa Angekuja tena kuwa pamoja na watu, Angelazimika kuacha jukumu Lake kama Yesu na kutokea tena katika jukumu jipya, akiwa na jina jipya, na mwonekano mpya. Kwa hiyo, Yesu alisema, &ldquo;<strong>Ni kwa faida yenu kwamba mimi ninakwenda zangu.</strong><strong>Nisipoondoka, Wakili hatakuja kwenu</strong>.&rdquo; Wakati bila kutaja kwa uwazi kwamba Angefanya kurudi kama Wakili, Akasema, &ldquo;Nitamtuma kwenu nitakapoondoka.&rdquo; Kutokana na maneno haya, mtu yeyote mwenye akili atatambua kwa urahisi kwamba anayeondoka na anayerudi ni sawa.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 139,
-verse: `<b>(61)	The Gospel of John, 16th chapter, 8th verse.  </b>`,
+verse: `<b>(61)	Injili ya Yohana, sura ya 16, mstari wa 8.  </b>`,
 meaning: ` <b>
-(8) When He comes, He will prove the world to be in the wrong about sin and righteousness and judgment.</b>`,
+(16:8) Atakapokuja, atauthibitisha ulimwengu kuwa uko katika makosa juu ya dhambi na uadilifu na hukumu.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  After Jesus’ role disappears behind the scenes, the Advocate (Bhagavan) will come in the second role and second incarnation. The term ‘Advocate’ represents God’s incarnation, but it is not God’s name. The one who comes as the Advocate could have any name in the world. Therefore, no one can determine if this person is the incarnation of God. While no one knows the Advocate’s form or name, there is some chance of recognizing Him through His actions. When the <b>Advocate</b> comes to the earth, He discusses sin, revealing how a person acquires sin, where it is stored until the time of death, and the consequences of sin. <b>He explains that divine wisdom is necessary to rid oneself of acquired sins,</b> as sins are like firewood and wisdom is like fire. Only through wisdom can one escape experiencing sin and gain divine wisdom. The sin of a person who does not attain divine wisdom in life persists until death. Such a person must be reborn on the same day, minute, and moment after death. The day of death is known as the last day. The last day of life becomes the first day of the next life. The person must be reborn within a second of their death. It can be said that the time difference between death and rebirth is only one-tenth of a second. In that short time, <b>Atma</b> judges the deceased based on their sin and punya. Atma then decides what the person must eat, drink, and experience at every moment of the second birth. The life of the born is determined by the judgment made in death. How a person will live their next life is decided based on the judgment of their last day. Atma, which is with the deceased person, judges them correctly based on their deeds from childhood. The actions to be taken in the next life are decided according to existing karma. No one can override this decision, and everyone must accept the judgment.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Baada ya jukumu la Yesu kutoweka nyuma ya pazia, Wakili (Bhagavan) atakuja katika nafasi ya pili na umwilisho wa pili. Neno 'Wakili' linawakilisha kupata mwili kwa Mungu, lakini si jina la Mungu. Yule anayekuja kama Wakili anaweza kuwa na jina lolote duniani. Kwa hivyo, hakuna anayeweza kuamua ikiwa mtu huyu ni mwili wa Mungu. Ingawa hakuna anayejua umbo au jina la Wakili, kuna nafasi fulani ya kumtambua kupitia matendo yake. Wakati<strong>Wakili</strong>anakuja duniani, Anazungumzia dhambi, akifunua jinsi mtu hupata dhambi, ambapo huhifadhiwa mpaka wakati wa kifo, na matokeo ya dhambi.<strong>Anaeleza kwamba hekima ya kimungu ni muhimu ili kujiondolea dhambi alizopata</strong>, kama vile dhambi ni kama kuni na hekima ni kama moto. Ni kupitia hekima pekee ndipo mtu anaweza kuepuka kupata dhambi na kupata hekima ya kimungu. Dhambi ya mtu ambaye hapati hekima ya kimungu maishani hudumu hadi kifo. Mtu kama huyo lazima azaliwe upya siku hiyo hiyo, dakika, na dakika moja baada ya kifo. Siku ya kufa ni inayojulikana kama siku ya mwisho. Siku ya mwisho ya maisha inakuwa siku ya kwanza ya maisha yanayofuata. Mtu huyo lazima azaliwe upya ndani ya sekunde ya kifo chake. Inaweza kusemwa kwamba tofauti ya wakati kati ya kifo na kuzaliwa upya ni moja tu ya kumi ya pili. Katika muda huo mfupi,<strong>Atma</strong>huhukumu waliokufa kulingana na dhambi zao na punya. Atma kisha huamua kile ambacho mtu lazima ale, kunywa, na uzoefu katika kila wakati wa kuzaliwa mara ya pili. Uhai wa mzaliwa huamuliwa na hukumu iliyotolewa katika kifo. Jinsi mtu atakavyoishi maisha yake yajayo huamuliwa kulingana na hukumu ya siku yake ya mwisho. Atma, ambayo ni pamoja na mtu aliyekufa, huwahukumu kwa usahihi kulingana na matendo yao tangu utoto. Hatua za kuchukua katika maisha yajayo huamuliwa kulingana na karma iliyopo. Hakuna anayeweza kubatilisha uamuzi huu, na kila mtu lazima akubali hukumu.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 140,
-verse: `<b>(62)	The Gospel of John, 16th chapter, 12th verse. </b>`,
+verse: `<b>(62)	Injili ya Yohana, sura ya 16, mstari wa 12. </b>`,
 meaning: `<b>
-(12) I have much more to say to you, more than you can now bear. </b>`,
+(16:12) Ninayo mengi ya kuwaambia, zaidi ya mnayoweza kustahimili sasa. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When God incarnates as a human, it is crucial to carefully impart wisdom, considering people’s moods, and the teachings should be tailored based on the time and context. Divine wisdom needs to be conveyed with sensitivity to the audience’s readiness to receive the truth. Comparatively, if you inform a woman engaged to you that she is already your wife, she may not accept it before the wedding, leading to potential conflict. However, sharing the same information after the wedding would bring happiness without contention. Similarly, when presenting divine wisdom to those who may not tolerate the truth, there is a risk of misunderstanding and opposition. Therefore, even when God takes on human form, the truth must be shared judiciously. For example, if one were to assert that Ravana Brahma is an incarnation of God, contemporary audiences might grasp the concept to some extent. However, had the same statement been made 50 years ago, there may have been disagreement, with people viewing Ravana as evil and monstrous. Hence, there are instances where wisdom that is meant to be shared earlier must be deferred. In this context, Jesus acknowledged this principle when He stated, <b>“I have much more to say to you, more than you can now bear,”</b> to His disciples. Recognizing that it was time for Him to depart from humanity, He informed His disciples that the coming Advocate would convey what He had not spoken.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Mungu anapopata mwili kama mwanadamu, ni muhimu kutoa hekima kwa uangalifu, kwa kuzingatia hisia za watu, na mafundisho yanapaswa kulengwa kulingana na wakati na muktadha. Hekima ya kimungu yahitaji kuonyeshwa kwa usikivu kwa utayari wa wasikilizaji kupokea ukweli. Kwa kulinganisha, ukimjulisha mwanamke aliyechumbiwa na wewe kwamba tayari ni mke wako, anaweza asikubali kabla ya harusi, na kusababisha migogoro. Hata hivyo, kushiriki habari zile zile baada ya arusi kungeleta furaha bila mabishano. Vivyo hivyo, tunapotoa hekima ya kimungu kwa wale ambao huenda wasivumilie kweli, kuna hatari ya kutoelewana na kupingwa. Kwa hivyo, hata wakati Mungu anachukua umbo la mwanadamu, ukweli lazima ushirikiwe kwa busara. Kwa mfano, ikiwa mtu angedai kwamba Ravana Brahma ni mwili wa Mungu, watazamaji wa kisasa wanaweza kufahamu dhana hiyo kwa kiasi fulani. Hata hivyo, kama kauli hiyohiyo ingetolewa miaka 50 iliyopita, huenda kukawa na kutoelewana, huku watu wakimwona Ravana kuwa mwovu na wa kutisha. Kwa hivyo, kuna matukio ambapo hekima ambayo inakusudiwa kushirikiwa mapema lazima iahirishwe. Katika muktadha huu, Yesu alikubali kanuni hii aliposema, &ldquo;<strong>Ninayo mengi ya kuwaambia, zaidi ya mnayoweza kustahimili sasa</strong>,&rdquo; kwa wanafunzi Wake. Akitambua kwamba ulikuwa ni wakati wa Yeye kuondoka kutoka kwa ubinadamu, Aliwajulisha wanafunzi Wake kwamba Wakili ajaye angefikisha kile ambacho hakuzungumza.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 141,
-verse: `<b>(63)	The Gospel of John, 16th chapter, 13th verse. </b>`,
+verse: `<b>(63)	Injili ya Yohana, sura ya 16, mstari wa 13. </b>`,
 meaning: `<b>
-(13) But when He, the Spirit of truth, comes, He will guide you into all the truth. He will not speak on His own; He will speak only what He hears, and He will tell you what is yet to come. </b>`,
+(16:13) Lakini yeye atakapokuja, huyo Roho wa kweli, atawaongoza awatie kwenye kweli yote. Hatanena kwa nafsi yake; Atazungumza tu kile anachosikia, na atakuambia kile ambacho bado kitatokea. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus prophesied about the forthcoming Advocate. The term ‘Spirit of truth’ signifies the <b>‘God of wisdom.’</b> Jesus conveyed that the God who would come after Him would lead everyone into the truth and communicate only the truth. Despite God taking on human form, behaving in a human manner, Jesus mentioned, “As a human, He teaches nothing on His own; He speaks only what He hears.” If one wonders who informed the Advocate, there is only one source. Since there is only one who is coming, He is the same one conveying the wisdom. Consequently, it is evident that the visible person can also articulate what God has spoken. Only God can communicate God’s wisdom. Rather than stating that humans are incapable of conveying God’s wisdom, it is phrased that the Advocate will speak only what He has heard.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Yesu alitabiri kuhusu Wakili anayekuja. Neno 'Roho wa kweli' linamaanisha '<strong>Mungu wa hekima</strong>.' Yesu aliwasilisha kwamba Mungu ambaye atakuja baada Yake angeongoza kila mtu kwenye ukweli na kuwasilisha ukweli pekee. Ijapokuwa Mungu alijivika umbo la kibinadamu, na kujiendesha kwa njia ya kibinadamu, Yesu alitaja, &ldquo;Kama mwanadamu, hafundishi kitu peke yake; Yeye huzungumza tu anayoyasikia.&rdquo; Ukijiuliza ni nani aliyempa taarifa Wakili, chanzo ni kimoja tu. Kwa kuwa ni mmoja tu anayekuja, Yeye ndiye yule yule anayefikisha hekima. Kwa hiyo, ni dhahiri kwamba mtu anayeonekana anaweza pia kueleza kile ambacho Mungu amesema. Ni Mungu pekee anayeweza kuwasiliana na hekima ya Mungu. Badala ya kusema kwamba wanadamu hawawezi kueleza hekima ya Mungu, inasemwa kwamba Wakili huyo atazungumza tu kile ambacho amesikia.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 142,
-verse: ` <b>The Gospel of John, 16th chapter, 14th and 15th verses. </b>`,
+verse: ` <b>(64) Injili ya Yohana, sura ya 16, aya ya 14 na 15 </b>`,
 meaning: ` <b>
-(14) He will glorify me because it is from me that He will receive what He will make known to you.
+(16:14) Atanitukuza mimi kwa sababu ni kutoka kwangu atapokea yale atakayowajulisha.
 <br><br>
-(15) All that belongs to the Father is mine. That is why I said the Spirit will receive from me that He will make known to you.</b>`,
+(16:15) Yote yaliyo ya Baba ni yangu. Ndiyo maana nilisema kwamba Roho atapokea kutoka kwangu kwamba atawajulisha ninyi.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   If you look at this verse, some parts make sense while others do not. This verse is like playing a game of hide and seek with people. Earlier, Jesus mentioned that the newly coming Spirit of truth would teach what He hears. Subsequently, in the next verse, He stated that the Advocate would take what He received from Jesus and convey it to the people. Additionally, Jesus asserted that the Advocate would express things that Jesus had not said. However, in the current statement, Jesus mentions that the Advocate would inform the people about what He had received from Jesus. The apparent inconsistency in Jesus’ statements may lead to confusion. Yet, there is a deliberate reason for this ambiguity. Jesus chose to express Himself in a way that <b>those genuinely interested in His wisdom would comprehend, while those lacking interest would not.</b> He further stated that the coming Advocate would share what Jesus had said to glorify Him. Jesus then affirmed that all that belongs to the Father is His, with the Father referring to the Holy Spirit or God. By emphasizing that God’s wisdom is His and that the Advocate would convey what He had received from Jesus, it becomes evident that Jesus and the Holy Spirit are synonymous. Instead of explicitly stating, <b>“I am God,”</b> Jesus phrased it as, <b>“All the words of God are mine.”</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Ukiitazama aya hii, baadhi ya sehemu zina maana na nyingine hazina maana. Aya hii ni kama kucheza mchezo wa kujificha na kutafuta na watu. Hapo awali, Yesu alitaja kwamba Roho mpya ya kweli inayokuja ingefundisha kile anachosikia. Baadaye, katika mstari unaofuata, Alisema kwamba Wakili angechukua kile Alichopokea kutoka kwa Yesu na kufikisha kwa watu. Zaidi ya hayo, Yesu alidai kwamba Wakili huyo angeeleza mambo ambayo Yesu hakuwa amesema. Hata hivyo, katika kauli ya sasa, Yesu anataja kwamba Wakili angewajulisha watu juu ya kile alichopokea kutoka kwa Yesu. Kutopatana kunakoonekana katika kauli za Yesu kunaweza kusababisha kuchanganyikiwa. Hata hivyo, kuna sababu ya makusudi ya utata huu. Yesu alichagua kujieleza kwa njia ambayo<strong>wale wanaopendezwa kikweli na hekima Yake wangefahamu, na wale wasiopendezwa hawangefahamu</strong>. Alisema zaidi kwamba Wakili anayekuja angeshiriki kile ambacho Yesu alikuwa amesema ili kumtukuza. Kisha Yesu akathibitisha kwamba vyote vilivyo vya Baba ni vyake, huku Baba akimaanisha Roho Mtakatifu au Mungu. Kwa kusisitiza kwamba hekima ya Mungu ni yake na kwamba Wakili angefikisha kile alichopokea kutoka kwa Yesu, inakuwa dhahiri kwamba Yesu na Roho Mtakatifu ni visawe. Badala ya kusema kwa uwazi, "<strong>Mimi ni Mungu</strong>,&rdquo; Yesu alisema hivyo, &ldquo;<strong>Maneno yote ya Mungu ni yangu</strong>.&rdquo;</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 143,
-verse: ` <b>(65)	The Gospel of John, 16th chapter, 16th verse. </b>`,
+verse: ` <b>(65)	Injili ya Yohana, sura ya 16, mstari wa 16. </b>`,
 meaning: `<b>
-(16) Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.” </b>`,
+(16:16) Yesu aliendelea kusema, “Bado kitambo kidogo hamtaniona tena, na baada ya kitambo kidogo mtaniona. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus conveyed to His disciples that they would see Him no more after a while, indicating His departure from among the people and the cessation of His appearance to them. He also mentioned that they would see Him again after a little while, implying that He would leave His physical form, not to reappear in the same bodily manifestation. This statement perplexed the disciples, leading them to question why Jesus spoke of seeing Him again after a little while. When Jesus stated, “In a little while, you will see me no more, and then after a little while, you will see me,” some might have wondered if He would temporarily hide and then reappear. However, in a previous instance, Jesus had explained, “I will go. The Advocate will not come to you unless I go. I will go and send Him.” Thus, Jesus was suggesting that He would fulfill His promise to depart, and after some time, they would see Him again through the coming Advocate, who was also Jesus. In this context, the verse becomes coherent when one realizes that the one (Jesus) departing and the one (Advocate) returning are identical. Jesus emphasized that seeing either one of them is equivalent to seeing only one, as Jesus and the Advocate are one and the same.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Yesu aliwaambia wanafunzi wake kwamba hawatamwona tena baada ya kitambo kidogo, akionyesha kuondoka kwake katikati ya watu na kukomesha kuonekana kwake kwao. Pia alitaja kwamba wangemwona tena baada ya muda kidogo, akimaanisha kwamba angeacha umbo lake la kimwili, asitokee tena katika udhihirisho uleule wa mwili. Kauli hii iliwashangaza wanafunzi, na kuwaongoza kuuliza kwa nini Yesu alisema kumuona tena baada ya muda kidogo. Yesu aliposema, “Bado kitambo kidogo hamtaniona tena, na baada ya kitambo kidogo mtaniona,” huenda wengine walijiuliza ikiwa angejificha kwa muda kisha kutokea tena. Hata hivyo, katika kisa kilichotangulia, Yesu alikuwa ameeleza, “Nitakwenda. Wakili hatakuja kwako isipokuwa niende. nitakwenda na kumtuma.” Hivyo, Yesu alikuwa akidokeza kwamba angetimiza ahadi yake ya kuondoka, na baada ya muda fulani, wangemwona tena kupitia kwa Wakili anayekuja, ambaye pia alikuwa Yesu. Katika muktadha huu, aya hiyo inakuwa thabiti pale mtu anapotambua kwamba yule (Yesu) anayeondoka na yule (Wakili) anayerudi wanafanana. Yesu alisisitiza kwamba kuona mmoja wao ni sawa na kuona mmoja tu, kwani Yesu na Wakili ni kitu kimoja.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 144,
-verse: ` <b>The Gospel of John, 16th chapter, 17th, 18th, 19th, 20th, 21st and 22nd verses. </b>`,
+verse: ` <b>(66) Injili ya Yohana, sura ya 16, 17, 18, 19, 20, 21 na 22. </b>`,
 meaning: `<b>
-(17) At this, some of his disciples said to one another, “What does He mean by saying, ‘In a little while you will see me no more, and then after a little while you will see me,’ and ‘Because I am going to the Father’?”
+(16:17) Basi baadhi ya wanafunzi wake wakasemezana wao kwa wao, Ana maana gani kusema, Bado kitambo kidogo hamtaniona tena; na baada ya kitambo kidogo. nanyi mtaniona, na kwa sababu ninaenda kwa Baba?
 <br><br>
-(18) They kept asking, “What does He mean by ‘a little while’? We don’t understand what He is saying.”
+(16:18) Waliendelea kuuliza, “Anamaanisha nini kwa kusema ‘bado kitambo kidogo’? Hatuelewi anachosema.”
 <br><br>
-(19) Jesus saw that they wanted to ask Him about this, so He said to them, “Are you asking one another what I meant when I said, ‘In a little while you will see me no more, and then after a little while you will see me’?
+(16:19) Yesu alipoona walitaka kumwuliza juu ya jambo hilo, akawaambia, mnaulizana nilimaanisha nini niliposema baada ya muda mfupi hamtaniona tena, na baada ya muda mchache mtaniona?
 <br><br>
-(20) Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.
+(16:20) Amin, amin, nawaambia, mtalia na kuomboleza wakati ulimwengu ukifurahi. Mtahuzunika, lakini huzuni yenu itageuka kuwa furaha.
 <br><br>
-(21) A woman giving birth to a child has pain because her time has come; but when her baby is born, she forgets the anguish because of her joy that a child is born into the world.
+(16:21) Mwanamke anayezaa ana uchungu kwa sababu wakati wake umefika; lakini mtoto akizaliwa, husahau dhiki kwa sababu ya furaha yake kwamba mtoto amezaliwa ulimwenguni.
 <br><br>
-(22) So, with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy. </b>`,
+(16:22) Basi, pamoja nanyi: Sasa ni wakati wa huzuni yenu, lakini nitawaona tena nanyi mtafurahi, na hakuna mtu atakayewaondolea furaha yenu. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   When Jesus uttered the words, “In a little while, you will see me no more, and then after a little while you will see me,” people found it challenging to comprehend. In response, Jesus illustrated the concept using a parable of a woman giving birth. He conveyed that, just as the woman experiences pain during childbirth, the disciples would undergo some distress due to His departure. However, He reassured them that they would experience joy and gladness akin to the woman who forgets the pain once the child is born. Jesus addressed those present, acknowledging that there would be a period of pain caused by His leaving, but emphasized that this sorrow would be eclipsed by the joy upon His return.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Yesu aliposema maneno haya, “Bado kitambo kidogo hamtaniona tena, na baada ya kitambo kidogo mtaniona,” ilikuwa vigumu kwa watu kuelewa. Kwa kujibu, Yesu alionyesha wazo hilo kwa kutumia mfano wa mwanamke anayezaa. Alieleza kwamba, kama vile mwanamke anavyopata uchungu wakati wa kuzaa, wanafunzi wangepatwa na dhiki kwa sababu ya kuondoka Kwake. Hata hivyo, Aliwahakikishia kwamba watapata furaha na shangwe sawa na mwanamke ambaye husahau uchungu mara tu mtoto anapozaliwa. Yesu alihutubia wale waliokuwapo, akikiri kwamba kungekuwa na kipindi cha maumivu yatakayosababishwa na kuondoka kwake, lakini akakazia kwamba huzuni hiyo ingefunikwa na furaha atakaporudi.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "Injili ya Yohana",
 chapterNumber: 5,
 pageNumber: 145,
-verse: ` <b>(67)	The Gospel of John, 16th chapter, 25th verse. </b>`,
+verse: ` <b>(67)	Injili ya Yohana, sura ya 16, mstari wa 25. </b>`,
 meaning: `<b>
-(25) Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father.   </b>`,
+(16:25) Ingawa nimekuwa nikisema kwa njia ya mfano, wakati unakuja ambapo sitatumia tena lugha ya namna hii bali nitawaambia waziwazi juu ya Baba yangu.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The words of Jesus, as mentioned earlier, were acknowledged to be obscure, causing difficulty for people to understand and leading to confusion. Jesus Himself admitted to speaking figuratively to prevent immediate understanding. He also asserted, “I will not say figuratively in the future. I will tell you everything clearly.” However, even this statement appears somewhat ambiguous. Jesus declared that He would depart soon, and the Advocate with the Holy Spirit would come to elucidate everything. He clarified that the Advocate would only come if He left and that the disciples would be saddened by His departure but would rejoice upon seeing Him again. Now, He adds, <b>“So far, I said obscurely. When I come back, I will tell you everything clearly.”</b> This statement introduces a degree of uncertainty regarding whether the one coming is a different Advocate or if Jesus Himself will return.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Maneno ya Yesu, kama yalivyotajwa mwanzoni, yalikubaliwa kuwa hayaeleweki, yakisababisha ugumu wa watu kuelewa na kusababisha kuchanganyikiwa. Yesu Mwenyewe alikiri kusema kwa njia ya kitamathali ili kuzuia kuelewa mara moja. Pia alisisitiza, "Sitasema kwa njia ya mfano katika siku zijazo. Nitakuambia kila kitu kwa uwazi." Hata hivyo, hata taarifa hii inaonekana kuwa na utata. Yesu alitangaza kwamba atafanya kuondoka hivi karibuni, na Wakili na Roho Mtakatifu atakuja kufafanua kila kitu. Alifafanua kwamba Wakili huyo angekuja tu ikiwa ataondoka na kwamba wanafunzi wangehuzunishwa na kuondoka kwake lakini wangefurahi wakimwona tena. Sasa anaongeza, "<strong>Hadi sasa, nilisema kwa siri. Nitakaporudi, nitakuambia kila kitu kwa uwazi</strong>.&rdquo; Kauli hii inatanguliza kiwango cha kutokuwa na uhakika kuhusu kama anayekuja ni Wakili tofauti au kama Yesu Mwenyewe atarudi.</div></div>
 </span>`
 },
 {
-chapterName: "The Scripture of John Revelation",
+chapterName: "Ufunuo wa Yohana",
 chapterNumber: 6,
 pageNumber: 146,
-verse: ` <b>(14)	The John Revelation, 9th chapter, 4th, 5th and 6th verses.</b>`,
+verse: ` <b>(1) Ufunuo wa Yohana, sura ya 9, aya ya 4, ya 5, na ya 6..</b>`,
 meaning: `<b>
-(4) They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads.
+( 9:4 ) Waliambiwa wasidhuru nyasi za dunia wala mmea au mti wowote, bali wale tu amb ao hawakuwa na muhuri wa Mungu kwenye vipaji vya nyuso zao.
 <p>
 <div class="container">
           <img src="assets/img/Devunimudra_inside.png"   style="width:100%;">
           <div class="top-left">
-           <u> The Seal Of God</u>
+           <u>Muhuri wa Mungu</u>
           </div>
           <div class="top-right1">
-            Nature
+            Asili
            </div>
            <div class="top-right2">
-           Holy Spirit
+           Roho Mtakatifu
           </div>
           <div class="dm-top-right3">
-           Father
+           Baba
           </div>
           <div class="dm-top-right4">
-           Son
+           Mwana
           </div>
           <div class="dm-bottom-left2">
-            Body
+            Mwili
            </div>
           <div class="bottom-left">
-            <u> For All Religions</u>
+            <u> Kwa Dini Zote</u>
            </div>
         </div>
 </p>
-(5) They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes.
+(9:5) Hawakuruhusiwa kuwaua ila tu kuwatesa kwa muda wa miezi mitano. Na uchungu walioupata ulikuwa kama uchungu wa nge anapopiga.
 <br><br>
-(6) During those days people will seek death but will not find it; they will long to die, but death will elude them. </b>`,
+(9:6) Katika siku hizo watu watatafuta mauti lakini hawataiona; watatamani kufa, lakini mauti yatawaepuka. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"> <div class="poemtext">  The third verse preceding these verses, Revelation 9:3, states, <b>“Out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth.”</b> This verse indicates that the locusts emerged from the smoke. However, the smoke referred to here is not produced by burning wood or other materials. Instead, it is a dense cloud that appears at dawn on a winter day when the sun has not yet risen. This cloud reduces sunlight and creates darkness. The locust swarms come from this dark cloud. As they arrive on the earth in large groups like an army, they are known as “locust swarms.” No one knows exactly where the locusts come from, but they are believed to originate from the sky’s cloudy mist. Their birth and growth remain a mystery, and they emerge from the smoke in the void without any clear origin. Locust swarms can number in the hundreds, thousands, or even millions.
+<div class="poem"> <div class="poemtext">
+  Mstari wa tatu unaotangulia mistari hii, Ufunuo 9:3, unasema, &ldquo;<strong>Nzige wakashuka duniani kutoka katika moshi huo</strong><strong>wakapewa uwezo kama wa nge wa nchi</strong>.&rdquo; Mstari huu unaonyesha kwamba nzige walitoka katika moshi huo. Walakini, moshi unaorejelewa hapa hautolewi kwa kuchoma kuni au vifaa vingine. Badala yake, ni wingu zito linalotokea alfajiri siku ya kipupwe wakati jua halijachomoza. Wingu hili hupunguza mwanga wa jua na kuunda giza. Makundi ya nzige yanatoka kwenye wingu hili jeusi. Wanapofika duniani katika vikundi vikubwa kama jeshi, wanajulikana kuwa &ldquo;makundi ya nzige.&rdquo; Hakuna anayejua hasa mahali ambapo nzige hao wanatoka, lakini wanaaminika kuwa wanatoka kwenye ukungu wa anga wenye mawingu. Kuzaliwa na kukua kwao kunabaki kuwa kitendawili, na wanatoka kwenye moshi kwenye utupu bila asili yoyote iliyo wazi. Makundi ya nzige yanaweza kufikia mamia, maelfu, au hata mamilioni.
 
-  The locusts carry numerous diseases that afflict people. Though they may appear as ordinary locusts, they constitute an army of angels, serving as God’s servants, dispatched by His command. God ordered the locusts to afflict humans, and through His command, this army of locusts affects humanity. Emerging from an invisible realm, they hide and inflict bites on people, entering their bodies in the form of diseases and causing torment. God endowed them with as much poison as scorpions on the ground. Humans suffer considerably due to the arrival of locusts from the invisible world, serving as agents of suffering for human sins. They were instructed not to harm the grass of the earth, any plants, or trees except for humans. While the common assumption is that locusts harm grass, plants, and trees, the verse clarifies that these locusts do not harm vegetation but target humans. The origin of locusts, their sustenance, and their mission remain unknown to humans.
+  Nzige hubeba magonjwa mengi ambayo huwasumbua watu. Ingawa wanaweza kuonekana kama nzige wa kawaida, wanafanyiza jeshi la malaika, wanaotumikia wakiwa watumishi wa Mungu, wanaotumwa na amri Yake. Mungu aliamuru nzige wawatese wanadamu, na kupitia amri yake, jeshi hili la nzige huathiri wanadamu. Wanajitokeza kutoka kwa ulimwengu usioonekana, wanajificha na kuumwa kwa watu, wakiingia miili yao kwa namna ya magonjwa na kusababisha mateso. Mungu aliwajalia sumu nyingi kama nge ardhini. Wanadamu wanateseka sana kwa sababu ya kuwasili kwa nzige kutoka katika ulimwengu usioonekana, wakitumika kama wakala wa kuteseka kwa ajili ya dhambi za wanadamu. Waliagizwa wasidhuru nyasi za dunia, mimea yoyote, au miti isipokuwa kwa wanadamu. Ingawa dhana ya kawaida ni kwamba nzige hudhuru nyasi, mimea, na miti, mstari huo hufafanua kwamba nzige hao hawadhuru mimea bali huwalenga wanadamu. Asili ya nzige, riziki zao, na misheni yao bado haijulikani kwa wanadamu.
 
-  It is evident from the four verses mentioned here that the army of angels in the form of locusts comes to afflict humans. The army of God’s servants, taking the form of locusts, possesses the power to torment humans for up to five months, yet they lack the authority to cause death. When the locusts invisibly bite humans, they induce a disease that inflicts pain akin to the sting of a scorpion. The intensity of suffering varies based on individual karma, ranging from mild discomfort to the level of a scorpion sting. As no one can evade this pain, humans must endure it. The verse indicates that during severe suffering, people may wish for death as an escape, but they are not permitted to end their own lives. Hence, humans must endure the pain. The verse further conveys that even death eludes them, signifying that humans cannot escape the suffering caused by the locusts.
+  Ni wazi kutokana na mistari minne iliyotajwa hapa kwamba jeshi la malaika katika umbo la nzige huja kuwatesa wanadamu. Jeshi la watumishi wa Mungu, linalofanana na nzige, lina uwezo wa kuwatesa wanadamu hadi miezi mitano, lakini hawana mamlaka ya kusababisha kifo. Nzige hao wanapowauma wanadamu bila kuonekana, wao hutokeza ugonjwa ambao husababisha maumivu kama kuumwa na nge. Uzito wa mateso hutofautiana kulingana na karma ya mtu binafsi, kuanzia usumbufu mdogo hadi kiwango cha kuumwa na nge. Kwa kuwa hakuna anayeweza kukwepa maumivu haya, ni lazima wanadamu wayavumilie. Aya hiyo inaonyesha kwamba wakati wa mateso makali, watu wanaweza kutamani kifo kama njia ya kutoroka, lakini hawaruhusiwi kujikatia uhai wao wenyewe. Kwa hiyo, wanadamu wanapaswa kuvumilia maumivu. Mstari huo unaonyesha zaidi kwamba hata kifo huwakwepa, ikionyesha kwamba wanadamu hawawezi kuepuka mateso yanayosababishwa na nzige.
 
-  If the locusts, originating from invisible smoky clouds, come a hundred times, they may only become visible once. Remaining unseen, they can have various effects on humans, causing harm in the form of disease or through other means. The verse indicates that their harm is directed solely at humans and can manifest in any form. It is stated that humans will endure this harm because the locusts are commanded to inflict it. Even if humans seek death due to unbearable suffering, it remains elusive as death runs away from them. Although humans suffer in various ways from the “invisible locusts (servants)” that God has sent, they do not contemplate the causes of their suffering. They are unable to escape their suffering through God’s words.
+  Ikiwa nzige, wanaotokana na mawingu ya moshi usioonekana, wanakuja mara mia moja, wanaweza kuonekana mara moja tu. Zikibaki bila kuonekana, zinaweza kuwa na athari mbalimbali kwa wanadamu, na kusababisha madhara kwa namna ya ugonjwa au kwa njia nyinginezo. Aya inaashiria kwamba madhara yao yanaelekezwa kwa wanadamu pekee na yanaweza kudhihirika kwa namna yoyote ile. Imeelezwa kuwa wanadamu watafanya vumilia madhara haya kwa sababu nzige wameamrishwa kuwadhuru. Hata kama wanadamu watatafuta kifo kutokana na mateso yasiyovumilika, bado hayapatikani kwani kifo kinawakimbia. Ingawa wanadamu wanateseka kwa njia mbalimbali kutokana na &ldquo;nzige (watumishi) wasioonekana&rdquo; ambao Mungu ametuma, hawafikirii sababu za kuteseka kwao. Hawawezi kuepuka mateso yao kupitia maneno ya Mungu.
 
-  Many new diseases are emerging worldwide, yet humans often do not contemplate their origins. Identifying a new disease takes time, and finding a cure can be even more prolonged. Just as a cure is discovered for one ailment, another elusive one may surface. Alongside diseases, there are undiagnosable ailments and suffering. While some people acknowledge that invisible forces contribute to suffering, no one knows how to effectively address them. <b>The only way to avoid suffering caused by invisible angels is to wear the Seal of God, a symbol of God’s power. God commanded His servants to persecute only those who do not wear the Seal of God.</b> Though some believe that visible locusts can harm plants and trees, <b>God directed His invisible locusts to inflict harm solely upon those who lack the Seal of God on their foreheads.</b> In the final divine scripture, verses 5:22 and 22:32 mention the Seal of God. The Akshara Parabrahma Yoga of the first divine scripture, Bhagavad-Gita, hints at the Seal of God. In my scripture, <b>“The Seal of God,”</b> we detail how the Seal of God looks. Instead of questioning others, have faith in God and wear the Seal of God, as it is not tied to any particular religion. The Seal of God is mentioned in three divine scriptures. The Revelation of the Bible explains the disasters caused by not wearing the Seal of God. Christians should not hesitate to wear God’s seal; it is a matter of faith. <b>Regardless of your religion, protect yourself from suffering. Listen to me and wear “The Seal of God,” which was previously unknown. Protect yourself from suffering.</b>
-</div></div>
+  Magonjwa mengi mapya yanaibuka ulimwenguni pote, lakini mara nyingi wanadamu hawafikirii asili yao. Kutambua ugonjwa mpya huchukua muda, na kutafuta tiba kunaweza kuwa kwa muda mrefu zaidi. Kama vile dawa inavyogunduliwa kwa ugonjwa mmoja, ugonjwa mwingine ambao hauwezekani unaweza kutokea. Pamoja na magonjwa, kuna magonjwa na mateso yasiyotambulika. Ingawa watu wengine wanakubali kwamba nguvu zisizoonekana huchangia mateso, hakuna mtu anayejua jinsi ya kukabiliana nayo kwa ufanisi.<strong>Njia pekee ya kuepuka mateso yanayosababishwa na malaika wasioonekana ni kuvaa Muhuri wa Mungu, ishara ya nguvu za Mungu. Mungu aliwaamuru watumishi wake kuwatesa wale tu ambao hawavai Muhuri wa Mungu</strong>. Ingawa wengine wanaamini kwamba nzige wanaoonekana wanaweza kudhuru mimea na miti,<strong>Mungu alielekeza nzige wake wasioonekana kuwadhuru wale tu ambao hawana Muhuri wa Mungu kwenye vipaji vya nyuso zao.</strong>. Katika andiko la mwisho la kimungu, mistari 5:22 na 22:32 inataja Muhuri wa Mungu. Akshara Parabrahma Yoga ya maandiko ya kwanza ya Mungu, Bhagavad-Gita, inadokeza Muhuri wa Mungu. Katika maandiko yangu, "<strong>Muhuri wa Mungu</strong>,&rdquo; tunaeleza kwa undani jinsi Muhuri wa Mungu unavyoonekana. Badala ya kuhoji wengine, kuwa na imani katika Mungu na vaa Muhuri wa Mungu, kwa vile haufungamani na dini fulani. Muhuri wa Mungu umetajwa katika maandiko matatu ya kiungu. Ufunuo wa Biblia unaeleza maafa yanayosababishwa na kutovaa Muhuri wa Mungu. Wakristo hawapaswi kusita kuvaa muhuri wa Mungu; ni suala la imani.
+
+  <strong>Bila kujali dini yako, jilinde na mateso. Nisikilize na uvae &ldquo;Muhuri wa Mungu,&rdquo; ambao haukujulikana hapo awali. Jilinde na mateso.</strong></div></div>
 </span>`
 },
 {
-chapterName: "Three Fingers",
+chapterName: "Vidole Vitatu",
 chapterNumber: 7,
 pageNumber: 147,
 verse: ``,
 meaning: ``,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"> <div class="poemtext">  The portrait of Jesus seldom appears to people. Upon closer examination, <b> Jesus can be seen showing three fingers with His right hand.</b> Jesus imparted divine wisdom for approximately three years, and even after His death, His portrait appears to convey teachings to the people. While interpretations may vary, my understanding upon seeing the picture is that it contains a crucial message from Jesus’ teachings. In the first divine scripture, God is depicted in three parts - <b> Kshara, Akshara, and Purushottama.</b> Similarly, in the last divine scripture, God is described as having three aspects - <b> Passenger, Driver, and Witness.</b> In the second divine scripture, God is said to be in three parts - <b> Son, Father, and the Holy Spirit.</b> The three aspects of God are expounded in the Bhagavad-Gita, the Bible, and the Quran as the same wisdom. The fundamental wisdom in these three scriptures lies in understanding the three aspects of God. Once one comprehends the three aspects of God, complete understanding of God’s wisdom becomes possible.
+<div class="poem"> <div class="poemtext">
+  Picha ya Yesu inaonekana kwa watu mara chache. Baada ya uchunguzi wa karibu,<strong>Yesu anaweza kuonekana akionyesha vidole vitatu kwa mkono wake wa kulia</strong>. Yesu alitoa hekima ya kimungu kwa takriban miaka mitatu, na hata baada ya kifo Chake, picha Yake inaonekana kuwasilisha mafundisho kwa watu. Ingawa tafsiri zinaweza kutofautiana, uelewaji wangu ninapoona picha hiyo ni kwamba ina ujumbe muhimu kutoka kwa mafundisho ya Yesu. Katika andiko la kwanza la Mungu, Mungu anaonyeshwa katika sehemu tatu -<strong>Kshara, Akshara, na Purushottama</strong>. Vivyo hivyo, katika andiko la mwisho la kimungu, Mungu anaelezwa kuwa na mambo matatu - <strong>Abiria, Dereva, na Shahidi</strong>. Katika andiko la pili la kimungu,
 
-  However, Hindus reading the Bhagavad-Gita do not know who <b>Jeevatma (Kshara)</b> and <b> Atma (Akshara)</b> are. Similarly, Christians do not know who the Son and the Father are. Muslims do not know who <b> the Passenger and the Driver are.</b> In the Bhagavad-Gita that I wrote, I mentioned that Hindus are unaware of the perishable Jeeva, and the eternal God present in the body. In the Bible, I also noted that Christians do not understand the details of the two sons - <b> the Son and the Father.</b> Similarly, in the scripture <b> “The Diamond Verses in the Final Divine Scripture,”</b> I mentioned that Muslims do not know about the <b> two Allahs.</b> People of these three religions may have no idea about the other two parts of God, which are the main essence of their respective scriptures. The only term everyone recognizes is ‘God.’ Unknowingly, all of them are worshipping the third part, known as Purushottama in Bhagavad-Gita, the Holy Spirit in the Bible, and the Witness in the Quran. God Himself stated that it is not right to worship the third part of God (the Holy Spirit), who is beyond all worship and all dharmas. Yet, everyone worships <b> “the God who does not need anything.”</b> It can be said that human ignorance lies in not knowing that God does not need our worship.
+  Mungu anasemwa kuwa katika sehemu tatu -<strong>Mwana, Baba, na</strong><strong>Roho Mtakatifu</strong>. Mambo matatu ya Mungu yamefafanuliwa katika Bhagavad-Gita, Biblia, na Kurani kama hekima sawa. Hekima ya msingi katika maandiko haya matatu iko katika kuelewa mambo matatu ya Mungu. Mara tu mtu anapoelewa vipengele vitatu vya Mungu, ufahamu kamili wa hekima ya Mungu unawezekana.
 
-  Regarding Christians, they are unaware of the <b> “two Sons”</b> mentioned in their scripture. Although the Bible mentions two Sons, Christians believe there is only one Son and are not familiar with the wisdom of two Sons. They may not know that there are two Sons – <b>the Permanent Son and the Temporary Son.</b> The Bible refers to them as <b>the Son and the only begotten Son,</b> but Christians do not know who these two Sons are. Similarly, no one in any religion may know that there are two Gods - <b>the God, who is the Father, and the God, who is the Grandfather.</b> Even though this truth is scientifically presented in the scripture, some people may not believe it, and others deny the existence of two Gods altogether. Although the scriptures state that there is only one God to be worshipped, it is unclear whether this God is the Father or the Grandfather.
+  Hata hivyo, Wahindu wanaosoma Bhagavad-Gita hawafanyi hivyo WHO<strong>Jeevatma (Kshara)</strong>na<strong>Atma (Akshara)</strong>ni. Vivyo hivyo, Wakristo hawajui Mwana na Baba ni nani. Waislamu hawajui nani<strong>Abiria na Dereva ni</strong>. Katika Bhagavad-Gita niliyoandika, nilitaja kwamba Wahindu hawajui Jeeva inayoweza kuharibika, na Mungu wa milele aliye katika mwili. Katika Biblia, niliona pia kwamba Wakristo hawaelewi maelezo ya wana wawili -<strong>Mwana na Baba</strong>. Vile vile katika maandiko &ldquo;<strong>Mistari ya Almasi katika Maandiko ya Mwisho ya Kiungu</strong>,&rdquo; nilitaja kuwa Waislamu hawajui kuhusu<strong>Mwenyezi Mungu wawili</strong>. Watu wa dini hizi tatu wanaweza wasijue kuhusu sehemu nyingine mbili za Mungu, ambazo ndizo kiini kikuu cha maandiko yao husika. Neno pekee ambalo kila mtu anatambua ni 'Mungu.' Bila kujua, wote wanaabudu sehemu ya tatu, inayojulikana kama Purushottama katika Bhagavad-Gita, Roho Mtakatifu katika Biblia, na Shahidi katika Quran. Mungu mwenyewe alisema kwamba si sawa kuabudu sehemu ya tatu ya Mungu (Roho Mtakatifu), ambaye ni zaidi ya ibada zote na dharmas zote. Walakini, kila mtu anaabudu "<strong>Mungu asiyefanya hivyo</strong><strong>haja chochote</strong>.&rdquo; Inaweza kusemwa kwamba ujinga wa kibinadamu unatokana na kutojua kwamba Mungu hahitaji ibada yetu.
 
-  Those who possess divine wisdom and those who read the scriptures worship only one God based on their understanding. They may worship the <b>Grandfather-God</b>, who should not be worshipped, instead of the <b>Father-God</b>, who should be worshipped. The terms Father-God and Grandfather-God may seem new, but this matter is actually in their scriptures. People often fail to comprehend truthful wisdom. When someone shares the truth with them, they may react angrily and reject it. In my Bible, I read that there are two Sons - the Son of Man and the Son of God - and that the Holy Spirit, who is in the Grandfather position, should not be worshipped. Those who consider the Holy Spirit to be God and have been worshipping Him as such may now be in a state of confusion. Jesus taught significantly about the two Sons and the Holy Spirit. He even portrayed <b>“The two Sons and their Father, the Holy Spirit,”</b> using his fingers. Jesus used His right hand to show the two fingers - the index finger and the middle finger - and also the thumb. I understood that the thumb is an indication of the Holy Spirit in the portrait. Since God is the one who grants perceptive power to the intellect (buddhi), according to truthful wisdom, Jesus showed both the Father (Atma) and the Son (Bhagavan) with two fingers (index and middle). It is understood that they represent the permanent Son and the temporary Son. The scripture summarizes that <b>the Holy Spirit will not be known until those two Sons are known.</b> Everyone should know that the spiritual secret which should be known to the entire human society is <b>the matter of the two Sons.</b> If you look at Jesus’s three fingers in the picture on the next page, they remind us of the Holy Spirit and the two Sons - Atma and the only begotten Son.
+  Kuhusu Wakristo, hawajui &ldquo;<strong>Wana wawili</strong>&rdquo; waliotajwa katika andiko lao. Ingawa Biblia inataja Wana wawili, Wakristo wanaamini kwamba kuna Mwana mmoja tu na hawajui hekima ya Wana wawili. Labda hawajui kuwa kuna Wana wawili -<strong>Mwana wa Kudumu na Mwana wa Muda</strong>. Biblia inawataja kama <strong>Mwana na Mwana pekee</strong>, lakini Wakristo hawajui Wana hawa wawili ni akina nani. Vile vile hakuna mtu katika dini yoyote anayeweza kujua kwamba kuna Miungu wawili -<strong>Mungu, ambaye ni Baba, na Mungu, ambaye ni Babu</strong>. Ingawa ukweli huu umeonyeshwa kisayansi katika maandiko, baadhi ya watu wanaweza wasiuamini, na wengine wanakana kuwepo kwa Miungu wawili kabisa. Ijapokuwa maandiko yanasema kwamba kuna Mungu mmoja tu anayepaswa kuabudiwa, haijulikani ikiwa Mungu huyu ni Baba au Babu.
+
+  Wale walio na hekima ya kimungu na wale wanaosoma maandiko wanaabudu Mungu mmoja tu kulingana na ufahamu wao. Wanaweza kuabudu<strong>Babu-Mungu</strong>, ambaye hapaswi kuabudiwa, badala ya<strong>Baba-Mungu</strong>, anayepaswa kuabudiwa. Maneno Baba-Mungu na Babu-Mungu yanaweza kuonekana mapya, lakini jambo hili kwa hakika liko katika maandiko yao. Mara nyingi watu hushindwa kuelewa ukweli hekima. Mtu anaposhiriki nao kweli, wanaweza kuitikia kwa hasira na kuikataa. Katika Biblia yangu, nilisoma kwamba kuna Wana wawili - Mwana wa Adamu na Mwana wa Mungu - na kwamba Roho Mtakatifu, ambaye yuko katika nafasi ya Babu, hapaswi kuabudiwa. Wale wanaomchukulia Roho Mtakatifu kuwa Mungu na wamekuwa wakimuabudu hivyo wanaweza sasa kuwa katika hali ya kuchanganyikiwa. Yesu alifundisha sana kuhusu Wana wawili na Roho Mtakatifu. Hata alionyesha "<strong>Wana wawili na Baba yao, Roho Mtakatifu</strong>,&rdquo; akitumia vidole vyake. Yesu alitumia mkono wake wa kulia kuonyesha vidole viwili - cha shahada na cha kati - na pia kidole gumba. Nilielewa kuwa kidole gumba ni ishara ya Roho Mtakatifu kwenye picha. Kwa kuwa Mungu ndiye anayewapa wenye akili (buddhi) nguvu za utambuzi, kulingana na hekima ya kweli, Yesu alionyesha Baba (Atma) na Mwana (Bhagavan) kwa vidole viwili (index na katikati). Inaeleweka kwamba zinawakilisha Mwana wa kudumu na Mwana wa muda. Maandiko yanafupisha hilo<strong>Roho Mtakatifu hatajulikana mpaka wale Wana wawili wajulikane</strong>. Kila mtu anapaswa kujua kwamba siri ya kiroho ambayo inapaswa kujulikana kwa jamii nzima ya wanadamu ni<strong>suala la Wana wawili</strong>. Ukitazama vidole vitatu vya Yesu kwenye picha kwenye ukurasa unaofuata, vinatukumbusha juu ya Roho Mtakatifu na Wana wawili - Atma na Mwana pekee.
 </div></div>
 <ion-row><ion-col class="ion-text-center">
 <img src="assets/img/jesus.png"/>
@@ -2615,30 +2771,29 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "Good Friday! - Bad Friday!",
+chapterName: "Ijumaa Kuu au Ijumaa Mbaya?!",
 chapterNumber: 8,
 pageNumber: 148,
 verse: ``,
 meaning: ``,
 pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"> <div class="poemtext"> Certain events in life bring happiness, while others bring sorrow to a person. During moments of joy, an individual is cheerful and enjoys good food and clothing. Conversely, when faced with sorrow, one loses appetite and interest in various aspects of life. The Diwali festival in India, for example, is celebrated with firecrackers to commemorate the defeat of the wicked demon Narakasura on that day. In ancient times, the scribes, Pharisees, and scholars who brought Jesus before the court and orchestrated His execution rejoiced over His death. They annually celebrated Jesus’ death anniversary as Good Friday, considering it a day of happiness. Since then, the festival has been known as ‘Good Friday.’
+<div class="poem"> <div class="poemtext">
+Matukio fulani maishani huleta furaha, na mengine huleta huzuni kwa mtu. Wakati wa furaha, mtu huwa mchangamfu na anafurahia chakula na mavazi mazuri. Kinyume chake, mtu anapokabiliwa na huzuni, hupoteza hamu ya kula na kupendezwa na mambo mbalimbali ya maisha. Tamasha la Diwali nchini India, kwa mfano, husherehekewa na fataki kuadhimisha kushindwa kwa pepo mwovu Narakasura siku hiyo. Katika nyakati za kale, waandishi, Mafarisayo, na wasomi waliomleta Yesu mbele ya mahakama na kuandaa mauaji Yake walishangilia kifo Chake. Kila mwaka walisherehekea ukumbusho wa kifo cha Yesu kuwa Ijumaa Kuu, wakiiona kuwa siku ya furaha. Tangu wakati huo, tamasha hilo limejulikana kama 'Ijumaa Njema.'
 
-In the early days, individuals who were unaware of Jesus’ greatness, along with the scribes and scholars, celebrated the festival. This occurred when Jesus’ value and wisdom were unknown. In the present time, even those who are familiar with Jesus’ wisdom are celebrating the day of Jesus’ death as Good Friday. While it is customary to celebrate joyfully on a good day, the day Jesus died is expected to be a painful day for His devotees. It is surprising to witness Christians, who profess Jesus as their God, happily wearing new clothes and eating good food without expressing grief over Jesus’death on that day.
+Katika siku za mapema, watu ambao hawakujua ukuu wa Yesu, pamoja na waandishi na wasomi, walisherehekea sikukuu hiyo. Hii ilitokea wakati thamani na hekima ya Yesu haikujulikana. Katika wakati huu, hata wale wanaofahamu hekima ya Yesu wanaadhimisha siku ya kifo cha Yesu kuwa Ijumaa Kuu. Ingawa ni desturi kusherehekea siku njema kwa furaha, siku ambayo Yesu alikufa inatarajiwa kuwa siku yenye uchungu kwa waja Wake. Inashangaza kuwashuhudia Wakristo wanaomkiri Yesu kuwa Mungu wao, wakivaa nguo mpya kwa furaha na kula chakula kizuri bila kuonyesha huzuni juu ya kifo cha Yesu siku hiyo.
 
-Indeed, the day when Jesus was killed should be labeled as a ‘Bad Day.’ Jesus’ devotees should express sorrow and refrain from eating on that day. It is perplexing to celebrate the day as a festival and name it ‘Good Friday’ as if it were a day of goodness. Even those who consider Jesus their family God participate in the celebration, revealing their lack of understanding of Jesus’ value. Those who deeply revere Jesus should regard that day as a ‘Bad Friday.’ Preachers bear the responsibility of educating people about the significance of Bad Friday and discouraging them from celebrating it. Individuals who fail to distinguish between a death day and a birthday lack an understanding of the greatness of God’s wisdom. When the head of a family passes away, the entire family mourns, and the same reverence should be given when Jesus, who should be esteemed more than a family member, dies. Celebrating Jesus’ death as a festival without grief is a mistake, assuming it to be an auspicious day. Jesus said, <b>“Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.”</b> When people mourn the death of a family member but do not mourn Jesus’ death and instead celebrate it as a festival, how can they be worthy of Jesus’ mercy? Therefore, let us refer to Good Friday as a ‘Bad Friday’ to honor Jesus. It becomes an act of reverence to Jesus when we consider that day as an evil day and mourn without celebrating it. Otherwise, <b>we express admiration for Jesus only with our words, not in our hearts.</b> If you honor, love, worship, and pray to Jesus, then propagate the notion of Good Friday as Bad Friday and help everyone understand it. Then you will become a true devotee of Jesus. When you forsake Good Friday, nothing bad happens to you; only good things occur.
+Kwa kweli, siku ambayo Yesu aliuawa inapaswa kuitwa 'Siku Mbaya.' Waja wa Yesu wanapaswa kuonyesha huzuni na kujizuia kula siku hiyo. Inashangaza kusherehekea siku kama sikukuu na kuiita 'Ijumaa Kuu' kana kwamba ni siku ya wema. Hata wale wanaomwona Yesu kuwa familia yao kama Mungu hushiriki katika sherehe hiyo, ikionyesha kutoelewa kwao thamani ya Yesu. Wale wanaomheshimu sana Yesu wanapaswa kuiona siku hiyo kuwa 'Ijumaa Mbaya.' Wahubiri hubeba jukumu la kuelimisha watu kuhusu umuhimu wa Ijumaa Mbaya na kuwakatisha tamaa wasiiadhimishe. Watu wanaoshindwa kutofautisha kati ya siku ya kifo na siku ya kuzaliwa hukosa ufahamu wa ukuu wa hekima ya Mungu. Kichwa cha familia kinapokufa, familia nzima inaomboleza, na heshima hiyohiyo inapaswa kutolewa wakati Yesu, ambaye anapaswa kuheshimiwa zaidi ya mshiriki wa familia, anapokufa. Kusherehekea kifo cha Yesu kama sikukuu isiyo na huzuni ni kosa, tukichukulia kuwa siku njema. Yesu alisema, &ldquo;<strong>Yeyote anayempenda baba yake au mama yake kuliko mimi, hanistahili; yeyote anayependa mwana au binti yake kuliko mimi hanistahili</strong>.&rdquo; Watu wanapoomboleza kifo cha mshiriki wa familia lakini hawaombolezi kifo cha Yesu na badala yake kusherehekea kama sikukuu, wanawezaje kustahili rehema ya Yesu? Kwa hiyo, tuitaje Ijumaa Kuu kuwa ni &lsquo;Ijumaa Mbaya&rsquo; ili kumheshimu Yesu. Inakuwa ni kitendo cha kumcha Yesu tunapoichukulia siku hiyo kuwa ni siku mbaya na kuomboleza bila kuiadhimisha. Vinginevyo,<strong>tunaonyesha kupendezwa na Yesu kwa maneno yetu tu, si katika mioyo yetu</strong>. Ikiwa unaheshimu, upendo, abudu, na usali kwa Yesu, kisha ueneze dhana ya Ijumaa Kuu kuwa Ijumaa Mbaya na usaidie kila mtu kuielewa. Kisha utakuwa mcha Mungu wa kweli wa Yesu. Unapoiacha Ijumaa Kuu, hakuna jambo baya linalokupata; mambo mazuri tu hutokea.
+
+ <strong>Na</strong>
+ <strong>Guru Pekee wa Dini Tatu</strong>
+ <strong>Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu</strong>
+ <strong>Ingawa watu elfu moja wanaunga mkono - uwongo hauwezi kuwa ukweli.</strong>
+ <strong>Ingawa watu elfu moja wanakataa - ukweli hauwezi kuwa uwongo.</strong>
 </div></div>
-<ion-row><ion-col class="ion-text-center">
-Yours
-The Only Guru of Three Religions<br>
-<b>Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu</b><br><br>
-
-Although one thousand persons support - a lie cannot become truth. <br>
-Although one thousand persons negate - truth cannot become a lie.
-</ion-col></ion-row>
 </span>`
 },
 {
-chapterName: "A Letter From A Hindu",
+chapterName: "Barua kutoka kwa Mhindu",
 chapterNumber: 9,
 pageNumber: 149,
 verse: ``,
@@ -2647,64 +2802,65 @@ pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem">
 <div class="poemtext">
-<i>First, prostrations to Swami.... </i>
+  <em>Kwanza, kusujudu kwa Swami&hellip;.</em>
 
-Jai Srirama! My name is Pittala Thirumalesha, age 36, Nalgonda village, Telangana district. Occupation: Job, Caste: Mudiraju (Boya caste), Religion: Hindu religion, Father’s occupation: First farmer later rickshaw puller, Mother’s occupation: fruit seller, My education: <b>M.Sc., B.Ed. (Mathematics). </b>.
+  Jai Srirama! Jina langu ni Pittala Thirumalesha, umri wa miaka 36, kijiji cha Nalgonda, wilaya ya Telangana. Kazi: Ayubu, Jamii: Mudiraju (tabaka la Boya), Dini: Dini ya Kihindu, Kazi ya baba: Mkulima wa kwanza baadaye mvuta riksho, Mama kazi:<strong>(Hisabati).</strong> matunda muuzaji,&nbsp;Yangu&nbsp;elimu:<strong>M.Sc.,&nbsp;B.Mh.</strong>
 
-Sir, I am writing this letter with the intent that my spiritual introduction will do something good for this society. After reading your scripture,  <b>“Gems in the Second Divine Scripture,” </b> I wanted to write this letter. It seems that writing scripture on the Bible is the most audacious act of a Hindu (Indhu) Swamiji. Many think that a Swamiji may write Bhagavad-Gita but not Bible. I have already read your scriptures, the Bhagavad-Gita, and the Quran. Now I have also learned the wisdom of the Bible through your writing. I understood the divine wisdom in the three scriptures of the three religions through you. Knowing the current state of society, I am expressing some of my views with good intentions through this letter.
+  Mheshimiwa, ninaandika barua hii kwa nia kwamba utangulizi wangu wa kiroho utafanya kitu kizuri kwa jamii hii. Baada ya kusoma andiko lako, &ldquo;<strong>Vito katika Maandiko ya Pili ya Kimungu</strong>,&rdquo; nilitaka kuandika barua hii. Inaonekana kwamba kuandika maandiko juu ya Biblia ndilo tendo la ujasiri zaidi la Hindu (Indhu) Swamiji. Wengi wanafikiri kwamba Mswamiji anaweza kuandika Bhagavad-Gita lakini si Biblia. Tayari nimesoma maandiko yako, Bhagavad-Gita, na Quran. Sasa pia nimejifunza hekima ya Biblia kupitia maandishi yako. Nilielewa hekima ya kimungu katika maandiko matatu ya dini tatu kupitia kwako. Kwa kujua hali ya sasa ya jamii, natoa baadhi ya maoni yangu kwa nia njema kupitia barua hii.
 
-The first scripture that I read is <b>“The Secret of Bermuda Triangle.”</b> Through this scripture, I learned the secret of why planes and ships disappear into the Bermuda Triangle. I am so glad to have realized this strange fact that was like a Hollywood movie. Then read the scripture <b> “Ghosts - Bhutas (The Real Incidents)”</b> and came to know scientific information about the  <b> “invisible(subtle) world.”</b> Besides, I was so surprised when I came to know how God’s government and the Divine Law operate, and I thank my God for knowing the greatest mystery. I then read the scriptures <b> “The Story of a Truth Seeker”</b> and  <b> “Sri Krishna God or Bhagavan?”</b> I was so happy to learn a great secret from the scripture  <b> “Sri Krishna God or Bhagavan?”</b> Now that I have found a destination for my life, I am happy to have visited Krishna temple at Prabodhashramamu, Chinna Podamala, and worshipped Lord Krishna. Since visiting the Prabodhashramam in July 2012, I am thrilled with joy every day for absorbing the wisdom from your 93 scriptures and 150 lectures.
+  Andiko la kwanza nililosoma ni<strong>"Siri ya Pembetatu ya Bermuda."</strong>Kupitia andiko hili, nilijifunza siri ya kwa nini ndege na meli zinatoweka kwenye Pembetatu ya Bermuda. Nimefurahi sana kugundua ukweli huu wa kushangaza ambao ulikuwa kama sinema ya Hollywood. Kisha soma andiko hilo<strong>"Ghosts - Bhutas (Matukio ya Kweli)"</strong>na nikaja kujua habari za kisayansi kuhusu &ldquo;ulimwengu usioonekana (uliofichika).&rdquo; Isitoshe, nilishangaa sana nilipopata kujua jinsi serikali ya Mungu na Sheria ya Kimungu inavyofanya kazi, nami namshukuru Mungu wangu kwa kujua fumbo kuu zaidi. Kisha nikasoma maandiko<strong>"Hadithi ya Ukweli</strong>
 
-Through the scripture <b>“Temple Traditions (Hidden Truths),”</b> I learned about the significance of temples. I have grasped the true meaning of the suppressed traditions from <b> “Indu Sampradayas (Traditions).”</b> From the scripture <b> “Mana Pandugalu (Our Festivals)”</b> I have not only understood the meaning of <b> ‘Pandu (fruit)’</b> in <b> “Panduga (festival)”</b> but also understood the essential purpose of festivals and the intent of our elders’ pre-planned thought. As you said in this scripture, it is a hundred percent true that first spiritual development and then personal development and later social development take place. Every scripture that comes from you is a wisdom mine. Every preaching is a dharma treasure. Your words are beneficial not only to humans but also to all living things. This is the truth that I am telling after experiencing over the past six years.
+  <strong>Mtafutaji&rdquo;</strong>na<strong>"Sri Krishna Mungu au Bhagavan?"</strong>Nilifurahi sana kujifunza siri kuu kutoka kwa maandiko "Sri Krishna God au Bhagavan?" Kwa kuwa sasa nimepata mahali pa kuishi, nina furaha kuwa nimetembelea hekalu la Krishna huko Prabodhashramamu, Chinna Podamala, na kumwabudu Bwana Krishna. Tangu nilipotembelea Prabodhashramam mnamo Julai 2012, ninafurahishwa na furaha kila siku kwa kunyonya hekima kutoka kwa maandiko yako 93 na mihadhara 150.
 
-I was despondent when your religion Hindus said derogatory words against you, the great emperor. But I am sharing some information through this letter to make everyone aware of the facts.
+  Kupitia maandiko<strong>"Mapokeo ya Hekalu (Ukweli Uliofichwa),&rdquo;</strong>Nilijifunza kuhusu umuhimu wa mahekalu. Nimeelewa maana halisi ya mila zilizokandamizwa kutoka<strong>"Indu Sampradayas (Mila).&rdquo;</strong>Kutoka kwa maandiko<strong>"Mana Pandugalu (Sherehe zetu)&rdquo;</strong>Sijaelewa tu maana ya 'Pandu (tunda)' katika &ldquo;Panduga (sherehe)&rdquo; lakini pia nimeelewa madhumuni muhimu ya sherehe na dhamira ya mawazo yaliyopangwa mapema ya wazee wetu. Kama ulivyosema katika andiko hili, ni kweli asilimia mia kwamba maendeleo ya kwanza ya kiroho na kisha maendeleo ya kibinafsi na baadaye maendeleo ya kijamii hufanyika. Kila andiko linalotoka kwako ni langu la hekima. Kila mahubiri ni hazina ya dharma. Maneno yako ni ya manufaa si kwa wanadamu tu bali pia kwa viumbe vyote vilivyo hai. Huu ndio ukweli ninaoueleza baada ya kuupitia kwa muda wa miaka sita iliyopita.
 
-Thraitha Theorem Bhagavad-Gita conveyed the real message of Lord Krishna. Swami’s scriptures <b> “Wisdom words in the Last Divine Scripture (704 pages)”</b> and <b> “Diamonds in the Last Divine Scripture”</b> made the world understand the divine wisdom which Gabriel (The Sun) sent to Prophet Mohammed. The scripture of the Yogeeswarlu <b> “Gems in the Second Divine Scripture (352 pages)”</b> conveyed the real message of Jesus’ Gospels.
+  Nilikata tamaa wakati dini yako Wahindu waliposema maneno ya dharau dhidi yako, mfalme mkuu. Lakini mimi niko kushiriki baadhi ya taarifa kupitia barua hii ili kufanya kila mtu kufahamu ukweli.
 
-Here is my appeal to the intellectuals dwarfed with religious hatred, merciless religious demons, incomplete gnanis who are mad about the religion, political monsters who do not know the value of ashram, false prophets who mislead society with caste scabies and religious madness, rationalists who do not know the reason, truth-finding communities that are not aware of the truth, and elders who are pushing the society into superstition using the words God, Soul, worship, and wisdom. Please read at least one of Swami’s scriptures thoroughly to know the greatness of the <b>“Thraitha Theorem”</b> and pay close attention to what it says. Let us observe one of Swami’s words.
+  Thraitha Theorem Bhagavad-Gita aliwasilisha ujumbe halisi wa Lord Krishna. Maandiko ya Swami<strong>"Maneno ya hekima katika Maandiko ya Mwisho ya Kimungu (kurasa 704)&rdquo;</strong>na<strong>" Almasi katika Maandiko ya Mwisho ya Kimungu&rdquo;</strong>iliufanya ulimwengu kuelewa hekima ya kimungu ambayo Jibril (Jua) alimtuma Mtume Muhammad. Maandiko ya Yogeeswarlu<strong>"Vito katika Maandiko ya Pili ya Kimungu (kurasa 352)&rdquo;</strong>iliwasilisha ujumbe halisi wa Injili za Yesu.
 
-<b>“Religions are prohibited. Castes are irrational. All three - The Bhagavad-Gita, the Bible, and the Quran - are parts of the same divine scripture. If your feeling goes beyond caste, immediately join the Prabodha Seva Samithi. God wants you to be gnani – Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu”</b>
+  Huu hapa ni wito wangu kwa wasomi waliogubikwa na chuki za kidini, mashetani wa kidini wasio na huruma, wazimu wasiokamilika wenye wazimu wa dini, majini wa kisiasa wasiojua thamani ya ashram, manabii wa uongo wanaopotosha jamii kwa upele wa tabaka na wazimu wa kidini, wenye akili timamu ambao hawajui sababu, jumuiya za kutafuta ukweli ambazo hazifahamu ukweli, na wazee wanaoiingiza jamii katika ushirikina kwa kutumia maneno Mungu, Nafsi, ibada na hekima. Tafadhali soma angalau moja ya maandiko ya Swami vizuri ili kujua ukuu wa<strong>"Thraitha Theorem&rdquo;</strong>na uzingatie sana kile inachosema. Hebu tuzingatie moja ya maneno ya Swami.
 
-Swamiji not only said above words but also performed inter-caste and inter-religion marriages. He also married another caste woman. Is it religious hatred and poisonous writing on such a great Swami? Men, you think once with discretion.
+  <strong>&ldquo;Dini ni marufuku. Castes hawana akili. Zote tatu - Bhagavad-Gita, Biblia, na Quran &ndash; ni</strong><strong>sehemu za maandiko sawa ya kimungu. Ikiwa hisia zako zitapita zaidi ya tabaka, jiunge mara moja na Prabodha Seva Samithi. Mungu anataka uwe gnani - Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu&rdquo;</strong>
 
-Swami’s scriptures conveyed the real wisdom of Vemana poems. They tell the real meaning of philosophical poems of Veerabrahmam. The Atmalinga Shatakam conveyed spiritual information. He has provided many of the greatest secrets unknown to the world and the divine information that contributes to humanity’s spiritual prosperity. Many atheists who have grasped wisdom from his scriptures have become true believers. Even the fools became rationalists. Blind believers became spiritual scientists with the scientific approach. Even terrorists have changed and became gnanis.
-<b>
-  A Hindu who knows his wisdom is a true Indu (true gnani).<br>
-  A Christian who knows his wisdom is a true Christian (true believer of God).<br>
-  A Muslim who knows his wisdom is a true Muslim (truly obedient to God).
-  </b>
+  Swamiji sio tu alisema maneno hapo juu lakini pia alifunga ndoa kati ya tabaka na dini. Pia alioa mwanamke mwingine wa tabaka. Je, ni chuki ya kidini na maandishi yenye sumu kwenye Swami kubwa kama hiyo? Wanaume, mnafikiri mara moja kwa busara.
 
-His scriptures eradicate karma and forgive sin. If you put His scripture on the body where you have pain with devotion and belief, it will cling without any support until it destroys the karma that caused it and provides relief. While this may come as a surprise, it is a blatant truth told based on my experience.
+  Maandiko ya Swami yaliwasilisha hekima halisi ya mashairi ya Vemana. Wanasema maana halisi ya mashairi ya kifalsafa ya Veerabrahmam. Atmalinga Shatakam aliwasilisha habari za kiroho. Ametoa siri nyingi kuu zisizojulikana kwa ulimwengu na habari za kimungu ambazo huchangia ustawi wa kiroho wa wanadamu. Wakana Mungu wengi ambao wameshika hekima kutoka katika maandiko yake wamekuwa waumini wa kweli. Hata wajinga wakawa wanarationalists. Waumini vipofu wakawa wanasayansi wa kiroho kwa mbinu ya kisayansi. Hata magaidi wamebadilika na kuwa gnanis.
 
-It is through His writings that the world has come to know the truth about ‘Bhagavan Ravana Brahma,’ the incarnation of God in Thraitha Yuga. Even Sita Devi, who everyone claims to be the victim, did not accuse Ravana Brahma. Why couldn't the Aryans who wrote the Ramayana tell the age of Ravana Brahma at the time of Sita's kidnap? If this question were answered, the original hidden stories of the Ramayana would come out. Ravana Brahma visited Sita Devi in Ashokavana with wife Mandodari and Meghnaad, but why was he portrayed as a vicious man? Even though the elderly Ravana Brahma did not attend Sita’s swayamvara, is it not a shame to write that he was unable to lift the Shiva’s bow in Sita’s swayamvara? When he took Sita, his daughter, without touching her to his kingdom Sri Lanka, would you falsely write that he was a lustful man? Some selfish people have planned conspiracies against him, saying that he took her with lust; how is this possible based on what you said that anyone who touched Sita would be burnt to death? At least for now, this community should know the truth in Ramayana. Mandodari Devi, who knew the secret that Sita’s suffering, and incarnation of Bhagavan Ravana Brahma would end soon, used to tell people of her kingdom that Ravana Brahma brought Sita to Lanka for the welfare of Sita. We wish to see the portraits of the great Sri Bhagavan Ravana Brahma and Srimati Mandodari Devi.
+  <b>Mhindu anayejua hekima yake ni Indu wa kweli (gnani wa kweli). </b>
+  <b>Mkristo anayejua hekima yake ni Mkristo wa kweli (mwamini wa kweli wa Mungu).</b>
+  <b>Mwislamu anayejua hekima yake ni Muislamu wa kweli (mtiifu kwa Mungu).</b>
 
-You do not really know who you are. Do not put unnecessary junk messages on Facebook and YouTube, and when you blaspheme, you will accumulate years of karma. Do not listen if you do not have to. When you do not know dharma’s definition and how many dharmas, do not call gnanis for debate on the public TV.
+  Maandiko yake yanaondoa karma na kusamehe dhambi. Ukiweka andiko Lake juu ya mwili ambapo una maumivu kwa kujitolea na imani, itashikamana bila msaada wowote mpaka itaharibu karma iliyoisababisha na kutoa ahueni. Ingawa hii inaweza kushangaza, ni ukweli mtupu unaosemwa kulingana na uzoefu wangu.
 
-Thraitha Theorem is the real standard. This standard is used to measure the level of religious hatred. The world will come to know how much wisdom there is in religions, and how much hatred there is in religions through wisdom in Thraitha Theorem. Thraitha Theorem wisdom reveals to this world how much wisdom there is in religions, and how much hatred there is in religions. Prabodha Seva Samiti and its five affiliates firmly believe that whatever happens will happen with God’s permission.
+  Ni kupitia maandishi Yake ambapo ulimwengu umepata kujua ukweli kuhusu 'Bhagavan Ravana Brahma,' umwilisho wa Mungu katika Thraitha Yuga. Hata Sita Devi, ambaye kila mtu anadai kuwa mwathirika, hakumshtaki Ravana Brahma. Kwa nini Waarya walioandika Ramayana hawakuweza kueleza umri wa Ravana Brahma wakati wa kutekwa nyara kwa Sita? Ikiwa swali hili lingejibiwa, hadithi za asili zilizofichwa za Ramayana zingetoka. Ravana Brahma alimtembelea Sita Devi huko Ashokavana akiwa na mke Mandodari na<u>Meghnaad,</u> lakini kwa nini alionyeshwa kuwa mtu katili? Hata ingawa mzee Ravana Brahma hakuhudhuria swayamvara ya Sita, si aibu kuandika kwamba hakuweza kuinua upinde wa Shiva katika swayamvara ya Sita? Alipomchukua Sita, binti yake, bila kumgusa kwa ufalme wake Sri Lanka, ungeweza kuandika kwa uongo kwamba alikuwa mtu mwenye tamaa? Baadhi ya watu wenye ubinafsi wamepanga njama dhidi yake, wakisema kwamba alimchukua kwa tamaa; hii inawezekanaje kulingana na ulichosema kuwa mtu yeyote aliyemgusa Sita atachomwa moto hadi kufa? Angalau kwa sasa, jumuiya hii inapaswa kujua ukweli huko Ramayana. Mandodari Devi, ambaye alijua siri ya mateso ya Sita, na kupata mwili ya Bhagavan Ravana Brahma ingeisha hivi karibuni, alikuwa akiwaambia watu wa ufalme wake kwamba Ravana Brahma alimleta Sita Lanka kwa ajili ya ustawi wa Sita. Tunataka kuona picha za Sri Bhagavan Ravana Brahma na Srimati Mandodari Devi.
 
-<b>Prabodhashramam is the only organization that brings spiritual development.</b> All other organizations work for personality development and a better society. But everyone should recognize that if spiritual development does not happen, personality and social development will not occur.
+  Hujui kweli wewe ni nani. Usiweke jumbe zisizo za lazima kwenye Facebook na YouTube, na unapokufuru, utakusanya miaka ya karma. Usikilize ikiwa sio lazima. Wakati hujui ufafanuzi wa dharma na dharma ngapi, usiite gnanis kwa mjadala kwenye TV ya umma.
 
-The wisdom of Yogeeswarlu is caste-free and religion-free. That is why people of ll religions - Hindus, Muslims, and Christians - come to him with harmony and are happy to know the real divine wisdom. As Veerabrahmam said, His wisdom is uniting all three religions. Brahmam said in Kalagnanam (prophecy), <b>“All the great demi-gods (devatas) are at Anandashramam.”</b> Devatas came and spoke with joy to learn the wisdom of their father. He also said, <b>“Prabodhashramam has the highest level of wisdom. Those in Prabodhashramam consist of attributes of Almighty. That almighty was only Ananda Guru. Ananda Guru is Guru to you and me as well.”</b> Such messages of words spoken by Brahmam himself are found in Swami’s scriptures. You should grasp God’s wisdom with discretion and diligence.
+  Thraitha Theorem ndiye kiwango halisi. Kiwango hiki kinatumika kupima kiwango cha chuki ya kidini. Ulimwengu utakuja kujua ni hekima ngapi katika dini, na ni chuki kiasi gani katika dini kupitia hekima katika Thraitha Theorem. Hekima ya Thraitha Theorem inaufunulia ulimwengu huu jinsi hekima ilivyo katika dini, na jinsi dini zinavyochukia. Prabodha Seva Samiti na washirika wake watano wanaamini kabisa kwamba lolote litakalotokea litatokea kwa idhini ya Mungu.
 
-Are those who do not read Bhagavad-Gita are saviors of Hindu dharmas? Will the fools, who do not know the injustice in history, uphold the Hindu religion? Can you build an equal society without knowing the “Secret of the beginning” and “Secret of creation?” Recognize the goodness in the scriptures by reading with patience and without religious hatred. If you feel bad, leave it. There is no rule that everyone should believe it. <b>The Thraitha Siddantha scriptures and teachings,</b> which are so beneficial to humanity and have a rational scientific and spiritual consciousness and reveal the secrets of <b>Brahma, Karma, and Bhakti Yogams</b> in detail with Jeevatma, Atma and Paramatma, are essential to the present society.
+  <strong>Prabodhashramam ndio shirika pekee linaloleta maendeleo ya kiroho</strong>. Mashirika mengine yote hufanya kazi kwa maendeleo ya mtu binafsi na jamii bora. Lakini kila mtu inapaswa kutambua kwamba ikiwa maendeleo ya kiroho hayatatokea, utu na maendeleo ya kijamii hayatatokea.
 
-The organizations - UNO, World Peace Council, Police Act, IPC, CrPC, Prison Acts, CBI, CBCID, Intelligence Reports, ACB, Human Rights Watch, Woman Rights, SC ST Atrocities Act, Indian Trusts Act, Muslim Law, Christian Law, Labor Acts, Central Government GOs, State Government GOs, Election Commission, Indian Constitution, Indian Courts, RTI Act, Information Technology Act 2000 – exist, in fact, for the sake of human welfare. Spiritual institutions have a responsibility for telling people what kind of wisdom is suitable for their welfare. Prabodhashramam and its affiliates take first place in such responsible institutions. Above all, we must not forget that there is also <b>“Divine Law and Divine Administration.”</b>
+  Hekima ya Yogeeswarlu haina tabaka na haina dini. Ndiyo maana watu wa dini zote - Wahindu, Waislamu, na Wakristo - wanakuja kwake kwa upatano na wanafurahi kujua hekima halisi ya kimungu. Kama Veerabrahmam alivyosema, hekima Yake ni kuunganisha dini zote tatu. Brahmam alisema katika Kalagnanam (unabii), "<strong>Miungu yote mikuu (devatas) iko Anandashramam.</strong>&rdquo; Devatas alikuja na kuzungumza kwa furaha kujifunza hekima ya baba yao. Pia alisema, &ldquo;<strong>Prabodhashramam ina kiwango cha juu cha hekima. Zile zilizo katika Prabodhashramam zinajumuisha sifa za Mwenyezi. Mwenye nguvu huyo alikuwa Ananda Guru tu. Ananda Guru ni Guru kwako na mimi pia.</strong>&rdquo; Jumbe kama hizo za maneno zilizosemwa na Brahmam mwenyewe zinapatikana katika maandiko ya Swami. Unapaswa kufahamu hekima ya Mungu kwa busara na bidii.
 
-The essence of the three divine scriptures is to explain about the three souls. Life without divine wisdom is a waste. God gave life to man only to know God’s wisdom. God’s wisdom is beyond caste and religion. Yogeeswarlu provided the true meaning of Lord Krishna’s wisdom through the ‘first divine scripture Bhagavad-Gita.’ He gave us the Quran wisdom, which came to Prophet Muhammad through Gabriel, in the scriptures ‘Wisdom words in the Last Divine Scripture’ and ‘Diamonds in the Last Divine Scripture.’ He told us Jesus’ Gospel wisdom in ‘Gems in the Second Divine Scripture.’ He is giving us practical real divine wisdom through scriptures and teachings. Know the wisdom that He said and wear the Seal of God and receive forgiveness of sins. If you listen carefully and practice it, you are lucky. If you do not listen, that is your karma. Everything is happening according to God’s will, and God knows it.
-<b>
-Hindus should know which God to worship. Muslims need to know who the
-two Allahs (the two creators) are. Christians need to know who the two sons are.</b>
+  Je, wale ambao hawasomi Bhagavad-Gita ni waokozi wa dharma za Kihindu? Je, wapumbavu, wasiojua udhalimu katika historia, watasimamia dini ya Kihindu? Je, unaweza kujenga jamii sawa bila kujua "Siri ya mwanzo" na "Siri ya uumbaji?" Tambua wema katika maandiko kwa kusoma kwa subira na bila chuki ya kidini. Ikiwa unajisikia vibaya, acha. Hakuna sheria ambayo kila mtu anapaswa kuiamini.<strong>Maandiko na mafundisho ya Thraitha Siddantha</strong>, ambayo ni ya manufaa sana kwa ubinadamu na kuwa na kisayansi cha busara na ufahamu wa kiroho na kufichua siri za<strong>Brahma, Karma, na Bhakti Yogam</strong>kwa undani na Jeevatma, Atma na Paramatma, ni muhimu kwa jamii ya sasa.
 
-A man never becomes God, but God can come as a man. To recognize the God who is in human form, we must first have his wisdom in us. To recognize God, we need to know these two principles that elders said. As Vemana yogi said his poems can be understood in 1000 ways, and similarly, the Thraitha theorem wisdom can be understood in 9000 ways. According to the saying “Shraddhavan labhate gnanam (Those who have interest will attain wisdom)”, those who are thoughtful and intellectual can understand the wisdom of Thraitha.
+  Mashirika hayo - UNO, Baraza la Amani Ulimwenguni, Sheria ya Polisi, IPC, CrPC, Sheria za Magereza, CBI, CBCID, Ripoti za Kijasusi, ACB, Human Rights Watch, Haki za Wanawake, Sheria ya Ukatili ya SC ST, Sheria ya Dhamana ya India, Sheria za Kiislamu, Sheria za Kikristo, Sheria za Kazi, Serikali Kuu, GO za Serikali ya Jimbo, Tume ya Uchaguzi, Katiba ya India, Mahakama za India, Sheria ya RTI, Sheria ya Teknolojia ya Habari ya 2000 - zipo, kwa kweli, kwa ajili ya ustawi wa binadamu. Taasisi za kiroho zina wajibu wa kuwaambia watu ni aina gani ya hekima inayofaa kwa ustawi wao. Prabodhashramam na washirika wake huchukua nafasi ya kwanza katika taasisi zinazowajibika kama hizo. Zaidi ya yote, hatupaswi kusahau kwamba kuna pia<strong>"Sheria ya Mungu na Utawala wa Kimungu.&rdquo;</strong>
 
-At least now, quit the thought of caste and religion and know the real divine wisdom. If you do not know now, you will never know. Time is Short. Do it Now.
+  Kiini cha maandiko matatu ya kimungu ni kueleza juu ya nafsi tatu. Maisha bila hekima ya kimungu ni upotevu. Mungu alimpa mwanadamu uhai ili tu ajue hekima ya Mungu. Hekima ya Mungu ni zaidi ya tabaka na dini. Yogeeswarlu alitoa maana halisi ya hekima ya Bwana Krishna kupitia 'maandiko ya kwanza ya kiungu Bhagavad-Gita.' Alitupa hekima ya Kurani, ambayo ilikuja kwa Mtume Muhammad kupitia kwa Jibril, katika maandiko 'Maneno ya Hekima katika Kitabu cha Mwisho cha Uungu' na 'Almasi katika Kitabu cha Mwisho cha Kiungu.' Alituambia hekima ya Injili ya Yesu katika 'Vito katika Maandiko ya Pili ya Kiungu.' Anatupa kwa vitendo hekima halisi ya kimungu kupitia maandiko na mafundisho. Jua hekima aliyosema na uvae Muhuri wa Mungu na upate msamaha wa dhambi. Ukisikiliza kwa makini na kufanya mazoezi, una bahati. Ikiwa hausikii, hiyo ni karma yako. Kila kitu kinafanyika kulingana na mapenzi ya Mungu, na Mungu anajua.
 
-I offer fragrance flowers to Yogeeswarlu feet to give us more divine wisdom. I offer unlimited salutations with all my heart and all my soul and mind.
+   <b>Wahindu wanapaswa kujua ni Mungu gani wa kumwabudu.</b>
+   <b>Waislamu wanatakiwa kujua hao Allah wawili (waumbaji wawili) ni akina nani.</b>
+   <b>Wakristo wanahitaji kujua hao wana wawili ni akina nani.</b>
+
+  Mwanadamu kamwe huwa Mungu, lakini Mungu anaweza kuja kama mwanadamu. Ili kumtambua Mungu aliye katika umbo la mwanadamu, ni lazima kwanza tuwe na hekima yake ndani yetu. Ili kumtambua Mungu, tunahitaji kujua kanuni hizi mbili ambazo wazee walisema. Kama vile Vemana yogi alivyosema mashairi yake yanaweza kueleweka kwa njia 1000, na vile vile, hekima ya nadharia ya Thraitha inaweza kueleweka kwa njia 9000. Kwa mujibu wa msemo "Shraddhavan labhate gnanam (Wale ambao wana maslahi watapata hekima)", wale ambao wanafikiri na wenye akili wanaweza kuelewa hekima ya Thraitha.
+
+  Angalau sasa, acha mawazo ya tabaka na dini na ujue hekima halisi ya kimungu. Ikiwa hujui sasa, huwezi kujua. Muda ni Mfupi. Ifanye Sasa.
+
+  Ninatoa maua ya harufu nzuri kwa miguu ya Yogeeswarlu ili kutupa hekima zaidi ya kimungu. Ninatoa salamu zisizo na kikomo kwa moyo wangu wote na roho yangu yote na akili.
+
+   Mtumishi Wako Mtiifu
+  <strong>Thirumalesu</strong>
 </div></div>
-<ion-row><ion-col class="ion-text-center">
-Your Obedient Servant <br>
-<b>Thirumalesu </b>
-</ion-col></ion-row>
 </span>
 `
 },
@@ -2719,16 +2875,16 @@ pageText: `
 <div class="container">
 <img src="assets/img/1.png"   style="width:100%;">
 <div class="img1-title1">
-  Gems in
+  Vito ndani
 </div>
 <div class="img1-title2">
- The Second Divine Scripture
+Maandiko ya Pili ya Kimungu
 </div>
 <div class="img1-title3">
- (Gospels in the Thraitha Theorem)
+ (Injili Katika Theorem ya Thraitha)
 </div>
 <div class="img1-title4">
- Writer: The only Guru of three religions(Hindu, Muslim, Christian), The Emperor of Spiritual Kingdom, The writer of more than hundred divine holy books, Indu Gnana Dharma Pradata, The Sensational Writer, Adi Karta of Traita Doctrine
+ Mwandishi: Guru pekee wa dini tatu (Hindu, Mwislamu, Mkristo), Mfalme wa Ufalme wa Kiroho, Mwandishi wa vitabu vitakatifu zaidi ya mia, Indu Gnana Dharma Pradata, Mwandishi wa Kuvutia, Adi Karta wa Mafundisho ya Thraita
 </div>
 <div class="img1-title5">
 Sri Sri Sri Acharya Prabodhananda Yogeeswarulu
@@ -2880,483 +3036,483 @@ verse: `
 
   chapters: any = [
 
-    { title: "God's Path", component: 0, chapterNumber: 0, subs: null, icon: 'information' },
-    { title: 'The Secret of Creation', component: 1, chapterNumber: 1, subs: null, icon: 'information' },
+    { title: "Njia ya Mungu", component: 0, chapterNumber: 0, subs: null, icon: 'information' },
+    { title: 'Siri ya Uumbaji', component: 1, chapterNumber: 1, subs: null, icon: 'information' },
     {
-      title: 'The Gospel Of Mathew', component: null, chapterNumber: 2, icon: 'book',
+      title: 'Injili ya Mathayo', component: null, chapterNumber: 2, icon: 'book',
       subs: [
         {
-          shloka: "3-7. You brood of vipers...",
+          shloka: "3:7 Enyi wazao wa nyoka! Ni nani aliyewaonya ninyi kuikimbia ghadhabu inayokuja?",
           component: 2,
           subs: null
         },
         {
-          shloka: "3-11. I baptize you with water...",
+          shloka: "(3:11) Mimi ninakubatiza kwa maji kwa ajili ya kubadilisha mana (akili). Lakini baada yangu anakuja aliye na nguvu zaidi kuliko mimi, ambaye sistahili hata kubeba viatu vyake. Yeye atawabatiza kwa Roho Mtakatifu na kwa moto.",
           component: 3,
           subs: null
         },
         {
-          shloka: "3-12. His winnowing fork...",
+          shloka: "(3:12) Kipepeo chake kimo mkononi mwake, na atausafisha uwanda wake, akikusanya ngano yake ghalani na kuyachoma makapi kwa moto usiozimika.",
           component: 4,
           subs: null
         },
         {
-          shloka: "3-16. As soon as Jesus was...",
+          shloka: "(3:16) Mara tu Yesu alipobatizwa, alipanda kutoka majini. Wakati huo mbingu zikafunguka, akamwona Roho wa Mungu akishuka kama njiwa na kutua juu yake.",
           component: 5,
           subs: null
         },
         {
-          shloka: "3-17. And a voice from the sky...",
+          shloka: "(3:17) Na sauti kutoka mbinguni ikasema, Huyu ni mwanangu, ninayempenda; naye, nimefurahishwa sana.",
           component: 5,
           subs: null
         },
         {
-          shloka: "4-10. Jesus said to him, “Away from me...",
+          shloka: "(4:10) Yesu akamwambia, Ondoka kwangu, Shetani; Kwa maana imeandikwa: Mwabudu Bwana Mungu wako na umtumikie yeye peke yake.",
           component: 6,
           subs: null
         },
         {
-          shloka: "5-10. Blessed are those who are persecuted...",
+          shloka: "(5:10) Heri wenye kuudhiwa kwa ajili ya haki (hekima), kwani wao ni ufalme wa paraloka.",
           component: 7,
           subs: null
         },
         {
-          shloka: "5-17. Do not think that I have come to abolish...",
+          shloka: "(5:17) Msidhani kuwa nimekuja kutangua Sheria (Dharma Shastra) au Manabii; sikuja kutangua bali kutimiliza.",
           component: 8,
           subs: null
         },
         {
-          shloka: "5-18. For truly I tell you, until sky and earth...",
+          shloka: "(5:18) Kwa maana amin, nawaambia, mpaka mbingu na nchi zitakapotoweka, hakuna herufi ndogo kabisa, hata nukta moja ya kalamu, itakayotoweka katika Sheria (Dharma Shastra) mpaka yote yatimie.",
           component: 9,
           subs: null
         },
         {
-          shloka: "5-19. Therefore, anyone who sets aside...",
+          shloka: "(5:19) Kwa hiyo, yeyote atakayeitupilia mbali amri mojawapo iliyo ndogo katika hizo amri na kuwafundisha wengineipasavyo, ataitwa mdogo kabisa katika ufalme wa paraloka;",
           component: 10,
 
           subs: null
         },
         {
-          shloka: "5-20. For I tell you that unless...",
+          shloka: "(5:20) Kwa maana nawaambia ya kwamba wema wenu usipozidi ule wa Mafarisayo na wa walimu wa sheria, hakika hamtaingia katika ufalme wa paraloka.",
           component: 11,
           subs: null
         },
         {
-          shloka: "5-28. But I tell you that anyone...",
+          shloka: "(5:28) Lakini mimi nawaambia kwamba yeyote anayemtazama mwanamke kwa kumtamani amekwisha kuzini naye moyoni mwake.",
           component: 12,
           subs: null
         },
         {
-          shloka: "5-29. If your right eye causes you...",
+          shloka: "(5:29) Ikiwa jicho lako la kulia likikukosesha, ling'oe na ulitupe mbali. Ni afadhali kwako kupoteza kiungo kimoja cha mwili wako, kuliko mwili wako wote kutupwa katika jehanum.",
           component: 13,
 
           subs: null
         },
         {
-          shloka: "5-30. And if your right hand causes...",
+          shloka: "(5:30) Na mkono wako wa kulia ukikukosesha, ukate na uutupe. Ni afadhali kwako kupoteza kiungo kimoja kuliko mwili wako wote kwenda jehanamu.",
           component: 13,
 
           subs: null
         },
         {
-          shloka: "6-3. But when you do dharma...",
+          shloka: "(6:3) Lakini unapofanya dharma, usijulishe mkono wako wa kushoto unaofanya mkono wako wa kulia.",
           component: 14,
 
           subs: null
         },
         {
-          shloka: "6-4. So that your giving may be in...",
+          shloka: "(6:4) Ili kutoa kwenu kuwe kwa siri. Kisha baba yako, ambaye anaona yale yanayofanywa kwa siri, atakupa thawabu.",
           component: 14,
 
           subs: null
         },
         {
-          shloka: "6-6. But when you pray, go into your...",
+          shloka: "(6:6) Bali wewe usalipo, ingia katika chumba chako cha ndani, na ufunge mlango, na usali mbele za Baba yako asiyeonekana. Kisha baba yako, ambaye anaona yale yanayofanywa kwa siri, atakupa thawabu.",
           component: 15,
 
           subs: null
         },
         {
-          shloka: "6-7. When you pray, do not keep...",
+          shloka: "(6:7) Nanyi mnaposali, msiendelee kupayuka-payuka kama washirikina, kwa maana wao wanadhani kuwa watasikiwa kwa sababu ya wingi wa maneno yao.",
           component: 16,
 
           subs: null
         },
         {
-          shloka: "6-8. Do not be like them, for your...",
+          shloka: "(6:8) Msiwe kama wao, kwani baba yenu anajua mnachohitaji kabla hamjamwomba.",
           component: 16,
 
           subs: null
         },
         {
-          shloka: "7-7. Ask and it will be given to you...",
+          shloka: " 7:7) Ombeni nanyi mtapewa; tafuteni nanyi mtapata; bisheni nanyi mtafunguliwa mlango.",
           component: 18,
           subs: null
         },
         {
-          shloka: "7-8. For everyone who asks receives...",
+          shloka: "7:8) Maana kila aombaye hupokea; atafutaye huona; naye abishaye, mlango utafunguliwa.",
           component: 18,
           subs: null
         },
         {
-          shloka: "7-13. Enter through the narrow gate...",
+          shloka: " (7:13) Ingieni kwa kupitia mlango mwembamba. Maana mlango ni mpana, na njia ni pana iendayo upotevuni, nao ni wengi waingiao kwa mlango huo.",
           component: 17,
           subs: null
         },
         {
-          shloka: "7-14. But small is the gate and...",
+          shloka: "(7:14) Lakini mlango ni mdogo, na njia ni nyembamba iendayo uzimani, na waionao ni wachache.",
           component: 17,
           subs: null
         },
 
         {
-          shloka: "7-15. Watch out for false prophets...",
+          shloka: " (7:15) Jihadhari na manabii wa uwongo. Wanawajia wamevaa mavazi ya kondoo, lakini kwa ndani ni mbwa- mwitu wakali.",
           component: 19,
           subs: null
         },
         {
-          shloka: "7-21. Not everyone who says to me...",
+          shloka: "(7:21) Si kila mtu aniambiaye, Bwana, Bwana, atakayeingia katika ufalme wa paraloka, bali ni yeye tu afanyaye mapenzi ya Baba yangu aliye katika paraloka.",
           component: 20,
           subs: null
         },
         {
-          shloka: "7-22. Many will say to me on that day...",
+          shloka: "(7:22) Wengi wataniambia siku ile, ‘Bwana, Bwana, hatukufanya unabii kwa jina lako na kwa jina lako kutoa pepo, na kwa jina lako kufanya miujiza mingi?",
           component: 21,
           subs: null
         },
         {
-          shloka: "7-23. Then I will tell them plainly...",
+          shloka: "(7:23) Kisha nitawaambia waziwazi: Sikuwajua ninyi kamwe. Ondokeni kwangu, enyi watenda maovu!",
           component: 21,
           subs: null
         },
         {
-          shloka: "8-22. Jesus told him, “Follow me...",
+          shloka: "(8:22) Yesu akamwambia, “Nifuate, waache wafu wazike wafu wao.",
           component: 22,
 
           subs: null
         },
         {
-          shloka: "9-12. On hearing this, Jesus said...",
+          shloka: " (9:12) Aliposikia hayo, Yesu alisema, “Wenye afya hawahitaji tabibu, bali walio hawawezi.",
           component: 23,
 
           subs: null
         },
         {
-          shloka: "9-13. For I have not come to cal...",
+          shloka: "(9:13) Kwa maana sikuja kuwaita wenye haki, bali wenye dhambi.",
           component: 23,
 
           subs: null
         },
         {
-          shloka: "8-23. Then he got into the boat... ",
+          shloka: "(8:23) Kisha akapanda mashua na wanafunzi wake wakamfuata.",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-24. Suddenly a furious storm...",
+          shloka: "(8:24) Ghafla, dhoruba kali ikatokea ziwani, hata mawimbi yakaipiga mashua. Lakini Yesu alikuwa amelala.",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-25. The disciples went and wok...",
+          shloka: "(8:25) Wanafunzi wake wakaenda, wakamwamsha, wakisema, Bwana, tuokoe! Tutazama!",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-26. He replied, “You of little faith...",
+          shloka: "(8:26) Akajibu, Enyi wenye imani haba, mbona mnaogopa hivi? Kisha akaamka, akazikemea zile pepo na mawimbi, kukawa shwari kabisa.",
           component: 24,
           subs: null
         },
         {
-          shloka: "9-6. I want you to know that the Son...",
+          shloka: "(9:6) Nataka mjue kwamba Mwana wa Adamu anayo mamlaka duniani ya kusamehe dhambi. Basi, akamwambia yule mwenye kupooza, 'Simama, chukua mkeka wako, uende nyumbani.' Kisha mtu huyo akainuka na kwenda nyumbani.",
           component: 25,
 
           subs: null
         },
         {
-          shloka: "10-20. For it will not be you speaking...",
+          shloka: "(10:20) Kwa maana si ninyi msemao, bali ni Roho wa Baba yenu asemaye ndani yenu.",
           component: 26,
 
           subs: null
         },
         {
-          shloka: "10-30. Even the very hairs of your...",
+          shloka: "(10:30) Hata nywele za vichwa vyenu zimehesabiwa zote.",
           component: 27,
 
           subs: null
         },
         {
-          shloka: "10-34. Do not suppose that I have...",
+          shloka: "(10:34) Msidhani ya kuwa nimekuja kuleta amani duniani. sikuja kuleta amani, bali upanga.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-35. For I have come to turn...",
+          shloka: "(10:35) Kwa maana nimekuja kugeuza “‘mtu dhidi ya baba yake, binti dhidi ya mama yake, mkwe dhidi ya mama mkwe wake.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-36. A man’s enemies will be...",
+          shloka: "(10:36) Adui za mtu watakuwa watu wa nyumba yake mwenyewe.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-37. Anyone who loves their father...",
+          shloka: "(10:37) Ampendaye baba yake au mama yake kuliko mimi, hanistahiki; yeyote anayependa mwana au binti yake kuliko mimi hanistahili.",
           component: 29,
           subs: null
         },
         {
-          shloka: "10-38. Whoever does not take up... ",
+          shloka: "(10:38) Mtu ye yote asiyeuchukua msalaba wake na kunifuata, hanistahili.",
           component: 30,
           subs: null
         },
         {
-          shloka: "10-40. Anyone who welcomes (receives)...",
+          shloka: "10:40) Anayewapokea ninyi, anipokea mimi; na ye yote anipokeaye mimi, anampokea yeye aliyenituma.",
           component: 31,
           subs: null
         },
         {
-          shloka: "11-9. What did you go out to see?...",
+          shloka: "(11:9) Mlitoka kwenda kuona nini? Nabii? Naam, nawaambia, na (mimi ni) zaidi ya nabii.",
           component: 32,
           subs: null
         },
         {
-          shloka: "11-28. Come to me, all you who are...",
+          shloka: "(11:28) Njoni kwangu ninyi nyote msumbukao na wenye kulemewa na mizigo, nami nitawapumzisha.",
           component: 33,
           subs: null
         },
         {
-          shloka: "12-17. This was to fulfill what was...",
+          shloka: "(12:17) Hili lilikuwa kutimiza yale yaliyonenwa kupitia nabii Isaya.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-18. Here is my servant whom...",
+          shloka: "(12:18) Huyu hapa mtumishi wangu niliyemchagua, nimpendaye, ninayependezwa naye; nitaweka Roho yangu juu yake.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-19. He will proclaim justice (wisdom)...",
+          shloka: "(12:19) Atatangaza uadilifu (hekima) kwa mataifa; Hatagombana wala hatapiga kelele; hakuna mtu atakayesikia sauti yake barabarani.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-20. A bruised reed he will not break...",
+          shloka: "(12:20) Mwanzi uliopondeka hatauvunja, na utambi unaofuka moshi hatauzima, mpaka aifikishe haki (hikima) kwa ushindi.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-21. In his name the nations wil...",
+          shloka: "(12:21) Katika jina lake mataifa yataweka tumaini lao.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-31. So, I tell you, every kind of sin...",
+          shloka: "(12:31) Kwa hiyo, nawaambia, kila aina ya dhambi na kashfa zinaweza kusamehewa, lakini kufuru dhidi ya Roho (Atma) haitasamehewa.",
           component: 35,
           subs: null
         },
         {
-          shloka: "12-32. Anyone who speaks a word against...",
+          shloka: "(12:32) Yeyote atakayenena neno la kumpinga Mwana wa Adamu atasamehewa, lakini yeye atakayenena neno juu ya Roho Mtakatifu hatasamehewa, katika ulimwengu huu (yuga) au katika ulimwengu ujao.",
           component: 36,
 
           subs: null
         },
         {
-          shloka: "12-36. But I tell you that everyone...",
+          shloka: "(12:36) Lakini mimi nawaambia kwamba kila mtu atalazimika kutoa hesabu siku ya hukumu kwa kila neno tupu alilosema.",
           component: 37,
           subs: null
         },
         {
-          shloka: "12-37. For by your words you...",
+          shloka: "(12:37) Kwa maana kwa maneno yako utahesabiwa haki, na kwa maneno yako utahukumiwa.",
           component: 37,
           subs: null
         },
         {
-          shloka: "12-40. For as Jonah was three days...",
+          shloka: "(12:40) Kwa maana kama vile Yona alivyokuwa siku tatu mchana na usiku ndani ya tumbo la samaki mkubwa, vivyo hivyo Mwana wa Adamu atakuwa katika moyo wa nchi siku tatu mchana na usiku.",
           component: 38,
 
           subs: null
         },
         {
-          shloka: "13-13. Though seeing, they do not...",
+          shloka: "(13:13) Ingawa wanaona, lakini hawaoni; ingawa wanasikia, hawasikii wala hawaelewi.",
           component: 39,
           subs: null
         },
         {
-          shloka: "13-14. In them is fulfilled the prophecy...",
+          shloka: "(13:14) Ndani yao unatimia unabii wa Isaya: Mtasikia lakini hamtaelewa; mtakuwa mnaona lakini hamtambui.",
           component: 39,
           subs: null
         },
         {
-          shloka: "13-15. For this people’s heart has become...",
+          shloka: "(13:15) Maana mioyo ya watu hawa imekuwa mizito; hawasikii kwa masikio yao, na wamefumba macho yao. Vinginevyo wangeona kwa macho yao.kusikia kwa masikio yao, na kuelewa kwa mioyo yao, na kugeuka, nami ningewaponya.",
           component: 39,
           subs: null
         },
         {
-          shloka: "15-7. You hypocrites! Isaiah was...",
+          shloka: "(15:7) Enyi wanaafiki! Isaya alikuwa sahihi alipotabiri juu yako.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-8. These people honor me with their lips...",
+          shloka: "(15:8) Watu hawa huniheshimu kwa midomo, lakini mioyo yao iko mbali nami.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-9. They worship me in vain;...",
+          shloka: "(15:9) Wananiabudu bure; mafundisho yao ni kanuni za kibinadamu tu.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-11. What goes into someone’s mouth...",
+          shloka: "(15:11) Kinachoingia kinywani mwa mtu hakimtia unajisi, bali kile kitokacho katika vinywa vyao ndicho kimtiacho unajisi.",
           component: 41,
           subs: null
         },
         {
-          shloka: "15-12. Then the disciples came to...",
+          shloka: "(15:12) Kisha wanafunzi wakamwendea, wakamwuliza, Je! unajua ya kuwa Mafarisayo walichukizwa waliposikia hayo?",
           component: 42,
           subs: null
         },
         {
-          shloka: "15-13. He replied, “Every plant that...",
+          shloka: "(15:13) Akajibu, 'Kila pando asilolipanda Baba yangu wa mbinguni litang’olewa.'",
           component: 42,
           subs: null
         },
         {
-          shloka: "15-14. Leave them; they are blind...",
+          shloka: "(15:14) Waacheni; hao ni viongozi vipofu. Kipofu akimwongoza kipofu, wote wawili watatumbukia shimoni.",
           component: 43,
           subs: null
         },
         {
-          shloka: "16-21. From that time on Jesus began...",
+          shloka: "(16:21) Tangu wakati huo Yesu alianza kuwaeleza wanafunzi wake kwamba imempasa kwenda Yerusalemu na kupata mateso mengi kwa wazee na makuhani wakuu na walimu wa sheria, na kwamba lazima auawe. na siku ya tatu atafufuliwa. (Mara ya kwanza)",
           component: 44,
           subs: null
         },
         {
-          shloka: "16-22. Peter took him aside and began...",
+          shloka: "(16:22) Petro akamchukua kando na kuanza kumkemea. “Kamwe, Bwana!” Alisema. 'Hii haitatokea kwako kamwe!'",
           component: 44,
           subs: null
         },
         {
-          shloka: "17-22. When they came together...",
+          shloka: "(17:22) Hata walipokusanyika Galilaya, aliwaambia, Mwana wa Adamu anakwenda kutiwa katika mikono ya watu.",
           component: 44,
           subs: null
         },
         {
-          shloka: "17-23. They will kill him, and on the...",
+          shloka: "(17:23) Watamwua, na siku ya tatu atafufuliwa. Wanafunzi wakajawa na huzuni. (Mara ya pili)",
           component: 44,
           subs: null
         },
         {
-          shloka: "19-23. Then Jesus said to his disciples...",
+          shloka: "(19:23) Kisha Yesu akawaambia wanafunzi wake, Amin, nawaambia; ni vigumu kwa mtu tajiri kuingia katika ufalme wa paraloka.",
           component: 45,
           subs: null
         },
         {
-          shloka: "19-24. Again, I tell you, it is easier...",
+          shloka: "(19:24) Tena, nawaambieni, ni rahisi zaidi ngamia kupenya tundu la sindano, kuliko tajiri kuingia katika ufalme wa Mungu.",
           component: 45,
           subs: null
         },
         {
-          shloka: "20-17. Now Jesus was going up...",
+          shloka: "(20:17) Sasa Yesu alikuwa akipanda kwenda Yerusalemu. Walipokuwa njiani, aliwachukua wale kumi na wawili kando, akawaambia.",
           component: 44,
           subs: null
         },
         {
-          shloka: "20-18. We are going up to Jerusalem...",
+          shloka: "(20:18) Tunapanda kwenda Yerusalemu, na Mwana wa Adamu atatiwa mikononi mwa makuhani wakuu na walimu wa sheria. Watamhukumu kifo.",
           component: 44,
           subs: null
         },
         {
-          shloka: "20-19. They will hand him over to...",
+          shloka: "(20:19) Watamkabidhi kwa watu wa Mataifa ili wadhihakiwe na kupigwa mijeledi na kusulubiwa. Siku ya tatu atafufuliwa! (Mara ya tatu)",
           component: 44,
           subs: null
         },
         {
-          shloka: "22-36. Teacher, which is the greatest...",
+          shloka: "(22:36) Mwalimu, ni amri ipi iliyo kuu zaidi katika Sheria ( Dharma Shastra )?",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-37. Jesus replied: “Love the Lord...",
+          shloka: "(22:37) Yesu alijibu hivi: 'Mpende Bwana Mungu wako kwa moyo wako wote na kwa roho yako yote na kwa akili yako yote.'",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-38. This is the first and greatest...",
+          shloka: "(22:38) Hii ndiyo amri kuu na ya kwanza.",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-39. And the second is like it...",
+          shloka: "(22:39) Na ya pili inafanana nayo: Mpende jirani yako kama nafsi yako.",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-40. All the Law and the Prophets...",
+          shloka: "(22:40) Sheria yote na Manabii hutegemea amri hizi mbili.",
           component: 46,
           subs: null
         },
         {
-          shloka: "23-8. But you are not to be called...",
+          shloka: "(23:8) “Lakini ninyi msiitwe Rabi, kwa maana mnaye Mwalimu mmoja, na ninyi nyote ni ndugu.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-9. And do not call anyone on earth...",
+          shloka: "(23:9) Wala msimwite mtu yeyote duniani 'baba,' maana mnaye Baba mmoja, naye yuko katika paraloka.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-10. Nor are you to be called instructors...",
+          shloka: "(23:10) Wala ninyi msiitwe wakufunzi, kwani mnaye Mwalimu mmoja, Masihi.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-15. Woe to you, teachers of the law...",
+          shloka: "(23:15) “Ole wenu walimu wa sheria na Mafarisayo, wanafiki! Unasafiri nchi kavu na baharini ili kupata mwongofu mmoja, na ukifaulu, unawafanya kuwa mtoto wa kuzimu maradufu kuliko wewe.",
           component: 48,
           subs: null
         },
         {
-          shloka: " 24-35. Sky and earth will pass away...",
+          shloka: "(24:35) Mbingu na ardhi zitapita, lakini maneno yangu hayatapita kamwe.",
           component: 49,
           subs: null
         },
         {
-          shloka: "24-42. Therefore, keep watch, because...",
+          shloka: "(24:42) Basi kesheni, kwa maana hamjui ni siku gani atakayokuja Mola wenu.",
           component: 50,
           subs: null
         },
         {
-          shloka: "26-26. While they were eating, Jesus ...",
+          shloka: "(26:26) Walipokuwa wakila, Yesu alitwaa mkate, na baada ya kushukuru, akaumega, akawapa wanafunzi wake, akisema, 'Twaeni mle; huu ni mwili wangu.'",
           component: 51,
           subs: null
         },
         {
-          shloka: "26-27. Then he took a cup, and when...",
+          shloka: "(26:27) Kisha akatwaa kikombe, akashukuru, akawapa, akisema, Nyweni katika hiki nyote;",
           component: 51,
           subs: null
         },
         {
-          shloka: "26-28. This is my blood of the covenant...",
+          shloka: "(26:28) Hii ni damu yangu ya agano (hekima ya Mungu isiyo na vifungo vya ujinga), ambayo inamwagika kwa ajili ya wengi kwa msamaha wa dhambi.",
           component: 51,
           subs: null
         },
         {
-          shloka: "28-18. Then Jesus came to them and...",
+          shloka: "(28:18) Kisha Yesu akaja kwao, akasema nao, akasema, Nimepewa mamlaka yote duniani na duniani.",
           component: 52,
           subs: null
         },
         {
-          shloka: "28-19. Therefore, go and make disciples...",
+          shloka: "(28:19) Kwa hiyo, enendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa jina la Baba na la Mwana na la Roho Mtakatifu.",
           component: 53,
           subs: null
         },
         {
-          shloka: "28-20. Teaching them to obey everything...",
+          shloka: "(28:20) Mkiwafundisha kuyashika yote niliyowaamuru nyinyi. Na hakika mimi nipo pamoja nanyi siku zote, hata ukamilifu wa dahari (Yuga).",
           component: 53,
           subs: null
         },
@@ -3364,279 +3520,279 @@ verse: `
       ]
     },
     {
-      title: 'The Gospel of Mark', component: null, chapterNumber: 3, icon: 'book',
+      title: 'Injili ya Marko', component: null, chapterNumber: 3, icon: 'book',
       subs: [
         {
-          shloka: "2-19. How can the guests of the...",
+          shloka: " (2:19) Wageni wa bwana-arusi wawezaje kufunga akiwa pamoja nao? Hawawezi, mradi tu wanaye pamoja nao.",
           component: 54,
           subs: null
         },
         {
-          shloka: "2-20. But the time will come when...",
+          shloka: "(2:20) Lakini wakati utakuja ambapo bwana arusi ataondolewa kwao, na siku hiyo watafunga.",
           component: 54,
           subs: null
         },
         {
-          shloka: "4t-38. Jesus was in the stern,...",
+          shloka: "(4:38) Yesu alikuwa nyuma ya meli, akilala juu ya mto. Wanafunzi wakamwamsha, wakamwambia, Mwalimu, hujali sisi tukizama?",
           component: 55,
           subs: null
         },
         {
-          shloka: "4-39. He got up, rebuked the wind...",
+          shloka: "(4:39) Akaamka, akaukemea upepo, akayaambia mawimbi, Nyamaza! Tulia!” Kisha upepo ukatulia na kukawa shwari kabisa.",
           component: 55,
           subs: null
         },
         {
-          shloka: "5-38. When they came to the home...",
+          shloka: "(5:38) Walipofika kwenye nyumba ya kiongozi wa sinagogi, Yesu aliona ghasia, watu wakilia na kuomboleza kwa sauti kubwa.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-39. He went in and said to them...",
+          shloka: "(5:39) Akaingia ndani, akawaambia, Mbona ghasia na maombolezo haya yote? Mtoto hakufa bali amelala.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-40. But they laughed at him...",
+          shloka: "(5:40) Lakini wao wakamcheka. Baada ya kuwatoa wote nje, akawachukua baba na mama ya mtoto na wale wanafunzi waliokuwa pamoja naye, akaingia pale alipokuwa mtoto.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-41. He took her by the hand...",
+          shloka: "(5:41) Akamshika mkono, akamwambia, Talitha kumi. (maana yake, 'Msichana mdogo, nakuambia, inuka!').",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-42. Immediately the girl stood...",
+          shloka: "(5:42) Mara yule msichana akasimama, akaanza kutembea (alikuwa na umri wa miaka kumi na miwili). Kwa hili walishangaa kabisa.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-43. He gave strict orders not to...",
+          shloka: "(5:43) Alitoa amri kali kutomjulisha mtu yeyote kuhusu jambo hili na akawaambia wampe kitu cha kula.",
           component: 56,
           subs: null
         },
         {
-          shloka: "7-15. Nothing outside a person...",
+          shloka: "(7:15) Hakuna kitu nje ya mtu kinachoweza kumtia unajisi kwa kuingia ndani yake.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-16. Rather, it is what comes out of a...",
+          shloka: "(7:16) Bali ni kile kinachomtoka mtu ndicho kinachomtia unajisi.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-17. After he had left the crowd and ...",
+          shloka: "(7:17) Naye alipokwisha kuuacha umati na kuingia nyumbani, wanafunzi wake wakamwuliza juu ya mfano huo.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-18. “Are you so dull?” he asked...",
+          shloka: "(7:18) “Je! Aliuliza. “Hamwoni kwamba kitu chochote kikimwingia mtu kutoka nje hakiwezi kumtia unajisi?",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-19. For it does not go into their...",
+          shloka: "(7:19) Kwa maana haiwaingii mioyoni mwao, ila tumboni, na kisha kutoka mwilini.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-20. He went on: “What comes out...",
+          shloka: "(7:20) Akaendelea kusema: “Kinachomtoka mtu ndicho kinachomtia unajisi.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-21. For it is from within, out of a...",
+          shloka: "(7:21) Kwa maana hutoka ndani ya moyo wa mtu mawazo mabaya, uasherati, wizi, uuaji;",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-22. dultery, greed, malice, deceit...",
+          shloka: "(7:22) uzinzi, uchoyo, uovu, udanganyifu, uasherati, husuda, matukano, majivuno na upumbavu.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-23. All these evils come from inside...",
+          shloka: "(7:23) Maovu haya yote yanatoka ndani na kumtia mtu unajisi.",
           component: 57,
           subs: null
         },
         {
-          shloka: "3-35. Whoever does God’s will is my...",
+          shloka: "(3:35) Yeyote anayefanya mapenzi ya Mungu huyo ndiye kaka yangu na dada yangu na mama yangu.",
           component: 58,
           subs: null
         },
         {
-          shloka: "4-17. But since they have no root...",
+          shloka: "(4:17) Lakini kwa kuwa hawana mizizi, wanadumu kwa muda mfupi tu. inapotokea dhiki au adha kwa ajili ya lile neno, huanguka upesi.",
           component: 59,
           subs: null
         },
         {
-          shloka: "4-21. He said to them, “Do you...",
+          shloka: "(4:21) Akawaambia, Je! mwaleta taa na kuiweka chini ya bakuli au kitanda? Badala yake, je, huiweke kwenye kinara chake?",
           component: 60,
           subs: null
         },
         {
-          shloka: "4-22. For whatever is hidden is meant...",
+          shloka: "(4:22) Kwani yaliyofichika yatafichuliwa, na yaliyofichika yatadhihirika.",
           component: 60,
           subs: null
         },
         {
-          shloka: "6-4. Jesus said to them, “A prophet...",
+          shloka: "(6:4) Yesu akawaambia, Nabii hakosi heshima isipokuwa katika mji wake, na kwa jamaa zake, na nyumbani kwake.",
           component: 61,
           subs: null
         },
         {
-          shloka: "8-38. If anyone is ashamed of me and...",
+          shloka: "(8:38) Mtu ye yote akinionea haya mimi na maneno yangu katika kizazi hiki cha uzinzi na dhambi, Mwana wa Adamu atamwonea haya mtu atakapokuja katika utukufu wa Baba yake pamoja na malaika watakatifu.",
           component: 62,
 
           subs: null
         },
 
         {
-          shloka: ` 9-7. Then a cloud appeared and covered ...`,
+          shloka: `(9:7) Kisha wingu likatokea na kuwafunika, na sauti ikatoka katika hilo wingu: “Huyu ni Mwanangu, mpendwa wangu; Msikilizeni!"`,
           component: 63,
 
           subs: null
         },
         {
-          shloka: `10-17. As Jesus started on his way...`,
+          shloka: `(10:17) Yesu alipoanza safari yake, mtu mmoja alimkimbilia na kupiga magoti mbele yake. “Mwalimu mwema,” aliuliza, “nifanye nini ili niurithi uzima wa milele?”`,
           component: 64,
 
           subs: null
         },
         {
-          shloka: `10-18. “Why do you call me good?”...`,
+          shloka: `(10:18) “Mbona unaniita mwema?” Yesu akajibu. “Hakuna aliye mwema, isipokuwa Mungu peke yake.`,
           component: 64,
 
           subs: null
         },
 
+        {
+          shloka: `(16:15) Akawaambia, Enendeni ulimwenguni mwote, mkaihubiri Injili kwa viumbe vyote.`,
+          component: 65,
+          subs: null
+        },
+        {
+          shloka: `(16:16) Aaminiye na kubatizwa ataokoka, lakini asiyeamini atahukumiwa.`,
+          component: 65,
+          subs: null
+        },
 
       ]
     },
     {
-      title: 'The Gospel of Luke', component: null, chapterNumber: 4, icon: 'book',
+      title: 'Injili ya Luka', component: null, chapterNumber: 4, icon: 'book',
       subs: [
 
 
         {
-          shloka: `16-15. He said to them, “Go into...`,
-          component: 65,
-          subs: null
-        },
-        {
-          shloka: `16-16. Whoever believes and is...`,
-          component: 65,
-          subs: null
-        },
-        {
-          shloka: `2-49. “Why were you searching for me?”...`,
+          shloka: `(2:49) “Kwa nini mlikuwa mnanitafuta?” Aliuliza. “Je, hamkujua kwamba nilipaswa kuwa katika kazi ya Baba yangu?”`,
           component: 66,
           subs: null
         },
         {
-          shloka: `11-37. As Jesus was speaking, one...`,
+          shloka: `(11:37) Yesu alipokuwa akizungumza, mmoja wa Mafarisayo alimkaribisha nyumbani kwa chakula. Basi, akaingia na kukaa mezani.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-38. His host was amazed to see...`,
+          shloka: `(11:38) Mwenyeji wake alistaajabu kuona kwamba aliketi kula bila kufanya kwanza sherehe ya kunawa mikono iliyohitajiwa na desturi ya Kiyahudi.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-39. Then the Lord said to him, “You...`,
+          shloka: `(11:39) Kisha Bwana akamwambia, “Ninyi Mafarisayo mnajali sana kusafisha kikombe na bakuli kwa nje, lakini ndani yenu ni mchafu, mmejaa ulafi na uovu!`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-40. Fools! Didn’t God make the...`,
+          shloka: `(11:40) Wapumbavu! Je, si Mungu aliyeumba ndani na nje?`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-41. So, clean the inside by giving...`,
+          shloka: `(11:41) Basi safisheni ndani kwa kutoa zawadi (dharmas) kwa masikini, na mtakuwa safi kote.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `12-4. I tell you, my friends, do not...`,
+          shloka: `(12:4) Nawaambia ninyi rafiki zangu, msiwaogope wale wauao mwili, na baada ya hayo hawawezi kufanya lolote zaidi.`,
           component: 68,
 
           subs: null
         },
         {
-          shloka: `12-5. But I will show you whom you...`,
+          shloka: `(12:5) Lakini nitawaonyesheni mtakayemwogopa: Mcheni yule ambaye baada ya mwili wenu kuchinjwa mamlaka ya kukutupa jehanamu. Naam, nawaambia, mwogopeni huyo.`,
           component: 68,
 
           subs: null
         },
         {
-          shloka: `12-25. Which of you by worrying can...`,
+          shloka: `(12:25) Ni nani miongoni mwenu kwa kujisumbua aweza kujiongezea kimo chake hata mkono mmoja?`,
           component: 69,
 
           subs: null
         },
         {
-          shloka: "12-33. Sell your possessions and give...",
+          shloka: "(12:33) Uzeni mali zenu na wapeni masikini. Jifanyieni mifuko ambayo haitachakaa, hazina isiyoisha kamwe, mahali ambapo mwizi hakaribii, na nondo haharibu.",
           component: 70,
           subs: null
         },
         {
-          shloka: "12-34. For where your treasure is,...",
+          shloka: "(12:34) Kwa kuwa hazina yako ilipo, ndipo utakapokuwapo na moyo wako.",
           component: 70,
           subs: null
         },
         {
-          shloka: "12-49. I have come to bring fire...",
+          shloka: "(12:49) Nimekuja kuleta moto katika ardhi, na ninatamani ungekuwa umekwisha washwa.",
           component: 71,
           subs: null
         },
         {
-          shloka: "12-51. Do you think I came to bring...",
+          shloka: "(12:51) Je, unafikiri nilikuja kuleta amani duniani? La, nawaambia, bali mafarakano.",
           component: 72,
           subs: null
         },
         {
-          shloka: "12-52. From now on there will be five...",
+          shloka: "(12:52) Kuanzia sasa watakuwa watu watano katika familia moja wakifarakana, watatu kwa wawili na wawili kwa watatu.",
           component: 72,
           subs: null
         },
         {
-          shloka: "12-53. They will be divided, father against...",
+          shloka: "(12:53) Watafarakana, baba dhidi ya mwanawe, na mwana dhidi ya babaye, mama dhidi ya bintiye na binti dhidi ya mama, mama mkwe dhidi ya binti-mkwe na binti-mkwe dhidi ya mama mkwe.",
           component: 72,
           subs: null
         },
         {
-          shloka: "13-3. Unless you change your mind...",
+          shloka: "(13:3) Isipokuwa mkibadilisha nia yenu, ninyi pia mtaangamia.",
           component: 73,
           subs: null
         },
         {
-          shloka: "14-26. If anyone comes to me and does...",
+          shloka: "(14:26) Mtu akija kwangu naye hamchukii baba na mama, mke na watoto, ndugu na dada—naam, hata maisha yao wenyewe—mtu huyo hawezi kuwa mfuasi wangu.",
           component: 74,
 
           subs: null
         },
         {
-          shloka: "14-27. Whoever does not carry their...",
+          shloka: "(14:27) Mtu ye yote asiyeuchukua msalaba wake na kunifuata, hawezi kuwa mfuasi wangu.",
           component: 75,
           subs: null
         },
         {
-          shloka: "18-29. “Truly I tell you,” Jesus said to them...",
+          shloka: "(18:29) “Amin, nawaambia,” Yesu akawaambia, “hakuna mtu aliyeacha nyumba, au mke, au ndugu, au dada, au wazazi, au watoto, kwa ajili ya ufalme wa Mungu, hatashindwa kupokea mara nyingi zaidi. katika ulimwengu huu, na katika wakati ujao uzima wa milele.”",
           component: 76,
           subs: null
         },
         {
-          shloka: "21-15. I will give you words and wisdom...",
+          shloka: "(21:15) Nitawapeni maneno na hekima ambayo hakuna adui yenu atakayeweza kupinga au kupinga.",
           component: 77,
 
           subs: null
         },
         {
-          shloka: "21-17. Everyone will hate you...",
+          shloka: "(21:17) Kila mtu atawachukia kwa ajili yangu.",
           component: 78,
           subs: null
         }
@@ -3647,474 +3803,473 @@ verse: `
 
     },
     {
-      title: 'The Gospel Of John ', component: null, chapterNumber: 5, icon: 'book',
+      title: 'Injili ya Yohana', component: null, chapterNumber: 5, icon: 'book',
       subs: [
         {
-          shloka: "1-1. In the beginning was the Word...",
+          shloka: "(1:1) Hapo mwanzo kulikuwako Neno, naye Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu.",
           component: 79,
           subs: null
         },
         {
-          shloka: "1-9. The true light that gives light...",
+          shloka: "(1:9) Nuru ya kweli itiayo nuru kila mtu ilikuwa ikija katika ulimwengu.",
           component: 80,
           subs: null
         },
         {
-          shloka: "1-10. He was in the world, and though...",
+          shloka: "(1:10) Alikuwako ulimwenguni, hata kwa yeye ulimwengu uliumbwa, lakini ulimwengu haukumtambua.",
           component: 81,
           subs: null
         },
         {
-          shloka: "1-11. He came to that which was his...",
+          shloka: "(1:11) Alikuja katika mali yake, lakini walio wake hawakumpokea.",
           component: 82,
           subs: null
         },
         {
-          shloka: "1-12. Yet to all who did receive him...",
+          shloka: "(1:12) Bali wote waliompokea aliwapa uwezo wa kufanyika watoto wa Mungu, ndio wale waliaminio jina lake.",
           component: 83,
           subs: null
         },
         {
-          shloka: "1-13. Men born not of natural descent...",
+          shloka: "(1:13) Watu waliozaliwa si kwa jinsi ya asili, wala si kwa uamuzi wa kibinadamu, wala kwa mapenzi ya mume, bali waliozaliwa na Mungu.",
           component: 84,
           subs: null
         },
         {
-          shloka: "1-14. The Word became flesh and made...",
+          shloka: "(1:14) Naye Neno alifanyika mwili, akakaa kwetu. Tumeuona utukufu wake, utukufu wa Mwana pekee aliyetoka kwa Baba, amejaa neema na kweli.",
           component: 85,
           subs: null
         },
         {
-          shloka: "1-18. No man has seen God at any...",
+          shloka: "(1:18) Hakuna mtu aliyemwona Mungu wakati wo wote; Mwana pekee, aliye katika kifua cha Baba, alimfunua.",
           component: 86,
           subs: null
         },
         {
-          shloka: "1-51. He then added, “Very truly...",
+          shloka: "(1:51) Kisha akaongeza, Amin, amin, nawaambia, mtaona mbingu zinafunguka, na malaika wa Mungu wakipanda na kushuka juu ya Mwana wa Adamu.",
           component: 87,
           subs: null
         },
         {
-          shloka: "3-3. Jesus replied, “Very truly...",
+          shloka: "(3:3) Yesu akajibu, Amin, amin, nakuambia, hakuna mtu awezaye kuuona ufalme wa Mungu isipokuwa amezaliwa mara ya pili.",
           component: 88,
           subs: null
         },
         {
-          shloka: "3-4. “How can someone be...",
+          shloka: "(3:4) “Mtu awezaje kuzaliwa akiwa mzee?” Nikodemo aliuliza. “Hakika hawawezi kuingia tumboni mwa mama yao mara ya pili ili kuzaliwa!",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-5. Jesus answered, “Very truly...",
+          shloka: "(3:5) Yesu akajibu, “Kweli nawaambieni, hakuna mtu awezaye kuingia katika ufalme wa Mungu isipokuwa amezaliwa kwa maji na kwa Roho (Atma).",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-6. Flesh gives birth to flesh, but...",
+          shloka: "(3:6) Mwili huzaa mwili, lakini Roho (Atma) huzaa roho.",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-7. You should not be surprise...",
+          shloka: "(3:7) Hupaswi kushangazwa na kusema kwangu, 'Lazima uzaliwe mara ya pili.'",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-8. The wind blows wherever it...",
+          shloka: "(3:8) Upepo huvuma popote unapotaka. Unaisikia sauti yake, lakini huwezi kujua inatoka wapi wala inakokwenda. Hivyo ndivyo ilivyo kwa kila mtu aliyezaliwa kwa Roho (Atma).",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-13. No one has ever gone into...",
+          shloka: "(3:13) Hakuna mtu ambaye amewahi kuingia Paraloka isipokuwa yule aliyetoka Paraloka—Mwana wa Adamu.",
           component: 90,
           subs: null
         },
         {
-          shloka: "3-15. That whosoever believes in him...",
+          shloka: "(3:15) Ili kila anayemwamini asipotee bali awe na uzima wa milele.",
           component: 91,
           subs: null
         },
         {
-          shloka: "3-17. For God did not send his Son...",
+          shloka: "(3:17) Maana Mungu hakumtuma Mwana ulimwenguni ili auhukumu ulimwengu, bali ulimwengu uokolewe katika yeye.",
           component: 92,
           subs: null
         },
         {
-          shloka: "3-18. Whoever believes in him is...",
+          shloka: "(3:18) Kila amwaminiye yeye hahukumiwi; lakini asiyemwamini amekwisha kuhukumiwa kwa sababu hakuliamini jina la Mwana pekee wa Mungu.",
           component: 93,
           subs: null
         },
         {
-          shloka: "3=19. This is the verdict: Light has...",
+          shloka: "(3:19) Hukumu ndiyo hii: Nuru imekuja ulimwenguni, lakini watu wakapenda giza badala ya nuru kwa sababu matendo yao yalikuwa maovu.",
           component: 94,
           subs: null
         },
         {
-          shloka: "3-20. Everyone who does evil hate...",
+          shloka: "(3:20) Kila mtu atendaye maovu anaichukia nuru, wala haingii kwenye nuru kwa kuogopa kwamba matendo yao yatafichuliwa.",
           component: 94,
           subs: null
         },
         {
-          shloka: "3-21. But whoever lives by the truth...",
+          shloka: "(3:21) Lakini yeyote anayeishi katika ukweli huja kwenye nuru, ili ionekane wazi kwamba yale waliyoyafanya yametendwa mbele ya Mungu.",
           component: 94,
           subs: null
         },
         {
-          shloka: "5-19. Jesus gave them this answer:...",
+          shloka: "(5:19) Yesu akawapa jibu hili: “Amin, amin, nawaambia, Mwana hawezi kufanya neno peke yake; Anaweza tu yale anayomwona Baba yake akiyafanya, kwa maana yote ayatendayo Baba, Mwana pia anayafanya.",
           component: 95,
           subs: null
         },
         {
-          shloka: "5-20. For the Father loves the Son and...",
+          shloka: "(5:20) Kwa maana Baba anampenda Mwana na kumwonyesha yote anayofanya. Naam, naye atamwonyesha hata kazi kubwa kuliko hizi, hata mtastaajabu.",
           component: 96,
           subs: null
         },
         {
-          shloka: "5-21. For just as the Father raises...",
+          shloka: "(5:21) Kwa maana kama vile Baba huwafufua wafu na kuwapa uzima, vivyo hivyo Mwana huwapa uzima wale ambao amependa kuwapa.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-22. Moreover, the Father judges no...",
+          shloka: "(5:22) Zaidi ya hayo, Baba hamhukumu yeyote, bali amekabidhi hukumu yote kwa Mwana.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-23. That all may honor the Son...",
+          shloka: "(5:23) Ili wote wamheshimu Mwana kama vile wanavyomheshimu Baba. Yeyote asiyemheshimu Mwana hamheshimu Baba aliyemtuma.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-24. Very truly I tell you, whoever...",
+          shloka: "(5:24) Amin, amin, nawaambia, Kila alisikiaye neno langu na kumwamini yeye aliyenipeleka yuna uzima wa milele; wala hatahukumiwa; bali amevuka kutoka mautini kuingia uzimani.",
           component: 98,
           subs: null
         },
         {
-          shloka: "5-26. For as the Father has life...",
+          shloka: "(5:26) Kwa maana kama vile Baba ana uzima ndani yake, vivyo hivyo amemjalia Mwana pia kuwa na uzima ndani yake mwenyewe.",
           component: 99,
           subs: null
         },
         {
-          shloka: "5-37. You have never heard his voice...",
+          shloka: "(5:37) Hujapata kusikia sauti yake wala kuona sura yake.",
           component: 100,
           subs: null
         },
         {
-          shloka: "5-38. Nor does his word dwell in...",
+          shloka: "(5:38) Wala neno lake halikai ndani yenu, kwani nyinyi hamumuamini Aliyemtuma.",
           component: 101,
 
           subs: null
         },
         {
-          shloka: "6-25. When they found him on the...",
+          shloka: "(6:25) Walipomkuta ng'ambo ya ziwa, wakamwuliza, Rabi, ulifika hapa lini?",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-26. Jesus answered, “Very truly...",
+          shloka: "(6:26) Yesu akawajibu, Amin, amin, nawaambia, Mnanitafuta, si kwa sababu mliona ishara nilizozifanya, bali kwa sababu mlikula ile mikate mkashiba.",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-27. Do not work for food that spoils...",
+          shloka: "(6:27 Msitendee kazi chakula chenye kuharibika, bali chakula kidumucho hata uzima wa milele, ambacho Mwana wa Adamu atawapa. Kwa maana juu yake Mungu Baba ameweka muhuri wake wa kibali.",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-32. Jesus said to them, “Very truly...",
+          shloka: "6:32) Yesu akawaambia, Amin, amin, nawaambia, si Musa aliyewapa mkate wa paraloka, bali Baba yangu ndiye awapaye ninyi mkate wa kweli utokao paraloka.",
           component: 103,
           subs: null
         },
         {
-          shloka: "6-47. No one has seen the Father...",
+          shloka: "6-46. (6:46) Hakuna aliyemwona Baba ila yeye atokaye kwa Mungu; peke yake ndiye aliyemwona Baba.",
           component: 104,
           subs: null
         },
         {
-          shloka: "7-37. On the last and greatest da...",
+          shloka: "(7:37) Siku ya mwisho na iliyo kuu zaidi ya sikukuu, Yesu alisimama na kusema kwa sauti kuu, “Yeyote aliye na kiu na aje kwangu anywe.",
           component: 105,
           subs: null
         },
         {
-          shloka: "7-38. Whoever believes in me, as...",
+          shloka: "(7:38) Aniaminiye mimi, kama yalivyonena Kitabu, mito ya maji yaliyo hai itatoka ndani yake.",
           component: 105,
           subs: null
         },
         {
-          shloka: "8-12. When Jesus spoke again to the...",
+          shloka: "(8:12) Yesu alipozungumza tena na watu, alisema, 'Mimi ndimi nuru ya ulimwengu. Yeye anifuataye hatakwenda gizani kamwe, bali atakuwa na nuru ya uzima.'",
           component: 106,
           subs: null
         },
         {
-          shloka: "8-14. Jesus answered, “Even if I testify...",
+          shloka: "(8:14) Yesu akajibu, 'Hata kama ninajishuhudia mwenyewe, ushuhuda wangu ni halali, kwa maana najua nilikotoka na niendako. Lakini hamjui nilikotoka wala niendako.",
           component: 107,
           subs: null
         },
         {
-          shloka: "8-19t. Then they asked him, “Where...",
+          shloka: "(8:19) Kisha wakamwuliza, Yuko wapi Baba yako? “Ninyi hamnijui mimi wala Baba yangu, 'Yesu akajibu. “Kama mngalinijua mimi, mngemjua na Baba yangu pia.'",
           component: 108,
           subs: null
         },
         {
-          shloka: "8-21. Once more Jesus said to them...",
+          shloka: "(8:21) Yesu akawaambia tena, 'Mimi naenda, nanyi mtanitafuta, nanyi mtakufa katika dhambi yenu. Niendako ninyi hamwezi kuja.'",
           component: 109,
           subs: null
         },
         {
-          shloka: "8-23. But he continued, “You are from...",
+          shloka: "(8:23) Lakini aliendelea, “Ninyi ni wa chini; Mimi ni kutoka juu. Ninyi ni wa ulimwengu huu; mimi si wa ulimwengu huu.",
           component: 110,
           subs: null
         },
 
         {
-          shloka: "8-24. I told you that you would die...",
+          shloka: "(8:24) Niliwaambia ya kwamba mtakufa katika dhambi zenu; msipoamini kwamba mimi ndiye, mtakufa katika dhambi zenu.'",
           component: 111,
           subs: null
         },
         {
-          shloka: "8-28.  So, Jesus said, “When you...",
+          shloka: "( 8:28 ) Kwa hiyo, Yesu alisema, “Mtakapokwisha kumwinua Mwana wa Adamu, ndipo mtakapojua ya kuwa mimi ndiye, na ya kuwa sifanyi neno langu mwenyewe, ila ninena yale aliyonifundisha Baba.",
           component: 112,
           subs: null
         },
         {
-          shloka: "8-29. The one who sent me is with...",
+          shloka: "(8:29) Yeye aliyenipeleka yu pamoja nami; Hakuniacha peke yangu, kwa maana siku zote nafanya yale yampendezayo.",
           component: 113,
           subs: null
         },
         {
-          shloka: "8-53. Are you greater than our...",
+          shloka: "(8:53) Je, wewe ni mkuu kuliko baba yetu Ibrahimu? Alikufa, na manabii pia. Unafikiri wewe ni nani?",
           component: 114,
           subs: null
         },
         {
-          shloka: "8-54. Jesus replied, “If I glorify...",
+          shloka: "(8:54) Yesu akajibu, “Nikijitukuza mwenyewe, utukufu wangu si kitu. Baba yangu, ambaye ninyi mnadai kuwa Mungu wenu, ndiye anayenitukuza mimi.",
           component: 114,
           subs: null
         },
         {
-          shloka: "8-55. Though you do not know ...",
+          shloka: "(8.55) Ingawa nyinyi hamumjui, mimi namjua. Ikiwa ningesema kwamba sikufanya, ningekuwa mwongo kama ninyi, lakini ninamjua na ninatii neno lake.",
           component: 115,
           subs: null
         },
         {
-          shloka: "8-57. You are not yet fifty years old...",
+          shloka: "(8:57) Wakamwambia, Wewe hujatimiza miaka hamsini bado, nawe umemwona Ibrahimu.",
           component: 116,
 
           subs: null
         },
         {
-          shloka: "8-58. Very truly I tell you,” Jesus answered...",
+          shloka: "(8:58) 'Amin, amin, nawaambia,' Yesu akajibu, 'kabla Ibrahimu hajazaliwa, mimi niko.'",
           component: 116,
 
           subs: null
         },
         {
-          shloka: "9-39. Jesus said, “For judgment I have...",
+          shloka: "(9:39) Yesu alisema, 'Nimekuja ulimwenguni kutoa hukumu, ili vipofu waone na wale wanaoona wawe vipofu.'",
           component: 117,
           subs: null
         },
         {
-          shloka: "9-41. Jesus said, “If you were blind,...",
+          shloka: "(9:41) Yesu alisema, “Kama mngekuwa vipofu, hamngekuwa na hatia; lakini sasa unapodai unaweza kuona, hatia yako inabaki.",
           component: 118,
 
           subs: null
         },
         {
-          shloka: "10-18. No one takes life from me...",
+          shloka: "(10:18) Hakuna aniondoleaye uhai, bali mimi nautoa kwa hiari yangu mwenyewe. Ninayo mamlaka ya kuutoa na mamlaka ya kuutwaa tena. Amri hii niliipokea kutoka kwa Baba yangu.",
           component: 119,
 
           subs: null
         },
         {
-          shloka: "10-30.  I and the Father are one...",
+          shloka: "(10:30) Mimi na Baba tu umoja.",
           component: 120,
           subs: null
         },
         {
-          shloka: "11-25. Jesus said to her, “I am the...",
+          shloka: "(11:25) Yesu akamwambia, 'Mimi ndimi huo ufufuo na uzima. Yeye aniaminiye mimi, hata kama amekufa, atakuwa anaishi.'.",
           component: 121,
           subs: null
         },
         {
-          shloka: "11-26. Whoever lives by believing in...",
+          shloka: "(11:26) Anayeishi kwa kuniamini hatakufa kamwe.",
           component: 122,
           subs: null
         },
         {
-          shloka: "12-25. Anyone who loves their lif...",
+          shloka: "(12:25) Yeyote anayependa maisha yake atayapoteza, na yeyote anayechukia maisha yake katika ulimwengu huu atayaweka kwa uzima wa milele.",
           component: 123,
           subs: null
         },
         {
-          shloka: "12-40. He has blinded their eyes...",
+          shloka: "(12:40) Ameyapofusha macho yao, na akazifanya nyoyo zao kuwa ngumu, hata wasione kwa macho yao, wala wasione kwa nyoyo zao, wala wasigeuke, nami nitawaponya.",
           component: 124,
           subs: null
         },
         {
-          shloka: "12-47. If anyone hears my words...",
+          shloka: "(12:47) Ikiwa mtu atayasikia maneno yangu, lakini hayashiki, mimi simhukumu mtu huyo. Kwa maana sikuja kuhukumu ulimwengu, bali kuokoa ulimwengu.",
           component: 125,
           subs: null
         },
         {
-          shloka: "12-48. There is a judge for the one...",
+          shloka: "(12:48) Yuko hakimu kwa anaye nikataa na asiyekubali maneno yangu; maneno yale niliyosema yatawahukumu siku ya mwisho.",
           component: 125,
           subs: null
         },
         {
-          shloka: "12-49. For I did not speak on my own...",
+          shloka: "(12:49) Maana mimi sikunena kwa nafsi yangu, bali Baba aliyenituma ameniamuru niseme yote niliyonena.",
           component: 126,
           subs: null
         },
         {
-          shloka: "12-50. I know that his command leads...",
+          shloka: "(12:50) Najua kwamba amri yake inaongoza kwenye uzima wa milele. Kwa hiyo, chochote ninachosema ni kile ambacho Baba ameniambia niseme.",
           component: 126,
           subs: null
         },
         {
-          shloka: "14-7. If you really know me, you wi...",
+          shloka: "(14:7) Kama mngenijua mimi kweli, mngemjua na Baba yangu pia. Tangu sasa na kuendelea, mnamjua na mmemwona.",
           component: 127,
           subs: null
         },
         {
-          shloka: "14-8. Philip said, “Lord, show us the...",
+          shloka: "(14:8) Filipo akasema, 'Bwana, tuonyeshe Baba na hilo litatosha kwetu.'",
           component: 128,
           subs: null
         },
         {
-          shloka: "14-9. Jesus answered: “Don’t you know...",
+          shloka: "(14:9) Yesu akajibu: 'Je, hunijui, Filipo, hata baada ya kukaa kwenu muda mrefu namna hii? Yeyote aliyeniona mimi amemwona Baba. Unawezaje kusema, 'Tuonyeshe Baba?'",
           component: 128,
           subs: null
         },
         {
-          shloka: "14-10. Don’t you believe that I am in...",
+          shloka: "(14:10) huamini Kwamba mimi niko ndani ya Baba, na Baba yu ndani yangu? Maneno ninayowaambia siyasemi kwa mamlaka yangu mwenyewe. Badala yake, ni Baba, anayeishi ndani yangu, ambaye anafanya kazi yake.",
           component: 129,
           subs: null
         },
         {
-          shloka: "14-6. Jesus answered, “I am the way...",
+          shloka: "(14:6) Yesu akajibu, “Mimi ndimi njia na kweli na uzima. mtu haji kwa Baba ila kwa njia ya mimi.",
           component: 130,
           subs: null
         },
         {
-          shloka: "14-16. I will ask the Father, and he will...",
+          shloka: "(14:16) Nitamwomba Baba, naye atawapa Msaidizi mwingine wa kukusaidia na kuwa nawe milele.",
           component: 131,
           subs: null
         },
         {
-          shloka: "14-17. The world cannot accept him...",
+          shloka: "(14:17) Ulimwengu hauwezi kumkubali kwa sababu haumuoni wala haumtambui. Bali ninyi mnamjua, kwa maana anaishi pamoja nanyi na atakuwa ndani yenu.",
           component: 132,
           subs: null
         },
 
         {
-          shloka: "14-20. On that day you will realize...",
+          shloka: "(14:20) Siku hiyo mtatambua ya kuwa mimi niko ndani ya Baba yangu, nanyi mko ndani yangu, nami ni ndani yenu.",
           component: 133,
           subs: null
         },
         {
-          shloka: "14-25. All this I have spoken while...",
+          shloka: "(14:25) Hayo yote nimeyasema nikiwa bado nanyi.",
           component: 134,
           subs: null
         },
         {
-          shloka: "14-26. But the Advocate, the Holy Spirit...",
+          shloka: "(14:26) Lakini huyo Msaidizi, huyo Roho Mtakatifu, ambaye Baba atampeleka kwa jina langu, atawafundisha yote, na kuwakumbusha yote niliyowaambia.",
           component: 134,
           subs: null
         },
         {
-          shloka: " 15-23. Whoever hates me hates...",
+          shloka: "(15:23) Anayenichukia mimi anamchukia na Baba yangu pia.",
           component: 135,
           subs: null
         },
         {
-          shloka: "15-24. If I had not done among them the...",
+          shloka: "(15:24) Kama nisingalifanya miongoni mwao kazi ambazo hakuna mtu mwingine aliyezifanya, wasingalikuwa na dhambi. Kama ilivyo, wameona, na bado wamenichukia mimi na Baba yangu pia. Lakini hii ni ili kutimiza yale yaliyoandikwa katika Sheria yao: 'Walinichukia bila sababu.'",
           component: 136,
           subs: null
         },
         {
-          shloka: "15-25. But this is to fulfill what is...",
+          shloka: "(15:25) Lakini hii ni ili kutimiza yale yaliyoandikwa katika Sheria yao: 'Walinichukia bila sababu.'",
           component: 136,
           subs: null
         },
         {
-          shloka: "15-26. When the Advocate comes... ",
+          shloka: "(15:26) Atakapokuja huyo Msaidizi, nitakayewapelekea kutoka kwa Baba, huyo Roho wa kweli, atokaye kwa Baba, yeye atanishuhudia.",
           component: 137,
           subs: null
         },
         {
-          shloka: "15-27. And you also must testify...",
+          shloka: "(15:27) Na ninyi pia mnapaswa kushuhudia, kwa maana mmekuwa pamoja nami tangu mwanzo.",
           component: 137,
           subs: null
         },
         {
-          shloka: "16-7. But very truly I tell you, it is for...",
+          shloka: "(16:7) Lakini, amin, nawaambieni, ni kwa faida yenu kwamba mimi niondoke. Nisipoondoka, huyo Msaidizi hatakuja kwenu; lakini nikienda, nitampeleka kwenu.",
           component: 138,
           subs: null
         },
         {
-          shloka: "16-8. When he comes, he will prov...",
+          shloka: "(16:8) Atakapokuja, atauthibitisha ulimwengu kuwa uko katika makosa juu ya dhambi na uadilifu na hukumu.",
           component: 139,
           subs: null
         },
         {
-          shloka: "16-12. I have much more to say...",
+          shloka: "(16:12) Ninayo mengi ya kuwaambia, zaidi ya mnayoweza kustahimili sasa.",
           component: 140,
           subs: null
         },
         {
-          shloka: "16-13. But when he, the Spirit of truth...",
+          shloka: "(16:13) Lakini yeye atakapokuja, huyo Roho wa kweli, atawaongoza awatie kwenye kweli yote. Hatanena kwa nafsi yake; Atazungumza tu kile anachosikia, na atakuambia kile ambacho bado kitatokea.",
           component: 141,
           subs: null
         },
         {
-          shloka: "16-14. He will glorify me because...",
+          shloka: "(16:14) Atanitukuza mimi kwa sababu ni kutoka kwangu atapokea yale atakayowajulisha.",
           component: 142,
           subs: null
         },
         {
-          shloka: "16t-15. All that belongs to the Father...",
+          shloka: "(16:15) Yote yaliyo ya Baba ni yangu. Ndiyo maana nilisema kwamba Roho atapokea kutoka kwangu kwamba atawajulisha ninyi.",
           component: 142,
           subs: null
         },
         {
-          shloka: "16-16. Jesus went on to say, “In a...",
+          shloka: "(16:16) Yesu aliendelea kusema,'Bado kitambo kidogo hamtaniona tena, na baada ya kitambo kidogo mtaniona.",
           component: 143,
           subs: null
         },
         {
-          shloka: "16-17. At this, some of his disciple...",
+          shloka: "(16:17) Basi baadhi ya wanafunzi wake wakasemezana wao kwa wao, Ana maana gani kusema, Bado kitambo kidogo hamtaniona tena; na baada ya kitambo kidogo. nanyi mtaniona, na kwa sababu ninaenda kwa Baba?",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-18. They kept asking, “What does...",
+          shloka: "(16:18) Waliendelea kuuliza, 'Anamaanisha nini kwa kusema ‘bado kitambo kidogo’? Hatuelewi anachosema.'",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-19. Jesus saw that they wanted...",
+          shloka: "(16:19) Yesu alipoona walitaka kumwuliza juu ya jambo hilo, akawaambia, mnaulizana nilimaanisha nini niliposema baada ya muda mfupi hamtaniona tena, na baada ya muda mchache mtaniona?",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-20. Very truly I tell you, you wil...",
+          shloka: "(16:20) Amin, amin, nawaambia, mtalia na kuomboleza wakati ulimwengu ukifurahi. Mtahuzunika, lakini huzuni yenu itageuka kuwa furaha.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-21. A woman giving birth to a child...",
+          shloka: "(16:21) Mwanamke anayezaa ana uchungu kwa sababu wakati wake umefika; lakini mtoto akizaliwa, husahau dhiki kwa sababu ya furaha yake kwamba mtoto amezaliwa ulimwenguni.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-22. So, with you: Now is your time...",
+          shloka: "(16:22) Basi, pamoja nanyi: Sasa ni wakati wa huzuni yenu, lakini nitawaona tena nanyi mtafurahi, na hakuna mtu atakayewaondolea furaha yenu.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-25. Though I have been speaking...",
+          shloka: "(16:25) Ingawa nimekuwa nikisema kwa njia ya mfano, wakati unakuja ambapo sitatumia tena lugha ya namna hii bali nitawaambia waziwazi juu ya Baba yangu.",
           component: 145,
-
           subs: null
         },
 
@@ -4123,28 +4278,28 @@ verse: `
 
     },
     {
-      title: 'The Revelations ', component: 146, chapterNumber: 6, subs: null, icon: 'information'
+      title: 'Ufunuo wa Yohana', component: 146, chapterNumber: 6, subs: null, icon: 'information'
     },
     {
-      title: 'The Three Fingers', component: 147, chapterNumber: 7, subs: null, icon: 'information'
+      title: 'Vidole Vitatu', component: 147, chapterNumber: 7, subs: null, icon: 'information'
 
     },
     {
-      title: 'Good Friday - Bad Friday', component: 148, chapterNumber: 8, subs: null, icon: 'information'
+      title: 'Ijumaa Kuu au Ijumaa Mbaya?', component: 148, chapterNumber: 8, subs: null, icon: 'information'
 
     },
     {
-      title: 'A Letter From A Hindu', component: 149, chapterNumber: 9, subs: null, icon: 'information'
-
-    },
-
-    {
-      title: 'Glossary', component: 151, chapterNumber: 11, subs: null, icon: 'information'
+      title: 'Barua kutoka kwa Mhindu', component: 149, chapterNumber: 9, subs: null, icon: 'information'
 
     },
 
     {
-      title: 'Videos', component: 152, chapterNumber: 12, subs: null, icon: 'videocam'
+      title: 'FAHARASA', component: 151, chapterNumber: 11, subs: null, icon: 'information'
+
+    },
+
+    {
+      title: 'Video', component: 152, chapterNumber: 12, subs: null, icon: 'videocam'
 
     }
     // ,
