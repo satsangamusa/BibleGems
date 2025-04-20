@@ -2893,7 +2893,7 @@ Sri Sri Sri Acharya Prabodhananda Yogeeswarulu
 </p>`
 },
 {
-chapterName: "Glossary",
+chapterName: "FAHARASA",
 chapterNumber: 11,
 pageNumber: 151,
 verse: ``,
@@ -2901,78 +2901,81 @@ meaning: ``,
 pageText: `
 <ion-row>
 <ion-col class="ion-text-center">
-<b>GLOSSARY</b></ion-col>
+<b>FAHARASA</b></ion-col>
 </ion-row>
 <div class="poem">
 <div class="poemtext">
-<b>Achara Prakruti:</b> Unchangeable five elements - Sky, Air, Fire, Water and Earth. Those (Prakruti) that do not have karma. Prapancha. Pancha Bhutas.
+<b>Achara Prakruti</b>: Vipengele vitano visivyoweza kubadilika - Anga, Hewa, Moto, Maji na Dunia. Wale (Prakruti) ambao hawana karma. Prapancha. Pancha Bhutas.
 
-<b>Adharmas:</b> They are against dharmas. They cause good karma, bad karma, or both. Adharmas mentioned in Bhagavad-Gita - studying Vedas, doing charities, performing
-sacrifices (yajnas), penances (tapas) etc.
+<b>Adhamas</b>: Wanapinga dharma. Wanasababisha karma nzuri, karma mbaya, au zote mbili. Adharmas iliyotajwa katika Bhagavad-Gita - kusoma Vedas, kufanya misaada, kutoa dhabihu (yajnas), toba (tapas) nk.
 
-<b>Agami karma:</b> Newly coming sin and punya from birth to death. Impending karma.
+<b>Agami karma</b>: Dhambi mpya na punya kutoka kuzaliwa hadi kifo. Karma inayokuja.
 
-<b>Aham:</b> Part inside the body but not guna.
+<b>Aham</b>: Sehemu ndani ya mwili lakini si guna.
 
-<b>Antahkaranams:</b> Five subtle body parts - Jeeva (Jeevatma), Manas, Buddhi, Chittam, and Aham.
+<b>Antahkaranams</b>: Sehemu tano za mwili zilizofichika - Jeeva (Jeevatma), Manas, Buddhi, Chittam, na Aham.
 
-<b>Astrology:</b> One who knows spiritual wisdom knows the other person's karma with his wisdom and informs him. To know the future wisdom eye is required. That which is known with wisdom light.
+<b>Unajimu</b>: Anayejua hekima ya kiroho anajua karma ya mtu mwingine kwa hekima yake na anampa taarifa. Ili kujua hekima ya baadaye jicho inahitajika. Kile kinachojulikana kwa mwanga wa hekima.
 
-<b>Atma:</b> One who inhabits with mortal being. One who is imperishable. One who is in all living bodies. Atma. Akshara purusha. Immortal soul.
+<b>Atma</b>: Yule anayekaa na mtu anayeweza kufa. Mtu asiyeweza kuharibika. Yule aliye katika miili yote iliyo hai. Atma. Akshara purusha. Nafsi isiyoweza kufa.
 
-<b>Bhagavan:</b> One who came from God. One who came with God's information Christ, Svayambhu or Comforter or the only begotten Son. Advocate or Helper. Messenger of God. Guru.
+<b>Bhagavan</b>: Aliyetoka kwa Mungu. Aliyekuja na habari za Mungu Kristo, Svayambhu au Mfariji au Mwana pekee. Wakili au Msaidizi. Mtume wa Mungu. Guru.
 
-<b>Buddhi:</b> It is intellect in the body, which analyzes the pros and cons of an action. Chara Prakruti: The changing Prakruti. Jagath. Living beings. Chara Prakruti. The total body parts in every living being are 25. Covenant blood: Wisdom power. Essence of wisdom. God’s wisdom without the bonds of karma.
+<b>Buddhi</b>: Ni akili katika mwili, ambayo huchanganua faida na hasara za kitendo.
 
-<b>Devatas:</b> Invisible humans. Demi-gods.
+<b>Chara Prakruti</b>: Prakruti inayobadilika. Jagathi. Viumbe hai. Chara Prakruti. Jumla ya viungo vya mwili katika kila kiumbe hai ni 25.
 
-<b>Dharma Shastra: </b>Scripture with dharmas (wisdom). God’s commandments. Brahma Vidya. Super science.
+<b>Damu ya agano</b>: Nguvu ya hekima. Asili ya hekima. Hekima ya Mungu bila vifungo vya karma.
 
-<b>Dharmas:</b> Divine wisdom. Divine doctrines or principles. Commandments. Following dharmas leads to liberation from life and death.
+<b>Devatas</b>: Wanadamu wasioonekana. Demi-miungu.
 
-<b>Ghost: </b>Person living with a subtle body. Devil or demon.
+<b>Dharma Shastra</b>: Maandiko yenye dharmas (hekima). amri za Mungu. Brahma Vidya. Sayansi bora.
 
-<b>Jeevatma:</b> Mortal soul in the body. Kshara purusha or Jeeva.
+<b>Dharma</b>: Hekima ya kimungu. Mafundisho au kanuni za kimungu. Amri. Kufuatia dharmas kunasababisha ukombozi kutoka kwa maisha na kifo.
 
-<b>Gnanendriyas:</b> Five sensory organs - eye, ear, nose, tongue, and skin.
+<b>Roho</b>: Mtu anayeishi ndani ya mwili wa hila au asoonekans. Ibilisi au pepo.
 
-<b>Gnani:</b> A person who knows divine wisdom and dharmas. Brahma gnani.
+<b>Jeevatma</b>: Nafsi ya kufa mwilini. Kshara purusha au Jeeva.
 
-<b>Karma Chakra:</b> It is a set of 108 parts. Each of the 12 parts of the Karma chakra has a different type of karma. Each type of karma is further divided into nine parts. Twelve parts have 108 (12*9) types of karma.
+<b>Gnanendriyas</b>: Viungo vitano vya hisi - jicho, sikio, pua, ulimi na ngozi.
 
-<b>Karma visarga:</b> Dividing karma into tiny parts.
+<b>Gnani</b>: Mtu anayejua hekima ya kimungu na dharmas. Brahma gnani.
 
-<b>Karma Yogam:</b> When a Jeevatma recognizes Aham in his body and does not listen to what Aham says, then he does not get any karma. It is Jeeva's fight against Aham.
+<b>Karma Chakra</b>: Ni seti ya sehemu 108. Kila moja ya sehemu 12 za Karma chakra ina aina tofauti ya karma. Kila aina ya karma imegawanywa zaidi katika sehemu tisa. Sehemu kumi na mbili zina aina 108 (12*9) za karma.
 
-<b>Karma Yogi:</b> A person who knows wisdom and practices Karma Yogam.
+<b>Karma visarga</b>: Kugawanya karma katika sehemu ndogo.
 
-<b>Karma: </b>Invisible sin and punya.
+<b>Karma ya Yoga</b>: Wakati Jeevatma inapomtambua Aham katika mwili wake na haisikilizi kile Aham anasema, basi hapati karma yoyote. Ni vita vya Jeeva dhidi ya Aham.
 
-<b>Karmendriyas:</b> Hands, legs, mouth, anus, and sexual organ.
+<b>Karma Yogi</b>: Mtu anayejua hekima na kufanya mazoezi ya Karma Yogam.
 
-<b>Manas:</b> It functions as communicator between brain and organs. It remembers and recollects things.
+<b>Karma</b>: Dhambi isiyoonekana na punya.
 
-<b>Moksham:</b> Liberation from birth, death, life, sufferings, etc. Union with God. Paraloka, Mukti or Salvation. Liberation.
+<b>Karmendriyas</b>: Mikono, miguu, mdomo, mkundu, na kiungo cha ngono.
 
-<b>Paramatma:</b> Which is different from Atma. Father to entire living beings and Pancha Bhutas. God, The Holy Spirit, Allah, Purushottama, Uttama Purusha or the father of paraloka. Supreme soul.
+<b>Manas</b>: Inafanya kazi kama mawasiliano kati ya ubongo na viungo. Inakumbuka na kukumbuka mambo.
 
-<b>Prakruti:</b> Combination of Chara Prakruti and Achara Prakruti. Nature.
+<b>Moksham</b>: Ukombozi kutoka kuzaliwa, kifo, maisha, mateso, nk Muungano na Mungu. Paraloka, Mukti au Wokovu. Uhuru.
 
-<b>Prarabdha karma: </b>Pre-determined karma. This happens in this life from birth to death. Prarabdha karma is decided when a man is born.
+<b>Paramatma</b>: Ambayo ni tofauti na Atma. Baba kwa viumbe vyote vilivyo hai na Pancha Bhutas. Mungu, Roho Mtakatifu, Allah, Purushottama, Uttama Purusha au baba wa paraloka. Nafsi ya juu.
 
-<b>Punya:</b> It comes from the good deeds. That which causes pleasures in life.
+<b>Prakruti</b>: Mchanganyiko wa Chara Prakruti na Achara Prakruti. Asili.
 
-<b>Purusha: </b>Pertaining to Paramatma in any living being.
+<b>Prarabdha karma</b>: Karma iliyoamuliwa mapema. Hii hutokea katika maisha haya tangu kuzaliwa hadi kufa. Karma ya Prarabdha huamuliwa wakati mtu anazaliwa.
 
-<b>Sanchita karma:</b> The karma accumulated like a heap after experiencing karma in every birth is called sanchita karma.
+<b>Punya</b>: Inatokana na matendo mema. Ambayo husababisha raha maishani.
 
-<b>Sin:</b> It comes from bad deeds. It causes difficulties and grief.
+<b>Purusha</b>: Inahusu Paramatma katika kiumbe chochote kilicho hai.
 
-<b>Tanmatras:</b> Derivative energies (sight, hearing, smell, taste, and touch) that connected to sense organs.
+<b>Sanchita karma</b>: Karma iliyokusanywa kama lundo baada ya uzoefu karma katika kila kuzaliwa inaitwa sanchita karma.
 
-<b>Upadesa:</b> Obtaining fire of wisdom as charity. Country which is not country (Everyone who has wisdom eye must see). Wisdom energy, Paramatma. Baptism. Wisdom initiation.
+<b>Dhambi</b>: Inatokana na matendo mabaya. Husababisha shida na huzuni.
 
-<b>Yogi:</b> One who is in Yogam. The doer of Yogam. A person who knows divine wisdom and practices dharmas.
+<b>Tanmatras</b>: Nishati zinazotokana (kuona, kusikia, kunusa, kuonja na kugusa) ambazo zimeunganishwa na viungo vya hisi.
+
+<b>Upadesa</b>: Kupata moto wa hekima kama sadaka. Nchi ambayo sio nchi (Kila mtu mwenye hekima jicho lazima aone). Nishati ya hekima, Paramatma. Ubatizo. Kuanzishwa kwa hekima.
+
+<b>Yogi</b>: Mmoja ambaye yuko kwenye Yogam. Mtendaji wa Yogam. Mtu anayejua hekima ya kimungu na anatenda dharmas. 
 </div>
 </div>`
 },
