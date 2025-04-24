@@ -86,2529 +86,2644 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "The Secret of Creation",
+chapterName: "Imfihlo Yendalo",
 chapterNumber: 1,
 pageNumber: 1,
 verse: ``,
 meaning: ``,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Paramatma (God) was neither male nor female before the universe was created. Paramatma wanted to create the universe and thus brought into existence feminine Prakruti or Maya (Satan). He determined the required characteristics and all the necessary methods for it. Since Prakruti was female, Paramatma stood in stark contrast to her, and this characteristic is known as Purusha (male). Paramatma desired Prakruti to be entirely opposite to Him, so He granted her equal authority because He believed that the game would be more exciting when both opponents possessed equal strength. Prakruti (Satan) is contrary to Paramatma but not an enemy. Although it is natural for God (Paramatma) to face opposition from Satan (Prakruti), they are not enemies of each other.
+<div class="poem"><div class="poemtext">
+  UParamatma (uNkulunkulu) wayengeyena owesilisa noma owesifazane ngaphambili indawo yonke yadalwa. I-Paramatma yayifuna ukudala ifayela le- indawo yonke futhi ngaleyo ndlela kwavela iPrakruti yesifazane noma UMaya (uSathane). Wanquma izici ezidingekayo futhi zonke izindlela ezidingekayo ngakho. Njengoba uPrakruti wayengowesifazane, I-Paramatma yayihluke kakhulu kuye, futhi lokhu Isici saziwa ngokuthi iPurusha (owesilisa). I-Paramatma ifisa U-Prakruti ukuba ahluke ngokuphelele kuye, ngakho wamnikeza ukulingana igunya ngoba Wayekholelwa ukuthi umdlalo uzoba ngaphezulu kuyajabulisa lapho bobabili abaphikisi benamandla alinganayo. I-Prakruti (uSathane) iphambene neParamatma kodwa ayisona isitha. Nakuba kungokwemvelo kuNkulunkulu (Paramatma) ukubhekana nokuphikiswa kusuka kuSathane (Prakruti), abazona izitha zomunye nomunye.
 
-  Paramatma, who created Prakruti, will eventually absorb her into Himself. He is the father, husband, and destructor of Prakruti, as well as the force within her. Paramatma, who is vast, created Prakruti and is engaged in a game called ‘Jagath.’ In this game, Paramatma disguises Himself as Purusha (male) even though outside of the play, He is neither male nor female. Prakruti is divided into five elements - Sky, Air, Fire, Water, and Earth - and is named Prapancha. After creating Prakruti, Paramatma desired to create a Jagath consisting of living beings that experience birth and death. He achieved this by creating living beings with Atma and constructing Jagath within the Prapancha. In Telugu, <b>‘Ja’</b> means birth, and <b>‘Gati’</b> means death. Hence, all living beings are aptly named <b>‘Jagath,’</b> indicating that it consists of birth and death.
+  I-Paramatma, eyadala i-Prakruti, izogcina amufake kuYe. Ungubaba, umyeni, futhi umbhubhisi wePrakruti, kanye namandla angaphakathi kwakhe. UParamatma, omkhulu, udale iPrakruti futhi umatasatasa umdlalo obizwa ngokuthi &lsquo;iJagath.&rsquo; Kulo mdlalo, uParamatma uyazifihla Yena ngokwakhe njengoPurusha (owesilisa) nakuba engaphandle komdlalo, Yena akayena owesilisa nowesifazane. I-Prakruti ihlukaniswe yaba yisihlanu izakhi - Isibhakabhaka, Umoya, Umlilo, Amanzi, Nomhlaba - futhi ibizwa ngegama I-Prapancha. Ngemva kokudala i-Prakruti, iParamatma yayifisa ukwenza kanjalo dala i-Jagath ehlanganisa izidalwa eziphilayo ezithola ukuzalwa nokufa. Uzuze lokhu ngokudala izidalwa eziphilayo nge-Atma kanye nokwakha iJagath ngaphakathi kwePrapancha. Ku IsiTelugu, <b>&lsquo;Ja&rsquo; </b>kusho ukuzalwa, futhi <b>&lsquo;Gati&rsquo; </b>kusho ukufa. Ngakho, konke izinto eziphilayo ziqanjwe ngokufanelekile ngokuthi <b>&lsquo;iJagathi,&rsquo; </b>okubonisa ukuthi lihlanganisa wokuzalwa nokufa.
 
-  Paramatma created Jagath, consisting of living beings within Prakruti. While Prakruti (female) and Paramatma (Purusha) are considered equals, Jagati was born separately later. Thus far, Paramatma has created Prakruti (Prapancha) and Jagath, resulting in three components, including Paramatma. Initially, Paramatma, who was neither male nor female, created Prakruti. Then, Paramatma transformed into Purusha (Atma), took Prakruti as His wife, and together, they brought forth a unique offspring named Jagath. If we disregard these relationships, Paramatma created three distinct parts - Prakruti, Purusha, and Jagath. Prakruti is female, Paramatma is male (Purusha), and Jagath should be considered as non-binary (neither male nor female). The primary game is that Paramatma and Prakruti drag Jagath (non-binary), which exists between them. There are rules for this game. Although Paramatma defined the rules, He participates in the game according to the very rules He established, even though He is the creator of all and superior to all. This game, like others, has a time limit. The time limit for the game of Jagath is 1000 Yugas or 108 crores of years, similar to how football has a 90-minute time limit or cricket has a limit of 50 overs. The game experiences break during the night and continues during the day, with each playing and resting period spanning 108 crores (1.08 billion) years.
+  I-Paramatma idale i-Jagath, ehlanganisa izidalwa eziphilayo ngaphakathi Prakruti. Ngenkathi uPrakruti (owesifazane) noParamatma (I-Purusha) ithathwa njengelingana, uJagati wazalwa ngokuhlukana kamuva. Kuze kube manje, iParamatma idale iPrakruti (Prapancha) kanye neJagathi, okuholela ezingxenyeni ezintathu, kuhlanganise I-Paramatma. Ekuqaleni, uParamatma, owayengeyena owesilisa noma female, wadala Prakruti. Ngemuva kwalokho, iParamatma yaguqulwa yaba UPurusha (Atma), wathatha uPrakruti njengomkakhe, futhi ndawonye, bona wazala inzalo eyingqayizivele ebizwa ngokuthi uJagati. Uma singanaki lobu budlelwano, iParamatma idale izingxenye ezintathu ezihlukene - ePrakruti, ePurusha, naseJagath. UPrakruti ngowesifazane, uParamatma ungowesifazane owesilisa (iPurusha), kanye neJagathi kufanele kuthathwe njengokungewona kanambambili (akukho owesilisa noma owesifazane). Umdlalo oyinhloko yilokho I-Paramatma ne-Prakruti idonsa i-Jagath (okungeyona kanambambili), ekhona phakathi kwabo. Kunemithetho yalo mdlalo. Nakuba I-Paramatma ichaze imithetho, Ubamba iqhaza emdlalweni ngokwemithetho ayimisayo, noma Ekhona umdali wakho konke futhi ongaphezu kwakho konke. Lo mdlalo, njengeminye, unayo umkhawulo wesikhathi. Umkhawulo wesikhathi wegeyimu ye-Jagath ngu-1000 Yugas noma i-108 crores yeminyaka, efana nendlela ibhola elinemizuzu engama-90 umkhawulo wesikhathi noma ikhilikithi inomkhawulo wama-overs angu-50. Umdlalo imizwa iphuka ebusuku futhi iyaqhubeka phakathi nosuku usuku ngalunye, isikhathi ngasinye sokudlala nesokuphumula sithatha ama-crores angu-108 (1.08 billion) iminyaka.
 
-  Paramatma, non-specific and undefined, initially created Prapancha (without life- form) and subsequently brought forth the living beings (Jagath). Paramatma created Prakruti and became recognized as Purusha. He created Atma and divided Prakruti, which conceives with Atma’s seed, into five parts. Such Prakruti is called Pancha Bhutas or Prapancha. Paramatma divided Atma and Jeevatma into three parts: Jeevatma (the life-form Jagath), Atma, and Paramatma. He became recognized as Paramatma after creating Jeevatmas and Atma. He became recognized as Paramatma alongside Atmas (Jeevatma and Atma) and as Purusha alongside Prakruti. There is a basis for calling Him Purusha when there is Prakruti and Paramatma when souls are present. If Prakruti and Atmas do not exist, it is not possible to define Him. The life-form Jagath was born of Prakruti and Purusha. Paramatma planned so that the mother and father in Jagath have the attributes of Prakruti and Purusha.
+  I-Paramatma, engacacisiwe futhi engacacisiwe, ekuqaleni wadala i-Prapancha (ngaphandle kwendlela yokuphila) futhi kamuva wakhipha izidalwa eziphilayo (iJagath). I-Paramatma idaliwe Prakruti futhi waqashelwa ngokuthi Purusha. Wakha u-Atma futhi yahlukanisa i-Prakruti, ekhulelwa nenzalo ka-Atma, yaba izingxenye ezinhlanu. I-Prakruti enjalo ibizwa ngokuthi i-Pancha Bhutas noma i-Prapancha. I-Paramatma ihlukanise i-Atma ne-Jeevatma izingxenye ezintathu: I-Jeevatma (i-fe-form Jagath), i-Atma, ne-Paramatma. Yena yaziwa njengeParamatma ngemuva kokudala iJeevatmas kanye ne-Atma. Waqashelwa njengeParamatma eceleni I-Atmas (i-Jeevatma ne-Atma) kanye ne-Purusha eceleni kwe-Prakruti. Kunesisekelo sokumbiza ngoPurusha uma kukhona iPrakruti kanye neParamatma lapho imiphefumulo ikhona. Uma Prakruti futhi Atmas azikho, akwenzeki ukumchaza. Indlela yokuphila iJagath wazalwa uPrakruti noPurusha. I-Paramatma ihlele kanjalo umama nobaba eJagath banezimfanelo zePrakruti kanye nePurusha.
 
-  Prakruti possesses characteristics opposite to those of Purusha. However, Jagath consists of attributes from both Prakruti and Purusha. The life-form Jagath embodies both Paramatma-related Jeevatma and Atmas, as well as Prakruti-related bodies and gunas. The belief in the existence of God aligns with Atma, while the opposing view that God does not exist aligns with Prakruti. Human beings in Jagath exhibit characteristics of both Prakruti and Purusha. To symbolize the traits of Prakruti and Purusha, women’s bodies were created to resemble Prakruti, while men’s bodies were designed to represent Paramatma. Non-binary individuals were also created to symbolize Jagath, indicating that Jagath exists in addition to Prakruti and Paramatma. Women, men, and non-binary individuals symbolize Prakruti, Paramatma, and the living Jagath. Prakruti = Women, Jagath = Non-binary, and Paramatma = Purusha (Male). God made His creation known by creating females to resemble Prakruti, non-binary individuals to symbolize Jagath, and males to represent Paramatma. God brought children into the world through the union of males and females to illustrate that the living Jagath is born of Atma and Prakruti. The visible mother, father, and offspring illustrate how creation initially occurred. Many individuals, despite their intelligence, often do not contemplate why men differ from women and why offspring are born from both men and women. To truly grasp spirituality, it is essential to understand the basics of the <b>‘Secret of Creation’</b> in spiritual education.
+  I-Prakruti inezici eziphambene nalezo ze Phurusha. Kodwa-ke, iJagath iqukethe izimfanelo zazo zombili Prakruti futhi Purusha. I-Jagath yesimo sempilo ihlanganisa kokubili I-Jeevatma ne-Atmas ehlobene neParamatma, kanye nePrakruti imizimba ehlobene nezibhamu. Inkolelo yokuthi uNkulunkulu ukhona ihambisana ne-Atma, kuyilapho umbono ophikisayo wokuthi uNkulunkulu akakwenzi zikhona ezihambisana Prakruti. Umbukiso wabantu eJagath izici zazo zombili iPrakruti nePurusha. Ukufanekisa izici zePrakruti nePurusha, imizimba yabesifazane yadalwa ukuze ifana nePrakruti, kuyilapho imizimba yamadoda zenzelwe uku bamele iParamatma. Abantu abangebona kanambambili nabo babekhona idalwe ukuze ifanekisele iJagati, okubonisa ukuthi iJagati ikhona ngaphezu kwePrakruti neParamatma. Abesifazane, amadoda, nabangewona abantu kanambambili bafanekisela iPrakruti, iParamatma, kanye ne ohlala eJagathi. I-Prakruti = Abesifazane, i-Jagath = Okungeyona kanambambili, kanye Paramatma = Purusha (Owesilisa). UNkulunkulu wenza indalo Yakhe yaziwe ngokuthi ukudala abesifazane ukuze bafane noPrakruti, abantu abangabodwana kanambambili ukufanekisela iJagath, futhi abesilisa bamele iParamatma. uNkulunkulu waletha izingane emhlabeni ngokuhlangana kwabesilisa kanye abesifazane ukukhombisa ukuthi uJagathi ophilayo uzalwa ngu-Atma kanye I-Prakruti. Umama obonakalayo, ubaba, nenzalo bayabonisa ukuthi ukudalwa kwenzeka kanjani ekuqaleni. Abantu abaningi, naphezu kwabo ubuhlakani, ngokuvamile abacabangi ukuthi kungani amadoda ehluka kubo abesifazane futhi kungani inzalo izalwa kokubili amadoda kanye abesifazane. Ukuze ubambe ingokomoya ngempela, kubalulekile ukuqonda izisekelo <b>&lsquo;zeMfihlo Yendalo&rsquo; </b>emfundweni engokomoya
 
-  It is important to understand that the game between God and Prakruti is friendly in nature. Prakruti and Paramatma engage in a gentle tug-of-war, each attempting to draw Jeevatma to their respective sides in this game. Paramatma’s duty is to impart wisdom to Jeevatma, guiding them towards Him. Conversely, Prakruti, in the form of Maya with its weapon of gunas, keeps human beings occupied, preventing them from contemplating God. Prakruti ensnares individuals in their daily activities, diverting their full attention towards worldly pursuits, and obstructing them from turning towards God through the influence of desire and associated gunas. The grandest game between Paramatma and Prakruti remains nameless. In the form of Maya, Prakruti subtly pulls everyone toward its side, often without their awareness. If anyone within Jagath thinks about God and seeks knowledge about Him, Maya (Prakruti) tends to focus on and ensnare them. Maya (Satan) appears stronger than God in this ongoing struggle between God and Satan. Currently, it holds the allegiance of 99 percent of human beings. In such a scenario, when God’s defeat may seem inevitable, Paramatma should strive to prevail.
+  Kubalulekile ukuqonda ukuthi umdlalo phakathi UNkulunkulu noPrakruti banobungane emvelweni. I-Prakruti neParamatma babambene ngezihluthu, ngamunye ezama ukudweba I-Jeevatma ezinhlangothini ezihlukene kulo mdlalo. I-Paramatma Umsebenzi uwukunikeza ubuhlakani kuJeevatma, ubaqondise ngakubo Yena. Ngakolunye uhlangothi, iPrakruti, ngesimo samaMaya nesikhali sayo yezibhamu, igcina abantu bematasa, ibavimbele ezindla ngoNkulunkulu. I-Prakruti ibamba abantu nsuku zonke imisebenzi, ephambukisa ukunaka kwabo ngokugcwele ezintweni zezwe, futhi zibavimbele ekuphendukeleni kuNkulunkulu ngokusebenzisa ithonya lesifiso kanye nezibhamu ezihambisanayo. Umdlalo omkhulu kakhulu phakathi kweParamatma nePrakruti kuhlala kungaziwa. Kwe uhlobo lwamaMaya, iPrakruti idonsela wonke umuntu eceleni kwayo, ngokuvamile ngaphandle kokuqaphela kwabo. Uma kukhona ongaphakathi eJagath uyacabanga ngoNkulunkulu futhi ufuna ulwazi Ngaye, Maya (Prakruti) ijwayele ukugxila futhi ibacuphe. Kuvela uMaya (uSathane). enamandla kunoNkulunkulu kulomzabalazo oqhubekayo phakathi kukaNkulunkulu kanye USathane. Njengamanje, ibambe ukwethembeka kwamaphesenti angama-99 abantu izidalwa. Esimweni esinjalo, lapho ukunqotshwa kukaNkulunkulu kungase kubonakale Ngokungenakugwemeka, iParamatma kufanele ilwele ukunqoba.
 
-  As part of His endeavors, Paramatma will incarnate as a human among humanity and speak of Himself, aiming to guide people toward Him. As previously mentioned, there is no true adversary, and each side employs its own strategy. Both Satan (Maya) and God coexist within every human being, but individuals are often unaware of their presence and struggle to recognize God or Maya. Humans frequently remain oblivious to whose side they are on. God strives to liberate individuals ensnared by Maya’s influence, and in this pursuit, Paramatma is born on Earth as the Son of God. However, following the rules of the cosmic game, He must not reveal His identity as the Son of God. Thus, when God incarnates as a human, He speaks of Paramatma as an ordinary individual. Paramatma imparts His wisdom and re-establishes His dharma. Conversely, Maya formulates strategies to depict the Son of God as ignorant and foolish. It creates Gurus and Swamijis who promote Maya’s adharmas as dharmas and present the Son of God’s teachings as adharmas. Maya competes with the Son of God through these Gurus and Swamijis, leading humans to embrace its teachings instead of God’s wisdom. Maya employs terms such as Paramatma, moksham, wisdom, and practice to convey its adharmas to humans, making it challenging to distinguish God’s dharma from Satan’s adharmas.
+  Njengengxenye yemizamo Yakhe, iParamatma izoba yinyama njenge umuntu phakathi kwesintu futhi akhulume Ngaye, ehlose ukuqondisa abantu kuYe. Njengoba kushiwo ngaphambili, alikho iqiniso isitha, futhi uhlangothi ngalunye lisebenzisa isu lalo. Bobabili uSathane (Maya) noNkulunkulu uphilisana phakathi kwawo wonke umuntu, kodwa abantu ngokuvamile abaqapheli ubukhona babo kanye nomzabalazo wabo qaphela uNkulunkulu noma uMaya. Abantu bavame ukuhlala bengenandaba basohlangothini lukabani. UNkulunkulu ulwela ukukhulula abantu ngabanye ebanjwe ithonya likaMaya, futhi kulokhu, iParamatma izalwa eMhlabeni njengeNdodana kaNkulunkulu. Nokho, ukulandela imithetho womdlalo we-cosmic, Akumele embule ubuyena njengeNdodana kaNkulunkulu. Ngakho, lapho uNkulunkulu ethatha isimo somuntu, ukhuluma ngaye I-Paramatma njengomuntu ojwayelekile. I-Paramatma idlulisa Yakhe ukuhlakanipha futhi amise kabusha i-dharma Yakhe. Ngokuphambene, Maya uqamba amasu okuveza iNdodana kaNkulunkulu njengengenalwazi futhi ubuwula. Idala amaGurus namaSwamiji akhuthaza amaMaya adharmas njenge-dharmas futhi wethule izimfundiso zeNdodana kaNkulunkulu njenge-adharma. UMaya uqhudelana neNdodana kaNkulunkulu ngokusebenzisa lezi Gurus kanye Swamijis, okuholela abantu ukuba bamukele yayo izimfundiso esikhundleni sokuhlakanipha kukaNkulunkulu. AmaMaya asebenzisa amagama anjalo njenge-Paramatma, i-moksham, ukuhlakanipha, nokuzijwayeza ukudlulisa ama-adharma kubantu, okwenza kube inselele ukuhlukanisa I-dharma kaNkulunkulu evela kuma-adharma kaSathane.
 
-  If someone seeks to find God, Maya renders them unable to distinguish between dharmas and adharmas, leading them to believe whatever is presented to them. It is a fundamental rule of the cosmic game that both Satan (Maya) and God should not overtly reveal their presence on Earth. When Paramatma incarnates as Bhagavan on Earth, He refrains from declaring, “I am Paramatma.” By the same rule, when Prakruti is born on Earth, it does not proclaim, “I am Maya.” However, when Maya incarnates, it can assert, “I am Bhagavan.” Following this principle, Maya (Satan) proclaims itself as Bhagavan (the Son of God), performs numerous miracles, and manifests in the form of various Swamijis. When Paramatma is born in one place on Earth, Prakruti creates many individuals bearing the name Bhagavan. Paramatma’s birth is intended solely to impart His dharmas without being openly recognized as Bhagavan. Concurrently, Maya generates many with the name Bhagavan even before the birth of Paramatma. Maya causes humans to hear its words and prevents them from listening to the words of the genuine Bhagavan. In this cosmic game, Maya exerts its influence, and God fulfills His purpose.
+  Uma othile efuna ukuthola uNkulunkulu, uMaya uyamnikeza ayikwazi ukuhlukanisa phakathi kwama-dharma nama-adharma, okuholayo ukuze bakholwe konke okunikezwa kubo. Kuyi-umthetho oyisisekelo womdlalo we-cosmic ukuthi bobabili uSathane (Maya) futhi uNkulunkulu akufanele aveze ngokusobala ubukhona babo eMhlabeni. Lapho i-Paramatma ithatha i-Bhagavan Emhlabeni, Yena uyenqaba ukusho ukuthi, "NgiyiParamatma." Ngomthetho ofanayo, lapho uPrakruti ezalwa eMhlabeni, akamemezeli ukuthi, &ldquo;Nginguye Maya.&rdquo; Nokho, lapho uMaya ezalwa, angagomela, &ldquo;Nginguye Bhagavan.&rdquo; Elandela lesi simiso, uMaya (uSathane) uyamemezela yona uqobo njengeBhagavan (iNdodana kaNkulunkulu), yenza okuningi izimangaliso, futhi kubonakala ngendlela yamaSwamiji ahlukahlukene. Nini I-Paramatma izalelwa endaweni eyodwa eMhlabeni, i-Prakruti idala abantu abaningi ababizwa ngegama elithi Bhagavan. I-Paramatma ukuzalwa kuhloswe kuphela ukunikeza i-dharmas Yakhe ngaphandle kokuba eyaziwa ngokusobala njengeBhagavan. Ngesikhathi esifanayo, iMaya ikhiqiza abaningi abanegama elithi Bhagavan ngisho nangaphambi kokuzalwa kuka I-Paramatma. IMaya yenza abantu bezwe amazwi ayo futhi ibavimbela ekulaleleni amazwi aqotho Bhagavan. Kulo mdlalo we-cosmic, i-Maya isebenzisa ithonya layo, futhi UNkulunkulu uyayifeza injongo Yakhe.
 
-  While Maya continually takes the form of gunas within the human body, God exists in the form of Atma within the body. We previously mentioned that Maya and Paramatma would incarnate as human beings on Earth. It is important to understand the bodies they will assume. Maya incarnates in a male body as Bhagavan and a female body as Bhagavati. Paramatma consistently incarnates in a male body. Prakruti, as a female, typically wears a female body, but she can also manifest in a male body to deceive others. It may be challenging to discern the true Bhagavan in the forms of Bhagavati and Bhagavan. It’s crucial to note that Bhagavan is always incarnated as a male. The Heavenly Father, Paramatma, was incarnated as Jesus in male form. His birth occurred through a virgin womb without the involvement of a human father. Paramatma incarnates on Earth when the need arises, with <b>Jesus</b> being one such incarnation. The Holy Spirit is also expected to be incarnated on Earth in the future. We have written this scripture to inform you that no matter how many times the same Paramatma is born, He will reveal the same dharmas. The purpose of this scripture is to help readers understand the essential words of Jesus in the New Testament of the Bible and to compare them with the teachings of the Bhagavad-Gita. By reading this, we hope you will come to know the greatness of Jesus and the inner spirit of Krishna.
-</div></div>
-<ion-row><ion-col class="ion-text-center">
-<b>By  <br><br>
-The only Guru of Three Religions, Originator of Thraitha Theorem, The Author of One Hundred Divine Scriptures </b><br><br>
-<span style="font-size:20px;font-weight:bold">Sri. Sri. Sri Acharya Prabodhananda Yogeeshwarulu</span>
-</ion-col></ion-row>
+  Ngenkathi amaMaya ehlala ethatha uhlobo lwezibhamu ngaphakathi umzimba womuntu, uNkulunkulu ukhona ngesimo Atma ngaphakathi umzimba. Sishilo ngaphambilini ukuthi iMaya neParamatma uzokwenziwa abantu emhlabeni. Kubalulekile uku baqonde imizimba abazoyithatha. I-Maya umzimba wesilisa njenge Bhagavan nomzimba wesifazane njenge Bhagavati. I-Paramatma ihlala izalwa emzimbeni wesilisa. Prakruti, njengoba owesifazane, ngokuvamile ugqoka umzimba wesifazane, kodwa futhi uyakwazi zibonakalisa emzimbeni wesilisa ukuze akhohlise abanye. Kungenzeka inselele yokwehlukanisa iBhagavan yeqiniso ngezindlela ze IBhagavati neBhagavan. Kubalulekile ukuqaphela ukuthi uBhagavan unjalo njalo efakwe njengomuntu wesilisa. UBaba waseZulwini, Paramatma, wathathwa njengoJesu ngesimo sowesilisa. Ukuzalwa kwakhe kwenzeka ngesibeletho sentombi ngaphandle kokubandakanyeka komuntu ubaba. I-Paramatma incarnates Emhlabeni lapho kuphakama isidingo, <b>noJesu</b> engomunye onjalo. UMoya oNgcwele futhi kulindeleke ukuthi afakwe eMhlabeni esikhathini esizayo.
+
+  Sibhale lo mbhalo ukukwazisa ukuthi cha kungakhathaliseki ukuthi iParamatma efanayo izalwa kangaki, Uyokwenza yembula ama-dharmas afanayo. Inhloso yalombhalo ukusiza abafundi baqonde amazwi kaJesu abalulekile encwadini ye testamente ensha futhi ukuziqhathanisa ne izimfundiso zeBhagavad-Gita. Ngokufunda lokhu, sithemba wena bayofinyelela ekwazini ubukhulu bukaJesu nomoya ongaphakathi we Krishna.
+
+  <b>Ngu</b>
+  <b>Okuwukuphela kweGuru Yezinkolo Ezintathu,</b>
+  <b>Umsunguli we Thraitha Theorem, UMlobi WemiBhalo Engcwele Eyikhulu ESri. ESri. Sri Acharya Prabodhananda Yogeeshwarulu</b>
+
+  </div></div>
+
 </span>`,
 
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 2,
-verse: `<b>(1) The Gospel of Mathew, 3rd chapter, 7th verse.</b>`,
+verse: `<b>(1) IVangeli likaMathewu, isahluko 3, ivesi lesi-7.</b>`,
 meaning: `<b>
-(7) You brood of vipers! Who warned you to flee from the coming wrath?
+(3:7) Nina nzalo yezinyoka! Ubani owakuxwayisa ukuba ubalekele ulaka oluzayo?
 </b>`,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> In this verse, <b>‘brood of vipers’</b> is a new term. The term was used to refer to humans. However, there is doubt about whether humans can be considered the offspring of snakes. This raises a question for anyone who reads this verse. In this verse, we also need to delve into the detailed meaning of <b>‘coming wrath.’ </b>Additionally, another word in this verse is <b>‘Who warned you?’</b> This phrase refers to a past time, and we should seek to understand who warned humans in the past. There are three questions we need answers to in this verse.
+<div class="poem"><div class="poemtext">
+  Kuleli vesi, <b>&lsquo;inzalo yamabululu&rsquo; </b>igama elisha. Igama lalisetshenziselwa ukubhekisela kubantu. Nokho, kukhona ukungabaza mayelana ukuthi abantu bangathathwa njengenzalo yezinyoka. Lokhu kuphakamisa umbuzo kunoma ubani ofunda leli vesi. Kulokhu ivesi, sidinga futhi sijule encazelweni enemininingwane <b>&lsquo;lokuza kolaka.&rsquo;</b> Ngaphezu kwalokho, elinye igama kuleli vesi ithi <b>&lsquo;Ubani okuxwayise?&rsquo; </b>Le nkulumo ibhekisela esikhathini esidlule, nathi kufanele ifune ukuqonda ukuthi ubani owaxwayisa abantu esikhathini esidlule. Kunemibuzo emithathu esidinga izimpendulo zayo kuleli vesi.
 
-  A bird is an enemy to a snake. The bird can kill the snake. The snake initially hisses to scare the bird, but the bird is not afraid. The bird can eat the snake as its food. This is common knowledge. The serpent and the bird are used as metaphors in the context of spiritual education. The pigeon among the birds is compared to Atma, while the serpent is compared to Maya. Although the verse doesn’t mention the bird, it does mention the serpent. When the serpent is compared to Maya (Satan), ‘brood of vipers’ can be understood as ‘offspring of Maya.’ To be more precise, ‘brood of vipers’ is used instead of ‘human beings with Maya.’
+  Inyoni isitha senyoka. Inyoni ingabulala inyoka. Inyoka iqale ihayize ukuze yethuse inyoni, kodwa akunjalo besaba. Inyoni ingadla inyoka njengokudla kwayo. Lokhu kuvamile ulwazi. Inyoka nenyoni zisetshenziswa njengezingathekiso ku umongo wemfundo engokomoya. Ijuba phakathi kwezinyoni iqhathaniswa ne-Atma, kuyilapho inyoka iqhathaniswa neMaya. Nakuba leli vesi lingakhulumi ngenyoni, liyakhuluma inyoka. Lapho inyoka iqhathaniswa neMaya (uSathane), &lsquo;Inzalo yezinyoka&rsquo; ingaqondwa &lsquo;njengenzalo kaMaya.&rsquo; Kunemba kakhudlwana, &lsquo;inzalo yamabululu&rsquo; isetshenziswa esikhundleni sokuthi &lsquo;umuntu izidalwa noMaya.&rsquo;
 
-  Maya refers to the composition of gunas. Those who are constantly preoccupied with gunas and show no concern for God are referred to as the ‘brood of vipers.’ It becomes known that impending wrath awaits those who are entangled in Maya. <b>Wrath, in this context, signifies something terrible or difficult to bear.</b> The term ‘coming wrath’ suggests that it does not currently exist but will manifest in the future. What humans do not initially possess but will acquire due to Maya (gunas) are all kinds of good (punya) and bad karma (sin). The experiences resulting from bad karma can be quite terrible. Therefore, <b>‘coming wrath’ alludes to the karma that will manifest in human life.</b> Every human who is born accumulates karma, which is why the verse <b>‘You brood of vipers! Who warned you to flee from the coming wrath?’</b> serves as a warning to humans.
+  I-Maya ibhekisela ekubunjweni kweGunas. Labo abakhona ehlale ematasa ngezibhamu futhi engakhombisi ukukhathazeka UNkulunkulu ubizwa ngokuthi &lsquo;inzalo yezinyoka.&rsquo; Iyaziwa ukuthi ulaka oluzayo lulindele labo ababoshiwe UMaya. <b>Ulaka, kulo mongo, lusho into embi kakhulu noma okunzima ukukuthwala. </b>Igama elithi &lsquo;intukuthelo ezayo&rsquo; lisikisela lokho ayikho okwamanje kodwa izobonakala ngokuzayo. Ini abantu abanalo ekuqaleni kodwa bazozuza ngenxa kaMaya (gunas) yizo zonke izinhlobo zokuhle (punya) kanye ne-karma embi (isono). Iokuhlangenwe nakho okubangelwa i-karma embi kungase kube kubi kakhulu. Ngakho-ke, <b>&lsquo;ukuza kolaka&rsquo; kubhekiselwa ku-karma ezokwenza kubonakala empilweni yomuntu</b>. Wonke umuntu ozelwe iqongelela i-karma, yingakho ivesi elithi <b>&lsquo;Nina nzalo ka izinyoka! Ubani owanixwayisa ukuba nibalekele okuzayo ulaka?&rsquo;</b> lusebenza njengesixwayiso kubantu.
 
-  When the verse mentions, ‘who warned you?’ it suggests that someone in the past provided humans with wisdom to escape karma. This verse implies that there was an individual who told an idea in the past to help people evade impending karma. Consequently, it’s important for humans to uncover the identity of this person, understand what he said, and determine when he conveyed this wisdom. Recalling historical events from the past can be a challenging task. If the answer to the initial question posed in the first chapter of the four Gospels is not known, the matter in the second divine scripture will not be understood. Subsequently, the following verses from the second divine scripture cannot be understood. Thus, it is essential to discern the answer to the initial question. Prior to uncovering the truth in this regard, let’s explore the significance of this second divine scripture.
+  Lapho leli vesi lithi, &lsquo;ngubani owanixwayisa?&rsquo; liyasikisela ukuthi othile esikhathini esidlule wanikeza abantu ukuhlakanipha ukubalekela i-karma. Leli vesi lisikisela ukuthi kwakukhona umuntu owasho umbono esikhathini esidlule ukusiza abantu bagweme okuzayo i-karma. Ngakho-ke, kubalulekile ukuthi abantu bembule ungubani lo muntu, qonda ukuthi utheni, futhi nquma ukuthi ukudlulisele nini lokhu kuhlakanipha. Ukukhumbula umlando izehlakalo zesikhathi esidlule zingaba umsebenzi oyinselele. Uma impendulo ku mbuzo wokuqala obuzwe esahlukweni sokuqala kwezine AmaVangeli awaziwa, indaba embhalweni wesibili waphezulu ngeke kuqondwe. Ngemva kwalokho, amavesi alandelayo kusukela embhalweni wesibili waphezulu angeke kuqondwe. Ngakho, kubalulekile ukuqonda impendulo yombuzo wokuqala. Ngaphambilini ukuze embule iqiniso mayelana nalokhu, ake sihlole ukubaluleka kwalombhalo wesibili waphezulu.
 
-  The wisdom God imparted became a scripture approximately five thousand years ago. This scripture comprises 18 chapters and is situated in the middle of the 18 parvas of the Mahabharata. These eighteen chapters are referred to as the first divine scripture. At the beginning of creation, God communicated wisdom through the Sky. This wisdom was known as <b>‘Japara</b> wisdom’ at that time. In Telugu, <b>‘Para’</b> signifies separate or different, while <b>‘Ja’</b> means born. ‘Japara’ thus translates to ‘separate or distinct from birth.’ It earned this name because God is never subject to birth. Japara wisdom initially became the first divine scripture and also became the second divine scripture after three thousand years i.e. approximately two thousand years ago from now. Roughly 1400 years ago, the same wisdom was transcribed as the third divine scripture. We are now interpreting the sentence from the second divine scripture.
+  Ukuhlakanipha okwanikezwa uNkulunkulu kwaba umbhalo cishe eminyakeni eyizinkulungwane ezinhlanu edlule. Lo mbhalo inezahluko eziyi-18 futhi imaphakathi ne-18 i-parvas ye-Mahabharata. Lezi zahluko eziyishumi nesishiyagalombili ziyi okubhekiselwa kuwo njengombhalo wokuqala waphezulu. Ekuqaleni kwendalweni, uNkulunkulu wadlulisela ukuhlakanipha ngesibhakabhaka. Lokhu ukuhlakanipha kwakwaziwa ngokuthi &lsquo;ukuhlakanipha kwe<b>Japara</b>&rsquo; ngaleso sikhathi. Ku IsiTelugu, elithi <b>&lsquo;Para&rsquo; </b>lisho ukwehlukana noma ukwehluka, kanti elithi <b>&lsquo;Ja&rsquo; </b>lisho wazalwa. 'Japara' ngaleyo ndlela ihumusha 'ukuhlukanisa noma ohlukene nokuzalwa. &rsquo;Yathola leli gama ngoba uNkulunkulu akalokothi azalwe. Ukuhlakanipha kweJapara ekuqaleni kwaba umbhalo wokuqala waphezulu futhi futhi waba umbhalo waphezulu wesibili ngemva kwezinkulungwane ezintathu iminyaka ecishe ibe yizinkulungwane ezimbili ezedlule kusukela manje. Cishe eminyakeni eyi-1400 edlule, ukuhlakanipha okufanayo kwabhalwa ngokuthi umbhalo wesithathu waphezulu. Manje sesihumusha umusho ovela embhalweni wesibili waphezulu.
 
-  When the question ‘Who warned you?’ is raised, we should talk about the one who told wisdom in the past. According to this, the one who told wisdom in the first divine scripture is the one who warned humans first. There is a reason for knowing the one who told in the past. Since only God can tell His wisdom and God is the only one, the same God teaches His wisdom whenever and wherever required. Therefore, the same one who told earlier told again in verses. Hence, if we want to know the one who told the wisdom in the second divine scripture, we first should know the one who said the wisdom in the past. Hence it became necessary to ask the question - who warned you? If you can find out who said it in the past, you will have the opportunity to recognize who is saying it now. We encourage you to approach this scripture with the <b>belief</b> that the individual who communicated the first divine scripture is also the source of the second divine scripture.
+  Lapho kuphakanyiswa umbuzo othi &lsquo;Ubani okuxwayise?&rsquo;, thina kufanele akhulume ngalowo owakhuluma ukuhlakanipha endulo. Ngokusho kwalokhu, lowo owakhuluma ukuhlakanipha kwaphezulu wokuqala umbhalo yiwo owaxwayisa abantu kuqala. Kunesizathu ngokwazi owakhuluma kudala. Ngoba uNkulunkulu kuphela ongakwazi tshela ukuhlakanipha Kwakhe futhi uNkulunkulu uyedwa, uNkulunkulu ofanayo ofundisayo Ukuhlakanipha Kwakhe noma nini nanoma kuphi lapho kudingeka. Ngakho-ke, lowo owasho ngaphambili waphinda futhi emavesini. Ngakho, uma thina ufuna ukwazi lowo owatshela ukuhlakanipha kwesibili saphezulu umbhalo, kufanele siqale sazi lowo owasho ukuhlakanipha ku okwedlule. Ngakho-ke kwadingeka ukubuza umbuzo - ubani wakuxwayisa? Uma ungathola ukuthi ubani owakusho esikhathini esidlule, uzokwazi ube nethuba lokubona ukuthi ubani okushoyo manje. Thina zikukhuthaza ukuthi ukhulume lombhalo <b>ngenkolelo </b>yokuthi umuntu owadlulisela umbhalo wokuqala waphezulu ngu futhi umthombo wombhalo wesibili waphezulu.
 
-  Before reading the second divine scripture, we need to know what verses God, who told the first divine scripture, told in the Bible scripture. The Bible comprises a total of 66 chapters, of which four contain verses directly spoken by God. The other 62 chapters have verses from other gnanis. These chapters are known as 1) The Gospel of Matthew, 2) The Gospel of Mark, 3) The Gospel of Luke, and 4) The Gospel of John. These four Gospel accounts are situated in the central portion of the Bible, effectively dividing it into three main sections. The initial 39 chapters form the first part, followed by the four Gospels as the second part, with the remaining 23 chapters constituting the third part. Of particular note is the designation of these four chapters as <b>‘Gospels,’</b> emphasizing their significance as they contain the words of Jesus during His earthly life.
+  Ngaphambi kokuba sifunde umbhalo waphezulu wesibili, kudingeka siwufunde yazini amavesi uNkulunkulu, owatshela umbhalo wokuqala waphezulu, awasho embhalweni weBhayibheli. IBhayibheli lihlanganisa ama-66 esewonke izahluko ezine eziqukethe amavesi akhulunywa nguNkulunkulu ngokuqondile. Ezinye izahluko ezingama-62 zinamavesi avela kwamanye ama-gnanis. Lezi izahluko zaziwa ngokuthi 1) IVangeli likaMathewu, 2) IVangeli kaMarku, 3) IVangeli likaLuka, kanye 4) IVangeli likaJohane. Lokhu kulandisa kwamaVangeli amane kutholakala engxenyeni emaphakathi yeBhayibheli, elihlukanisa ngokuphumelelayo laba izingxenye ezintathu eziyinhloko. Izahluko zokuqala ezingama-39 zakha ingxenye yokuqala, zilandelwa ezine AmaVangeli njengengxenye yesibili, nezahluko ezingu-23 ezisele eyakha ingxenye yesithathu. Okuphawuleka kakhulu ukuqokwa zalezi zahluko ezine &lsquo;<b>njengamaVangeli,&rsquo; </b>zigcizelela awo ukubaluleka njengoba equkethe amazwi kaJesu ngesikhathi Sakhe impilo yasemhlabeni.
 
-  <b>
-  The first part of the Bible has 39 parts.
-  The second part of the Bible has 4 Gospels.
-  The third part of the Bible has 23 parts.
-  </b>
+  <b>Ingxenye yokuqala yeBhayibheli inezingxenye ezingu-39.</b>
+  <b>Ingxenye yesibili yeBhayibheli inamaVangeli ama-4.</b>
+  <b>Ingxenye yesithathu yeBhayibheli inezingxenye ezingu-23.</b>
 
-  In the first and third parts, other gnanis conveyed God’s wisdom. Jesus, an incarnation of the one who delivered the first divine scripture, reiterated verses in the four Gospels. Therefore, to understand this, the question, <b>‘Who warned you to flee from the coming wrath?’</b> is posed. Hence, it can be said that this verse, placed above all others, holds great significance.
-</div></div>
+  Engxenyeni yokuqala neyesithathu, amanye ama-gnani adlulisa okukaNkulunkulu ukuhlakanipha. UJesu, isimo somzimba salowo owakhulula owokuqala umbhalo waphezulu, amavesi aphindaphindekayo emaVangelini amane. Ngakho-ke, ukuqonda lokhu, umbuzo othi, <b>&lsquo;Ubani owanixwayisa ukubalekela ulaka oluzayo?&rsquo;</b> kubekwa. Ngakho, kungaba wathi leli vesi, elibekwe ngaphezu kwawo wonke amanye, libambe elikhulu ukubaluleka.
+
+  </div></div>
 </span>`
 },
 
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 3,
-verse: `<b>The Gospel of Mathew, 3rd chapter, 11th verse.</b>`,
+verse: `<b>2) IVangeli likaMathewu, isahluko 3, ivesi 11.</b>`,
 meaning: ` <b>
-(11) I baptize you with water for mind change. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.
+(3:11) Mina nginibhapathiza ngamanzi okushintsha imana (ingqondo). Kodwa emva kwami kuza omunye onamandla amakhulu kunami, engingafanele ukuthwala izimbadada zami. Uzokwenza anibhapathize ngoMoya oNgcwele nangomlilo.
 </b>`,
 pageText:`<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse contains the words <b>‘change of manas’</b> and <b>‘baptize,’</b> as well as ‘with water and with fire.’ To fully grasp the meaning of this verse, it’s essential to understand these four words. If any one of these words remains unclear, the essence of the verse remains elusive. So, let’s delve into the meanings of these four words. The first word is ‘change of manas. ’ Manas (mind) in our body retains and recalls what has been learned and stored. Here, ‘change of manas’ refers to the alteration of manas. Manas is responsible for remembering the events of our life. When the first manas undergoes a change and the second manas takes its place, all the memories of the first manas are erased. The second manas has no recollection of the first manas. The first manas ceases to exist with death, and the second manas emerges with birth. When the first manas is replaced by the second manas, it’s termed a ‘change of manas. ’ This natural transition of manas happens with each cycle of birth and death. Baptism is unnecessary for the ‘change of manas’ because it occurs naturally with the process of death and rebirth.
+<div class="poem"><div class="poemtext">
+  Lokhu ivesi iqukethe amazwi <b>&lsquo;shintsha wemana&rsquo;</b><b>&lsquo;nokubhapathiza,&rsquo; </b>kanye &lsquo;namanzi nangomlilo.&rsquo; Ukuze uqonde ngokugcwele incazelo yaleli vesi, kubalulekile ukuthi qondani lawa magama amane. Uma elinye lalawa magama akukacaci, ingqikithi yaleli vesi ihlale ingaqondakali. Ngakho, ake sihlole izincazelo zala magama amane. Igama lokuqala &lsquo;ukushintsha imana.&rsquo; UManase (ingqondo) emizimbeni yethu igcina futhi ukhumbula lokho okufundiwe futhi kwagcinwa. Lapha, 'ukushintsha i-manas ibhekisela ekuguqulweni kwe-manas. UManas unesibopho ngokukhumbula izehlakalo zempilo yethu. Lapho i-manas yokuqala iba noshintsho futhi imana yesibili ithatha indawo yayo, konke izinkumbulo zamanasi okuqala ziyasulwa. Imana yesibili akakhumbuli imana yokuqala. Imanasi yokuqala iyaphela ukuba khona nokufa, futhi i-manas yesibili ivela ngokuzalwa. Lapho imana yokuqala ithathelwa indawo yesibili, kuba wabizwa ngokuthi &lsquo;ushintsho lwemana.&rsquo; Lokhu kuguquka okungokwemvelo kwemana kwenzeka ngomjikelezo ngamunye wokuzalwa nokufa. Ubhapathizo okungadingekile &lsquo;ekushintsheni kwemana&rsquo; ngoba kuyenzeka ngokwemvelo ngenqubo yokufa nokuzalwa kabusha.
 
-  When a person dies and is reborn, they shed their old body and acquire a new one. This physical transformation that occurs is known as birth. It’s important to recognize that humans possess two distinct types of bodies: the visible (physical) and the invisible (subtle). Just as the old, visible body is replaced by a new one in the process of birth, similarly, when the unseen, subtle body undergoes a change, Hindus (Indus) refer to it as <b>‘upadesa,</b> ’ while Christians term it <b>‘baptism.</b> ’ As mentioned in this verse, baptism signifies the transformation of the unseen manas. Much like how the old manas, laden with memories, fades away in death, and a new manas emerges in birth, during baptism, the manas undergoes a profound change. It ceases to remind us of mundane, ignorant memories and begins to <b>recall wisdom and divine-related memories</b>. Baptism is the process through which an individual, guided by the teachings of a <b>Guru</b>, attains a change of manas in life. In this transformation, an ignorant manas is replaced with one that is attuned to wisdom.
-  <b>
-  Change of Manas = Turning from ignorance to wisdom.
-  Baptism = Attaining upadesa from Guru.</b>
+  Uma umuntu efa futhi ezalwa kabusha, uchitha ubudala bakhe umzimba bese uthola entsha. Lokhu ukuguqulwa ngokomzimba ukuthi kwenzeka kwaziwa ngokuthi ukuzalwa. Kubalulekile ukuqaphela lokho abantu banezinhlobo ezimbili zemizimba ehlukene: obonakalayo (okungokomzimba) nokungabonakali (okucashile). Njengomzimba omdala, obonakalayo ithathelwa indawo entsha ngesikhathi sokuzalwa, ngokufanayo, lapho umzimba ongabonakali, ocashile uyashintsha, amaHindu (Indus) babhekisela kulo ngokuthi <b>&lsquo;upadesa,&rsquo; </b>kuyilapho amaKristu ethi <b>&lsquo;ubhapathizo.&rsquo; </b>Njengoba okukhulunywa ngakho kuleli vesi, ubhapathizo lusho ukuguqulwa wemana engabonwayo. Okufana nokuthi amadala amadala, athwele izinkumbulo, ziyaphela ekufeni, bese kuvela i-manas entsha ukuzalwa, ngesikhathi sokubhapathizwa, i-manas ibhekana nokujulile shintsha. Iyayeka ukusikhumbuza izinto ezivamile, ezingenalwazi izinkumbulo futhi iqala ukukhumbula <b>ukuhlakanipha futhi okwaphezulu izinkumbulo ezihlobene</b>. Umbhabhadiso yinchubo lapho umuntu ngamunye, eqondiswa izimfundiso zika <b>Guru</b>, uthola ushintsho wemana empilweni. Kulolu shintsho, i-manas engazi lutho esikhundleni salowo ohambisana nokuhlakanipha.
 
-  Baptist John offered ‘upadesa’ with water, declaring, “I baptize you with water, but someone more powerful than me will come after, who will baptize you with the Holy Spirit and fire.” We’ve previously explored the concepts of ‘change of manas’ and ‘baptism’ in detail. Now, let’s delve into the meanings of ‘water’ and ‘fire (the opposite of water). ’ We obtain baptism from Guru, but there are two types of Gurus. Some possess wisdom power (Gnana Shakti), while others do not. Many Gurus commonly perform baptism or ‘upadesa’ using water. Some may use milk, both of which are visible liquids, while others use sacred ash or incense smoke as part of the process. Additionally, during ‘upadesa,’ a Guru imparts a mantra, a word, or an image, and there are numerous such ‘upadesas’ in existence, offered by various Gurus. John was one of these Gurus, and he openly admitted to his method, stating, “I baptize you with water.” However, he also foretold the arrival of someone greater, who would baptize with the Holy Spirit and fire. We’ve defined ‘baptism’ as the path to the transformation of the manas from ignorance to wisdom. When this transformation occurs through baptism, it has the power to cleanse all of a person’s sins. Guru gives the appropriate divine fire through his baptism to burn sins. Guru should possess the divinity of fire. The first verse in the chapter of ‘Atma Samyama Yoga’ in the Bhagavad-Gita, the first divine scripture, emphasizes the necessity of this divine fire, stating, ‘cha yogee cha na niragnir nachaakriyah,’ meaning <b>“One who lacks this divine fire (Gnana Shakti), and ceases to act is not a yogi (Guru).”</b>
+  <b>Ukushintsha kukaManase = Ukuphenduka ekungazini uye ekuhlakanipheni.</b>
+  <b>Ubhapathizo = Ukuthola upadesa kuGuru.</b>
 
-  A genuine yogi (Guru) is not one who refrains from action but is characterized by the presence of inner fire, which symbolizes <b>wisdom power.</b> This is what the verse mentioned as ‘baptism with fire.’ Here, ‘fire’ signifies the <b>divine power (Gnana Shakti),</b> which is not visible to the naked eye. When a person receives this divine fire from their Guru, it ignites a transformative power within them, capable of burning away their accumulated karma. The fire of wisdom (Gnana Shakti) bestowed upon the baptized individual begins to destroy his karma. While a guru like John administered baptism for the purpose of ‘change of manas,’ he <b>did not possess the wisdom power</b> in his baptism required to burn away karma. Thus, he stated, “I can only baptize you with water.” John explained to the people that his baptism, <b>performed with water</b>, would not burn away their karma. Instead, he anticipated that the one who would come after him would administer a baptism capable of accomplishing this.
-  <b>
-  Baptism with water = Upadesa that does not burn karma.
-  Baptism with fire = Upadesa that burns karma
-  </b>
+  UJohane uMbhapathizi wanikela &lsquo;upadesa&rsquo; ngamanzi, ethi, &ldquo;I anibhapathize ngamanzi, kepha onamandla kunami ozakuza emva kwakhe, yena ozalibhabhathiza ngoMoya oNgcwele njalo umlilo.&rdquo; Sike sahlola imiqondo &lsquo;yokushintsha kwe manas&rsquo; kanye &lsquo;nobhapathizo&rsquo; ngokuningiliziwe. Manje, ake singene ku-izincazelo &lsquo;zamanzi&rsquo; kanye &lsquo;nomlilo (okuphambene namanzi).&rsquo; Siyazuza ubhapathizo oluvela kuGuru, kodwa kunezinhlobo ezimbili zamaGuru. Abanye banamandla okuhlakanipha (Gnana Shakti), kanti abanye abanawo. AmaGuru amaningi ajwayele ukubhabhadisa noma 'upadesa' esebenzisa amanzi. Abanye bangasebenzisa ubisi, kokubili okuwuketshezi olubonakalayo, kuyilapho abanye basebenzisa umlotha ongcwele noma intuthu yempepho njengengxenye inqubo. Ukwengeza, phakathi 'ne-upadesa,' i-Guru inikeza i-mantra, igama, noma isithombe, futhi ziningi ezinjalo &lsquo;ama-upadesa&rsquo; akhona, anikezwa amaGuru ahlukahlukene. UJohane wayengomunye kulawa maGuru, futhi wavuma obala endleleni yakhe, ethi, &ldquo;Mina nginibhapathiza ngamanzi.&rdquo; Nokho, wabikezela nangokufika lomunye omkhulu, owayezabhabhathiza ngoMoya oNgcwele kanye umlilo. Sichaze &lsquo;ubhapathizo&rsquo; njengendlela eya enguqukweni wemanasi kusukela ekungazini kuya ekuhlakanipheni. Lapho lokhu ukuguqulwa kwenzeka ngobhapathizo, lunamandla ahlanze zonke izono zomuntu. UGuru unikeza okwaphezulu okufanelekile umlilo ngobhapathizo lwakhe ukuze ashise izono. U-Guru kufanele abe ne- ubuNkulunkulu bomlilo. Ivesi lokuqala esahlukweni sika-Atma Samyama Yoga&rsquo; eBhagavad-Gita, umbhalo wokuqala waphezulu, igcizelela isidingo salomlilo waphezulu, ithi, &lsquo;cha yogee cha na niragnir nachaakriyah,&rsquo; okusho <b>ukuthi &ldquo;Ontula lokhu umlilo waphezulu (Gnana Shakti), futhi uyeke ukwenza akuyona i-yogi (Guru).</b>
+
+  I-yogi yangempela (iGuru) akuyena umuntu ogwema isenzo kodwa libonakala ngokuba khona komlilo wangaphakathi, okuyinto ifanekisela <b>amandla okuhlakanipha</b>. Yilokhu okushiwo ivesi &lsquo;njengokubhapathizwa ngomlilo.&rsquo; Lapha, &lsquo;umlilo&rsquo; ufanekisela <b>amandla kaNkulunkulu (Gnana Shakti)</b>, engabonakali ngeso lenyama. Lapho umuntu uthola lo mlilo saphezulu Guru yabo, it okhela a amandla okuguqula ngaphakathi kwabo, akwazi ukuvutha i-karma yabo eqoqiwe. Umlilo wokuhlakanipha (Gnana Shakti) okunikezwa umuntu obhapathiziwe kuqala ukubhubhisa okwakhe i-karma. Ngenkathi i-guru efana noJohane ibhabhadisa abantu injongo &lsquo;yokushintsha imana,&rsquo; <b>wayengenakho ukuhlakanipha amandla</b> ekubhapathizweni kwakhe ayedingeka ukuze ashise i-karma. Ngakho, yena wathi, &ldquo;Mina kuphela ngingakubhabhathiza ngamanzi.&rdquo; UJohn wachaza abantu ubhapathizo lwakhe, <b>lwamanzi, </b>olwaluyoba nalo ungashisi i-karma yabo. Kunalokho, wayekulindele lokho ababezoza ngemva kwakhe babezobhapathiza ekwazi ukufeza lokhu.
+
+  <b>Ukubhabhadiswa ngamanzi = Upadesa ongashisi i-karma</b>
+  <b>Ubhapathizo ngomlilo = Upadesa oshisa i-karma</b>
 </div></div>
 </span>`,
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 4,
-verse: `<b>(3) The Gospel of Mathew, 3rd chapter, 12th verse.</b>`,
+verse: `<b>(3) IVangeli likaMathewu, isahluko 3, ivesi 12.</b>`,
 meaning: `<b>
-(12) His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.
+(3:12) Imfoloko Yakhe yokwela isesandleni Sakhe, futhi Uyokwenza hlambulula isibuya Sakhe, ubuthela amabele akhe phakathi isibaya nokushiswa kwamakhoba ngokungacimekiyo umlilo.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
   <ion-row><ion-col class="ion-text-center">
   <img src="assets/img/chaata.png"/><br>
   <img src="assets/img/kallam.png"/>
   </ion-col></ion-row>
-<div class="poem"><div class="poemtext"> John, a renowned guru of his time, was the one who spoke the verse in question. During that era, he imparted ‘upadesa’ (baptism) to many people. John was a great ‘gnani (wise person)’ and had foreseen the arrival of Jesus. He baptized Jesus Christ (Bhagavan), the Son of God. He was also the guru of Jesus. Although John was a famous guru and baptized many people at that time, he was humble. Before he baptized Jesus, he showed humility by saying, “the one who comes after me is more powerful than me, whose sandals I am not worthy to carry.” When Jesus approached him for baptism, John acknowledged Jesus’s greater spiritual power, saying, <b>“You should baptize me. Are you coming to me for baptism?”</b> These words were spoken by John when he foresaw about the arrival of the Lord. The verse also contains references to <b>a winnowing tray, wheat,</b> and an <b>unquenchable fire.</b> Some might wonder about the significance of these elements since they appear commonplace. If the wheat is picked up with the winnowing tray and crushed and burned with fire, it becomes bread. We are all looking at the winnowing tray, the wheat, and the fire in the oven. Some may ask what is so great about this sentence. This verse is part of the second divine scripture, and every verse from this scripture conveys divine wisdom. When viewed with wisdom and spiritual insight, this verse holds a special meaning, emphasizing the greatness of Jesus Christ.
+<div class="poem"><div class="poemtext">
+  UJohn, umfundisi owaziwayo wesikhathi sakhe, nguye owawenza wakhuluma leli vesi okukhulunywa ngalo. Ngaleso sikhathi, wanikeza &lsquo;upadesa&rsquo; (ubhapathizo) kubantu abaningi. UJohane &lsquo;wayengumngane omkhulu (umuntu ohlakaniphile)&rsquo; futhi wayekubone kusengaphambili ukufika kukaJesu. Yena wabhapathiza uJesu Kristu (Bhagavan), iNdodana kaNkulunkulu. Naye wayenjalo umfundisi kaJesu. Nakuba uJohn wayengumfundisi odumile futhi wabhapathiza abantu abaningi ngaleso sikhathi, wayethobekile. Ngaphambi kwakhe ebhapathiza uJesu, wabonisa ukuthobeka ngokuthi, &ldquo;lowo oza emva kwami unamandla kunami, engizimbadada zakhe ayifanele ukuthwala.&rdquo; Lapho uJesu eza kuye ezobhapathizwa, UJohane wawavuma amandla kaJesu amakhulu omoya, ethi, <strong>&ldquo;Kufanele ningibhapathize. Uza kimi ubhapathizo?&rdquo; </strong>Lawa mazwi ashiwo nguJohane lapho ebona kusengaphambili mayelana nokufika kweNkosi. Leli vesi liqukethe izinkomba kuye a <strong>ugqoko wokwela, ukolweni</strong>, futhi <strong>umlilo ongacimekiyo</strong>. Abanye bangase bazibuze mayelana ukubaluleka kwalezi zakhi kusukela zivela indawo evamile. Uma ukolweni ubuthwa kanye nokwela ugqoko futhi ochotshoziwe futhi ashiswe ngomlilo, kuba isinkwa. Thina bonke babheke ithreyi lokwela, ukolweni, nomlilo phakathi kuhhavini. Abanye bangase babuze ukuthi yini enkulu kangaka ngalo musho. Leli vesi liyingxenye yombhalo wesibili waphezulu, kanye nawo wonke Ivesi elikulo mbhalo lidlulisela ukuhlakanipha kwaphezulu. Uma ibukwa ngokuhlakanipha nokuqondisisa okungokomoya, leli vesi liphethe okukhethekile okusho ukuthi, kugcizelela ubukhulu bukaJesu Kristu.
 
-  In ancient times, it was customary to place newborn babies on a winnowing tray (basket). As soon as a baby was born, rice would be poured into the winnowing tray, flattened, and the baby laid on it according to the custom. This practice was prevalent across all sections of society, from the poor to the wealthy, from the knowledgeable to the ignorant. The belief was that Brahma, the creator deity, would inscribe the infant’s future, often referred to as <b>‘karma writing’ or ‘Brahma Vrata,’</b> on the baby’s forehead during the two minutes they spent on the winnowing tray. Regardless of personal beliefs, John’s words, particularly in the context of Jesus, hold true. John used an analogy, comparing deeds to wheat. Wheat, as a staple food, sustains life, but it depletes as we consume it. In a similar vein, Jeevatma experiences karma in the form of deeds. As we undergo karmic experiences, the ‘karma’ of our deeds diminishes. Karma writing, also known as forehead writing or God’s judgment, signifies that the karma we experience is inscribed in our body, and our life experiences reflect this inscription. John likened the deeds influenced by our karma to wheat, and the ‘winnowing tray’ was symbolically the head where these deeds were stored. Just as we harvest grains from a winnowing tray to prepare food, our head is described as a ‘winnowing tray’ because it stores the karma we experience.
+  Ezikhathini zasendulo, kwakuwumkhuba ukubeka umntwana osanda kuzalwa izingane ethreyini yokwela (ubhasikidi). Ngokushesha nje umntwana kuzalwa, irayisi lalizothelwa ku-withreyi ye-innowing, isicaba, nomntwana walaliswa phezu kwalo njengokwesiko. Lo mkhuba lalidlange kuzo zonke izigaba zomphakathi, kusukela kwabampofu kuya abacebile, kusukela konolwazi kuya kwabangazi. Inkolelo kwakuwukuthi uBrahma, unkulunkulu ongumdali, wayebhala elosana esizayo, okuvame ukubizwa ngokuthi <strong>'ukubhala i-karma' noma 'i-Brahma Vrata,&rsquo; </strong>ebunzini lomntwana phakathi nemizuzu emibili abayichitha esetshenziswe ethreyini yokwela. Kungakhathaleki izinkolelo zomuntu siqu, Amazwi kaJohane, ikakhulukazi endabeni kaJesu, ayiqiniso. UJohane wasebenzisa isifaniso, eqhathanisa nezenzo zikakolweni. Ukolweni, njengento eyisisekelo ukudla, kusekela ukuphila, kodwa kuncipha njengoba sikudla. Esimeni esifanayo vein, uJeevatma uthola i-karma ngendlela yezenzo. Njengathi sibhekana nokuhlangenwe nakho kwe-karmic, 'i-karma' yezenzo zethu iyancipha. Ukubhala kwe-Karma, eyaziwa nangokuthi ukubhala kwesiphongo noma Ukwahlulela kukaNkulunkulu, kubonisa ukuthi i-karma esiyitholayo iyiyo ezilotshwe emizimbeni yethu, futhi okuhlangenwe nakho kwethu ekuphileni kubonisa lokhu umbhalo. UJohn wafanisa izenzo ezithonywe i-karma yethu ukolweni, futhi &lsquo;ithreyi lokwela&rsquo; laliwumfanekiso wekhanda lapho kwakugcinwa khona lezi zincwadi. Njengoba sivuna okusanhlamvu ithreyi lokwela ukulungisa ukudla, ikhanda lethu lichazwa ngokuthi a &lsquo;ithreyi yokwela&rsquo; ngoba igcina i-karma esiyitholayo.
 
-  Karma is inscribed in a human being’s head without their awareness. As a result, no one can predict the future. Every human is bound by karma and cannot escape its influence. While all humans seem to be mere puppets manipulated by karma, the Holy Spirit or Paramatma remains outside the control of karma. When God chooses to incarnate as a human, He creates His own karma by writing it upon His own head, thus coming to Earth. He possesses no inherent karma but deliberately authors His own destiny to impart wisdom to humanity. Concerning God, who takes charge of His own karma, John expressed, <b>‘His winnowing tray is in His hand.’</b> No one else in the world possesses such control over their karma. In contrast to human limitations, God shapes His own karma and descends as a human being on Earth to share His wisdom. It’s essential to understand that Jesus’ life, from birth to death, was a consequence of self- constructed karma. His birth in a humble barn, his suffering, and his crucifixion were all products of his self-created destiny. No external force could bring about His birth or torment Him without His consent. He determined the course of His earthly existence, indeed holding His own winnowing tray.
+  I-Karma ibhalwe ekhanda lomuntu ngaphandle kwayo ukuqaphela. Ngenxa yalokho, akekho ongabikezela ikusasa. Njalo Umuntu uboshwe yi-karma futhi akanakubalekela ithonya layo. Nakuba bonke abantu bebonakala bengonodoli nje abakhonjwe indlela I-karma, uMoya oNgcwele noma i-Paramatma ihlala ngaphandle ukulawula i-karma. Lapho uNkulunkulu ekhetha ukuba sesimweni somuntu, Udala i-karma Yakhe ngokuyibhala ekhanda Lakhe, kanjalo eza eMhlabeni. Akanayo i-karma yemvelo kodwa ubhala ngamabomu isiphetho Sakhe ukuze adlulisele ukuhlakanipha kubo ubuntu. Ngokuphathelene noNkulunkulu, ophethe Okwakhe karma, uJohn wazwakalisa, <strong>&lsquo;Ithreyi lakhe lokwela likuYakhe isandla.&rsquo; </strong>Akekho omunye emhlabeni onegunya elinjalo karma yabo. Ngokuphambene nokulinganiselwa komuntu, uNkulunkulu ubumba Owakhe i-karma yakhe futhi yehla njengomuntu eMhlabeni ukuze abelane ngayo Ukuhlakanipha kwakhe. Kubalulekile ukuqonda ukuthi ukuphila kukaJesu, kusukela ukuzalwa kuze kube sekufeni, kwaba umphumela we-karma eyakhiwe ngokwakho. Ukuzalwa kwakhe esibayeni esithobekile, ukuhlupheka kwakhe, nokubethelwa kwakhe esiphambanweni zonke zaziyimikhiqizo yesiphetho sakhe azidalele sona. Awekho amandla angaphandle angaletha ukuzalwa Kwakhe noma amhluphe ngaphandle Kwakhe imvume. Wanquma inkambo yokuba khona Kwakhe emhlabeni, ngempela ephethe ithileyi laKhe lokwela.
 
-  All ordinary people accrue new karma for every deed they perform. Each action on Earth generates new karma. Just as smoke is closely linked to fire, karma is intrinsically associated with deeds. It is a fundamental principle of Prakruti that every action carries karmic consequences. When God incarnates and appears as the Son of God (Bhagavan), every action He undertakes also generates new karma. Ordinary individuals are unable to escape the impending karma. However, Bhagavan Jesus possesses the full fire of wisdom (Gnana Shakti), allowing Him to burn the karma naturally arising from His actions. Christ, the consummate gnani, always has full wisdom power. All karma is consumed in the unquenchable fire of wisdom. Actions are intrinsically connected to karma, much like grains are linked to chaff. John expressed this as, <b>‘He burns the chaff with unquenchable fire,’</b> signifying how Christ eradicates the karma associated with deeds through His wisdom. Jesus purifies Himself from the dust of gunas and incinerates the karma entwined with His actions. John compared Jesus’ body to a threshing floor, symbolizing His removal of the influence of gunas, just as one cleanses a threshing floor. He equated deeds to wheat, the karma originating from those deeds to chaff, and the fire that consumes the karma to an unquenchable fire. John encapsulated the greatness of Jesus in a single sentence, yet, regrettably, we have not fully grasped its significance.
+  Bonke abantu abajwayelekile bathola i-karma entsha ngazo zonke izenzo benza. Isenzo ngasinye eMhlabeni sikhiqiza i-karma entsha. Nje njengoba intuthu ihlobene eduze nomlilo, i-karma ingaphakathi ehambisana nezenzo. Kuwumgomo oyisisekelo wePrakruti ukuthi zonke izenzo zinemiphumela karmic. Lapho uNkulunkulu ithatha umzimba futhi ibonakala njengeNdodana kaNkulunkulu (Bhagavan), njalo isenzo Asenzayo futhi ukhiqiza i-karma entsha. Okuvamile abantu ngabanye abakwazi ukubalekela i-karma ezayo. Nokho, uBhagavan uJesu unomlilo ogcwele wokuhlakanipha (Gnana Shakti), emvumela ukuthi ashise i-karma ngokwemvelo okuvela ezenzweni Zakhe. UKristu, iGnani eliphelele, njalo unamandla aphelele okuhlakanipha. Yonke i-karma idliwe ku-umlilo ongacimi wokuhlakanipha. Izenzo zingaphakathi exhunywe ku-karma, kufana nezinhlamvu ezixhunywe namakhoba. UJohane waveza lokhu ngokuthi, <strong>&lsquo;Utshisa amakhoba ngokungacimekiyo umlilo,&rsquo; </strong>okubonisa indlela uKristu ayiqeda ngayo i-karma ehlobene ngezenzo ngokuhlakanipha Kwakhe. UJesu uyazihlanza ku uthuli lwezibhamu futhi kushise i-karma ehlanganiswe neYakhe izenzo. UJohane wafanisa umzimba kaJesu nesibuya, okufanekisela ukususwa Kwakhe kwethonya lezibhamu, njengesinye uhlanza isibuya. Walinganisa izenzo nokolweni, i-karma evela kulezo zenzo kuya kumakhoba, kanye nomlilo lowo idla i-karma emlilweni ongacimeki. UJohane wahlanganisa ubukhulu bukaJesu ngomusho owodwa, nokho, ngokudabukisayo, asikakuqondi ngokugcwele ukubaluleka kwayo.
 
-  The verse may appear straightforward, but it contains profound and subtle meanings. The four Gospels are rich in verses with similar depth. Due to my limited wisdom, I haven’t provided explanations for all 66 chapters of the Bible but have focused on descriptions for the crucial four Gospels, rarely touching on other sections.
+  Leli vesi lingase libonakale liqondile, kodwa liqukethe izincazelo ezijulile nezicashile. AmaVangeli amane acebile amavesi anokujula okufanayo. Ngenxa yokuhlakanipha kwami okulinganiselwe, angikaze yanikeza izincazelo zazo zonke izahluko zeBhayibheli ezingu-66 kodwa ziye egxile ezincazelweni zamaVangeli amane abalulekile, kuyaqabukela ukuthinta kwezinye izigaba.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 5,
-verse: `<b>(4) The Gospel of Mathew, 3rd chapter, 16th and 17th verses.</b>`,
+verse: `<b>(4) IVangeli likaMathewu, isahluko 3, 16 kanye Amavesi 17.</b>`,
 meaning: `
 <b>
-(16) As soon as Jesus was baptized, he went up out of the water. At that moment the sky was opened, and he saw the Spirit of God descending like a dove and alighting on him.
+(3:16) Ngokushesha nje lapho uJesu ebhapathizwa, waphuma emanzini. Ngaso leso sikhathi izulu lavuleka, futhi Wabona uMoya kaNkulunkulu wehla njengejuba futhi ehlela kuYe.
 <br><br>
-(17) And a voice from the sky said, “This is my Son, whom I love; with him, I am well pleased.”
+(3:17) Kwavela izwi ezulwini, lathi: “Lo uyindodana yami; engimthandayo; naye, ngiyajabula.”
 </b>
 `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> John baptized Jesus with water. Baptism is also referred to as ‘upadesa.’ In Telugu, ‘upadesa’ means a country adjacent to your own. In other words, it’s synonymous with a neighboring country. A neighbor resides in a neighboring country. There is a neighboring country within your body, and within that neighboring country of your body resides a neighbor. Every human has a neighboring country and a neighbor, although these entities are not visible in a human being. The Guru reveals the unseen neighboring country during baptism or ‘upadesa.’ John baptized Jesus with water, and there is no fire involved in this ‘upadesa.’ Therefore, it pertains to the name and lacks a neighboring country and neighbor. Nevertheless, the process of ‘upadesa’ must be carried out in this manner. This is why Jesus said in verse 3:15, <b>“Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b>
+<div class="poem"><div class="poemtext">
+  UJohane wabhabhathiza uJesu ngamanzi. Ubhapathizo lubizwa nangokuthi &lsquo;upadesa.&rsquo; NgesiTelugu, elithi &lsquo;upadesa&rsquo; lisho izwe elincikene nalo okwakho. Ngamanye amazwi, kufana nomakhelwane izwe. Umakhelwane uhlala ezweni elingumakhelwane. Nakhu izwe elingumakhelwane ngaphakathi komzimba wakho, futhi ngaphakathi kwalokho umakhelwane izwe lomzimba wakho lihlala umakhelwane. Njalo umuntu unezwe elingumakhelwane kanye nomakhelwane, nakuba lezi zinhlangano azibonakali kumuntu. I-Guru wembula izwe elingumakhelwane elingabonakali ngesikhathi ebhapathizwa noma &lsquo;upadesa.&rsquo; UJohane wabhapathiza uJesu ngamanzi, futhi akukho mlilo ehilelekile kulokhu &lsquo;upadesa.&rsquo; Ngakho-ke, kuphathelene negama futhi akanalo izwe elingumakhelwane nomakhelwane. Noma kunjalo, inqubo &lsquo;yokupadesa&rsquo; kumele yenziwe ngale ndlela. Yingakho uJesu athi kuvesi 3:15, <strong>&ldquo;Makube njalo manje; Ikona okufanele ukuthi senze lokhu ukuze sigcwalise ukulunga konke (ukuhlakanipha).&rdquo;</strong>
 
-  Although Jesus received upadesa with water, He was aware of the neighboring country within His body. He could see both the visible external world and the invisible neighboring country all the time. Therefore, it was considered genuine upadesa, even though the upadesa given by John pertained only to the name. Jesus was baptized after living thirty years as an ordinary Jeevatma. From that point on, He began to speak about divine matters in the form of wisdom not as a Jeevatma, but as Atma. To demonstrate that Jesus, as Atma, conveyed Paramatma’s wisdom, Atma descended like a dove and landed on him immediately after He emerged from the water following His baptism. Furthermore, Paramatma (the Holy Spirit) declared, <b>“This is my son, whom I love; with him, I am well pleased.”</b> The Holy Spirit (God) affirmed that Atma was His beloved Son, and He expressed His joy in His beloved Son, Jesus. By this, it becomes evident that the Holy Spirit is the Father, and Atma is the Son known as Jesus. All of this indicates that the Holy Spirit (Paramatma) did not appear as Atma but instead lived in this world as an ordinary man, appearing as a Jeevatma. I did not say this to praise Christians or promote Christianity. I am sharing with you what I believe to be the absolute truth about how God manifested on Earth.
+  Nakuba uJesu wathola upadesa ngamanzi, Wayekwazi izwe elingumakhelwane ngaphakathi komzimba Wakhe. Wayebabona bobabili umhlaba wangaphandle obonakalayo kanye nezwe elingumakhelwane elingabonakali konke isikhathi. Ngakho-ke, kwakubhekwa njenge-upadesa yangempela, ngisho nakuba upadesa owanikezwa uJohane wawuphathelene negama kuphela. UJesu wabhapathizwa ngemva kokuphila iminyaka engamashumi amathathu njengomuntu ovamile I-Jeevatma. Kusukela ngaleso sikhathi kuqhubeke, Waqala ukukhuluma ngobunkulunkulu izindaba ngendlela yokuhlakanipha hhayi njengeJeevatma, kodwa njenge-Atma. Ukukhombisa ukuthi uJesu, njengo-Atma, wadlulisela iParamatma ukuhlakanipha, u-Atma wehla njengejuba futhi wahlala phezu kwakhe ngokushesha ngemva kokuba Ephumile emanzini elandela owakhe ubhapathizo. Ngaphezu kwalokho, iParamatma (uMoya oNgcwele) wathi: <strong>&ldquo;Le yindodana yami engiyithandayo; naye, ngiyaphila ngijabule.&rdquo; </strong>UMoya oNgcwele (uNkulunkulu) waqinisekisa ukuthi u-Atma wayengowaKhe iNdodana ethandekayo, futhi Yabonisa injabulo Yayo ngeNdodana Yayo ethandekayo, uJesu. Ngalokhu, kuba sobala ukuthi uMoya oNgcwele nguye UBaba, futhi u-Atma yiNdodana eyaziwa ngokuthi uJesu. Konke lokhu kuyakhombisa ukuthi uMoya oNgcwele (Paramatma) awuzange uvele njenge-Atma kodwa esikhundleni salokho waphila kulomhlaba njengomuntu ojwayelekile, ebonakala njenge I-Jeevatma. Angikusho lokhu ukuze ngituse amaKristu noma ngikhuthaze UbuKristu. Ngihlanganyela nawe lokho engikholelwa ukuthi yikho iqiniso eliphelele lokuthi uNkulunkulu wabonakala kanjani emhlabeni.
 </div></div>
 </span>`,
 },
 
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 6,
-verse: `<b>(5)	The Gospel of Mathew, 4th chapter, 10th verse.</b> `,
+verse: `<b>(5)	IVangeli likaMathewu, isahluko 4, ivesi 10.</b> `,
 meaning: ` <b>
-(10) Jesus said to him, “Away from me, Satan! For it is written: Worship the Lord your God and serve him only.”
+(4:10) UJesu wathi kuye: Suka kimi, Sathane; Ngoba kulotshiwe ukuthi: Wokhuleka eNkosini uNkulunkulu wakho, umkhonze kuphela.”
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> The word <b>‘Satan’</b> is introduced in this verse. In the preceding verses, Satan is occasionally referred to as a ‘tempter (shodakudu in Telugu)’ and in other instances as a ‘defamer (apavadi in Telugu). ’ The term "apavadi" means one who judges wrongly and tells lies, while "shodakudu" implies someone who seeks out evil within you and, if it exists, brings it to the surface. ‘apavadi’ or ‘shodakudu’ is referred to as Satan in this sentence. Both ‘apavadi’ and ‘shodakudu’ belong to the Telugu language, but the word ‘Satan’ is not from Telugu. The word ‘Satan’ appears frequently in this scripture. In the realm of spiritual education, ‘Satan’ is used interchangeably with <b>‘Maya.</b> ’ Since Satan and Maya are essentially the same, descriptions of Maya can also be applied to Satan.
+<div class="poem"><div class="poemtext">
+  Igama elithi <strong>&lsquo;Sathane&rsquo; </strong>lethulwa kuleli vesi. Kwe Emavesini andulelayo, uSathane ngezinye izikhathi ubizwa ngokuthi &lsquo;umlingi (shodakudu ngesi-Telugu)' futhi kwezinye izimo 'njengomdeleli (apavadi ngesiTelugu).&rsquo; Igama elithi &ldquo;apavadi&rdquo; lisho umuntu owahlulelayo ngokungalungile futhi uqamba amanga, kuyilapho elithi "shodakudu" lisikisela othile ufuna okubi ngaphakathi kwakho, futhi, uma kukhona, akuveze obala. &lsquo;Apavadi&rsquo; noma &lsquo;shodakudu&rsquo; kubhekiselwa kuye ngokuthi uSathane kulo musho. Kokubili elithi 'apavadi' nelithi 'shodakudu' kungolimi lwesiTelugu, kodwa igama elithi &lsquo;Sathane&rsquo; aliveli eTelugu. Igama elithi &lsquo;Sathane&rsquo; ivela kaningi kulo mbhalo. Emkhakheni womoya imfundo, &lsquo;uSathane&rsquo; usetshenziswa ngokufanayo <strong>&lsquo;noMaya.&rsquo;</strong> Kusukela USathane namaMaya bayafana, izincazelo zamaMaya ingasetshenziswa nakuSathane.
 
-  In the first divine scripture, Maya refers to the essence of gunas within the head. Concerning Maya, the first divine scripture states, <b>‘Gunamayee mama maaya,’</b> where ‘mama maaya’ means ‘Maya is mine,’ as proclaimed by God. According to this, it is said that Maya is the combination of gunas. God is the creator of all things, including Maya, and thus, God declared that Maya is His own. Maya is of feminine gender, while God and the two souls, Atma and Jeevatma, who separated from God, are masculine (a total of three). Everything else created by God can be said to be feminine. Therefore, Maya is referred to as feminine. We should not consider Maya as being external; rather, the Maya that tempted Jesus was within His own head. Residing in His head, Maya tempted Jesus and engaged in arguments with him. Similarly, the gunas within the head of every person act as their Maya, constantly tempting and debating with them. Following Jesus’ baptism, Maya initially tempted him three times, and Jesus responded with His wisdom on all three occasions.
+  Embhalweni wokuqala waphezulu, uMaya ubhekisela engqikithini wezibhamu ngaphakathi kwekhanda. Ngokuphathelene noMaya, unkulunkulu wokuqala umbhalo uthi, <strong>&lsquo;Gunamayee mama maaya,&rsquo; </strong>lapho &lsquo;mama elithi maaya&rsquo; lisho ukuthi &lsquo;uMaya ungowami,&rsquo; njengoba kumenyezelwe uNkulunkulu. Ngokusho kulokhu, kuthiwa iMaya iyinhlanganisela yezibhamu. UNkulunkulu ukhona umdali wezinto zonke, kuhlanganise noMaya, kanjalo, uNkulunkulu wamemezela ukuthi uMaya ungowaKhe. UMaya ungowobulili besifazane, kuyilapho uNkulunkulu nemiphefumulo emibili, u-Atma noJeevatma, ngubani abahlukanisiwe noNkulunkulu, bangabesilisa (ingqikithi yabathathu). Konke okunye okudalwe nguNkulunkulu kungathiwa kungokwabesifazane. Ngakho-ke, amaMaya abizwa ngokuthi abesifazane. Akufanele bheka uMaya njengowangaphandle; kunalokho, amaMaya lokho walinga uJesu wayesekhanda laKhe. Ehlala ekhanda lakhe, UMaya walinga uJesu futhi waphikisana naye. Ngokufanayo, izibhamu ngaphakathi kwekhanda lawo wonke umuntu zisebenza njengazo UMaya, elinga njalo futhi ephikisana nabo. Ukulandela Ukubhapathizwa kukaJesu, uMaya waqala ukumlinga kathathu, futhi UJesu waphendula ngokuhlakanipha Kwakhe kuzo zontathu izikhathi.
 
-  Jesus set an example in His life that humans should emulate. Whenever Maya tested Jesus, He responded with wisdom. Therefore, every person should learn to do the same. When Satan asked Jesus to bow down to her, Jesus gave Satan (Maya) a fitting reply. Jesus responded to Satan, saying, <b>“Worship the Lord your God, and serve Him alone.”</b> Jesus uttered these words, but it’s crucial to understand that it was the Atma within His body that spoke those words. The Holy Spirit, Paramatma, doesn’t communicate directly with anyone. Instead, He conveys His wisdom through the Atma. So, we should recognize that the wisdom was imparted by Paramatma Himself, even though it was expressed by Atma within the body. In the third and final divine scripture, in 3:7, God states, “God’s wisdom is not known to any person except God.” This emphasizes that the complete wisdom revealed by the Atma within the body is conveyed by Paramatma (God).
+  UJesu wabeka isibonelo ekuphileni kwaKhe okufanele abantu belingisa. Njalo lapho uMaya evivinya uJesu, wayephendula ngokuthi ukuhlakanipha. Ngakho-ke, wonke umuntu kufanele afunde ukwenza okufanayo. Lapho uSathane ecela uJesu ukuba amkhothamele, uJesu wanika uSathane (Maya) impendulo efanele. UJesu wamphendula uSathane, wathi: <strong>&ldquo;Wokhuleka kuJehova uNkulunkulu wakho, umkhonze Yena yedwa.&rdquo; </strong>UJesu wawasho la mazwi, kodwa abalulekile qonda ukuthi kwakuyi-Atma engaphakathi emzimbeni Wakhe eyayikhuluma lawo mazwi. UMoya oNgcwele, iParamatma, awukwenzi ukuxhumana ngokuqondile nanoma ubani. Kunalokho He wedlulisa Akhe ukuhlakanipha nge-Atma. Ngakho-ke, kufanele siqaphele ukuthi ukuhlakanipha kwanikezwa nguParamatma uqobo, noma kunjalo kuboniswe ngu-Atma ngaphakathi komzimba. Kweyesithathu neyokugcina umbhalo waphezulu, ku 3:7, uNkulunkulu uthi, &ldquo;Ukuhlakanipha kukaNkulunkulu akwaziwa kunoma yimuphi umuntu ngaphandle kukaNkulunkulu.&rdquo; Lokhu kugcizelela ukuthi okuphelele ukuhlakanipha okwembulwa yi-Atma ngaphakathi komzimba kuhanjiswa ngu Paramatma (uNkulunkulu).
 
-  There are twelve major religions in the world today, and Hinduism is unique in that it encompasses all devatas not present in other religions. God created both devatas and human beings. However, humans have forsaken God and turned to the worship of devatas, without fully understanding God’s wisdom. This choice underscores that humans did not prioritize God’s teachings as found in their scriptures. Those who abandon God and worship devatas can be seen as being under the influence of Maya, heeding the words of Maya. In the grand scheme, there are essentially two sides: God’s side and Maya’s side. However, in some religions, people exclusively worship God without turning to other devatas. It’s primarily within Hinduism that worship of multiple devatas, apart from God, is more common. Consequently, it becomes evident that those who worship devatas are aligning themselves with Maya’s influence.
+  Kunezinkolo eziyishumi nambili ezinkulu emhlabeni namuhla, futhi UbuHindu ihlukile ngoba ayihlanganisi wonke ama-devatas ekhona kwezinye izinkolo. UNkulunkulu wadala kokubili ama-devatas kanye abantu. Nokho, abantu bamshiyile uNkulunkulu futhi waphendukela ekukhulekeleni ama-devatas, ngaphandle kokuqonda ngokugcwele Ukuhlakanipha kukaNkulunkulu. Lokhu kukhetha kugcizelela ukuthi abantu abazange babeke kuqala izimfundiso zikaNkulunkulu njengoba zitholakala emibhalweni yabo. Labo abalahla uNkulunkulu futhi bakhonze ama-devatas bangabonakala njengomuntu ngaphansi kwethonya likaMaya, elalela amazwi kaMaya. Kwe uhlelo olukhulu, empeleni kunezinhlangothi ezimbili: uhlangothi lukaNkulunkulu kanye Engxenyeni kaMaya. Nokho, kwezinye izinkolo, abantu kuphela khonza uNkulunkulu ngaphandle kokuphendukela kwamanye ama-devatas. Ngokuyinhloko ngaphakathi kobuHindu obukhonza ama-devatas amaningi, ngaphandle kwalokho UNkulunkulu, uvame kakhulu. Ngenxa yalokho, kuyacaca ukuthi labo abakhonza ama-devatas bahambisana nabo Ithonya likaMaya.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 7,
-verse: ` <b>(6)	The Gospel of Mathew, 5th chapter, 10th verse.</b>`,
+verse: ` <b>(6)	IVangeli likaMathewu, isahluko 5, ivesi 10.</b>`,
 meaning: `<b>
-(10) Blessed are those who are persecuted because of righteousness (wisdom), for theirs is the kingdom of paraloka.</b>`,
+(5:10) Babusisiwe abashushiswa ngenxa lokulunga (ukuhlakanipha), ngoba umbuso ungowabo we paraloka.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> The verse includes the word ‘righteousness,’ but it should be <b>‘wisdom’ instead of ‘righteousness.’</b> In the Hebrew language, Jesus likely used the word ‘wisdom.’ However, when translated into English, the word equivalent to the Hebrew term was not accurately represented, and ‘righteousness’ was used instead of ‘wisdom.’ It’s essential to distinguish between ‘righteousness’ and ‘wisdom.<b>’ Righteousness and justice are concepts related to worldly matters, while wisdom and dharma are of a divine nature.</b> Righteousness and justice are associated with karma, while wisdom and dharma have the power to burn karma. This distinction underscores that righteousness pertains to the material realm, while wisdom is of a divine nature. In the world, we encounter righteousness, corruption, justice, and injustice. Righteousness leads to punya (good karma), whereas corruption results in sin. Similarly, justice yields punya, while injustice gives rise to sin. In light of these differences, it’s clear that the verse in question should use ‘wisdom’ in place of ‘righteousness.’
+<div class="poem"><div class="poemtext">
+  Leli vesi lihlanganisa negama elithi &lsquo;ukulunga,&rsquo; kodwa lona kufanele kube <strong>&lsquo;ukuhlakanipha&rsquo; esikhundleni &lsquo;sokulunga.&rsquo; </strong>Encwadini Ngolimi lwesiHebheru, cishe uJesu wasebenzisa igama elithi &lsquo;ukuhlakanipha.&rsquo; Nokho, lapho lihunyushelwa esiNgisini, igama elilingana ne igama lesiHeberu lalingamelwe ngokunembile, futhi &lsquo;Ukulunga&rsquo; kwasetshenziswa esikhundleni &lsquo;sokuhlakanipha.&rsquo; Kubalulekile uku hlukanisa phakathi &lsquo;ukulunga&rsquo; futhi &lsquo;ukuhlakanipha.&rsquo; <strong>Ukulunga nobulungisa imiqondo ehlobene izindaba zomhlaba, kuyilapho ukuhlakanipha ne-dharma kungokwaphezulu imvelo. </strong>Ukulunga nobulungisa kuhlotshaniswa ne-karma, kuyilapho ukuhlakanipha ne-dharma kunamandla okushisa i-karma. Lokhu umehluko ugcizelela ukuthi ukulunga kumayelana indawo yenyama, kuyilapho ukuhlakanipha kungokwesimo saphezulu. Emhlabeni, sibhekana nokulunga, ukonakala, ubulungisa nokungabi nabulungisa. Ukulunga kuholela ku-punya (karma enhle), kanti ukonakala kubangela isono. Ngokufanayo, ubulungisa buveza i-punya, kuyilapho ukungalungi kubangela isono. Uma kubhekwa lo mehluko, kusobala ukuthi ivesi okukhulunywa ngalo kufanele lisebenzise &lsquo;ukuhlakanipha&rsquo; esikhundleni sokuthi &lsquo;ukulunga.&rsquo;
 
-  Those who face persecution for their pursuit of wisdom and those who endure hardships on the path of wisdom can be considered blessed. This is because, through their suffering for the sake of wisdom, they can attain moksham, which signifies liberation from the bondage of karma. When a person achieves moksham, they transcend this worldly existence and enter a different state beyond the world. Such an individual is said to have entered paraloka, which is a state devoid of worldly experiences. It’s important to note that not everyone’s journey toward wisdom involves persecution or violence. Some individuals will acquire wisdom and attain moksham (paraloka) without any obstacles.
+  Labo ababhekana nokushushiswa ngenxa yokuphishekela kwabo ukuhlakanipha nalabo abakhuthazelela ubunzima endleleni yokuhlakanipha bangakwazi kuthiwe ubusisiwe. Lokhu kungenxa yokuthi, ngokuhlupheka kwabo ngenxa yokuhlakanipha, bangafinyelela moksham, okuyinto kusho ukukhululwa ebugqilini be-karma. Lapho umuntu ifinyelela moksham, bayadlula lobukhona bezwe futhi ngena esimeni esihlukile ngaphesheya komhlaba. Umuntu onjalo unjalo kuthiwa ingene eparaloka, okuyisimo esingenawo okuhlangenwe nakho kwezwe. Kubalulekile ukuqaphela ukuthi akuwona wonke umuntu uhambo oluya ekuhlakanipheni luhlanganisa ukushushiswa noma ubudlova. Abanye abantu ngabanye bayozuza ukuhlakanipha futhi bathole i-moksham (paraloka) ngaphandle kwanoma yiziphi izithiyo.
 </dv></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 8,
-verse: ` <b>(7)	The Gospel of Mathew, 5th chapter, 17th verse.</b> `,
+verse: ` <b>(7)	IVangeli likaMathewu, isahluko 5, ivesi 17.</b> `,
 meaning: ` <b>
-(17)Do not think that I have come to abolish the Law (Dharma Shastra) or the Prophets; I have not come to abolish them but to fulfill them.
+(5:17) Ningacabangi ukuthi ngize ukuchitha uMthetho (Dharma Shastra) noma abaProfethi; angizange ngize aziqede kodwa azigcwalise.
 </b> `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> No one can condemn the Dharma Shastra. It cannot be condemned. It has been in existence since the dawn of creation, with numerous prophets and teachers imparting its wisdom. When Paramatma (the Supreme Being) descends to Earth as Bhagavan, He not only practices the Dharma Shastra but also makes its principles understandable to all. However, when Bhagavan, as the Son of God, reveals and practices the dharmas outlined in the Dharma Shastra, they may not appear as dharmas to some individuals. This discrepancy arises from the fact that some people mistakenly believe adharmas to be dharmas. Consequently, the true dharmas may seem like adharmas when Bhagavan imparts His teachings. This is why Jesus stated in the verse above, <b>‘Do not think that I have come to abolish the Law (Dharma Shastra) but to fulfill it.’</b>
+<div class="poem"><div class="poemtext">
+  Akekho ongalahla i-Dharma Shastra. Ngeke kube njalo balahliwe. Selokhu kwaba khona kusukela ekuseni indalo, enabaprofethi nabafundisi abaningi abayidluliselayo ukuhlakanipha. Lapho iParamatma (uMuntu Ophakeme) yehlela ku Umhlaba njengoBhagavan, Akagcini nje ngokwenza i-Dharma Shastra kodwa futhi yenza izimiso zayo ziqondakale kubo bonke. Nokho, lapho uBhagavan, njengeNdodana kaNkulunkulu, embula futhi enza ama-dharma achazwe ku-Dharma Shastra, angase angaveli njenge-dharma kwabanye abantu. Lokhu kwehluka kuvela ku iqiniso lokuthi abanye abantu bakholelwa ngephutha ukuthi i-adharma injalo i-dharmas. Ngenxa yalokho, i-dharmas yeqiniso ingase ibonakale sengathi adharmas lapho uBhagavan edlulisela izimfundiso Zakhe. Kungakho UJesu wathi evesini elingenhla, <strong>&lsquo;Ningacabangi ukuthi nginakho nize ukuzoqeda uMthetho (i-Dharma Shastra) kodwa ukuwugcwalisa.&rsquo;</strong>
 
-  People in the world have fallen into the influence of Maya (Satan) and have come to believe that adharmas are dharmas. Consequently, they engage in various forms of worship, thinking it to be sincere devotion. Maya has redirected people’s understanding of God towards itself, leading them to believe they are progressing towards God. In this process, it steers them to practice adharmas rather than dharmas, effectively leading them in the opposite direction of God. In such a state, even when God incarnates as a human and practices the true dharmas, those actions may appear misleading to those influenced by Maya. People may mistakenly think that what they are doing is the true dharma and that they are genuine believers. They might accuse God who has come as a human of following adharmas and may even label Him as a blasphemer. When the real God came to Earth as Jesus, what He said and practiced were indeed dharmas. However, these dharmas appeared to contradict the teachings of scholars, swamis, and gurus. This discrepancy is why the chief priests, scribes, and Caiaphas opposed and denounced Jesus. Hence, Jesus emphasized in the verse, <b>“I have not come to abolish them but to fulfill them.”</b>
+  Abantu emhlabeni bawele ethonyeni le Maya (uSathane) futhi baye bakholelwa ukuthi ama-adharma anjalo i-dharmas. Ngenxa yalokho, bahlanganyela ezinhlotsheni ezihlukahlukene ukukhonza, becabanga ukuthi ukuzinikela okuqotho. UMaya uqondise kabusha ukuqonda kwabantu ngoNkulunkulu kuye uqobo, okuholela kubo kholwa ukuthi bathuthukela kuNkulunkulu. Kule nqubo, it ubaqondisa ukuthi benze ama-adharma kune-dharmas, ebaholela ngendlela ephambene noNkulunkulu. Ku isimo esinjalo, ngisho nalapho uNkulunkulu ethatha isimo somuntu futhi imikhuba ye-dharma yeqiniso, lezo zenzo zingase zivele ezidukisayo kulabo abathonywe uMaya. Abantu kungenzeka ngephutha bacabange ukuthi abakwenzayo kuyi-dharma yeqiniso nokuthi bangamakholwa oqobo. Bangase basole uNkulunkulu ofike njengomuntu wokulandela ama-adharma no-May ngisho nokuMbiza ngokuthi ungumhlambazi. Lapho uNkulunkulu wangempela efika Umhlaba njengoJesu, lokho Akusho nakwenza kwakunjalo ngempela i-dharmas. Kodwa-ke, lawa ma-dharma abonakala ephikisana ne- izimfundiso zezazi, ama-swamis, nama-gurus. Lokhu kungafani kungani abapristi abakhulu, nababhali, noKayafase baphikisa futhi wakhuza uJesu. Ngakho, uJesu uyagcizelela evesini elithi, <strong>&ldquo;Iangizanga ukuzokuqeda, kodwa ukugcwalisa.&rdquo;</strong>
 </div></div>
 </span>  `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 1,
 pageNumber: 9,
-verse: ` <b>(8)	The Gospel of Mathew, 5th chapter, 18th verse.</b>`,
-meaning: `<b>(18) For truly I tell you, until sky and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law (Dharma Shastra) until everything is accomplished.    </b>`,
+verse: ` <b>(8)	IVangeli likaMathewu, isahluko 5, ivesi 18.</b>`,
+meaning: `<b>(5:18) Ngokuba ngiqinisile ngithi kini: Kuze kudlule izulu nomhlaba, hhayi uhlamvu oluncane kunazo zonke, hhayi nokushaywa okuncane kwepeni, uzonyamalala nganoma iyiphi indlela eMthethweni (Dharma Shastra) kuze kube yilapho konke sekufeziwe.    </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this verse, the term <strong>&lsquo;Dharma Shastra&rsquo;</strong> is unique, and some may wonder what it means. To address such inquiries, it&rsquo;s essential to understand the concept of shastra (science), the various types of sciences, and the distinctiveness of Dharma Shastra within the field of sciences. First, if we grasp the meaning of the word <strong>&lsquo;shastra&rsquo;</strong>, we will understand shastra to some extent. The word &lsquo;shastra&rsquo; is derived from the Telugu word &lsquo;<strong>shasanam</strong>, &rsquo; which conveys the idea of <strong>&lsquo;must be enforced.&rsquo;</strong> Consequently, &lsquo;shastra&rsquo; implies <strong>&lsquo;whatever is stated must come to pass.&rsquo;</strong> Additionally, the term &lsquo;<strong>shapam</strong>&rsquo; is derived from &lsquo;shastra,&rsquo; and it signifies<strong> &lsquo;must be executed.&rsquo;</strong> Thus, all three words - <strong>shasanam&rsquo; (statute), &rsquo;shapam&rsquo; (curse), and &rsquo;shastra&rsquo; (science)</strong> share the same underlying meaning. Shastra is typically categorized into six distinct areas of study. Some may argue that the six sciences can be grouped into two kinds, while others propose three categories. Broadly speaking, shastras can be considered two types. In other words, we can describe shastras as threefold. If we categorize them as two types, one set is related to worldly matters, and the other pertains to matters related to Paramatma (the Supreme Being). In the threefold classification, four shastras are associated with worldly concerns, one relates solely to Paramatma, and other falls into the category of being partially related to Paramatma and partially related to worldly matters.
+<div class="poem"><div class="poemtext">
+  Kuleli vesi, igama elithi <strong>'Dharma Shastra' </strong>liyingqayizivele, futhi abanye bangase bazibuze ukuthi lisho ukuthini. Ukuphendula imibuzo enjalo, kubalulekile ukuqonda umqondo we-shastra (isayensi), izinhlobo ezahlukahlukene zesayensi, kanye nokuhluka kweDharma Shastra ngaphakathi emkhakheni wesayensi. Okokuqala, uma siqonda incazelo yegama elithi &lsquo;shastra&rsquo;, sizoliqonda elithi shastra ngezinga elithile. Igama elithi <strong>&lsquo;shastra&rsquo; </strong>lisuselwa olimini lwesiTelugu igama elithi <strong>&lsquo;shasanam,&rsquo; </strong>elidlulisela umqondo wokuthi <strong>&lsquo;kumelwe kube kuphoqelelwe.&rsquo;</strong> Ngenxa yalokho, elithi &lsquo;shastra&rsquo; lisho <strong>&lsquo;noma yini eshiwoyo kumelwe kwenzeke.&rsquo;</strong> Ngaphezu kwalokho, igama elithi <strong>&lsquo;shapam</strong>&rsquo; liwukuthi lisuselwa kwelithi &lsquo;shastra,&rsquo; futhi lisho <strong>&lsquo;kufanele kube abulawe.&rsquo; </strong>Ngakho, womathathu la magama <strong>- shasanam&rsquo; (isimiso), I-&lsquo;shapam&rsquo; (isiqalekiso), nethi &lsquo;shastra&rsquo; (isayensi) </strong>ihlanganyela okufanayo incazelo eyisisekelo. I-Shastra ijwayele ukuhlukaniswa kwabayisithupha izindawo ezihlukene zokufunda. Abanye bangase baphikise ngokuthi isayensi eziyisithupha zingahlukaniswa zibe izinhlobo ezimbili, kuyilapho ezinye ziphakamisa ezintathu izigaba. Ngokuvamile, ama-shastras angabhekwa njengamabili izinhlobo. Ngamanye amazwi, singachaza ama-shastra njengokuphindwe kathathu. Uma sizihlukanisa njengezinhlobo ezimbili, isethi eyodwa ihlobene nezwe izindaba, kanti enye iphathelene nezindaba eziphathelene nazo I-Paramatma (uMuntu Ophakeme). Kuzigaba ezintathu, ama-shastra amane ahlotshaniswa nokukhathazeka kwezwe, omunye ulandisa kuphela kuParamatma, kanti okunye kuwela esigabeni sokuba khona ihlobene kancane neParamatma futhi ihlobene kancane nezwe izindaba.
 
-The six shastras are as follows: 1) Mathematics, 2) Astronomy, 3) Chemistry, 4) Physics, 5) Astrology, and 6) Brahma Vidya. Of these, the first four are concerned with worldly matters, while the fifth, Astrology, has connections with both worldly concerns and the divine. Alternatively, if Astrology is also considered within the category of worldly shastras, the first five shastras are classified as worldly, while Brahma Vidya Shastra remains as the sole science related to the Divine. There are a total of six sciences, with Brahma Vidya being the most significant. This is why it is known as the Brahma Vidya shastra, with ‘Brahma’ signifying greatness. ‘Brahma’ is not a name, but a term used to denote God’s greatest and supreme nature. <b>As it is a science dedicated to the understanding of God, it is appropriately named the Brahma Vidya shastra.</b> Given that Brahma Vidya pertains to the science of God, it carries the ‘vidya’ designation. The other five worldly sciences, namely Mathematics, Astronomy, Chemistry, Physics, and Astrology, lack the <b>‘vidya’</b> suffix in their names. The term ‘vidya’ is reserved for the science related to God. Some may wonder about the reason for this distinction, and the answer is as follows.
+  Ama-shastra ayisithupha ami kanje: 1) Izibalo, 2) I-Astronomy, 3) I-Chemistry, 4) I-Physics, 5) I-Astrology, kanye 6) Brahma Vidya. Kulezi, ezine zokuqala zikhathazekile izindaba zomhlaba, kuyilapho eyesihlanu, Astrology, has ukuxhumana kokubili ukukhathazeka kwezwe kanye nokwaphezulu. Kungenjalo, uma Astrology kubhekwa futhi phakathi kwesigaba samashastras asemhlabeni, amashastra amahlanu okuqala ahlukaniswa njengawezwe, kanti uBrahma Vidya I-Shastra isalokhu iyisayensi yodwa ehlobene ne-Divine. Lapho ziyisayensi eyisithupha isiyonke, kanti uBrahma Vidya nguyena ohamba phambili okubalulekile. Yingakho yaziwa ngokuthi i-Brahma Vidya shastra, nge &lsquo;Brahma&rsquo; ekhombisa ubukhulu. 'Brahma' akulona igama, kodwa igama elisetshenziselwa ukuchaza isimo sikaNkulunkulu esikhulu kunazo zonke nesiphakeme kakhulu. <strong>Njengoba kuyisayensi enikelwe ekuqondeni uNkulunkulu, kunjalo iqanjwe ngokufanelekile ngokuthi iBrahma Vidya shastra. </strong>Kulokho I-Brahma Vidya iphathelene nesayensi kaNkulunkulu, iphethe igama elithi 'vidya'. Ezinye isayensi yezwe emihlanu, okungukuthi Izibalo, i-Astronomy, iKhemistry, iPhysics, ne-Astrology, ntula isijobelelo esithi <strong>&lsquo;vidya&rsquo;</strong> emagameni abo. Igama elithi 'vidya' lisho kubekelwe isayensi ehlobene noNkulunkulu. Abanye bangase bazibuze mayelana nesizathu salo mehluko, futhi impendulo ithi uyalandela.
 
-  Sciences can be divided into two types: worldly-related and Paramatma-related. The five material sciences can be fully comprehended by anyone. However, Brahma Vidya, the greatest of all, which reveals God’s dharmas, is the only one that includes the term ‘vidya’ in its name, earning it the title of the greatest Vidya shastra. The word ‘vidya’ (education) originates from the sound <b>‘vith,</b> ’ which means knowing. Vidya implies knowledge that should be acquired. A ‘vidyarthi’ (student) is someone who seeks knowledge, asking for something they do not yet possess and acquiring it from those who possess the knowledge. Students acquire essential education from knowledgeable teachers. Vidya refers to knowledge that can be known but not fully comprehended. In a similar manner, no one can claim to fully understand the subject of God. No one can assert that they possess complete knowledge of God. Learning about God is a lifelong pursuit, and people continue to gain understanding throughout their lives. There is no one who can say that this is the limit and that they know everything. Humans will always continue to learn about the matter of God, but will never know it fully. Therefore, the science of God is always referred to as Vidya shastra, and it is perpetually the Brahma Vidya shastra. In contrast, one can fully grasp the other five sciences, leaving nothing more to be known. As a result, the term ‘vidya’ is not added to their names.
+  Isayensi ingahlukaniswa ngezinhlobo ezimbili: eziphathelene nomhlaba kanye ne-Paramatma ehlobene. Isayensi yezinto ezinhlanu ingaba ngokugcwele kuqondwe yinoma ngubani. Nokho, uBrahma Vidya, okukhulu kunakho konke, okwembula i-dharmas kaNkulunkulu, yiyona yodwa lokho kufaka phakathi igama elithi 'vidya' egameni layo, liyithola isihloko sokuthi i-Vidya shastra enkulu kakhulu. Igama elithi &lsquo;vidya&rsquo; (imfundo) livela emsindweni othi <strong>&lsquo;vith,&rsquo; </strong>okusho ukwazi. Vidya kusho ulwazi okufanele luzuzwe. A 'vidyarthi' (umfundi) ngumuntu ofuna ulwazi, olucelayo into abangakabi nayo futhi beyizuza kulabo abanolwazi. Abafundi bathola okubalulekile imfundo kothisha abanolwazi. U-Vidya ubhekisela ku ulwazi olungaziwa kodwa olungaqondwa ngokugcwele. Kungendlela efanayo, akekho ongathi uqonda ngokugcwele isihloko sikaNkulunkulu. Akekho ongagomela ngokuthi banakho okuphelele ulwazi ngoNkulunkulu. Ukufunda ngoNkulunkulu kuwumsebenzi wokuphila kwakho konke, futhi abantu bayaqhubeka nokuthola ukuqonda kukho konke ukuphila kwabo. Akekho ongasho ukuthi lo mkhawulo futhi bona wazi konke. Abantu bayohlale befunda mayelana indaba kaNkulunkulu, kodwa abasoze bazi ngokugcwele. Ngakho-ke, isayensi kaNkulunkulu ihlale ibizwa ngokuthi i-Vidya shastra, futhi kunjalo ngokungapheli Brahma Vidya shastra. Ngokuphambene, umuntu angakwazi ngokugcwele bamba ezinye isayensi ezinhlanu, ungashiyi lutho eyaziwayo. Ngenxa yalokho, igama elithi &lsquo;vidya&rsquo; alifakwa emagameni abo.
 
-  The one who possesses complete knowledge of God (the Brahma) can share this wisdom with others. If an individual lacks knowledge of God’s wisdom, who else can confidently convey it? Our response to this question is as follows: Only God himself fully knows His own wisdom. Consequently, God must personally convey His wisdom. However, God does not communicate directly with anyone. Instead, God, while not appearing as God, imparts His wisdom by taking on the form of a man. It is important to note that while God may come in a human-like form, He is not a human being. In the guise of a man, God has revealed His wisdom in its entirety, presenting it as a science with prescribed principles and ordinances. Therefore, what God has revealed is referred to as the Brahma Vidya shastra. God Himself communicated the Brahma Vidya shastra, and it is incumbent upon humanity to comprehend it. When a person gains full understanding of the Brahma Vidya, they are liberated from karma and can unite with God. Consequently, individuals must persist in acquiring knowledge of God’s science until they attain moksham (liberation). Therefore, it is aptly named Brahma Vidya, as it is the highest form of education in the world.
+  Lowo onolwazi oluphelele ngoNkulunkulu (UBrahma) angabelana nabanye ngalokhu kuhlakanipha. Uma umuntu akanalo ulwazi ngokuhlakanipha kukaNkulunkulu, ubani omunye ongaqiniseka ukuyidlulisela? Impendulo yethu kulo mbuzo ithi: UNkulunkulu kuphela yena uzazi ngokugcwele ukuhlakanipha Kwakhe. Ngakho, uNkulunkulu kufanele mathupha adlulisele ukuhlakanipha Kwakhe. Nokho, uNkulunkulu akakwenzi ukuxhumana ngokuqondile nanoma ubani. Kunalokho, uNkulunkulu, kuyilapho kungenjalo ebonakala njengoNkulunkulu, enikeza ukuhlakanipha Kwakhe ngakho ukuthatha isimo se Indoda. Kubalulekile ukuqaphela ukuthi ngenkathi uNkulunkulu engase angene a isimo somuntu, Akayena umuntu. Ngomfanekiso ka-umuntu, uNkulunkulu ukwambulile ukuhlakanipha Kwakhe konke, ekuveza njengesayensi enemigomo nezimiso ezimisiwe. Ngakho-ke, lokho uNkulunkulu akwambulile kubhekiselwa kukho ngokuthi iBrahma Vidya shastra. UNkulunkulu Uqobo Lwakhe wakhuluma ngeBrahma Vidya Shastra, futhi kuyisibopho esintwini ukuthi sikuqonde. Lapho umuntu ezuza ukuqonda okuphelele kweBrahma Vidya, bakhululiwe ku-karma futhi bangahlangana noNkulunkulu. Ngakho-ke, abantu kufanele baphikelele ekuzuzeni ulwazi yesayensi kaNkulunkulu baze bathole i-moksham (inkululeko). Ngakho-ke, ibizwa ngokufanelekile ngokuthi iBrahma Vidya, njengoba iphakeme kakhulu uhlobo lwemfundo emhlabeni.
 
-  God’s dharmas are articulated in the Brahma Vidya shastra, which is why it is referred to as the Dharma Shastra in the divine scriptures. God initially revealed His shastra with ordinances at the very dawn of creation. Subsequently, three divine scriptures emerged at different times and in distinct locations. These three divine scriptures can be regarded as the three Dharma Shastras, all of which exclusively contain dharmas. Consequently, all three Dharma Shastras share the same principles and are rooted in God’s dharmas. They are unified in their adherence to the Brahma Vidya and teach God’s dharmas. As a result, the three Dharma Shastras mutually corroborate with one another and do not contradict each other. <b>The first divine scripture is known as the Bhagavad-Gita, the second divine scripture is named the Bible, and the third divine scripture (the final divine scripture) is called the Quran.</b> While these three scriptures bear different names, they convey the dharmas of the same God.
+  I-dharmas kaNkulunkulu ivezwe kuBrahma Vidya shastra, yingakho ibizwa ngokuthi i-Dharma Shastra in imibhalo engcwele. UNkulunkulu ekuqaleni wembula shastra Yakhe nge izimiso ekuqaleni kwendalo. Ngemva kwalokho, ezintathu imibhalo engcwele yavela ngezikhathi ezihlukene futhi ehlukene izindawo. Le mibhalo emithathu yaphezulu ingathathwa njenge ezintathu Dharma Shastras, wonke aqukethe kuphela i-dharmas. Ngenxa yalokho, bobathathu abakwaDharma Shastra bahlanganyela izimiso ezifanayo futhi zisekelwe ku-dharmas kaNkulunkulu. Kunjalo babumbene ekubambeleleni kwabo kuBrahma Vidya futhi bafundise kaNkulunkulu i-dharmas. Ngenxa yalokho, ama-Dharma Shastra amathathu ngokuhlanganyela qinisanani futhi ningaphikisani okunye. <strong>Umbhalo wokuqala waphezulu waziwa ngokuthi iBhagavad Gita, umbhalo wesibili waphezulu ubizwa ngokuthi iBhayibheli, futhi umbhalo waphezulu wesithathu (umbhalo wokugcina waphezulu) uthi ebizwa ngeQuran.</strong> Ngenkathi le mibhalo emithathu iphethe okuhlukile amagama, adlulisa ama-dharma kaNkulunkulu ofanayo.
 
-  Following the Brahma Vidya shastra, three prophets conveyed God’s wisdom, which subsequently became three distinct divine scriptures. Although these three divine scriptures are separate, they all expound on the same God’s dharmas from three different perspectives. Since the dharmas presented within these scriptures are based on science, they will be realized exactly as they have been stated, as affirmed in the verse <b>‘until sky and earth disappear.’</b> The outer world’s Sky and Earth are eternal, as God has made them so. However, the invisible counterparts of Earth and Sky within the human body are entirely perishable. Hence, the phrase ‘until sky and earth disappear’ must be understood as ‘until the human body dies (disappears).’ When an individual seeks God’s wisdom, they must adhere to all of God’s commandments (dharmas). Without wholeheartedly practicing God’s dharmas, one cannot attain paraloka. As outlined in the Dharma Shastra, moksham (liberation) can only be achieved when all the dharmas have been fulfilled. Even if a person does not practice even a little of what is outlined in the Dharma Shastra, they will not attain moksham. Instead of merely suggesting, <b>‘even if a little thing is not followed from the prescribed dharmas,’</b> it is expressed <b>as ‘not the smallest letter, not the least stroke of a pen.’</b> Therefore, it is crucial to follow every aspect of the Dharma Shastra without leaving anything overlooked. It is important to know that the letter and stroke of a pen mentioned are not related to the writing in the book.
+  Kulandela uBrahma Vidya shastra, abaprofethi abathathu yadlulisela ukuhlakanipha kukaNkulunkulu, okwathi kamuva kwaba kuthathu imibhalo engcwele yaphezulu. Nakuba lezi ezintathu zaphezulu imibhalo ihlukene, yonke ichaza ngekaNkulunkulu oyedwa dharmas ngemibono emithathu ehlukene. Kusukela ku-dharmas okwethulwa ngaphakathi kwale mibhalo kusekelwe isayensi, bona zizofezeka njengoba kushiwo, njengoba kuqinisekisiwe ivesi <strong>&lsquo;kuze kunyamalale izulu nomhlaba.&rsquo; </strong>Izwe elingaphandle Isibhakabhaka noMhlaba kungunaphakade, njengoba uNkulunkulu ekwenzile. Nokho, ozakwabo abangabonakali boMhlaba nesibhakabhaka ngaphakathi komuntu umzimba uyabhubha ngokuphelele. Ngakho, inkulumo ethi &lsquo;kuze kube isibhakabhaka futhi umhlaba uyanyamalala&rsquo; kumelwe uqondwe ngokuthi &lsquo;kuze kube umzimba womuntu iyafa (iyanyamalala).&rsquo; Lapho umuntu efuna ukuhlakanipha kukaNkulunkulu, kufanele babambelele kuyo yonke imiyalo kaNkulunkulu ( dharmas ). Ngaphandle kokwenza i-dharma kaNkulunkulu ngenhliziyo yonke, umuntu angeke uthole i-paraloka. Njengoba kushiwo ku-Dharma Shastra, moksham (inkululeko) ingafinyelelwa kuphela uma wonke ama-dharma enawo kugcwalisekile. Ngisho noma umuntu engazilolongi ngisho nokuncane lokho okushiwo ku-Dharma Shastra, ngeke bakufinyelele i-moksham. Esikhundleni sokumane usikisele, <strong>&lsquo;ngisho noma into encane ayilandelwa kuma-dharma anqunyiwe,&rsquo;</strong> kunjalo kuchazwe <strong>ngokuthi &lsquo;hhayi uhlamvu oluncane kunawo wonke, hhayi nokuncane uhlamvu lwe ipeni.&rsquo;</strong> Ngakho-ke, kubalulekile ukulandela zonke izici ze UDharma Shastra ngaphandle kokushiya noma yini enganakiwe. Ikona kubalulekile ukwazi ukuthi uhlamvu kanye unhlangothi ipeni okukhulunywa ngakho akuhlobene nokulotshwa encwadini.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 10,
-verse: ` <b>(9)	The Gospel of Mathew, 5th chapter, 19th verse.</b>`,
+verse: ` <b>(9)	IVangeli likaMathewu, isahluko 5, ivesi 19.</b>`,
 meaning: `<b>
-(19) Therefore, anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of paraloka, but whoever practices and teaches these commands will be called great in the kingdom of paraloka. </b> `,
+(5:19) Ngakho-ke, noma ubani obeka eceleni omunye we emincane yale miyalo, afundise abanye kanjalo uyakuthiwa omncinyane embusweni we paraloka, kodwa loba ngubani ozenzayo lezifundisayo imiyalo iyothiwa mikhulu embusweni ka i-paraloka. </b> `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> While there are some fundamental dharmas outlined in the Dharma Shastra, many are interconnected with them. God’s dharmas are also referred to as <b>commandments.</b> There are primarily <b>two</b> most essential of God’s commandments, but several others are connected to them. Anyone who transgresses even the tiniest of these connected commandments and imparts such teachings is acting against righteousness. A person should not transgress any of the dharmas, whether they are minor or significant, as instructed by God. Every single dharma, no matter how small, should be diligently practiced without exception. However, some individuals, instead of adhering to even the smallest dharmas, have strayed from the path of dharmas. They have not only embraced adharmas but also spread such teachings. Despite being regarded as Gurus by society, they have failed to comprehend God’s commandments correctly. Regrettably, they have misconstrued God’s dharmas as adharmas and have become proponents of adharmas. They misguide people by imparting such teachings, asserting that they are imparting true wisdom and the genuine commandments of God. Even though they may be esteemed as great Gurus in the eyes of the world, in God’s eyes, they are considered the least.
+<div class="poem"><div class="poemtext">
+  Ngenkathi kukhona ama-dharmas ayisisekelo achazwe kuwo i-Dharma Shastra, eziningi zixhumene nazo. I-dharmas kaNkulunkulu nayo ibizwa ngokuthi &lt;strong&gt;imiyalo&lt;/strong&gt;. Lapho ngokuyinhloko ziyimithetho &lt;strong&gt;emibili&lt;/strong&gt; ebaluleke kakhulu emiyalweni kaNkulunkulu, kodwa abanye abaningi baxhumene nabo. Noma ubani weqa ngisho nokuncane kakhulu kwalokhu okuxhumene imiyalo nokudlulisela izimfundiso ezinjalo wenza ngokumelene ukulunga. Umuntu akufanele eqe noma iyiphi yemithetho dharmas, kungakhathaliseki ukuthi mancane noma abalulekile, njengoba kuyaliwe ngoNkulunkulu. Yonke i-dharma eyodwa, kungakhathaliseki ukuthi incane kangakanani, kufanele ibe kwenziwa ngokuzimisela ngaphandle kokukhetha. Nokho, abanye abantu, esikhundleni sokunamathela ngisho nama-dharma amancane kakhulu, baphambukile endleleni ye-dharmas. Abanayo nje kuphela zamukela ama-adharma kodwa futhi zasakaza izimfundiso ezinjalo. Noma kunjalo bethathwa njengamaGuru ngumphakathi, behlulekile ukuqonda kahle imiyalo kaNkulunkulu. Ngokudabukisayo, baye baqonda kabi i-dharma kaNkulunkulu njenge-adharma futhi baye benza babe abasekeli be-adharma. Badukisa abantu bedlulisela izimfundiso ezinjalo, begomela ngokuthi bayafundisa ukuhlakanipha kweqiniso nemiyalo yeqiniso kaNkulunkulu. Ngisho nakuba zingabhekwa njengamaGugu amakhulu emehlweni o emhlabeni, emehlweni kaNkulunkulu, bathathwa njengabancane.
 
-  Those who grasp the dharmas accurately impart them as dharmas to those interested, even if they are not well-known Gurus. Some individuals misinterpret God’s dharmas as adharmas and, in turn, teach these adharmas. Consequently, those who teach adharmas cannot attain the kingdom of paraloka. The ignorant will never attain the kingdom of paraloka, as it remains permanently closed to them, deeming them unworthy. Even if someone who comprehends God’s commandments from the scriptures is not considered a Guru, they will attain a significant place in paraloka when they teach the dharmas they know. Such an individual is not just known as a follower of dharmas but also holds high regard in God’s eyes. A true dharma follower is one who meticulously imparts even the smallest of God’s dharmas in great detail.
+  Labo ababamba i-dharmas banikeze ngokufanelekile njengama-dharmas kulabo abanentshisekelo, noma ngabe bengaziwa kakhulu Gurus. Abanye abantu bahumusha kabi ama-dharma kaNkulunkulu ngokuthi ama-adharma futhi, ngokulandelayo, afundise lezi adharma. Ngenxa yalokho, labo abafundisa ama-adharma abakwazi ukuthola umbuso we i-paraloka. Abangazi abasoze bawuthola umbuso we paraloka, njengoba ihlala ivaliwe unomphela kubo, deeming abangafaneleki. Ngisho noma umuntu oqonda okukaNkulunkulu imiyalo evela emibhalweni ayithathwa njengeGuru, bazothola indawo ebalulekile ku-paraloka lapho befundisa ama-dharma abawaziyo. Umuntu onjalo akaziwa nje ngokuthi umlandeli we-dharmas kodwa futhi uhlonipha kakhulu emehlweni kaNkulunkulu. Umlandeli we-dharma weqiniso yilowo odlulisela ngokucophelela encane ye-dharma kaNkulunkulu ngemininingwane enkulu.
 </div></div>
 
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 1,
 pageNumber: 11,
-verse: `<b>(10)	The Gospel of Mathew, 5th chapter, 20th verse.</b> `,
+verse: `<b>(10)	IVangeli likaMathewu, isahluko 5, 20 ivesi.</b> `,
 meaning: ` <b>
-      (20) For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of paraloka.</b>`,
+      (5:20) Ngoba ngithi kini ngaphandle kokuba ukulunga kwenu udlula owabaFarisi nabafundisi umthetho, aniyikungena embusweni ka i-paraloka.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the world, there are many Pharisees, devotees, and teachers. It is essential to possess a greater depth of wisdom than they do. God has stated that those who possess less wisdom than Pharisees, devotees, and teachers cannot enter paraloka. As the verse suggests, when you possess more wisdom than Swamis and Pharisees, who engage in yajnas (ritual sacrifices) and act contrary to what God has instructed, you will easily attain paraloka.
+<div class="poem"><div class="poemtext">
+  Ezweni, baningi abaFarisi, abazinikele, kanye othisha. Kubalulekile ukuba nokuhlakanipha okujule kakhudlwana kunabo. UNkulunkulu ushilo ukuthi labo abadla kancane ukuhlakanipha kunabaFarisi, abazinikele, nabafundisi abanakungena i-paraloka. Njengoba ivesi lisikisela, uma unezinto eziningi ukuhlakanipha kunamaSwami nabaFarisi, abahlanganyela kuma-yajnas (imihlatshelo yesiko) futhi wenze ngokuphambene nalokho uNkulunkulu akuyalile, uzothola kalula i-paraloka.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 12,
-verse: `<b>(11)	The Gospel of Mathew, 5th chapter, 28th verse.</b> `,
+verse: `<b>(11)	IVangeli likaMathewu, isahluko 5, 28 ivesi.</b> `,
 meaning: `<b>
-(28) But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. </b>     `,
+(5:28) Kodwa ngiyanitshela ukuthi noma ubani obheka owesifazane ngokukhanuka usephingile naye phakathi inhliziyo yakhe. </b>     `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Human actions can be categorized into two distinct approaches: external actions that are observable and internal actions that occur within a person's thoughts and feelings. Both of these dimensions are present in every individual. In one approach, a person engages in actions related to their gunas with internal thoughts and emotions. In the other approach, the same actions are performed through the interaction of gunas and the physical body. The consequences of these actions result in either punya (good karma) or sin (bad karma). It is important to note that there are two types of actions: physical (visible) and non-physical (invisible). <b>When evaluating a person’s character, society often relies on their observable physical actions to determine whether they are considered good or bad. However, it becomes more challenging to make such judgments when a person’s actions are internal, involving thoughts and emotions, as they are not readily discernible.</b> It is difficult to ascertain whether a person is good or bad when we are unaware of their actions.
+<div class="poem"><div class="poemtext">
+  Izenzo zomuntu zingahlukaniswa zibe izingxenye ezimbili ezihlukene approaches: izenzo zangaphandle ezibonakalayo nezingaphakathi izenzo ezenzeka ngaphakathi kwemicabango nemizwa yomuntu. Kokubili yalezi zilinganiso zikhona kuwo wonke umuntu. Kokunye indlela, umuntu uhlanganyela ezenzweni ezihlobene nezibhamu zabo ngemicabango nemizwelo yangaphakathi. Ngenye indlela, izenzo ezifanayo zenziwa ngokusebenzisana kwe izibhamu kanye nomzimba wenyama. Imiphumela yalokhu izenzo ziphumela ku-punya (karma enhle) noma isono (i-karma embi). Kubalulekile ukuqaphela ukuthi kunezinhlobo ezimbili zezenzo: ngokomzimba (okubonakalayo) nokungezona ngokomzimba (okungabonakali<strong>). Lapho uhlola isimilo somuntu, umphakathi uvame ukuncika kubo izenzo ezibonakalayo ezibonakalayo ukuze kutholwe ukuthi ngabe kunjalo zibhekwa njengezinhle noma ezimbi. Nokho, kuba ngaphezulu inselele ukwenza izahlulelo ezinjalo lapho umuntu izenzo zingaphakathi, ezibandakanya imicabango nemizwa, njengoba azibonakali kalula. </strong>Kunzima ukuthola kungakhathaliseki ukuthi umuntu muhle noma mubi lapho thina singazi ngabo izenzo.
 
-  A person’s <b>aham</b> (the ego or sense of self), whether present in their physical actions or non-physical thoughts, plays a crucial role in the generation of karma. Sin or punya karma is received by an individual due to the presence of aham in their body. While the external organs of the body are involved in physical actions, it is the functioning of aham that influences the karmic outcome of those actions. Even when a person does not physically engage in an action, their aham, located next to buddhi (intellect), attaches karma based on what aham senses in the thoughts of buddhi when contemplation is undertaken with the influence of gunas. If aham is not active, a person will not accumulate karma, even if they are involved in physical or non-physical work. This concept is reflected in the first divine scripture, specifically in the 17th verse of Moksha Sanyasa Yoga, which states, <b>“Although a person eliminates all beings in the world without the presence of aham in their feelings, they will not incur sin for the act of killing, and they will not be considered a murderer.”</b> This emphasizes the importance of aham in determining the moral consequences of one’s actions. Jesus also conveyed a similar message when He said, <b>‘You will incur sin through your thoughts because of aham, even if you haven’t physically carried out the action.’</b> This reveals the unity in the teachings of both the first and second divine scriptures, as well as the consistency of the wisdom conveyed. A person’s actions performed without aham are considered as if they were not done, and thoughts that involve aham are treated as if the action was executed. Hence, the presence of aham within the body influences the accumulation of punya and sin by the Jeevatma. Consequently, it was stated from the outset of creation that ‘performing actions without aham is Karma Yogam,’ a concept reiterated in both the first and second divine scriptures.
+  I-<strong>aham</strong> yomuntu (i-ego noma umuzwa wokuzicabangela), noma ngabe abakhona ezenzweni zabo zomzimba noma emicabangweni engeyona engokwenyama, idlala indima ebalulekile esizukulwaneni se-karma. Isono noma i-punya I-karma itholwa ngumuntu ngenxa yokuba khona kwe-aham emzimbeni wabo. Ngenkathi izitho zangaphandle zomzimba zikhona ebandakanyeka ezenzweni zomzimba, kungukusebenza kwe-aham lokho ithonya umphumela we-karmic walezo zenzo. Noma ngabe umuntu akazibandakanyi ngokoqobo esenzweni, i-aham yabo, itholakala eduze kwe-buddhi (ingqondo), inamathisela i-karma ngokusekelwe ku- lokho u-aham akuzwayo emicabangweni ye-buddhi lapho ukucatshangelwa kwenziwa ngethonya lezibhamu. Uma i-aham ayisebenzi, umuntu ngeke aqongelele i-karma, noma ngabe bahileleke emsebenzini womzimba noma ongewona owomzimba. Lo mqondo kubonakala embhalweni wokuqala waphezulu, ikakhulukazi kweye-17 ivesi le-Moksha Sanyasa Yoga, elithi, <strong>&ldquo;Nakuba umuntu uqeda zonke izidalwa emhlabeni ngaphandle ubukhona buka aham emizweni yabo, abayikuzilethela isono ngesenzo sokubulala, futhi ngeke babhekwe njenge umbulali.&rdquo; </strong>Lokhu kugcizelela ukubaluleka kwe-aham ukunquma imiphumela yokuziphatha yezenzo zomuntu. uJesu futhi wadlulisa umyalezo ofanayo lapho Ethi, <strong>&lsquo;Nizozifaka isono ngemicabango yakho ngenxa aham, ngisho noma wena abasenzanga isenzo ngokomzimba.&rsquo;</strong> Lokhu kwembula ubunye ezimfundisweni zombili zokuqala nezesibili zaphezulu imibhalo, kanye nokuvumelana kokuhlakanipha okunikezwayo. Izenzo zomuntu ezenziwa ngaphandle kwe-aham zibhekwa njenge uma zingenziwanga, kanye nemicabango ebandakanya u-aham kuthathwe sengathi isenzo senziwe. Ngakho, ukuba khona kwe i-aham ngaphakathi komzimba ithonya ukuqoqwa kwe-punya futhi isono ngaseJeevatma. Ngenxa yalokho, kwashiwo kusukela ekuqaleni kwendalo ukuthi &lsquo;ukwenza izenzo ngaphandle kuka-aham iKarma Yogam,&rsquo; umqondo uphinde waphindwa kukho kokubili kokuqala kanye imibhalo yaphezulu yesibili.
 </div></div>
 </span>`
     },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 13,
-verse: `<b>(12)	The Gospel of Mathew, 5th chapter, 29th and 30th verses.</b>`,
+verse: `<b>(12)	IVangeli likaMathewu, isahluko 5, 29 kanye 30 amavesi.</b>`,
 meaning: ` <b>
-(29) If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
+(5:29) Uma iso lakho lokunene likukhubekisa, likhiphe; awukhiphe awulahle. Kungcono kuwe ukulahlekelwa eyodwa ingxenye yomzimba wakho kunokuba wonke umzimba wakho ube uphonswe esihogweni.
 <br><br>
-(30) And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.</b>`,
+(5:30) Futhi uma isandla sakho sokunene sikukhubekisa e, yinqume, uyilahle. Kungcono ukuthi ulahlekelwe sinye somzimba wakho kunokuba wonke umzimba wakho uhambe esihogweni.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Verse 29 mentions <b>‘eye,’</b> and verse 30 mentions <b>‘hand.’</b> Upon closer examination, it becomes apparent that the human body consists of two types of body parts: physical or visible and non-physical or subtle. There are a total of ten (10) physical body parts and fifteen (15) subtle body parts, bringing the combined count to 25, including Jeevatma. Each body part corresponds to a distinct function within the body. The human body possesses five gnanendriyas (sensory organs) and five karmendriyas (motor organs). These two sets of organs collectively enable physical actions. The gnanendriyas, which include the eye, ear, nose, tongue, and skin, serve as receptors that transmit external information to the inner faculties. Similarly, there are five karmendriyas- hands, legs, mouth, anus, and sexual organ. The manas (mind) then conveys this information from the senses to the buddhi (intellect). While the gnanendriyas serve to transmit external information from the surroundings into the internal faculties, the inner buddhi conveys instructions through the manas to the karmendriyas, which subsequently carry out the actions as directed by the buddhi.
+<div class="poem"><div class="poemtext">
+  Ivesi 29 ikhuluma <strong>&lsquo;ngeso,&rsquo; </strong>futhi ivesi 30 ikhuluma <strong>&lsquo;ngesandla.&rsquo; </strong>Lapho ihlolisisa, iba ngokusobala ukuthi umzimba womuntu wakhiwe izinhlobo ezimbili zomzimba izingxenye: ezibonakalayo noma ezibonakalayo nezingezona ezomzimba noma ezicashile. Bangu isamba sezitho zomzimba eziyishumi (10) neziyishumi nanhlanu (15) ezicashile izingxenye zomzimba, okuletha isibalo esihlanganisiwe sibe ngu-25, kuhlanganisa I-Jeevatma. Isitho somzimba ngasinye sihambisana nomsebenzi ohlukile emzimbeni. Umzimba womuntu unama-gnanendriya amahlanu (izitho zezinzwa) kanye ne-karmendriyas emihlanu (izitho zezimoto). Lezi amasethi amabili wezitho ngokuhlanganyela anika amandla izenzo zomzimba. gnanendriyas, okuhlanganisa iso, indlebe, ikhala, ulimi, kanye isikhumba, sisebenza njengama-receptors adlulisela ulwazi lwangaphandle ku amakhono angaphakathi. Ngokufanayo, kukhona karmendriyas ezinhlanu-izandla, imilenze, umlomo, ididi nesitho socansi. Ingqondo (ingqondo) bese idlulisela lolu lwazi kusuka ezinzwa kuya kubhuddhi (ingqondo). Ngenkathi ama-gnanendriyas esebenza ukudlulisa ngaphandle ulwazi oluvela endaweni ezungezile lungene kumakhono angaphakathi, i-buddhi yangaphakathi idlulisa iziyalezo ngokusebenzisa imana ku ama-karmendriyas, okuthi kamuva enze izenzo njenge iqondiswe ngubuddhi.
 
-  Humans perform actions coordinated by the interplay of gnanendriyas (sensory organs) and karmendriyas (motor organs). Notably, the <b>eye</b> among the gnanendriyas and the <b>hand</b> among the karmendriyas hold particular importance, which is why both are mentioned in these verses. Even if the buddhi (intellect) does not direct the karmendriyas to carry out a task, sin can still be attributed to a person based on the thoughts of the buddhi when aham (ego), closely connected to the buddhi, is active. This underscores the pivotal role of the eye in potential sin. For example, when a person gazes at a woman with lustful thoughts, they may incur sin due to the influence of aham, even if they haven’t physically harmed the other person. The eye, in this manner, creates the possibility of attaching sin to an individual for actions that may never occur in the physical realm. Therefore, the verse advises us to ‘gouge the eye out and throw it away.’ However, it’s essential to note that this should not be taken literally, as physically removing one’s eye is not the intended meaning of the verse. The verse specifically mentions ‘your right eye,’ but it’s important to understand that both the right and left eye are capable of leading to similar outcomes. Sin can arise from both eyes. The mention of the right eye alone prompts contemplation about the reason behind this distinction.
-
+  Abantu benza izenzo ezididiyelwe ngokusebenzisana kwe gnanendriyas (izitho zezinzwa) kanye karmendriyas (izitho zomzimba). Ngokuphawulekayo, <strong>iso</strong> phakathi gnanendriyas futhi <strong>isandla</strong> phakathi kwe-karmendriyas sibambe ukubaluleka okuthile, yingakho kukhulunywa ngazo zombili kula mavesi. Noma ngabe i i-buddhi (ingqondo) ayiqondisi i-karmendriyas ukuthi iyenze umsebenzi, isono sisengabekwa kumuntu ngokusekelwe ku imicabango ye-buddhi lapho i-aham (ego), ixhunywe eduze i-buddhi, iyasebenza. Lokhu kugcizelela indima ebalulekile ye-iso esonweni esingase sibe khona. Ngokwesibonelo, lapho umuntu egqolozele a owesifazane nemicabango ekhanukelayo, bangase bazitholele isono ngenxa ithonya le-aham, ngisho noma bengalimazanga ngokomzimba omunye umuntu. Iso, ngale ndlela, lidala ukuthi kube nokwenzeka ukuhlanganisa isono kumuntu ngezenzo okungenzeka zingenzeki endaweni yenyama. Ngakho-ke, leli vesi liseluleka ukuba &lsquo;sibambe khipha iso, ulilahle.&rsquo; Nokho, kubalulekile ukuphawula ukuthi lokhu akufanele kuthathwe ngokoqobo, njengokususa ngokomzimba iso lomuntu akuyona incazelo ehlosiwe yevesi. Ivesi ikhuluma ngokuqondile &lsquo;ngeso lakho lesokudla,&rsquo; kodwa kubalulekile baqonde ukuthi kokubili iso lesokudla nesokunxele bayakwazi okuholela emiphumeleni efanayo. Isono singavela kuwo womabili amehlo. Ukukhulunywa ngeso langakwesokudla kukodwa kukhuthaza ukucabanga mayelana isizathu salo mehluko.
 </div></div>
 
 <div class="container" style="color:black;font-size: 11px;">
           <img src="assets/img/gnanendriyalu.png"  style="width:100%;">
           <div class="io-jeeva">
-            Jeeva
+            IJeeva
           </div>
           <div class="io-mind">
-            Mind
+            Inqondo
           </div>
           <div class="io-chittam">
-            Chittam
+            IChittam
           </div>
           <div class="io-intellect">
-            Intellect
+            Ubuhlakani
           </div>
           <div class="io-ego">
-            Ego
+            I-ego
           </div>
           <div class="so-eye">
-            Eye
+            Iso
           </div>
           <div class="so-nose">
-            Nose
+            Ikhala
           </div>
           <div class="so-ear">
-            Ear
+            Indlebe
           </div>
           <div class="so-tongue">
-            Tongue
+            Ulimi
           </div>
           <div class="so-skin">
-            Skin
+            Isikhumba
           </div>
           <div class="ao-hands">
-            Hands
+            Izandla
           </div>
           <div class="ao-legs">
-            Legs
+            Imilenze
           </div>
           <div class="ao-mouth">
-            Mouth
+            Umlomo
           </div>
           <div class="ao-anus">
-            Anus
+             I-Anus
           </div>
           <div class="ao-sex-organ">
-            Sex Organ
+            Isitho Socansi
           </div>
         </div>
+Umzimba womuntu ngokwemvelo ubonisa umehluko phakathi izinhlangothi zayo zokunene nesobunxele, ngokuvamile ezihlotshaniswa namandla kanye ubuthakathaka. Evesini elishiwo, zombili izingxenye zomzimba ezingakwesokudla, okungukuthi iso lesokudla nesandla sokudla, kucacisiwe. Okunye Iphuzu elibalulekile okufanele licatshangelwe kuleli vesi yinkulumo ethi<strong>, &ldquo;Kunjalo kungcono kuwe ukuba ulahlekelwe yisitho esisodwa somzimba wakho kunokuba ulahlekelwe yisitho sakho umzimba wonke uphonswe esihogweni.&rdquo;</strong> Kubalulekile ukuqaphela ukuthi alikho iso noma isandla, njengezitho zomzimba ezingaphandle imithombo eqondile yesono. Umshayeli oyinhloko wesono yi ubukhona be-aham (ego) ngaphakathi komzimba. Lo mbono uyahambisana ngezimfundiso ezitholakala kokubili kweyaphezulu yokuqala neyesibili imibhalo. Ngakho-ke, kuba sobala ukuthi umzimba wangaphandle izingxenye azikho ukubandakanyeka okuqondile ekuthengeni noma isipiliyoni sesono<strong>. Kuwumuzwa we-aham ngaphakathi emzimbeni lokho kuletha isono. I-Jeeva ehlala emzimbeni iyahlangabezana isono.</strong> Isibopho sokuthola i-karma silele umuzwa we-aham, futhi kuwumsebenzi we-Jeeva ukuzwa imiphumela ye-karma. Ngakho-ke, iso langaphandle (gnanendriya) kanye nesandla (karmendriya) zisebenza ngaphandle kokunaka kwe karma.
 
-  The human body naturally exhibits differences between its right and left sides, often associated with strength and weakness. In the mentioned verse, both right-side body parts, namely the right eye and right hand, are specified. Another essential point to consider in this verse is the statement, <b>“It is better for you to lose one part of your body than for your whole body to be thrown into hell.”</b> It's crucial to recognize that neither the eye nor the hand, as external body parts, are the direct sources of sin. The primary driver of sin is the presence of aham (ego) within the body. This perspective aligns with the teachings found in both the first and second divine scriptures. Hence, it becomes evident that external bodily components have no direct involvement in the acquisition or experience of sin. <b>It is the feeling of aham within the body that brings sin. The Jeeva residing in the body experiences the sin.</b> The responsibility for karma acquisition lies with the feeling of aham, and it is the duty of Jeeva to experience the repercussions of karma. Therefore, the external eye (gnanendriya) and hand (karmendriya) function without regard to karma.
+Abanye bangase bazibuze ukuthi kungani uJesu eluleka ngokukhipha imifula iso nokusika isandla uma zingahlobene ne-karma. Impendulo yethu ukuthi lapho iso lidlulisela ngaphandle ulwazi, lufinyelela ku-buddhi (ubuhlakani). Kamuva, i-buddhi icubungula lolu lwazi ngokuhambisana ne-zibhamu. Nokho, uma i-<strong>aham (ego) icindezelwe futhi ukuhlukana </strong>nalezi zinzwa, kuvimbela isono futhi i-punya ekuvezeni ezimpumeni ukuthi amaBuddha acubungula noma ekubonweni okubonwa ngeso. Ngokuhlukanisa ingaphakathi aham kusukela ulwazi olunikezwa iso, umuntu ukuvimbela ngempumelelo isono esihambisana neso, ngokufana ekhipha iso uqobo. Ngokufanayo, lapho i-aham ingekho exhunywe kulokho okuzwayo, kuba sengathi indlebe isusiwe. Kunjalo kubalulekile ukuqaphela ukuthi isono ne-punya akuveli kuphela emehlweni kodwa nakweminye imizwa emine. Kunikezwe indima ebalulekile yeso phakathi kwama-gnanendriyas kanye nemvelo ukubusa kweso langakwesokudla ekuboneni okubonakalayo, uJesu wagcizelela &lsquo;ukukhipha iso lokunene&rsquo; evesini. Ngenkathi amavesi ingase ibonakale iqondile, ukubaluleka kwayo okucashile kufanele kuqondwe.
 
-  Some may wonder why Jesus advised gouging out the eye and cutting off the hand when they are unrelated to karma. Our response is that when the eye transmits external information, it reaches the buddhi (intellect). Subsequently, the buddhi processes this information in accordance with the gunas. However, if the <b>aham (ego) is suppressed and disengaged</b> from these sensory inputs, it prevents sin and punya from manifesting in the gunas that the buddhi processes or in the sight perceived by the eye. By dissociating the inner aham from the information provided by the eye, one can effectively prevent the sin associated with the eye, akin to removing the eye itself. Similarly, when the aham is not connected to what is heard, it’s as if the ear were removed. It’s essential to recognize that sin and punya originate not only from the eyes but also from the other four senses. Given the critical role of the eye among the gnanendriyas and the natural predominance of the right eye in visual perception, Jesus emphasized ‘gouge the right eye out’ in the verse. While the verse may seem straightforward, its subtle significance should be understood.
-
-  Likewise, the mention of the right hand among the karmendriyas carries significance. Karma does not solely emanate from the right hand but also from the actions performed by other karmendriyas. Karma occurs even when the gnanendriyas do not engage in physical tasks and is generated through the functioning of the karmendriyas. When referring to the five gnanendriyas, we group the two eyes as one entity, just as both ears are counted as one. Although there are two nostrils, they are collectively treated as one nose. The remaining components consist of the skin and the tongue. Similarly, in the karmendriyas, the two hands are considered as one, and the same applies to the two legs. The remaining three are the mouth, the anus, and the sexual organ and are not in pairs. Given that the right eye and right hand are comparatively more dominant in these paired organs, the verse singles out the right eye and right hand. The right eye possesses superior vision, and the right hand is more versatile in executing tasks. In a subtler interpretation of the verse, Jesus told us to <b>suppress aham to prevent sin arising from the sight of the eye and the actions of the hand.</b> However, it’s crucial to grasp that eliminating the right eye or right hand does not halt the inflow of karma, as other bodily organs can also give rise to karma. This verse underscores the idea that aham is the fundamental source of sin, emphasizing the need to control it. The body’s organs do not generate sin, nor do the body bear the burden of sin. Instead, it’s the aham that accumulates sin within the body. Moreover, Jeevatma, a component of the body, experiences bad and good karma. The body encompasses five gnanendriyas, five karmendriyas, five vayus, five tanmatras, and five antahkaranas, with the Jeevatma being part of the antahkaranas. This sums up to a total of twenty-five components, including the Jeevatma within the body’s framework. In essence, a profound understanding of the body’s mechanisms can lead to a deeper comprehension of Jesus’ verses. A true gnani recognizes this intricate composition of the body. As a spiritualist once poetically conveyed, anyone lacking such knowledge should not be deemed a gnani.
-
+Ngokufanayo, ukukhulunywa kwesandla sokunene phakathi kwe I-karmendriyas inokubaluleka. I-Karma ayigcini nje ziphuma esandleni sokudla kodwa nasezenzweni eyenziwa ezinye karmendriyas. I-Karma yenzeka noma nini ama-gnanendriyas awahlanganyeli emisebenzini yomzimba futhi ekhiqizwa ngokusebenza kwe-karmendriyas. Nini ebhekisela kuma-gnanendriya amahlanu, sihlanganisa amehlo amabili njenge into eyodwa, njengoba izindlebe zombili zibalwa njengento eyodwa. Nakuba lapho ngamakhala amabili, aphathwa njengekhala elilodwa ngokuhlangene. izingxenye ezisele zihlanganisa isikhumba nolimi. Ngokufanayo, ku-karmendriyas, izandla ezimbili zibhekwa njengokukodwa, futhi okufanayo kusebenza emilenzeni emibili. Okusele ezintathu umlomo, indunu, futhi isitho socansi futhi kukhona hayi ngababili. Uma kubhekwa iso langakwesokudla nesandla sokudla ngokuqhathaniswa okubusa kakhulu kulezi zitho ezibhanqiwe, ivesi liqokomisa iso lokudla nesandla sokudla. Iso langakwesokudla ibona kahle kakhulu, futhi isandla sokudla sishintshashintsha kakhudlwana ekwenzeni imisebenzi. Ngencazelo ecashile yevesi, uJesu wasitshela ukuthi <strong>sicindezele u-aham ukuze sivimbele isono esivela ukubona iso kanye nezenzo zesandla.</strong> Nokho, kunjalo kubalulekile ukuqonda ukuthi ukususa iso lesokudla noma isandla sokunene kwenza hayi ukumisa ukungena kwe-karma, njengoba nezinye izitho zomzimba zingakwazi yenza i-karma. Leli vesi ligcizelela umqondo wokuthi aham ungumthombo oyisisekelo wesono, egcizelela isidingo yilawule. Izitho zomzimba azidali isono, futhi azenzi umzimba uthwele umthwalo wesono. Kunalokho, yi-aham leyo buthelela isono emzimbeni. Ngaphezu kwalokho, i-Jeevatma, ingxenye yomzimba, ihlangabezana ne-karma embi nenhle. Umzimba uhlanganisa ama-gnanendriya amahlanu, ama-karmendriya amahlanu, amahlanu i-vayus, ama-tanmatra amahlanu, nama-antahkarana amahlanu, ne I-Jeevatma iyingxenye ye-antahkaranas. Lokhu kuhlanganisa isamba sezingxenye ezingamashumi amabili nanhlanu, kuhlanganise ne-Jeevatma ngaphakathi uhlaka lomzimba. Empeleni, ukuqonda okujulile kwezinqubo zomzimba kungaholela ekuqondeni okujulile emavesini kaJesu. I-gnani yangempela iyakubona lokhu okuyinkimbinkimbi ukwakheka komzimba. Njengomuntu othanda imimoya wake wankondlo Ngokweqile, noma ubani ongenalo ulwazi olunjalo akufanele abe kungathiwa i-gnani.
         <i>
       Panchatatvamulanu panchikarinchaka
       Manchi yatulamanna maatalanna
       Kunchamandu gajamu gruddupettina chandambu
       Akhila jivasanga aatmalinga.
   </i>
-<b>Meaning: -</b> The term sankhya refers to the comprehensive knowledge of Pancha Bhutas, which include Sky, Air, Fire, Water, and Earth. This knowledge encompasses the understanding of how each of these elements was created, how they were divided into five distinct components, and how these twenty-five parts collectively form the various organs and components of the body, both visible and invisible. Assuming oneself to be a gnani (a knower or enlightened individual) without possessing a deep understanding of the Sankhya of the body is akin to making a false claim. It’s tantamount to asserting that an elephant laid an egg beneath a basket. In reality, even if an elephant were to be securely tethered with chains and placed beneath a basket, it would not lay eggs. Therefore, the assertion that an elephant laid eggs beneath a basket is entirely baseless. In a similar vein, it is erroneous for an individual to declare themselves a gnani when they lack knowledge of the intricate details concerning the body's organs. True wisdom requires a profound understanding of the body’s composition, including its visible and invisible parts.
-</div></div>
+<b>Incazelo:-</b>  Igama elithi sankhya libhekisela ku ulwazi olunzulu lwePancha Bhutas, oluhlanganisa Isibhakabhaka, Umoya, Umlilo, Amanzi, Nomhlaba. Lolu lwazi luhlanganisa ukuqonda ukuthi ngayinye yalezi zakhi yadalwa kanjani, zahlukaniswa kanjani zaba izingxenye ezinhlanu ezihlukene, nokuthi kanjani lezi zingxenye ezingamashumi amabili nanhlanu zihlangene zakha izitho ezihlukahlukene futhi izingxenye zomzimba, ezibonakalayo nezingabonakali. Ngokucabangela ukuba ube i-gnani (umuntu owaziyo noma okhanyiselwe) ngaphandle kokuba nokuqonda okujulile kweSankhya ye mzimba ufana nokwenza isimangalo esingamanga. Kufana nokuthi egomela ngokuthi indlovu izalela iqanda ngaphansi kukabhasikidi. Ku iqiniso, ngisho noma indlovu yayizoboshwa ngokuvikelekile ngamaketanga futhi ibekwe ngaphansi kukabhasikidi, yayingeke izalele amaqanda. Ngakho-ke, ukugomela kokuthi indlovu izalela amaqanda ngaphansi kwe-ubhasikidi awunasisekelo ngokuphelele. Ngendlela efanayo, kuyiphutha umuntu ukuzimemezela ukuthi uyi-gnani lapho entula ulwazi lwemininingwane eyinkimbinkimbi ephathelene nomzimba izitho zomzimba. Ukuhlakanipha kweqiniso kudinga ukuqonda okujulile kwe ukwakheka komzimba, okuhlanganisa izingxenye zayo ezibonakalayo nezingabonakali.
+  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 14,
-verse: `  <b>(13)	The Gospel of Mathew, 6th chapter, 3rd and 4th verses.</b>`,
+verse: `  <b>(13)	IVangeli likaMathewu, isahluko 6, 3 no 4 amavesi.</b>`,
 meaning: ` <b>
-(3) But when you do dharma, do not let your left hand know what your right hand is doing.
+(6:3) Kodwa lapho wenza i-dharma, ungavumeli kwesokunxele sakho isandla sakho sazi esikwenzayo esokunene.
 <br><br>
-(4) So that your giving may be in secret. Then your father, who sees what is done secretly, will reward you.
+(6:4) Ukuze ukupha kwakho kube ngasese. Bese eyakho ubaba obona okwenziwa ngasese uyovuza wena.
 </b>`,
 pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Many preachers have misinterpreted this verse, suggesting that it pertains to donation. In certain places of worship, it is even suggested that the money given for God’s service should be so discreet that “the right hand should not know what the left hand is doing.” As a result, contributions are often hidden or wrapped in one's hand before being donated. However, it is important to clarify that this verse is not about donation; it is about dharma. There is a significant difference between dharma and donation. <b>Donation involves giving to others, while dharma refers to the principles one practices.</b> To truly understand how to practice dharma, it is essential to comprehend what these dharmas entail. In this verse, there is no mention of donation; rather, it emphasizes dharma. God’s dharmas are primarily two, as outlined in the divine scripture. The third one is physical. There are also other dharmas that are interconnected with these three primary ones. To reach God, a person primarily needs to focus on these three essential dharmas, while other dharmas revolve around aspects of God. These three core dharmas are the key practices for attaining God.
+<div class="poem"><div class="poemtext">
+  Abashumayeli abaningi balihumushe kabi leli vesi, esikisela ukuthi kuphathelene nomnikelo. Ezindaweni ezithile ukukhulekela, kuze kuphakanyiswe ukuthi imali inikezwe uNkulunkulu inkonzo kufanele ihlakaniphe kangangokuthi &ldquo;isandla sokunene akufanele yazini ukuthi isandla sobunxele senzani.&rdquo; Ngenxa yalokho, iminikelo ngokuvamile kufihlwa noma kusongwe esandleni ngaphambi kokunikelwa. Nokho, kubalulekile ukucacisa ukuthi leli vesi alikhulumi umnikelo; imayelana nedharma. Kunomehluko obalulekile phakathi kwe-dharma nomnikelo. <strong>Ukunikela kuhlanganisa ukupha abanye, kuyilapho i-dharma ibhekisela ku-principlesone imikhuba. </strong>Ukuze uqonde ngempela indlela yokwenza i-dharma, kunjalo kubalulekile ukuqonda ukuthi lawa ma-dharma ahlanganisani. Kulokhu ivesi, akushiwo lutho ngomnikelo; kunalokho, liyagcizelela i-dharma. Ama-dharma kaNkulunkulu ngokuyinhloko amabili, njengoba kushiwo ku mbhalo waphezulu. Eyesithathu ingokomzimba. Kukhona nezinye ama-dharmas axhumene nalezi zintathu eziyinhloko eyodwa. Ukuze afinyelele uNkulunkulu, umuntu ngokuyinhloko udinga ukugxila kulokhu ama-dharma amathathu abalulekile, kanti amanye ama-dharma azungeza izici zikaNkulunkulu. Lawa ma dharma amathathu ayisisekelo yizinqubo ezibalulekile lokuzuza uNkulunkulu.
 
-  The three dharmas, Brahma, Karma, and Bhakti Yoga, are necessary to reach God. Two of them involve internal practice with feelings or thoughts, while one involves external practice. The practice of the first two dharmas is not recognizable by others. However, when it comes to the third dharma, there is a possibility of it being noticed b others. This is why, in the verse, Jesus refers to a singular ‘dharma’ rather than ‘dharmas.’ He emphasizes that one should practice a dharma that might be noticed by others with caution and in secret. He conveys this by saying, <b>“do not let your left hand know what your right hand is doing.”</b> The underlying message is that when others observe your dharma practice, they might misinterpret it or become influenced negatively. Hence, Jesus advises that when practicing dharma, it should be done discreetly and without seeking recognition from others.
+  Ama-dharma amathathu, i-Brahma, i-Karma, ne-Bhakti Yoga, ziyadingeka ukuze zifinyelele kuNkulunkulu. Okubili kwakho kuhilela ngaphakathi ukuzijwayeza nemizwa noma imicabango, kuyilapho omunye kuhilela yangaphandle ukuzijwayeza. Umkhuba wama-dharmas amabili okuqala awunjalo okubonakala kwabanye. Nokho, uma kuziwa kwesesithathu dharma, kukhona okungenzeka ukuthi ibonwe ngabanye. Lokhu yingakho, evesini, uJesu ebhekisela ebunyeni &lsquo;idharma&rsquo; kunalokho kune-&lsquo;dharmas.&rsquo; Ugcizelela ukuthi umuntu kufanele azilolonge dharma engase ibonwe abanye ngokuqapha futhi imfihlo. Ukudlulisa lokhu ngokuthi, <strong>&ldquo;ungasivumeli isinxele sakho isandla sakho sazi ukuthi isandla sakho sokunene senzani.&rdquo; </strong>Okungaphansi umyalezo wukuthi lapho abanye bebona umkhuba wakho we-dharma, bangase bakuchaze kabi noma bathonyeke kabi. Ngakho-ke, uJesu weluleka ukuthi lapho wenza i-dharma, kufanele kube njalo kwenziwa ngobuhlakani nangaphandle kokufuna ukuqashelwa abanye.
 </div></div>
 </span>`
 },
 {
-  chapterName: "The Gospel Of Mathew",
+  chapterName: "IVangeli likaMathewu",
   chapterNumber: 2,
   pageNumber: 15,
-  verse: `  <b>(14)	The Gospel of Mathew, 6th chapter, 6th verse.</b> `,
+  verse: `  <b>(14)	IVangeli likaMathewu, isahluko 6, ivesi 6.</b> `,
   meaning: `<b>
-  (6) But when you pray, go into your room, close the door, and pray to your Father, who is unseen. Then your father, who sees what is done secretly, will reward you.</b>`,
+  (6:6) Kodwa nxa ukhuleka, ngena ekamelweni lakho, ulivale; emnyango, nikhuleke kuYihlo ongabonwayo. Khona-ke uyihlo obona okwenziwa ngasese uzokubona ukuklomelisa.</b>`,
   pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When praying to God, it is essential to ensure that your prayers are filled with dharma. Mere verbal expressions without dharma do not constitute genuine prayer and won’t connect you with God. Therefore, when engaging in prayer that may be observed by others, Jesus told to go into a private room, close the door, and offer your prayers to the inner Atma, the divine presence within you. Atma, who is in the body, is the father of humans. A prayer that may be known to others should be conducted in such a way that no one is aware of it. By doing so, Atma, who is secretly in the body, shall reward you. In the first divine scripture, this practice is referred to as <b>‘Brahma (Great) Yogam.’</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Lapho uthandaza kuNkulunkulu, kubalulekile ukuqiniseka ukuthi uthandaza imithandazo igcwele i-dharma. Izimpawu zomlomo nje ngaphandle kwe-dharma akuwenzi umthandazo wangempela futhi ngeke ukuxhumana noNkulunkulu. Ngakho-ke, lapho uhlanganyela emthandazweni lokho bangabonwa ngabanye, uJesu wathi akangene ekamelweni elingasese; vala umnyango, futhi uthandaze ku-Atma yangaphakathi, ubukhona bukaNkulunkulu phakathi kwakho. U-Atma, osenyameni, nguye ubaba wabantu. Umthandazo ongase waziwe ngabanye kufanele kwenziwe ngendlela yokuthi kungabi bikho owaziyo ngakho. Ngokwenza ngakho, Atma, ngubani ngasese emzimbeni, uyokuvuza. Kwe umbhalo wokuqala waphezulu, lo mkhuba ubizwa ngokuthi <strong>&lsquo;uBrahma (Okuhle) I-Yogam.&rsquo;</strong></div></div>
   </span>`
     },
     {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 16,
-verse: `  <b>(15)	The Gospel of Mathew, 6th chapter, 7th and 8th verses. </b> `,
+verse: `  <b>(15)	IVangeli likaMathewu, isahluko 6, 7th kanye 8 amavesi. </b> `,
 meaning: `  <b>
-(7) When you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words.
+(6:7) Lapho nithandaza, ningaqhubeki nibhibhidla kanjalo abezizwe, ngokuba bacabanga ukuthi bayakuzwiwa ngenxa yakho amazwi abo amaningi.
 <br><br>
-(8) Do not be like them, for your father knows what you need before you ask him.</b>`,
+(6:8) Ningafani nabo, ngokuba uyihlo uyakwazi; udinga ngaphambi kokuthi umcele.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Many people in society today pray with futile words rather than <b>‘Yogam,’</b> which adheres to dharma in reaching God. They assume that God will fulfill their desires if they use many words. Their intention is not to unite with God, but rather to seek worldly desires and benefits. However, you should not pray like them. Your father, Atma, already knows everything even before you ask. He knows what should or should not be granted to you. Therefore, it is of no use to inquire about material benefits. Your Father, Atma, guides you according to your karma. Hence, Atma provides you with what you have earned through your past karma. Whether you ask or not, Atma bestows everything according to karma. Atma is the Father of all humans, and the Holy Spirit, the Father of Atma, is the witness to all things.
+<div class="poem"><div class="poemtext">
+  Abantu abaningi emphakathini namuhla bathandaza ngamazwi ayize esikhundleni se 'Yogam,' enamathela ku-dharma ekufinyeleleni UNkulunkulu. Bacabanga ukuthi uNkulunkulu uzofeza izifiso zabo uma besebenzisa amazwi amaningi. Inhloso yabo akukhona ukuhlangana noNkulunkulu, kodwa kunalokho ukufuna izifiso zezwe kanye nezinzuzo. Nokho, akufanele khulekani njengabo. Ubaba wakho, u-Atma, useyazi yonke into nangaphambi kokuba ubuze. Uyazi okufanele noma okungafanele kube inikelwe wena. Ngakho-ke, akusizi ukubuza mayelana izinzuzo zezinto ezibonakalayo. UYihlo, u-Atma, ukuhola njengokusho karma yakho. Ngakho-ke, i-Atma ikunikeza ngalokho onakho ezuzwe nge-karma yakho edlule. Ukuthi uyabuza noma cha, Atma inikeza konke ngokuvumelana ne-karma. U-Atma unguBaba we bonke abantu, noMoya oNgcwele, uYise ka-Atma, nguye fakaza ezintweni zonke.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 17,
-verse: ` <b>(16)	The Gospel of Mathew, 7th chapter, 13th and 14th verses.</b> `,
+verse: ` <b>(16)	IVangeli likaMathewu, isahluko 7, 13 no 14 amavesi.</b> `,
 meaning: `<b>
-(13) Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it.
+(7:13) Ngenani ngesango elincane. Ngokuba ububanzi buyisihluthulelo isango futhi ibanzi indlela eholela ekubhujisweni; baningi abangena ngalo.
 <br><br>
-(14) But small is the gate and narrow the road that leads to life, and only a few find it.
+(7:14) Kodwa isango lincane futhi liwumngcingo indlela leyo kuholela ekuphileni, futhi bambalwa kuphela abayitholayo.
 </b> `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There are two paths in this world: one is the path of Paramatma (The Holy Spirit), and the other is the path of Maya. While there are very few who seek God, many are drawn to the vast path of Maya. The gateway to moksham is narrow and challenging to traverse. God’s path is likewise narrow, and only a few manage to discover it.
+<div class="poem"><div class="poemtext">
+  Zimbili izindlela kulo mhlaba: eyodwa iyindlela ye I-Paramatma (uMoya oNgcwele), kanti enye indlela yamaMaya. Nakuba bembalwa kakhulu abafuna uNkulunkulu, abaningi badonseleka kuye indlela enkulu yamaMaya. Isango eliya e-moksham lincane futhi inselele ukudabula. Indlela kaNkulunkulu nayo incane, futhi kuphela abambalwa bakwazi ukuyithola.
 
-  The verse mentions God’s gate (entrance) and the road. The first is the entrance, and the next is the path. There are only two roads for all human beings. One is narrow, and the other is wide. The gate to the narrow road is narrow, and the entrance to the broad road is wide. The entrance and the path must be a few times larger than the one who enters. Then it is only possible to enter the gate and the road. The narrow gate’s size and the narrow path’s width equal the size of the person who enters. But in the second choice, the wide gate’s size and the width of the broad road are 108 times bigger than the person who enters. In this way, there are only two paths in this world—one with a gate 108 times wider and a broad road, and the other with a gate and path of exact size. The Lord compared these two types of gates and paths to wisdom and ignorance. The path of wisdom is very narrow, and the entrance size is limited, making it challenging to walk. The ignorant path is 108 times larger and is free from hindrances. The path of wisdom is narrow and has obstacles, but its destination is Paramatma. Even though there are no obstacles on the wide gate and the broad ignorant path, it leads to Satan. Paramatma’s path is without birth and death, without destruction, and is always in a state of no change. Satan’s path has birth, death, and destruction and is always in a state of change. Although the path of Paramatma is far superior, and Satan’s way is the worst, most people choose to walk on Satan’s road. When a person enters Satan’s path, all their associates support them and do not cause any trouble. There will be no financial difficulties, and life will feel comfortable. However, when a person chooses the path of wisdom, their relatives and spouses may become enemies and obstruct their journey. Life may become challenging. Hence, very few, if any, among the millions choose the path of wisdom.
+  Ivesi likhuluma ngesango likaNkulunkulu (ukungena) kanye nendlela. Esokuqala siyindlela yokungena, elandelayo indlela. Bangu imigwaqo emibili kuphela yabo bonke abantu. Omunye uyingcingo, futhi enye ibanzi. Isango eliya endleleni ewumngcingo lincane, futhi ukungena endleleni ebanzi kubanzi. Indawo yokungena nendlela kufanele ibe mkhulu ngokuphindwe kambalwa kunalowo ongena. Bese kuba njalo kungenzeka kuphela ukungena esangweni kanye nomgwaqo. Isango elincane usayizi nobubanzi bendlela ewumngcingo bulingana nobukhulu bomuntu ongena. Kodwa ekukhetheni kwesibili, ubukhulu besango elibanzi futhi ububanzi bomgwaqo obanzi bukhulu ngokuphindwe ka-108 kunomuntu ongena. Ngale ndlela, zimbili kuphela izindlela kulokhu izwe—elinesango eliphindwe izikhathi ezingu-108 ububanzi nomgwaqo obanzi, futhi enye inesango nendlela yobukhulu obuqondile. INkosi yaqhathanisa lezi zinhlobo ezimbili zamasango nezindlela eziya ekuhlakanipheni nasekungazini. Indlela yokuhlakanipha incane kakhulu, futhi usayizi wokungena unjalo kulinganiselwe, okwenza kube inselele ukuhamba. Indlela yokungazi lutho ingu-108 izikhathi ezinkulu futhi azinazithiyo. Indlela yokuhlakanipha incane futhi inezithiyo, kodwa lapho iya khona iParamatma. Nakuba zingekho izithiyo esangweni elibanzi kanye indlela ebanzi yokungazi, iholela kuSathane. Indlela yeParamatma ngaphandle kokuzalwa nokufa, ngaphandle kokubhujiswa, futhi uhlala ekhona isimo sokungabi nanguquko. USathane unokuzalwa, ukufa, kanye ukubhujiswa futhi uhlale usesimweni soshintsho. Nakuba indlela yeParamatma iphakeme kakhulu, futhi indlela kaSathane yimbi kakhulu, abantu abaningi bakhetha ukuhamba endleleni kaSathane. Lapho umuntu bangena endleleni kaSathane, bonke abahlanganyeli babo bayabasekela futhi benza kungabanga nkathazo. Ngeke kube khona ubunzima bezezimali, futhi impilo izozizwa ikhululekile. Nokho, lapho umuntu ekhetha indlela yokuhlakanipha, izihlobo zabo nabashade nabo bangase babe izitha futhi zivimbele uhambo lwabo. Ukuphila kungase kube inselele. Ngakho, bambalwa kakhulu, uma bekhona, phakathi kwezigidi ezikhethayo indlela yokuhlakanipha.
 
-  Many people are journeying along the vast, ignorant path, which presents no hindrance or opposition. Surprisingly, they remain oblivious to the existence of a narrow passage leading to moksham and the Father of the paraloka. In the Bhagavad-Gita, Krishna states that not even one among thousands wishes to traverse the narrow path. Rarely does someone enter it, and even rarer is reaching the destination due to obstacles posed by Maya. Krishna, in the Bhagavad-Gita, further emphasizes that the person who overcomes these obstacles and reaches the destination is considered ‘the blessed one,’ and such an individual will unite with the eternal Paramatma. Both Krishna and Jesus represent the Paramatma. Krishna elucidated the paths of wisdom and ignorance in the Bhagavad-Gita towards the end of Dvapara Yuga, while Jesus conveyed a similar message in the holy text, three thousand years into Kali Yuga. Those who comprehend the paths of wisdom and ignorance as explained by Sri Krishna and Jesus Christ should embark on the suggested path of wisdom, persisting despite all obstacles, until they ultimately reach Paramatma, which is eternal moksham.
+  Abantu abaningi bahambahamba ngobukhulu, abangenalwazi indlela, eletha izithiyo noma ukuphikiswa. Ngokumangazayo, bahlala benganaki ukuba khona kwendima emincane eholela kuMokwam noYise wePharage. Ku I-Bhagavad-Gita, iKrishna ithi hhayi eyodwa phakathi Izinkulungwane zifisa ukunqamula indlela emincane. Akuvamile ukwenza Othile uyifaka, futhi ngisho neRarer ifinyelela lapho uya khona Ngenxa yezithiyo ezibangelwa uMaya. UKrishna, eBhagavad-Gita, kugcizelela futhi ukuthi umuntu onqoba lezi izithiyo nokufinyelela lapho uya khona kubhekwa njenge ubusisiwe, 'futhi umuntu onjalo uzohlangana nalokhu okuphakade Paramatma. Bobabili uKrishna noJesu bamelela i-paramatma. UKrishna wacacisa izindlela zokuhlakanipha nokungazi ku Bhagavad-gita ngasekupheleni kweDVapara yuga, kuyilapho uJesu udlulisele umyalezo ofanayo embhalweni ongcwele, izinkulungwane ezintathu iminyaka iye eKali Yuga. Labo abaqonda izindlela ze Ukuhlakanipha nokungazi njengoba kuchaziwe nguSri Krishna noJesu UKristu kufanele aqale indlela ephakanyisiwe yokuhlakanipha, ukuphikelela naphezu kwazo zonke izithiyo, aze afike ekugcineni I-Paramatma, eyi moksham yaphakade.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 18,
-verse: ` <b>(17)	The Gospel of Mathew, 7th chapter, 7th and 8th verses.</b>
+verse: ` <b>(17) IVangeli likaMathewu, isahluko 7, 7th no Amavesi 8.</b>
 `,
 meaning: `
 <b>
-(7) Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.<br><br>
-(8) For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+(7:7) Buzani futhi niyophiwa; funa futhi uzothola; Qoqoza kanye nomnyango kuzovulelwa.<br><br>
+(7:8) Kuwo wonke umuntu ocelayo uyamukela; lowo o Ifuna ukuthola; nakulowo ongqongqozayo, umnyango uzokwazi kuvulwe.
 </b> `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> In this verse, three essential verbs—<b>ask, seek, and knock.</b> Jesus instructed us to perform these three things in a spiritual context. The Lord’s teachings do not revolve around worldly matters, unlike many others. Unfortunately, many have misunderstood this verse, interpreting it as a call for material blessings. Consequently, people began requesting earthly favors from the Lord, contrary to His original message. Even though people read the Holy Bible, Satan has entered their hearts, clouding their understanding of Jesus’s teachings and leading them to seek material desires. Man’s intent is not to transgress God’s word, but Satan capitalizes on their lack of comprehension, deceiving them into thinking they are not violating divine commandments. In reality, this leads them to transgress God’s word. Satan, a creation of God, exists wherever God’s presence is felt. Wherever God’s word abides, the influence of Satan may also be present. Therefore, it is crucial to diligently comprehend God’s verses and safeguard ourselves against the influence of Satan when interpreting the scripture.
+<div class="poem"><div class="poemtext">
+  Kuleli vesi, tento ezintathu ezibalulekile - <strong>buza, funa, futhi qoqoza</strong>. UJesu wasiyala ukuba senze lezi zinto ezintathu umongo ongokomoya. Izimfundiso zeNkosi aziguquki Izindaba zezwe, ngokungafani nezinye eziningi. Ngeshwa, abaningi banayo aqondiswanga leli vesi, alihumushela njengekholi yezinto ezibonakalayo Izibusiso. Ngenxa yalokho, abantu baqala ukucela umhlaba Umusa ovela eNkosini, ngokungafani nomyalezo wakhe wokuqala. -Lingeneyo yize abantu befunda iBhayibheli elingcwele, uSathane ufake eyabo izinhliziyo, zifunga ukuqonda kwazo izimfundiso zikaJesu futhi ebaholela ukufuna izifiso ezibonakalayo. Inhloso yomuntu akuyona weqa iZwi likaNkulunkulu, kepha uSathane ubiza ukuntuleka kwabo ukuqondisisa, ukuzinqoba ukuba bacabange ukuthi azikho ukwephula imiyalo yaphezulu. Eqinisweni, lokhu kubaholela Pressgress Izwi LikaNkulunkulu. USathane, indalo kaNkulunkulu, ukhona nomaphi lapho ubukhona bukaNkulunkulu buzwakala khona. Nomaphi lapho iZwi likaNkulunkulu lihlala khona, Ithonya likaSathane nalo lingase libe khona. Ngakho-ke, kunjalo kubalulekile ukuqonda amavesi nokuvikela ngenkuthalo ngokwethu siphikisana nethonya likaSathane lapho lihumusha UmBhalo.
 
-  We should ask God, seek God, and knock on God’s door. This is the way of God. If you ask for something else or seek something else, it will be the way of Satan (Maya). Those who follow God’s path seek God’s wisdom. You may have many questions: How is God? How can we reach God? How can we understand all the details about God? Do not assume that no one on Earth can answer these questions. God comes and provides the answers you seek when humans on Earth are unable to access God’s information due to the influence of Satan. You can find answers to your questions, but you may not recognize who provides these answers. Even when God is born on Earth and offers answers, we often perceive Him as a regular human being rather than God. If you ask, you will gain complete wisdom. If you search, you will discover that God has come to Earth in human form. When God incarnates on Earth, He does not claim to be God and does not reveal Himself to anyone. This is His rule. According to this rule, those who do not seek will not find, but the seekers will recognize Him. Since only a few asked wisdom when the Lord Jesus was on Earth, He shared His wisdom with them. Because there were so few seekers, He did not appear as God to anyone; to all, He seemed like an ordinary man. His twelve disciples, too, perceived Him as a preacher and were unaware that Paramatma, who encompassed the entire universe, had incarnated as Jesus. He intentionally behaved in a manner that prevented anyone from recognizing Him as God.
+  Kufanele sibuze uNkulunkulu, sifune uNkulunkulu, futhi singqongqoze emnyango kaNkulunkulu. Le yindlela kaNkulunkulu. Uma ubuza enye into noma ufune Okunye, kuzoba yindlela kaSathane (Maya). Labo landela indlela kaNkulunkulu funa ukuhlakanipha kukaNkulunkulu. Ungahle ube nakho okuningi Imibuzo: Unjani uNkulunkulu? Singafinyelela kanjani uNkulunkulu? Singakwazi kanjani Qondisisa yonke imininingwane ngoNkulunkulu? Ungacabangi ukuthi cha omunye emhlabeni ungaphendula le mibuzo. UNkulunkulu uyeza futhi ihlinzeka ngezimpendulo ozifunayo lapho kukhona abantu emhlabeni ayikwazi ukufinyelela imininingwane kaNkulunkulu ngenxa yethonya le USathane. Ungathola izimpendulo zemibuzo yakho, kepha kungenzeka ungavumi Qaphela ukuthi ubani onikeza lezi zimpendulo. Ngisho nalapho uNkulunkulu ezalwa Emhlabeni futhi unikeza izimpendulo, sivame ukumbona njenge umuntu ovamile ukuba nguNkulunkulu. Uma ubuza, uzothola Qedela ukuhlakanipha. Uma usesha, uzothola ukuthi uNkulunkulu une woza emhlabeni ngesimo somuntu. Lapho uNkulunkulu emcabangile emhlabeni, Akasho ukuthi unguNkulunkulu futhi akazivezi Noma ngubani. Lokhu kubusa kwakhe. Ngokwalo mthetho, labo abenzayo Ukungafunwayo ngeke bakuthole, kepha abafunayo bayakubona. Selokhu Abambalwa babuzwa kuphela lapho iNkosi uJesu esemhlabeni, yena wabelana nabo ngokuhlakanipha kwakhe. Ngoba babembalwa kakhulu Abafuna, akazange avele njengoNkulunkulu kunoma ngubani; kubo bonke, wabonakala njengendoda ejwayelekile. Abafundi bakhe abayishumi nambili, nabo, bamthola Njengomshumayeli futhi ayengazi ukuthi i-paramatma, ngubani wahlanganisa yonke indawo yonke, wayekade enaka uphawu njengoJesu. Yena uziphathe ngenhloso ngendlela evimbela noma ngubani ukumbona njengoNkulunkulu.
 
-  The King of Paraloka, Paramatma, washed the feet of His disciples during His time on Earth as a man. This humble act made it challenging for His disciples and others to recognize Him. Regrettably, people failed to identify Him as the Lord and treated Him disrespectfully, regarding Him as an ordinary man. He endured spitting on His face, a crown of thorns on His head, beatings, and crucifixion. Even when Jesus died and rose again with the same body on the third day, some of His disciples mistook Him for a devil. This highlights that His disciples were inquisitive but not truly seeking. As the saying goes, <b>"seeing is greater than listening,"</b> those who witnessed Him in person held a higher status than those who merely heard His teachings. While people had the opportunity to see the God of the entire world in the form of Jesus, it was as if they hadn’t truly seen Him. In this context, the Lord described His disciples as blind, despite having physical sight. To avoid such blindness, one should actively seek God. As the verse suggests, everyone who asks receives, and everyone who seeks finds. Therefore, the asker receives God’s words, the seeker gets God’s form. The one who sees is greater than the one who listens and the one who experiences is greater than the one who sees. Based on this principle, the one who knocks gains access to the realm of moksham. Knocking, in this context, isn’t about knocking on a neighbor’s or a stranger’s door but rather about seeking entry into the kingdom of moksham and the gates of the kingdom of Paraloka. Those who seek moksham unite with Paramatma and experience His true essence. Those accustomed to asking and seeking should definitely try to unite with God. That means they will definitely become a knocker. Through the processes of asking, seeking, and knocking, anyone can come into union with God. Thus, these three essential qualities should be cultivated by every individual, as outlined in the aforementioned verse. Following God’s guidance, the asker gains wisdom, the seeker finds Bhagavan, and the one who knocks gains access to the house of moksham.
+  Inkosi yebandla le Paraloka, i-paramatma, yageza izinyawo zayo abafundi ngesikhathi sakhe emhlabeni njengendoda. Lesi senzo sokuthobeka kwenza kwaba inselele kubafundi bakhe nabanye ukuba babone Yena. Ngokudabukisayo, abantu bahluleka ukumkhombisa njengeNkosi futhi wamphatha ngokungamhloniphi, maqondana nowesilisa ojwayelekile. Wakhuthazela emkhafulela ubuso bakhe, umqhele wameva ekhanda lakhe, Ukushaya, nokubethelwa. Ngisho nalapho uJesu efa futhi wavuka futhi Ngomzimba ofanayo ngosuku lwesithathu, abanye babafundi bakhe akazange ame kabi ngedeveli. Lokhu kugcizelela ukuthi abafundi bakhe babekhona Ukubuza ulwazi kodwa hhayi ukufuna ngempela.
+
+  Njengoba isisho sihamba, <strong>"Ukubona kukhulu kune Ukulalela, "</strong>labo abamfakazile mathupha abambe ngaphezulu Isimo kunalabo abazwa nje izimfundiso zakhe. Lapho Abantu babe nethuba lokubona uNkulunkulu womhlaba wonke ngesimo sikaJesu, kwakunjengokungathi bengekho ngempela uMbonile. Ku kulesi simo, iNkosi yachaza abafundi Bayo njengezimpumputhe, naphezu kwalokho ukubona ngokomzimba. Ukuze agweme ubumpumputhe obunjalo, umuntu kufanele funani uNkulunkulu ngenkuthalo. Njengoba ivesi lisikisela, wonke umuntu obuzayo uyamukela, nalowo ofunayo uyathola. Ngakho-ke, obuzayo uthola amazwi kaNkulunkulu, ofunayo uthola isimo sikaNkulunkulu. Lowo othi obonayo mkhulu kunalowo ozwayo nozwayo okuhlangenwe nakho kukhulu kunalowo obonayo. Ngokusekelwe kulokhu isimiso, lowo ongqongqozayo uthola ukufinyelela endaweni i-moksham. Ukungqongqoza, kulo mongo, akukhona ukungqongqoza umnyango kamakhelwane noma womuntu ongamazi kodwa mayelana nokufuna ukungena embusweni kaMoksham nasemasangweni ombuso ka Paraloka. Labo abafuna i-moksham bahlangana neParamatma futhi uzwe ingqikithi Yakhe yeqiniso. Abajwayele ukubuza futhi ukufuna kufanele nakanjani sizame ukuhlangana noNkulunkulu. Lokho kusho nakanjani bayoba ongqongqozayo. Ngezinqubo yokucela, ukufuna, nokungqongqoza, noma ubani angangena ebunyeni noNkulunkulu. Ngakho, lezi zimfanelo ezintathu ezibalulekile kufanele zibe kutshalwe yiwo wonke umuntu, njengoba kuchaziwe ku ivesi okukhulunywe ngalo ngenhla. Elandela isiqondiso sikaNkulunkulu, umceli uthola ukuhlakanipha, ofunayo uthola uBhagavan, kanye nalowo o ungqongqoza uthola ukungena endlini ka-moksham.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 19,
-verse: `<b>(18)	The Gospel of Mathew, 7th chapter, 15th verse.</b>`,
+verse: `<b>(18)	IVangeli likaMathewu, isahluko 7, 15 ivesi.</b>`,
 meaning: ` <b>
-(15) Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.
+(7:15) Qaphela abaprofethi bamanga. Beza kuwe ezembathweni zezimvu, kodwa ngaphakathi balolaka izimpisi.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Human beings require guidance to find their path to God, and this guidance often comes from others. To walk in God’s path, a person must place their trust in another. Those who follow this spiritual path rely on their guides to show them the way. The follower’s journey depends on the guide, as they must follow the path the guide illuminates. This makes the follower reliant on the guide, and if the guide provides the correct direction, the follower will progress correctly. Conversely, if the guide offers the wrong direction, the follower may stray from the path. The ultimate destination of an ordinary person is strongly influenced by the chosen guide or guru. Once a person is recognized as a guru, individuals tend to believe and trust their guidance throughout their lives. Therefore, great care should be exercised when selecting someone as your guru or guide. In the verse mentioned above, the Lord warned, <b>‘Beware of false prophets.’</b> He cautioned that some contemporary gurus may not be genuine guides. They may present themselves in sheep’s clothing, pretending to be genuine gurus, but in reality, they are like ferocious wolves in disguise. According to the teachings of Jesus, many individuals may dress and act like gurus, even using words such as God, wisdom, and Atma in their discourse. However, their true nature may not lead you closer to God. Just as a wolf concealed under sheep’s skin is not a sheep, these individuals, despite their appearance, are not genuine gurus. Therefore, the Lord’s advice is to be vigilant and cautious about false prophets to avoid wasting one’s life by following those who do not offer true guidance.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Abantu badinga isiqondiso ukuze bathole indlela yabo UNkulunkulu, futhi lesi siqondiso ngokuvamile sivela kwabanye. Ukungena Indlela kaNkulunkulu, umuntu kufanele abeke ithemba lakhe komunye. Labo abalandela le ndlela yomoya bathembele kubaqondisi babo ukuba bababonise indlela. Uhambo lomlandeli luncike kumhlahlandlela, njengoba bona kumele ilandele indlela umhlahlandlela oyikhanyisayo. Lokhu kwenza umlandeli uncike kumhlahlandlela, futhi uma umhlahlandlela uhlinzeka nge isiqondiso esifanele, umlandeli uzothuthuka ngendlela efanele. Ngokuphambene, uma umhlahlandlela enikeza isiqondiso esingalungile, umlandeli ingase iphambuke endleleni. Indawo yokugcina ye- umuntu ojwayelekile uthonywa kakhulu ngumhlahlandlela okhethiwe noma guru. Lapho umuntu eseqashelwa njenge-guru, abantu bathambekele ukukholwa nokwethemba isiqondiso sabo kukho konke ukuphila kwabo. Ngakho-ke, kufanele kuqashelwe kakhulu lapho ukhetha othile njengomfundisi wakho noma umqondisi. Evesini elishiwo ngenhla, uJehova waxwayisa, &lsquo;<strong>Xwayani abaprofethi bamanga.&rsquo; </strong>Waxwayisa ukuthi amanye ama-contemporary gurus angase angabi abaqondisi bangempela. Bangase baziveze bembethe isikhumba semvu, bezenzisa ukuze babe ongqongqoshe bangempela, kodwa eqinisweni, banjengonya izimpisi zizifihle. Ngokwezimfundiso zikaJesu, abaningi abantu ngabanye bangase bagqoke futhi baziphathe njenge-guru, ngisho nokusebenzisa amagama anjalo njengoNkulunkulu, ukuhlakanipha, no-Atma enkulumweni yabo. Nokho, yabo imvelo yeqiniso ingase ingakusondezi eduze noNkulunkulu. Njengempisi nje okufihlwe ngaphansi kwesikhumba semvu akuyona imvu, laba bantu, naphezu kokubukeka kwabo, abawona ama-gurus angempela. Ngakho-ke, iseluleko seNkosi siwukuba siqaphe futhi siqaphe ngamanga abaprofethi ukugwema ukuchitha impilo yomuntu ngokulandela labo abakwenzayo unganikezi isiqondiso seqiniso.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 20,
-verse: `<b>(19)	The Gospel of Mathew, 7th chapter, 21st verse.</b>`,
+verse: `<b>(19)	IVangeli likaMathewu, isahluko 7, 21 ivesi.</b>`,
 meaning: ` <b>
-(21) Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of paraloka, but only the one who does the will of my Father who is in paraloka. </b>
+(7:21) Akubona bonke abathi kimi, ‘Nkosi, Nkosi,’ abayokwenza ngena embusweni weparaloka, kodwa lowo kuphela owenza intando kaBaba oseparaloka. </b>
 `,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Lord Jesus emanated from Paramatma. Jesus is Bhagavan incarnate in human form, whereas Paramatma, the Father of Paraloka, is God in a formless state, omnipresent throughout the entire universe. When Bhagavan, embodied as Jesus, walked the Earth, some recognized His divine magnificence and revered Him for their material desires. They addressed Him as ‘Lord, Lord,’ seeking personal gains. However, approaching the visible form of the Lord and calling Him great without attaining divine wisdom is insufficient. Although the one in a visible form and the one in an invisible form are the same, there are inherent limitations to the visible form, whereas the invisible Father of Paraloka is limitless. The boundless Paramatma occasionally assumes a tangible form to impart His divine teachings to humanity. Jesus is the form chosen by Paramatma for this purpose. While the Lord presented Himself to us as Jesus, the Father of Paraloka spoke through the words of Jesus. God incarnated as Jesus to proclaim His dharmas.
+<div class="poem"><div class="poemtext">
+  INkosi uJesu yavela eParamatma. UJesu ukhona I-Bhagavan isesimweni somuntu, kuyilapho i-Paramatma, UBaba kaParaloka, unguNkulunkulu ongenasimo, ukuyo yonke indawo kuwo wonke umhlaba. Lapho i-Bhagavan, ifakwe njenge UJesu, wahamba eMhlabeni, abanye babona ubuNkulunkulu Bakhe ubukhazikhazi futhi bemhlonipha ngezifiso zabo zezinto ezibonakalayo. Bona wambiza ngokuthi ‘Nkosi, Nkosi,’ efuna izinzuzo zomuntu siqu. Nokho, ukusondela esimweni esibonakalayo seNkosi nokubiza Yena omkhulu ngaphandle kokuzuza ukuhlakanipha kwaphezulu akanele. Nakuba lowo osesimweni esibonakalayo kanye nalowo ongabonakali amafomu afanayo, kunemikhawulo yemvelo kokubonakalayo ifomu, kanti uBaba ongabonakali weParaloka akanamkhawulo. I-Paramatma engenamkhawulo ngezikhathi ezithile ithatha ifomu elibambekayo adlulisele izimfundiso Zakhe ezingcwele esintwini. UJesu uyisimo ekhethwe yiParamatma ngale njongo. Ngenkathi iNkosi waziveza kithi njengoJesu, uYise kaParaloka wakhuluma ngamazwi kaJesu. UNkulunkulu wenziwa umuntu njengoJesu memezelani ama-dharma yakhe.
 
-  Merely calling Jesus ‘Lord’ without putting God’s wisdom into practice and aligning with the will of the Father of Paraloka brings no real benefits. The one who actively practices God’s wisdom stands higher than the one who merely utters the Lord’s name. The one who abides by God’s words is more important than the one who merely salutes to God. A person who lives in accordance with God’s commandments is truly following God’s will, and such individuals are destined for Paraloka (moksham). God does not seek flattery and does not yield to it; rather, God is pleased by those who embrace and apply His wisdom. Therefore, it is more meaningful to practice God’s teachings rather than merely offering praise. God possesses an understanding of the thoughts and intentions of all beings and can distinguish between those who truly comprehend and live by His wisdom and those who do not. Those who comprehend and live by God’s wisdom hold special importance to God. Those who misunderstand or disregard wisdom and fail to act in accordance with God’s cannot attain moksham.
+  Ukumane ubize uJesu ngokuthi ‘iNkosi’ ngaphandle kokubeka ukuhlakanipha kukaNkulunkulu ukwenza kanye nokuhambisana nentando kaBaba waseParaloka akulethi izinzuzo zangempela. Lowo owenza ngokuzimisela okukaNkulunkulu ukuhlakanipha kuphakeme kunalowo okhuluma amazwi nje Igama leNkosi. Lowo ogcina amazwi kaNkulunkulu mkhulu obalulekile kunalowo okhonzela uNkulunkulu nje. Umuntu ophila ngokuvumelana nemiyalo kaNkulunkulu ngempela ukulandela intando kaNkulunkulu, futhi abantu abanjalo bamiselwe Paraloka (moksham). UNkulunkulu akafuni ukuthopha futhi akakufuni vumani kukho; kunalokho, uNkulunkulu uthokoziswa yilabo abamukelayo futhi sebenzisa ukuhlakanipha Kwakhe. Ngakho-ke, kunengqondo ngokwengeziwe ukuzijwayeza Izimfundiso zikaNkulunkulu kunokumane unikeze udumo. uNkulunkulu inokuqonda imicabango nezinhloso zonke izidalwa futhi angakwazi ukuhlukanisa phakathi kwalabo ngempela baqonde futhi baphile ngokuhlakanipha Kwakhe nalabo abangakwenzi. Labo abaqondayo futhi baphile ngokuhlakanipha kukaNkulunkulu bakhethekile ukubaluleka kuNkulunkulu. Labo abangaqondi kahle noma abanganaki ukuhlakanipha nokwehluleka ukwenza ngokuvumelana nokukaNkulunkulu angeke kufinyelelwe i-moksham.
+
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 21,
-verse: ` <b>(20)	The Gospel of Mathew, 7th chapter, 22nd and 23rd verses. </b>`,
+verse: ` <b>(20)	IVangeli likaMathewu, isahluko 7, 22 kanye Amavesi 23. </b>`,
 meaning: ` <b>
-(22) Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name and in your name drive out demons and, in your name, perform many miracles?
+(7:22) Abaningi bayokuthi kimi ngalolo suku, ‘Nkosi, Nkosi, yenze asiprofethi ngegama lakho nangegama lakho siqhube sikhipha amademoni, senze amaningi ngegama lakho izimangaliso?
 <br><br>
-(23) Then I will tell them plainly, ‘I never knew you. Away from me, you evildoers!’</b>`,
+(7:23) Khona-ke ngizobatshela ngokucacile, ‘Angizange nginazi. sukani kimi nina benzi bokubi!’</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some people who recognize the greatness of the Lord (Jesus) may overlook Paramatma, the ruler of paraloka, and focus solely on praising Jesus. Paramatma, the Father of the entire world, sent a part of Himself as Jesus. Jesus possesses as much power as Paramatma. Praising the Lord Jesus is akin to praising the Father, Paramatma. Many people offer their praise to the Lord, but there are those who do so out of selfish motives, while others are selfless in their devotion to God. The Father of paraloka conveyed his message through Jesus, whom He sent, on numerous occasions. Many are familiar with the words of the Supreme Father but do not comprehend His true nature. It might be asserted that not even one out of millions who read the Father’s words, listen, and offer their praise, truly understands the Father’s actual essence. The Lord proclaimed God’s commandments, wisdom, and verses. The visible Lord (Jesus) serves as the symbol of the invisible God, and He is the image and representative of God. Those who fail to grasp the wisdom and commandments contained in the verses cannot fully benefit from their praise of the Lord.
+<div class="poem"><div class="poemtext">
+  Abanye abantu abaqaphela ubukhulu beNkosi (UJesu) angase anganaki uParamatma, umbusi weparaloka, kanye gxila ekudumiseni uJesu kuphela. Paramatma, uYise womhlaba wonke, wathumela ingxenye Yakhe njengoJesu. UJesu uphethe njenge amandla amaningi njengeParamatma. Ukudumisa iNkosi uJesu kuyafana edumisa uBaba, uParamatma. Abantu abaningi banikeza udumo lwabo eNkosini, kodwa kukhona abenza kanjalo ngenxa yobugovu izisusa, kuyilapho abanye bengenabugovu ekuzinikeleni kwabo kuNkulunkulu. Ubaba weparaloka wadlulisela umlayezo wakhe ngoJesu, lowo wathumela, ezikhathini eziningi. Abaningi bayayazi lamazwi kaBaba oPhezukonke kodwa abaqondi iqiniso Lakhe imvelo. Kungase kushiwo ukuthi akukho ngisho neyodwa ezigidini abafunda amazwi kaBaba, balalele, futhi banikele indumiso yabo, ngempela uyayiqonda ingqikithi kaBaba yangempela. INkosi imemezele Imiyalo kaNkulunkulu, ukuhlakanipha, namavesi. INkosi ebonakalayo (UJesu) ukhonza njengophawu lukaNkulunkulu ongabonakali, futhi unguye umfanekiso nommeleli kaNkulunkulu. Abahlulekayo ukubamba ukuhlakanipha nemiyalo equkethwe emavesini ngeke bazuze ngokugcwele ekudumiseni kwabo iNkosi.
 
-  Humanity can only derive some profit from praising the Lord as supreme. It is imperative to recognize that the ultimate benefit for a person is to attain paraloka. The most significant achievement one can reach is paraloka. It is crucial to understand that the ultimate goal for anyone is to break free from Satan’s (Maya) world and enter God’s realm. The ultimate and most significant gain for humanity is to unite with God’s paraloka without ever returning to this world where Satan resides. There is nothing more valuable for a person than gaining access to paraloka. To reap such enormous benefits and avoid entanglement with Satan, one must fully grasp God’s wisdom. Those who do not delve into the profound wisdom contained in Jesus’ verses and His commandments will only be partial devotees rather than complete believers. Blessed is the one who follows all of the Lord’s teachings without exceeding the boundaries of His commandments. Even those who may not fully comprehend Paramatma’s wisdom are not complete believers, despite being great preachers and fervent praisers of the Lord. This is not to dismiss such individuals, but to emphasize that they have faith in God without being complete believers. Doubt lies within every person until they completely understand God’s wisdom, even if it may not be apparent now. Great preachers who believe they are wholehearted devotees of the Lord may still harbor doubts until they gain a thorough understanding of God’s wisdom. Therefore, the Lord proclaimed, <b>“The one who places trust in me with their manas is superior to the one who flatters me.”</b> Complete faith requires the full wisdom of God.
+  Isintu singathola inzuzo ethile kuphela ekudumiseni INkosi njengophakeme. Kubalulekile ukuqaphela ukuthi ekugcineni inzuzo yomuntu iwukuthola i-paraloka. Okubaluleke kakhulu impumelelo umuntu angafinyelela kuyo yi-paraloka. Kubalulekile uku qonda ukuthi inhloso enkulu kunoma ngubani ukugqashula ezweni likaSathane (Maya) futhi ungene endaweni kaNkulunkulu. Okokugcina futhi inzuzo ebaluleke kakhulu esintwini ukuhlangana nokukaNkulunkulu paraloka ngaphandle kokubuyela kuleli zwe lapho uSathane uhlala. Ayikho into ebaluleke ukwedlula umuntu ukuthola ukufinyelela ku-paraloka. Ukuze uthole izinzuzo ezinkulu kangaka futhi agweme ukuzihlanganisa noSathane, umuntu kufanele akuqonde ngokugcwele okukaNkulunkulu ukuhlakanipha. Labo abangajuli ekuhlakanipheni okujulile equkethwe emavesini kaJesu nemiyalo Yakhe kuyoba kuphela abazinikele ngokwengxenye kunamakholwa aphelele. Ubusisiwe wena lowo olandela zonke izifundiso zeNkosi ngokungaqedi imingcele yemiyalo yaKhe. Ngisho nalabo abangase ukungaqondi ngokugcwele ukuhlakanipha kweParamatma akuphelele amakholwa, naphezu kokuba abashumayeli abakhulu nabadumisi abashisekayo yeNkosi. Lokhu akukhona ukuxosha abantu abanjalo, kodwa ukuba gcizelela ukuthi banokholo kuNkulunkulu ngaphandle kokuphelela amakholwa. Ukungabaza kungaphakathi kwawo wonke umuntu aze aphelele ukuqonda ukuhlakanipha kukaNkulunkulu, ngisho noma kungase kungabonakali manje. Abashumayeli abakhulu abakholelwa ukuthi bazinikele ngenhliziyo yonke weNkosi usengaba nokungabaza baze bazuze ngokugcwele ukuqonda ukuhlakanipha kukaNkulunkulu. Ngakho-ke, iNkosi wamemeza wathi: <strong>&ldquo;Lowo othembela kimi ngomphefumulo wakhe uManas uphakeme kunalowo ongithophayo.&rdquo;</strong>Qedela ukholo ludinga ukuhlakanipha okuphelele kukaNkulunkulu.
 
-  It can be said that those who do not understand that Jesus and God are one and those who believe that Jesus will return as Jesus do not comprehend the vastness of God. The one who does not realize that God is eternal, without a beginning or an end, that God has descended to Earth many times, and that He will come whenever necessary, lacks complete wisdom. Those with perfect wisdom can discern the arrival of God, while those without absolute wisdom cannot recognize His coming. Even when God has taken human form and stood before a person, the one who only sees His outward appearance and actions may fail to recognize God. When the Lord comes incognito, some Christians may not recognize Him and may be unaware of His presence, even to the point of attempting to baptize Him.
+  Kungashiwo ukuthi labo abangakuqondi lokho UJesu noNkulunkulu bamunye futhi labo abakholelwa ukuthi uJesu uyokwenza buya njengoba uJesu engabuqondi ubukhulu bukaNkulunkulu. Umuntu ongaboni ukuthi uNkulunkulu ungunaphakade, ngaphandle isiqalo noma isiphetho, ukuthi uNkulunkulu wehlele eMhlabeni abaningi izikhathi, nokuthi Uyofika noma nini lapho kunesidingo, uyashoda ukuhlakanipha okuphelele. Labo abanokuhlakanipha okuphelele bangakwazi ukuqonda ukufika kukaNkulunkulu, kuyilapho labo abangenakho ukuhlakanipha okuphelele bengakwazi qaphela ukuza kwaKhe. Ngisho nalapho uNkulunkulu ethathe isimo somuntu futhi wema phambi komuntu, lowo obona ingaphandle Lakhe kuphela ukubukeka nezenzo kungase kuhluleke ukubona uNkulunkulu. Lapho Inkosi ifika incognito, amanye amaKristu angase angamazi futhi bangase bangaqapheli ubukhona Bakhe, kuze kube seqophelweni loku ezama ukuMbhabhadisa.
 
-  On Earth, believers are better than non-believers, and absolute believers surpass ordinary believers. Only absolute believers can enter paraloka. God does not accept them until they become absolute believers. When entering paraloka, God acknowledges only absolute gnanis. If someone is not an absolute gnani, God will say, “I do not know them.” Hence, one must strive to attain absolute wisdom. Many aspire to draw near to God and enter His kingdom. However, as they are within Satan’s dominion (Maya), Satan exerts its utmost efforts to prevent them from reaching God and from becoming complete gnanis. Even preachers who are aware of Satan’s opposition to God may not fully comprehend the extent of Satan’s influence. Those who lack a comprehensive understanding of Satan’s activities may inadvertently follow Satan’s path while believing they are on the path to God. This is why God has stated that preachers who assume they are close to God may still fall short of entering His presence.
+  Emhlabeni, amakholwa angcono kunabangakholwa, futhi amakholwa aphelele adlula amakholwa ajwayelekile. Okuphelele kuphela amakholwa angangena paraloka. UNkulunkulu akabemukeli kuze kube amakholwa aphelele. Lapho kungena paraloka, Nkulunkulu uvuma kuphela ama-gnanis aphelele. Uma umuntu engeyena gnani ngokuphelele, uNkulunkulu uzothi, "Angibazi." Ngakho, eyodwa kumelwe ilwele ukuthola ukuhlakanipha okuphelele. Abaningi bafisa ukudweba eduze noNkulunkulu futhi ungene embusweni wakhe. Nokho, njengoba benjalo ngaphansi kokubusa kukaSathane (uMaya), uSathane wenza imizamo yakhe yonke kwe batholile ekufinyeleleni uNkulunkulu futhi kusukela ekubeni ginis gnanis. Ngisho nabashumayeli abaziyo ngoSathane Ukuphikiswa uNkulunkulu kungenzeka kungakuqondi ngokuphelele ubukhulu be Ithonya likaSathane. Labo abaswele okuphelele Ukuqonda ngemisebenzi kaSathane kungalandela ngokungafanele Indlela kaSathane ngenkathi bekholelwa ukuthi basendleleni eya kuNkulunkulu. Leli kungani uNkulunkulu eshilo ukuthi abashumayeli abacabanga ukuthi bakhona eduze noNkulunkulu kungenzeka kusekufushane ekungeneni ubukhona bakhe.
 
-  In the verse, Jesus said, <b>“Even though you cast out demons and perform miracles in my name, and heal the sick in my name, you are evildoers. Depart from me.”</b>
+  Evesini, uJesu wathi, <strong>"Noma ukhipha amademoni futhi enze izimangaliso egameni lami, futhi aphulukise Sigula ngegama lami, uwenzi bokubi. Suka kimi. "</strong>
 
-  In today’s society, people often regard those who perform miracles in the name of God as true devotees, believing them to be close to the Lord. Even those who work wonders themselves may think they are in close communion with the Lord. This perception arises because they see the glory of the Lord manifested through their actions. When they lay their hands on a patient while reciting God’s words, and the patient experiences healing, they attribute it to the Lord’s miracles occurring through them. While it is true that miracles can indeed happen, making the Lord’s presence known to all, they overlook why the Lord expressed displeasure with such actions, as mentioned in the above verse. In doing so, they forget the Lord’s words. The question arises: Why did the Lord reprimand them if what they were doing seemed to be good and a manifestation of the Lord’s miracles? Why did Jesus state that they were walking on an evil path? If the Lord has said so, it is undoubtedly true.
+  Emphakathini wanamuhla, abantu bavame ukubheka labo yenza izimangaliso egameni likaNkulunkulu njengokuzinikela kweqiniso, Ukubakholelwa ukuthi basondele eNkosini. Ngisho nalabo abasebenza Izimangaliso ngokwazo zingacabanga ukuthi ziseduze neNkosi. Lo mbono uphakama ngoba babona inkazimulo Inkosi yabonisa ngezenzo zabo. Lapho belele izandla zabo esigulini ngenkathi ephinda amazwi kaNkulunkulu, futhi Ukuhlangenwe nakho kwesiguli ukuphulukiswa, bakubeka kuJehova izimangaliso zenzeka ngazo. Ngenkathi kuyiqiniso lokho izimangaliso ngenzeka ngempela, ukwenza ukuba khona kweNkosi kwaziwe kubo bonke, Babuka ukuthi kungani iNkosi izwakalise ukungajabuli nalokho Izenzo, njengoba kushiwo evesini elingenhla. Ngokwenza kanjalo, bona khohlwa amazwi eNkosi. Kuphakama umbuzo: Kungani iNkosi yakwenza baphindisele uma bebekwenzani bekubonakala kulungile nokubonakaliswa kwezimangaliso zeNkosi? Kungani uJesu asho ukuthi babehamba ngendlela embi? Uma iNkosi isho kanjalo, akungabazeki ukuthi kuyiqiniso.
 
-  The unbelievable truth becomes evident when you contemplate what the truth means in the Lord’s teachings. It is a grave mistake for a person not to discern whether the miracles performed in the Lord’s name are of God or Satan. Many who appear as preachers and gurus in the eyes of the people believe they are on God’s path but are, in fact, on Maya’s path. This realization can be quite distressing. It’s possible that many preachers may become upset with my words, but please remember that these are not my words; they are the words of God. As stated in the Gospel of Matthew 7:22, the Lord said, <b>“This is evil. I never knew you.”</b> We should acknowledge that the same Maya (Satan) that tempted the Lord in the past is still attempting to deceive us today. Understanding Maya (Satan) is also an essential part of divine wisdom. Without recognizing Maya, we may mistakenly follow Satan, who assumes the guise of God, instead of following God. Today, many speakers, gurus, and preachers make the same mistake. Satan (Maya), which can assume many forms, performs tricks and miracles in the name of God. Those who are unaware that this is not pleasing to God cannot progress. The distressing truth is that many people on Earth blindly follow Satan, believing it to be God. They are oblivious to the fact that they are pursuing Satan’s path, not God’s. It may seem almost impossible for them to break free from Satan’s influence. Even if God Himself were to convey this truth, they might criticize God but remain unchanged. To them, Maya appears as God, and God appears as a mere human being.
+  Iqiniso elingakholeki liyabonakala lapho wena cabanga ngalokho iqiniso kusho izimfundiso zeNkosi. Ikona iphutha elikhulu kumuntu ongaliboni ukuthi Izimangaliso ezenziwa egameni leNkosi zivela kuNkulunkulu noma uSathane. Abaningi abavela njengabashumayeli kanye ne-gurus emehlweni kaJehova Abantu bakholelwa ukuthi basendleleni kaNkulunkulu kodwa empeleni, ngamaMaya indlela. Lokhu kwaziswa kungakhathaza impela. Kungenzeka ukuthi Abashumayeli abaningi bangacasulwa ngamazwi ami, kepha ngicela Khumbula ukuthi lawa akuwona amazwi ami; bangamazwi ka Nkulunkulu. Njengoba kushiwo eVangelini likaMathewu 7:22, iNkosi wathi, <strong>"Lokhu kubi. Angikaze ngikwazi. " </strong>Kufanele sivume ukuthi elifanayo maya (Sathane) elilinga iNkosi esikhathini esedlule usazama ukusikhohlisa namuhla. Ukuqonda Maya (USathane) futhi uyingxenye ebalulekile yokuhlakanipha kwaphezulu. Phandle kwa-ukuqaphela uMaya, singalandela ngephutha uSathane, ngubani Uthatha igama likaNkulunkulu, esikhundleni sokulandela uNkulunkulu. Namuhla, Izikhulumi eziningi, iGurus, nabashumayeli benza iphutha elifanayo. USathane (Maya), ongathatha izindlela eziningi, enza amaqhinga nezimangaliso egameni likaNkulunkulu. Labo abangazi ukuthi lokhu akumjabulisi uNkulunkulu akunakuthuthuka. Okucindezelayo Iqiniso ukuthi abantu abaningi emhlabeni balandela uSathane ngokungaboni, ukukholelwa ukuthi unguNkulunkulu. Banganaki iqiniso lokuthi bona baphishekela indlela kaSathane, hhayi uNkulunkulu. Kungabonakala cishe akunakwenzeka ukuba bahlukane nethonya likaSathane. -Lingeneyo Uma uNkulunkulu uqobo lwaKhe ezodlulisela leli qiniso, angakwazi ukugxeka Unkulunkulu kepha uhlale engashintshiwe. Kubo, uMaya uvela njengoNkulunkulu, futhi uNkulunkulu ubonakala njengomuntu nje ongumuntu.
 
-  Those who aspire to enter God’s kingdom and have faith in God should reflect upon the previously mentioned verse and contemplate why God disapproved of and referred to those who perform miracles as evildoers. Consider who is favored by God and who is not. It is essential to familiarize yourself with God’s verses, wisdom, and commandments. You should fully embrace God’s wisdom without transgressing His commandments, recognizing them as the boundaries set around you. Keep in mind that God’s kingdom is within these boundaries, while Satan’s dominion lies outside. Stay vigilant in the face of Satan’s influence, remembering the boundaries delineated by Jesus in his holy scripture for all of humanity.
+  Labo abafisa ukungena eMbusweni kaNkulunkulu futhi babe nokholo KuNkulunkulu kufanele kubonise evesini elishiwo ngaphambili futhi cabanga ngengakho uNkulunkulu engamukeli futhi abhekisele kulabo owenza izimangaliso njengabenzi bokubi. Cabanga ukuthi ngubani othandwa yi Nkulunkulu futhi ongeyena. Kubalulekile ukuze uzijwayeze nge Amavesi kaNkulunkulu, ukuhlakanipha, nemiyalo. Kufanele ngokugcwele yamukela ukuhlakanipha kukaNkulunkulu ngaphandle kokuphula okwakhe imiyalo, ubabone njengoba imingcele ibeka eduze kwakho. Khumbula ukuthi uMbuso kaNkulunkulu uphakathi kwalokhu Imingcele, ngenkathi umbuso kaSathane ulele ngaphandle. Hlala uphapheme ngaphakathi ubuso bethonya likaSathane, ukhumbula imingcele kuhlelwe uJesu embhalweni wakhe ongcwele kubo bonke abantu.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 22,
-verse: ` <b>(21) The Gospel of Mathew, 8th chapter, 22nd verse. </b>`,
+verse: ` <b>(21) IVangeli likaMathewu, Isahluko 8, 22 isiqendu. </b>`,
 meaning: ` <b>
-(22) Jesus told him, “Follow me, and let the dead bury their own dead.”</b>`,
+(8:22) UJesu wamtshela, "Ngilandele, bese kubafile ukungcwaba abafa babo. "</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The above verse mentioned was Jesus’s response when one of His disciples said to Him, “Lord, first let me go and bury my father.” Jesus’s words may seem unclear to some, prompting questions about their meaning. When we consider this, we can classify humanity into two categories: those who possess wisdom and practice it as yogam will attain eternal life (moksham). Such people are very few in number. Those who are eligible for everlasting life will not be counted among the dead. Those who attain everlasting life will never truly experience death and can be said to have achieved moksham. On the other hand, those who are ignorant or do not engage in the practice of yogam can be considered as spiritually dead. Such individuals do not possess eternal life and will ultimately face death. It can be said that they are destined to experience death at some point. The ignorant are often buried by other ignorant individuals. Hence, Jesus’s statement, “Let the dead bury the dead,” conveys the idea that those who lack wisdom are referred to as the spiritually dead. It emphasizes that those who possess wisdom should not associate themselves with the ignorant. Therefore, Jesus told the disciple, “You understand the wisdom and follow me. Let the ignorant bury the ignorant.”
-</div></div>
+<div class="poem"><div class="poemtext">
+  Leli vesi elingenhla elishiwoyo ukusabela kukaJesu lapho Omunye wabafundi bakhe wathi kuye: "Nkosi, ngiqale uke ngihambe ngiyomngcwaba ubaba wami." Amazwi kaJesu angabonakala engacacile kwabanye, kushukumisela imibuzo ngencazelo yabo. Lapho sicabanga lokhu, singakwazi ukuhlukanisa ubuntu ngezigaba ezimbili: labo unobuhlakani futhi wenze njengoba i-yogam izothola impilo yaphakade (Moksham). Abantu abanjalo bambalwa kakhulu ngenani. Labo kufanelekile ukuthi impilo engapheliyo ngeke ibalwe phakathi kwe ufile. Labo abathola impilo engapheli ngeke iphinde ngenze uhlangabezana nokufa futhi kungashiwo ukuthi uzuze uMoksham. Ngakolunye uhlangothi, labo abangazi noma abangazi lutho Umkhuba we-yogam ungabhekwa njengofile ngokomoya. Abantu abanjalo abanayo impilo yaphakade futhi ekugcineni bayo Ukufa kobuso. Kungashiwo ukuthi zimiselwe ezintweni ukufa ngesinye isikhathi. Abangenalwazi bavame Ukungcwatshwa okunye abantu abangazi. Ngakho-ke, amazwi kaJesu, "ake abafileyo o ngcwaba abafileyo, "kudlulisa umbono wokuthi labo abalele ukuhlakanipha kubhekiselwa kuwo njengoba efile ngokomoya. Kugcizelela ukuthi lezo abanakho ukuhlakanipha akufanele bazihlanganise ne ukungazi. Ngakho-ke, uJesu watshela umfundi, "uyaqonda Ukuhlakanipha Futhi Ngilandele. Abe abangakwazi ukungcwaba abazi. "</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 23,
-verse: ` <b>(22)	The Gospel of Mathew, 9th chapter, 12th and 13th verses.</b>`,
+verse: ` <b>(22)	IVangeli likaMathewu, Isahluko 9, 12th kanye Amavesi we-13.</b>`,
 meaning: ` <b>
-(12) On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.”
+(9:12) Lapho ezwa lokhu, uJesu wathi, "Akuyena ophilile abadinga udokotela, kepha abagulayo. "
 <br><br>
-(13) For I have not come to call the righteous, but sinners.</b>`,
+(9:13) Ngoba angizanga ukubiza olungile, kepha Izoni.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  As we’ve previously discussed, God occasionally descends upon the Earth to establish dharmas. Similarly, Jesus stated that He came to guide the ignorant onto the path of wisdom. He mentioned that He came to call sinners, not the righteous. Here ‘sinners’ represent those who are ignorant and lack wisdom, while the ‘righteous’ denote those who possess wisdom. God takes on the role of a spiritual physician, often referred to as a preacher, to heal those afflicted by the ailment of ignorance. Through the medicine of wisdom, He cures the spiritually sick. Those who are already spiritually healthy with wisdom do not require the guidance of such a physician or preacher. When the disease of ignorance spreads globally, affecting all people, God incarnates to provide His divine medicine of dharmas and transform the ignorant into gnanis (wise individuals). If God did not assume this role as a spiritual physician, the entire world would be plagued by ignorance. Therefore, God incarnates to reveal His wisdom to those in need.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Njengoba saxoxa phambilini, uNkulunkulu ngezikhathi ezithile yehlela emhlabeni ukusungula ama-dharmas. Ngokufanayo, uJesu wathi weza ukuzohola ukungazi lutho emkhondweni we Ukuhlakanipha. Ushilo ukuthi weza ukubiza izoni, hhayi balungile. Nazi 'izoni' zibonisa labo abangazi futhi Ukuntuleka ukuhlakanipha, ngenkathi 'abalungile' babona labo abanakho Ukuhlakanipha. UNkulunkulu Uthatha Indima Yodokotela Ongokomoya, Imvamisa okubizwa ngokuthi umshumayeli, ukuphulukisa labo abahlushwa ukugula ngokungazi. Ngomuthi wokuhlakanipha, uyaphambuka ogulayo ngokomoya. Labo asevele bephilile ngokomoya Ukuhlakanipha akudingi ukuholwa ngudokotela noma Umshumayeli. Lapho isifo sokungazi sisakazeka emhlabeni wonke, okuthinta bonke abantu, uNkulunkulu ufaka umhlobiso wokuhlinzeka ngokwaphezulu kwakhe umuthi we-dharmas futhi uguqule abangenalwazi babe yi-gnanis (abantu abahlakaniphile). Ukube uNkulunkulu akazange athathe le ndima njengengokomoya Udokotela, umhlaba wonke uzohlushwa ukungazi. Ngakho-ke, uNkulunkulu uyamhlonza ukuveza ukuhlakanipha kwakhe kulabo abaku isidingo.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 24,
-verse: ` <b>(23) The Gospel of Mathew, 8th chapter, 23rd, 24th, 25th and 26th verses. </b>`,
+verse: ` <b>(23) IVangeli likaMathewu, Isahluko 8, 23. 24th, 25th ne-26th amavesi. </b>`,
 meaning: `<b>
-(23) Then He got into the boat and His disciples followed Him.
+(8:23) Wabe esengena esikebheni kanye nabafundi bakhe wamlandela.
 <br><br>
-(24) Suddenly a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping.
+(8:24) Ngokuphazima kwengqondo kwaqhamuka isivunguvungu esithukuthele echibini, Ukuze amagagasi akhukhule phezu kwesikebhe. Kepha uJesu wayekhona ukulala.
 <br><br>
-(25) The disciples went and woke Him, saying, “Lord, save us! We’re going to drown!”
+(8:25) Abafundi baya bamvusa, bathi: "Nkosi, Sisindise! Sizominza! "
 <br><br>
-(26) He replied, “You of little faith, why are you so afraid?” Then He got up and rebuked the winds and the waves, and it was completely calm.   </b>`,
+(8:26) Waphendula wathi: "Wena nokholo oluncane, kungani unjalo kanjalo wesaba? " Wabe esesukuma wakhuza imimoya futhi Amagagasi, futhi kwakuzolile ngokuphelele. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This event is a significant incident from Jesus’ life. While Jesus may not have directly taught a lesson here, there is much we can learn from this event. Both the sea and the storm are connected to Prakruti. The air in the storm and the water in the sea are integral components of Prakruti. Prakruti is under the sole control of Paramatma, the supreme divine entity. Prakruti consists of five elements: Sky, Air, Fire, Water, and Earth. Even Atma, which possesses divinity following Paramatma, holds no authority over Prakruti. Atma within the body governs only the Chara (Changeable) Prakruti, which exists in the form of the body. It does not exert any authority over the Achara (Unchangeable) Prakruti. Prakruti does not heed Atma; it solely obeys the command of Paramatma. Prakruti is composed of five bhootas, which can be understood as life forces or Jeevas. These five Jeevas represent the five elements of Prakruti and, as such, they adhere to the divine word of God. They follow the instructions of Paramatma.
+<div class="poem"><div class="poemtext">
+  Lo mcimbi uyisigameko esikhulu esivela empilweni kaJesu. Lapho Kungenzeka ukuthi uJesu akazange afundise ngokuqondile isifundo lapha, kuningi Singafunda kulo mcimbi. Bobabili ulwandle kanye nesivunguvungu exhunywe kwiPrakruti. Umoya esivunguvungwini namanzi ku Ulwandle luyizinto ezihlanganayo zePrakruti. Prakruti ungaphansi kwe Ukulawulwa kuphela kwe-paramatma, inhlangano ephakeme kakhulu yaphezulu. Prakruti Inezinto ezinhlanu: isibhakabhaka, umoya, umlilo, amanzi, nomhlaba. -Lingeneyo I-Atma, enokwedlula ubunkulunkulu ukulandela i-paramatma, ayinalo igunya ngaphezulu kwePrakruti. I-ATMA ngaphakathi komzimba iphatha kuphela Chara (okuguqukayo) Prakruti, okukhona ngendlela ye mzimba. Akunasisekelo noma yiliphi igunya phezu kwe-Achaara (Engaguquki) Prakruti. IPrakruti ayilaleli atma; kuphela ulalela umyalo we-paramatma. IPrakruti yakhiwa Ama-Bhootas amahlanu, angaqondakala njengamandla okuphila noma ama-jeevas. Lezi zinto ezinhlanu zimelela izinto ezinhlanu zePrakruti futhi, Ngenxa yalokho, banamathela eZwini likaNkulunkulu laphezulu. Balandela Imiyalo yeParamatma.
 
-  Because Jesus was the Holy Spirit who appeared as an ordinary man, the storm in the sea ceased at His command. Only God can control Prakruti, so Jesus can be considered God’s incarnation. It is mentioned in verses 7, 8, and 9 of Gnana Yoga in the Bhagavad-Gita, the first divine scripture, that God descends to Earth in human form to impart His wisdom. When God takes on a human form, He outwardly resembles an ordinary man, even though He is not an ordinary individual. Because He appears as an ordinary man, identifying Him is challenging. However, there are two key indicators to recognize Him: <b>1) The presence of God’s incarnation wherever divine dharmas are taught.2) The ability to command Prakruti can be recognized as God’s incarnation.</b> The calming of the sea at Jesus’ command is a manifestation of this divine power, demonstrating that only God can perform such feats. When dharmas are taught and Prakruti is commanded, the human form of God becomes recognizable. Jesus not only taught God’s wisdom but also practiced it and commanded Prakruti. Therefore, Jesus can be identified as God in human form. The immediate cessation of the storm on the sea served as proof of Jesus’ divinity.
+  Ngoba uJesu wayenguMoya oNgcwele owavela njenge Indoda ejwayelekile, isivunguvungu solwandle saphela umyalo wakhe. NguNkulunkulu kuphela ongalawula iPrakruti, ngakho-ke uJesu angabhekwa kanjalo Ukunakwa uNkulunkulu. Kukhulunywa ngamavesi 7, 8, no-9 wegnana I-Yoga eBhagavad-Gita, umbhalo wokuqala waphezulu, uNkulunkulu yehlela emhlabeni ngesimo somuntu ukudlulisa ukuhlakanipha kwakhe. Nini UNkulunkulu uthatha isimo somuntu, wafana ngaphandle Umuntu ojwayelekile, yize engeyena umuntu ojwayelekile. Ngoba ubonakala njengendoda ejwayelekile, ekhomba yena inselele. Kodwa-ke, kunezikhombisi ezimbili ezibalulekile zokubona Yena: <strong>1) Ukuba khona kombandela kaNkulunkulu noma kuphi lapho ungcwele UDharmas ufundiswa.2) Amandla okuyala i-Prakruti ingabonakala njengokuhlongozwa uNkulunkulu</strong>. Ukuzola kwe Ulwandle emyalweni kaJesu lubonakaliswa kwalawa mandla aphezulu, ekhombisa ukuthi uNkulunkulu kuphela ongenza lezo zinto. Nini UDharmas ufundiswa futhi i-Prakruti iyaliwe, umuntu Uhlobo lukaNkulunkulu luyabonakala. UJesu akagcinanga ngokufundisa uNkulunkulu kuphela Ukuhlakanipha kodwa futhi kwenza kwakwenza futhi kwayala iPrakruti. Ngakho-ke, uJesu angakhonjwa njengoNkulunkulu ngesimo somuntu. Le khasi ukunqanyulwa ngokushesha kwesivunguvungu olwandle okunikezwe njengobufakazi kobunkulunkulu bukaJesu.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 25,
-verse: ` <b>(24)The Gospel of Mathew, 9th chapter, 6th verse.</b>`,
+verse: ` <b>(24)IVangeli likaMathewu, Isahluko 9, ivesi 6.</b>`,
 meaning: `<b>
-(6) I want you to know that the Son of Man has authority on earth to forgive sins. So, he said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
+(9: 6) Ngifuna wazi ukuthi iNdodana yomuntu inayo igunya emhlabeni lokuthethelela izono. Ngakho-ke, wathi ku ndoda ekhubazekile, "vuka, thatha umati wakho uhambe uye ekhaya." Uwesilisa wasukuma waya ekhaya.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-  Jesus Himself said that the Son of Man has authority on Earth to forgive sins. When a paralyzed man was brought to Jesus, He said to him, “Your sins are forgiven.” Some of the scribes said to themselves that Jesus was blaspheming. Knowing their thoughts, Jesus said, “Why do you entertain evil thoughts in your hearts? Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk?’ But I want you to know that the Son of Man has the authority to forgive sins.” So, He said to the paralyzed man, “Get up, take your mat and go home.” Then the man got up and went home.
+  UJesu ngokwakhe wathi iNdodana yomuntu inegunya kuzo Umhlaba wokuthethelela izono. Lapho kwenziwa umuntu okhubazekile UJesu wathi kuye: "Izono zakho zithethelelwe." Ezinye ze Ababhali bathi kubo bathi uJesu wayehlambalaza. Ukwazi imicabango yabo, uJesu wathi, "Kungani ujabulisa ububi imicabango ku yizinhliziyo zethu? Okulula: ukusho, 'izono zakho Uthethelelwe, 'noma uthi,' Sukuma uhambe? 'Kepha ngifuna ukuba wazi Ukuthi iNdodana yomuntu inegunya lokuthethelela izono. " Ngakho-ke, yena wathi kofe uhlangothi, "Sukuma, uthathe mat wakho uhambe uye ekhaya. " Uwesilisa wasukuma waya ekhaya.
 
-  If we observe this, Jesus forgave sins because the scribes thought evil of Him. He also declared that the Son of Man has authority on Earth to forgive sins. Despite coming to Earth as the Son of God, He humbled Himself by identifying as the Son of Man. He told and proved that He alone possesses the authority to forgive sins. Those who understand that only God (The Holy Spirit) can forgive sins will recognize who Jesus truly is. By claiming to be the Son of Man, Jesus deliberately obscured His divinity, even though He originated from the Holy Spirit. The paralyzed man immediately rose and went home when Jesus instructed him to do so. The crowd was astonished after witnessing this miracle. Despite performing such a remarkable deed, Jesus was treated as an ordinary man and brought to court as if He were guilty. This illustrates how humans often forget the help they receive.
+  Uma sibona lokhu, uJesu wathethelela izono ngoba ababhali wacabanga okubi ngaye. Ubuye wamemezela ukuthi iNdodana yomuntu inayo igunya emhlabeni lokuthethelela izono. Naphezu kokuza emhlabeni njengoba INdodana kaNkulunkulu, wazithoba ngokukhomba njengendodana womuntu. Watshela futhi wakufakazela ukuthi ungowedwa anaso igunya lokuthethelela izono. Labo abaqondayo ukuthi uNkulunkulu kuphela (UMoya oNgcwele) ungathethelela izono uyokwazi ukuthi uJesu ngempela ungubani. Ngokufuna ukuba yiNdodana yomuntu, uJesu ngamabomu bafihla ubunkulunkulu bakhe, yize ayevela engcwele Umoya. Umuntu okhubazekile wasukuma wabuyela ekhaya Lapho uJesu emyalela ukuba enze kanjalo. Isixuku samangala Ngemuva kokufakaza lesi simangaliso. Naphezu kokwenza okunjalo Isenzo esimangalisayo, uJesu waphathwa njengendoda ejwayelekile futhi baletha enkantolo sengathi unecala. Lokhu kukhombisa kanjani Abantu bavame ukukhohlwa usizo abalutholayo.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 26,
-verse: ` <b>(25) The Gospel of Mathew, 10th chapter, 20th verse.</b>`,
+verse: ` <b>(25) IVangeli likaMathewu, Isahluko 10, 20 isiqendu.</b>`,
 meaning: `<b>
-(20) For it will not be you speaking, but the Spirit of your Father speaking through you. </b>`,
+(10:20) Ngoba ngeke kube ukhuluma, kepha umoya we Uyihlo ekhuluma ngawe. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  While this verse may appear ordinary, it holds profound spiritual wisdom. It’s essential to understand that the term <b>‘Your Father’</b> in this verse does not refer to one’s biological father but to the spiritual Father of Jeevatma. Atma, the Father of Jeevatma, resides within the body and guides it. It’s crucial to remember that the Father of Atma is Paramatma. Every human being represents Jeevatma. Depending on a person’s karma, Atma influences and guides them (Jeevatma), causing them to experience karma (sins and punya karma). Atma controls all bodily functions and determines the pleasure and pain experienced by Jeevatma within the body.
+<div class="poem"><div class="poemtext">
+  Ngenkathi leli vesi lingabonakala lijwayelekile, libambe okukhulu Ukuhlakanipha okungokomoya. Kubalulekile ukuqonda ukuthi ithemu <strong>'uyihlo' </strong>kuleli vesi alibhekiseli kumuntu Ubaba wezemvelo kodwa kuYise ongokomoya weJeevatma. I-Atma, Ubaba weJevatma, uhlala ngaphakathi emzimbeni waqondisa. Kubalulekile ukukhumbula ukuthi uYise we-ATMA nguParamatma. Wonke umuntu omele uJeevatma. Kuya nge karma yomuntu, i-atma ithonya futhi ibaqondise (Jeevatma), wabangela ukuba bathole uKarma (izono kanye ne-punja karma). I-Atma ilawula yonke imisebenzi yomzimba futhi inquma ubumnandi nobuhlungu obutholwa yiJeevatma ngaphakathi emzimbeni.
 
-  Jeevatma does not actively engage in any bodily functions. Despite its apparent inaction, Jeeva silently experiences the consequences of its actions, both joy and sorrow. Although Jeevatma identifies itself as the individual within the body, he lacks the capacity to act. Instead, it is the Atma that orchestrates all activities within the body. Due to ignorance, Jeevatma mistakenly believes he is the one performing actions by listening to the words of ‘aham’ (the ego). In reality, Atma is the true actor within the body, but Jeevatma often forgets Atma’s presence and believes that he is the doer of everything. In the context of the verse, Jesus aimed to enlighten those in ignorance. He conveyed, <b>“Your father, Atma, resides within you and communicates through you. You are not the one speaking.”</b> According to this verse, it is evident that not only the deeds performed but also the spoken words are not articulated by Jeevatma. Jesus stated that it is sheer ignorance for people to believe that they are speaking, whereas it is Atma who articulates the words. Jeevatma does not perform the deeds executed by the ten physical body parts (organs of action); it is Atma that accomplishes everything through these body parts. Recognizing this truth represents the highest form of wisdom among all wisdom.
-</div></div>
+  UJeevatma akagcini ngenkuthalo kunoma iyiphi umzimba Imisebenzi. Naphezu kokungabi nanconywa okusobala, uJeeva buthule uhlangabezana nemiphumela yezenzo zayo, injabulo futhi usizi. Yize uJevatma aziveza njengomuntu ngamunye Emzimbeni, antula amandla okwenza okuthile. Esikhundleni salokho, kunjalo Atma ohlela yonke imisebenzi ngaphakathi emzimbeni. Ngenxa ye ukungazi, uJeevatma ukholelwa ngephutha ukuthi nguyena enza izenzo ngokulalela amagama athi 'Ahamu' (ama-ego). Eqinisweni, i-Atma ingumlingisi weqiniso ngaphakathi komzimba, kepha uJeevatma kuvame ukukhohlwa ukuba khona kwe-ATMA futhi kukholwa ukuthi ungumenzi konke. Ngokwesimo sevesi, uJesu wahlose uku khanyisa labo abangazazi. Wadlulisa, <strong>"uyihlo, U-Atma, uhlala ngaphakathi kwakho futhi ukhulume ngayo wena. Akuyena okhulumayo. "</strong> Ngokusho kwaleli vesi, kuyabonakala ukuthi hhayi kuphela imisebenzi eyenziwe kodwa futhi Amagama akhulunywayo awachazwa yiJeevatma. UJesu wathi kungukungazi kwabantu ukukholelwa ukuthi bakhona ekhuluma, kanti kungukuthi atma abonisa amagama. UJeevatma akenzi izenzo ezenziwa yishumi izingxenye zomzimba wenyama (izinhlaka zezenzo); kungukuthi Ifeza konke ngalezi zitho zomzimba. Ukubona leli qiniso kufanekisela uhlobo oluphakeme kakhulu lokuhlakanipha phakathi kwakho konke ukuhlakanipha.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 27,
-verse: ` <b>(26) The Gospel of Mathew, 10th chapter, 30th verse.</b>`,
+verse: ` <b>(26) IVangeli likaMathewu, Isahluko 10, 30 isiqendu.</b>`,
 meaning: ` <b>
-(30) Even the very hairs of your head are all numbered.
+(10:30) Ngisho nezinwele zekhanda lakho konke kubaliwe.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In a temple, people often share their thoughts with God, believing that God is unaware of their innermost feelings. They exhibit respect and awe when in the temple but may behave differently outside. For instance, after leaving the temple, some individuals may occupy two train seats without allowing other passengers to sit, displaying inconsiderate behavior. This action stems from the misconception that God is aware of their actions inside the temple but not outside. However, what <b>many fail to realize is that God is omniscient and omnipresent, perceiving all actions, even in the most secluded places.</b> This verse spoken by Jesus highlights the glory of God and serves as a reminder that God’s awareness extends everywhere.
+<div class="poem"><div class="poemtext">
+  Ethempelini, abantu bavame ukuhlanganyela imicabango yabo noNkulunkulu, Ukukholelwa ukuthi uNkulunkulu akazi ngemizwa yabo engaphakathi. Bona Khombisa inhlonipho nokumangala lapho usethempelini kodwa ungahle uziphathe ngokuhlukile ngaphandle. Isibonelo, ngemuva kokushiya ithempeli, abanye abantu bangahlala izihlalo ezimbili zesitimela ngaphandle kokuvumela abanye abagibeli bahlale, bebonisa indlela yokuziphatha engafanele. Leli isenzo sivela emcabangweni ongaqondile wokuthi uNkulunkulu uyazi Izenzo ngaphakathi kwethempeli kodwa hhayi ngaphandle. Noma kunjalo, Yini <strong>abaningi abaye yehluleke ukuqaphela ukuthi uNkulunkulu u-Omniscient futhi Omnipresent, ukuqonda zonke izenzo, ngisho nakuningi izindawo ezivikelekile</strong>. Leli vesi elikhulunywe uJesu liqokomisa inkazimulo kaNkulunkulu futhi ukhonza njengesikhumbuzo sokuthi ukuqonda kukaNkulunkulu inwebeka yonke indawo.
 
-The verse highlights God’s extraordinary carefulness towards humans, as God has established a precise system for all aspects of human existence. This divine system encompasses even the minutest details, such as ‘karma-visarga’ —the division of karma into tiny parts. Through karma-visarga, God determines how many times a person should open and close their eyelids, ensuring a precise count. God also dictates the number of hairs on our heads and when and which hairs should fall out, all through karma-visarga. Additionally, God orchestrates the challenges that individuals face and the extent of their suffering. In the Bhagavad-Gita, the Lord affirms that God possesses knowledge of everything that has occurred, is happening, and will transpire on Earth. This reinforces the notion that there is nothing beyond God’s awareness.
+  Leli vesi liqokomisa ukugcwala okungavamile kukaNkulunkulu ngakubantu, njengoba uNkulunkulu esungule uhlelo oluqondile lwe nke izici zokuba khona komuntu. Lolu hlelo lwaphezulu kuhlanganisa ngisho nemininingwane emincane, efana ne-'Karma I-Visarga'-isigaba seKarma sibe izingxenye ezincane. Nge-karma UVisarga, uNkulunkulu unquma ukuthi umuntu kangaki umuntu kufanele Vula futhi uvale izinkophe zabo, uqinisekise ukubalwa okuqondile. UNkulunkulu futhi ibeka inani lezinwele emakhanda ethu nalapho futhi Izinwele kufanele ziphume, zonke ngeKarma-Visarga. Ngokwengeziwe, UNkulunkulu uhlobisa izinselelo abantu ababhekana nazo kanye naku ubukhulu bokuhlupheka kwabo. EBhagavad-Gita, INkosi Iyaqinisekisa Ukuthi uNkulunkulu unolwazi ngakho konke okwenzekile, kuyenzeka, futhi ngeke kwenzeke emhlabeni. Lokhu kuqinisa i- umbono wokuthi thakukho lutho olungaphezu kokuqwashisa ngoNkulunkulu.
 </div></div>
 
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 28,
-verse: ` <b>(27) The Gospel of Mathew, 10th chapter, 34th, 35th and 36th verses.</b>`,
+verse: ` <b>(27) IVangeli likaMathewu, Isahluko 10, 34th, Amavesi angama-35 nama-36th.</b>`,
 meaning: `<b>
-(34) Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.
+(10:34) Ungasho ukuthi sengize ukuletha ukuthula emhlabeni. Angizelanga ukuzoletha ukuthula, kepha a inkemba.
 <br><br>
-(35) For I have come to turn “‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.
+(10:35) Ngoba ngizele "umuntu ngokumelene naye Ubaba, indodakazi emelene nonina, indodakazi Umthetho ngokumelene noninazala wakhe.
 <br><br>
-(36) A man’s enemies will be the members of his own household.
+(10:36) Izitha zomuntu kuzoba amalungu akhe Ungumnikazi wendlu.
 </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  While it may not be fair to say that Jesus intentionally aimed to create conflicts among humans, it’s evident that such conflicts have arisen. Jesus came with the intention of leading people from ignorance to wisdom rather than sowing discord. He shared his wisdom with good intentions, but it often led to disputes among those who didn’t fully comprehend His teachings. Much like how cold water sprayed on sand cools it, while limestones become warm, altering their appearance, and turning into lime, the reception of Jesus’ wisdom varies. Those with a deep understanding of wisdom find happiness in Jesus’ teachings, while conflicts arise among the ignorant. In some cases, when one spouse seeks wisdom, the other may disagree, leading to disagreement within families. This unexpected consequence can lead to divisions within households, where fathers may turn against sons, mothers against daughters, and mothers-in-law against daughters-in-law. Though Jesus’ intentions are noble, they inadvertently lead to humans forgetting their kinship and fostering enmity. That is why if Jesus gives a flower, it turns into a thorn. If He gives bendable wood, it becomes a sturdy sword. It’s important to note that this outcome is not Jesus’ fault, but rather the result of human nature and the influence of different gunas.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Ngenkathi kungenzeka kungabi kuhle ukusho ukuthi uJesu ngamabomu kuhloswe ukudala izingxabano phakathi kwabantu, kusobala ukuthi lokho Izingxabano zivelile. UJesu weza ngenhloso yokuhola abantu abavela ngokungazi ukuhlakanipha kunokuhlwanyela. Wabelana ngokuhlakanipha kwakhe ngezinhloso ezinhle, kepha kuvame ukuholela Izingxabano phakathi kwalabo abangayiqondanga ngokuphelele izimfundiso. Kufana nokuthi amanzi abandayo afafazwa kanjani esihlabathini kuyapholisa, Ngenkathi amamitha arestones afudumele, aguqula ukubukeka kwawo, futhi Ukuphenduka ku-lime, ukwamukelwa kokuhlakanipha kukaJesu kuyahluka. Lezo Ngokuqonda okujulile kokuhlakanipha thola injabulo kuJesu ' Izimfundiso, ngenkathi zivela izingxabano phakathi kwabangenayo. Kwezinye amacala, lapho oshade naye efuna ukuhlakanipha, omunye ngoMeyi Ukungavumelani, okuholela ekungangeni kokungavumelani emindenini. Leli Umphumela ongalindelekile ungaholela ekwahlukanisweni ngaphakathi amakhaya, lapho obaba bangaphendukela khona amadodana, omama ngokumelene namadodakazi, kanye nonyoko kumadodakazi - phakathi Umthetho. Yize izinhloso zikaJesu zinhle, zihola ngokungafanele Kubantu bakhohlwa ubuhlobo babo nokukhuthaza ubutha. Leyo Kungani u-Jesu enikeza imbali, iphenduka amubi. Uma enika Izinkuni ezigoqiwe, ziba inkemba eqinile. Kubalulekile Qaphela ukuthi lo mphumela akuyona iphutha likaJesu, kodwa kunalokho umphumela yemvelo yomuntu kanye nethonya lama-gunas ahlukile.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 29,
-verse: `<b>(28)	The Gospel of Mathew, 10th chapter, 37th verse.</b>`,
+verse: `<b>(28)	IVangeli likaMathewu, Isahluko 10, 37 isiqendu.</b>`,
 meaning: `<b>
-(37) Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.
+(10:37) Noma ngubani othanda uyise noma umama wake waba ngaphezulu kunami ukungangifanele; noma ngubani othanda indodana noma indodakazi engaphezu kwami ayingifanele.
 </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It is a fundamental aspect of human nature for parents to love their children, just as it is natural for children to love their parents. The bond between parents and their offspring is often characterized by profound love, surpassing any other attachment in the world. However, the human mind is also significantly influenced by its inherent qualities, known as gunas. When a person harbors an <b>intense love for wisdom and God,</b> they naturally gravitate towards the pursuit of wisdom rather than material or worldly things. It becomes challenging to prioritize wisdom when one’s affection is primarily directed elsewhere. The human mind operates under the influence of six good and bad gunas, akin to shackles made of gold and iron, respectively. Both types of gunas serve the purpose of binding an individual. However, it’s important to note that neither extreme love (a good guna) nor jealousy (a bad guna) leads a person toward wisdom. What truly matters is the individual’s genuine interest in wisdom. The six bad gunas include greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). In contrast, the six good gunas encompass charity (dana), mercy (daya), benevolence (audarya), dispassion (vairagya), humbleness (vinaya), and love (prema).
-</div></div>
+<div class="poem"><div class="poemtext">
+  Kuyisisekelo esiyisisekelo semvelo yomuntu kubazali ukuthanda izingane zabo, njengoba kungokwemvelo izingane ukuba zithande abazali babo. Isibopho phakathi kwabazali nenzalo yabo kuvame ukuvezwa uthando olujulile, kudlula noma yikuphi okunye okunamathiselwe emhlabeni. Kodwa-ke, ingqondo yomuntu nayo ethonywe kakhulu yizimpawu zayo ezenzeka, ezaziwa ngokuthi gunas. Lapho umuntu ecwebezela <strong>uthando olukhulu ngokuhlakanipha Futhi uNkulunkulu</strong>, banamandla ngokwemvelo babheke ekuphishekeleni ukuhlakanipha kunokuba izinto ezibonakalayo noma zezwe. Iba kuyinselele ukubeka phambili ukuhlakanipha lapho uthando lomuntu lukhona ngokuyinhloko kuqondiswe kwenye indawo. Ingqondo yomuntu iyasebenza ngaphansi Ithonya lama-gunas ayisithupha amabi, afana nemijondolo eyenziwe yegolide nensimbi, ngokulandelana. Zombili lezi zinhlobo zeGunAs zisebenza inhloso yokubopha umuntu. Kodwa-ke, kubalulekile Qaphela ukuthi uthando oludlulele (i-guna enhle) noma umhawu (abakwaDala Guna) bahola umuntu ekuhlakanipheni. Okubaluleke Ngempela yintshisekelo yomuntu yangempela ekuhlakanipheni. Abayisithupha babi gunas ifaka ukuhaha (KAAMA), intukuthelo (Krodha), i-Avarice (Lobhe), I-Passion (Moha), ukuzikhukhumeza (Madam), kanye nomhawu (Matsara). Phakathi kwa-Qhathanisa, ama-gunas amahle ayisithupha ahlanganisa isisa (Dana), isihe (Daya), I-benevolence (audarya), Dispassion (Vairagya), ukuthobeka (vinaya), nothando (Prema).</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 30,
-verse: `<b>(29)	The Gospel of Mathew, 10th chapter, 38th verse.</b>`,
+verse: `<b>(29)	IVangeli likaMathewu, Isahluko 10, 38th isiqendu.</b>`,
 meaning: `<b>
-(38) Whoever does not take up their cross and follows me is not worthy of me.
+(10:38) Noma ngubani ongathathi isiphambano sawo futhi ngilandela angingifanele.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Christians often speak of and hold deep reverence for the cross. It’s common to see Christians wearing a cross around their necks, and this symbol holds great importance in their faith. It’s widely known that Jesus was crucified and died on the cross. The question that arises is why Christians hold in such high regard a symbol that was used as an instrument of Jesus’ execution. The answer lies in the profound nature of following someone greater than themselves and emulating their actions. However, no one has contemplated why the cross, a symbol associated with the Lord’s death, should be held in such high regard. Indeed, whether intentionally or unintentionally, there seems to be a gap in understanding the details of the cross. Let’s take a moment to contemplate the cross and delve into deeper details.
+<div class="poem"><div class="poemtext">
+  AmaKhristu ajwayele ukukhuluma futhi abambe inhlonipho ejulile Isiphambano. Kujwayelekile ukubona amaKristu agqoke isiphambano nxazonke izintamo zabo, futhi lolu phawu luba lubaluleke kakhulu kubo Ukukholwa. Kuyaziwa kabanzi ukuthi uJesu wabethelwa esiphambanweni futhi washona ku Isiphambano. Umbuzo ovela yikho amaKristu ebambelele kulokhu Bheka uphawu olusetshenziswa njengethuluzi likaJesu ' Ukubulawa. Impendulo ilele esimweni esijulile sokulandela umuntu omkhulu kunabo futhi enze izenzo zabo. Kodwa-ke, akekho umuntu ocabanga ukuthi kungani isiphambano, uphawu ezihambisana nokufa kweNkosi, kufanele ibanjelwe phezulu ukubheka. Ngempela, kungaba ngamabomu noma ngokungazi, lapho Kubukeka sengathi kuyigebe ekuqondeni imininingwane yesiphambano. Ake sithathe isikhashana ukucabanga ngesiphambano futhi sazi Imininingwane ejulile.
 
-  In the verse, Jesus warned that <b>taking up the cross leads one to walk in God’s path, while if the cross picks you up, it means walking in Satan’s way.</b> A similar message is conveyed when Jesus said, “Whoever does not take up the cross and follow me is not worthy of me.” This implies that those who do not bear the cross are not worthy of God. It is important to understand that, according to this perspective, the cross symbolizes Satan. For a more detailed exploration of this concept, please consider reading my book, “Is the Cross God?”
+  Evesini, uJesu waxwayisa ngokuthi <strong>ukuthatha isiphambano uhola umuntu ukuba ahambe ngendlela kaNkulunkulu, kuyilapho isiphambano sikukhetha phezulu, kusho ukuhamba ngendlela kaSathane</strong>. Umlayezo ofanayo kudluliswa lapho uJesu ethi, "Noma ngubani ongathathi Isiphambano ungilandele angingifanele. " Lokhu kusho lokho Labo abangathwali isiphambano abamfanele uNkulunkulu. Ikona kubalulekile ukukuqonda lokho, ngokusho kwalombono, Isiphambano sifanekisela uSathane. Ukuhlola okuningiliziwe kwe Lo mqondo, sicela ucabangele ukufunda incwadi yami, "yisiphambano unkulunkulu?
 
-  The cross represents the serpent in spiritual symbolism. It’s common to draw parallels between the serpent and Satan, and the dove with Atma. Satan, or Maya, resides within the human body and often leads individuals down the path of ignorance. When Satan lifts a person, it signifies the person’s weakness and Satan’s dominance. On the other hand, when a person carries the cross, it indicates that the individual’s strength surpasses that of Satan. This is why Jesus, at certain points in His life, carried the cross to demonstrate that humanity can conquer Satan. Likewise, when Jesus was crucified on the cross, it symbolized the cross bearing Him, signifying that Satan can lure anyone onto its path. To walk the path of wisdom, humans must be willing to carry their own cross, as Jesus emphasized in the verse, “Whoever does not take up their cross and follow me is not worthy of me.”
+  Isiphambano simelela inyoka ezifanekisweni ezingokomoya. Kuvamile ukudweba ukufana phakathi kwenyoka noSathane, nejuba nge-atma. USathane, noma uMaya, resokodonga ngaphakathi kwe umzimba womuntu futhi uvame ukuholela abantu phansi indlela ye ukungazi. Lapho uSathane ephakamisa umuntu, kusho umuntu ubuthakathaka kanye nokubusa kukaSathane. Ngakolunye uhlangothi, lapho a umuntu uphethe isiphambano, kukhombisa ukuthi umuntu ngamunye amandla adlula ekaSathane. Yingakho uJesu, nakanjani amaphuzu empilweni yakhe, ephethe isiphambano ukukhombisa lokho Ubuntu bunganqoba uSathane. Ngokufanayo, lapho uJesu ekhona Kubethelwe esiphambanweni, kwabonisa isiphambano ukumthwalela, Ukubonisa ukuthi uSathane angaheha noma ngubani endleleni yawo. Ukuhamba indlela yokuhlakanipha, abantu kumele bazimisele ukuthwala okwabo Isiphambano, njengoba uJesu agcizelelwa evesini, "Noma ngubani ongasho lutho Thatha isiphambano sabo ungilandele angingifanele.
 
-  We symbolize Satan in the form of a cross, which represents a colossal snake or serpent, akin to the concept of Maya. Maya has the power to lead individuals astray from the path to God and towards ignorance. To overcome such influence, we must first understand Maya. Upon analysis, Maya can be identified as the cluster of gunas within a person’s head. Anyone who aligns their actions with these gunas inadvertently follows the path of ignorance, essentially allowing Maya to control their course. To conquer Maya, one must gain mastery over the gunas, refusing to be swayed by their influence. When a person achieves this, it can be said that they have defeated Maya, or Satan, using their inner strength. Such a person can pick up Maya and walk the path of wisdom. Therefore, Jesus’ message in the verse emphasizes that by conquering the ‘cross’ —representative of Maya—one becomes worthy of God’s grace. It’s important to note that the ‘cross’ isn’t merely a wooden symbol but rather a representation of the python, a symbol of Satan. According to the elders, the cross symbolizes Maya, while the bird stands as a symbol of Atma. During Jesus’ baptism by John, it was said that the Spirit (Atma) descended like a dove and entered Jesus’ body. In this context, the ‘cross’ represents the opposing force to Atma. Therefore, Jesus’ teaching underscores that when a person, utilizing their wisdom and inner strength, carries the ‘cross’ and walks the path of wisdom, they become worthy of God and paraloka.
-</div></div>
+  Sifanekisela uSathane ngesimo sesiphambano, okuyinto imele inyoka enkulu noma inyoka, emuncy emcabangweni we Maya. UMaya unamandla okuholela abantu abathile baduka ku indlela eya kuNkulunkulu nasekungazini. Ukunqoba okunjalo Ithonya, kufanele siqale siqonde Maya. Lapho kuhlaziya, maya ingakhonjwa njengeqoqo lama-gunas ngaphakathi kwekhanda lomuntu. Noma ngubani ovumelanisa nezenzo zawo ngalezi zibhamu zingahlosile landela indlela yokungazi, empeleni evumela iMaya ukuba lawula isifundo sabo. Ukunqoba iMaya, umuntu kufanele athole kahle ngaphezulu kwe-gunas, yenqaba ukudonswa yithonya labo. Nini Umuntu ufinyelela lokhu, kungashiwo ukuthi bahlule UMaya, noma uSathane, esebenzisa amandla abo angaphakathi. Umuntu onjalo angakwazi Thatha iMaya bese uhamba indlela yokuhlakanipha. Ngakho-ke, uJesu ' Umlayezo evesini ugcizelela lokho ngokunqoba 'Cross'-omelele uMaya - umuntu uyabafanele uNkulunkulu UGrace. Kubalulekile ukuqaphela ukuthi 'isiphambano' akuyona nje uphawu lokhuni kodwa kunalokho ukumelwa kwePython, iphawu lukaSathane. Ngokusho kwabadala, isiphambano sifanekisela UMaya, ngenkathi inyoni imi njengophawu lwe-atma. Ngesikhathi sikaJesu ' Ubhapathizo nguJohane, kwathiwa umoya (atma) wehla njengejuba futhi ungene emzimbeni kaJesu. Kulesi simo, 'isiphambano' imele amandla aphikisayo ku-atma. Ngakho-ke, uJesu ' ukufundisa kugcizelela ukuthi lapho umuntu, esebenzisa ukuhlakanipha namandla angaphakathi, kuthwala 'isiphambano' futhi uhambe Indlela yokuhlakanipha, baba okufanele uNkulunkulu abe yi-Paraloka.</div></div>
 
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 31,
-verse: `<b>(30)	The Gospel of Mathew, 10th chapter, 40th verse.</b>`,
+verse: `<b>(30)	IVangeli likaMathewu, Isahluko 10, 40 isiqendu.</b>`,
 meaning: ` <b>
-(40) Anyone who receives you receives me, and anyone who receives me receives the one who sent me. </b>`,
+(10:40) Noma ngubani otholile uyamukela, futhi noma ngubani ongemukelayo ethola lowo othunyelwe mina. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-  While human beings are Jeevatmas, they are created by Atma. Paramatma, or the Holy Spirit, created both Atma and Prakruti. However, when Paramatma incarnates as a man, the question arises whether to refer to Him as Atma or Jeevatma. If God takes human form, He can be considered a Jeevatma based on His appearance. When human beings (Jeevatmas) pass away, Atma incorporates them into itself. Just as Atma encompasses human beings, it also includes God when He incarnates as a man and appears as a Jeevatma. This concept is echoed in the verse, <b>“Whoever receives you also receives me.”</b> The one who incarnated as a human being (Jeevatma) is, in reality, God. However, it is God who sent the man, such as Jesus. When Atma encompasses a man resembling a Jeevatma, it’s as if God, the sender of the man, is also included within Atma. Hence, in the verse, Jesus conveyed, <b>“The one who receives me receives the one who sent me.”</b>
-</div></div>
+  Ngenkathi abantu beJeevatmas, badalwa Atma. UParamatma, noma uMoya oNgcwele, wadala zombili i-Atma futhi Prakruti. Kodwa-ke, lapho i-paramatma ifakazela njengendoda, umbuzo uphakama ukuthi ubhekise kuye njenge-atma noma i-jeevatma. Uma uNkulunkulu ethatha isimo somuntu, angabhekwa njengeJeevatma kususelwa ekubukekeni kwakhe. Lapho abantu (jeevatmas) dlula, ku-Atma uwahlanganisa kubo uqobo. Njengoba nje ku-atma kubandakanya abantu, futhi kubandakanya uNkulunkulu lapho yena Ibabaza njengendoda futhi ivela njenge-jeevatma. Lo mqondo kubhalwe evesini, <strong>"Noma ngubani owamukela ethola mina. "</strong> Lowo owawugada njengomuntu ongumuntu (Jeevatma) uwukuthi, Eqinisweni, uNkulunkulu. Kodwa-ke, nguNkulunkulu owathumela le ndoda, efana UJesu. Lapho i-ATMA ihlanganisa indoda efana ne-jeevatma, Kunjengokungathi uNkulunkulu, umthumeli wendoda, ufakiwe ngaphakathi Atma. Ngakho-ke, evesini, uJesu wadlulisela, <strong>"Lowo o ngithola mina ngithola lowo ongithumileyo. "</strong></div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 32,
-verse: `<b>(31)	The Gospel of Mathew, 11th chapter, 9th verse.</b>`,
+verse: `<b>(31)	IVangeli likaMathewu, Isahluko 11, 9th isiqendu.</b>`,
 meaning: ` <b>
-(9) What did you go out to see? A prophet? Yes, I tell you, and (I am) more than a prophet.</b>`,
+(11:9) Uphume wabonani? Umprofethi? Yebo, ngiyasho Wena, futhi (ngikhona) ngaphezu komprofethi..</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It can be said that a prophet (pravaktha) is one who teaches knowledge that no one has told. In Telugu, <b>‘Pra’</b> denotes importance, and <b>‘Vaktha’</b> means the one who speaks. A prophet is thus someone who imparts essential wisdom. However, Jesus proclaimed that He is more than a prophet. There is only one individual surpassing a prophet, revealing wisdom beyond the capacity of prophets. The divine scripture asserts, <b>“God did not impart His wisdom to any human being. God’s wisdom remains unknown to all except God.”</b> In the final divine scripture, it is stated in verse 3:7 that God must convey His wisdom. Based on this, it is understood that although God comes as a prophet to share wisdom, He is more than a prophet. The last divine scripture, in 42:51, declares, <b>“God does not communicate directly with humans.”</b> However, God can manifest as a disguised man and convey His message. Whenever God takes on human form, even if referred to as a prophet, He is more than a prophet. In light of Jesus’ statement in this verse, it becomes evident that Jesus surpasses prophets and represents an incarnation of God. Despite Jesus openly declaring his identity on multiple occasions, many failed to recognize Him.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Kungashiwo ukuthi umprofethi (Pravaktha) ungomunye fundisa ulwazi olungatshelwa muntu. Phakathi kwa Telugu, '<strong>Pra'</strong>des ukubaluleka, futhi '<strong>vaktha' </strong>kusho lowo okhulumayo. Ngakho-ke umprofethi othile ungumuntu ofaka okubalulekile Ukuhlakanipha. Kodwa-ke, uJesu wamemezela ukuthi ungaphezu kwe umprofethi. Munye kuphela odlula umprofethi kuphela, kwembula ukuhlakanipha ngaphesheya kwamandla wabaprofethi. I-Divine imibhalo isho, <strong>"UNkulunkulu akazange anikeze ukuhlakanipha kwakhe kunoma yimuphi umuntu. Ukuhlakanipha kukaNkulunkulu kuhlala kungaziwa konke ngaphandle kukaNkulunkulu. " </strong>Ku Umbhalo wokugcina waphezulu, kushiwo evesini 3: 7 ukuthi uNkulunkulu kufanele dlulisa ukuhlakanipha kwakhe. Ngokusekelwe kulokhu, kuyaqondakala ukuthi Yize uNkulunkulu eza njengomprofethi ukuze ahlanganyele ukuhlakanipha, uphakeme kunomprofethi. Umbhalo wokugcina waphezulu, ngo-42: 51, umemezele<strong>, "uNkulunkulu akakhulumi ngqo Abantu. "</strong>Kodwa-ke, uNkulunkulu angabonakalisa njengendoda efihliwe futhi dlulisa umyalezo wakhe. Noma nini lapho uNkulunkulu ethatha isimo somuntu, Noma ngabe kubizwa ngokuthi ngumprofethi, ungaphezu komprofethi. Phakathi kwa- ukukhanya kwesitatimende sikaJesu kuleli vesi, kuba sobala ukuthi UJesu wedlula abaprofethi futhi umele ukubonwa kwe UNkulunkulu. Naphezu kokumemezela obala ukuthi ungubani Izikhathi, abaningi bahlulekile ukumbona.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 33,
-verse: `<b>(32)	The Gospel of Mathew, 11th chapter, 28th verse.</b>`,
+verse: `<b>(32)	IVangeli likaMathewu, Isahluko 11, 28 isiqendu. </b>`,
 meaning: ` <b>
-(28) Come to me, all you who are weary and burdened, and I will give you rest. </b>`,
+(11:28) Wozani kimi, nina nonke enikhathele futhi Sisindwa, futhi ngizokunika ukuphumula. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It’s a common understanding that people get weary when carrying physical weight. However, humans also experience weariness without even bearing any visible burden. The invisible burden, in this case, is sin (karma), and everyone who undergoes karmic experiences tends to feel weary. Humans continually encounter karma, except during sleep when they are temporarily free from it. Even in dreams, the influence of karma persists, signifying a constant state of labor. Considering the perpetual nature of this burden, Jesus extends an invitation to all, saying, <b>“Come to me. I will give you rest.”</b>
+<div class="poem"><div class="poemtext">
+  Kuyindlela evamile yokuthi abantu abakhathele lapho uphethe isisindo somzimba. Kodwa-ke, Humans futhi ukuzwa ukukhathala ngaphandle kokunikeza noma yimuphi umthwalo obonakalayo. Umthwalo ongabonakali, kulokhu, yisono (karma), nawo wonke umuntu Ngubani owenza okuhlangenwe nakho kwaKarmic kuvame ukuzizwa ediniwe. Abantu bahlala njalo behlangana noKarma, ngaphandle kokulala lapho bekhululekile okwesikhashana kuyo. Ngisho nasemaphusheni, Ithonya leKarma Phepha, libonisa isimo sokusebenza njalo. Uma kucatshangelwa uhlobo olungapheli lwalo mthwalo, uJesu uyanzuzo Isimemo kubo bonke, esithi, <strong>"Woza kimi. Ngizonikela ukuphumula. "</strong>
 
-  The question arises: How do we find rest when turning to Jesus, given that we consistently experience karma? The answer is as follows: When Jesus imparts divine wisdom to those who seek Him, the karma of all those acquainted with this wisdom is consumed in the wisdom power. Through the destruction of karma, individuals are liberated from its continuous impact, reducing the toil of suffering, and providing rest. This invitation is extended to people of all castes and religions, as evidenced by Jesus saying, <b>“All come to me.”</b> Some may refer to Jesus as a Christian Guru or prophet. However, labeling Him solely as Christian would be inaccurate, as His call is inclusive, inviting people of all backgrounds. Those who embraced His teachings and sought Him should not be confined to the label of Christians. Since God and divine wisdom are universally necessary, Jesus extends His invitation to all, as He declared, <b>“All come to me.”</b>
+  Umbuzo uphakama: Sikuthola kanjani ukuphumula lapho kuguquka KuJesu, unikezwe ukuthi njalo sithola ikarma? Le khasi Impendulo imi ngalendlela elandelayo: Lapho uJesu enikeza ukuhlakanipha kwaphezulu labo abamfuna, iKarma yabo bonke ababejwayelene nayo Lokhu kuhlakanipha kudliwa ngamandla okuhlakanipha. Ngokusebenzisa Ukubhujiswa kweKarma, abantu bakhululwa ngenxa yayo umthelela oqhubekayo, ukunciphisa ukubulawa kokuhlupheka, nokuhlinzeka phumula. Lesi simemo sinwetshwa kubantu bazo zonke izinkawu futhi Izinkolo, njengoba kufakazelwa uJesu zithi, <strong>"Bonke beza ku mina. " </strong>Abanye bangabhekisela kuJesu njenge-guru noma umprofethi ongumKristu. Kodwa-ke, umbhalela ukumfaka kuphela njengomKristu kungaba okungalungile, Njengoba ucingo lwakhe lubandakanya, ukumema abantu bazo zonke izizinda. Lezo owamukela izimfundiso zakhe wamfuna eboshelwe elebula lamaKristu. Njengoba uNkulunkulu noNkulunkulu Ukuhlakanipha kuyadingeka emhlabeni wonke, uJesu welula isimemo sakhe Kubo bonke, njengoba amemezele, <strong>"Nonke hozani kumina."</strong>
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 34,
-verse: ` <b>(33)	The Gospel of Mathew, 12th chapter, 17th,18th,19th, 20th and 21st verses.</b>`,
+verse: ` <b>(33)	IVangeli likaMathewu, Isahluko 12, 17th, 18, 19, 19th amavesi angama-20 nengama-21.</b>`,
 meaning: ` <b>
-(17) This was to fulfill what was spoken through the prophet Isaiah.
+(12:17) Lokhu bekungukufeza lokho okwakhulunywa ngayo umprofethi u-Isaya.
 <br><br>
-(18) Here is my servant whom I have chosen, the one I love, in whom I delight; I will put my Spirit on him.
+(12:18) Nansi inceku yami engiyikhethile, Engikuthandayo, engijabulisa engijabulisa ngakho; Ngizofaka umoya wami yena.
 <br><br>
-(19) He will proclaim justice (wisdom) to the nations; He will not quarrel or cry out; no one will hear his voice in the streets.
+(12: 19) Uzomemezela ubulungiswa (ukuhlakanipha) ku izizwe; Ngeke axabane noma amemeze; akekho ozozwa izwi lakhe emigwaqweni.
 <br><br>
-(20) A bruised reed he will not break, and a smoldering wick he will not snuff out, till he has brought justice (wisdom) through to victory.
+(12:20) Umhlanga olimele ungeke aphule, futhi u-wick oshayayo ngeke aphume, aze aze ukuletha ubulungiswa (ukuhlakanipha) kuya ekunqobeni.
 <br><br>
-(21) In his name the nations will put their hope. </b>`,
+(12:21) Ngegama lakhe izizwe zizobeka ithemba lazo. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  About 350 years ago, a great man named Veerabrahmam foretold the events and natural disasters that were about to take place. Similarly, a great man named Isaiah foretold the coming of Jesus. If we examine Isaiah’s words in detail, the greatness in his words will become known to all. It became clear who Isaiah was talking about. Isaiah lived many years before Jesus was born. In the 13th chapter, Isaiah conveyed a few more things. Looking at these verses, it becomes evident that God, the Holy Spirit, spoke of Jesus. Examining the verses where Jesus spoke about Himself in the scripture and the verses where the Holy Spirit talked about Jesus, it becomes apparent that the one who spoke about Jesus (the Holy Spirit) and Jesus are the same.
+<div class="poem"><div class="poemtext">
+  Cishe eminyakeni engama-350 edlule, indoda enkulu egama lingu UVeerabrahmam wabikezela izehlakalo nezinhlekelele zemvelo lokho base bezokwenzeka. Ngokufanayo, indoda enkulu egama lingu-Isaya kwabikezela ukuza kukaJesu. Uma sihlola amazwi ka-Isaya ngaphakathi Imininingwane, ubukhulu emazwini akhe bazokwaziwa yibo bonke. Yona Kwacaca ukuthi u-Isaya akhuluma ngabani. U-Isaya waphila abaningi iminyaka ngaphambi kokuba uJesu azalwe. Esahlukweni 13, u-Isaya udlulisele izinto ezimbalwa. Uma ubheka la mavesi, Uba sobala ukuthi uNkulunkulu, uMoya oNgcwele, wakhuluma ngoJesu. Ukuhlola amavesi lapho uJesu ayekhuluma ngayo ngaye Umbhalo namavesi lapho umoya ongcwele ukhulume khona UJesu, kuyabonakala ukuthi lowo owakhuluma ngoJesu (Umoya ongcwele) noJesu bayefana.
 
-  In the first verse, it is stated, <b>“Here is my servant.”</b> There are various forms of materialistic service, but this verse does not refer to materialistic service. Instead, it speaks about the service of Paramatma. There is only one form of Paramatma’s service, and the genuine <b>Paramatma’s service involves preaching and spreading God’s wisdom to others.</b> Because Jesus was actively spreading God’s wisdom, the Holy Spirit declared, “Here is my servant.” Anyone who propagates God’s wisdom becomes the <b>most favored by God.</b> Therefore, Paramatma expressed love for Jesus, saying, <b>“I love him and am delighted in him.”</b> This sentiment is articulated in <b>15:28, 29, and 30 of the final divine scripture,</b> where it is described that the Holy Spirit creates a human being from clay and breathes His soul (the Holy Spirit’s soul) into them. Subsequently, angels recognize the human being as God and prostrate before Him. Therefore, in accordance with Isaiah’s words, “The Holy Spirit will put His spirit upon Him,” it becomes evident that Jesus, in human incarnation, is the soul of Paramatma.
+  Phakathi kwa-Ivesi lokuqala, lishiwo, "<strong>Nansi eyami inceku. "</strong> Kunezindlela ezahlukahlukene zensiza yokuthanda izinto ezibonakalayo, kepha Leli vesi alibhekiseli kwinkonzo yokuthanda izinto ezibonakalayo. Esikhundleni salokho, it Ikhuluma ngensizakalo yeParamatma. Kunefomu elilodwa kuphela yenkonzo kaParamatma, kanye ne-<strong>paramatma yangempela Inkonzo ifaka ukushumayela nokusakaza ukuhlakanipha kukaNkulunkulu kuyo abanye</strong>. Ngenxa yokuthi uJesu wayesakaza ngokuhlakanipha ukuhlakanipha kukaNkulunkulu ngenkuthalo, uMoya oNgcwele wamemezela, "Nansi inceku yami." Noma ngubani Kusakaza ukuhlakanipha kukaNkulunkulu <strong>kuba ngcono kakhulu uNkulunkulu.</strong> Ngakho-ke, uParamatma waveza uthando ngoJesu, ethi, <strong>"Ngiyamthanda yena futhi ngiyajabula nguye. " </strong>Lokhu kuzwakala kuchaziwe ngo-<strong>15:28, 29, no-30 embhalweni wokugcina waphezulu</strong>, lapho kukhona kuchaze ukuthi uMoya oNgcwele udala umuntu ngobumba Futhi uphefumulela umphefumulo wakhe (umphefumulo womoya ongcwele) ungene kubo. Kamuva, izingelosi zibona umuntu njengoNkulunkulu futhi gcoma phambi kwakhe. Ngakho-ke, ngokuya ngo-Isaya Amagama athi, "UMoya oNgcwele uyokubeka umoya wakhe phezu kwakhe," kuba kusobala ukuthi uJesu, ekucabangeni komuntu, umphefumulo we Paramatma.
 
-  The 19th verse states, “He will proclaim justice to the nations.” It appears that the translators of the Bible into English may have used an inaccurate term. It is supposed to be written as <b>“wisdom”</b> instead of <b>“justice.”</b> Justice is more closely linked to the material world, and therefore, it might not be the most suitable term. While <b>righteousness and justice pertain to worldly matters, wisdom and dharma are associated with Paramatma.</b> The use of “righteousness” and “justice” instead of “wisdom” appears to be a translation error. Numerous such errors were identified, revised, and corrected.
+  Ivesi le-19 lithi, "uzomemezela ubulungiswa ku izizwe. " Kubonakala sengathi abahumushi beBhayibheli besiNgisi kungenzeka usebenzise igama elinganembile. Kufanele ibhalwe <strong>'njengokuhlakanipha' </strong>esikhundleni <strong>'sobulungiswa.' </strong>Ubulungiswa buxhumene kakhulu ezweni lezinto ezibonakalayo, ngakho-ke, kungenzeka kube okungcono kakhulu Ithemu elifanele. Ngenkathi <strong>ukulunga nobulungiswa kuphathelene Izindaba zezwe, ukuhlakanipha ne-Dharma kuhlotshaniswa ne Paramatma</strong>. Ukusetshenziswa "kokulunga" kanye "nobulungiswa" esikhundleni salokho ka "ukuhlakanipha" kubonakala kuyiphutha lokuhumusha. Okuningi okunjalo Kuhlonziwe amaphutha, abukeziwe, futhi alungiswa.
 
-  The 19th verse states, “He will proclaim justice to the nations.” Here, “proclaim” means to preach or teach. The verse could be better understood as, <b>“He will spread wisdom to the nations.”</b> This amendment aligns with the fact that, after living for 30 years, Jesus taught His wisdom for about two years and three months, as indicated by this verse. During this time, Jesus unselfishly preached his wisdom in various places, curing many people with different kinds of diseases. He restored sight to the blind, enabled the lame to walk, healed leprosy patients, and even raised the dead. Despite His miraculous actions, some accused Jesus of being a wizard and blamed Him for acting against God. Nevertheless, Jesus did not engage in quarrels or screams, as affirmed by the statement, <b>“He will not quarrel or cry out.”</b>
+  Ivesi le-19 lithi, "uzomemezela ubulungiswa ku izizwe. " Lapha, "ukumemezela" kusho ukushumayela noma ukufundisa. Ivesi kungaqondwa kangcono njengoba, <strong>"uzokusakaza ukuhlakanipha ku izizwe. " </strong>Lokhu kuchitshiyelwa kuqondanisa neqiniso lokuthi, ngemuva Ukuphila iminyaka engama-30, uJesu wafundisa ukuhlakanipha kwakhe cishe iminyaka emibili nezinyanga ezintathu, njengoba kuboniswe yileli vesi. Ngalesi sikhathi, UJesu wakushumayela ngokungenabugovu ngokuhlakanipha kwakhe ezindaweni ezahlukahlukene, elapha abantu abaningi abanayo izinhlobo ezahlukene zezifo. Wabuyisela ukubona ezimpumputhe, kwanika amandla izinyonga ukuba zihambe, zaphulukisa iziguli ezichoko. waze wavusa abafileyo. Naphezu kwezenzo zakhe eziyisimangaliso, Abanye basola uJesu ngokuba ngumthakathi futhi basola ngaye ukwenza uNkulunkulu. Noma kunjalo, uJesu akazange azibandane ukuxabana noma ukukhala, njengoba kuhloswe ngesitatimende, <strong>"uzokwazi hhayi ukuxabana noma ukukhala. "</strong>
 
-  Jesus conveyed his wisdom to those who approached Him, yet he refrained from shouting in the streets, as indicated in the verse, <b>“no one will hear His voice in the streets.”</b> The verse also emphasizes that He will not break a bruised reed, underscoring that His actions were solely focused on spreading wisdom. Additionally, the verse highlights Jesus’s role in ensuring that the power of wisdom, once ignited in a person, remains unextinguished until it burns away all the karma associated with that individual. Since karma comes in various forms, it is likened to a wick composed of many strands, explaining the phrase, <b>“He will not snuff out a smoldering wick.”</b> Furthermore, the verse expresses the anticipation of some for Jesus’s wisdom, stating, <b>“In His name, the nations will put their hope.”</b>
-</div></div>
+  UJesu wadlulisela ukuhlakanipha kwakhe kulabo abasondela kuye Yena, nokho wenqabile ukumemeza emigwaqweni, njengoba kukhonjisiwe Evesini, <strong>"Akekho oyokuzwa izwi lakhe emigwaqweni." </strong>Le khasi Ivesi ligcizelela futhi ukuthi ngeke aphule umhlanga olimele, ukugcizelela ukuthi izenzo zakhe zazigxile kakhulu ekusakazeni Ukuhlakanipha. Ngaphezu kwalokho, leli vesi liqokomisa iqhaza likaJesu Ukuqinisekisa ukuthi amandla okuhlakanipha, wake wanikwa kumuntu, ihlala ibuyekezwa kuze kube yilapho ishisa yonke ikarma ezihambisana nalowo muntu. Njengoba uKarma eza ezahlukene amafomu, afaniswa nentambo eyakhiwe ngemicu eminingi, Ukuchaza ibinzana, <strong>"ngeke akhiphe ukumamatheka I-Wick. " </strong>Ngaphezu kwalokho, leli vesi libonisa ukulindelwa kwe abanye ngobuhlakani bukaJesu, besho, <strong>"egameni lakhe, izizwe uzobeka ithemba labo. "</strong></div></div>
 
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 35,
-verse: `<b>(34)	The Gospel of Mathew, 12th chapter, 31st verse.</b>`,
+verse: `<b>(34)	IVangeli likaMathewu, Isahluko 12, 31st isiqendu.</b>`,
 meaning: `<b>
-(31) So, I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit (Atma) will not be forgiven.    </b>`,
+(12:31) Ngakho-ke, ngithi kuwe, zonke izinhlobo zesono nokunyundela kungakwazi Uxolelwe, kepha ukuhlambalaza umoya (Atma) ngeke uthethelelwe.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse holds particular significance in the scripture. When human beings grasp God’s wisdom, that wisdom transforms into fire (wisdom power). This fire has the capability to burn away various sins (karma). Knowing divine wisdom allows humans to avoid sins unrelated to Atma. However, it’s crucial to note that the wisdom power cannot absolve sins stemming from blasphemy and actions against Atma; such sins may remain unforgiven.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Leli vesi liba namandla athile emBhalweni. Lapho abantu beqonda ukuhlakanipha kukaNkulunkulu, lokho kuhlakanipha iguqula ibe ngumlilo (amandla okuhlakanipha). Lo mlilo unamandla ukushisa izono ezahlukahlukene (Karma). Ukwazi ukuhlakanipha kwaphezulu Ivumela abantu ukuthi bagweme izono ezihlobene ne-Atma. Kodwa-ke, kunjalo kubalulekile ukuqaphela ukuthi amandla okuhlakanipha angeke akwazi ukweba izono ukuvela kokuhlambalaza kanye nezenzo ngokumelene ne-ATMA; izono ezinjalo kungahle kuxoshele.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 36,
-verse: `<b>(35)	The Gospel of Mathew, 12th chapter, 32nd verse.</b>`,
+verse: `<b>(35)	IVangeli likaMathewu, Isahluko 12, 32nd isiqendu.</b>`,
 meaning: `<b>
-(32) Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age (yuga) or in the age (yuga) to come.  </b>`,
+(12:32) Noma ngubani okhuluma izwi ngokumelene nendodana ka Umuntu uzothethelelwa, kepha noma ngubani okhuluma ngokumelene UMoya oNgcwele ngeke uthethelelwe, kungaba kulo nyaka (yuga) noma eminyakeni yobudala (Yuga) ezayo.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  All human beings are commonly referred to as the sons of man; ordinary people acknowledge that their parents are human. But Jesus, despite His outward appearance as an ordinary man, should not be categorized as the son of man. When Jesus spoke of His Father, He specified that His Father existed in paraloka, not as a man on earth. Consequently, Jesus is appropriately identified as the Son of God. In contrast, the general term “son of man” can be applied to all people. Despite Jesus presenting himself with the name and experiences of an ordinary man, His true designation is the Son of God.
+<div class="poem"><div class="poemtext">
+  Bonke abantu bavame ukubizwa ngokuthi amadodana womuntu; Abantu abavamile bayavuma ukuthi abazali babo bakhona umuntu. Kepha uJesu, naphezu kokubukeka kwangaphandle njenge Indoda ejwayelekile, akufanele ihlukaniswe njengeNdodana yomuntu. Lapho uJesu ekhuluma ngoyise, wachaza ukuthi uYise ubekhona efenitheke, hhayi njengendoda esemhlabeni. Ngenxa yalokho, uJesu kuhlonzwa ngendlela efanele njengeNdodana kaNkulunkulu. Ngokuphambene, Isikhathi esivamile esithi "Indodana yomuntu" ingafakwa kubo bonke abantu. Phezu kokuba UJesu wazethula ngegama nangokuhlangenwe nakho kwe Indoda ejwayelekile, ukubizwa kwakhe kwangempela yiNdodana kaNkulunkulu.
 
-  The seed donor for an ordinary person is not a human. Any man claiming to have children is not truly a father. Atma, which serves as the head of the body and performs all functions within it, is the seed donor for humans and all living beings. Unfortunately, many humans are unaware of this fact. Consequently, a man asserts that he is the father of another human, even though he cannot carry out any functions within the body. It is emphasized multiple times in the first and second divine scriptures that Atma is the sole doer of all things. While a person, in reality, does not commit any sins because he is incapable of performing actions, the misconception that he is the doer leads to the accumulation of sin in his (Jeevatma) account. Thus, a person becomes responsible for sins he has not committed. Similarly, despite Atma being the true Father of a man, the man is considered the son of a human being when he claims his father is a man.
+  Umnikeli wembewu womuntu ojwayelekile akayona umuntu. Noma yimuphi umuntu othi izingane azilona ubaba ngempela. I-Atma, okusebenza njengekhanda lomzimba futhi kwenziwe konke kusebenza ngaphakathi kwalo, ingumuntu onikela ngeMbewu nakubo bonke abaphilayo izidalwa. Ngeshwa, abantu abaningi abazi ngaleli qiniso. Ngenxa yalokho, indoda iyagomela ukuthi unguyise womunye umuntu, yize engeke enze noma yimiphi imisebenzi ngaphakathi umzimba. Kugcizelelwa kaninginingi ku-Okokuqala futhi Imibhalo yaphezulu yaphezulu yokuthi i-ATMA ingumenzi wazo zonke izinto. Ngenkathi umuntu, empeleni, akenzi izono ngoba yena ayikwazi ukwenza isenzo sokwenza, umbono ongelona iqiniso Ingabe umdwebi uholela ekuqongeleleni kwesono ku (Jeevatma) akhawunti. Ngakho-ke, umuntu uba nesibopho sezono anazo azenzile. Ngokufanayo, naphezu kokuba u-Atma abe ubaba weqiniso indoda, le ndoda ibhekwa njengendodana yomuntu lapho Uthi uYise uyindoda.
 
-  Jesus is aware that His Father is the Father of paraloka. Unlike everyone else, He was not born of Atma. Jesus acknowledges that He is the Son of God, the Holy Spirit. Throughout the Bible scripture, Jesus is referred to as the Son of God because He explicitly stated on many occasions that His Father was the Holy Spirit. God’s wisdom has the power to forgive sins committed against ordinary individuals. However, the sin of blasphemy against the Son of God will never be forgiven. This sin of blasphemy is destined to be experienced for <b>two yugas</b> – in the current yuga (era) and the subsequent one.
+  UJesu uyazi ukuthi uYise unguYise we-paraloka. Ngokungafani nowo wonke umuntu, akazalwanga nge-atma. UJesu Uyavuma ukuthi uyiNdodana kaNkulunkulu, uMoya oNgcwele. Kuwo wonke umbhalo weBhayibheli, uJesu ubizwa ngokuthi yiNdodana kaNkulunkulu ngoba eshiwo ngokucacile kaninginingi ukuthi Ubaba wayenguMoya oNgcwele. Ukuhlakanipha KukaNkulunkulu Kunamandla Thethelela izono ezenziwa kubantu abajwayelekile. Noma kunjalo, Isono sokuhlambalaza iNdodana kaNkulunkulu ngeke sibe khona ngithethelelwe. Lesi sono sokuhlambalaza simiselwe ukubonwa Kwama-<strong>yugas amabili </strong>- eYuga yamanje (era) kanye ne-elandelayo munye.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 37,
-verse: `<b>(36)	The Gospel of Mathew, 12th chapter, 36th and 37th verses.</b>`,
+verse: `<b>(36)	IVangeli likaMathewu, Isahluko 12, 36th no Amavesi angama-37.</b>`,
 meaning: ` <b>
-(36) But I tell you that everyone will have to give an account on the day of judgment for every empty word they have spoken.
+(12:36) Kepha ngithi kuwe wonke umuntu kuzofanele anikeze a akhawunti ngosuku lokwahlulela kuwo wonke amagama angenalutho bakhulumile.
 <br><br>
-(37) For by your words you will be acquitted, and by your words you will be condemned.     </b>`,
+(12:37) Ngoba ngamazwi akho uzotholwa, futhi Amagama akho uzolahlwa.    </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  From the moment of birth, humans engage in numerous actions and utter many words. They believe they are personally responsible for every small deed and word. In reality, they have not done anything. It is Atma within the body that performs all actions. However, an unaware individual falsely attributes every action and word to themselves, and consequently, the karmic consequences of their deeds and words accrue to them. Atma stores all accumulated karma in the karma chakra and assesses it on the day of death. On this judgment day, Atma evaluates every deed and word of the individual, weighing the sins and punya associated with each. A person is considered a gnani (wise person) if they acquire wisdom in life, and conversely, a person is regarded as ignorant if they perform deeds with ignorance. Additionally, Atma considers whether a person has acquired wisdom (gnani) or remains in ignorance. The judgment is based on the individual’s status as either a gnani or an ignorant one, determining their next life accordingly. The Holy Spirit does not judge a person based on karma. It is the Atma, responsible for all functions in the body, that judges the individual on the day of death and directs the Jeeva to the next life. This day is known as the <b>‘judgment day’</b> or <b>‘final day,’</b> also serving as the first day of the next life (birthday). Recognizing that Atma is the ultimate arbiter on the last and first days of life, one should understand that the Holy Spirit does not participate in these processes. The last day can be referred to as the day of counting karma. Atma is the one who performs all functions of the body. Understanding this, if a person believes they have not personally done anything, they are neither considered a sinner nor a virtuous person. It’s crucial to recognize that the Atma determines the karma in a person’s deeds and guides them to the next birth. Depending on one’s thoughts, they will be judged as either a gnani, ignorant, righteous, or a sinner.
-</span>
+<div class="poem"><div class="poemtext">
+  Kusukela ngesikhathi sokuzalwa, abantu bazibandakanye kweziningi Izenzo nokukhuluma amagama amaningi. Bakholelwa ukuthi bangomuntu uqobo onesibopho sayo yonke itayitela elincane negama. Eqinisweni, banayo angenzi lutho. Kuyinto atma ngaphakathi komzimba owenza konke Izenzo. Kodwa-ke, izimfanelo ezingazi lutho ngamanga zonke izenzo nezwi ziye ngokwazo, futhi ngenxa yalokho, Imiphumela yeKarmic yezenzo zabo namazwi ayabalalisa kubo. Utma Izitolo zonke ze-karma eziqoqiwe eKarma Chakra futhi uyihlole ngosuku lokufa. Ngalolu suku lokwahlulela, atma ihlola wonke amadizili kanye nezwi lomuntu ngamunye, enesisindo izono ne-punya ezihambisana naleso naleso. Umuntu uthathwa njenge UGnani (umuntu ohlakaniphile) uma bethola ukuhlakanipha empilweni, futhi Ngakolunye uhlangothi, umuntu uthathwa njengongenalwazi uma enza ngezenzo ngokungazi. Ngaphezu kwalokho, i-Atma ibheka ukuthi umuntu uthole ukuhlakanipha (uGnani) noma uhlala ngokungazi. Ukwahlulela kusekelwe esimweni somuntu ngamunye njenge UGnani noma Ongenalwazi, Ukunquma Impilo Yabo Elandelayo ngokufanele. UMoya oNgcwele awehluleli umuntu osuselwa Karma. Yi-Atma, ebhekele yonke imisebenzi emzimbeni, ehlulela umuntu ngosuku lokufa futhi aqondise Jeeva empilweni elandelayo. Lolu suku lwaziwa ngokuthi '<strong>ukwahlulela usuku '</strong>noma' <strong>usuku lokugcina, </strong>'lusebenza njengosuku lokuqala lwempilo elandelayo (usuku lokuzalwa). Ukubona ukuthi i-ATMA yi-arbiter enkulu kunazo zonke ku- Izinsuku zokugcina nezokuqala zokuphila, umuntu kufanele aqonde ukuthi zingcwele Umoya awuhlanganyeli kulezi zinqubo. Usuku lokugcina lungakwazi kubhekiswe kuyo njengosuku lokubala iKarma. I-Atma yiyona owenza yonke imisebenzi yomzimba. Ukuqonda lokhu, uma Umuntu ukholelwa ukuthi abakenzi mathupha, bona, bona azithathwa njengesoni noma umuntu omuhle. Kunjalo kubalulekile ukubona ukuthi i-atma inquma i-karma in a Izenzo zomuntu futhi ziziqondise ekuzalweni okulandelayo. Okwenzayo Emicabangweni yomuntu, bayohlulelwa njenge-gnani, abazi, balungile, noma isoni.</span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 38,
-verse: `<b>(37)	The Gospel of Mathew, 12th chapter, 40th verse.</b>`,
+verse: `<b>(37)	IVangeli likaMathewu, Isahluko 12, 40 isiqendu.</b>`,
 meaning: ` <b>
-(40) For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth.  </b>`,
+(12:40) Ngoba njengoba uJona ayesezinsuku ezintathu nobusuku obuthathu Isisu senhlanzi enkulu, kanjalo neNdodana yomuntu iyoba ngabathathu izinsuku nobusuku obuthathu enhliziyweni yomhlaba. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse draws a parallel between the events preceding the time of Jesus and the prophesied occurrences. It notes that Jonah, after being swallowed by a giant fish, resided inside its belly for three days and three nights. The verse also prophesies, “Jesus will be three days and three nights in the heart of the earth.” While it is accurate that Jonah spent three days and three nights in the fish, it is not precise to state that Jesus, the Son of Man, lived for the same duration in the heart of the earth. Historically, Jesus was crucified on the cross on Friday evening and rose from the dead before dawn on Sunday morning. According to historical records, Jesus was likely crucified between 3:30 p.m. and 4 p.m. on Friday, and His body was placed in a tomb on Friday evening. Consequently, Jesus was not in the tomb during the daytime on Friday, but rather on Friday night and the entirety of Saturday. The resurrection is said to have occurred before dawn on Sunday. Therefore, Jesus spent Friday night and the entire day on Saturday in the tomb, rising from the dead before Sunday morning.
+<div class="poem"><div class="poemtext">
+  Leli vesi lidonsela ukufana phakathi kwemicimbi kwandulela isikhathi sikaJesu kanye nokuvela okuprofethwe. Yona Amanothi athi uJona, ngemuva kokugwinywa yinhlanzi enkulu, ehlala Ngaphakathi kwesisu sayo izinsuku ezintathu nobusuku obuthathu. Ivesi futhi kuprofethathi, "uJesu uyoba izinsuku ezintathu nobusuku obuthathu ku inhliziyo yomhlaba. " Ngenkathi kunembile ukuthi uJona uchithe ezintathu izinsuku nobusuku obuthathu enkineni, akuqondile ukusho lokho UJesu, iNdodana yomuntu, waphila isikhathi esifanayo enhliziyweni womhlaba. Ngokomzopha, uJesu wabethelwa esiphambanweni NgoLwesihlanu kusihlwa futhi wavuka kwabafileyo ngaphambi kokusa ngeSonto ngeSonto ekuseni. Ngokwemibhalo Engokomlando, kungenzeka ukuthi uJesu wayekhona Kubethelwe phakathi kuka-3: 30 P.M. kanye 4 P.M. NgoLwesihlanu, nomzimba wakhe wabekwa ethuneni ngoLwesihlanu kusihlwa. Ngenxa yalokho, uJesu wayengekho ethuneni ngesikhathi sasemini ngoLwesihlanu, kodwa kunalokho NgoLwesihlanu ebusuku kanye nonke ngoMgqibelo. Uvuko kuthiwa sekwenzeke ngaphambi kokusa ngeSonto. Ngakho-ke, UJesu wachitha uLwesihlanu ebusuku kanye nosuku lonke ngoMgqibelo avuka kwa bafileyo ekseni ngeSonto.
 
-  The verse appears to indicate that Jesus was buried for only two nights and one day. Consequently, this verse in the scripture may seem incorrect, raising doubts about its accuracy. Nevertheless, the verse in the divine scripture is considered to be unfailingly accurate. When others questioned the authenticity of this particular verse, I too experienced a sense of doubt. Having said that there is no room for untruth except truth in this sentence, I had to answer what others asked me. Yet, recalling the guidance in Matthew 10:20, <b>“For it is not you who will be speaking, but the Spirit of your Father speaking through you,”</b> dispels the need for fear in providing an answer. The understanding is that the Spirit, or Atma, is the one posing questions and providing responses. As Jeevas, our role is to listen and comprehend what Atma is communicating.
+  Leli vesi libonakala libonisa ukuthi uJesu wembelwa ubusuku obubili kuphela nosuku olulodwa. Ngenxa yalokho, leli vesi ku umBhalo ungabonakala ungalungile, ukhulisa ukungabaza mayelana ukunemba. Noma kunjalo, leli vesi emBhalweni laphezulu kubhekwa njengento enembile ngokungapheli. Lapho abanye bebuzwa ubuqiniso baleli vesi elithile, nami ngithole umuzwa wokungabaza. Sengishilo ukuthi alikho indawo yokuba iqiniso Ngaphandle kweqiniso kulesi sigwebo, bekufanele ngiphendule lokho abanye ungibuze. Noma kunjalo, ukukhumbula ukuholwa kuMathewu 10:20, <strong>"ngakho Awusiye ozokhuluma, kepha umoya we Ubaba wakho ukhuluma ngawe, "</strong>ususa isidingo sokwesaba ekunikezeni impendulo. Ukuqonda ukuthi umoya, noma i-Atma, yiyona ephendula imibuzo nokunikeza izimpendulo. Nga-Jeevas, indima yethu ukulalela nokuqonda ukuthi yini i-atma Ukuxhumana.
 
-  The one commonly referred to as the Son of Man is, in truth, the Son of God. Although we commonly label Jesus as the Son of God, it’s essential to recognize that He is not the son of any human but God himself. This assertion is made with certainty, grounded in the understanding that He is God incarnate. While the body inhabited by God experienced death, God himself is immortal. In fact, there are four types of death: natural death, unnatural death, temporary death, and the ultimate death. While the majority are familiar with the first type, those possessing spiritual wisdom, or ‘gnanis,’ know all four types. The last death occurs when God takes on human form or when a person attains moksham, merging with God. Despite the widespread belief in Jesus’ death on the cross, no one can say for certain the specific type of death He experienced.
+  Lowo owayebizwa ngokuthi indodana yomuntu, kuyo Iqiniso, iNdodana kaNkulunkulu. Yize sivame ukufaka ilebula uJesu njenge Ndodana kaNkulunkulu, kubalulekile ukubona ukuthi akayena indodana ka Noma yimuphi umuntu kodwa uNkulunkulu uqobo. Lokhu kushiwo kwenziwa nge Ukuqiniseka, kwahlelwa ekuqondeni ukuthi unguNkulunkulu emzimbeni. Ngenkathi umzimba owakhiwe uNkulunkulu wabhekana nokufa, Uzimu ngokwakhe akafi. Eqinisweni, kunezinhlobo ezine zokufa: ukufa kwemvelo, ukufa okungeyona okungokwemvelo, ukufa kwesikhashana, kanye ukufa ekugcineni. Ngenkathi iningi labantu lijwayelene nolokuqala Thayipha, labo abanokuhlakanipha okungokomoya, noma 'gnanis,' bazi konke izinhlobo ezine. Ukufa kokugcina kwenzeka lapho uNkulunkulu ethatha umuntu ifomu noma lapho umuntu ethola uMoksham, ehlangana noNkulunkulu. Naphezu kwenkolelo ebanzi ekufeni kukaJesu esiphambanweni, cha umuntu angasho ngohlobo oluthile lokufa yena onolwazi.
 
-  In this verse, it is stated that Jesus was in the heart of the earth for three days and three nights, yet it doesn’t explicitly mention His death. During His crucifixion, the prevailing belief was that He had died on the cross. However, upon emerging from the tomb on Sunday morning, Jesus claimed He had not experienced death. To address the skepticism of His disciples, He displayed the marks of the nails on His wrists and feet, along with the wound from the spear, making it clear that He had not died. Nevertheless, historical records affirm that His body was taken down from the cross and placed in a tomb after His death on Friday evening. This apparent contradiction, where He died on Friday yet appeared on Sunday as if He had not died, prompts questions about the seemingly untrue statement that <b>He would be three days and three nights in the heart of the earth.</b> As per 12:40, He wasn’t there for three nights and three days, but instead was only there for two nights and one day. Exploring the reason behind this seeming inconsistency unveils a deeper truth concealed within the apparent falsehood. Let us further examine how truth is concealed within this apparent contradiction.
+  Kuleli vesi, kushiwo ukuthi uJesu wayesenhliziyweni ye Umhlaba izinsuku ezintathu nobusuku obuthathu, nokho akubonisi ngokusobala yisho ukufa kwakhe. Ngesikhathi ebethelwa kwakhe, inkolelo ekhona Ukuthi wayeseshonile esiphambanweni. Kodwa-ke, lapho uqhamuka kusukela ethuneni ngeSonto ekuseni, uJesu wathi akazange enza okuthile ngife ukufa. Ukubhekana nokungabaza kwabafundi bakhe, Wabonisa amamaki ezipikili ezansi nasezinyaweni zakhe, kanye ngesilonda esivela emkhombeni, ukukwenza kwacaca ukuthi wayengenayo Wafa. Noma kunjalo, amarekhodi omlando aqinisekisa ukuthi umzimba wakhe wawukhona yehliselwe phansi esiphambanweni futhi ibekwe ethuneni ngemuva kokushona kwakhe NgoLwesihlanu kusihlwa. Lokhu kubonakala okubonakalayo, lapho afela khona NgoLwesihlanu kuze kube ngeSonto kube sengathi angafanga, ishukumisa imibuzo mayelana nesitatimende esibonakala sengathi iqiniso Ukuthi <strong>wayezoba izinsuku ezintathu nobusuku obuthathu enhliziyweni womhlaba</strong>. Ngokwe-12: 40, wayengekho lapho ubusuku obuthathu futhi izinsuku ezintathu, kodwa esikhundleni salokho kwakukhona kuphela ubusuku obubili neyodwa usuku. Ukuhlola isizathu ngemuva kwalokhu kubonakala kungahambisani yembula iqiniso elijulile elifihlwe ngaphakathi kokubonakala amanga. Ake siqhubeke nokuhlola ukuthi iqiniso lifihlwe kanjani Ngaphakathi kwalokhu kungqubuzana okusobala.
 
-  It is true that Jesus died on the cross, but no one knew that it was <b>temporary death.</b> Jesus experienced a temporary death out of four kinds of deaths and rose again early Sunday morning from temporary death. He informed His disciples that He was not dead. He would not have risen again if He had experienced a natural death. However, He got up on the third day because He got a ‘temporary death.’ Thus, the notion that Jesus died on the cross is a misconception and not true. Similarly, the scripture stating that Jesus was in the tomb for three days is accurate but warrants a deeper understanding.
+  Kuliqiniso ukuthi uJesu wafela esiphambanweni, kepha akekho owaziyo Ukuthi <strong>kwakungukufa isikhashana</strong>. UJesu wabhekana nesikhashana Ukufa kwezinhlobo ezine zokufa nokuvuka kwangaphambilini ekuseni kusuka ekufeni kwesikhashana. Wazisa abafundi bakhe ukuthi Wayengafile. Ubengeke avuke futhi uma ayenayo wabona ukufa kwemvelo. Kodwa-ke, wasukuma elesithathu usuku ngoba athole 'ukufa okwesikhashana.' Ngakho-ke, umbono wokuthi UJesu wafela esiphambanweni ngumbono ongaqondile futhi hhayi iqiniso. Ngokufanayo, umbhalo uthi uJesu wayesethuneni lakhe Izinsuku ezintathu zinembile kodwa zivumela ukuqonda okujulile.
 
-  Jesus is present within the body as Jeevatma, while Atma, the Father of all, also resides within. Jeevatma experiences the consequences of karma within each human body, while Atma performs necessary actions in accordance with karma. Atma permeates the entire body, whereas Jeevatma is located within the head. Atma exerts control over the body through its ten parts and organs. The vitality of a person is often associated with bodily motion, and a person is considered alive when the body is in motion. Conversely, when the ten parts and organs cease functioning, accompanied by the absence of breathing, the person is deemed dead. In the event of natural death, both Atma and Jeevatma exit the body, resulting in the immobilization of the body due to the absence of Atma.
+  UJesu ukhona ngaphakathi komzimba njengoJevatma, ngenkathi ku-Atma, Ubaba wabo bonke, uhlala futhi ngaphakathi. UJeevatma uhlangabezana ne imiphumela ye-karma ngaphakathi komzimba ngamunye womuntu, ngenkathi ku-atma yenza isenzo esidingekayo ngokuya nge-karma. Atma igcwele umzimba wonke, kanti iJeevatma itholakala ngaphakathi ikhanda. I-ATMA Exerts Ukulawula Umzimba Kube Yishumi Lawo izingxenye nezitho. Ubungqabavu bomuntu buvame ukuhlotshaniswa ngokunyakaza komzimba, futhi umuntu uthathwa njengophila lapho umzimba uyanyakaza. Ngakolunye uhlangothi, lapho izingxenye eziyishumi nezitho zomzimba yeka ukusebenza, kuhambisana nokungabikho kokuphefumula, Umuntu uthathwa njengofile. Uma kwenzeka kufa kwemvelo, zombili-Atma neJevatma baphuma emzimbeni, okuholele ku kungasebenzi komzimba ngenxa yokungabikho kwe-Atma.
 
-  In the case of temporary death, neither Atma nor Jeevatma departs from the body. Atma undergoes a contraction, shrinking from the outer edges to a tiny size, and enters the head similarly to Jeevatma. During this period, none of the body’s organs function, and breathing ceases, giving the appearance of death. The man is commonly perceived as dead since both external and internal bodily functions cease. Resurrection occurs when Atma, resuming its usual function, emerges and starts working again. This phenomenon is exemplified in the case of Jesus. During His crucifixion, Atma contracted within His body, maintaining this state for Friday night and the entirety of Saturday. Early Sunday morning, Atma resumed normal function, leading to Jesus’ emergence from the tomb alive. Atma experienced <b>temporary death</b> for only two nights and a day. While the Atma in Jesus’ body was in the tomb for two nights and a day, it is also accurate to say that Jesus (Jeevatma) was in the tomb for three nights and three days, depicting a process not fully understood by us. Let us see what it was.
+  Endabeni yokufa isikhashana, noma i-atma noma UJeevatma usuka emzimbeni. U-Atma Ufuna a ukuncipha, ukuncipha kusuka emaphethelweni angaphandle kusayizi omncane, futhi ungena ekhanda ngokufanayo neJevatma. Ngalesi sikhathi, akekho kokusebenza kwezitho zomzimba, nokuphefumula kuyaphela, kunikeze ukubukeka kokufa. Indoda ivame ukubonwa njengefile kusukela zombili imisebenzi yangaphandle nangaphakathi kwangaphakathi ziyeka. Uvuko uvela lapho ku-atma, eqala kabusha umsebenzi wayo ojwayelekile, kuvela futhi kuqala ukusebenza futhi. Lesi simo sithi kuboniswe endabeni kaJesu. Ngesikhathi sokubethelwa kwakhe, atma Inenkontileka ngaphakathi emzimbeni wakhe, igcina lesi simo sangoLwesihlanu ebusuku kanye nonke ngoMgqibelo. Ekuqaleni kwelanga ekuseni, atma kuphinde kwaqala umsebenzi ojwayelekile, okuholela ekuqubukeni kukaJesu kusuka Ithuna Liphila. U-ATMA uhlangabezana <strong>nokufa kwesikhashana </strong>kuphela ubusuku obubili nosuku. Ngenkathi u-Atma emzimbeni kaJesu wawukhona ithuna ngobusuku obubili nosuku, kubuye kuthambe ukukusho lokho UJesu (Jeevatma) wayesethuneni ubusuku obuthathu nantathu izinsuku, ezibonisa inqubo engaqondakali ngokuphelele ngathi. Ake sibheke Kwakuyini.
 
-  It can be said that Jesus was resurrected due to Atma’s actions within His body. However, before Atma died on the cross, Jeevatma had already been buried in the body. The connection between Jeevatma and buddhi was severed in Jesus’ body after He learned of His impending arrest on Thursday. Jesus entered an unknown state, completely unaware of His arrest, trial, flogging, and crucifixion, essentially being buried in His body tomb. He remained unconscious for three days, as if in a grave. Despite this, Atma carried out all necessary bodily functions, but Jesus was oblivious to these actions. To prevent Jesus from experiencing any pain or suffering associated with flogging and crucifixion, Atma sent him into an unknown state, similar to sleep. Jeevatma remained buried in the body until Atma awakened him on Sunday morning. Hence, the verse states, “Jesus was in the tomb for three days and three nights.” People knew that Jesus’ body was placed in the tomb, but the Jeevatma in His body entered a state of the unknown before that. Afterward, Jesus’ Atma experienced temporary death on Friday evening. However, people, who could only observe visible things, were unaware of the workings of Atma and Jeevatma in Jesus’ body. It is true that Jesus was in the grave for three days and three nights, and His Atma was in the grave for two nights and a day.
-
+  Kungashiwo ukuthi uJesu wavuswa ngenxa ka-Atma izenzo ngaphakathi emzimbeni wakhe. Kodwa-ke, ngaphambi kokuthi u-Atma afe ku Isiphambano, uJeevatma wayesengcwatshwe emzimbeni. Le khasi ukuxhumana phakathi kukaJeevatma noBuddhi bahlukaniswe ngaphakathi Isidudu sikaJesu ngemuva kokufunda ngokuboshwa kwakhe Lwesine. UJesu wangena ezweni elingaziwa, ngokuphelele ungazi ukuboshwa kwakhe, ukuqulwa kwecala, ukushaywa, nokubethelwa, empeleni ukungcwatshwa ethuneni lomzimba wakhe. Wahlala engazi lutho izinsuku ezintathu, njengokungathi ethuneni. Ngaphandle kwalokhu, i-ATMA yenziwa konke imisebenzi edingekayo emzimbeni, kepha uJesu wayenganaki kulokhu Izenzo. Ukuvimbela uJesu ekuboneni noma yibuphi ubuhlungu noma Ukuhlupheka okuhambisana nokushayisana nokubethelwa, kuthunyelwe ku-Atma kuye esifundazweni esingaziwa, esifana nokulala. Jeevatma wahlala wangcwatshwa emzimbeni waze wamvusa ku-Atma NgeSonto ekuseni. Ngakho-ke, leli vesi lithi, "uJesu wayekhona izinsuku ezintathu nobusuku obuthathu. " Abantu babazi ukuthi uJesu ' isidumbu sabekwa ethuneni, kepha uJeevatma emzimbeni wakhe ungene esimweni sokungaziwa ngaphambi kwalokho. Ngemuva kwalokho, uJesu ' U-Atma wahlangabezana nokufa kwesikhashana ngoLwesihlanu kusihlwa. Kodwa-ke, abantu, ababekwazi ukugcina izinto ezibonakalayo kuphela, zazikhona ungazi ngokusebenza kwe-ATMA neJeevatma emzimbeni kaJesu. Kuliqiniso ukuthi uJesu wayesethuneni izinsuku ezintathu nantathu Ubusuku, futhi u-Atma wakhe wayesethuneni lobusuku obubili nosuku.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 39,
-verse: `<b>(38)	The Gospel of Mathew, 13th chapter, 13th, 14th and 15th verses.</b>`,
+verse: `<b>(38)	IVangeli likaMathewu, Isahluko 13, 13 14th, namavesi ayi-15.</b>`,
 meaning: `<b>
-(13) Though seeing, they do not see; though hearing, they do not hear or understand.
+(13:13) Yize bebona, ababoni; nokho Ukuzwa, abazwayo noma baqonde.
 <br><br>
-(14) In them is fulfilled the prophecy of Isaiah: You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
+(13:14) Kubo kugcwaliseka isiprofetho se-IUSaiya: Wena uzohlala ezwa kodwa angalokothi aqonde; uzokwenza kanjalo hlala njalo kodwa ungalokothi ubone.
 <br><br>
-(15) For this people’s heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise, they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them. </b>`,
+(13:15) Ukuze inhliziyo yale nto isibizelwe; Azizwa nezindlebe zabo, futhi zivale amehlo abo. Ngaphandle kwalokho, bangase babone ngamehlo abo, Yizwa ngezindlebe zabo, uqonde ngezinhliziyo zabo, Futhi phenduka, futhi ngangibaphilisa. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The prophet Isaiah prophesied about this a long time ago. Both then and now, there have been ignorant people. They see with their eyes, hear with their ears, and divert their manas (mind) even after comprehending with their buddhi. Due to their lack of interest in what they have seen, heard, and known, their buddhi slows down to avoid destroying their karma through Jesus. Their ears become deaf to divine wisdom. They listen to everything that is said but do not understand what they hear and become entangled in material things. They can only see the money. To them, those who possess wisdom appear foolish.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Umprofethi u-Isaya waprofeta ngalokhu isikhathi eside edlule. Kokubili ke manje, kube nabantu abangazi. Babona ngamehlo abo, bezwa ngezindlebe zabo, baphambukise babo IManas (ingqondo) ngisho nangemva kokuqonda neBuddhi yayo. Ngenxa yokuntula kwabo isithakazelo kulokho abakubonile, bezwa, futhi Kuyaziwa, uBuddhi wawo wehle ukugwema ukucekela phansi kwabo Karma ngoJesu. Izindlebe zabo ziba yisithulu ekuhlakanipheni kwaphezulu. Balalela konke okushiwoyo kepha abaqondi Lokho abakuzwayo futhi baboshwa ezintweni ezibonakalayo. Bona ingabona imali kuphela. Kubo, labo abanokuhlakanipha avele eyisiwula.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 40,
-verse: `<b>(39)	The Gospel of Mathew, 15th chapter, 7th, 8th and 9th verses.</b>`,
+verse: `<b>(39)	IVangeli likaMathewu, 15 isahluko, 7, 8, namavesi 9th.</b>`,
 meaning: `<b>
-(7) You hypocrites! Isaiah was right when he prophesied about you.
+(15:7) Nina bazenzisi! U-Isaya wayeqinisile lapho yena waprofeta ngawe.
 <br><br>
-(8) These people honor me with their lips, but their hearts are far from me.
+(15:8) Laba bantu bangihlonipha ngezindebe zabo, kodwa babo izinhliziyo zikude nami.
 <br><br>
-(9) They worship me in vain; their teachings are merely human rules.    </b>`,
+(15:9) Bangikhonza ngeze; izimfundiso zabo imithetho yabantu nje.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  We have often said, “God knows the matter of God; humans do not know.” God can speak about Himself, and humans will come to know when God reveals how to worship Him. Although God has foretold how He should be worshipped, many preach different ways that differ from what God has said. Many swamis and gurus are teaching people human-created rules, such as upadesas and other methods of worship. God Himself reveals that “such upadesas and worship are futile” and cannot bring humans closer to Him. Many swamis and gurus talk about God in their speeches but preach anti-God and God-unspoken worships and upadesas. Even though these gurus and swamis talk about God and wisdom, they perform futile worships without understanding divine wisdom and lead others to do the same. For example, fasting has nothing to do with worshipping God. Not only are they suffering from fasting, but they are also bothering the God within. That is how they are harming the God within. Similarly, it was said in the Bhagavad-Gita five thousand years ago, <b>“You cannot know and reach me through studying the Vedas, making donations, or performing
-sacrifices (yajnas), penances (tapas) etc.”</b> In the Bhagavad-Gita, God said that many people highly honor Him but worship Him in vain, in an adharma manner. The Lord has said the same thing in the holy scripture now.
+<div class="poem"><div class="poemtext">
+  Sivame ukuthi, "UZimu uyayazi le ndaba kaNkulunkulu; Abantu abazi. " UZimu angakhuluma ngaye, futhi Abantu bayokwazi lapho uNkulunkulu embula ukuthi ungamkhulekela kanjani Yena. Yize uNkulunkulu ebikezele ukuthi kufanele akhonze kanjani, Abaningi bashumayela izindlela ezahlukahlukene ezihluke kulokho uNkulunkulu akushilo. AmaSwamis amaningi ne-gurus afundisa abantu abadalwe ngumuntu Imithetho, njenge-Upadas nezinye izindlela zokukhulekela. UNkulunkulu Ngokwakhe wembula ukuthi "ama-upadesa kanye nokukhulekelwa kuyize" futhi ayikwazi ukuletha abantu eduze kwakhe. AmaSwamis amaningi futhi UGurus ukhuluma ngoNkulunkulu ezinkulumweni zabo kodwa ashumayele u-Anti-God Futhi ukukhulekelwa kukaNkulunkulu no-Upussas. Noma lezi UGurus noSwamis bakhuluma ngoNkulunkulu nokuhlakanipha, bayasebenza Ukukhulekelwa okuyize ngaphandle kokuqonda ukuhlakanipha kwaphezulu nokuhola abanye ukwenza okufanayo. Isibonelo, ukuzila ukudla akuhlangene Ngokukhulekela uNkulunkulu. Akukhona nje kuphela ukuthi bahlushwa ukuzila ukudla, Kepha futhi bahlupha uNkulunkulu ngaphakathi. Yindlela abanjalo balimaza uNkulunkulu ngaphakathi. Ngokufanayo, kwathiwa ku Bhagavad-gita eminyakeni eyizinkulungwane ezinhlanu eyedlule, <strong>"Awukwazi yazi futhi ungifinyelele ngokufunda ama-vedas, okwenza Iminikelo, noma ukwenza imihlatshelo (yajnas) kanye nokuncenga (Tapas). "</strong> EBhagavad-Gita, uNkulunkulu wathi abantu abaningi amhloniphe kakhulu kodwa amkhulekele ngeze, e-adharma indlela. INkosi ishilo into efanayo emBhalweni Ongcwele Manje.
 
-  Words come from the mouth, but feelings come from the heart. Although many people speak highly of God, their hearts do not truly align with God’s principles. Despite their praise, they do not have God’s dharmas in their hearts. Maya’s dharmas took place in their hearts. They speak about God, but what they do under the influence of Maya is anti-God worship. Many gurus name what they say as God’s wisdom, but the worship they are performing, as God said, will not unite them with God. It is also warned in the Gita that those worships are on the wrong path. However, famous Peetadipatis perform futile yajnas, donations, fasting, Vedic chanting, and penance. The Holy Bible and Bhagavad-Gita state that those who engage in these practices are far from God. Therefore, from now on, let us not only glorify God in our words but also follow what God said, leaving behind futile and anti-God worship.
-
+  Amagama avela emlonyeni, kepha imizwa ivela Inhliziyo. Yize abantu abaningi bekhuluma kakhulu uNkulunkulu, abo Izinhliziyo azihambelani ngempela nezimiso zikaNkulunkulu. Naphezu kwabo Ndumiso, abanawo ama-Dharmas aNkulunkulu ezinhliziyweni zabo. Maya UDharmas wenzeka ezinhliziyweni zabo. Bakhuluma ngoNkulunkulu, kepha Lokho abakwenzayo ngaphansi kwethonya likaMaya kungukukhulekelwa kukaNkulunkulu. AmaGurus amaningi asho lokho abakushoyo njengokuhlakanipha kukaNkulunkulu, kepha Ukukhulekela abakwenzayo, njengoba uNkulunkulu asho, ngeke abahlanganyele NginoNkulunkulu. Kuphinde kwaxwayiswa ku-gita ukuthi lezo zikhulekelwe endleleni engafanele. Kodwa-ke, i-Peetadipatis edumile yenza Ama-Yajnas ayize, iminikelo, ukuzila ukudla, ukucwaswa kwe-vedic, nokuphenduka. IBHAYIBHILI Engcwele neBhagavad-Gita State ukuthi labo abahlanganyela Kule mikhuba kukude noNkulunkulu. Ngakho-ke, kusukela manje kuqhubeke, Masingakhazimulisi uNkulunkulu kuphela ngamazwi ethu kodwa futhi salandela ini UZimu wathi, kushiye laba yimibi kutfutfu kukhonta.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 41,
-verse: `<b>(40)	The Gospel of Mathew, 15th chapter, 11th verse.</b>`,
+verse: `<b>(40)	IVangeli likaMathewu, Isahluko 15, 11 isiqendu.</b>`,
 meaning: ` <b>
-(11) What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them. </b>`,
+(15:11) Okungena emlonyeni womuntu akukwenzi zingcolise, kepha okuphuma emlonyeni wazo, ukuthi yilokho okungcolisayo. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Man consumes food through the mouth, and the variety of food is vast, not limited to a single type. Individuals can be categorized as either vegetarians or non-vegetarians. Some spiritual leaders, such as swamis and gurus, advocate vegetarianism as a path to understanding God’s wisdom, asserting that avoiding meat is essential. Here the Lord said, <b>“What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”</b> Various opinions exist regarding dietary practices for those on the path of divine wisdom. Some recommend abstaining from non- vegetarian food, while others suggest a diet of exclusively raw, uncooked food. Some propose a vegetarian diet limited to one meal a day. Despite these diverse dietary restrictions, it is emphasized that the sanctity or uncleanness of an individual is not determined by the food consumed. While the food we eat may have an impact on physical health, it does not influence spiritual purity. Eating any particular food does not obstruct the pursuit of divine wisdom. Man consumes food with his mouth and articulates words with the same organ. Notably, the process of ingesting food through the mouth poses no issue; rather, it is the words that emanate from the mouth that have the potential to defile a person. While man engages in actions and verbal expressions, his true nature is unveiled through his words. <b>Elders uphold the belief that one possessing divine wisdom is deemed holy, while those lacking wisdom are considered unclean.</b> A person with wisdom is regarded as pure based on their speech. Conversely, ignorance is exposed in the words of someone lacking wisdom. The defilement of an individual becomes evident through their speech; hence, Jesus conveyed the aforementioned verse. According to the teachings of the Bible and the Bhagavad-Gita, a person is not defiled by the food they consume. Rather, it is one’s karma that provides sustenance. Those on the path of wisdom are not bound by dietary restrictions. What matters to God is not the specific food consumed but the adherence to the wisdom path. Therefore, whatever food is consumed in accordance with one’s habits is inconsequential to God.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Umuntu udla ukudla ngomlomo, nezinhlobonhlobo kokudla kukhulu, kungagcini ngohlobo olulodwa. Abantu bangaba ihlukaniswe njengezinhlobo zemifino noma okungezona imifino. Abaholi abangokomoya, njengeSwamis neGurus, bameli imifino njengendlela yokuqonda ukuhlakanipha kukaNkulunkulu, Ukugomela ukuthi ukugwema inyama kubalulekile. Lapha iNkosi wathi, <strong>"Okungena emlonyeni womuntu akukungcolisi zona, kodwa okuphuma emlonyeni wazo, yilokho uyamngcolisa. " </strong>Imibono ehlukahlukene ikhona ngokudla Imikhuba yalabo abasendleleni yokuhlakanipha kwaphezulu. - ukuncoma ukugwema ukudla okungewona imifino, kuyilapho abanye Phakamisa ukudla okukudla okuluhlaza kuphela, okungaphekiwe. -Phakamisa ukudla okwenziwe ngemifino kukhawulelwe ekudleni okukodwa ngosuku. Phezu kokuba le mikhawulo ehlukahlukene yokudla, kugcizelelwa ukuthi ukungcweliswa komhlaba noma ukungcola komuntu akunqunywa ukudla okudliwayo. Ngenkathi ukudla esikudlayo kungaba nomthelela Empilweni engokomzimba, akukutholeli ubumsulwa obungokomoya. Ukudla noma yikuphi ukudla okuthile akuvimbeli ukuphishekela umbuso waphezulu Ukuhlakanipha. Umuntu udla ukudla ngomlomo wakhe futhi uvelele amagama anesitho esifanayo. Ikakhulukazi, inqubo yokungena Ukudla ngomlomo akunankinga; Esikhundleni salokho, yi-Wamanje lokho kuvela emlonyeni onamandla okungcolisa umuntu. Ngenkathi umuntu ebamba ezenzweni nasezenhlosweni izinkulumo, imvelo yakhe yangempela yembulwa kuye amagama. <strong>Abadala baxhasa inkolelo yokuthi umuntu ophethe unkulunkulu Ukuhlakanipha kuthathwa njengokungcwele, kuyilapho lokho kuntula ukuhlakanipha kuyinto kubhekwe okungcolile. </strong>Umuntu onokuhlakanipha uthathwa njenge okumsulwa ngokusekelwe enkulumweni yabo. Ngakolunye uhlangothi, ukungazi kudalulwa Ngamazwi omuntu entula ukuhlakanipha. Ukungcola kwe umuntu othile ubonakalisa ngenkulumo yabo; Ngakho-ke, uJesu udlulise ivesi okungenhla. Ngokuya kwe-zimfundiso zebhayibheli neBhagavad-Gita, umuntu akayona kungcoliswe ngokudla abakudlayo. Esikhundleni salokho, yi-karma yomuntu leyo Inikeza ukondla. Labo abasendleleni yokuhlakanipha ayona eboshwe ngemikhawulo yokudla. Okubalulekile kuNkulunkulu akuyena Ukudla okuthize okudliwe kepha ukunamathela endleleni yokuhlakanipha. Ngakho-ke, noma ngabe yikuphi ukudla okudliwayo ngokuya nge Imikhuba yomuntu ayibalulekile kuNkulunkulu.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 42,
-verse: `<b>(41)	The Gospel of Mathew, 15th chapter, 12th and 13th verses.</b>`,
+verse: `<b>(41)	IVangeli likaMathewu, Isahluko 15, 12th no Amavesi we-13.</b>`,
 meaning: `<b>
-(12) Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”
+(15:12) Kube sekufika abafundi kuye, bambuza bathi: "Yenza Uyazi ukuthi abaFarisi bakhungathekile lapho Bezwa lokhu? "
 <br><br>
-(13)  He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.” </b>`,
+(15:13) Waphendula wathi, "Zonke izitshalo ezazisezulwini Ubaba akakatshalanga uzodonswa yizimpande. " </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When the Lord proclaimed that man is not defiled by food and is free to consume any nourishment while still adhering to God’s path, the Pharisees raised objections. They contested that the Lord’s words lacked divine wisdom and outright rejected them. Accusing Jesus of promoting ignorance, they questioned the source of His authority to teach such principles. The Pharisees, considering themselves great teachers, asserted that only they possessed the rightful authority to impart wisdom about God. Upon learning of the Pharisees’ objections, the disciples apprised Jesus of the situation. In response, He declared, <b>‘Every plant not planted by my heavenly Father will be uprooted by the roots.’</b>
+<div class="poem"><div class="poemtext">
+  Lapho iNkosi imemezela ukuthi umuntu akangcolisiwe ukudla futhi kukhululekile ukusebenzisa noma yikuphi ukondliwa ngenkathi kunjalo Ukunamathela endleleni kaNkulunkulu, abaFarisi baphakamisa iziphikiso. Bona wancintisana ngokuthi amazwi eNkosi awasweli ukuhlakanipha kwaphezulu futhi Kusobala ukuthi kubalwe. Ukumangalela uJesu ngokuthuthukisa ukungazi, Babuze umthombo wegunya lakhe ukufundisa okunjalo izimiso. AbaFarisi, bazibheka bakhulu Othisha, bagomela ukuthi banazo kuphela abanazo ezifanele igunya lokudlulisela ukuhlakanipha ngoNkulunkulu. Lapho ufunda Iziphikiso ZabaFarisi, abafundi bamnika uJesu ngokuthi isimo. Ukuphendula, wamemezela<strong>, 'Zonke izitshalo azitshalwanga NguBaba wami osezulwini uzosuswa yizimpande. </strong><strong>'</strong>
 
-  The Paraloka Father, Paramatma, establishes His dharmas, which can wane on Earth but never truly perish. When such diminishment occurs, Paramatma incarnates as Bhagavan to reinforce these dharmas. As the dharmas weaken, adharmas proliferate. Dharmas are divine, belonging to God, while adharmas are affiliated with Satan. Paramatma sows the seeds of dharmas, whereas Satan sows those of adharmas. Upon Paramatma’s earthly incarnation to impart His dharmas, Satan takes on various forms such as scholars, Pharisees, teachers, and swamis. In this guise, Satan imparts its own version of wisdom, persuading humans that its dharmas are synonymous with God’s dharmas. Maya’s (Satan) dharmas occasionally undermine Paramatma’s dharmas. Some may question why Maya’s dharmas can weaken God’s powerful dharmas. Paramatma, as the Paraloka Father, incarnates as Bhagavan in a specific place and time to propagate His dharmas. Although these dharmas may gain strength during that period, they wane after a few thousand years. This is because God’s return as Bhagavan occurs only when deemed necessary. In contrast, Maya perpetually creates gurus and swamis, convincing them that its wisdom is synonymous with God’s wisdom. Through them, Maya propagates its dharmas continuously, ensuring a persistent influence on Earth.
+  Ubaba we Paraloka, Paramatma, umisa okwakhe I-Dharmas, engangena emhlabathini kodwa ingashabalali ngokweqiniso. Lapho ukwehla okunjalo kwenzeka, i-paramatma ifakazela njengoba I-Bhagavan ukuqinisa lezi dharmas. Njengoba ama-dharmas awenza buthaka, I-Adharmas iyanda. Ama-Dharmas anguNkulunkulu, ongokwaNkulunkulu, Ngenkathi u-Adharmas exhumene noSathane. I-Paramatma ihlwanyela imbewu ye-Dharmas, kanti uSathane uhlwanyela labo bakwa-Adharmas. Lapho emzimbeni we-paramatma wasemhlabeni ukudlulisa ama-dharmas akhe, USathane uthatha izindlela ezahlukahlukene ezinjengezazi, abaFarisi, Othisha, namaSwamis. Kulesi siga, uSathane unikeza okwayo inguqulo yokuhlakanipha, ekholisa abantu ukuthi ama-dharmas ayo kufana ne-dharmas kaNkulunkulu. I-maya's (USathane) Dharmas ngezikhathi ezithile ubukela phansi ama-dhamatma's dharmas. Abanye bangase Umbuzo Kungani ama-Dharmas kaMaya anganciphisa amandla kaNkulunkulu dharmas. I-Paramatma, njengobaba efeba, emzimbeni Bhagavan endaweni ethile nesikhathi sokusakaza okwakhe dharmas. Yize lezi dharmas zingathola amandla ngesikhathi Leyo nkathi, bancipha ngemuva kweminyaka eyizinkulungwane ezimbalwa. Lokhu Ngoba ukubuya kukaNkulunkulu njengoba uBhagavan kwenzeka kuphela lapho kuthathwa kunesidingo. Ngokuphambene nalokho, iMaya ngokuhlukile idala i-gurus futhi Swamis, ubakholisa ukuthi ukuhlakanipha kwako kuyafana Ukuhlakanipha KukaNkulunkulu. Ngabo, amaMaya asakaza ama-dharmas awo ngokuqhubekayo, ukuqinisekisa ithonya eliqhubekayo emhlabeni.
 
-  People are often drawn to swamis, gurus, and babas who consistently operate under Maya’s influence, rather than the infrequent appearance of an unidentified Bhagavan who arrives once in a thousand years. While God manifests in one place at a time, Satan is born in various forms across many places, assuming roles such as swamis, gurus, and babas, actively diminishing God’s dharmas. Similar to a field overrun with weeds affecting the growth of trees planted by a farmer, the influence of Satan proliferates around God’s planted dharmas. To counter this, God, akin to a diligent farmer, intervenes by uprooting the weeds, including their roots, to fortify the trees He has sown. However, over time, many weeds may resurface without any intentional sowing. Paramatma, likened to a farmer, initially planted His dharmas. Satan, in turn, fosters weeds (adharmas) around God’s plants (dharmas). The natural weakening of God’s plant occurs under the influence of Maya’s weeds. To address this, God intervenes, <b>extracting many of Maya’s dharmas</b> that have encroached upon His dharmas. This aligns with the essence of Jesus’ statement—God dismantles Satan’s dharmas undermining His own, thereby reinforcing and fortifying His divine principles.
-</div></div>
+  Abantu bavame ukudonswa eSwamis, iGurus kanye neBabas abasebenza ngokungaguquki ngaphansi kwethonya likaMaya, kunokuba ukubukeka okungathandeki kweBhagavava engaziwa ngubani ifika kanye eminyakeni eyinkulungwane. Ngenkathi uNkulunkulu ebonakalisa koyedwa beka ngesikhathi, uSathane uzalelwa ezinhlotsheni ezahlukahlukene kwazo zonke eziningi Izindawo, zithatha izindima ezinjengeSwamis, iGurus kanye neBabas, ukunciphisa ngenkuthalo i-dharmas kaNkulunkulu. Ifana ne-Overrun yensimu nokhula oluthinta ukukhula kwezihlahla ezitshalwe ngumlimi, Ithonya likaSathane landa ezungeze uNkulunkulu elitshaliwe dharmas. Ukuze alwe nalokhu, uNkulunkulu, afana nomlimi okhuthele, zingenelela ngokususa ukhula, kufaka phakathi izimpande zazo, ukuze Qinisa izihlahla ahlwanyele. Kodwa-ke, ngokuhamba kwesikhathi, ukhula oluningi kungavuselelwa kabusha ngaphandle kokuhlwanyela ngenhloso. I-Paramatma, kufaniswe nomlimi, ekuqaleni watshala ama-dharmas akhe. USathane, ngaphakathi Jika, ukhuthaze ukhula (adharmas) ezungeze izitshalo zikaNkulunkulu (dharmas). Ukuncipha kwemvelo kwesitshalo sikaNkulunkulu kwenzeka ngaphansi kwe ithonya lokhula lukaMaya. Ukubhekana nalokhu, uNkulunkulu zingenelela, <strong>ekhipha ama-dharmas amaningi Maya </strong>anawo ngingene phezu kwe-dharmas yakhe. Lokhu kuqondanisa nomqondo we UJesu ' Isitatimende - Unkulunkulu okhipha ama-dharmas kaSathane babukela phansi okwakhe, ngaleyo ndlela baqinisa futhi bawakha akhe izimiso zaphezulu.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 43,
-verse: `<b>(42) The Gospel of Mathew, 15th chapter, 14th verse.</b>`,
+verse: `<b>(42) IVangeli likaMathewu, 15th chapter, 14th verse.</b>`,
 meaning: `<b>
-(14) Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit. </b>`,
+(15:14) Bayeke; Bangabaqondisi abayizimpumputhe. Uma izimpumputhe zihola izimpumputhe, zombili zizowela emgodini. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Individuals under the influence of Maya, including Pandits and Pharisees, who are themselves part of Maya, criticized Bhagavan Jesus without comprehending God’s wisdom. They are unaware of God’s wisdom, lacking any insight into divine wisdom. They remain blind without wisdom sight. How can those devoid of God’s wisdom proclaim and guide others in it? They pretend to have wisdom sight and spread what they perceive as God’s wisdom. People, trusting these apparent seers, seek guidance, assuming they possess complete knowledge of God’s wisdom. Unbeknownst to them, these leaders themselves are blind. Imagine a scenario where a blind person leads others who are also blind, claiming to have sight and guiding them along the way. Inevitably, the blind leader stumbles into pit, leading the others into the same predicament. Similarly, those ignorant of God’s wisdom mock those with true wisdom, proclaiming themselves as great gurus. Those with wisdom need not engage in argument with them. Individuals lacking wisdom-sight cannot ascend to the pinnacle of moksham. Although many may follow a guru lacking wisdom-sight, none attains moksham; instead, they fall into the <b>pit of gunas.</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Abantu abangaphansi kwethonya likaMaya, kufaka phakathi Ama-pandites nabaFarisi, abayingxenye yeMaya, wagxeka uBhagavan Jesus ngaphandle kokuqonda uNkulunkulu Ukuhlakanipha. Azizi ukuhlakanipha kukaNkulunkulu, ukuntula noma yikuphi ukuqondisisa ku-dukuhlakanipha kwe-Inine. Bahlala bayizimpumputhe ngaphandle kokuqonda. Kungenzeka kanjani ukuthi labo abangenayo ukuhlakanipha kukaNkulunkulu bamemezele futhi baqondise futhi baqondise? abanye kuso? Benza sengathi banokubuka ngokuhlakanipha futhi basakazeka Lokho abakubona njengokuhlakanipha kukaNkulunkulu. Abantu, bethemba lezi Ababonisi ababonakalayo, bafuna ukuholwa, bacabanga ukuthi banakho Ulwazi oluphelele lokuhlakanipha kukaNkulunkulu. Bengazi, Abaholi ngokwabo bayimpumputhe. Cabanga ngesimo lapho Umuntu oyimpumputhe uhola abanye abayimpumputhe, abathi banayo ukubona futhi ubaqondise endleleni. Ngokungenakugwenywa, izimpumputhe Umholi ukhubethekile emgodini, ehola abanye ngokufanayo Predicament. Ngokufanayo, labo abangenalwazi lokuhlakanipha kukaNkulunkulu bahlekisa labo abanokuhlakanipha kwangempela, bazimemezela bakhulu gurus. Labo abanokuhlakanipha akudingeki bahlanganyele nengxabano nabo zona. Abantu abantula ukuhlakanipha - Ukubona akunakukhuphukela ku ipinnacle of moksham. Yize abaningi bangalandela i-guru Ukuntula ukuhlakanipha, akekho othola uMoksham; Esikhundleni salokho, bayawa <strong>emgodini weGunas.</strong></div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 44,
-verse: ` <b>(43) The Gospel of Mathew, 16th chapter, 21st and 22nd verses.<br>
-The Gospel of Mathew, 17th chapter, verses 22nd and 23rd verses.
+verse: ` <b>(43)IVangeli likaMathewu, Isahluko 16, 21 futhi Amavesi angama-22. IVangeli likaMathewu,17: Amavesi 22nd namavesi angama-23
 <br>
-The Gospel of Mathew, 20th chapter, verses 17th, 18th and 19th verses.</b>
+IVangeli lika Mathewu, Isahluko 20, amavesi 17, 18th, no Amavesi akwa-19.</b>
 `,
 meaning: ` <b>
-(16:21) From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief priests, and the teachers of the law, and that he must be killed and on the third day be raised to life. (First time)
+(16:21) Kulesosikhathi kuJesu waqala ukuchaza okwakhe abafundi ukuthi kumele aye eJerusalema futhi ahlupheke izinto eziningi ezandleni zabadala, induna abapristi, kanye nabafundisi bomthetho, nokuthi kufanele Ukubulawa kwathi ngosuku lwesithathu kuvuselelwa empilweni. (Okokuqala Isikhathi)
 <br><br>
-(16:22) Peter took him aside and began to rebuke him. “Never, Lord!” he said. “This shall never happen to you!”
+(16:22) UPhetro wamthatha eceleni waqala ukumkhuza. "Qha, Nkosi!" uthe. "Lokhu ngeke kwenzekele Wena! "
 <br><br>
-(17:22) When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men.”
+(17:22) Lapho behlangene eGalile, wathi kuyo zona, "iNdodana yomuntu izohanjiswa ku izandla zabantu. "
 <br><br>
-(17:23) They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief. (Second time)
+(17:23) Bazakumbulala, nangosuku lwesithathu ukhuliswe empilweni. " Futhi abafundi bagcwala usizi. (Okwesibili)
 <br><br>
-(20:17) Now Jesus was going up to Jerusalem. On the way, he took the Twelve aside and said to them.
+(20:17) Manje uJesu wayekhuphukela eJerusalema. Use Wathatha eceleni, wathatha abayishumi nambili eceleni wathi kubo.
 <br><br>
-(20:18) We are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death.
+(20:18) We wenyukela eJerusalema, nendodana ka Umuntu uzokhululwa kubaphristi abakhulu naku abafundisi boMthetho. Bazomlahla ngokufa.
 <br><br>
-(20:19) They will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!” (Third time)
+(20:19) Bazomnika abeZizwe ukuba babe kugcotshwe futhi kushayelwe futhi kubethelwe. Ngosuku lwesithathu yena uzovuselwa empilweni! " (Okwesithathu)
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus, in chapters 16, 17, and 20 of the Gospel of Matthew, foretold His own future. It is uncommon for ordinary humans to predict the time of their death, given the uncertainty and unknown nature of the future. Jesus, however, disclosed the circumstances of His death not just once but three times, showcasing something extraordinary within Him. This act served to demonstrate to the unaware that He was more than a mere human being. The ability to speak about one’s death in such detail is a rarity, but Jesus could do so because He had preordained His demise. Atma stands as the sole determiner of life’s karma within the body.
+<div class="poem"><div class="poemtext">
+  UJesu, ezahlukweni 16, 17, no-20 weVangeli lika UMathewu, wabikezela ikusasa lakhe. Kujwayelekile ngokujwayelekile Abantu ukubikezela isikhathi sokufa kwabo, banikezwe ukungaqiniseki nohlobo lwekusasa. Nokho, uJesu, udalule izimo zokufa kwakhe hhayi kanye kuphela kodwa Kathathu, kukhombisa okuthile okungajwayelekile ngaphakathi kuye. Lo mthetho wawukhombisa ukukhombisa abangazi ukuthi wayekhona ngaphezu komuntu nje. Amandla okukhuluma ngakho ukufa komuntu ngemininingwane enjalo kuyinto evumayo, kepha uJesu angenza kanjalo Ngoba wayeseqedile ukubulawa kwakhe. U-Atma ume njenge inquma yempilo yempilo ngaphakathi emzimbeni.
 
-  Jesus, on three separate occasions, explicitly spoke about His impending death. His ability to foretell His fate stemmed from His predetermined karma. According to Jesus, Atma—the judge of karma—is the Son of Paramatma. Jesus consistently asserted that His Father is the Holy Spirit, identifying Himself as the Atma responsible for determining karma. Having decided His life’s karma, Jesus prophesied that He would be handed over to the elders and chief priests, be killed by them, and rise to life on the third day. Remarkably, these events unfolded exactly as He had predicted. Jesus spoke about His death without fear, a demonstration that every discerning individual can recognize, indicating that Jesus was no ordinary man; there was something extraordinary about Him.
+  UJesu, ngezikhathi ezintathu ezihlukene, wakhuluma ngokucacile ngokufa kwakhe okuzayo. Ikhono lakhe lokubikezela ikusasa lakhe umile kusuka ku-karma yakhe enqunyelwe kusengaphambili. NgokukaJesu, I-Atma-Ijaji leKarma - liyindodana kaParamatma. UJesu kwagomela ngokungaguquki ukuthi uYise nguMoya oNgcwele, Ukuzibona njenge-atma ebhekele ukunquma Karma. Lapho esenqume iKarma Yempilo Yakhe, uJesu waprofeta ukuthi Wayezonikelwa kubadala nabapristi abakhulu, abe babulawa yibo, futhi basukume baphile ngosuku lwesithathu. Kuyamangaza ukuthi, Le micimbi yenzeka ncamashi njengoba ayebikezele. UJesu wakhuluma ngokufa kwakhe ngaphandle kokwesaba, umboniso wokuthi konke umuntu oqondayo angabona, ekhombisa ukuthi uJesu wayekhona Akekho umuntu ojwayelekile; Kwakunokuthile okungajwayelekile ngakho Yena.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 45,
-verse: `<b>(44)	The Gospel of Mathew, 19th chapter, 23rd and 24th verses.</b>`,
+verse: `<b>(44)	IVangeli likaMathewu, 19 Isahluko, 23 futhi Amavesi angama-24.</b>`,
 meaning: `<b>
-(23) Then Jesus said to his disciples, “Truly I tell you; it is hard for someone who is rich to enter the kingdom of paraloka.
+(19:23) Khona-ke uJesu wathi kubafundi bakhe: "Ngiqinisile ngithi kini; Kunzima kothile ocebile ukungena eMbusweni we-paraloka.
 <br><br>
-(24) Again, I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.
+(19:24) Futhi, ngithi kuwe, kulula ukuthi ikamela lihambe ngokusebenzisa iso lenaliti kunomuntu onjalo Ucebile ukungena embusweni kaNkulunkulu.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Jesus conveyed a parable, stating, <b>“It is easier for a camel to pass through the eye of a needle than for a wealthy person to enter the kingdom of God.”</b> Just as it is impossible for a camel to navigate the eye of a needle, similarly, it is challenging for a rich individual to enter the kingdom of God. Some elders believe that wealth often begets arrogance, a trait considered one of the six negative qualities (gunas). Arrogance, the fifth of these qualities, accompanies greed (kaama), anger (krodha), avarice (lobha), passion (moha), and jealousy (matsara). Arrogance is present to varying degrees in every individual. Whether it be at 90%, 80%, 70%, 60%, 50%, 40%, or 30%, everyone possesses some level of arrogance. One person may exhibit 90% arrogance, while another might have 80%, and some may express as little as 30% arrogance.
+<div class="poem"><div class="poemtext">
+  UJesu wadlulisa umzekeliso, wathi, "Kulula ngo ikamela ukuze udlule esweni lenaliti kune Umuntu ocebile ukungena embusweni kaNkulunkulu. " Njengoba kunjalo akunakwenzeka ukuthi ikamela ukuzulazula iso lenaliti, ngokufanayo, Kuyinselele ukuthi umuntu ocebile angene embusweni we UNkulunkulu. Abanye abadala bakholelwa ukuthi ingcebo ivame ukuzala ukuzikhukhumeza, Isici esithathwa njengesinye sezimpawu eziyisithupha ezingezinhle (ama-gunas). Ukuzikhukhumeza, owesihlanu walezi zimfanelo, uhambisana nokuhaha (Kaama), Intukuthelo (Krodha), i-Avarice (Lobhe), inkanuko (Moha), futhi umhawu (matsara). Ukuzikhukhumeza kukhona kuma-degree ahlukahlukene phakathi wonke umuntu. Ukuthi ngabe kungama-90%, 80%, 70%, 60%, 50%, I-40%, noma i-30%, wonke umuntu unezilinganiso ezithile zokuzikhukhumeza. Okukodwa umuntu angakhombisa ukuzikhukhumeza ngo-90%, kanti omunye angaba nawo I-80%, futhi abanye bangase babonise njengokuzikhukhumeza okungama-30%.
 
-  Not only does arrogance shape the thoughts of the Jeevatma within the body, but the other five associated gunas also play a significant role. The level of arrogance can vary, and it's observed that the poor generally exhibit less arrogance than the rich. The wealthier an individual is, the higher their level of arrogance tends to be. Someone with millions of dollars may manifest an even greater degree of arrogance and be more influenced by the other gunas. Wealth has the power to bring about significant changes in a person, often leading them away from wisdom. In the context of <b>moksham</b> being likened to the eye of a needle, the analogy extends to the rich being comparable to a camel. Just as a camel cannot pass through the eye of a needle, a wealthy person, with the strong influence of gunas akin to a camel, faces challenges in attaining liberation. The analogy emphasizes that just as a camel cannot fit through the eye of a needle, a wealthy person, under the influence of powerful <b>gunas,</b> encounters obstacles in entering paraloka (moksham).
+  Akugcini nje ngokuzikhukhumeza imicabango ye Jeevatma ngaphakathi emzimbeni, kodwa ezinye ezinhlanu Izibhamu ezihambisana nazo Futhi dlala indima ebalulekile. Izinga lokuzikhukhumeza lingahluka, futhi Kuphawulwe ukuthi abampofu ngokuvamile bakhombise ukuzikhukhumeza okuncane kunabacebile. Umuntu ocebile umuntu, akhuphuka kuwo izinga lokuzikhukhumeza livame ukuba. Umuntu onezigidi zamaRandi ingabonisa isilinganiso esiphakeme kakhulu sokuzikhukhumeza futhi ube ethonywe ngokwengeziwe ezinye izibhamu. Ingcebo inamandla okuthi alethe izinguquko ezibalulekile kumuntu, zivame ukuzihola kude nokuhlakanipha. Ngokwesimo sikaMoksham wafaniswa esweni lenaliti, i-analogy ifinyelela kwabacebile ngokuba iqhathaniswa nekamela. Njengoba nje ikamela alikwazi ukudlula iso lenaliti, umuntu ocebile, onethonya elinamandla Gunas akin nekamela, abhekene nezinselelo zokuthola inkululeko. I-analogy igcizelela ukuthi njengoba nje ikamela lingakwazi ulingane nenaliti, umuntu ocebile, ngaphansi kwe Ithonya lama-gunas anamandla, ahlangabezana nezingqinamba zokungena i-prafeca (moksham).
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 46,
-verse: `<b>(45)	The Gospel of Mathew, 22nd chapter, 36th, 37th, 38th, 39th and 40th verses.</b>`,
+verse: `<b>(45)	IVangeli likaMathewu, Isahluko sama-22, 36, 37th, 38th, 39th namavesi angama-40.</b>`,
 meaning: `<b>
-(36) Teacher, which is the greatest commandment in the Law (Dharma Shastra)?
+(22:36) Mfundisi, okuwumyalo omkhulu kunayo yonke Emthethweni (Dharma Shastra)?
 <br><br>
-(37) Jesus replied: “Love the Lord your God with all your heart and with all your soul and with all your mind.”
+(22:37) UJesu waphendula: "Thandani uJehova uNkulunkulu wakho ngakho konke inhliziyo yakho nangayo yonke imiphefumulo yakho nangayo yonke eyakho ingqondo. "
 <br><br>
-(38) This is the first and greatest commandment.
+(22:38) Lo ngumyalo wokuqala nowokuqala omkhulu.
 <br><br>
-(39) And the second is like it: ‘Love your neighbor as yourself.’
+(22:39) Futhi owesibili unjengokuthi: 'Thanda umakhelwane wakho njengoba ngokwakho. '
 <br><br>
-(40) All the Law and the Prophets hang on these two commandments.    </b>`,
+(22:40) Wonke umthetho nabaprofethi balenga kulezi ezimbili imiyalo.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some people approached Jesus, posing a question about the most crucial commandment in the law (Dharma Shastra), with the intention to test and potentially mock Him if He stumbled. In response, Jesus promptly answered, <b>“Love the Lord your God with all your heart, soul, and mind.”</b> He emphasized that this directive was the primary and greatest commandment, followed by a second commandment. The use of the term ‘commandment’ in this verse underscores its significance, with Jesus asserting that these two commandments serve as the foundation for all the law and the Prophets. This verse is explained as follows.
+<div class="poem"><div class="poemtext">
+  Abanye abantu basondela kuJesu, babuza umbuzo mayelana Umyalo obaluleke kakhulu emthethweni (Dharma Shastra), ngenhloso yokuhlola nokwazi ukumukisa uma yena wakhubeka. Ukuphendula, uJesu waphendula ngokushesha, wathi: <strong>"Thanda</strong><strong>Inkosi yakho ngayo yonke inhliziyo yakho, umphefumulo nengqondo. " </strong>Yena ukugcizelele ukuthi lo mkhombe kwakuwukuphela futhi okukhulu kakhulu Umyalo, ulandele umyalo wesibili. Ukusetshenziswa yegama elithi 'umyalo' kuleli vesi ligcizelela ukubaluleka, UJesu ugomela ukuthi lezi ezimbili Imiyalo isebenza njengesisekelo sawo wonke umthetho kanye Abaporofidi. Leli vesi lichazwa ngokulandelayo.
 
-  A commandment is essentially an instruction given to direct action. In the broader context, the question arises: who is the authority issuing the command? The answer lies in the understanding that elders commonly give commands to the younger. Extending this idea, God, the creator of the world, holds the highest authority, and what He communicates commandingly is considered a <b>commandment</b> or <b>law</b>. This law comprises unalterable acts and is commonly referred to as <b>dharma.</b> The term ‘dharma’ is employed because this law is inherently unchangeable. For instance, the spiciness of a chili pepper is an unalterable characteristic, or dharma, of the chili pepper. This spiciness is consistently present in all chili peppers. So, it can be said that the dharma of the chili peppers is its spiciness. Similarly, sourness is the dharma of tamarind, and bitterness is the dharma of neem.
+  Umyalo ungumfundisi onikezwe wona isenzo esiqondile. Ngokwesimo esibanzi, kuphakama umbuzo: Ngubani Ingabe igunya likhipha umyalo? Impendulo ilele ku ukuqonda ukuthi abadala bavame ukunikeza imiyalo ku mncane. Ukunwebisa lo mbono, uNkulunkulu, uMdali wezwe, ubamba igunya eliphakeme kakhulu, nokuthi akhulumisana nani ngokomthetho kubhekwa <strong>njengomyalo</strong> noma <strong>umthetho</strong>. Leli Umthetho uhlanganisa izenzo ezingachazwakala futhi uvame ukubizwa ngokuthi njenge-<strong>dharma</strong>. Igama elithi 'Dharma' liqashiwe ngoba lo mthetho ukhona ayinakushintshiwe ngokwemvelo. Ngokwesibonelo, ukucwaswa kwe-chili Upelepele uyisici esingenakufinyeleleka, noma i-Dharma, ye-chili upelepele. Lokhu kwenziwa ngokungaguquguquki kuwo wonke amaChili pepper. Ngakho-ke, kungashiwo ukuthi i-Dharma yama-chili pepper ukuhlakanipha kwayo. Ngokufanayo, ubuningi yiDharma yeTamarind, Futhi ukululekwa kuyinto dharma ye-neem.
 
-  Dharma encompasses a set of rules and regulations. If one asks who has dharma, then anything that is created has dharma, just as the created tamarind, chili, and neem have dharma. Since God is the creator of creation, He does not possess any dharmas. The creator God stands beyond the constraints of dharma. Both Atma and Jeevatma, excluding God, are subject to dharmas. Additionally, the created Prakruti also possesses its own set of dharmas. To grasp Brahma Vidya or spiritual education, understanding the dharmas of Atma and Jeevatma becomes crucial. Jeevatma, specifically intended to comprehend Brahma Vidya, <b>only needs to be acquainted with the dharma of Atma.</b>
+  I-Dharma ihlanganisa iqoqo lemithetho nemigomo. Nxa Omunye ubuza ukuthi ngubani onama-dharma, khona-ke noma yini eyenziwe ine dharma, njenge-tamarind edaliwe nje, uChili no-Neem banayo Dharma. Njengoba uNkulunkulu enguMdali wendalo, akayenzi unazo ama-dharmas. UMdali uNkulunkulu umi ngaphezu kwe izingqinamba ze-Dharma. Bobabili i-atma kanye ne-jeevatma, ngaphandle UNkulunkulu, angaphansi kwe-Dharmas. Ngokwengeziwe, i-prakruti edaliwe Futhi inesethi yayo ye-Dharmas. Ukuze Uqonde Brahma Vidya noma imfundo yokomoya, ukuqonda ama-dharmas we-atma futhi UJeevatma uba nzima. Jeevatma, ihloselwe ngqo Shcici ukucophelela iBrahma Vidya, <strong>kudingeka kuphela ukujwayelane nge-Dharma ye-Atma.</strong>
 
-  In this verse, the method of understanding Atma is highlighted as significant. The Dharma Shastra delves into the nature of Atma, with the foremost dharma outlined as <b>“Loving the Lord your God is the first and greatest commandment.”</b> The Lord referred to here is primarily the one who is born. Jesus emphasized that the paramount commandment is to love the God who is born. However, a question arises: when God is the creator, uncreated, and devoid of dharma, how can the primarily born (the Lord) also be considered God? The dilemma centers around whether the self-existent is God or the one born is God. The answer to this quandary is elucidated as follows.
+  Kuleli vesi, indlela yokuqonda i-Atma kuqokonyiswe njengokubalulekile. I-Dharma Shastra Dlulela ku Uhlobo lwe-Atma, nge-Dharma ephambili echazwe <strong>"njengothando Inkosi uNkulunkulu wakho ingeyokuqala nokukhulu Umyalo. "</strong> Inkosi okukhulunywa ngayo lapha ngokuyinhloko ozelwe. UJesu wagcizelela ukuthi iparamount Umyalo ukuthanda uNkulunkulu okuzelwe. Noma kunjalo, Kuphakama Umbuzo: Lapho uNkulunkulu enguMdali, engafakwanga, futhi angenayo i-Dharma, kungenzeka kanjani ukuthi azalwe (iNkosi) futhi kubhekwe uNkulunkulu? Izikhungo ze-Dilemma zizungeze noma ngabe Ukuzethemba uNkulunkulu noma ozelwe nguNkulunkulu. Impendulo yalokhu I-Quandary icacisiwe kanjena.
 
-  God, the unborn and creator, did not undergo a birth. Initially, God created Prakruti. Following the creation of Prakruti, God (Paramatma) intended to bring forth living beings. Once Prakruti was formed, God chose not to engage in direct action. After creating the five elements—Sky, Air, Fire, Water, and Earth—God desired a state of inactivity. When God wished to manifest in a form, <b>Atma</b> (the Lord) came into existence to create, govern, and, ultimately, terminate living beings. Atma formulates rules and oversees the cycle of life and death for all living things. Since Atma is the creator of all living beings, it is fitting to refer to Atma as God. <b>Consequently, God, the creator of Prakruti, is recognized as the primary entity, while God, the creator of living organisms within Prakruti, is acknowledged as the secondary entity.</b>
+  UNkulunkulu, ongakazalwa noMdali, akazalwa. Ekuqaleni, uNkulunkulu wadala iPrakruti. Kulandela ukudalwa kwe UPrakruti, uNkulunkulu (Paramatma) wayehlose ukuletha abaphilayo izidalwa. Lapho iPrakruti yasungulwa, uNkulunkulu wakhetha ukungazibandakanyi isenzo esiqondile. Ngemuva kokudala izakhi ezinhlanu - isibhakabhaka, umoya, umlilo, Amanzi, nomhlaba - uNkulunkulu wayefisa isimo sokungasebenzi. Lapho uNkulunkulu ngifisa ukukhombisa ngendlela, i-<strong>Atma </strong>(iNkosi) yangena Ukuba khona kokwenza, ukuphatha, futhi, ekugcineni, kuqeda impilo izidalwa. U-ATMA wenza imithetho futhi wengamele umjikelezo wokuphila futhi Ukufa ngenxa yazo zonke izinto eziphilayo. Njengoba u-Atma unguMdali wabo bonke abaphilayo izidalwa, kufanelekile ukubhekisa ku-atma NjengoNkulunkulu. <strong>Ngenxa yalokho, Nkulunkulu, UMdali wePrakruti, wamukelwa njengenhlangano eyinhloko, Ngenkathi uNkulunkulu, uMdali wezinto eziphilayo ngaphakathi kwePrakruti, uyavunywa njengenhlangano yesibili.</strong>
 
-  The first God, recognized as Paramatma, created Atma, is God to Atma, and remains distinct from Atma. The second God, known as Atma, is the creator of living beings. Although both Paramatma and Atma function as creators and Gods, <b>the first God (Paramatma) is beyond dharmas, while the second God (Atma) adheres to dharmas. The God without dharmas is the primary creator, whereas the God with dharmas is the secondary creator.</b> No one knows that there are two Gods in the world. Even though there are two Gods, with the first God being the greatest, Atma holds a special significance to humans as the creator of human beings. It is essential for humans to worship Atma exclusively. Individuals are encouraged to understand the dharmas associated with the second God. Importantly, all the dharmas revealed in scriptures are centered around Atma.
+  UNkulunkulu Wokuqala, owamukelwa njenge-paramatma, wadala i-atma, Ingabe uNkulunkulu uye ku-atma, futhi uhlala ehlukile ku-atma. Okwesibili Nkulunkulu, obizwa nge-Atma, nguMdali wezinto eziphilayo. Nokho bobabili i-paramatma nomsebenzi we-atma njengabadali nonkulunkulu, <strong>Unkulunkulu wokuqala (i-paramatma) ungaphezu kwe-dharmas, kuyilapho Unkulunkulu wesibili (atma) unamathela eDharmas. Unkulunkulu ngaphandle Udharmas unguMdali ophambili, kanti uNkulunkulu naye Udharmas unguMdali wesibili. </strong>Akekho owaziyo ukuthi lapho bangonkulunkulu ababili emhlabeni. Noma kukhona onkulunkulu ababili, NgoNkulunkulu wokuqala ungumuntu omkhulu, u-Atma ubamba okhethekile ukubaluleka kubantu njengoMdali wabantu. Ikona kubalulekile kubantu ukukhulekela ku-Atma kuphela. Abantu bayakhuthazwa ukuba baqonde ama-dharmas ahambisana Unkulunkulu wesibili. Ngokubalulekile, wonke ama-dharmas avezwa ngaphakathi ImiBhalo igxile ku-Atma.
 
-  If a person desires to worship and pray, it is directed towards the second God, Atma. No one can worship the first God. It is not possible for anyone to pray or worship Him. Worship and prayer to the first God are deemed unnecessary, for this <b>God neither begets nor is born,</b> as emphasized in the final scripture. Surah 112 further reinforces that <b>the first God is indifferent to prayers.</b> It is noteworthy that both Christians and Muslims may not recognize the existence of two Gods (two Allahs), as they uphold the belief in a singular God whom they worship. However, the distinction between <b>the God to be worshipped and the initial creator God</b> is often overlooked. The Hindus are unaware of God but worship many deities and walk in the wrong path (ignorant path) altogether.
+  Uma umuntu efisa ukukhulekela futhi athandaze, kuyaqondiswa ubheke kunkulunkulu wesibili, atma. Akekho ongakhonza okokuqala UNkulunkulu. Akunakwenzeka ukuthi noma ngubani athandaze noma amkhonze. Ukukhulekela nokuthandaza kuNkulunkulu wokuqala kuthathwa njengokudingekile, <strong>Ngoba loNkulunkulu akaze azalwe futhi akazalwa</strong>, njengoba kugcizelelwa ku umbhalo wokugcina. USurah 112 ugcizelela futhi ukuthi <strong>uNkulunkulu wokuqala ayinandaba nemikhuleko.</strong> Kuyaphawuleka ukuthi womabili amaKristu futhi amaSulumane kungenzeka angakuboni ubukhona bonkulunkulu ababili (ababili U-Allahs), njengoba bexhasa inkolelo ngoNkulunkulu oyedwa khonza. Kodwa-ke, umehluko phakathi <strong>kukaNkulunkulu Kukhulekelwe futhi uMdali wokuqala uNkulunkulu </strong>uvame ukunganakwa. AmaHindu awazi uNkulunkulu kepha akhonze onkulunkulu abaningi futhi Hambani ngendlela engafanele (indlela engazi) ngokuphelele.
 
-  The first God transcends the realm of dharmas, making Him unknowable and beyond worship. To worship Atma, the God governed by dharmas, specific elements of the human body become essential. According to the Dharma Shastra, it is crucial for Jeeva to worship Atma, the God, using both manas and buddhi. This becomes significant dharma. The verse emphasizes, <b>“Love Atma, the God, with all your heart, soul, and mind,”</b> where love is interpreted as worship. This stands as the foremost commandment or dharma. <b>Interpreting the commandment as dharma, ‘all your heart’ signifies all your buddhi, and ‘all your soul’ refers to you, Jeeva. Love, in this context, implies worship. In the Dharma Shastra, it is said that you should worship Atma, the God, with your mind and your buddhi.</b> With the mention of the second commandment, let us delve into what it entails.
+  Unkulunkulu wokuqala weqa indawo ye-Dharmas, ekwenza Kuye engaziwa nangaphezulu kokukhulekelwa. Ukukhuleka ku-Atma, The UZimu wabuswa nguDharmas, izakhi ezithile zomuntu umzimba uba obalulekile. Ngokusho kukaDharma Shastra, kunjalo kubalulekile ukuthi uJeeva akhulekele ku-ATMA, uNkulunkulu, esebenzisa ama-manas womabili noBuddhi. Lokhu kuba yi-Dharma ebalulekile. Ivesi Ugcizelela, <strong>"thanda u-Atma, uNkulunkulu, ngenhliziyo yakho yonke, umphefumulo. nengqondo, "</strong>lapho uthando luhunyushwa njengokukhulekelwa. Lokhu kumi njengomyalo ophambili noma i-Dharma. <strong>Ukutolika Umyalo njengeDharma, 'yonke inhliziyo yakho' isho konke okwakho UBuddhi, futhi 'wonke umphefumulo wakho' ubhekisele kuwe, Jeeva. Uthando, kulokhu umongo, kusho ukukhulekelwa. E-Dharma Shastra, kuthiwa ukuthi kufanele ukhulekele ku-ATMA, uNkulunkulu, enomqondo wakho</strong><strong>neBuddhi lakho</strong>. Ngokukhulunywa kwesibili Umyalo, ake sinikezele kulokho okubandakanya.
 
-  The second commandment instructs, <b>“Love your neighbor as yourself.”</b> These two commandments form the cornerstone of the Dharma Shastra and the teachings of the Prophets, as stated in the verse. Essentially, they serve as the foundation for the dharmas within the realm of Brahma Vidya and the guidance provided by the Prophets in imparting these dharmas. The verse subtly suggests that self-love and the prioritization of personal well-being are universal tendencies. When faced with threats, individuals exhibit an innate instinct to safeguard their own lives, often going to extraordinary lengths, even at the cost of sacrificing possessions. The profound hope individuals harbor for their own lives is evident in their prayers to various deities and their willingness to undertake any measure to ensure their well-being. This observation highlights the innate tendency of individuals to prioritize self-love. The verse instructs, “Love your neighbor as yourself,” emphasizing the imperative to extend the same degree of care and consideration to one’s neighbor as one inherently seeks for their own well- being and values their own life.
+  Umyalo wesibili uyalela, <strong>"thanda okwakho umakhelwane njengoba wena. "</strong> Le miyalo emibili yakha itshe le-Dharma Shastra nezimfundiso ze Abaporofidi, njengoba kushiwo evesini. Empeleni, bakhonza njenge Isisekelo se-Dharmas ngaphakathi kwe-Realm of Brahma Vidya kanye nokuholwa okunikezwe ngabaporofidi ekudluliseni lokhu dharmas. Leli vesi liphakamisa ukuthi ukuzithanda kanye Ukubekwa ngaphambi kwenhlala-kahle yomuntu siqu kuvame ukuthambekela. Lapho ubhekene nezinsongo, abantu babonisa isimo sangaphakathi ukuvikela izimpilo zabo, imvamisa iya ngokwejwayelekile Ubude, noma ngabe kunezindleko zokudela impahla. Le khasi Ithemba eliphambili lezokuvakasha kwabantu ezimpilweni zabo kuyabonakala emithandazweni yabo konkulunkulu abahlukahlukene nokuzimisela kwabo yenza noma yisiphi isilinganiso sokuqinisekisa inhlala-kahle yabo. Leli ukubonwa kuqokomisa ukuthambekela kwangaphakathi kwabantu ukubeka phambili ukuzithanda. Ivesi liyala, "Thanda umakhelwane wakho njengoba ngokwakho, "ukugcizelela okubalulekile ukuze kunwetshwe okufanayo izinga lokunakekelwa nokucatshangelwa komakhelwane bomuntu njengoyedwa ngokwemvelo kufuna inhlala-kahle yabo futhi izindinganiso zazo Impilo.
 
-  While the conventional understanding of a ‘neighbor’ often refers to someone living next door, the verse, “Love your neighbor as yourself” urges us to extend love to the one very close to us, not our next-door neighbor. Delving deeper, the verse prompts reflection on who our neighbor truly is. According to the verse, aside from your <b>Atma,</b> there is no one else within your body. If you identify as a soul (Jeevatma), there is another soul akin to you — the second God, Atma. In total, there are only three souls, signifying two souls besides yourself, with one being Paramatma. However, referring to Paramatma as your neighbor is impractical since He is omnipresent and all-pervading. Excluding Paramatma, the remaining Atma is your neighbor. This concept aligns with the understanding that, except for Atma and Paramatma, all of creation is considered feminine Prakruti, with Atma and Paramatma representing the masculine aspect.
+  Ngenkathi ukuqonda okuvamile 'umakhelwane' kuvame ukubhekisela kumuntu ophilayo osondelene naye, leli vesi, "thanda elakho Umakhelwane njengoba wena "usinxusa ukuba sinwebe uthando kuye Eduze kwethu, hhayi umakhelwane wethu olandelayo. Ukuphuza kujule, Ivesi livusa ukubonisa ukuthi umakhelwane wethu ngempela. Ngokwevesi, eceleni kwe-<strong>Atma</strong> yakho, akekho okunye ngaphakathi komzimba wakho. Uma ukhomba njengomphefumlo (jeevatma), lapho ngomunye umphefumulo ofana nawe - uNkulunkulu wesibili, i-atma. Sekukonke, Kunemiphefumulo emithathu kuphela, ekhombisa imiphefumulo emibili ngaphandle kwalokho ngokwakho, nge-paramatma eyodwa. Kodwa-ke, kubhekiswa ku Paramatma njengoba umakhelwane wakho kungenzeki kahle kusukela kunjalo i-ompernipresent futhi konke-i-pervading. Ngaphandle kwe-paramatma, the osele ku-Atma umakhelwane wakho. Lo mqondo uqondanisa ne Ukuqonda lokho, ngaphandle kwe-Atma neParamatma, konke Indalo ibhekwa njengowesifazane Prakruti, one-Atma futhi I-Paramatma emele isici sabantu besilisa.
 
-  Atma, being the only masculine entity akin to you, is appropriately deemed your neighbor. The first God, Paramatma, stands beyond the realm of worship, relationships, and dharmas, making Atma the rightful subject of worship. The divine scriptures consistently assert the worthiness of worshiping Atma, labeling Him as <b>‘your Allah.’</b> This declaration is reiterated in Surah 6:102, 3:18, and 16:51. The significance of the two commandments, “Love your neighbor Atma as yourself,” is underscored in the Dharma Shastra. <b>Worshiping Atma emerges as the primary duty of gurus, preachers, and prophets.</b> This is evident in the response Jesus gave to a Pharisee when questioned about the most fundamental dharma in the law. Reflecting on this verse prompts a deeper consideration of the entity you are directing your worship towards.
+  I-Atma, ukuba ukuphela kwenhlangano ye-masculine akink kuwe, ngokufanele uthathwa njengomakhelwane wakho. UNkulunkulu Wokuqala, UParamatma, ume ngaphezu kombuso wokukhulekelwa, ubudlelwane , nama-dharmas, okwenza ama-atma ngesihloko esifanele kokukhulekelwa. ImiBhalo yaphezulu igcizelela njalo Ukufanelekela ukukhulekela ku-Atma, kumbhalela ukuthi ' <strong>UAllah</strong>. 'Lesi simemezelo siphinde saphindwa eSurah 6: 102, 3:18, futhi 16:51. Ukubaluleka kwemiyalo emibili, "thanda eyakho Umakhelwane u-ATMA njengoba uzithanda wena, "ugcizelele eDharma Shastra<strong>. Ukukhulekela ku-Atma kuvela njengomsebenzi oyinhloko we UGurus, abashumayeli nabaprofethi. </strong>Lokhu kubonakala ku Impendulo uJesu yanikeza umFarisi lapho ebuzwa imibuzo nge I-Dharma ebalulekile emthethweni. Ukucabanga ngaleli vesi kushukumisa ukucatshangelwa okujulile kwebhizinisi oliqondisa ukukhulekelwa kwakho kuyo.
+
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 47,
-verse: ` <b>(46)	The Gospel of Mathew, 23rd chapter, 8th, 9th and 10th verses.</b>`,
+verse: ` <b>(46)	IVangeli likaMathewu, Isahluko 23RD, 8th, 9th, namavesi ayi-10.</b>`,
 meaning: ` <b>
-(8) “But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.
+(23:8) "Kepha akufanele ubizwa ngokuthi 'Rabi,' kuwe ube nothisha oyedwa, futhi nina ningabafowethu.
 <br><br>
-(9) And do not call anyone on earth ‘father,’ for you have one Father, and he is in paraloka.
+(23:9) Futhi ungabizi muntu kuyise emhlabeni, 'ngawe babe nobaba oyedwa, futhi usebaphathekayo.
 <br><br>
-(10) Nor are you to be called instructors, for you have one Instructor, the Messiah. </b>`,
+(23:10) Futhi futhi awubizwa ngokuthi abafundisi, kuwe Unomfundisi oyedwa, uMesiya. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some may refer to a preacher as a father or consider gurus who preach equal to a father. However, the verse states that no one should be called a preacher. It says not to call anyone Rabbi, as there is only one master, and all others are brothers, as stated in the verse. A preacher is someone who teaches, but the verse refers specifically to one who teaches divine wisdom. According to the verse, only one person knows divine wisdom, and no one else does. Why do the rest of them not know? Who is the one who knows? The answer to those questions is as follows.
+<div class="poem"><div class="poemtext">
+  Abanye bangabhekisela kumshumayeli njengobaba noma acabangele UGurus oshumayela olingana nobaba. Kodwa-ke, leli vesi lifunda ukuthi akekho umuntu okufanele abizwe ngokuthi umshumayeli. Ithi ukungabizi Noma ngubani uRabi, njengoba kunenkosi eyodwa kuphela, futhi bonke abanye bakhona Bafowethu, njengoba kushiwo evesini. Umshumayeli ngumuntu Ufundisa, kepha leli vesi libhekisela ngqo kulowo ofundisa Ukuhlakanipha kwaphezulu. Ngokwevesi, umuntu oyedwa kuphela owaziyo Ukuhlakanipha kwaphezulu, futhi akekho omunye owenzayo. Kungani bonke abanye Angazi? Ngubani owaziyo? Impendulo kulabo Imibuzo imi ngalendlela elandelayo.
 
-  God’s wisdom is not known to anyone except God, as stated in the divine scriptures. It is also mentioned in the divine scriptures that God did not pass His wisdom onto any human being. This means that no person knows God’s wisdom. Therefore, no one can teach God’s wisdom. Hence, you should not be called Rabbi, as stated in the verse. Only God can teach the wisdom of God. Thus, it is said in the verse that your master is only one, and He is God. A human being is not a master (teacher), and all human beings are brethren, as stated in the verse.
+  Ukuhlakanipha kukaNkulunkulu akaziwa muntu ngaphandle kukaNkulunkulu, njengoba kushiwo emiBhalweni yaphezulu. Kukhulunywa futhi ku-Divine ImiBhalo uNkulunkulu akazange aphasise ukuhlakanipha kwakhe kunoma yimuphi umuntu kokuba. Lokhu kusho ukuthi akekho owaziyo ukuhlakanipha kukaNkulunkulu. Ngakho-ke, akekho umuntu ongafundisa ukuhlakanipha kukaNkulunkulu. Ngakho-ke, kufanele ungabizwa ngokuthi Rabi, njengoba kushiwo evesini. NguNkulunkulu kuphela ongafundisayo ukuhlakanipha kukaNkulunkulu. Ngakho-ke, kuthiwa evesini inkosi yakho Munye kuphela, futhi UnguNkulunkulu. Umuntu ongumuntu akuyona inkosi (Mfundisi), nabo bonke abantu bangabafowethu, njengoba kushiwo ku vesi.
 
-  Everyone has biological parents. Everyone believes that the visible parents from childhood are the real parents. Many elders advise that you should respect your parents. Everyone respects their biological parents. It may be said that there are no other mother or father figures except for the visible parents. All of this is worldly related. However, every man has invisible, unknown parents according to divine wisdom. If asked whether visible parents are real parents or invisible parents are real parents, it becomes evident that invisible parents are real parents. The reason we say this is that the father is the seed donor for every human being. Accordingly, <b>God (Atma), the unseen father, is the seed donor of all living beings.</b> Hence, the invisible father becomes the real father. Whether we know it or not, our birth father is Atma. Therefore, <b>do not call any man your father upon the earth, for one is your father, who is in paraloka,</b> as said in the verse.
+  Wonke umuntu unabazali bemvelo. Wonke umuntu uyakukholwa lokho Abazali ababonakalayo kusukela ebuntwaneni bangabazali bangempela. -Ngakanani Abadala beluleka ukuthi kufanele uhloniphe abazali bakho. Wonke umuntu ihlonipha abazali babo bemvelo. Kungashiwo ukuthi kukhona Akekho omunye amanani noma ubaba kuphela ngaphandle kwabazali ababonakalayo. Konke lokhu kuhlobene nezwe. Kodwa-ke, wonke umuntu akabonakali, Bazali abangaziwa ngokusho kokuhlakanipha kwaphezulu. Uma ebuzwa ukuthi Abazali ababonakalayo abazali bangempela noma abazali abangabonakali bangempela Bazali, kuba sobala ukuthi abazali abangabonakali bangokoqobo Bazali. Isizathu sokuthi sikusho lokhu ukuthi uYise yiNzalo onikelayo kuwo wonke umuntu. Ngokuvumelana nalokho, <strong>uNkulunkulu (atma), Baba ongabonakali, ungumnikelo wembewu wazo zonke izidalwa eziphilayo</strong>. Ngakho-ke, Ubaba ongabonakali uba ubaba wangempela. Ukuthi siyazi noma cha, ubaba wethu wokuzalwa ngu-Atma. <strong>Ngakho-ke, ungabizi Umuntu uyihlo emhlabeni wakho emhlabeni, ngokuba umuntu ungubani, Ngubani osekhungweni, </strong>njengoba kusho evesini.
 
-  The verse states that the visible preacher is not the true preacher, the biological father is not the actual father, and the visible guru is not the right guru. Many teach something and are called gurus. If you are called a guru, then you are playing a role that is not suitable for you. God alone can come to earth as a Guru at any time. When God incarnates as a human being, He becomes the Guru and teaches wisdom. Therefore, we should understand that <b>the incarnation of God as a man on earth is the true Guru.</b>
+  Leli vesi lithi umshumayeli obonakalayo akayona iqiniso umshumayeli, ubaba wezemvelo akayona ubaba uqobo, no I-Guru ebonakalayo akuyona i-guru efanele. Abaningi bafundisa okuthile futhi babizwa ngokuthi yi-gurus. Uma ubizwa nge-guru, khona-ke uyadlala Indima engakulungele. NKULUNKULU WONKE UNKULUNKULU njenge-guru nganoma yisiphi isikhathi. Lapho uNkulunkulu efaka umuntu njengomuntu, Uba yi-guru futhi afundise ukuhlakanipha. Ngakho-ke, thina kufanele baqonde ukuthi <strong>ukubonwa kukaNkulunkulu njengendoda Umhlaba uyi-guru yangempela.</strong>
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 48,
-verse: ` <b>(47)	The Gospel of Mathew, 23rd chapter, 15th verse.</b>`,
+verse: ` <b>(47)	IVangeli likaMathewu, Isahluko 23, 15 isiqendu.</b>`,
 meaning: `  <b>
-(15) “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.  </b>`,
+(23:15) "Maye kuwe, othisha bomthetho nabaFarisi, Nina bazenzisi! Uhamba phezu komhlaba nolwandle ukunqoba a ukuguqula okukodwa, nalapho usuphumelele, wena Zenzele ingane ephindwe kabili yesihogo njengoba unjalo.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Religion did not exist until three thousand years after Kali Yuga. Two thousand years ago, when Christianity was born, Christians initially emerged as groups and later formed a Christian community. After some time, the Christian community claimed itself to be a Christian religion. Thus, the first religion was born. After claiming to be a Christian religion, they tried to expand their faith. Others later identified themselves as a religion based on their teachings. Thus, religions were created one after the other. Very soon, twelve religions formed on earth. After the creation of religions, some people became involved in expanding their faiths. They traveled over land and sea to convert others to their religion.
+<div class="poem"><div class="poemtext">
+  Inkolo ayizange ibe khona kuze kube yiminyaka eyizinkulungwane ezintathu emva Kali yuga. Eminyakeni eyizinkulungwane ezimbili edlule, lapho kuzalwa ubuKristu, AmaKhristu ekuqaleni aqhamuke njengamaqembu futhi kamuva aqala kwakhiwa a Umphakathi wamaKristu. Ngemuva kwesikhashana, umKristu Umphakathi wazithi ziyinkolo yobuKristu. Ngakho-ke, Inkolo yokuqala yazalwa. Ngemuva kokufuna ukuba yinkolo yobuKristu, bazama ukwandisa ukholo lwabo. Abanye kamuva bakhonjwa bona njengenkolo esekelwe ezimfundisweni zabo. Ngakho-ke, Izinkolo zadalwa zalandelana. Maduze nje, ishumi nambili Izinkolo zakhiwa emhlabeni. Ngemuva kokudalwa kwezinkolo, ezinye abantu babandakanyeka ekwandiseni izinkolo zabo. Bona wahamba phezu komhlaba nolwandle ukuguqula abanye enkolweni yabo.
 
-  Religion is created by people’s will, not by God’s wisdom. In these religions created by people, there appears to be divine wisdom, but the wisdom in them is contrary to the wisdom revealed by God. Hence, a person who relies on divine wisdom and scripture, regardless of religion, will understand God’s teachings and wisdom. If a person is tied to religion and claims to belong to a specific religious group, they will understand Maya’s wisdom. If a person embraces religion, he will become entangled in sin. On the other hand, a person without religious affiliation will be eligible to enter the kingdom of paraloka.
+  Inkolo yadalwa yintando yabantu, hhayi ngobuhlakani bukaNkulunkulu. Kulezi zinkolo ezidalwe ngabantu, kubonakala sengathi ziba nguNkulunkulu Ukuhlakanipha, kepha ukuhlakanipha kubo kuphambene nokuhlakanipha kwembulwa uNkulunkulu. Ngakho-ke, umuntu othembela ekuhlakanipheni kwaphezulu nomBhalo, noma ngabe uphi inkolo, uzokuqonda teacukukhala nokuhlakanipha. Uma umuntu eboshelwe enkolweni nasekubizeni ukuba ngeqembu lenkolo ethile, bazoqonda Ukuhlakanipha kukaMaya. Uma umuntu ehlanganisa inkolo, uzoba ebanjwa esonweni. Ngakolunye uhlangothi, umuntu ongenakho ngokwenkolo Ukuhlangana kuzofanelekela ukungena embusweni wePharage.
 </div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 49,
-verse: `<b>(48) The Gospel of Mathew, 24th chapter, 35th verse.</b>`,
+verse: `<b>(48) IVangeli likaMathewu, Isahluko 24, 35th isiqendu.</b>`,
 meaning: ` <b>
-(35) Sky and earth will pass away, but my words will never pass away.       </b>`,
+(24:35) Isibhakabhaka nomhlaba kuzodlula, kepha amazwi ami azovuma ungalokothi udlule.      </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Paramatma (God) does not speak. Atma, which resides in the body, can speak. Atma is the second creator and the second God. Atma, present in the body, communicates through speech. The second God (Atma) imparts much wisdom to humanity. The wisdom taught in this manner is conveyed through words. Atma’s teachings from the body, in the form of words, will never pass away, even if the sky and earth were to pass away, as stated in the verse. What is important to note here is <b>that the sky and earth mentioned will pass away, but my words will never pass away.</b> But it can be said that the sky and the earth never pass away. However, the verse seems to convey that the sky and earth will pass away. Therefore, we should understand that both the sky and earth mentioned in the verse are not the sky and earth we see. The sky and the earth described in the verse are perishable. The earth and the sky that never perish are one type, while the perishable earth and sky are another kind. In Prakruti, which is in the form of the human body, there is the sky, air, fire, water, and earth. All of them—the first sky, the last earth, and the remaining air, fire, and water— in the form of the body are perishable. <b>The human body will perish, but the wisdom imparted from man will never pass away.</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  UParamatma (uNkulunkulu) akakhulumi. I-ATMA, ehlala Emzimbeni, uyakwazi ukukhuluma. U-ATMA unguMdali wesibili no Unkulunkulu wesibili. I-ATMA, ikhona emzimbeni, iyaxhumana Inkulumo. Unkulunkulu wesibili (atma) unikeza ukuhlakanipha okuningi ubuntu. Ukuhlakanipha okufundiswe ngale ndlela kuyavezwa ngamagama. Izimfundiso ze-ATMA ezivela emzimbeni, ngesimo se amagama, awokuphinde adlule, noma ngabe isibhakabhaka nomhlaba bekufanele Dlula, njengoba kushiwo evesini. Okubalulekile ukuqaphela Nakhu <strong>ukuthi isibhakabhaka nomhlaba okukhulunywe ngaye kuzodlula, Kepha amazwi ami awusoze wadlula</strong>. Kepha kungashiwo lokho isibhakabhaka nomhlaba awukaze udlule. Noma kunjalo, leli vesi Kubukeka kukhombisa ukuthi isibhakabhaka nomhlaba kuzodlula. Ngakho-ke, kufanele siqonde ukuthi zombili isibhakabhaka nomhlaba okukhulunywe ngaye evesini akusona isibhakabhaka nomhlaba esiwubonayo. Le khasi Isibhakabhaka nomhlaba okuchazwe evesini kuyabonakala. Le khasi umhlaba nesibhakabhaka esingalokothi siphele uhlobo olulodwa, kuyilapho Umhlaba obonakalayo nesibhakabhaka ngolunye uhlobo. EPrakruti, okuyi ngesimo somzimba womuntu, kukhona isibhakabhaka, umoya, umlilo, amanzi, nomhlaba. Bonke - isibhakabhaka sokuqala, umhlaba wokugcina, kanye umoya osele, umlilo, kanye namanzi- ngesimo somzimba iyabonakala. <strong>Umzimba womuntu uzoshabalala, kepha Ukuhlakanipha okunikezwe ngumuntu ngeke kudlule.</strong></div></div>
 </span>`
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 50,
-verse: `<b>(49)	The Gospel of Mathew, 24th chapter, 42nd verse. </b>`,
+verse: `<b>(49)	IVangeli likaMathewu, 24 Isahluko, 42nd isiqendu. </b>`,
 meaning: ` <b>
-(42) Therefore, keep watch, because you do not know on what day your Lord will come.      </b>`,
+(24:42) Ngakho-ke, hlala ubukele, ngoba awukwenzi yazini ukuthi iNkosi yenu izofika ngaluphi usuku.      </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Whenever there is a threat to God’s dharmas on Earth, and Satan’s dharmas spread extensively, God sends a part of Himself to the earth to protect His commandments (dharmas). Whenever there is a need, God must come as a human being. Krishna in the Dvapara Yuga and the Lord Jesus in the Kali Yuga came in that manner. Remarkably, we could identify them after they arrived and left, but when they were on Earth, we could not identify who they were. No one recognized when God Himself came as the Lord. Even those who saw His glory could not know that He was God but thought He was great. In Dvapara Yuga, Krishna said, <b>“I will come when dharmas are polluted.”</b> He came again as Lord Jesus and reiterated His dharmas. There will not be any difference in the commandments He gave, either in Dvapara Yuga or Kali Yuga. But there are no similarities in their names, lives, and lifestyles. Hence, Satan emphasized their external differences and tricked humans into not realizing that both were the same. Man needs some wisdom in order to know who has come, who is to come, when He has come, and when He can come. As long as man is in ignorance, he does not know God’s coming and remains unaware even after God has come and gone. Therefore, if people want to know God’s arrival and recognize Him, they must possess wisdom related to God. Nowadays, God’s wisdom is not known, and Satan’s wisdom is widespread. Hence, <b>“You do not know on what day your Lord will come,” said the verse. “Stay awake to know Him,”</b> is also mentioned in the verse. Here<b> ’stay awake’ means having wisdom.</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Noma nini lapho kunosongo kuma-dharmas kaNkulunkulu emhlabeni, Futhi ama-dharmas kaSathane asakazeka kakhulu, uNkulunkulu uthumela ingxenye Yena ngokwakhe emhlabathini ukuvikela imiyalo yakhe (Dharmas). Noma nini lapho kunesidingo, uNkulunkulu kufanele eze njengomuntu ongumuntu. UKrishna eDVapara yuga naseNkosini Jesu eKali Yuga wafika ngaleyo ndlela. Ngokumangazayo, singazikhomba ngemuva bafika bahamba, kodwa lapho besemhlabeni, sasikwazi ungakhombe ukuthi bangobani. Akekho owabona lapho uNkulunkulu Ngokwakhe weza njengeNkosi. Ngisho nalabo ababona inkazimulo yakhe babekwazi Angazi ukuthi wayenguNkulunkulu kodwa wacabanga ukuthi mkhulu. Phakathi kwa- UDVapara yuga, uKrishna wathi, <strong>"Ngizofika lapho ama-dharmas kungcolisiwe. " </strong>Wabuya futhi njengeNkosi uJesu futhi waphinda yena dharmas. Ngeke kube khona umehluko ku Imiyalo ayinike yona, kungaba eDVara yuga noma eKali Yuga. Kepha akukho ukufana ngamagama azo, izimpilo nangendlela yokuphila. Ngakho-ke, uSathane wagcizelela umehluko wawo wangaphandle futhi bakhohlise abantu ukuba bangazi ukuthi bobabili babefana. Indoda idinga ukuhlakanipha okuthile ukuze wazi ukuthi ngubani ofikile, ngubani Woza, lapho efikile, futhi lapho efika. Inkani nje Umuntu uyakuzi, akazi ukuza uNkulunkulu futhi kuhlala kungazi ngisho nangemva kokuba uNkulunkulu efikile. Ngakho-ke, uma abantu bafuna ukwazi ukufika kukaNkulunkulu futhi baqaphele Yena, kufanele babe nokuhlakanipha okuhlobene noNkulunkulu. Kulezi zinsuku, Ukuhlakanipha kukaNkulunkulu akwaziwa, futhi ukuhlakanipha kukaSathane kugcwele. Ngakho-ke, "<strong>Anazi ukuthi iNkosi Yakho Ithanda Woza, "</strong>kusho ivesi. <strong>"Hlala uphapheme ukuze umazi," </strong>futhi okukhulunywe ngaye evesini. Lapha '<strong>uhlale uphapheme' kusho ukuba Ukuhlakanipha.</strong></div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 51,
-verse: ` <b>(50) The Gospel of Mathew, 26th chapter, 26th, 27th and 28th verses.</b>`,
+verse: ` <b>(50) IVangeli likaMathewu, Isahluko 26, 26, Amavesi angama-27 nama-28.</b>`,
 meaning: `<b>
-(26) While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”
+(26:26) Ngenkathi bedla, uJesu wathatha isinkwa, futhi lapho ebonge, wayiphula wayinika yona Abafundi bakhe, bathi: "Thatha udle; Lo mzimba wami. "
 <br><br>
-(27) Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.
+(26:27) Wabe esethatha inkomishi, kwathi lapho enikele Ngiyabonga, Wabanika, bathi, "Phuzani kuso, konke kuwe.
 <br><br>
-(28) This is my blood of the covenant (God’s wisdom without the bonds of ignorance), which is being poured out for many for the forgiveness of sins. </b>`,
+(26: 28) Leli yigazi lami lesivumelwano (ukuhlakanipha kukaNkulunkulu ngaphandle kwezibopho zokungazi), okukhona wathululela abaningi ukuze intethelelo yezono. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  While Jesus and His twelve disciples were eating, Jesus took bread, blessed it, broke it, gave it to His disciples, and said, <b>“Take and eat; this is my body.”</b> He also took grape juice in a cup and said, <b>“All of you drink from it; this is my blood.”</b> He compared grape juice to His blood and elaborated further, stating, <b>“This is my blood of the covenant, which is being poured out for many for the forgiveness of sins.”</b> These seemingly ordinary words of Jesus should be considered among the most important of His teachings. Unfortunately, some Christians, unaware of the essence of these words spoken at mealtime, fail to grasp their significance. <b>Some interpret that Jesus spoke these words about His past or future although it was about the present.</b>
+<div class="poem"><div class="poemtext">
+  Ngenkathi uJesu nabafundi bakhe abayishumi nambili bedla, uJesu wathatha isinkwa, wasibusisa, wasihlephula, wayinika abafundi bakhe, futhi wathi, <strong>"Thatha udle; Lo mzimba wami. " </strong>Wathatha nejusi lamagilebhisi Endebeni wathi, <strong>"Nonke niphuze kulo; lena yimi igazi. "</strong> Waqhathanisa ujusi wamagilebhisi egazini lakhe futhi wacacisa Ngaphezu kwalokho, wathi, <strong>"Leli yigazi lami lesivumelwano, okuyilo Ukuthululelwa abaningi ukuze intethelelo yezono. "</strong>
 
-  Jesus gave grape juice in a cup and said, “This is my blood,” but He did not specify that it was the blood of His body that was shed on the cross. Nevertheless, many Christian preachers attribute the blood mentioned in this verse to Jesus’ body’s blood shed on the cross, claiming that a person’s sins are forgiven because Jesus spilled His blood for sinners. However, there is a discrepancy between what man says and what Jesus said. Jesus did not mention His body’s blood in the verse. In such cases, it would be unfair to say that Jesus shed His blood for sinners. On that day, those who put Jesus on the cross, made Him spill His blood, and caused His death committed a terrible and unforgivable sin. However, it would be incorrect to assert that people’s sins were forgiven and will be forgiven by Jesus’ death.
+  Lawa mazwi abonakala evamile kaJesu kufanele abe kubhekwe phakathi kwezimfundiso zakhe ezibaluleke kakhulu. Ngeshwa, amanye amaKristu, angazi ngomongo we la magama akhulunywa ngesikhathi sokudla, ahluleke ukuqonda okwabo ukubaluleka. <strong>Abanye bahumusha ukuthi uJesu wakhuluma la mazwi mayelana nesikhathi sakhe esedlule noma esizayo yize kwakukhona njengamanje.</strong>
 
-  When Jesus gave grape juice to His disciples and said, <b>“This is the blood of the covenant, which is being poured out for many for the forgiveness of sins,”</b> He used the present tense, indicating that it was happening at that moment, and did not mention a future event. He did not allude to the future spilling of His blood on the cross. Therefore, it would be incorrect to claim that the blood spilled on the cross was for the forgiveness of sins. <b>Those responsible for Jesus spilling His blood on the cross received sin, not forgiveness of sin.</b> What Jesus referred to was the blood of the covenant, signifying God’s wisdom, which is not bound by ignorance. He taught this divine wisdom daily, comparing it to the pouring out of the blood of the covenant from His mouth. He imparted the fire of wisdom each day to burn away human sins, likening His teachings to covenant blood flowing from His mouth. The true meaning of this verse can only be understood through careful analysis.
+  UJesu wanika ujusi wamagilebhisi endebeni futhi wathi, "Lokhu kuyimi igazi, "kepha akazange achaze ukuthi kwakuyigazi lomzimba wakhe lokho kwahlaselwa esiphambanweni. Noma kunjalo, amaKristu amaningi Abashumayeli bathi igazi mkufakwe leli vesi kuJesu ' Igazi lomzimba elichithekile esiphambanweni, lithi izono zomuntu baxolelwa ngoba uJesu wachitha igazi lakhe ngezoni. Kodwa-ke, kunokungafani phakathi kokushiwo umuntu futhi Lokho uJesu akusho. UJesu akazange asho igazi lomzimba wakhe ku ivesi. Ezimweni ezinjalo, bekungaba ukungalungile ukusho ukuthi uJesu wachitha Igazi lakhe lezoni. Ngalolo suku, labo ababeka uJesu ku wamnqamula igazi lakhe, wabulala. wenze isono esibi futhi esingenakuthethelelwa. Kodwa-ke, bekuzokwenza ungalungile ukusho ukuthi izono zabantu baxolelwe futhi bazokwazi Uxolelwe ngokufa kukaJesu.
 
-  The meaning of the statement is poorly understood because the word ‘covenant’ is often omitted from the phrase ‘covenant blood’ with only the word ‘blood’ being considered. It is not realized that ‘covenant’ means ‘wisdom with dharmas.’ Another reason for mentioning ‘blood’ in the verse is not physical blood. The physical body is full of blood, and as long as there is blood in the body, the body is alive. If the body sheds its blood, the body dies. According to this, it becomes known that the essence of the body is blood. While they were eating, Jesus first took bread and gave it to His disciples, saying, <b>“Take and eat; this is my body.”</b> Here He compared bread with His body. Then He took grape juice in a cup and gave it to them, saying, <b>“This is my blood of the covenant.”</b> He said about the bread, “This is my body. Eat this.” Jesus compared the bread to His body and instructed them to eat it. If you eat bread, then you are eating Jesus’s body. The basis and the essence of the body is its blood.
+  Lapho uJesu enikeza ujusi wamagilebhisi kubafundi bakhe futhi wathi, <strong>"Leli yigazi lesivumelwano, elikhona wawuthulula abaningi ngokuthethelelwa kwezono, "</strong>wasebenzisa isikhathi samanje, esibonisa ukuthi senzeka kulokho isikhashana, futhi akazange asho umcimbi wesikhathi esizayo. Akazange aqaphele ekuchitheni ikusasa legazi lakhe esiphambanweni. Ngakho-ke, yona bekungalungile ukuthi igazi lichithwe esiphambanweni kwakuwukuthethelelwa kwezono. <strong>Labo ababhekele uJesu Ukuchitha igazi lakhe esiphambanweni kwathola isono, hhayi intethelelo yesono.</strong>Lokho uJesu kwakukhuluma ngaye kwakuyigazi lesivumelwano, Ukubonisa ukuhlakanipha kukaNkulunkulu, okungaboshelwe ukungazi. Yena wafundisa ukuhlakanipha kwaphezulu nsuku zonke, ukuqhathanisa nokuthulula ngaphandle yegazi lesivumelwano emlonyeni wakhe. Wanikeza umlilo wokuhlakanipha usuku nosuku ukuze ushise izono zabantu, ufafaze wakhe izimfundiso egqoke igazi lenkomba ligeleza emlonyeni wakhe. Iqiniso Okushiwo yileli vesi kungaqondakala ngokucophelela ukuhlaziywa.
 
-  When comparing divine wisdom to the covenant blood, the body of bread can be likened to the Holy Scripture and God’s wisdom. In this way, <b>the body contains blood, and the scripture contains wisdom. Eating the body means reading the scripture and reading it will reveal the essence of its wisdom. Drinking blood means understanding wisdom.</b> Unfortunately, people often focus only on the bread and grape juice that Jesus gave, without realizing that the bread represents the divine scripture, and the grape juice represents its wisdom. <b>Jesus compared the scripture to His body (bread) and the wisdom within it to blood (grape juice). The shedding of the blood of the covenant refers to the wisdom with dharmas being taught at that time.</b> Many have failed to recognize that Jesus compared the scripture to His body and its wisdom to blood, leading to the mistaken belief that the blood shed on the cross was for the forgiveness of sins.
+  Okushiwo isitatimende akuqondakali kahle Ngoba igama elithi 'isivumelwano' livame ukushiywa lisuka kwisisho 'Igazi lesivumelwano' linegama elithi 'igazi' elibhekwa kuphela. Yona akuboni ukuthi 'isivumelwano' sisho 'ukuhlakanipha noDharmas.' Esinye isizathu sokusho ukuthi 'igazi' evesini alikho igazi lomzimba. Umzimba wenyama ugcwele igazi, futhi ubude Njengoba kunegazi emzimbeni, umzimba uyaphila. Uma umzimba uveza Igazi layo, umzimba uyafa. Ngokwalokhu, kuyaziwa Ukuthi umongo womzimba uyigazi. Ngenkathi bedla, Okokuqala uJesu wathatha isinkwa, wayinika abafundi bakhe, wathi, <strong>"Thatha futhi udle; Lo mzimba wami. "</strong> Lapha waqhathanisa nesinkwa nokwakhe umzimba. Wayesethatha ujusi wamagilebhisi endebeni futhi wabanika, esithi, <strong>"Leli yigazi lami lesivumelwano." </strong>Uthe nge Isinkwa, "Lona ngumzimba wami. Yidla lokhu. " UJesu waqhathanisa isinkwa kuye Umzimba wakhe ubayale ukuba bayidle. Uma udla isinkwa, ke udla umzimba kaJesu. Isisekelo kanye nomongo wemzimba yigazi lawo.
 
-</div></div>
+  Lapho uqhathanisa ukuhlakanipha kwaphezulu egazini lesivumelwano, Umzimba wesinkwa ungafaniswa nomBhalo Ongcwele futhi Ukuhlakanipha KukaNkulunkulu. Ngale ndlela, <strong>umzimba uqukethe igazi, kanye umbhalo uqukethe ukuhlakanipha. Ukudla umzimba kusho ukufunda Umbhalo nokufunda kuzokwembula umongo wawo Ukuhlakanipha. Ukuphuza igazi kusho ukuqonda Ukuhlakanipha.</strong> Ngeshwa, abantu bavame ukugxila kuphela kwisinkwa kanye nejusi lamagilebhisi uJesu alinikezayo, ngaphandle kokubona ukuthi isinkwa umele umbhalo waphezulu, futhi ujusi wamagilebhisi umele kuthile Ukuhlakanipha. <strong>UJesu waqhathanisa umBhalo wakhe umzimba (isinkwa) nobuhlakani ngaphakathi kwalo kuya kwegazi (amagilebhisi ujusi). Ukuchitheka kwegazi lesivumelwano kubhekisele ku Ukuhlakanipha noDharmas kufundiswa ngaleso sikhathi.</strong>
+
+  Abaningi behlulekile ukuqaphela ukuthi uJesu wafanisa Umbhalo emzimbeni wakhe nokuhlakanipha kwawo kwegazi, okuholela ku inkolelo engafanele yokuthi igazi elichithekile esiphambanweni lalingo Ukuthethelelwa kwezono.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 52,
-verse: `<b>(51)	The Gospel of Mathew, 28th chapter, 18th verse.</b>`,
+verse: `<b>(51)	IVangeli likaMathewu, 28, i-18 isiqendu.</b>`,
 meaning: `<b>
-(18) Then Jesus came to them and said, “All authority in paraloka and on earthhas been given to me. </b>`,
+(28:18) Khona-ke uJesu weza kubo wathi: "Bonke igunya efenina nasemhlabeni linikezwe mina. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In Telugu, ‘Loka’ means having experiences. In Loka, we encounter both hardships and pleasures. The experience of pleasure is called Svarga Loka (heaven), while the experience of hardship is referred to as Naraka Loka (hell). Loka is not a separate country or special place; rather, it is the sum of all experiences. According to one’s experiences of pleasure and sorrow, Loka is divided into heaven and hell. All experiences of heaven and hell take place on earth and are not separate physical locations. So, depending on the experiences, we may refer to them as heaven or hell, but in reality, both heaven and hell exist on earth.
+<div class="poem"><div class="poemtext">
+  ETelugu, 'loka' kusho ukuba nokuhlangenwe nakho. ELoka, thina hlangana nobunzima nobumnandi. Isipiliyoni se Injabulo ibizwa ngeSvarga Loka (Izulu), ngenkathi isipiliyoni wobunzima kubhekiselwa kuzo njengeNaraka Loka (Isihogo). I-Loka akuyona Izwe elihlukile noma indawo ekhethekile; Esikhundleni salokho, yisamba sabo bonke okuhlangenwe nakho. Ngokusho kokuhlangenwe nakho komuntu kwenjabulo futhi Usizi, uLika uhlukaniswe ezulwini nesihogo. Konke okuhlangenwe nakho Izulu nesihogo senzeka emhlabeni futhi asihlukile izindawo ezibonakalayo. Ngakho-ke, kuya ngolwazi, kungenzeka bhekisa kubo njengeZulu noma esihogweni, kepha empeleni, bobabili izulu nobabili Isihogo sikhona emhlabeni.
 
-  There are two types of lokas on earth – Ihaloka and Paraloka. <b>Ihaloka involves experiences, whereas Paraloka does not have any experiences.</b> Both Ihaloka and Paraloka exist on earth. ‘Para’ means different or separate. Paraloka means something different from experiences. In other words, Paraloka has no experience and is distinct from the loka. In Telugu, ‘manishi’ means the one who acquires experiences through the manas (mind). Therefore, all people on earth belong to Ihaloka. No man has seen Paraloka. A body-wearing man is never without experiences. Therefore, it can be said that every person belongs to the loka and is living in Ihaloka. It may be said that the one with no experience is in Paraloka. <b>“All authority in Paraloka and on earth has been given to me,” said</b> the above verse.
+  Kunezinhlobo ezimbili zeLokas Emhlabeni - Ihaloka kanye ne Paraloka. <strong>Ihaloka ifaka okuhlangenwe nakho, kanti i-Paraloka ayinakho okuhlangenwe nakho</strong>. Bobabili i-iHaloka ne-Paraloka kukhona emhlabeni. 'Para' kusho okuhlukile noma okuhlukile. Paraloka kusho okuhlukile kokuhlangenwe nakho. Ngamanye amazwi, I-Paraloka ayinakho okuhlangenwe nakho futhi ihlukile kuLoka. Phakathi kwa- UTelugu, 'Manishi' kusho lowo othola okuhlangenwe nakho ngokusebenzisa ama-manas (ingqondo). Ngakho-ke, bonke abantu emhlabeni ungowakwa-Ihaloka. Akekho umuntu oke wabona i-Paraloka. Ukugqokwa komzimba Indoda ayikaze ibe khona ngaphandle kokuhlangenwe nakho. Ngakho-ke, kungaba ukusho lokho Wonke umuntu ungowe-loka futhi uhlala e-Ihaloka. Kungenzeka kushiwo ukuthi lowo ongenawo isipiliyoni u se Paraloka. <strong>"Konke Kwangiphiwe igunya e Paraloka nasemhlabeni, " kusho</strong> ivesi elingenhla.
 
-  If Jesus were an ordinary man, He would be in Ihaloka and not know Paraloka. Despite appearing to be an ordinary man, his body only had Atma and not Jeevatma. Atma lived in Jesus’s body and pretended to be a Jeevatma. Both Atma and Jeevatma exist in all humans, where Atma performs all body functions, and Jeevatma experiences joy and sorrow at work. In this way, it can be said that Jeevatma in a person’s body is in heaven at times and in hell at other times. But when God comes as a human, His body does not have Jeevatma. Although Atma works in the body of the Son of God, it does not experience anything. Therefore, He is said to be in Paraloka. Since Jesus was not an ordinary man, He has authority on earth (Ihaloka) and Paraloka. The Holy Spirit, Paramatma, gave Atma (Jesus) complete authority. Jesus, who is Atma, is also the head of divine wisdom. God’s wisdom is now known to anyone except to God. Therefore, the subject of souls is unknown to people. Jesus taught the wisdom of three souls and instructed His disciples, who knew the wisdom of the souls, to teach Atma’s wisdom to all people.
-</div></div>
+  Ukube uJesu wayengumuntu ojwayelekile, wayezoba se-Ihaloka futhi ungazi i-Paraloka. Naphezu kokubonakala njengokujwayelekile Indoda, umzimba wakhe waba no-Atma kuphela hhayi uJeevatma. u-Atma wayehlala ngaphakathi Umzimba kaJesu futhi wenza sengathi uyiJeevatma. Kokubili ku-atma kanye UJeevatma ukhona kubo bonke abantu, lapho u-Atma enza khona wonke umzimba Imisebenzi, futhi uJeevatma uhlangabezana nenjabulo nosizi emsebenzini. Phakathi kwa- Ngale ndlela, kungashiwo ukuthi uJeivatma emzimbeni womuntu ukhona Izulu ngezikhathi ezithile nasesihogweni ngezinye izikhathi. Kepha lapho uNkulunkulu Iza njengomuntu, umzimba wakhe awunayo Jeevatma. Nokho u-Atma usebenza emzimbeni weNdodana kaNkulunkulu, akunjalo uhlangabezana nanoma yini. Ngakho-ke, kuthiwa ube yi-Paraloka. Njengoba uJesu wayengeyena umuntu ojwayelekile, unegunya emhlabeni (Ihaloka) ne-paral. UMoya oNgcwele, uParamatma, wanika u Atma (Jesu) igunya eliphelele. Jesu, ngubani o-Atma, naye uyikhanda kokuhlakanipha kwaphezulu. Ukuhlakanipha kukaNkulunkulu manje kuyaziwa noma ngubani ngaphandle kukaNkulunkulu. Ngakho-ke, isihloko semiphefumulo asiziwa abantu. UJesu wafundisa ukuhlakanipha kwemiphefumulo emithathu futhi wayalwa Abafundi bakhe, ababekwazi ukuhlakanipha kwemiphefumulo, ukufundisa Ukuhlakanipha kuka Atma kubo bonke abantu.</div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel Of Mathew",
+chapterName: "IVangeli likaMathewu",
 chapterNumber: 2,
 pageNumber: 53,
-verse: ` <b>(52)	The Gospel of Mathew, 28th chapter, 19th and 20th verses.</b>`,
+verse: ` <b>(52)	IVangeli likaMathewu, 28, 19, namavesi angama-20.</b>`,
 meaning: ` <b>
-(19) Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
+(28:19) Ngakho-ke, hambani nifundise zonke izizwe. bababhapathiza egameni likaYise nowe Indodana nangoMoya oNgcwele.
 <br><br>
-(20) Teaching them to obey everything I have commanded you. And surely, I am with you always, to the very end of the age (Yuga).       </b>`,
+(28:20) Bafundise ukuba balalele konke enginakho uyakuyala. Futhi impela, nginawe njalo, ukuze ukuphela kweminyaka yobudala (Yuga).    </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The Gospel of Matthew has 28 chapters. The last verses, 19th, and 20th of chapter 28, contain the secret of the entire spiritual education. The information about the three souls mentioned in verse 19 is the most important wisdom in scripture. In this verse, the word ‘Father’ is used before the word ‘Son,’ requiring careful consideration to understand it. Those who reflect on this will know that the sequence is the Son, the Father, and the Holy Spirit. To further explain, <b>one must understand that the Son is Jeevatma, the Father is Atma, and the Holy Spirit is Paramatma.</b> There are no other souls in the world besides these three. According to the Thraitha theorem, these three souls are Jeevatma, Atma, and Paramatma.
+<div class="poem"><div class="poemtext">
+  IVangeli likaMathewu linezahluko ezingama-28. Amavesi okugcina, 19th, no-20 kwesahluko 28, siqukethe imfihlo yalokhu imfundo engokomoya. Imininingwane mayelana nemiphefumulo emithathu okukhulunywe ngaye evesini 19 kungukuhlakanipha okubaluleke kakhulu ngaphakathi UmBhalo. Kuleli vesi, igama elithi 'baba' lisetshenziswa ngaphambi kwe Izwi elithi 'ndodana,' lidinga ukucatshangelwa ngokucophelela ukuliqonda. Labo abacabanga ngalokhu bazokwazi ukuthi ukulandelana kungukuthi Ndodana, uYise, noMoya oNgcwele. Ukuqhubeka nokuchaza, <strong>eyodwa kumele aqonde ukuthi indodana yiJevatma, uYise u Atma, noMoya oNgcwele nguParamatma</strong>. Ayikho enye imiphefumulo emhlabeni ngaphandle kwalawa amathathu. Ngokuya kwe- UThraitha Theorem, le miphefumulo emithathu yiJeevatma, Atma, futhi Paramatma.
 
-  Baptism means upadesa. In Telugu, ‘Upa’ (sub) means adjacent. Upadesa means a neighboring or adjacent country. In more detail, it means “leaving this country where you are now and getting permission to go to the adjacent or neighboring country.” An officer must first give permission to go to the neighboring country. That officer can be called a Guru. Guru means the one who is the head of the neighboring country or Paraloka. No matter how many gurus are on earth, God, the head of Paraloka, is the true Guru. God, the ruler of Paraloka, is the true Guru who gives us true baptism when He comes to earth as a man. Although there are many gurus on earth, they are all gurus in name only. The baptism they give is in name only.
+  Ukubhabhadiswa kusho u-Upudasa. ETelugu, 'Upa' (sub) kusho eduze. I-Upadesa isho izwe elingumakhelwane noma eliseduze. Ngemininingwane eminingi, kusho "ukushiya leli lizwe lapho ukhona manje futhi ukuthola imvume yokuya esondele noma izwe elingumakhelwane. " Isikhulu kufanele siqale sinikeze imvume kuyo Iya ezweni elingumakhelwane. Leso sikhulu singabizwa ngokuthi yi guru. UGuru usho lowo oyinhloko yalowo omakhelwane izwe noma i-prafuca. Akunandaba ukuthi bangaki ama-gurus asemhlabeni, UNkulunkulu, inhloko ye Paraloka, uyisisu sangempela. Unkulunkulu, umbusi we Paraloka, i-guru yangempela enikeza ukubhapathizwa kweqiniso lapho iza emhlabeni njengendoda. Yize kukhona ama-gurus amaningi Umhlaba, bonke bangama-gurus ngegama kuphela. Ukubhabhadiswa abakunikezayo ngegama kuphela.
 
-  When God, the real Guru, is not on earth as a human, according to the tradition of wisdom, preachers must make some disciples and give them upadesa. Upadesa is like permission to the neighboring country. In the upadesa process, the guru instructs disciples with water, with a mantra, word, or Vibhuti (sacred ash). Upadesa is permission to Paraloka, and the word or water is like a ticket recognizing the entry to Paraloka. Most gurus use a mantra or a word in the upadesa process. Similarly, Jesus told His disciples, <b>“Go and make people of all nations disciples.”</b> He also told His disciples to baptize them when they became disciples. When giving the disciples the permission ticket in the upadesa process, He said, “Baptize them in the name of the three souls - the Father, the Son, and the Holy Spirit.” According to the wisdom tradition, baptism should be done this way. So, when John, a Guru, gave baptism, He administered baptism with water. According to that method, Jesus also received upadesa from John. At that time, John saw Jesus and spoke.
+  Lapho uNkulunkulu, i-guru yangempela, awekho emhlabeni njengomuntu, Ngokwesiko lokuhlakanipha, abashumayeli kufanele benze abanye abafundi babanika u-upadasa. I-padesa ifana imvume ezweni elingumakhelwane. Enqubweni ye-upadesa, AmaGuru afundisa abafundi ngamanzi, ene-mantra, izwi, noma IVibhuti (umlotha ongcwele). U-Upadesa uyimvume yokuba yi-Parolaka, futhi igama noma amanzi afana nethikithi elibona ukungena ku Paraloka. Iningi le-gurus lisebenzisa i-mantra noma igama ku-upadesa inqubo. Ngokufanayo, uJesu watshela abafundi bakhe, <strong>"Hamba wenze abantu bazo zonke izizwe abafundi. " </strong>Ubuye watshela abafundi bakhe ukuba Babhabhathize lapho baba ngabafundi. Lapho unikeza Ubafundi Ithikithi lemvume kwinqubo ye-upadesa, kusho yena, 'Babhapathize Ngegama Lemiphefumulo Emithathu - Ubaba, Ndodana, noMoya oNgcwele. " Ngokwesiko lokuhlakanipha, Ubhapathizo kufanele lwenziwe ngale ndlela. Ngakho-ke, lapho uJohn, i-guru, wanika Ubhapathizo, waphatha ubhapathizo ngamanzi. Ngokuvumelana ne Leyo ndlela, uJesu wathola no-Upadasa kuJohane. Kulokho Isikhathi, uJohn wabona uJesu wakhuluma.
 
-  This is what the Gospel of Matthew says in verses 3:14 and 3:15. <b>When Jesus came to Him, John tried to deter Him, saying, “I need to be baptized by you, and do You come to me?” Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness (wisdom).”</b> Even Jesus said one must receive baptism from the Guru according to the wisdom tradition. I also said the same thing about baptism. Jesus authorized His disciples to give baptism and said, “All people need to be baptized, not just a caste or a group.” He also told them to give an entry document of the Father, the Son, and the Holy Spirit. Jesus told His disciples to do the work because God could not always be on earth as a man to give upadesa. In addition to baptism, Jesus also told His disciples to teach them to obey all things He told His disciples.
+  Yilokhu iVangeli likaMathewu lithi ngamavesi 3:14 futhi 3:15. <strong>Lapho uJesu eza kuye, uJohane wazama ukumvimba, esithi, "Ngidinga ukubhapathizwa nguwe, futhi uyafika mina? " UJesu waphendula wathi: "Akube njalo manje; kufanelekile ngathi Yenza lokhu ukufeza konke ukulunga (ukuhlakanipha). " </strong>Ngisho noJesu wathi Umuntu kumele athole ubhapathizo kusuka ku-guru ngokuya nge Isiko lokuhlakanipha. Ngiphinde ngasho into efanayo ngobhapathizo.
 
-  Jesus also said, “I am always with you,” without causing doubt in the disciples that they were not gurus. He notably said, <b>“I am with you always, even unto the end of yuga.”</b> Those who know about yugas may pose a question when they hear what Jesus said. Yuga (era) does not end, and another yuga starts at the end of the current yuga. In that case, why did Jesus say that there is an end to the yugas, when there is no end to them? The answer is as follows. Time is eternal and lasts forever, just like God (Paramatma). Time, being a nickname for God, is also eternal. Since time is Paramatma, the three souls are named after the time. Paramatma is divided into three souls – Jeevatma, Atma, and Paramatma. The names past, future, and present tense are given to the time so that the time has these three names appear in it. The name ‘yogam,’ necessary to reach God, is given to time. In this way, the four names are given to time, and the word ‘yogam’ is appended at the end of all four names to indicate ‘yogam’ is necessary to reach God.
+  UJesu wagunyaza abafundi bakhe ukuba babhapathizwe futhi bathi, "Bonke abantu badinga ukubhapathizwa, hhayi nje i-caste noma iqembu." Yena futhi wabatshela ukuthi banikeze incwadi yokungena kaYise, iNdodana, noMoya oNgcwele. UJesu watshela abafundi bakhe ukuba benze umsebenzi ngoba uNkulunkulu wayengeke abe njalo emhlabeni njengomuntu ozopha UCadesa. Phakathi kwa-Ngaphezu kokubhapathizwa, uJesu wabuye watshela abafundi bakhe Bafundise ukulalela zonke izinto watshela abafundi bakhe.
 
-  Time is divided into four parts named Kruta, Traita, Dvapara, and Kali, respectively. The word ‘yogam’ is added to the end of each name, creating the names Kruta Yuga, Traita Yuga, Dvapara Yuga, and Kali Yuga. <b>Kruta means the one (Atma) who does. Traita means three. Dvapara means the one (Paramatma) who is separate from the two. Kali means the one (Jeevatma) who gets destroyed.</b> The first divine scripture refers to these three souls as <b>Kshara, Akshara, and Purushottama.</b> In Telugu, Kshara means destructible Jeevatma, Akshara means indestructible Atma, and Purushottama means Paramatma, who is superior to both Jeevatma and Atma. In the final divine scripture, verse 50:21, these three are referred to as <b>the Passenger, the Driver, and the Witness,</b> and in the second divine scripture, <b>the Son, the Father, and the Holy Spirit. Yogam</b> is necessary to understand these three males (Purusha), which is why the word ‘yogam’ is added to the end of the four yuga names. Through yogam, Jeevatma can know himself; hence it is called Kali Yogam. With yogam, Atma will be known; hence it is called Kruta Yogam. By yogam, one can reach Paramatma; therefore, it is called Traita Yogam and Dvapara Yogam. Those who are rich in divine wisdom gave these names. Over time, Traita became Treta, and the word yogam became yuga. This is why in the verse, <b>‘end of the yuga’</b> is used instead of <b>‘end of the yogam.’</b> When the correct word is used, Jesus’ statement “I will always be with you until the end of the yogam” can be interpreted as “I am with you always until the conclusion of the yogam.” When Jeevatma reaches the end of yogam, He unites with God. When God and Jeeva are separate, yogam is necessary to union with God and God will be present with Jeevatma. <b>Once yogam is completed, Jeevatma will merge with God,</b> and there will no longer be a need for God to be present with Jeevatma. This is the meaning behind the statement <b>“until the end of the yuga.”</b>
-</div></div>
+  UJesu wathi futhi, "Ngihlala nginawe," ngaphandle kokubangela ukungabaza kubafundi ukuthi kwakungeyona i-gurus. Kuyaphawuleka wathi, <strong>"Nginawe njalo, kuze kube sekupheleni kwe yuga. "</strong> Labo abaziyo ngama-yugas angabeka umbuzo Lapho bezwa lokho uJesu akusho. IYuga (era) akapheli, futhi Omunye uYuga uqala ekugcineni kweYuga yamanje. Ngaleso sizathu, Kungani uJesu athi kuphele ama-yugas, lapho kukhona akupheli kubo? Impendulo imi ngalendlela elandelayo. Isikhathi sihlala njalo futhi Ihlala phakade, njengoNkulunkulu (Paramatma). Isikhathi, ukuba Isidlaliso sikaNkulunkulu, siphinde saphakade. Kusukela ngesikhathi uParamatma, Imiphefumulo emithathu yeqambelwe ngemuva kwesikhathi. I-Paramatma ihlukene phakathi Emiphefumulweni emithathu - uJeevatma, e-Atma, neParamatma. Amagama esedlule, ikusasa, kanye nesikhathi samanje kunikezwa isikhathi ukuze Isikhathi amagama amathathu avela kuwo. Igama elithi 'Yogam,' kudingekile ukufinyelela uNkulunkulu, kunikezwa isikhathi. Ngale ndlela, laba abane amagama anikezwa isikhathi, futhi igama elithi 'yogam' liyafakwa ukuphela kwawo wonke amagama amane ukukhombisa 'i-yogam' kuyadingeka Finyelela uNkulunkulu.
+
+  Isikhathi sihlukaniswe izingxenye ezine ezibizwa ngeKruta, Traita, I-DVapara, noKali, ngokulandelana. Igama elithi 'yogam' lingezwe kulo Ukuphela kwegama ngalinye, kwakha amagama Kruta Yuga, Traita UYuga, iDVapara yuga, neKali Yuga. <strong>UKruta usho lowo (Atma) Ngubani owenza. I-Traita isho ezintathu. I-Dvapara isho eyodwa (paramatma) ehlukaniswe kulokhu. Kali kusho eyodwa (Jeevatma) ebhujiswa</strong>. Okokuqala Umbhalo waphezulu ubhekisa kule miphefumulo emithathu njenge <strong>Kshara</strong>, <strong>U-Akshara, noPurushottama</strong>. ETelugu, kusho iKshara I-jeevatma ebonakalayo, i-Akshara isho i-atma engaqondakali, futhi i-punushottama isho i-paramatma, ephakeme kunabo bobabili Jeevatma ne-ATMA. Embhalweni wokugcina waphezulu, ivesi 50:21, lezi ezintathu zibizwa <strong>ngokuthi Umgibeli, Umshayeli, kanye Ufakazi, </strong>nasemBhalweni wesibili waphezulu, <strong>iNdodana, Ubaba, noMoya oNgcwele. I-Yogam</strong>iyadingeka baqonde laba abesilisa abathathu (i-Purusha), yingakho Igama elithi 'yogam' lingezwe ekugcineni kwamagama amane eYuga. Nge-yogam, uJeevatma uyazi ngokwakhe; Ngakho-ke ibizwa Kali Yogam. Nge-yogam, u-Atma uzokwaziwa; Ngakho-ke ibizwa Kruta Yogam. Ngo Yogam, umuntu angafinyelela i Paramatma; Ngakho-ke, Ibizwa ngokuthi yi-Traita Yogam ne-Dvapara yogam. Labo Ukuceba ngobuhlakani baphezulu kwanika lawa magama. Ngokuhamba kwesikhathi, traina waba treta, futhi iZwi le-yogam laba nguYuga. Yingakho evesini, '<strong>ukuphela kwe-yuga' </strong>kusetshenziswa esikhundleni <strong>'sokuphela kwe i-yogam. ' </strong>Lapho kusetshenziswa igama elifanele, kusho isitatimende sikaJesu ngokuthi ngizo njalo ube nawe kuze kube sekupheleni kwe-yogam "kungaba Kuhunyushwa ngokuthi "Nginawe njalo kuze kube sekupheleni kwe yogam. " Lapho uJeevatma efika ekugcineni kwe-yogam, ehlanganisa NginoNkulunkulu. Lapho uNkulunkulu noJeva behlukile, i-yogam kudingekile ebunyeni noNkulunkulu futhi uNkulunkulu uzobe ekhona Jeevatma. <strong>Lapho i-yogam isiqediwe, uJeevatma uzohlangana KuNkulunkulu, </strong>futhi ngeke kusaba yisidingo sokuba uNkulunkulu abe ekhona ngeJeevatma. Lokhu kwencazelo ngemuva kwe isitatimende <strong>"kuze kube sekupheleni kwe-yuga."</strong></div></div>
 </span>
 `
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 54,
-verse: ` <b>(1)	The Gospel of Mark, 2nd chapter, 19th and 20th verses.</b>`,
+verse: ` <b>(1)	IVangeli likaMarku, Isahluko 2, 19 naku-20 amavesi.</b>`,
 meaning: `<b>
-(19) How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them.
+(2:19) Izimenywa zoMyeni zingashesha kanjani lapho Unabo? Ngeke, isikhathi eside njengathi banaye nabo.
 <br><br>
-(20) But the time will come when the bridegroom will be taken from them, and on that day they will fast. </b>`,
+(2:20) Kepha isikhathi siyofika lapho umkhwenyana ethanda Kuthathwe kubo, futhi ngalolo suku bayozila. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some people came to Jesus and asked, “Why is it that John’s disciples and the disciples of the Pharisees are fasting, but not yours?” Jesus replied with the following verses. In this context, fasting refers to abstaining from food, a common worldly meaning. In Telugu, the word for the bridegroom is ‘Pellikoduku,’ which translates to ‘son of marriage.’ In Telugu, the phrase ‘son of marriage’ holds a special meaning because the word ‘marriage’ (or ‘Pelli’ in Telugu) symbolizes God in a spiritual sense. Therefore, the ‘son of marriage’ refers to the Son of God. When Jesus, the Son of God, is with His followers, they will experience joy and not fast. However, when the bridegroom (the Son of God) is taken away from them, those who were with Him will fast with grief because He is departing from them. Similarly, Jesus’ disciples will not fast as long as He is present with them. When Jesus is absent, they will fast in sorrow. The phrase ‘bridegroom’ (the son of marriage) should be understood as referring to the Son of God.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Abanye abantu beza kuJesu babuza, "Kungani kunjalo Abafundi bakaJohane nabafundi babaFarisi bazila ukudla, Kepha hhayi okwakho? " UJesu waphendula ngamavesi alandelayo. Kulokhu umongo, ukuzila ukudla kusho ukugwema ukudla, okuvamile okushiwo yizwe. ETelugu, igama lomyeni 'Pellikoduku,' ehumusha 'indodana yomshado.' ETelugu, ibinzana elithi "indodana yomshado 'linencazelo ekhethekile ngoba igama elithi 'umshado' (noma 'pelli' eTelugu) lifanekisela uNkulunkulu ku Ngokomoya. Ngakho-ke, 'indodana yomshado' ibhekisela kuJehova Ndodana kaNkulunkulu. Lapho uJesu, iNdodana kaNkulunkulu, unabalandeli bakhe, Bazothola injabulo futhi hhayi ngokushesha. Kodwa-ke, lapho U'mkhwenyana' (INdodana KaNkulunkulu) Ususwe kubo, Labo ababenaye bayozila ngosizi ngoba esuka kusuka kubo. Ngokufanayo, abafundi bakaJesu ngeke basheshe basheshe bazishize inqobo nje uma yena ukhona nabo. Lapho uJesu engekho, azoshesha ukungena usizi. Ibinzana elithi 'UMKWENYANA' (indodana yomshado) kufanele kuqondwe njengokubhekisele kwiNdodana kaNkulunkulu.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 55,
-verse: `<b>(2) The Gospel of Mark, 4th chapter, 38th and 39th verses.</b>`,
+verse: `<b>(2) IVangeli likaMarku, Isahluko 4, 38th no-39 amavesi.</b>`,
 meaning: ` <b>
-(38) Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?”
+(4:38) UJesu wayesemuva, elele emjuka. Le khasi abafundi bamvusa, bathi kuye: "Mfundisi, musani Unakekela uma siminza? "
 <br><br>
-(39) He got up, rebuked the wind, and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. </b>`,
+(4:39) Wasukuma, wakhuza umoya, wathi ku Amagagasi, "ethule! Yiba! " Khona-ke umoya wawufa phansi Kwakuzolile ngokuphelele. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When Jesus and His disciples were crossing the sea in a small boat, they encountered a storm, and the boat began taking on water due to the waves. The disciples were terrified and feared that they would drown. They awoke Jesus and informed Him of the perilous situation. Jesus rose, rebuked the wind, and commanded the waves to be still. The wind ceased, and a calm descended upon the sea. The disciples were amazed and asked one another, “It is a great wonder, and how did it happen?” They recognized Jesus’ power, but they didn’t fully understand the reason for it. There is remarkable wisdom in this incident.
+<div class="poem"><div class="poemtext">
+  Lapho uJesu nabafundi bakhe bewela ulwandle ku isikebhe esincane, bahlangana nesivunguvungu, futhi isikebhe saqala ukuthatha amanzi ngenxa yamagagasi. Abafundi Weukwesaba kabusha futhi wesaba ukuthi bazocwila. Bavuka uJesu futhi wamtshela ngesimo esinamandla. UJesu wavuka, wakhuza Umoya, futhi wayala amagagasi abe nzima. Umoya waphela, nehla ezolile phezu kolwandle. Abafundi babekhona wamangala wambuza omunye komunye, "Kuyisimanga, futhi kanjani Ngabe kwenzeka? " Babona amandla kaJesu, kepha abakwenzanga Qonda ngokugcwele isizathu sawo. Kukhona ukuhlakanipha okumangalisayo Kulesi sehlakalo.
 
-  Jesus is not an ordinary man; it must be emphasized that He is God, who looked and behaved like an ordinary man. When God, the Holy Spirit, comes in human form, no one can recognize Him. The birth of God is a secret when He is a human being, and no one can ever know Him through worldly knowledge. It may only be possible to know Him through wisdom. There are two ways to recognize God’s incarnation based on wisdom: 1) It can be known that there is God’s incarnation wherever God’s dharmas, which no one has explained, are revealed scientifically. 2) It can be said that Paramatma is in human form wherever Prakruti is governed. No one can recognize God’s incarnation apart from these two methods.
+  UJesu akayena umuntu ojwayelekile; Kumele kugcizelelwe lokho UnguNkulunkulu, owabheka futhi waziphatha njengendoda ejwayelekile. Lapho uNkulunkulu, uMoya oNgcwele, eza ngesimo somuntu, akekho ongakwazi Mvume. Ukuzalwa kukaNkulunkulu kuyimfihlo lapho engumuntu ukuba, futhi akekho ongamazi ngezwe ulwazi. Kungenzeka kuphela ukwazi ukuthi umazi Ukuhlakanipha. Kunezindlela ezimbili zokuqaphela ukubonwa kukaNkulunkulu kususelwa ekuhlakanipheni: 1) Kuyaziwa ukuthi kukhona uNkulunkulu Ukufakwa emzimbeni noma kuphi lapho uNkulunkulu anguNkulunkulu, khona akekho onayo kuchaziwe, kwembulwa ngokwesayensi. 2) kungashiwo lokho I-Paramatma isesimweni somuntu nomaphi lapho iPrakruti ilawulwa khona. Akekho umuntu ongabona ukuhlukaniswa kukaNkulunkulu ngaphandle kwalawa amabili Izindlela.
 
-  Devatas bowed down to Ravana Brahma in Traita Yuga. When He ordered the nine planets, it became known that He was no ordinary man. Ravana Brahma taught divine dharmas, which were unknown to anyone, and made people practice them. Thus, it became known that Ravana Brahma is God’s incarnation. Similarly, it became known that Krishna in Dvapara Yuga was God’s incarnation when He commanded Sun and taught dharmas in Bhagavad-Gita. Jesus, who came as a man 2,000 years ago, became recognized as God in two ways: by commanding the sea and teaching divine dharmas. The storm during the sea voyage seemed to serve the purpose of making people aware of who Jesus was. Even though God’s incarnation is secret, God provided this opportunity to know.
+  UDevatas wakhothamela eRavana Brahma eTraita Yuga. Lapho eyalile amaplanethi ayisishiyagalolunye, kwaziwa ukuthi yena kwakungeyona indoda evamile. URavana Brahma ufundise i-Dharmas Divine, ezingaziwa noma ngubani, futhi zenza abantu bazijwayeze zona. Ngakho-ke, kwaziwa ukuthi uRavana Brahma unguNkulunkulu ukufakwa emzimbeni. Ngokufanayo, kwaziwa ngokuthi iKrishna eDvapara UYuga wayengumuntu kaNkulunkulu lapho eyalile ilanga futhi Ufundise Dharmas eBhagavad-Gita. UJesu, oweza njengomuntu Eminyakeni engu-2 000 edlule, yaqashelwa njengoNkulunkulu ngezindlela ezimbili: ngo eyala ulwandle futhi ufundise ama-dharmas aphezulu. Isivunguvungu Ngesikhathi sohambo lolwandle kwakubonakala sengathi kusiza inhloso yokwenza Abantu bayakwazi ukuthi uJesu wayengubani. Noma ukufakwa kukaNkulunkulu kuyimfihlo, uNkulunkulu wanikeza leli thuba ukwazi.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 56,
-verse: `<b>(3)	The Gospel of Mark, 5th chapter, 38th, 39th, 40th, 41st, 42nd and 43rd verses.</b>`,
+verse: `<b>(3)	IVangeli likaMarku, Isahluko 5, 38th, 39th, 40th, 41st, 42nd kanye amavesi angama-43.</b>`,
 meaning: `<b>
-(38) When they came to the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly.
+(5:38) Lapho befika ekhaya lesinagoge umholi, uJesu wabona isiyaluyalu, nabantu abakhala futhi ekhala kakhulu.
 <br><br>
-(39) He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”
+(5:39) Wangena wathi kubo: "Okwenza konke lokhu Isiphithiphithi kanye nokukhala? Ingane ayifile kepha ulele. "
 <br><br>
-(40) But they laughed at him. After he put them all out, he took the child’s father and mother and the disciples who were with him and went in where the child was.
+(5:40) Kepha bamhleka usulu. Ngemuva kokuba ababeke bonke ukuphuma, wathatha uyise nonina wengane kanye nonina abafundi ababenaye bangena lapho ingane yayikhona.
 <br><br>
-(41) He took her by the hand and said to her, “Talitha koum!” (which means “Little girl, I say to you, get up!”).
+(5:41) Wamthatha ngesandla wathi kuye: "Talitha Koum! " (okusho ukuthi "ntombazane encane, ngithi kuwe, vuka!").
 <br><br>
-(42) Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished.
+(5:42) Ngokushesha le ntombazane yasukuma yaqala ukuhamba azungeze (wayeneminyaka eyishumi nambili). Kulokhu babekhona emangele ngokuphelele.
 <br><br>
-(43) He gave strict orders not to let anyone know about this and told them to give her something to eat.</b>`,
+(5:43) Wanikeza ama-oda aqinile ukuba angavumeli muntu azi ngalokhu futhi wabatshela ukuthi bamnikeze okuthile abangakudla.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It is a great surprise when a person comes back to life after being declared dead. Jesus brought several people back from the dead during His life. He not only resurrected others, but He also rose from the dead Himself. If we contemplate this event, some unknown mysteries will be uncovered. There are four types of death: timely death (natural death), untimely death, temporary death, and final death. Once a person experiences the final death, they will not be born again; instead, they attain liberation or moksham. Natural death is the most common form of death, in which a person leaves their current body and goes to the next birth. There is no option other than going to the next birth in natural death.
+<div class="poem"><div class="poemtext">
+  Kuyamangaza kakhulu lapho umuntu ebuyela empilweni ngemuva kokuthi kumenyezelwe ukuthi ushonile. UJesu wabuyisa abantu abaningana kwabafileyo ngesikhathi sokuphila kwakhe. Akazange avuse abanye kuphela, Kepha futhi wavuka kwabafileyo ngokwakhe. Uma sicabangela lokhu Umcimbi, ezinye izimfihlakalo ezingaziwa zizombulwa. Bangu izinhlobo ezine zokufa: ukufa okufika ngesikhathi (ukufa kwemvelo), ngokungafanele ukufa, ukufa kwesikhashana, nokufa kokugcina. Uma umuntu ubona ukufa kokugcina, ngeke bazalwe kabusha; Esikhundleni salokho, bathola inkululeko noma i-moksham. Ukufa Kwemvelo yi- uhlobo oluvame kakhulu lokufa, lapho umuntu eshiya khona Umzimba wamanje bese uya kokuzalwa okulandelayo. Akunakukhetha ngaphandle kokuya kokuzalwa okulandelayo ngokufa kwemvelo.
 
-  In the case of an untimely death, a person does not entirely die but instead loses half of their body and continues to live with the remaining half. Although it may seem unbelievable, this is what happens. The human body consists of two parts. The human body and the bodies of all living beings consist of both physical (visible) and non- physical (subtle) parts. In the case of the human body, the physical body is comprised of ten parts, and the subtle body is comprised of fifteen parts. In the event of an untimely death, a person leaves behind their physical body of ten parts and continues to exist with their subtle body of fifteen parts. As a result, someone who has experienced an untimely death can be considered ‘half-dead.’ When the rest of the subtle body eventually dies, it leads to natural death, and the person goes to the next birth. During untimely death, the person is not visible, but they continue to exist with their subtle body until they experience natural death.
+  Endabeni yokufa okungazelelwe, umuntu akayenzi ngife ngokuphelele kodwa esikhundleni salokho ulahlekelwa yingxenye yomzimba wabo futhi uyaqhubeka ukuhlala nengxenye esele. Yize kungabonakala Akunakukholwa, yilokhu okwenzekayo. Umzimba womuntu uqukethe kwezingxenye ezimbili. Umzimba womuntu nemizimba yazo zonke izidalwa eziphilayo ziqukethe izingxenye zombili zenyama (ezibonakalayo) nezingezinhle (ezicashile). Endabeni yomzimba womuntu, umzimba wenyama wakhiwa kwezingxenye eziyishumi, futhi umzimba ocashile wakhiwa izingxenye eziyishumi nanhlanu. Uma kwenzeka kufa kungazelelwe, umuntu ushiya ngemuva kwawo umzimba wenyama wezingxenye eziyishumi futhi uyaqhubeka nokuba khona nge umzimba ocashile wezingxenye eziyishumi nanhlanu. Ngenxa yalokho, umuntu onawo ubone ukufa okungazelelwe kungabhekwa 'kufile uhhafu.' Lapho wonke umzimba ocashile ugcina efa, kuholela ukufa kwemvelo, nomuntu uya kokuzalwa okulandelayo. Ngesikhathi ukufa okungazelelwe, umuntu akabonakali, kepha ayaqhubeka zikhona ngomzimba wazo ocashile kuze kube yilapho zithola ukufa kwemvelo.
 
-  Currently, no one is aware of what happens during temporary death. In a temporary death, all bodily functions cease, and the Jeevatma remains in the body but is in a state of sleep. In temporary death, the person appears dead, but the Jeevatma remains in the body. This has led to incidents where people who experienced temporary death were mistakenly declared dead and buried, even though they were still alive. No one can detect that a person who has undergone temporary death is not actually dead. As a result, there have been numerous instances of people being buried alive.
+  Okwamanje, akekho owaziyo ukuthi kwenzekani ngesikhathi ukufa kwesikhashana. Ekufeni kwesikhashana, yonke imisebenzi yomzimba phela, futhi i-jeevatma ihlala emzimbeni kepha isesimweni se Ukulala. Ngokufa okwesikhashana, umuntu uvela efile, kepha UJeevatma uhlala emzimbeni. Lokhu kuholele ezigabeni lapho Abantu abathola ukufa okwesikhashana babengafanele Umethe ufile, wangcwatshwa, yize ayesaphila. -Nokuba umuntu angabona ukuthi umuntu oye wabhekana nesikhashana ukufa akufile empeleni. Ngenxa yalokho, kuye kwaba khona Izimo eziningi zabantu bangcwatshwa bephila.
 <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
-The Story of Abdul Aziz in Jammu and Kashmir
+Indaba ka-Abdul Aziz eJammu naseKashmir
 </b></ion-col></ion-row>
-  On December 7, 2009, a story aired at 1:30 pm on the TV9 channel. Abdul Aziz, a 60-year-old man, had passed away a week earlier, on November 30, 2009, in Rajouri, a village in Jammu and Kashmir. Following Islamic tradition, as he was a Muslim, he was buried.
+  NgoDisemba 7, 2009, indaba evezwe ngo-1: 30 pm ku- Isiteshi se-TV9. U-Abdul Aziz, indoda eneminyaka engu-60 ubudala, yayidlulile a isonto Phambilini, ngoNovemba 30, 2009, eRajouri, idolobhana elalingena UJammu noKashmir. Ukulandela isiko lamaSulumane, njengoba ayenguye UMuslim, wangcwatshwa.
 
-  Three days after his burial, the police received a complaint alleging that Abdul Aziz had not died naturally, and that foul play might be involved. The police promptly registered the case, proceeded to the cemetery, and exhumed Abdul Aziz’s corpse in the presence of his relatives. His body was then sent to a government hospital for a post- mortem examination.
+  Ezinsukwini ezintathu emva kokungcwatshwa kwakhe, amaphoyisa athola a isikhalazo sisolwa ngokuthi u-Abdul Aziz akazange ashonile ngokwemvelo, futhi Lokho kudlala kabi kungahle kuhileleke. Amaphoyisa abhaliswe ngokushesha Icala, laya emathuneni, futhi lakhipha u-Abdul Isidumbu sika-Aziz phambi kwezihlobo zakhe. Isidumbu sakhe ngaleso sikhathi kuthunyelwe esibhedlela sikahulumeni ukuze kuhlolwe isidumbu sangemva kwesidumbu.
 
-  During the autopsy, the doctor first hit the head with a knife to examine the skull, and the head was injured. To the astonishment of everyone present, Abdul Aziz, presumed dead until then, woke up and inquired about the situation. The incredulous doctor, still processing the unexpected turn of events, sat down, and asked, “We are doing an autopsy.” Abdul Aziz calmly replied, “I am alive.” The doctor immediately informed Abdul Aziz’s relatives of the miraculous incident, and they arrived to take him back home.
+  Ngesikhathi se-autopsy, udokotela waqala washaya ikhanda nge Ummese wokuhlola ugebhezi, futhi ikhanda lalimala. Ku Ukuthukuthela kwawo wonke umuntu okhona, u-Abdul Aziz, ocatshangelwe efile Kuze kube yileso sikhathi, uvuke wabuza ngalesi simo. Le khasi udokotela omangalisayo, usacubungula ithuba elingalindelekile Imicimbi, yahlala phansi, yabuza, "Senza i-autopsy." U-Abdul U-Aziz waphendula ngomoya ophansi, "Ngiyaphila." Udokotela ngokushesha wazise izihlobo zika-Abdul Aziz zesigameko esiyisimangaliso, futhi bafika bambuyisela ekhaya.
 
-  Three days before, the same doctor had examined Abdul Aziz for fifteen minutes and confirmed his death. The doctor, recognizing the extraordinary nature of this event, described it as a miracle. The people of Rajouri village were equally astonished that Abdul Aziz, whom they had buried with their own hands, had come back to life three days later. As of now, six years and seven months have passed since the incident occurred. All TV channels aired this news on the same day. Given that this incident transpired in the presence of doctors, it remains undeniable and beyond mere superstition.
-  <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
-  An Incident in Visakhapatnam district
+  Ezinsukwini ezintathu ngaphambili, udokotela ofanayo wayesehlole u-Abdul I-Aziz imizuzu eyishumi nanhlanu futhi yaqinisekisa ukufa kwakhe. Udokotela, Ukubona uhlobo olungejwayelekile lomcimbi, wachaza njengesimangaliso. Abantu baseRajouri Village bebenjalo ngokulinganayo umangele ukuthi u-Abdul Aziz, ababemngcwabe nabo izandla uqobo, wayebuyele empilweni ezinsukwini ezintathu kamuva.
+
+  Njengamanje, sekudlule iminyaka eyisithupha nezinyanga eziyisikhombisa Isigameko senzeke. Zonke iziteshi ze-TV zakhipha lezi zindaba ku- ngosuku olufanayo. Njengoba kunikezwe ukuthi lesi sehlakalo sidlulile phambi kobukhona odokotela, ihlala inganakwa futhi idlula nje inkolelo-ze.
+<ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
+ Isigameko esifundeni seVisakhapatnam
   </b></ion-col></ion-row>
-  Srungavarapu Kota is situated on the way to Araku Valley in Visakhapatnam. There is a village named Saarepuram, located 12 km away from Srungavarapu Kota. In this village, lived a 67-year-old woman named Samudramma who had been suffering from high blood pressure and diabetes for ten years. She received medical treatment from Dr. Dharmalingachari, a senior doctor at Srungavarapu Kota. Dr. Dharmalingachari was a well-known 60-year-old veteran with a degree in M.B.B.S.
+  ISrungavarapu Kota itholakala endleleni eya e-Araku Valley eVisakhapatnam. Kunomuzi ogama lakhe linguSaarepuram, Itholakala ku-12 km kude neSrungavarapu KOTA. Kuleli dolobhana, waphila owesifazane oneminyaka engama-67 ubudala ogama lakhe behlushwa umfutho wegazi ophakeme kanye nesifo sikashukela kwabayishumi iminyaka. Uthole ukwelashwa kuDkt. I-Dharmalingachari, udokotela ophezulu eSrungavarapu Kota. UDkt UDharmalingachari wayengumakadebona owaziwayo oneminyaka engama-60 ubudala nge degree in M.B.B.S.
 
-  Six years ago, one evening at 6 PM, Samudramma was brought to Dr. Dharmalingachari after being pronounced dead by doctors at a government hospital. When the doctor examined her, he could not find a pulse. He declared her dead, stating that she did not need any medical treatment as she had no breathing or pulse. Her body was taken back to their village, 12 km away, to be buried the following day as it was already night. However, Samudramma’s body was kept in the porch for three days due to heavy rain that lasted for two days. To everyone’s surprise, she got up and called out to her relatives on the fourth morning. They immediately contacted Dr. Dharmalingachari and brought her to him after 15 days. The doctor then asked her if she had seen Yama’s servants or Yamaloka, as she had been declared dead for three days. She said she did not see anything.
+  Eminyakeni eyisithupha edlule, ngolunye usuku kusihlwa ngo-6 PM, Samudramma wayekhona ulethwe kuDkt Dharmalingari ngemuva kokushiwo kufile ngodokotela esibhedlela sikahulumeni. Lapho udokotela Wayihlola, akakwazanga ukuthola ukushaya. Wamenyezeleka, besho ukuthi wayengadingi ukwelashwa njengoba ayenakho akukho ukuphefumula noma ukushayela. Isidumbu sakhe sabuyiselwa edolobhaneni lakubo, 12 km, ukuze angcwatshwe ngosuku olulandelayo njengoba kwase kuvele ebusuku. Kodwa-ke, umzimba kaSamudramma wagcinwa emphemeni we Izinsuku ezintathu ngenxa yemvula enkulu eyathatha izinsuku ezimbili. Kwamangaza wonke umuntu, wasukuma wabiza izihlobo zakhe Ngokwesine ekuseni. Ngokushesha baxhumana noDkt. UDharmalingachari wamletha kuye ngemuva kwezinsuku eziyi-15. Le khasi UDokotela wabe esembuza ukuthi abonile yini izinceku zikaYama noma I-Yamaloka, njengoba yayimenyezelwe ifile izinsuku ezintathu. Yena wathi akabonanga lutho.
 
-  This incident occurred six years ago in the presence of a doctor, so it cannot be denied or dismissed as superstitious.
+  Lesi sehlakalo senzeka eminyakeni eyisithupha edlule phambi kwe Udokotela, ngakho-ke angeke ukwenqatshelwe noma axoshwe njengezinkolelo-ze.
   <ion-row><ion-col class="ion-text-center" style="font-size:20px"><b>
-  Survivor from Pyre (Translated from a Telugu Newspaper) July 10, 2012, Sakshi News
+  Osindile kusuka kuPyre (ehunyushwe kusuka kuTelugu Iphephandaba) NgoJulayi 10, 2012, Sakshi News
+
   </b></ion-col></ion-row>
-<b>Chennai:</b> On Tuesday, doctors confirmed the death of 50-year-old Muttuswamy of Krishurayapuram in the Karur district of Tamil Nadu. They advised his relatives to proceed with the funeral rites. Believing that Muttuswamy had succumbed to old age and illness, the relatives gathered at the cemetery to perform the pyre.
+<b>UChennai:</b> NgoLwesibili, odokotela bakuqinisekisa ukufa kwe Muttusamy oneminyaka engu-50 ubudala weKrishurayapuram ku-karur Isifunda saseTamil Nadu. Bayalulekwa izihlobo zakhe ukuthi baqhubeke nemicikilisho yomngcwabo. Ukukholelwa ukuthi uMtuttuswamy wayenayo unqotshwe ukuguga nokugula, izihlobo ziqoqele e amathuna ukwenza i-pyre.
 
-  As they were about to commence the fire, Muttuswamy’s sister Paapatti approached the body. Overcome with grief, she fell onto the corpse and cried out, “Brother, will you leave me?” In that poignant moment, Muttuswamy’s legs and arms moved, and there was a slight groan. The tearful relatives were shocked and shouted, “Muttuswamy...Muttuswamy!” Muttuswamy woke up from the pyre as if he had just risen from sleep and asked his relatives what had happened. They all embraced Muttuswamy with happiness and took him back to the hospital. Notably, Muttuswamy’s daughter had gotten married just the day before.
+Njengoba bebezoqala umlilo, muttuswamy's UDade Paapatti wasondela emzimbeni. Ukunqoba usizi, yena wawela isidumbu wamemeza wathi, "Mfowethu, uzongishiya?" Kulelo mzuzu omangalisayo, imilenze nezingalo zikaMutushwamy zihambile, Futhi kwaba khona ukububula okuncane. Izihlobo ezinezinyembezi zashaqeka Futhi kwamemeza, "Muttuswamy ... Mutuswamy!" Muttuswamy wavuka esuka ePyre kube sengathi uvele uvukile ebuthongweni futhi wabuza izihlobo zakhe ngokwenzekile. Bonke bamanga Muttunumy ngenjabulo futhi wambuyisela esibhedlela. Ikakhulukazi, indodakazi kaMuttushamy yashada nje usuku ngaphambili.
+  <b>Udokotela:</b> Izihlobo zigxekile odokotela ngazo ukunganaki kwabo ekwelapheni uMutusamy, owayekade ekhona wangeniswa esibhedlela sendawo ezinsukwini eziyishumi ezedlule ngemuva kokugula. Bona Ukulahla odokotela ngalesi sigameko, kanye nezindaba ngokushesha Sakaza esifundeni saseKarur. Lesi sehlakalo sivumile impikiswano ebanzi futhi yabonwa njengesinye isibonelo se ukufa kwesikhashana.<img src="assets/img/temp_death.png"/>
 
-  <b>Doctors’ Negligence:</b> Relatives criticized the doctors for their negligence in treating Muttuswamy, who had been admitted to a local hospital ten days ago after falling ill. They condemned the doctors for the incident, and the news quickly spread throughout the Karur district. This incident sparked widespread debate and was seen as another example of temporary death.
-<img src="assets/img/temp_death.png"/>
+    Uma othile ehlangabezana nokufa okwesikhashana, kungenzeka usinde kuleso simo kuze kube unyaka noma ngaphezulu. Imvuselelo ingakwazi zenzeka nge-spontounely noma ngosizo lomuntu ukushaya noma ukubavusa. Ezimweni eziningi, abantu abathile Ukufa okwesikhashana ekuseni uvuke ku kusihlwa, kanti abanye bathola ukuqaphela ngemuva kwesonto noma Okuningi. Muva nje, indoda egama linguMuttuswamy eTamil Nadu ubuyele empilweni ngemuva kokuba emngcwabeni we-Pyre. Ngokufanayo, uJesu wavusa intombazane eyayinokufa isikhashana kwesikhashana, ememezela ukuthi empeleni wayengekho empeleni. Kukhona futhi Ukulandisa okungokomlando kukaJesu ukuvuselela yena. Kubalulekile Qaphela ukuthi zonke lezi zehlakalo ezibangelwa okwesikhashana Ukufa.
 
-  If someone experiences temporary death, they may survive in that state for up to a year or more. The revival can occur either spontaneously or with the help of someone tapping or waking them up. In many cases, individuals who undergo temporary death in the morning awaken in the evening, while others regain consciousness after a week or more. Recently, a man named Muttuswamy in Tamil Nadu came back to life after being on a funeral pyre. Similarly, Jesus resurrected a girl who had experienced temporary death, declaring that she was not actually dead. There is also a historical account of Jesus reviving Himself. It is important to note that all these incidents were attributed to temporary death. Our scripture, <b>‘The Mystery of Death,</b> ’ delves into the four types of death and their reality. Reading this scripture will provide you with a comprehensive understanding of the various types of death.
-</div></div>
+  Umbhalo wethu, <strong>'imfihlakalo yokufa,' </strong>Dlulisa ku izinhlobo ezine zokufa kanye neqiniso labo. Ukufunda lo mbhalo kuzokwenza ukukunikeza ukuqonda okuphelele kwe izinhlobo ezahlukahlukene zokufa.
+  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 57,
-verse: `<b>(4)	The Gospel of Mark, 7th chapter, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd and 23rd verses.</b><`,
+verse: `<b>(4)	IVangeli likaMarku, Isahluko 7, 15, 16, 16 17th, 18, 19, 19, 20th, 21, amavesi angama-22 nangama-23.</b><`,
 meaning: `<b>
-(15) Nothing outside a person can defile them by going into them.
+(7:15) Lutho ngaphandle komuntu ongawangcolisa ngalo ukuya kubo.
 <br><br>
-(15) Rather, it is what comes out of a person that defiles them.
+(7:16) Esikhundleni salokho, yilokho okuphuma kumuntu ukuthi uyamngcolisa.
 <br><br>
-(17) After he had left the crowd and entered the house, his disciples asked him about this parable.
+(7:17) Ngemuva kokuba eseshiye isixuku wangena indlu, abafundi bakhe bambuza ngalo mfanekiso.
 <br><br>
-(18) “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them?
+(7:18) "Ingabe uthambile kangaka?" ebuza. "Awukuboni lokho akukho lutho olungena umuntu kusuka ngaphandle olungaphandle zingcolise?
 <br><br>
-(19) For it does not go into their heart but into their stomach, and then out of the body.”
+(7:19) Ngoba ayingeni enhliziyweni yabo kepha baye kwabo isisu, bese uphuma emzimbeni. "
 <br><br>
-(20) He went on: “What comes out of a person is what defiles them.
+(7:20) Waqhubeka: "Okuphuma kumuntu yilokho uyamngcolisa.
 <br><br>
-(21) For it is from within, out of a person’s heart, that evil thoughts come sexual immorality, theft, murder,
+(7:21) Ngoba kuvela ngaphakathi, enhliziyweni yomuntu, ukuthi Imicabango emibi yaphela - ukweba okubi, ukweba, ukubulala,
 <br><br>
-(22) adultery, greed, malice, deceit, lewdness, envy, slander, arrogance, and folly.
+(7:22) Ukuphinga, ukuhaha, ububi, inkohliso, amanyala, umona, Ukunyundela, ukuzikhukhumeza, nobuwula.
 <br><br>
-(23) All these evils come from inside and defile a person.     </b>`,
+(7:23) Zonke lezi zinto zobubi zivela ngaphakathi futhi zingcolisa a umuntu.     </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Man is born with six bad gunas and six good gunas. Gunas also grow along with the individual, influencing the buddhi located in the head and prompting external actions under its command. Buddhi instructs karmendriyas (organs of action) to perform actions outside the body, operating in accordance with gunas. As Buddhi works in alignment with gunas, the negative gunas influence buddhi, which then directs the actions of gunas, and the external senses respond according to buddhi’s command. These gunas manifest as undesirable qualities such as greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). The gunas first impact the buddhi and subsequently govern the body from there. All the wrongs committed by humans are rooted in the influence of gunas within the body.
+<div class="poem"><div class="poemtext">
+  Indoda izalwa ine-gunas embi eyisithupha nama-gunas amahle ayisithupha. Gunas futhi ukhula kanye nomuntu ngamunye, ethonya i- UBuddhi otholakala ekhanda futhi wenza izenzo zangaphandle ngaphansi komyalo wayo. UBuddhi uyalela uKamendriyas (izitho ze senzo) ukwenza izenzo ngaphandle komzimba, zisebenza ngaphakathi ngokuya ngeGunas. Njengoba uBuddhi usebenza ngokuhambisana nalo gunas, i-gunas engemihle ithonya uBuddhi, oqondisa Izenzo zeGunas, kanye nezinzwa zangaphandle ziyaphendula ngokusho komyalo kaBuddhi. Lezi zibhamu zibonakala njenge izimfanelo ezingathandeki ezifana nokuhaha (KAAMA), intukuthelo (krodha), I-Avarice (Lobhe), Intshiseko (Moha), Ukuzikhukhumeza (Madam), kanye umhawu (matsara). Ama-gunas aqala umthelela iBuddhi futhi Ngemuva kwalokho abusa umzimba lapho. Konke okungalungile okwenziwe ngabantu kusekelwe ethonyeni lama-gunas ngaphakathi komzimba.
 
-  Food consumed from the outside contributes to the body’s health but does not affect the buddhi. Such food is converted into nutrients, promoting physical well-being. The food humans eat has no direct impact on the buddhi; it enters the body, supporting overall health. When food benefits the body, it strengthens and maintains good health. Therefore, the food entering the body externally does not lead to undesirable behavior in humans. It is the effect of the gunas originating from within the body that can result in negative conduct. Consequently, deviating from dietary rules may be acceptable, but maintaining control over the gunas is crucial.
+  Ukudla okudliwe kusuka ngaphandle kunomthelela ku Impilo yomzimba kepha ayithinti iBuddhi. Ukudla okunjalo kuyinto iguqulwe yaba yizakhi zomzimba, ukukhuthaza inhlala-kahle emzimbeni. Le khasi Ukudla Kwabantu Ukudla akunamthelela oqondile kuBuddhi; Ingena umzimba, ukusekela impilo yonke. Lapho ukudla kuzuza umzimba, kuyaqinisa futhi kugcinwe impilo enhle. Ngakho-ke, ukudla okungena emzimbeni ngaphandle akuholeli ekungathandeki isimilo kubantu. Kungumphumela we-gunas evela kusuka ngaphakathi emzimbeni ongaphumela ekuziphatheni okubi. Ngenxa yalokho, ekuphambukeni emithethweni yokudla kungamukeleka, Kodwa ukugcina ukulawula phezu kwetonasi kubalulekile.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 58,
-verse: ` <b>(5)	The Gospel of Mark, 3rd chapter, 35th verse.</b>`,
+verse: ` <b>(5)	IVangeli likaMarku, isahluko 3, ivesi lama-35.</b>`,
 meaning: ` <b>
-(35) Whoever does God’s will is my brother and sister and mother.     </b>`,
+(3:35) Noma ngubani owenza intando kaNkulunkulu ungumfowethu nodadewethu nomama. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> When we question what God’s will is, we can understand that His commandments (dharmas) represent His will. By obeying His commandments, we align ourselves with God’s will. Conversely, if we act according to our own desires without adhering to His commands, we violate His guidance and follow Satan’s will. When God incarnates on earth as Bhagavan, those who comprehend His wisdom, act in accordance with it, propagate His teachings, and disseminate His commandments will draw closer to him. Conversely, those who choose the path of Satan become adversaries of God. Those who actively promote God’s words and adhere to His commandments are regarded as His sisters, brothers, and closest followers. Whether God is physically present on earth or not, it's crucial to recognize that gnanis (those possessing wisdom) within His boundaries who follow His commands will be considered close to God.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Lapho singabaza lokho intando kaNkulunkulu, singakuqonda ukuthi imiyalo yakhe (i-Dharmas) imelela intando yakhe. Ngase- Silalela imiyalo yakhe, sizivumelanisa nentando kaNkulunkulu. Ngakolunye uhlangothi, uma senza ngokwezifiso zethu ngaphandle Sinamathela emiyalweni yakhe, sephula ukuholwa sakhe futhi silandele Intando kaSathane. Lapho uNkulunkulu efaka emhlabathini njengeBhagavan, Labo abakuqonda ukuhlakanipha kwakhe, yenza ngokuhambisana nakho, asakaze izimfundiso zakhe, futhi asabalalise imiyalo yakhe uzosondela kuye. Ngakolunye uhlangothi, labo abakhetha indlela kaSathane oba izitha zikaNkulunkulu. Labo abasebenza ngenkuthalo ukuthuthukisa amazwi kaNkulunkulu nokunamathela emiyalweni yakhe kubhekwa njengodadewabo, abafowethu, kanye nabalandeli abaseduze kakhulu. Ukuthi uNkulunkulu ukhona emzimbeni emhlabeni noma cha, kubalulekile ukubona ukuthi i-ganas (labo abanokuhlakanipha) ngaphakathi kwakhe imingcele elandela imiyalo yakhe izothathwa njengesondele KuNkulunkulu.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 59,
-verse: ` <b>(6)	The Gospel of Mark, 4th chapter, 17th verse.</b>`,
+verse: ` <b>(6)	IVangeli likaMarku, Isahluko 4, ivesi 17.</b>`,
 meaning: `<b>
-(17) But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. </b>`,
+(4:17) Kepha njengoba bengenampande, bagcina kuphela a isikhathi esifushane. Lapho kuvela ubunzima noma ukushushiswa Ngenxa yeZwi, ngokushesha bawa. </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the Gita, Lord Krishna speaks of four kinds of devotees: 1) Those who worship in trouble, 2) Those who pray for wealth, 3) Those who are interested in knowing about God, 4) Those who possess wisdom (Gnanis). The Lord said in the Gita that He favors Gnanis. Similarly, Lord Jesus talks about four types of devotees in the Bible, but the verse referred to here pertains to only one of these types. Some individuals are curious about God’s wisdom and seek to follow it. Satan begins to tempt them in its way. They face many troubles in that process. When they encounter difficulties because of wisdom, Satan begins to preach in their heads. Satan says to them, “You are facing troubles because you know wisdom. Don’t be foolish. You can escape the coming problems by pretending to be on the wisdom path.” Those who do not understand the true essence of wisdom may start to act accordingly. After some time, if the person faces problems because of wisdom or Guru, and these issues lead to conflicts with others or fears of persecution, Maya will take advantage of the situation. Maya creates these kinds of thoughts in the person’s head, and individuals may start to think, “I should have been wiser from the beginning. I got into this situation because I followed the Guru for wisdom, even though my close relatives warned me not to. Why should I suffer for this wisdom? It is better to abandon wisdom and the Guru. Blindly following wisdom will only lead to ruin for my family and me. Since we are in the world, we must conform to its ways. Those in the forest face no problems regardless of their actions, but it would be foolish for us in the village to go against the norms.” Such thoughts can cause individuals to distance themselves from wisdom, even after being on the path for some time. Therefore, Jesus said that even those who have been on the path of wisdom for some time will object when there is toil and torture for the sake of wisdom.
+<div class="poem"><div class="poemtext">
+  E-gita, iNkosi uKrishna ukhuluma ngezinhlobo ezine ze abazinikele: 1) Labo abakhonza enkingeni, 2) labo abathandazayo ukuthola ingcebo, 3) labo abanesifiso sokwazi ngoNkulunkulu, 4) Labo abanobuhlakani (GNANIS). INkosi yathi ku UGita ukuthi uthanda uGnanis. Ngokufanayo, Nkosi Jesu uxoxa ngawo izinhlobo ezine zabazinikele eBhayibhelini, kepha leli vesi libhekisele kulo Lapha uzungeza eyodwa yalezi zinhlobo. Abanye abantu Ufuna ukwazi ngobuhlakani bukaNkulunkulu futhi ufuna ukuyilandela. Kuqala USatashe ukulinga ngendlela yayo. Babhekana nezinkinga eziningi kulokho inqubo. Lapho be-ECO ubunzima be-wonter ngenxa yokuhlakanipha, USathane uqala ukushumayela emakhanda abo. USathane wathi kubo: "Nina babhekene nezinkinga ngoba uyazi ukuhlakanipha. Ungabi ubuwula. Ungabalekela izinkinga ezizayo ngokwenza sengathi indlela yokuhlakanipha. " Labo abangaqondi iqiniso Umqondo wokuhlakanipha ungaqala ukwenza ngokufanele. Ngemuva kokunye isikhathi, uma umuntu ebhekene nezinkinga ngenxa yobuhlakani noma i-guru, Futhi lezi zingqinamba ziholela ezingxabanweni nabanye noma ukwesaba kwe Ukushushiswa, iMaya kuzosebenzisa lesi simo. UMeya kwakha lezi zinhlobo zemicabango ekhanda lomuntu, futhi abantu bangaqala ukucabanga, "bekufanele ngabe ngihlakaniphile kusukela Isiqalo. Ngingene kulesi simo ngoba ngilandele UGuru ngokuhlakanipha, yize izihlobo zami ezisondelene nazo zingixwayisa hhayi. Kungani kufanele ngihlupheke kulokhu kuhlakanipha? Kungcono Ukulahla ukuhlakanipha kanye ne-guru. Kulandela ngokungaboni ukuhlakanipha kuzokwenza Kuholela ekuchithekeni komndeni wami kanye nami kuphela. Njengoba siku Umhlaba, kufanele sivumelane nezindlela zayo. Labo abasehlathini babhekene no izinkinga kungakhathalekile izenzo zabo, kodwa bekuzoba yisiwula nathi edolobhaneni sizokulwa nezindlela. " Imicabango enjalo ingakwazi yenza abantu baziqhelelele ekuhlakanipheni, yebo ngemuva kokuba sendleleni isikhashana. Ngakho-ke, uJesu wathi ukuthi ngisho nalabo abebesendleleni yokuhlakanipha Isikhathi esithile sizokwenqaba lapho kukhandleka futhi kuhlukunyezwa ngenxa kokuhlakanipha.
 
-  Those who truly value God’s wisdom and understand its importance will not fall prey to Satan’s temptations. One cannot escape the clutches of Satan unless they value wisdom and their Guru more than their wife, close friends, and even their own life, despite knowing that they may face persecution or death on the path of wisdom. Even the disciples of Lord Jesus were afraid of the guards on the day of His arrest and abandoned their Guru to save their own lives. They fled with fear due to trouble and persecution. If they had also been prepared to face death along with Lord Jesus on that day, their lives would have been blessed. Maya obstructed the disciples partially that day. Unlike them, we should stand firm in the face of any trouble or persecution on the path of wisdom. Blessed is the one who is willing to die for the divine path rather than living in fear on the path of ignorance. In the Bhagavad-Gita, the Lord said, <b>“It is better to die in Paramatma’s dharma, which is your dharma, than to fear in the path of Satan, which is not your dharma.”</b>
-</div></div>
+  Labo abakubuse ngempela ukuhlakanipha kukaNkulunkulu futhi baqonde Ukubaluleka ngeke kwenzeke ezilingweni zikaSathane. Okukodwa Ayikwazi ukubalekela imichilo kaSathane ngaphandle kokuthi bakwazisa ukuhlakanipha ne-guru yabo engaphezu komkabo, abangane abaseduze, futhi Impilo Yabo, Yize Yazi Ukuthi Bangabhekana Nokushushiswa noma ukufa endleleni yokuhlakanipha. Ngisho abafundi beNkosi uJesu besaba onogada ngosuku lokuboshwa kwakhe futhi washiya i-guru yabo ukusindisa izimpilo zabo. Babalekela ukwesaba ngenxa yenkinga nokushushiswa. Ukube babekhona walungiselela ukubhekana nokufa kanye neNkosi uJesu ngalolo suku, abo Ukuphila bekungabusiswa. UMaya wavimba abafundi ngokwengxenye ngalolo suku. Ngokungafani nabo, kufanele sime siqine ebusweni kwanoma iyiphi inkathazo noma ukushushiswa endleleni yokuhlakanipha. -Busisekile nguyena ozimisele ukufela indlela yaphezulu kunokuba Ukuphila ngokwesaba endleleni yokungazi. EBhagavad-Gita, INkosi yathi, <strong>"Kungcono ukufa eDharma kaParamatma, okuyi-Dharma yakho, kunokuba wesabe endleleni kaSathane, okungeyona i-dharma yakho. "</strong></div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 60,
-verse: ` <b>(7)	The Gospel of Mark, 4th chapter, 21st and 22nd verses.</b>`,
+verse: ` <b>(7)	IVangeli likaMarku, Isahluko 4, 21st no-22 amavesi.</b>`,
 meaning: `<b>
-(21) He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand?
+(4:21) Wathi kubo: "Uyakubeka isibani ukuze usibeke phansi Ngaphansi kwesitsha noma embhedeni? Esikhundleni salokho, awukubeki ukuma kwalo?
 <br><br>
-(22) For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.     </b>`,
+(4:22) Noma yini efihliwe kuye kwenziwa ukuthi ivezwe, futhi noma yini efihliwe yenzelwe ukukhishwa kuvulekile.    </b>`,
 pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the present time, many gurus are saying that disciples should not share their wisdom with others. They say that their wisdom is confidential and should only be shared with those who have received upadesa. When someone asks them a question, they avoid answering it. However, wisdom should not be concealed. God Himself comes in human form and takes the trouble to convey wisdom. Although we do not know the true wisdom, we should not make excuses for sharing the little wisdom that we know. Wisdom is like a lamp that removes ignorance in others. Just as an object in darkness can be seen in the lamp’s light, an unknown thing in ignorance can be understood with wisdom. Wisdom is needed to dispel ignorance, just as a lamp is required to dispel darkness. Lighting a lamp and then keeping it under a bowl is foolish. Similarly, it is unwise not to share the wisdom that you have. Even secrets are meant to be disclosed. Bhagavan revealed the best divine wisdom in the world. In that case, anything of lesser value than wisdom cannot be concealed. No mystery in the world can be kept hidden; it will surely come out. God’s wisdom is necessary for everyone and should not be kept a secret. Those who want to conceal it cannot do so.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Esikhathini samanje, ama-gurus amaningi athi abafundi akufanele babelane nabanye ukuhlakanipha kwabo. Bathi yabo Ukuhlakanipha kuyimfihlo futhi kufanele kwabelwane ngalo kuphela abathole upadasa. Lapho umuntu ebabuza a Umbuzo, bayakugwema ukuphendula. Kodwa-ke, ukuhlakanipha akufanele zifihlwe. UNkulunkulu ngokwakhe uza ngesimo somuntu futhi athathe inkathazo yokudlulisa ukuhlakanipha. Yize singazi iqiniso ukuhlakanipha, akufanele singenze izaba zokwabelana kancane ukuhlakanipha esikwaziyo. Ukuhlakanipha kufana nesibani esisusa ukungazi kwabanye. Njengoba nje into ebumnyameni ingabonakala ekukhanyeni kwesibani, into engaziwa ekungazini ingaba waqonda ngokuhlakanipha. Ukuhlakanipha kuyadingeka ukususa Ukungazi, njengoba nje isibani siyadingeka ukuqeda ubumnyama. Ukukhanyisa isibani bese bekugcina ngaphansi kwesitsha kuwubuwula. Ngokufanayo, akukhona ukuhlakanipha ukuba ungahlanganyeli nokuhlakanipha onakho. Ngisho nezimfihlo zenzelwe ukudalulwa. IBhagavavan yaveza Ukuhlakanipha okuhle kakhulu kwaphezulu emhlabeni. Kuleso simo, noma yini ephansi inani kunokuhlakanipha akunakufihlwa. Ayikho imfihlakalo ku Umhlaba ungagcinwa ufihliwe; Impela kuzophuma. Ukuhlakanipha KukaNkulunkulu kuyadingeka kuwo wonke umuntu futhi akufanele kugcinwe kuyimfihlo. Labo abafuna ukufihla ngeke benze kanjalo.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 61,
-verse: `<b>(8)	The Gospel of Mark, 6th chapter, 4th verse.</b>`,
+verse: `<b>(8)	IVangeli likaMarku, Isahluko 6, Ivesi 4.</b>`,
 meaning: `<b>
-(4) Jesus said to them, “A prophet is not without honor except in his own town, among his relatives and in his own home.”      </b>`,
+(6:4) UJesu wathi kubo: "Umprofethi akwenzi Hlonipha ngaphandle kwedolobha lakubo, phakathi kwezihlobo zakhe futhi ekhaya lakhe. "     </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In Telugu, a prophet is defined as someone who teaches something important. The wisdom of Paramatma is the most essential thing for every human being. A person who imparts this wisdom is called a prophet. Ordinary humans do not know the wisdom of Paramatma, except for the one who comes from Paramatma. The one who comes from Paramatma and is born as a man is called Bhagavan or Prophet. The prophet is not honored in His own home, among His relatives, or in His own town because He appears to be an ordinary man. No matter how great someone is, it is natural to be underestimated at home and by relatives. Since they have seen the prophet since childhood, family members and relatives may ridicule Him, saying that He has no greatness and that only fools will listen to Him. They may also claim that He does not know anything beyond what they know. Even God cannot become a prophet to His own family members. Even when others recognize and speak about His greatness, His relatives and family members question what excellence He possesses. They do not recognize His importance and ridicule Him, pointing out things such as Him wetting the bed and soiling His underwear in His childhood. Therefore, while He is a prophet to others, He is not honored in His own home and town. According to this principle, Lord Jesus was not recognized as a prophet by His family and relatives.
-</div></div>
+<div class="poem"><div class="poemtext">
+  ETelugu, umprofethi uchazwa njengomuntu ofundisayo into ebalulekile. Ukuhlakanipha kweParamatma kuningi into ebalulekile kubo bonke abantu. Umuntu odlulisa Lokhu kuhlakanipha kubizwa ngokuthi umprofethi. Abantu abajwayelekile abazi ukuhlakanipha kwe-paramatma, ngaphandle kwalowo ovela Paramatma. Lowo ovela eParamatma futhi wazalwa Njengoba indoda ibizwa ngeBhagavava noma umprofethi. Umprofethi akayona ehlonishwe ekhaya lakhe, phakathi kwezihlobo zakhe, noma ezakhe idolobha ngoba kubonakala sengathi liyindoda ejwayelekile. Akunandaba Umuntu omkhulu kangakanani, kungokwemvelo ukubulawa phansi ikhaya nangezihlobo. Njengoba bembonile lo mprofethi kusukela ubuntwana, amalungu omndeni nezihlobo angahlekwa usulu, bethi akanabukhulu nokuthi iziwula kuphela ezizolalela kuyena. Bangase futhi bathi akazi lutho ngaphezu kwalokho abakwaziyo. Ngisho NKULUNKULU! kumalungu omndeni wakhe. Ngisho noma abanye bayabona futhi Khuluma ngobukhulu bakhe, izihlobo zakhe namalungu omndeni wakhe Buza ukuthi ufuna ubuhleni. Abazi Ukubaluleka kwakhe nokuhlekwa usulu, kuveza izinto ezifana Yena wamola embhedeni futhi akhuthaze izingubo zakhe zangaphansi kwakhe ubuntwana. Ngakho-ke, ngenkathi engumprofethi kwabanye, akayena ehlonishwe ekhaya lakhe nasedolobheni. Ngokwesimiso, INkosi uJesu ayibonwa njengomprofethi ngumndeni wakhe futhi izihlobo.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 62,
-verse: `<b>(9)	The Gospel of Mark, 8th chapter, 38th verse.</b>`,
+verse: `<b>(9)	IVangeli likaMarku, Isahluko 8, ivesi 38.</b>`,
 meaning: `<b>
-(38) If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of them when he comes in his Father’s glory with the holy angels. </b>`,
+(8:38) Uma umuntu enamahloni ngami namazwi ami kulokhu Isizukulwane esiphingayo nesona, iNdodana yomuntu intando babe namahloni ngabo lapho efika kuYise Udumo ngezingelosi ezingcwele. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Some people learn wisdom in society but choose to keep it a secret. They feel that knowing wisdom is a mistake; hence, they do it confidentially. They may also feel ashamed to go to a Guru and learn wisdom from them, and therefore keep it confidential. Some individuals are in search of a Guru to become disciples but prefer a wealthy Guru due to their status and wealth. They are embarrassed to approach a poor Guru, even if that Guru has more wisdom. Consequently, they choose a wealthy Guru who may not possess much wisdom. Although some individuals have learned wisdom from a Guru, they do not want to be referred to as disciples of that Guru. Thus, many people feel ashamed and take great care to avoid being exposed.
+<div class="poem"><div class="poemtext">
+  Abanye abantu bafunda ukuhlakanipha emphakathini kodwa bakhethe ukugcina kuyimfihlo. Banomuzwa wokuthi ukwazi ukuhlakanipha kuyiphutha; Ngakho-ke, Bakwenza ngemfihlo. Bangazizwa benamahloni okuya ku I-Guru futhi ufunde ukuhlakanipha kubo, ngakho-ke yigcine ngiyimfihlo. Abanye abantu bafuna i-guru ukuze babe abafundi kepha bakhetha i-guru ecebile ngenxa yesimo sabo nengcebo. Banamahloni ithuba lokuya eGuru elimpofu, Noma ngabe lelo guru linokuhlakanipha okwengeziwe. Ngenxa yalokho, bakhetha I-guru ecebile okungenzeka ingeke ibe nokuhlakanipha okuningi. Nokho Abanye abantu bafundile ukuhlakanipha okuvela ku-guru, bayakwenza Akafuni ukubhekiswa kubo njengabafundi baleyo juru. Ngakho-ke, abaningi Abantu bazizwa benamahloni futhi banakekele kakhulu ukugwema ukuba kuvezwe.
 
-  One may feel ashamed of material things, but one should not be ashamed of the wisdom of Paramatma. Let us consider an example. Two people are walking on the road. One is handsome but poor and unintelligent, while the other is unattractive but rich and intelligent. They are both close relatives. People who see them on the road will judge them by their outward appearance, not by their intelligence. After a while, a traveler sees them and asks the handsome person who the second person is. The handsome person is ashamed to say that the unattractive person is his close relative because of their appearance. Instead, he simply says that they know each other. The unattractive person thinks that he has been introduced as an acquaintance rather than a close relative because of his appearance. Later, another traveler sees them and asks the unattractive person who the other person is. Being intelligent, the unattractive person responds similarly by saying that they are merely acquaintances. The handsome person is pleased to be introduced as an acquaintance rather than a relative. The unattractive person thinks, "I am also ashamed to introduce this stupid person as my close relative." The unattractive person followed the behavior of the handsome person.
+  Umuntu angase abe namahloni ngezinto ezibonakalayo, kodwa oyedwa akufanele ube namahloni ngokuhlakanipha kweParamatma. Asicabangela isibonelo. Abantu ababili bahamba emgwaqeni. Eyodwa muhle kodwa umpofu futhi akahlakaniphile, kanti omunye unjalo engathandeki kodwa ecebile futhi ehlakaniphile. Basondele bobabili izihlobo. Abantu abababona endleleni bayobahlulela ngokuthi ukubonakala kwabo kwangaphandle, hhayi ngokuhlakanipha kwabo. Ngemva kwe-ngenkathi, isihambi siyawabona bese ebuza umuntu omuhle ukuthi ubani umuntu wesibili ngu. Omuhle unamahloni ukusho ukuthi umuntu ongakhangi uyisihlobo sakhe esiseduze ngenxa ukubukeka kwabo. Kunalokho, uvele athi bayazana okunye. Umuntu ongakhangi ucabanga ukuthi uke waba wethulwa njengomuntu omaziyo esikhundleni sokuba yisihlobo esiseduze ngenxa yokubukeka kwakhe. Kamuva, esinye isihambi siyababona bese ebuza lo muntu ongakhangi ukuthi ubani omunye. Njengoba ehlakaniphile, umuntu ongakhangi usabela ngendlela efanayo bethi bayazana nje. Omuhle umuntu uyakujabulela ukwethulwa njengomuntu amaziyo kunalokho kunesihlobo. Umuntu ongakhangi uyacabanga, &ldquo;Nami nginguye nginamahloni okwethula lesi siphukuphuku njengesihlobo sami esiseduze." Umuntu ongakhangi wayelandela ukuziphatha kwe- umuntu omuhle.
 
-  The second traveler, who asked the unattractive person, had a rule for many years. His rule was to give 10,000 coins if he met close relatives. However, although they were close relatives, they did not receive the 10,000 coins because they did not introduce themselves as such. Consequently, the first poor person did not receive any money. Since the second person is rich, he does not care if he received the money or not. The first-person lost money because he was ashamed and lied. If you are ashamed of wisdom just because others do not like it, then wisdom is also ashamed of you. The first-person lost money because he was first ashamed and lied. Hence, they would not receive future profit liberation. Based on this, the Lord said, <b>“If anyone is ashamed of me and my words, I am also ashamed of them.”</b> Therefore, one should understand that it is okay to be ashamed of material matters, but one should not be ashamed of Paramatma’s wisdom.
+  Umhambi wesibili, owabuza umuntu ongakhangi, kwaba nomthetho iminyaka eminingi. Umthetho wakhe kwakuwukunikeza izinhlamvu zemali eziyi-10,000 uma wahlangana nezihlobo eziseduze. Nokho, nakuba babeseduze ezihlotsheni zabo, abazange bathole izinhlamvu zemali eziyi-10 000 ngoba bona abazange bazethule benjalo. Ngakho, okokuqala umuntu ompofu akatholanga mali. Kusukela okwesibili umuntu ucebile, akanandaba ukuthi uyitholile yini imali noma cha. Umuntu wokuqala walahlekelwa yimali ngoba enamahloni futhi eqamba amanga. Uma unamahloni ngokuhlakanipha ngoba nje abanye bengathandi khona-ke ukuhlakanipha kuyakuba namahloni ngawe. Umuntu wokuqala ulahlekile imali ngoba waqala waba namahloni waqamba amanga. Ngakho, ba ngeke ithole inkululeko yenzuzo yesikhathi esizayo. Ngokusekelwe kulokhu, INkosi yathi, <strong>&ldquo;Uma umuntu eba namahloni ngami nangamazwi ami, nginjalo futhi ube namahloni ngabo.&rdquo; </strong>Ngakho-ke, umuntu kufanele aqonde ukuthi kulungile ukuba namahloni ngezinto ezibonakalayo, kodwa eyodwa akufanele ube namahloni ngokuhlakanipha kukaParamatma.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 63,
-verse: `<b>(10)	The Gospel of Mark, 9th chapter, 7h verse.</b>`,
+verse: `<b>(10)	IVangeli likaMarku, isahluko 9, ivesi lesi-7.</b>`,
 meaning: `<b>
-(7) Then a cloud appeared and covered them, and a voice came from the cloud: “This is my Son, whom I love. Listen to him!”</b>`,
+(9:7) Khona-ke kwavela ifu labasibekela, futhi kwavela izwi efwini, lithi: “Lo yiNdodana yami engiyiyo uthando. Mlaleleni!”</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Most people are not aware of the clouds in the sky. During the rainy season, the clouds produce thunder and make a loud noise. The clouds are alive and perform many tasks, but their specific roles are unknown. According to history, the Sun heard the divine wisdom that the clouds first revealed at the beginning of creation. There are no secrets unknown to the clouds on earth. God behind the clouds said about Jesus, <b>“This is my beloved Son. Listen to him.”</b> Therefore, it is God’s will that people should hear God’s wisdom from Jesus. What God says as a man is God’s wisdom, but when humans do not listen, God speaks from the clouds. Although humans may not always respect what others say, they value what the clouds say, which is why God spoke from the clouds in the sky.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Abantu abaningi abawazi amafu esibhakabhakeni. Phakathi nenkathi yemvula, amafu akhipha ukuduma nokwenza umsindo omkhulu. Amafu ayaphila futhi enza imisebenzi eminingi, kodwa izindima zabo ezithile azaziwa. Ngokomlando, iLanga wezwa ukuhlakanipha kwaphezulu amafu ayembule ekuqaleni isiqalo sendalo. Azikho izimfihlo ezingaziwa kwabakwa amafu emhlabeni. UNkulunkulu emva kwamafu wathi mayelana UJesu, <strong>&ldquo;Lo uyiNdodana yami ethandekayo. Mlaleleni.&rdquo; </strong>Ngakho-ke, ikuyintando kaNkulunkulu ukuthi abantu bezwe ukuhlakanipha kukaNkulunkulu kuJesu. Lokho uNkulunkulu akushoyo njengomuntu kuwukuhlakanipha kukaNkulunkulu, kodwa uma kungabantu ningalaleli, uNkulunkulu ukhuluma esemafwini. Nakuba abantu bangase bangahloniphi njalo lokho abanye abakushoyo, bayakwazisa lokho okushiwo abanye amafu athi, yingakho uNkulunkulu ekhuluma esemafwini esibhakabhakeni.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 3,
 pageNumber: 64,
-verse: ` <b>(11)	The Gospel of Mark, 10th chapter, 17th and 18th verses.</b>`,
+verse: ` <b>(11)	IVangeli likaMarku, isahluko 10, 17th kanye 18 amavesi.</b>`,
 meaning: ` <b>
-(17) As Jesus started on his way, a man ran up to him and fell on his knees before him. “Good teacher,” he asked, “what must I do to inherit eternal life?”
+(10:17) Njengoba uJesu eqala indlela yakhe, indoda ethile yagijimela kuye wawa ngamadolo phambi kwakhe. "Mfundisi omuhle" wabuza: “Yini okufanele ngiyenze ukuze ngidle ifa lokuphila okuphakade na?”
 <br><br>
-(18) “Why do you call me good?” Jesus answered. “No one is good—except God alone.  </b>`,
+(10:18) “Kungani ungibiza ngokuthi ngimuhle?” UJesu waphendula. “Akakho omuhle,ngaphandle kukaNkulunkulu yedwa.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Some Christians claim that the Bible was originally written in Hebrew and then translated into many other languages. Hence, some words were not translated correctly. For example, the phrase “Good teacher” is used in the first verse, and in the second verse, “God is good.” However, based on what Jesus said, <b>“No one is good—except God alone,”</b> the word should neither be ‘Good teacher’ nor ‘Good God.’ A person who teaches wisdom eloquently can be called a good teacher, and someone who performs good deeds can be called a good person.
+<div class="poem"><div class="poemtext">
+  Amanye amaKristu athi iBhayibheli lalikhona ekuqaleni eyabhalwa ngesiHebheru yabe isihunyushelwa kwezinye eziningi izilimi. Ngakho, amanye amagama awahunyushwanga ngendlela efanele. Ngokwesibonelo, igama elithi &ldquo;Mfundisi Omuhle&rdquo; lisetshenziswe kweyokuqala evesini lesibili, &ldquo;uNkulunkulu muhle.&rdquo; Nokho, esekelwe kulokho uJesu akusho, <strong>&ldquo;Akekho omuhle, ngaphandle kukaGodlone,&rdquo; </strong>Igama akufanele libe &lsquo;umfundisi Omuhle&rsquo; noma &lsquo;uNkulunkulu Omuhle.&rsquo; Umuntu ofundisa ukuhlakanipha ngokuqephuza angabizwa ngomuhle umfundisi, nomuntu owenza okuhle angabizwa umuntu omuhle.
 
-  There are good teachers and good people on earth. Therefore, it would be belittling God to compare them and say, <b>“No one is good—except God alone.”</b> Apart from that, there is no match between the words ‘good teacher’ in the first sentence and ‘good person’ in the second sentence. The second divine scripture, the Bible, has been translated into more languages than the other two holy scriptures. The Bible has been translated into 1,400 languages, making it the only scripture that has been translated into most languages.
+  Kukhona abafundisi abahle kanye nabantu abalungile emhlabeni. Ngakho-ke, yona ngabe kube ukululaza UNkulunkulu ukubaqhathanisa futhi athi, <strong>&ldquo;Akekho ohambayo&mdash;ngaphandle kukaNkulunkulu yedwa.&rdquo;</strong> Ngaphandle kwalokho, akukho qondanisa phakathi kwamagama &lsquo;thisha omuhle&rsquo; emshweni wokuqala kanye &lsquo;nomuntu omuhle&rsquo; emshweni wesibili. Owesibili waphezulu umbhalo, iBhayibheli, selihunyushelwe ezilimini ezengeziwe kuneminye imibhalo emibili engcwele. IBhayibheli belinjalo ihunyushelwe ezilimini eziyi-1,400, okwenza kube ukuphela kombhalo esihunyushelwe ezilimini eziningi.
 
-  The first divine scripture is the basis for the second divine scripture, the Bible, and the last divine scripture, the Quran. The Quran provides testimony in 5:44, 5:46, 5:48, and 5:68 that <b>the wisdom of the first divine scripture, the Taurat (the Bhagavad-Gita), is also present in the other two scriptures.</b> Therefore, when we consider the words used in the Gospel of Mark, 10:17 and 10:18, we can understand that there may be many good teachers and good people in the world, but there is no Uttama Purusha (Supreme Being) among men. Hence, as stated in the Bhagavad-Gita, <b>“God alone is Purushottama.”</b> It can be said that unrelated words were used in the above verses, where the word should have been ‘Purushottama.’ This is well understood when you look at verses 16,17, and 18 in the 15th chapter of the Bhagavad-Gita, the Purushottama Prapti Yoga.
+  Umbhalo wokuqala waphezulu uyisisekelo sowesibili umbhalo waphezulu, iBhayibheli, nombhalo wokugcina waphezulu, I-Quran. I-Quran inikeza ubufakazi ku-5:44, 5:46, 5:48, kanye 5:68 ukuthi <strong>ukuhlakanipha kombhalo wokuqala waphezulu, I-Taurat (i-Bhagavad-Gita), nayo ikhona kwenye imibhalo emibili. </strong>Ngakho-ke, lapho sicabangela i-wods esetshenzisiwe eVangelini likaMarku, 10:17 kanye 10:18, singakuqonda lokho kungase kube othisha abaningi abahle nabantu abalungile emhlabeni, kodwa akukho Uttama Purusha (Ophakeme) phakathi amadoda. Ngakho, njengoba kushiwo kuyiBhagavad-Gita, <strong>&ldquo;uNkulunkulu yedwa Purushottama.&rdquo; </strong>Kungashiwo ukuthi kusetshenziswe amagama angahlobene emavesini angenhla, lapho igama bekufanele libe khona &lsquo;Purushottama.&rsquo; Lokhu kuqondwa kahle uma ubheka amavesi 16, 17, kanye ne-18 esahlukweni se-15 seBhagavad-Gita, I-Purushottama Prapti Yoga.
 
-  According to the first divine scripture, there is only one Purusha. Although there is only one Purusha, God is divided into three - Jeevatma, Atma, and Paramatma. Among these three males, <b>the male who is better than Jeevatma and Atma is Paramatma, also known as Purushottama,</b> as mentioned in Bhagavad-Gita. It can be said that all except the three males are Prakruti, which is feminine. Men and women in the world are all related to feminine nature. Therefore, in the verse, Jesus said, <b>“Don’t call me Purushottama (Uttama Purusha). God alone is Uttama Purusha.”</b> There are three main religions on earth. The people of each religion took a divine scripture and said this is our scripture. However, in reality, these three scriptures are not related to any specific religion. They provide wisdom to all human beings, and therefore, they should be regarded as scriptures meant for all human beings.
-</div></div>
+  Ngokombhalo wokuqala waphezulu, munye kuphela Phurusha. Nakuba kunePhurusha elilodwa kuphela, uNkulunkulu uhlukene phakathi zibe ezintathu - Jeevatma, Atma, futhi Paramatma. Phakathi kwalokhu abesilisa abathathu, <strong>owesilisa ongcono kunoJeevatma futhi I-Atma yiParamatma, eyaziwa nangokuthi iPurushottama, </strong>njenge okukhulunywa ngakho eBhagavad-Gita. Kungashiwo ukuthi konke ngaphandle kwe-abesilisa abathathu yiPrakruti, okungowesifazane. Abesilisa nabesifazane emhlabeni wonke ahlobene nemvelo yabesifazane. Ngakho-ke, ku-UJesu wathi: <strong>&ldquo;Ningangibizi ngePurushottama (Uttama Phusha). UNkulunkulu kuphela u-Uttama Purusha. " </strong>Zintathu izinkolo ezinkulu emhlabeni. Abantu benkolo ngayinye bathatha umbhalo waphezulu futhi wathi lo umbhalo wethu. Nokho, ku iqiniso, le mibhalo emithathu ayihlobene nanoma iyiphi into ethile inkolo. Banikeza ukuhlakanipha kubo bonke abantu, futhi ngakho-ke, kufanele zithathwe njengemibhalo eqondiswe kubo bonke abantu.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Mark",
+chapterName: "IVangeli likaMarku",
 chapterNumber: 4,
 pageNumber: 65,
-verse: `<b>(12)	The Gospel of Mark, 16th chapter, 15th and 16th verses.</b>`,
+verse: `<b>(12)	IVangeli likaMarku, isahluko 16, 15th kanye 16 amavesi.</b>`,
 meaning: `<b>
-(15) He said to them, “Go into all the world and preach the gospel to all creation.
+(16:15) Wathi kubo: “Hambani niye ezweni lonke shumayelani ivangeli kuyo yonke indalo.
 <br><br>
-(16) Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.   </b>`,
+(16:16) Okholwayo abhapathizwe uyakusindiswa; kodwa ongakholwayo uzalahlwa.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  After Jesus was crucified and laid in the tomb, He rose from the tomb at dawn on Sunday morning. He first appeared to Mary Magdalene and then to other disciples. Jesus appeared to the disciples thirty-three times after coming out of the tomb. He told the above two verses to the eleven disciples when they sat together for a meal. Since all humans in the world are immersed in ignorance, He instructed His disciples to go and <b>preach the gospel, which is God’s wisdom,</b> to them. The same message is conveyed in the 15th verse, <b>“Go into all the world and preach the gospel to all creation.”</b> Here, ‘all the world’ does not mean different worlds; it refers to people who earn their livelihoods on earth and suffer in various ways.
+<div class="poem"><div class="poemtext">
+  Ngemva kokuba uJesu ebethelwe esiphambanweni futhi wabekwa ethuneni, wavuka kusukela ethuneni ekuseni ngeSonto ekuseni. Waqala wavela kuMariya Magdalena bese kuba nakwabanye abafundi. UJesu wabonakala kubafundi izikhathi ezingamashumi amathathu nantathu sebephumile ethuneni. Watshela amavesi amabili angenhla kubafundi abayishumi nanye lapho bahlala ndawonye ukuze badle. Ngoba bonke abantu emhlabeni banjalo ecwile ekungazini, Wayala abafundi Bakhe ukuba bahambe <strong>futhi ushumayele ivangeli, eliwukuhlakanipha kukaNkulunkulu</strong>, kubo. Umlayezo ofanayo uvezwa evesini 15, <strong>&ldquo;Hambani niye kuwo wonke amabandla emhlabeni futhi nishumayele ivangeli kukho konke okudaliweyo.&rdquo; </strong>Lapha, &lsquo;bonke abangcwele umhlaba&rsquo; awusho imihlaba ehlukene; libhekise kubantu abathi bathola ukuphila kwabo emhlabeni futhi bahlupheke ngezindlela ezihlukahlukene.
 
-  Jesus also said, “Preach the gospel to all creation.” It means preaching the gospel, divine wisdom, to people of all ages. He said to preach them divine wisdom and grant them permission, ‘baptism,’ to go to paraloka. Baptism is like a permit to liberation or paraloka. Those who have been granted permission to paraloka will be saved by my wisdom and escape from the experience of sin. He said that the troubles of sins would punish those who are not baptized as they do not have protection from sins.
-</div></div>
+  UJesu futhi wathi, &ldquo;Shumayelani ivangeli kuyo yonke indalo.&rdquo; kusho ukushumayela ivangeli, ukuhlakanipha kwaphezulu, kubantu babo bonke iminyaka. Wathi mabashumayele ukuhlakanipha kwaphezulu futhi babanike imvume, &lsquo;ubhapathizo,&rsquo; ukuya eparaloka. Ubhapathizo lufana nemvume ekukhululweni noma paraloka. Labo abanikiwe imvume paraloka uyosindiswa ngokuhlakanipha kwami futhi ngiphunyuke ngesipiliyoni sesono. Wathi izinkathazo zezono angajezisa labo abangabhapathiziwe njengoba bengabhapathiziwe ukuvikelwa ezonweni.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 66,
-verse: `<b>(1)	The Gospel of Luke, 2nd chapter, 49th verse.</b>`,
+verse: `<b>(1)	IVangeli likaLuka, isahluko 2, ivesi 49.</b>`,
 meaning: ` <b>
-(49) “Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s business?”      </b>`,
+(2:49) “Beningifunelani na?” wabuza. “Beningazi yini ukuthi kufanele ngibe semhlanganweni kaBaba na?” </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus’s parents were looking for Him, and when they saw Him, they were astonished. His mother said to Him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.” In response, Jesus said, <b>“Why were you searching for me? Didn’t you know I had to be in my Father’s business?”</b> Although Jesus’s visible (physical) father was also there, He was referring to his invisible (non- physical) Father. It is important to clarify which father Jesus was referring to so that we can understand the Father’s tasks and, consequently, comprehend the tasks Jesus would be doing and why He left his mother and father.
+<div class="poem"><div class="poemtext">
+  Abazali bakaJesu babemfuna, futhi lapho bembona Yena, bamangala. Unina wathi kuye: “Ndodana, ngani usiphethe kanje? Mina noyihlo besikhona ngikufuna ngokukhathazeka.” Ephendula, uJesu wathi: “Ngani ubungifuna? Ubungazi ukuthi kufanele ngibe phakathi umsebenzi kaBaba wami?" Nakuba uJesu ebonakala (enyameni) nobaba wayekhona, Wayebhekisele kokungabonakali kwakhe (hayi ngokomzimba) Baba. Kubalulekile ukucacisa ukuthi wayengubani ubaba uJesu ukuze siqonde imisebenzi kaBaba futhi, ngenxa yalokho, baqonde imisebenzi uJesu ayezoyenza futhi kungani Eshiya unina noyise.
 
-  In his own words, Jesus declared himself to be the Son of Man. On some occasions, He also claimed to be the Son of God. Therefore, He is both the Son of Man and the Son of God. If one asks whose sons all these people are, it can be said that all humans are sons of man. However, there is a secret involved here. For a man to be born, a seed(sperm) donor is required. Although it is natural to assume that the father is the seed donor for a man’s birth, it is important to note that, although a man appears to be male in appearance, He cannot be counted as a male because He is created as a model for a male. Both a man and his wife can be counted under the feminine Prakruti.
+  Ngamazwi akhe, uJesu wazibiza ngokuthi uyiNdodana koMuntu. Kwezinye izikhathi, Wabuye wathi uyiNdodana ka uNkulunkulu. Ngakho-ke, Uyikho kokubili iNdodana yoMuntu kanye neNdodana kaNkulunkulu. Uma umuntu ebuza ukuthi bangamadodana kabani bonke laba bantu, kungashiwo kanjalo bonke abantu bangamadodana abantu. Nokho, kunemfihlo ehilelekile lapha. Ukuze indoda izalwe, kudingeka umnikezeli wembewu (isidoda). Nakuba kungokwemvelo ukucabanga ukuthi ubaba uyimbewu onikelayo ngesikhathi sokuzalwa kwendoda, kubalulekile ukuqaphela ukuthi, nakuba umuntu ubonakala engowesilisa ngokubukeka, akanakubalwa njengowesilisa ngoba udalwe njengesibonelo sowesilisa. Kokubili indoda nomkakhe ingabalwa ngaphansi kwePrakruti yesifazane.
 
-  Although Jeevatma, who is in a human body, is Atma-related-male, He cannot beget someone. Atma, which is in the body, made every human born. We have already stated that Atma does all the tasks in the body and is the seed donor for all beings. Jesus referred to himself as the “Son of Man,” even though He was not an ordinary man, to indicate that his Father was not the visible Joseph but rather Atma that resides within all human bodies. The first divine scripture teaches us that every living entity born from a mother’s womb has Atma as its father and Prakruti as its mother. However, Jesus was born directly without a physical father, as He was the Son of the Holy Spirit (Paramatma), who is different from Atma. This is why He is referred to as the Son of God. When Jesus met His parents, He told them He must be about His Father’s work but did not specify the father He was referring to (Atma or the Holy Spirit). In his own opinion, He considered Himself to be the Son of God. Jesus did not perform the tasks of Atma, which is in the body. He was focused on spreading God’s wisdom. The omnipresent Paramatma carries out the task of spreading divine wisdom. Therefore, Jesus intended to do His Father’s (the Holy Spirit) work. Paramatma Himself created a body and filled it with His own soul. Even though Jesus was God, He referred to Himself as the Son of Man at times and the Son of God at other times to prevent people from recognizing Him.
+  Nakuba i-Jeevatma, esemzimbeni womuntu, i-Atma ohlobene-owesilisa, Akakwazi ukuzala umuntu. I-Atma, engaphakathi umzimba, wenziwe wonke umuntu ozelwe. Sesikushilo lokho I-Atma yenza yonke imisebenzi emzimbeni futhi inikela ngembewu yayo zonke izidalwa. UJesu wazibiza ngokuthi “iNdodana yomuntu,” yebo nakuba Wayengeyena umuntu ovamile, ukuze abonise ukuthi uYise kwakungeyena uJosefa obonakalayo kodwa kunalokho u-Atma ohlala ngaphakathi yonke imizimba yabantu. Umbhalo wokuqala waphezulu usifundisa lokho yonke into ephilayo ezelwe esibelethweni sikamama ine-Atma njengeyayo ubaba noPrakruti njengonina. Nokho, uJesu wazalwa ngokuqondile ngaphandle kukayise wenyama, njengoba WayeyiNdodana yoNgcwele Umoya (Paramatma), owehlukile ku-Atma. Kungakho Yena ubizwa ngokuthi iNdodana kaNkulunkulu. Lapho uJesu ehlangana nabazali bakhe, Wabatshela ukuthi kufanele abe mayelana nomsebenzi kaYise kodwa akazange cacisa ubaba ayekhuluma ngaye (Atma noma uMoya oNgcwele). Ngokubona kwakhe, Wayezibheka njengeNdodana kaNkulunkulu. UJesu akazange enze imisebenzi ye-Atma, esemzimbeni. Wayegxile ekusakazeni ukuhlakanipha kukaNkulunkulu. Okhona yonke indawo I-Paramatma yenza umsebenzi wokusabalalisa ukuhlakanipha kwaphezulu. Ngakho-ke, uJesu wayehlose ukwenza okukaYise (uMoya oNgcwele) umsebenzi. UParamatma uqobo Lwakhe wadala umzimba futhi wawugcwalisa ngoWakhe umphefumulo wakho. Nakuba uJesu wayenguNkulunkulu, wayebhekisela Kuye njengeNdodana yoMuntu ngezinye izikhathi kanye neNdodana kaNkulunkulu ngezinye izikhathi ukuvimbela abantu ukuthi bangamazi.
+
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 67,
-verse: `<b>(2)	The Gospel of Luke, 11th chapter, 37th, 38th, 39th, 40th and 41st verses.</b>`,
+verse: `<b>(2)	IVangeli likaLuka, isahluko 11, 37, 38, Amavesi 39, 40 kanye 41.</b>`,
 meaning: `<b>
-(37) As Jesus was speaking, one of the Pharisees invited him home for a meal. So, he went in and took his place at the table.
+(11:37) Njengoba uJesu ekhuluma, omunye wabaFarisi wammemela ekhaya ukuze adle. Ngakho, wangena wathatha indawo yakhe etafuleni.
 <br><br>
-(38) His host was amazed to see that he sat down to eat without first performing the hand-washing ceremony required by Jewish custom.
+(11:38) Umninimzi wakhe wamangala lapho ebona ehlala phansi udle ungakagezi izandla kuqala umkhosi odingwa isiko lamaJuda.
 <br><br>
-(39) Then the Lord said to him, “You Pharisees are so careful to clean the outside of the cup and the dish, but inside you are filthy—full of greed and wickedness!
+(11:39) Khona-ke iNkosi yathi kuye: “Nina baFarisi qaphela kakhulu ukuhlanza ingaphandle lendebe nesitsha, kodwa ngaphakathi ungcolile—ugcwele ukuhaha kanye ububi!
 <br><br>
-(40) Fools! Didn’t God make the inside as well as the outside?
+(11:40) Ziwula! UNkulunkulu akawenzanga yini ingaphakathi nengaphakathi ngaphandle?
 <br><br>
-(41) So, clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.</b>`,
+(11:41) Ngakho, hlanza ingaphakathi ngokunikeza izipho (dharmas) ku ompofu, futhi uyakuba ohlanzekile yonke indawo.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The last verse states, <b>“Clean the inside by giving gifts (dharmas) to the poor, and you will be clean all over.”</b> Unfortunately, humans have not correctly understood this verse and have interpreted it in various ways. When Jesus mentions ‘giving gifts,’ people have construed it as donating money, clothes, and food to the poor. However, Jesus did not assert that external acts of charity would purify a person from within. His intention was that the practice of dharma should be internalized, and only then would inner evils be cleansed. Jesus did not prioritize external cleanliness but instead underscored the purification of inner qualities (gunas). Therefore, He encouraged others to follow the path of dharma, which opposes the gunas. Jesus Himself experienced inner purification and adhered to the path of dharma. That is why He urged others to traverse the same path.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Ivesi lokugcina lithi, <strong>&ldquo;Hlanza ingaphakathi ngokupha izipho (Dharmas) kwabampofu, futhi nizohlanzeka nonke phezu.&rdquo;</strong> Ngeshwa, abantu abaqondi kahle leli vesi futhi balihumushe ngezindlela ezihlukahlukene. Lapho uJesu ikhuluma &lsquo;ngokuphana ngezipho,&rsquo; abantu baye bakubheka njengokunikela imali, izingubo, nokudla kwabampofu. Nokho, uJesu akazange bagomela ngokuthi izenzo zangaphandle zesisa zingahlanza umuntu ngaphakathi. Inhloso yakhe kwakuwukuthi umkhuba we-dharma kufanele ube ukufakwa ngaphakathi, futhi kungaleso sikhathi kuphela ububi obungaphakathi bungahlanzwa. UJesu akazange abeke kuqala inhlanzeko yangaphandle kodwa kunalokho wakugcizelela ukuhlanzwa kwezimfanelo zangaphakathi (gunas). Ngakho-ke, Yena wakhuthaza abanye ukuba balandele indlela ye-dharma, okuyinto uphikisa izibhamu. UJesu ngokwakhe wazibonela ingaphakathi ukuhlanzwa futhi wanamathela endleleni ye-dharma. Kungakho Yena unxuse abanye ukuthi bahambe ngendlela efanayo.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 68,
-verse: `<b>(3)	The Gospel of Luke, 12th chapter, 4th and 5th verses</b>`,
+verse: `<b>(3)	IVangeli likaLuka, isahluko 12, 4th and 5th amavesi.</b>`,
 meaning: ` <b>
-(4) I tell you, my friends, do not be afraid of those who kill the body and after that can do no more.
+(12:4) Ngithi kini, bangane bami: Ningabesabi labo ababulala umzimba, emva kwalokho bangabi nakwenza okunye.
 <br><br>
-(5) But I will show you whom you should fear: Fear him who, after your body has been killed, has authority to throw you into hell. Yes, I tell you, fear him.    </b>`,
+(12:5) Kodwa ngizonibonisa okufanele nesabe: Yesabani lowo othi esebulewe umzimba wakho unaye igunya lokukuphonsa esihogweni. Yebo, ngithi kini: Yesabani yena.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Humans can harm the body, but they cannot harm the Jeevatma within. Jeevatma, being invisible from the outside, remains unaffected. Since the body is visible, others can only inflict harm upon it, not the Jeevatma. Therefore, there is no need to fear such individuals. The only one to be feared is God. Even in death, God evaluates our sins, administers punishment, and causes suffering. The ties between individuals are severed after death. Even if the deceased is reborn in the murderer’s household, they will not recognize the murderer as an enemy. However, God recognizes the Jeevatma even after death and is aware of its subsequent births. Hence, it is crucial to fear God, who holds us accountable for our karma after death. There is no need to fear other humans who cannot harm the Jeevatma and will not recognize us after death.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Abantu bangalimaza umzimba, kodwa abakwazi ukulimaza umzimba Jeevatma ngaphakathi. I-Jeevatma, engabonakali ngaphandle, ihlala ingathinteki. Njengoba umzimba ubonakala, abanye bangakwazi kuphela ukulimaza kuyo, hhayi i-Jeevatma. Ngakho-ke, akukho isidingo sokwesaba abantu abanjalo. Okufanele esatshwe uNkulunkulu kuphela. Ngisho nasekufeni, uNkulunkulu uhlola izono zethu, uyasiphatha isijeziso, futhi kubangela ukuhlupheka. Izibopho phakathi abantu bayahlukaniswa ngemva kokufa. Noma ngabe umufi ukhona abazelwe kabusha endlini yombulali, abayikumazi umbulali njengesitha. Nokho, uNkulunkulu uyayibona iJeevatma ngisho nangemva kokufa futhi uyazi ngokuzalwa kwayo okwalandela. Ngakho, kubalulekile ukwesaba uNkulunkulu, osenza silandise ngekarma yethu ngemva kokufa. Asikho isidingo sokwesaba abanye abantu abangakwazi ukulimaza i-Jeevatma futhi ngeke isiqaphele ngemva kokufa.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 69,
-verse: `<b>(4)	The Gospel of Luke, 12th chapter, 25th verse.</b>`,
+verse: `<b>(4)	IVangeli likaLuka, isahluko 12, ivesi 25.</b>`,
 meaning: ` <b>
-(25) Which of you by worrying can add to his stature one cubit?       </b>`,
+(12:25) Yimuphi kini ngokukhathazeka anganezela ekukhuleni kwakhe ingalo eyodwa? </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Even though individuals believe that they are accomplishing everything through their intelligence, there is no inherent connection between them and their intelligence. People are not independent and are incapable of acting on their own. They are akin to puppets manipulated by karma. Those who believe they can act as they please are in a state of ignorance about themselves. According to the structure that God has created, karma is in God’s control, and individuals are in karma’s control. As karma governs them, they cannot make decisions independently. Regardless of how much they plan and utilize their intelligence, they cannot alter their height. If every individual understands themselves and contemplates the extent of their power, they will recognize their insignificance, realizing that God is infinitely greater than them.
-</div>
+<div class="poem"><div class="poemtext">
+  Nakuba abantu bekholelwa ukuthi banjalo ukufeza konke ngobuhlakani babo, akukho ukuxhumana okukhona phakathi kwabo nobuhlakani babo. Abantu abazimele futhi abakwazi ukwenza okuthile eyabo. Bafana nopopayi abasetshenziswa i-karma. Labo abakholelwa ukuthi bangenza ngokuthanda kwabo basesimweni sokuthi ukungazi ngabo. Ngokwesakhiwo ukuthi UNkulunkulu udalile, i-karma ilawulwa nguNkulunkulu, futhi abantu ngabanye bakhona ekulawuleni i-karma. Njengoba i-karma ibabusa, abakwazi ukwenza izinqumo ngokuzimela. Kungakhathaliseki ukuthi bahlela kangakanani futhi basebenzise ubuhlakani babo, abakwazi ukuguqula ubude babo. Uma wonke umuntu uyaziqonda futhi uyazindla ubukhulu bamandla abo, bayokwazi wabo ubuncane, beqaphela ukuthi uNkulunkulu mkhulu ngokungenasiphelo kunabo.</div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 70,
-verse: `<b>(5)	The Gospel of Luke, 12th chapter, 33rd and 34th verses.</b>`,
+verse: `<b>(5) IVangeli likaLuka, isahluko 12, 33 kanye 34 amavesi.</b>`,
 meaning: ` <b>
-(33) Sell your possessions and give them to the poor. Provide purses for yourselves that will not wear out, a treasure in paraloka that will never fail, where no thief comes near, and no moth destroys.
-<br><br>
-(34) For where your treasure is, there your heart will be also.     </b>`,
+  (12:33) Thengisani ngempahla yenu niyinike aba mpofu. Ziphekeleni izikhwama ezingagqoki out, umcebo paraloka ongasoze wehluleka, lapho alikho isela elingasondeli, alinanundu elichithayo.<br>
+(12:34) Ngokuba lapho kukhona ingcebo yakho, kulapho inhliziyo yakho kuzoba njalo.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There are two types of wealth: one that can buy anything in the world and another that can buy God, who is beyond the world. The former is material wealth, created by humans and visible to the naked eye, with which we buy material possessions, while the latter is wisdom wealth, created by the divine and not easily visible. There are many differences between wisdom-wealth and material wealth. While thieves can steal material wealth, they cannot steal wisdom wealth, as it is not a physical commodity. Moths can destroy material wealth, but they cannot damage wisdom wealth. Material wealth cannot eliminate even the smallest karma, but wisdom wealth can eliminate even big karma. One can acquire material wealth through work, but wisdom wealth is gained through intimacy with the divine. Material wealth can be appraised, but wisdom wealth cannot be measured. When a person dies, their connection with material wealth is severed, as not even a penny goes with the Jeevatma. In contrast, wisdom wealth accompanies the Jeevatma even after death, as all the wisdom one gains in life is carried forward into future births. Those who are rich in the world may be respected in society but not in God’s presence. God recognizes those with wisdom wealth, even if other humans do not respect them. In summary, there are many differences between material wealth and wisdom wealth.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Kunezinhlobo ezimbili zengcebo: eyodwa engathenga noma yini emhlabeni kanye nenye engathenga uNkulunkulu, ongaphezu kwe umhlaba. Owokuqala umcebo wezinto ezibonakalayo, owadalwa abantu kanye ebonakalayo ngeso lenyama, esithenga ngayo impahla impahla, kuyilapho yokugcina kuwukuhlakanipha ingcebo, adalwe yobuNkulunkulu futhi engabonakali kalula. Kunokwehluka okuningi phakathi kokuhlakanipha-ingcebo nengcebo yezinto ezibonakalayo. Ngenkathi amasela bangantshontsha ingcebo yezinto ezibonakalayo, abakwazi ukweba ingcebo yokuhlakanipha, njengoba akuyona impahla engokwenyama. Amabhu angacekela phansi impahla ingcebo, kepha abakwazi ukulimaza ingcebo yokuhlakanipha. Okubalulekile ingcebo ayikwazi ukuqeda ngisho nekarma encane, kodwa ukuhlakanipha ingcebo ingaqeda ngisho ne-karma enkulu. Umuntu angathola izinto ezibonakalayo ingcebo ngomsebenzi, kepha ingcebo yokuhlakanipha izuzwa ukusondelana noNkulunkulu. Ingcebo yezinto ezibonakalayo ingalinganiswa, kodwa ingcebo yokuhlakanipha ayinakulinganiswa. Lapho umuntu efa, ukuphila kwabo ukuxhumana nengcebo yezinto ezibonakalayo kunqanyuliwe, njengoba kungekho ngisho ipenny ihamba neJeevatma. Ngokuphambene, ingcebo yokuhlakanipha ihambisana neJeevatma ngisho nangemva kokufa, njengakho konke ukuhlakanipha inzuzo eyodwa empilweni iqhutshelwa phambili ekuzalweni okuzayo. Labo aba bacebile emhlabeni bangahlonishwa emphakathini kodwa hhayi phakathi ubukhona bukaNkulunkulu. UNkulunkulu uyababona abacebile ngokuhlakanipha, ngisho noma abanye abantu bengabahloniphi. Kafushane, lapho kunemehluko omningi phakathi kwengcebo yezinto ezibonakalayo nokuhlakanipha ingcebo.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 71,
-verse: `<b>(6)	The Gospel of Luke, 12th chapter, 49th verse.</b>`,
+verse: `<b>(6)	IVangeli likaLuka, isahluko 12, ivesi 49.</b>`,
 meaning: ` <b>
-(49) I have come to bring fire on the earth, and how I wish it were already kindled.       </b>`,
+(12:49) Ngize ukuletha umlilo emhlabeni, futhi kanjani Sengathi ngabe sekubasiwe.    </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this context, the term ‘fire’ does not refer to the ordinary fire we see daily. Fire is of two types: ordinary fire and extraordinary fire (wisdom fire). Ordinary fire can burn firewood and other objects, while <b>gnanagni (wisdom fire) burns the firewood of karma.</b> As humans are ensnared in sin and suffer hardships, God descends to bring the wisdom fire to burn away their karma and liberate them from the cycle of birth and death, helping them reach God. When God imparts wisdom, He likens it to fire because gaining wisdom can lead to liberation. God brought this fire to earth in the past, and it kindled for a while before disappearing. Jesus came to reignite the fire and keep it burning. He wanted the fire to continue burning, so He proclaimed that He came to start a fire where there was none, and He wished for the fire He had previously ignited to persist.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Kulo mongo, igama elithi 'umlilo' alibhekiseli ku-umlilo ojwayelekile esiwubona nsuku zonke. Umlilo uyizinhlobo ezimbili: umlilo ojwayelekile kanye umlilo ongajwayelekile (umlilo wokuhlakanipha). Umlilo ovamile ungavutha izinkuni nezinye izinto, kuyilapho <strong>i-gnanagni (umlilo wokuhlakanipha) ushisa izinkuni ze-karma</strong>. Njengoba abantu bebanjwe ogibeni lwesono futhi abhekane nobunzima, uNkulunkulu uyehla ukuze alethe umlilo wokuhlakanipha kuwo shisa i-karma yabo futhi ubakhulule emjikelezweni wokuzalwa nokufa, ukubasiza bafinyelele kuNkulunkulu. Lapho uNkulunkulu edlulisela ukuhlakanipha, Ukufanisa nomlilo ngoba ukuzuza ukuhlakanipha kungaholela inkululeko. UNkulunkulu waletha lomlilo emhlabeni esikhathini esidlule, futhi yavutha isikhashana ngaphambi kokunyamalala. UJesu weza ukuzobusa umlilo uhlale uvutha. Ubefuna ukuthi umlilo uqhubeke evutha, ngakho Wamemezela ukuthi Uzele ukuzobasa umlilo lapho kwakungekho, futhi Wafisa umlilo ayenawo ngaphambili kokhela ukuphikelela.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 72,
-verse: `<b>(7)	The Gospel of Luke, 12th chapter, 51st, 52nd and 53rd verses.</b>
+verse: `<b>(7)	IVangeli likaLuka, isahluko 12, 51, 52 kanye namavesi 53.</b>
 `, meaning: `<b>
-(51) Do you think I came to bring peace on earth? No, I tell you, but division.
+(12:51) Ingabe nicabanga ukuthi ngizele ukuletha ukuthula emhlabeni Qha, ngithi kini, kodwa ukwahlukana.
 <br><br>
-(52) From now on there will be five in one family divided against each other, three against two and two against three.
+(12:52) Kusukela manje kuqhubeke kuyoba nabahlanu emkhayeni owodwa bahlukene phakathi, abathathu nababili, nababili ngokumelene nabathathu.
 <br><br>
-(53) They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.  </b>`,
+(12:53) Bayohlukana, uyise emelene nendodana nendodana noyise, unina nendodakazi nendodakazi ngokumelene nonina, umamezala ngokumelene nomalokazana umalokazana ngokumelene nomamezala. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Paramatma reveals His wisdom when He incarnates on earth in Bhagavan’s form. Bhagavan’s wisdom generates opposing sentiments for those on Satan’s path. In such cases, differences of opinion arise between those who comprehend wisdom and those who do not. Those who possess wisdom will disagree with those who lack it. When such a situation unfolds within the same household, family members may become hostile toward each other. If anyone attempts to gain wisdom at home, Satan will be vigilant. Satan fosters division, pitting fathers against sons, sons against fathers, mothers against daughters, daughters against mothers, mothers-in-law against daughters-in- law, and daughters-in-law against mothers-in-law. Even Bhagavan (Guru) may advise you to disagree with those who oppose you on matters of wisdom, knowing that a husband and wife are quarreling because of His wisdom. Consequently, their quarrel may intensify rather than subside. Therefore, <b>the Lord said, “I did not come to bring reconciliation but division.”</b> Do you think that Bhagavan, who has come to teach wisdom on earth, advises you to heed your household while neglecting His wisdom? Do you believe that the Lord, who instructed you to cut off your hand if it obstructs God’s wisdom, suggests reconciling with your wife and relatives? Never. He exhorted you not to compromise with them, even if it means sacrificing your life. Hence, many conflicts arise in families because of God’s wisdom. Notably, wherever true wisdom is proclaimed, there will be discord within the household. There are no disagreements when Satan’s wisdom is presented under the guise of divine wisdom. Everyone tends to support such wisdom. One can discern that if all household members become adversaries due to divine wisdom, then such wisdom is genuinely God’s wisdom.
-</div></div>
+<div class="poem"><div class="poemtext">
+  I-Paramatma yembula ukuhlakanipha Kwakhe lapho ethatha isimo somuntu umhlaba ngesimo sikaBhagavan. Ukuhlakanipha kukaBhagavan kuyakhiqiza imizwa ephikisayo kulabo abasendleleni kaSathane. Ezimweni ezinjalo, ukuhlukana kwemibono kuvela phakathi kwalabo abaqondisisayo ukuhlakanipha nalabo abangakwenzi. Abanokuhlakanipha bayokwenza ungavumelani nalabo abangenalo. Lapho kuvela isimo esinjalo emndenini owodwa, amalungu omndeni angase abe benobutha komunye nomunye. Uma umuntu ezama ukuzuza ukuhlakanipha ekhaya, uSathane uzobe eqaphile. USathane udala ukuhlukana, ukuxabana oyise bamelene namadodana, amadodana ngokumelene noyise, omama ngokumelene amadodakazi, amadodakazi ngokumelene nawonina, noninazala ngokumelene omalokazana, omalokazana bamelane laboninazala umthetho. Ngisho noBhagavan (Guru) angakweluleka ukuthi ungavumelani naye labo abaphikisana nawe ezindabeni zokuhlakanipha, bazi ukuthi indoda nomfazi bayaxabana ngenxa yokuhlakanipha Kwakhe. Ngenxa yalokho, ukuxabana kwabo kungase kushube kunokuba kunciphe. Ngakho-ke, <strong>iNkosi yathi, &ldquo;Angizanga alethe ukubuyisana kodwa ukwahlukana.&rdquo; </strong>Uyakucabanga lokho UBhagavan, ozele ukuzofundisa ukuhlakanipha emhlabeni, uyeluleka ukuthi ulalele indlu yakho ube udebeselela ukuhlakanipha kwakhe na? Yenza uyakholwa ukuthi iNkosi, eyakuyala ukunquma yakho isandla uma kuvimbela ukuhlakanipha kukaNkulunkulu, kusikisela ukubuyisana nayo umkakho nezihlobo zakho? Ungalokothi. Wanikhuthaza ukuba ningakwenzi vumelana nazo, ngisho noma kusho ukudela ukuphila kwakho. Ngakho, izingxabano eziningi ziyavela emindenini ngenxa kaNkulunkulu ukuhlakanipha. Ngokuphawulekayo, nomaphi lapho kumenyezelwa khona ukuhlakanipha kweqiniso, lapho kuzoba nokungezwani ekhaya. Abekho ukungavumelani lapho ukuhlakanipha kukaSathane kwethulwa ngaphansi kwe ukuhlakanipha kwaphezulu. Wonke umuntu uvame ukusekela abanjalo ukuhlakanipha. Umuntu angakubona lokho uma wonke amalungu omndeni babe izitha ngenxa yokuhlakanipha kwaphezulu, khona-ke ukuhlakanipha okunjalo iwukuhlakanipha kweqiniso kukaNkulunkulu.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 73,
-verse: `<b>(8)	The Gospel of Luke, 13th chapter, 3rd verse.</b>`,
-meaning: `<b>(3) Unless you change your mind, you too will all perish.</b>`,
+verse: `<b>(8)	IVangeli likaLuka, isahluko 13, ivesi 3.</b>`,
+meaning: `<b>(13:3) Ngaphandle kokuba ushintshe umqondo wakho, nani nonke niyokwenza bhubha.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Manas (mind) is the most crucial part of the body, named so because it retains memories. It consistently operates under the influence of Maya (Satan), reinforcing worldly concerns. Since a person’s birth, the mind has been aligned with Satan and has never functioned in alignment with God. The transformation of such a mind from Satan’s influence to God’s alignment is termed a “change of mind.” No one can transition to God’s side without a change in their mind. When the mind undergoes transformation, gnanagni (wisdom fire) begins to manifest. Through the destruction of their entire karma by gnanagni, a person unites with God without experiencing birth and death. If the mind remains unchanged and continues to dictate thoughts, an individual must undergo cycles of birth, death, and endure the torments of hell. Therefore, it is imperative for everyone to undergo a change of mind.
-</div></div>
+<div class="poem"><div class="poemtext">
+  UManase (ingqondo) uyingxenye ebaluleke kakhulu yomzimba, ebizwa ngokuthi ngakho ngoba igcina izinkumbulo. Ihlanganisa ntly isebenza ngaphansi ithonya lamaMaya (uSathane), eqinisa izinkathazo zezwe. Kusukela ekuzalweni komuntu, ingqondo ibihambisana noSathane futhi akakaze asebenze ekuqondaneni noNkulunkulu. ukuguqulwa komqondo onjalo usuke ethonyeni likaSathane uye kwelikaNkulunkulu ukuqondana kubizwa ngokuthi "ukushintsha kwengqondo." Akekho ongakwazi ukuguquka ohlangothini lukaNkulunkulu ngaphandle koshintsho emqondweni wabo. Lapho ingqondo ishintsha, i-gnanagni (umlilo wokuhlakanipha) iyaqala i-manifest. Ngokubhujiswa kwe-karma yabo yonke ngo gnanagni, umuntu uhlangana noNkulunkulu ngaphandle kokuzalwa nokufa. Uma ingqondo ihlala ingashintshile futhi iqhubeka lawula imicabango, umuntu kufanele abhekane nemijikelezo yokuzalwa, ukufa, ubekezele ekuhlushweni esihogweni. Ngakho-ke, kunjalo kuphoqelekile ukuthi wonke umuntu ashintshe umqondo.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 74,
-verse: ` <b>(9)	The Gospel of Luke, 14th chapter, 26th verse.</b>`,
+verse: ` <b>(9)	IVangeli likaLuka, isahluko 14, ivesi 26.</b>`,
 meaning: `<b>
-(26) If anyone comes to me and does not hate father and mother, wife and children, brothers, and sisters—yes, even their own life—such a person cannot be my disciple.       </b>`,
+(14:26) Uma umuntu eza kimi futhi engazondi ubaba nomama, unkosikazi nabantwana, abafowabo, kanye odade—yebo, ngisho nokuphila kwabo siqu—umuntu onjalo angeke abe ngumfundi wami.      </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-  If anyone listens to this, they will be surprised and ask, “What kind of wisdom is this? What kind of Guru? What kind of disciples?” One may come to a Guru and question him, “Does any Guru tell their disciples that they are not a disciple unless they scold their family?” We need to think here. If a person scolds all of their household, the Guru is not a madman to be pleased and accept them as a disciple. It is not advised to hate everyone indiscriminately. The Guru becomes pleased when a disciple, in line with the Guru’s sentiments, scolds the ignorant who walk on Satan’s path. When a disciple opposes the ignorant, the Guru perceives that the disciple is aligned with his teachings and accepts them. If a disciple supports the ignorant instead of contradicting them, the Guru will not acknowledge them as a disciple. Hatred is common between two groups – gnanis (wise) and the ignorant. If father and mother, wife and children, brothers and sisters are on the ignorant list, the disciple should oppose them. The Lord said that one who does not oppose the ignorant and favors relatives is not his disciple. It is emphasized that one should not compromise on ignorance. Jesus said that the disciple should forsake their mother, father, brothers and sisters, wife, and children if they obstruct the path to wisdom.
-</div></div>
+  Uma umuntu elalela lokhu, uzomangala futhi abuze, “Inhlakanipho enjani le? Hlobo luni lweGuru? Hlobo luni lwe abafundi?” Umuntu angase eze kuGuru futhi ambuze, “Ingabe noma yimuphi uGuru utshele abafundi babo ukuthi abawona umfundi ngaphandle uma bathethisa umndeni wabo?" Kudingeka sicabange lapha. Uma umuntu uthethisa bonke abendlu yabo, uGuru akayena uhlanya wajabula futhi wamukele njengomfundi. Akwelulekwa ukuthi uzonde wonke umuntu ngokungakhethi. U-Guru uyajabula lapho umfundi, ngokuvumelana nemizwa kaGuru, uthethisa abangenalwazi abahamba endleleni kaSathane. Lapho umfundi ephikisana ngokungazi, uGuru uyabona ukuthi umfundi uhambisana nowakhe izimfundiso futhi uyazamukela. Uma umfundi esekela abangenalwazi esikhundleni sokubaphikisa, i-Guru ngeke ivume kubo njengomfundi. Inzondo ijwayelekile phakathi kwamaqembu amabili - gnanis (abahlakaniphileyo) nabangenalwazi. Uma ubaba nomama, unkosikazi kanye izingane, abafowethu nodadewethu basohlwini lokungazi lutho, umfundi kufanele abaphikise. INkosi yathi lowo owenzayo angaphikisani nokungazi futhi athande izihlobo akuyena umfundi wakhe. Kuyagcizelelwa ukuthi umuntu akumele ayekethise ukungazi. UJesu wathi abafundi kufanele babalahle umama, ubaba, abafowabo nodadewabo, unkosikazi, nabantwana uma bekhona vimba indlela eya ekuhlakanipheni.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of Luke",
+chapterName: "IVangeli likaLuka",
 chapterNumber: 4,
 pageNumber: 75,
-verse: ` <b>(10)	The Gospel of Luke, 14th chapter, 27th verse.</b>`,
+verse: ` <b>(10)	IVangeli likaLuka, isahluko 14, ivesi 27.</b>`,
 meaning: `<b>
-(27) Whoever does not carry their cross and follows me cannot be my disciple.      </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When firewood is bundled, it becomes easier to pick up and carry for long distances; it would not be possible to carry it otherwise. Similarly, when the 108 gunas in a person’s mind are tied together in a dysfunctional condition, they become a bundle in the hands of man. There are two kinds of gunas - good and bad - in the human body. <b>The six bad gunas are greed (kaama), anger (krodha), avarice (lobha), passion (moha), arrogance (madam), and jealousy (matsara). Similarly, the six good gunas are charity (dana), mercy (daya), benevolence (audarya), dispassion (vairagya), humbleness (vinaya), and love (prema).</b> Each of the six bad and good gunas is further divided into nine parts. Thus, the six bad gunas are divided into 54 parts, and the six good gunas are divided into 54 parts as well. Together, the good and bad gunas make up a total of 108.
-
-  The 108 parts of gunas are called <b>Maya</b> in the first divine scripture. In the second divine scripture, they are called <b>Satan</b>. In the final divine scripture, these gunas are named <b>Iblis</b>. God Himself spoke of Maya as “Guna-mayi mama maya” in the first divine scripture. It means that Maya, which God created, is in the form of gunas in the human body. God mainly created Maya to prevent humans from following the divine path. Maya can make a person stay by its side instead of following God’s way. It can be said that Maya is guna, or guna is Maya. In Telugu, Maya means ‘invisible.’ Maya is present in the head without being seen. Maya, which is present in our body, is also called the Cross. In the spiritual sense, Maya is compared to a python, while Atma is compared to a dove.
-
-  A python is a mighty serpent. One who has been caught by it cannot become free. That means Maya is strong. Jesus said that whoever controls, bundles, and holds such strong Maya in their hand is my disciple. Jesus said that the conqueror of Maya was truly my disciple. <b>Whoever captures Maya (the Cross) and follows God’s path by carrying it is a true disciple of God.</b> One who carries the Cross that we talk about greatly today and follows Jesus is His disciple, as stated in this verse.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of Luke",
-chapterNumber: 4,
-pageNumber: 76,
-verse: `<b>(11)	The Gospel of Luke, 18th chapter, 29th verse.</b>`,
-meaning: `<b>
-(29) “Truly I tell you,” Jesus said to them, “no one who has left home or wife or brothers or sisters or parents or children for the sake of the kingdom of God will fail to receive many times as much in this age, and in the age to come eternal life.”   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The kingdom of God refers to Moksham, which is liberation from the cycle of rebirth. Once a person attains Moksham (liberation), they are not reborn on earth and do not suffer from Satan. Moksham means being released from Satan and merging with God. In other words, a person becomes one with God. The union of the Jeeva, which is small and has a specific form, with the infinitely vast, limitless, and omnipresent God is an outstanding achievement. To attain this position, a person must follow the path of wisdom and be willing to give up attachments to their spouse, children, parents, siblings, and home if these attachments hinder their spiritual journey. Such a person becomes a complete gnani in this world and attains God in the Paraloka. Giving up a spouse, children, siblings, and parents is a significant decision because Maya surrounds a person and ties them to their near and dear ones. Prahlada did not count his father, Mirabai left her husband and relatives, and Buddha abandoned a young wife, one-year-old son, parents, home, and kingdom for wisdom. However, those who distance themselves from their loved ones can come closer to God. For acquiring someone who is eternal, leaving behind someone who stays with you for a while is an intelligent decision. However, such a decision may seem foolish to the world. It is rare to find someone willing to leave everything behind in Satan’s kingdom for God’s sake. Because when anyone gets the idea of God in their mind, Satan mainly focuses on them and diverts them from the thought and the path of wisdom. It is impossible for a person to overcome Satan’s power and conquer it, as stated in Bhagavad-Gita, Vignana Yogam, verse 14. One may wonder how it is possible to go to God when Satan’s power is so great. Why attempt and fail? However, if a person completely trusts in God and continues their efforts despite their inability to stand against Satan, God Himself will pull them away from Satan to His side. Therefore, the only way for the tiniest human being to defeat Satan is to surrender completely to God. Bhagavad-Gita states, <b>“Maya metam tarantite,”</b> which means <b>“I will get him out of Maya,”</b> about those who trust God completely. Thus, if a person puts their complete trust and burden on God, God can save them from Satan.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of Luke",
-chapterNumber: 4,
-pageNumber: 77,
-verse: `<b>(12)	The Gospel of Luke, 21st chapter, 15th verse.</b>`,
-meaning: ` <b>
-(15) I will give you words and wisdom that none of your adversaries will be able to resist or contradict. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When young children, who have some knowledge of wisdom, question the teachings of renowned preachers and gurus, they do not find answers in their teachings. Therefore, preachers have made a rule that no one should question their teachings. The main reason for the lack of answers in their teachings is that they are not based on science. Unscientific teaching cannot provide answers to rational questions. Preachers continue to teach, but they do not answer when asked. When Paramatma incarnates as Bhagavan, He teaches the true wisdom of Paramatma. Therefore, those who know the wisdom taught by Bhagavan can teach and answer any question. Adversaries who see Bhagavan’s devotees, who know Paramatma’s wisdom, come to them with the ego that they are gurus and gnanis and speak contradictorily. The wisdom that adversaries cannot speak against has already been told to the devotees at such a time. The word of God says that many people are jealous and increase rivalry against those who know true wisdom. Even when God came down, adversaries confronted Him and said, “You don’t know wisdom yet and need to go to a specific place to learn genuine wisdom.” Some people came to me and said, “You do not know wisdom.” Such people will also come to you. God said in the above verse that He would give you the wisdom to answer them.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of Luke",
-chapterNumber: 4,
-pageNumber: 78,
-verse: ` <b>(13)	The Gospel of Luke, 21st chapter, 17th verse. </b>`,
-meaning: `<b>
-(17) Everyone will hate you because of me.      </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The wisdom revealed by Bhagavan, the Son of God, is against those who are possessed by Satan. There is a chance that ordinary people may misunderstand this wisdom, as it appears to be entirely against preachers and gurus who possess some wisdom. Pandits, preachers, and gurus often do not like the words of those who preach the name of God. They, and the people who follow them, begin to hate those who preach God’s path because they find God’s words contrary to their teachings. Hence, God said in the above verse, <b>“Everyone will hate you because of me.”</b>
-  </div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 79,
-verse: `<b>(1)	The Gospel of John, 1st chapter, 1st verse.</b>`,
-meaning: `<b>(1) In the beginning was the Word, and the Word was with God, and the Word was God.</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The Gospel of John comprises 21 chapters. In this scripture, I will provide explanations for some of the verses that humans have failed to understand, misunderstood, or might interpret incorrectly. I have chosen these verses as part of God’s service, feeling like a mere pen that God uses me to do this work. Earlier, I explained some verses from the first divine scripture, the Bhagavad-Gita, and the third divine scripture, the Quran. As I deeply desire to explain all three divine scriptures, I will now illustrate some verses from the second divine scripture, the Injeel (Bible). The wisdom provided in this scripture is scientific and authentic. Now, let’s examine the first verse from the first chapter of the Gospel of John, which consists of three short sentences that must be explained to understand it fully.
-
-  Let us now discuss the first three words of the Gospel of John in the second divine scripture.
-<b>
-            Word was at the beginning.
-            Word was with God.
-            Word was God.</b>
-
-  In the teachings of the Bible, let’s refer to these three verses as the beginning verses of the Bible. Some may argue that the verses from Genesis should be called the first words of the Bible. However, we have already explained our method. We consider teachings that humans need as scripture and will discuss the first verses from it. Following this principle, Bhagavan Jesus taught the four Gospels. Even though the Gospel of John was the last one, it started with the teachings. Similarly, we took the 11th verse of the second chapter as the beginning of the Bhagavad-Gita because God’s wisdom started from there. We also took verses 11th, 12th, and 13th from Sankhya- Yoga as the first three sentences. Likewise, the first verses were taken from the 43rd chapter of the Injeel (the Bible), and we took three verses from the Taurat (Bhagavad- Gita) as the first three sentences. Here, however, we took three sentences from one verse in the Gospel of John as the first three sentences, rather than three consecutive verses. The sequence of sentences is not important; we took the ones that conveyed three meanings as three sentences. Although these are three short sentences, each one of them has profound meaning.
-
-  These three sentences convey subtle meanings. The first three sentences of the Bhagavad-Gita delve into the concepts of Jeevatma and Atma. However, the opening words of the Gospel of John teach a special meaning. The initiation of the Bhagavad- Gita discusses the three components - Jeevatma, Atma, and the body. Conversely, the initial three sentences of the Gospel of John explore the three aspects - Wisdom, Atma, and Paramatma. Nevertheless, these sentences don’t explicitly clarify the positions of Atma and Paramatma. Although the term ‘God’ appears in two of the sentences, wisdom and Atma remain ambiguously identifiable. Now, let’s scrutinize the first sentence of the trio.
-
-  The first sentence is <b>“The Word was at the beginning.”</b> A word is articulated in speech, generated by sound emanating from the mouth. One can perceive a sound and discern whether a sentence is long or short based on the auditory cues. The language of the sentence may not necessarily be familiar and can vary in length. It is indeterminable whether the word (sentence) was spoken softly or loudly. Let’s analyze the sentence <b>“The Word was at the beginning.”</b> While we understand that the word was spoken at the beginning, humans did not possess any language skills at that initial stage. Therefore, a pertinent question arises about the language in which the word was spoken. To address this inquiry, let’s consider the events that transpired at the beginning.
-
-  If we inquire about the origin of the sound in the beginning, we can attribute the sound heard by the human ear to Prakruti. Prakruti comprises five great bhootas - Earth, Water, Air, Fire, and Sky - each possessing life. The Sky, endowed with life, generated the sound at the beginning. This raises the question of how the Sky produces sound when it is seemingly void. This inquiry is rational, and understanding the answers transforms it into a scientific exploration. According to Brahma Vidya Shastra, did the Sky itself create the sound? Since the Sky is a Jeeva, Jeevatma is not capable and cannot act according to scientific principles; it is the dharma of Jeevatma. Paramatma also has one dharma. Paramatma (God) does not possess a name, form, or work. This is the primary dharma of God. God is not an agent of action; He does not engage in work. According to Jeevatma’s dharma, Jeevatma is not capable and cannot perform any work. Although God is capable, He does not engage in any actions. Therefore, Jeevatma and God have opposing dharmas. In the beginning, the word emanated through the Sky. As the Sky is also a Jeeva, it did not produce that sound. The sound that originated from the Sky is a factual occurrence, but the Jeeva of the Sky is not capable and cannot generate any sound. Thus, someone behind the Sky may have been the source of the sound. God did not create the sound because He does not engage in work. Although the sound from the Sky is true, neither the Jeeva of the Sky nor God is the cause of the sound. A doubt may arise whether there was someone apart from both.
-
-  To dispel this doubt, it is essential to understand the entities in the universe. Initially, God created the universe. God, while being God, created Prakruti from Himself. He first created Prakruti as five parts and then created Atma and Jeevatma to infuse vitality into Prakruti, which was devoid of life. Similar to Himself, God created masculine (Purusha) Atma and Jeevatma. He designated Jeevatma as the passenger and Atma as the driver, entrusting Atma with the execution of all tasks. In every individual, Atma carries out all functions within the body while coexisting with Jeevatma. In His scriptures, God asserted that even great scholars may not fully comprehend Atma. Only dedicated yogis, as mentioned in the Bhagavad-Gita Purushottama Prapti Yoga 11th verse, can truly understand Atma, emphasizing that Atma remains concealed within the body without being known.
-
-  If God does not work, some may ask how He made Prakruti, Atma, and Jeevatma. My reply is that it is true that God does not work. This principle was articulated by God after the creation of Prakruti, Atma, and Jeevatma. Before the act of creation, God was the sole existence and, during that period, God engaged in work. There was no entity other than God before creation. Consequently, God worked before the act of creation. God created Prakruti, followed by the creation of Atma and Jeevatma. Subsequently, God established His dharma. While God refrained from working after creation, He was active before the act of creation. God delegated all responsibilities to Atma and determined that Atma would execute all tasks. Consequently, Paramatma ceased engaging in the actions He used to perform after the creation of Atma. As Atma assumed the responsibilities, Paramatma became a passive observer (witness).
-
-  God does not engage in work; Jeeva is incapable of action, and Atma is the one that performs all tasks. Therefore, it was Atma that produced the sound from the Sky at the beginning. Atma, concealed within the Sky, generated the sound. The sound created by Atma became God’s wisdom, hence referred to as the ‘word,’ signifying a sound with meaning. Describing the creation event, the phrase <b>“The Word was at the beginning”</b> is used to express that a meaningful sound originated from the Sky. We’ve learned what the ‘word’ is and who articulated it. The ‘word’ was spoken with God’s wisdom by Atma in the form of sound. What Atma articulated from the Sky became the first wisdom for the world. Though the sound from the Sky held wisdom, it manifested as a loud sound in the form of thunder, beyond the comprehension of human language. The Sun comprehended the thunderous sound in the Sky and, recognizing its unintelligibility for humans, conveyed the message to a man named Manu on Earth in a language understood by humans.
-
-  God’s wisdom manifested in the form of an incomprehensible sound at the outset of creation. This is articulated in the first sentence of the first chapter of John’s Gospel, stating that the <b>“The Word was at the beginning.”</b> On that day, humans were unaware that the sound bore God’s wisdom; They only understood somewhat when the Sun conveyed the message. Krishna conveyed the same wisdom in the form of the Bhagavad- Gita, stating that it was the same wisdom spoken at the beginning of creation. However, human attention did not initially focus on the thunderous sound at the beginning, and to this day, no one realizes that the sound of thunder encapsulates the wisdom of the Bhagavad-Gita. The Sun conveyed the same wisdom to Manu that Krishna had spoken, translating the wisdom originating from the sky in the form of thunder. The wisdom from the sound of the Sky emerged from the Atma of the Sky. Atma’s wisdom originated from Atma itself. Atma itself became the wisdom, and the same wisdom came out of Atma. This wisdom from Atma is comparable to how cotton transforms into thread, and the thread emerges from the cotton. While cotton and thread are distinct, cotton becomes the thread. Similarly, Atma and wisdom are different, but Atma’s wisdom emanates from Atma. If the thread is separated, it consists of cotton fibers; likewise, if Atma’s wisdom is dissected, it contains the essence of Atma.
-
-  In the beginning, God conveyed His wisdom through the sound of the Sky, as described in Quran 42:51, where one of the ways God reveals His wisdom is through the revelation from the Sky. God transmitted His wisdom through the Atma of the Sky during the initiation of creation. The wisdom, presented in the form of thunder, was not comprehensible to humans as it lacked a language they could understand. Consequently, the Sun, having grasped the wisdom in the thunders, relayed it to a man on earth in human language. Eventually, this wisdom spread throughout the earth. However, as time progressed, adharmas replaced dharmas, causing the initially conveyed wisdom to fade from human memory. In Dvapara Yuga, Bhagavan assumed the form of Krishna and informed Arjuna that He was sharing the same wisdom the Sun had conveyed. Despite having the same wisdom presented in the form of the Bhagavad- Gita, the first divine scripture, humans have forgotten its origins.
-
-  The first three sentences in the Gospel of John were written 3000 years after the Bhagavad-Gita was spoken, as humans had forgotten the wisdom imparted by God. The sentence <b>“The Word was at the beginning”</b> is now understood. It is recognized that the wisdom in the form of thunder originated from the Atma of the Sky, as indicated in the second sentence. Therefore, it is asserted that <b>“The Word was with God.”</b> Further exploration reveals that the sound of the word was born out of Atma. Just as the twisted thread emerges from cotton fiber, Atma’s mobility transformed into energy, and the wisdom in the energy manifested in the form of sound. Similar to how the thread contains cotton fiber, the sound of wisdom encompasses Atma’s power. Atma’s wisdom is in the form of both Atma’s power and Atma itself. Atma’s wisdom and Atma are one and the same, and it is hence said: <b>“The Word was God.”</b>
-
-  So far, we have discussed that God created Jeevatma and Atma, with God actively working before creation. However, after the act of creation, God empowered Atma to carry out the tasks, seemingly disappearing and making His presence unknown. God refrained from performing any tasks, and, in this state, He became akin to one who did not exist. Consequently, Atma assumed the responsibility of performing God’s work. Although Atma executes the functions of both Jeevatma and Paramatma, its actions remain concealed from others. The aforementioned statements outline the entire operational process of Atma. Initially, when Paramatma created the universe, there were three souls, but after creation, only two souls—Jeevatma and Atma—are recognized. In the absence of Paramatma’s presence, Atma took on the role of Paramatma, which is why Atma can be referred to as God. Despite not being God (Paramatma), Atma performs God’s tasks and occupies God’s position.
-
-  The wisdom of Atma originates from Atma itself. By asserting that Atma is God, it is affirmed that <b>The Word (wisdom) was with God.</b> This statement is accurate when we consider Atma as God. Even though Atma is not God, it must be acknowledged as God because God has bestowed upon Atma the authority to act as God. Therefore, when the Word (wisdom) is identified as Atma, it can be declared that the same wisdom (Atma) is God. This explanation aligns with the statement in the Gospel of John that <b>The Word was God.</b> Having addressed questions such as “What is the Word?”, “How is the Word connected to Atma?” and “Why is Atma considered God?”, I assume that the meaning of the first three sentences from the Gospel of John 1:1 is now comprehensible. If one fails to grasp this after such a detailed explanation, the wisdom of Atma may remain elusive. Understanding Atma’s wisdom is crucial to comprehend God’s system. To discern God’s ways, one must begin with an understanding of the wisdom of the Word. Once this wisdom is known, it becomes evident that the wisdom is Atma, and Atma is God.
-<b>
-At creation God  (Paramatma)  Prakruti  Atma Jeevatma
-After creation   (Paramatma)  Prakruti  Atma Jeevatma
-After creation   Atma (God)   Prakruti  Atma Jeevatma</b>
-
-  In the act of creation, God worked to create both the feminine Prakruti and the masculine Atma and Jeevatma. Initially, God, as the Purusha (male), created two souls, Atma and Jeevatma, similar to Him. Following the creation of Prakruti, Atma, and Jeevatma, God transitioned into a role of witnessing without active involvement. Given God’s innate nature of not engaging in work, it may seem as if there is no God, despite His existence. When the balance of dharmas is disrupted, and adharmas prevail on Earth, God sends His soul as Bhagavan to restore dharmas. In reestablishing dharmas, God’s representative is sent, eliminating the need for God to directly engage in the work. Atma, on the other hand, assumes responsibility for all other tasks. Consequently, after creation, God becomes inert and seemingly irrelevant. It could be stated that God, in this state, appears non-existent. Atma steps in to fill the perceived void of God and effectively becomes God, making us oblivious to the absence of God. Hence, the phrase <b>“The Word was God”</b> is presented in the second divine scripture, signifying a distinction between God and the word. While the word is not inherently God, it transformed into God. The expression <b>“The Word was God”</b> highlights the transformation of the word (wisdom) into God. Since the word (wisdom) is identified with Atma, and Atma is considered God, it is asserted that Atma, being the word, is God. Everyone is mistaken in knowing who God is and who Atma is.
-
-  In reality, God no longer exists after the act of creation. Without anyone knowing that there is no God in the world, Atma takes over the role of God, performing the duties of both Jeevatma and Prakruti. Simultaneously, Atma assumes a position akin to God. After creation, God transformed into a formless, nameless entity with no assigned tasks. Describing such a God as non-existent might be more accurate than asserting His existence. As there is no entity in God’s place, Atma steps into the role of God, elucidated by the phrase <b>“The Word was God”</b> in the third sentence. Despite many people hearing and studying these sentences, the underlying secret remains unknown.
-
-  To elucidate the reality about Atma, which embodies the role of God, it is stated that <b>“The Word was God.”</b> When Atma, personifying God, engages in any action, it attributes the action to “Jeevatma has done” or “God has done,” convincing everyone of God’s existence. Questions may arise regarding who holds authority over the universe if there is no God, or whether this perspective aligns with God’s wisdom or atheism. The response to these inquiries is as follows: We are saying that God is not in the place of God, but we are not saying that God does not exist at all. God’s actions remain unknown, and it is emphasized that He lacks a name, work, or form, hence having no direct relationship with humans, but we never said that God didn’t exist at all. In times of a threat to dharmas, God sends His representative to restore order. Even in this scenario, the representative refrains from explicitly claiming to be God, adopting the moniker ‘Bhagavan.’ The mystery surrounding God’s identity and qualities persists. God is there, yet no one knows what God is like. No one has seen or directly communicated with God since creation. Anything can be said about anything in the world, but nobody can say anything definitive about God. Terms like ‘Allah’ in Kruta Yuga signify God’s limitless nature, and designations like ‘Parabrahma’ emphasize God’s superiority over Atma, who fulfills various roles. Additionally, the term ‘Paramatma’ highlights God’s distinction from Atma, and ‘Purushottama’ denotes God’s supremacy compared to Jeevatma and Atma. It is better to admit that neither you nor I know anything about God.
-  </div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 80,
-verse: ` <b>(2) 	The Gospel of John, 1st chapter, 9th verse.</b>`,
-meaning: `<b>
-(9) The true light that gives light to everyone was coming into the world.     </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  If there is light in the outside world, it is because of a burning fire. However, in this context, true light is mentioned in the verse. The true light is kindled without fire and enters every human being, illuminating the entire body from head to toe. There is only one such light without fire, and that is Atma, which comes from God and is designated by God (the Creator). Atma provides light of consciousness to the entire body. When Atma enters the body, the 25 trillion cells in the human body are filled with its light. Each cell becomes a burning lamp without fire. The light of the lamp has a specific temperature. The human body has a temperature of 98.4 °F because of Atma’s light. When Atma leaves the body, the body becomes cold without any heat. A body without Atma’s light is called a dead body. In verse 24:35, it is said, <b>“Atma is the light, and the body is the niche.”</b> It can be stated that Atma, which illuminates the body, can be called the true light.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 81,
-verse: ` <b>(3)	The Gospel of John, 1st chapter, 10th verse.</b>`,
-meaning: ` <b>
-(10) He was in the world, and though the world was made through him, the world did not recognize him.        </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The term ‘Loka (World)’ in Telugu refers to something that undergoes experiences. Atma is present in humans who undergo experiences, and it is the creator of all human beings. However, it is crucial to recognize the distinction between Atma and God. God created Atma, and Atma, in turn, created humans. It is important to understand that God did not directly create humans; instead, He formed the entire Prapancha, initially devoid of any living beings. God first brought forth Prakruti and then empowered Atma to generate, govern, and terminate human life. Since then, Atma has been continuously creating humans, functioning as the sustaining light of human life, and orchestrating the processes of death and rebirth. Despite this, humans often remain oblivious to the presence of Atma, which is near and within them and is essentially God. Atma gives birth to human beings; hence Atma is the Father to humans. God created Atma; hence He is the Father to Atma. Although Atma is sometimes referred to as God, the true God is the Holy Spirit, while Atma is the Father of humans.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 82,
-verse: ` <b>(4)	The Gospel of John, 1st chapter, 11th verse.</b>`,
-meaning: `  <b>
-(11) He came to that which was his own, but his own did not receive him.       </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The term “His own” encompasses all those whom He created. Atma, acting upon the commandment of the Holy Spirit, brought humans into existence, and manifested to them in the form of divine wisdom, referred to as the Word. Even though Atma came to humans in the form of wisdom, humans tend to perceive their own knowledge as significant, often overlooking or dismissing the offered wisdom.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 83,
-verse: `  <b>(5)	The Gospel of John, 1st chapter, 12th verse. </b>`,
-meaning: `<b>
-(12) Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Those who comprehend the wisdom offered by Atma will embrace Atma. Those who are acquainted with Atma’s wisdom and hold faith in Atma have the prospect of becoming Atma’s heirs. Consequently, the verse asserts, “He gave the right to become children of God.” The term “God’s children” denotes those who are familiar with Atma’s wisdom.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 84,
-verse: ` <b>(6)	The Gospel of John, 1st chapter, 13th verse.</b>`,
-meaning: `<b>
-(13) Men born not of natural descent, nor of human decision or a husband’s will, but born of God.      </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  All human beings originate from Atma. They are not born of women’s blood nor the will of males or females.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 85,
-verse: `<b>(7)	The Gospel of John, 1st chapter, 14th verse.</b>`,
-meaning: ` <b>
-(14) The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The God Atma (Wisdom) assumed a physical form, resembling that of a human, and dwelled among humans, radiating grace and wisdom.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 86,
-verse: `  <b>(8)	The Gospel of John, 1st chapter, 18th verse.</b>`,
-meaning: ` <b>
-(18) No man has seen God at any time; the only begotten Son, which is in the bosom of the Father, revealed him.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The word ‘God’ is used for both Atma and Paramatma. In the final divine scripture, the term ‘Allah’ is used for both Gods — Atma and Paramatma. Hence, Muslims could not recognize two Gods. To avoid this mistake, the Bible states that Atma is the Father, and Paramatma is the Holy Spirit. The term ‘begotten Son’ refers to <b>the only son created by God.</b> Paramatma (the Holy Spirit) is eternal. After creating Prakruti in the beginning, Paramatma created a son called Atma to bring all living beings into existence. Atma created all living beings according to the commandments of the Holy Spirit. Therefore, there is only one Father (created God) for all living beings. The Father of the created Atma is the Holy Spirit. <b>“No one has ever seen God (the Holy Spirit or Paramatma),”</b> as stated in the verse. God (the Holy Spirit) does not have a form, name, or work; hence, no one has ever seen Paramatma. Atma, the only begotten Son, reveals the unseen God through His wisdom. Atma is the only begotten Son separated from the heart of the Great God, Paramatma. Because no one has seen the Holy Spirit, only Atma can speak about his Father, the Holy Spirit.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 87,
-verse: ` <b>(9)	The Gospel of John, 1st chapter, 51st verse.</b>`,
-meaning: `<b>
-(51) He then added, “Very truly I tell you, you will see sky opens, and the angels of God ascending and descending on the Son of Man.”  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This is the word that Jesus spoke to Nathanael Himself. Jesus claimed to be the Son of Man, even though Nathanael had referred to Him as the Son of God. Jesus did not deny being the Son of God but instead reduced Himself to the Son of Man. He assured Nathanael and others that they would witness extraordinary events. As we’ve emphasized before, God’s servants, the angels, serve as rulers in the human world. These angels, often referred to as Bhutas and Planets (Grahas), are numerous in the sky, totaling billions. During an encounter with Jesus, the servants of God, aware of His identity, descended from the sky and bowed before Him. However, many human beings remain unaware of who Jesus truly is and do not bow down before Him. Similar references are found in the Quran, the final divine scripture, specifically in verses 15:28, 15:29, and 15:30. In the mentioned verse, it is prophesied that Nathanael would witness the presence of Bhutas and Grahas around the Son of Man, as if the doors to the sky had opened. The phrase ‘ascending and descending’ denotes coming and going, with ‘descending on the Son of Man’ implying angels’ arrival at Jesus. When Nathanael acknowledged Jesus as the Son of God, Jesus, recognizing Nathanael’s wisdom vision, assured him in verse 50 that he would witness even greater phenomena. Verse 51 follows, expressing that Nathanael, possessing wisdom vision, could perceive things beyond the ordinary sight of others. The events described in verse 51 are visible only to those with divine wisdom, providing insight into the true identity of Jesus.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 88,
-verse: `<b>(10)	The Gospel of John, 3rd chapter, 3rd verse.</b>`,
-meaning: ` <b>
-(3) Jesus replied, “Very truly I tell you, no one can see the kingdom of God unless they are born again.       </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The verse should not be interpreted literally, as it carries a deeper, symbolic meaning. God and His kingdom are beyond physical visibility for anyone. Jesus explicitly conveyed that understanding and perceiving God’s kingdom requires a spiritual rebirth. This does not imply a physical death and subsequent rebirth. If taken literally, it would mean that anyone seeking to know God would need to undergo a physical death, which is a misunderstanding. Nicodemus, who held a literal interpretation, raised a question based on this misconception.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 89,
-verse: `<b>(11)	The Gospel of John, 3rd chapter, 4th, 5th, 6th, 7th and 8th verses.</b>`,
-meaning: `<b>
-(4) “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!”
-<br><br>
-(5) Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit (Atma).
-<br><br>
-(6) Flesh gives birth to flesh, but the Spirit (Atma) gives birth to spirit.
-<br><br>
-(7) You should not be surprised at my saying, “You must be born again.”
-<br><br>
-(3:8) The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So, it is with everyone born of the Spirit (Atma).” </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When a man dies and is reborn, it is called rebirth. If the rebirth happens physically, all the organs of the man will change. If that happens, the desire to see God and God’s kingdom will also vanish. The body should not die to keep the organs and ambitions as they are. The body contains both wisdom and ignorance, but the ignorance in the body should completely die. When a man gets rid of ignorant thoughts and desires, he is considered dead in ignorance and born of wisdom. One who gets rid of ignorance and gains wisdom can be said to be born of Atma. <b>The duty of man is to know Atma in the body.</b> To know Atma, one must know Atma’s wisdom. When a man knows the wisdom of Atma, he is considered born of Atma. When the body dies, a man gets a new body, but changing one’s will in the same body without getting a new body is like a new birth. The wind blows wherever it pleases, and we hear its sound depending on where it blows. As the wind changes its direction, if a man changes his purpose, it will be a new birth for him. One who desires Atma knows Atma in the same body and the same life. There is no need to go to another life to know Atma.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 90,
-verse: `<b>(12)	The Gospel of John, 3rd chapter, 13th verse. </b>`,
-meaning: `<b>
-(13) No one has ever gone into Paraloka except the one who came from Paraloka the Son of Man. </b>`,
-pageText: `
-<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Ihaloka, Heaven (Swarga-Loka), Hell (Naraka-Loka), and Paraloka are the names of the four worlds. The world (Loka) where we all live is called Ihaloka. Heaven and hell are not separate worlds; both are on earth. Loka is neither a kingdom nor a territory. The place and time of experience together are called loka. The place where one experiences hardship is called Yamaloka, Naraka-Loka, or hell. Similarly, the place where one experiences happiness is called Swarga-Loka or heaven. Since both these experiences occur on earth, it can be said that this world (Ihaloka) is both heaven and hell. However, Paraloka is different from hell and heaven. While both hell and heaven involve experiences, Paraloka does not have any experiences. The state in which there is no experience is called Paraloka. When a person transcends karma, they do not experience happiness or sorrow and enter Paraloka. It is called the state of being one with God, Mukti, or Moksham. A person in Ihaloka is always bound by sin and punya karma. Whoever is in Paraloka does not have any karma. If a person dies in Ihaloka, they cannot go to Paraloka but return to Ihaloka. On the other hand, a person in Paraloka, when coming into this world for any necessity, goes back to Paraloka. Therefore, although the resident of Paraloka who came from Paraloka stays in this world for some time according to His will, He will later enter Paraloka. Hence, the verse <b>“No one has ever gone into Paraloka except the Son of Man who is in Paraloka”</b> implies that the one who is in Paraloka is God. Even if someone who became God is born as a human, He will return to Paraloka. The same thing is expressed in John 3:13.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 91,
-verse: ` <b>(13)	The Gospel of John, 3rd chapter, 15th verse.</b>`,
-meaning: `<b>
-(15) That whosoever believes in Him should not perish but have eternal life.     </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Everyone who believes in God will attain eternal life without undergoing death. However, it is written that, “Eternal life is through Him only.” Paramatma exists both within and outside the body. <b>When Jeevatma merges with Paramatma, it is stated that Jeevatma has achieved Paraloka, also recognized as the kingdom of God.</b> It can also be articulated that Jeevatma has attained eternal life (moksham). The verse declares, “Whoever believes in God will ultimately be liberated from karma and receive eternal life.” Paraloka, representing eternal life, pervades everywhere, irrespective of one’s physical location. Consequently, whoever achieves moksham unites with the Holy Spirit (Paramatma) within their body.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 92,
-verse: `<b>(14)	The Gospel of John, 3rd chapter, 17th verse.</b>`,
-meaning: `<b>
-(17) For God did not send his Son into the world to judge the world, but to save the world through Him.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  God sent his Son as a man into the world to save humans, not to judge them. The responsibility of the man who came from God is to teach God’s wisdom to humans and save them from their sins. He did not come to judge the sins and punya of human beings. God did not send His representative to earth for judgment; instead, He came to save people. This verse is crucial in the Bible. Atma judges a man when he dies. The one who came from God teaches humans how to escape from karma, while the Atma performs the task of judging them.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 93,
-verse: `<b>(15)	The Gospel of John, 3rd chapter, 18th verse. </b>`,
-meaning: `<b>
-(18) Whoever believes in Him is not judged, but whoever does not believe stands judged already because they have not believed in the name of God’s one and only Son.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The verse says, “One who believes in Him,” which refers to either the invisible God or the visible God’s representative who came from God. The verse also states, “They have not believed in the name of God’s one and only Son,” which implies that it should be understood as referring to God’s representative who came from God. God Himself came to earth in the disguise of man to teach wisdom to humans. Jesus said, <b>“I am the Son of God, or the Son of Man, or God’s one and only Son,” </b>so as not to be recognized. In Hinduism, God is called Bhagavan when He disguises Himself and comes to earth as a man. Krishna is the one who came like that; hence He is called Bhagavan in the Bhagavad-Gita. Although Jesus, who is the Son of God, appeared as a man, He should also be called Bhagavan. When God incarnates as a man on earth, Hindus call Him Bhagavan, and Christians call Him the Son of Man. While it is said in the final divine scripture (15:28, 29, 30) that <b>God sends His representative by breathing His soul into Him,</b> Muslims believe that God does not come as a man. Whoever does not have faith in God’s representative, the Son of God, is already judged.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 94,
-verse: `<b>(16) The Gospel of John, 3rd chapter, 19th, 20th, 21st verses.</b>`,
-meaning: ` <b>
-(19) This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil.
-<br><br>
-(20) Everyone who does evil hates the light and will not come into the light for fear that their deeds will be exposed.
-<br><br>
-(21) But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Paramatma, who remains unknown to anyone, symbolizes darkness. Atma, brought into existence by Paramatma, embodies the true light. Paramatma has created two Sons: an invisible Atma, serving as the light within the body, and another Atma that incarnates as a human among humans. While the Atma, unseen and illuminating the body, is referred to as the Son, the other Son of God, manifesting as a man, is distinctively termed <b>the only begotten Son.</b> Jesus, the only begotten Son, descended to earth. However, due to their malevolent actions, people cherished their own darkness and refrained from approaching Jesus, the light of wisdom.
-
-  Every ignorant individual harbors aversion towards God’s representative who brings the <b>light of wisdom</b> to the world. They fear that their nefarious deeds will be exposed in the presence of God’s representative, leading them to shun the light and conceal their actions. Those who anticipate that God’s light, taking human form on earth, will unveil their dark deeds avoid coming to the Son of God when He appears. Those who adhere to God’s wisdom comprehend that Atma is accountable for all their actions within the body. They approach God’s Son because all their deeds are within <b>God’s light, guided by wisdom.</b> However, only a small fraction of people on earth recognizes that Atma, who is God, is responsible for all their actions. Consequently, only a limited number approach the Son of God when He appears. Since the earth is populated with individuals who believe they are solely responsible for their actions, they refrain from seeking the Son of God. Not only do they steer clear of the Son of God, but they also harbor animosity and inflict hardships upon God’s representative, who infrequently manifests on earth. They deride the Son of God, subjecting Him to numerous tribulations.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 95,
-verse: ` <b>(17)	The Gospel of John, 5th chapter, 19th verse.</b>`,
-meaning: ` <b>
-(19) Jesus gave them this answer: “Very truly I tell you, the Son can do nothing by Himself; He can do only what He sees his Father doing, because whatever the Father does the Son also does.</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this verse, the mention of ‘Father and Son’ is accompanied by the statement that “The Son will do the things which the Father does.” It’s crucial to discern the identities of the Father and Son, given that the Holy Spirit (God) is the only one. Although God has one eternal Son, there is also another Son who occasionally incarnates on Earth. It’s important to ascertain which Son the verse is addressing. John 3:17 emphasizes, <b>“For God did not send His Son into the world to condemn the world, but to save the world through Him,</b> ” referring to God’s son, who manifests on Earth. This verse (5:19) refers to the Son, Atma, who serves as the light within the human body. Atma is eternal on the earth, providing <b>‘the light of mobility’</b> to everyone’s body. Based on this, especially when reading the verse, one should determine which of the two sons God, the Holy Spirit, has spoken about in the verse. John 5:19 characterizes Atma as God’s eternal son, stating that Atma mirrors the actions of the Holy Spirit and engages solely in inherited tasks from the Father, doing nothing independently.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 96,
-verse: `<b>(18)	The Gospel of John, 5th chapter, 20th verse.</b>`,
-meaning: ` <b>
-(20) For the Father loves the Son and shows Him all He does. Yes, and He will show Him even greater works than these, so that you will be amazed. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When we ask who said, <b>“Paramatma (the Holy Spirit) loves the Son and shows Him all He does,”</b> we find that Jesus, the second Son of God, spoke these words to His disciples while He was on earth. No one was able to fully recognize the Son of God when He walked among humans as a man. Despite His teachings and miracles, some subjected Him to great suffering and humiliation, ultimately leading to His death. However, God’s only begotten Son, named Jesus, was in their midst and said, <b>“The Father will show Him (Atma) even greater works than these so that you will be amazed.”</b> God commanded Atma to rule over the Jeevas and to show even greater things. Let us now explore what those great things are.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 97,
-verse: `<b>(19)	The Gospel of John, 5th chapter, 21st, 22nd, 23rd verses. </b>`,
-meaning: `<b>
-(21) For just as the Father raises the dead and gives them life, even so the Son gives life to whom He is pleased to give it.
-<br><br>
-(22) Moreover, the Father judges no one, but has entrusted all judgment to the Son.
-<br><br>
-(23) That all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father, who sent Him.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There is something noteworthy here. Although there is a mention of <b>‘two Allahs’</b> in the Quran, Muslims could not find it. Similarly, there is a mention of <b>‘two Sons’</b> in the Bible, but Christians could not understand it and talk about only one Son. All three of these verses have the word ‘Son.’ One needs to determine which of the two Sons is mentioned in these verses. Many are not able to comprehend that there is a second Son because only one Son at a time is mentioned in the verses. God said, <b>“For God did not send his Son into the world to judge the world but to save the world through Him” in John 3:17, and “The Father has entrusted all judgment to the Son” in John 5:22.</b> Based on this, one should understand that God has two Sons.
-
-  God said about Atma, “As the Father, the Holy Spirit, raises the dead and gives them life, the Son also raises the dead and gives life.” Just as the Father raises the dead and gives life, Atma decides a person’s next life experiences after death based on their past life’s sins and punya. Therefore, “Like the Father, the Son gives life to whom He is pleased,” is said in the verse. <b>“Whom He likes”</b> means <b>“those who are determined by karma”</b> from Atma’s perspective. As Atma is the hidden light in the body that determines a person’s next life’s karma, “He will resurrect the one He judged,” is said in the verse. “To resurrect” means “to be born again.”
-
-  God gave Atma the power to judge the dead and bring them back to life so that everyone could glorify his Son, Atma, just as everyone glorifies the Holy Spirit as the great God. At the very moment of a person’s death, Atma, the light in the body, determines their karma for the second life based on their past life’s sins and punya and immediately takes them to the second life. Atma decides the second life based on the person’s karma and gives them life again. Those who do not know that Atma does such great things do not see Atma with great respect. One who does not respect Atma will not respect God who sent Atma. Such ignorance neither respects Atma, which is in the body, nor Paramatma, which is inside and outside of the body.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 98,
-verse: `<b>(20)	The Gospel of John, 5th chapter, 24th verse.</b>`,
-meaning: ` <b>
-(24) Very truly I tell you, whoever hears my word and believes Him who sent me has eternal life and will not be judged but has crossed over from death to life. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Previously, verses 5:21, 5:22, and 5:23 discussed the Soul (Atma), who is the mobility in the body. The verse 5:24 states about the Soul, which came in human form with the name Jesus. Whoever believes in the Holy Spirit, who sent Jesus, the only begotten Son, will attain moksham. Such a person attains moksham without undergoing judgment immediately after their death.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 99,
-verse: ` <b>(21)	The Gospel of John, 5th chapter, 26th verse.</b>`,
-meaning: ` <b>
-(26) For as the Father has life in Himself, so He has granted the Son also to have life in Himself.       </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  God, the Holy Spirit, is eternal forever. Just as Paramatma is eternal, Atma, His son, has been granted the authority to be eternal forever. The Holy Spirit, the Father of Atma, bestowed upon Him that authority. In the first divine scripture when comparing Jeevatma to Atma, Jeevatma is referred to as Kshara (Perishable soul), while Atma is designated as Akshara (Imperishable soul).
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 100,
-verse: ` <b>(22)	The Gospel of John, 5th chapter, 37th verse.</b>`,
-meaning: `<b>
-(37) You have never heard His voice nor seen His form.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this context, ‘His’ refers to Paramatma (the Holy Spirit). God, known as Paramatma or the Holy Spirit, is devoid of a name, form, or specific tasks. No one has witnessed such a God because He lacks a discernible form. Consequently, no human has ever laid eyes on God. God does not communicate with anyone as He remains inactive. Therefore, it can be asserted that no living person has truly seen God. Any assertion of having witnessed God can be regarded as false. God is neither visible nor vocal.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 101,
-verse: `<b>(23)	The Gospel of John, 5th chapter, 38th verse. </b>`,
-meaning: `<b>
-(38) Nor does His word dwell in you, for you do not believe the one He sent.   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Although the first creator, the Holy Spirit, does not actively engage in work, there are certain responsibilities that fall within His domain. Nevertheless, He refrains from direct action. Instead, God, Paramatma, has assigned His servants to carry out His work. These millions of servants constitute His dominion and execute all the tasks designated for Him. While God Himself remains inactive, His servants fulfill the roles He is supposed to undertake. Paramatma, however, has a crucial task at hand – the imparting of divine wisdom. God Himself is required for this task, as His servants cannot perform it. The final scripture states, <b>“God should teach God’s wisdom because no man knows God’s wisdom except God.</b> ” In disguise, God comes to teach the wisdom of God. Though He speaks in disguise, His identity remains unknown, as no one can discern the one in disguise. Despite God imparting His wisdom, it often goes unrecognized as His words. As God is wise, He assumes the guise of <b>‘Bhagavan’</b> and imparts wisdom.
-
-  Even when God personally comes to earth disguised as a man to teach wisdom, He also foretells sending a special man whose true identity will remain unknown. “One who comes from God will teach God’s wisdom,” God Himself declared in His divine scriptures. Consequently, everyone anticipates that the one sent from God will convey God’s wisdom. Thus, God’s incarnation remains veiled to all. Although God came to earth as a man during the Treta Yuga, no one recognized Him. During the Dvapara Yuga, God came as a man and imparted the teachings of the Bhagavad-Gita, even declaring <b>“I am God”</b> in the Bhagavad-Gita, yet no one recognized Him. Similarly, when God incarnated as Jesus in the Kali Yuga, no one recognized Him, causing Him numerous challenges. None realized that He was the real God. Some who professed to be God’s believers claimed Jesus was the Son of Man, failing to acknowledge Him as God. Others identified Jesus as the Son of God but still fell short of recognizing His divinity.
-
-  Although Jesus was God incarnate, He stated, <b>“You did not believe the one He sent”</b> in this verse without revealing His true identity. He expressed that people lacked faith in the man sent by God, stating, “God’s word did not live in you.” If there is no faith in the man sent by God, why does God’s word not resonate with humans? The reason lies in the disbelief in the divine messenger, who is God Himself and the bearer of wisdom. Consequently, God’s word fails to take root in those who lack faith in Him.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 102,
-verse: ` <b>(24)	The Gospel of John, 6th chapter, 25th, 26th, 27th verses.</b>`,
-meaning: ` <b>
-(25) When they found Him on the other side of the lake, they asked Him, “Rabbi, when did you get here?”
-<br><br>
-(26) Jesus answered, “Very truly I tell you, you are looking for me, not because you saw the signs I performed but because you ate the loaves and had your fill.
-<br><br>
-(27) Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. For on Him God the Father has placed His seal of approval.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse emphasizes two types of food: Perishable food and Imperishable food. Many humans seek perishable food, as illustrated when a crowd approached Jesus, asking, “When did you come here?” Jesus responded, <b>“You are not seeking God’s wisdom; you are seeking me, hoping for loaves of bread. ”</b> He further advised them, “Do not toil for perishable food.” Everyday food, which is consumed, digested, and destroyed within three hours, falls into the category of perishable food. Digestion, in essence, is a process of destruction, where all ingested food is broken down in the digestive tract and transformed into waste, much like burning wood into ashes.
-
-  In contrast, the wisdom a person acquires through their ears, entering their mind in the form of words, is considered imperishable food. <b>God’s wisdom is the only food that cannot be destroyed. Reading or hearing God’s wisdom is akin to consuming imperishable food for the mind.</b> The Son of Man provides this undestroyable food, as indicated by the verse, <b>“For on Him God the Father has placed His seal of approval.”</b> ‘Seal’ means acceptance or decision. God, having decided, sent His begotten Son to share His wisdom. The term ‘seal of approval’ in the verse signifies God’s decision or consent. In the Quran, it is stated that God did not reveal His wisdom to any human being, highlighting that the one who imparts God’s wisdom is no ordinary person. God asserted that His wisdom is known only to Himself, implying that the begotten Son who comes to reveal God’s wisdom is God Himself. The phrase "the Son of God" may mislead humans, but it can be understood as ‘Son’ meaning "God’s manifestation." God, choosing not to come directly as God to speak to humans, adopts the guise of the Son. This interpretation finds support in the following verse.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 103,
-verse: `  <b>(25)	The Gospel of John, 6th chapter, 32nd verse. </b>`,
-meaning: ` <b>
-(32) Jesus said to them, “Very truly I tell you, it is not Moses who has given you the bread from paraloka, but it is my Father who gives you the true bread from paraloka. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In the mentioned verse, Jesus declared, <b>“Moses did not give you the bread of wisdom from Paraloka.”</b> This raises questions: Is the Dharma Shastra taught by Moses false? Does Moses’ Dharma Shastra lack wisdom with dharmas? If what Moses taught is not the true bread of God, why is it called Moses’ Dharma Shastra? These questions prompt various considerations. On one hand, it is false to claim that what Moses taught is not Dharma Shastra. On the other hand, in alignment with God’s statement, it can be asserted that what Moses taught is not Dharma Shastra. It is also accurate that Moses did not provide imperishable bread from Paraloka. Such questions and doubts arise, creating a need for proper answers to understand the true divine wisdom.
-
-  Prophet Moses is well-known among Christians, yet many Muslims might not be aware that the name ‘Moses’ in the Bible transformed into ‘Musa’ over 1400 years. It is crucial to note that Moses and Musa are, indeed, the same name. The statement that Moses did not convey the Dharma Shastra can be both true and false, presenting an intriguing ambiguity with a strong, unknown reason. This revelation may surprise some and face disagreement from others, but its truth remains independent of opinions. It is true that the prophet Moses existed a few thousand years ago. Approximately five thousand years ago, the prophet Moses shared the wisdom he possessed. A prophet, by definition, is someone who imparts God’s wisdom, and Moses earned this title through divine thoughts from a young age. At the age of 20,<b> Bhagavan,</b> who had descended upon the earth, provided Moses with the first divine scripture, known as ‘<b>Taurath.</b> ’ Moses continued to share the wisdom contained in that scripture.
-
-  Since it was rooted in dharmas, it became known as Moses’ Dharma Shastra. Moses passed away at the age of 54. After Moses’ death, Bhagavan entered his body and conveyed dharmas that Moses had never spoken of for nine years. Despite Bhagavan leaving Moses’ body at the age of 63, this fact remained unknown, leading people to believe that Prophet Moses had lived for 63 years and taught the dharmas himself. Although God provided Moses with a divine scripture, He did not directly impart wisdom to him. Hence, the statement, “Moses was not given the bread from Paraloka,” holds true. The wisdom imparted through Moses’ body by God is known as Moses’ Dharma Shastra. This is why the verse states, “The Father of Paraloka, the Holy Spirit, gave true bread.” Moses’ actual lifespan was 54 years, and no one knew that God extended Moses’ life to 63 years. All these mysteries are elucidated in my scripture, <b>Krishna Musa</b>.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 104,
-verse: ` <b>(26)	The Gospel of John, 6th chapter, 46th verse.</b>`,
-meaning: `<b>
-(46) No one has seen the Father except the one who is from God; only He has seen the Father. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Understanding this verse is not a challenging task. Upon reading the Bhagavad- Gita, the Bible, and the Quran in their entirety, it becomes evident that the verses in these final divine scriptures carry subtle meanings. The Quran’s verses, in particular, hold a depth that surpasses other divine scriptures, making their meanings elusive to many. While verses in the Bible might appear straightforward, their true reality often eludes comprehension. Consequently, God is providing a comprehensive understanding of every verse through us.
-
-  God, represented as the Holy Spirit, exists both before and after creation. He is the primary God. The true appearance or nature of God remains unknown to humans. In the final divine scripture, the Quran, the primary God is named Allah, and the second God, Atma, is also referred to as Allah. Hence, Paramatma is the first Allah, and Atma is the second Allah. In the second divine scripture, the Bible, Paramatma is designated as God, and Atma is addressed as the Father. It is crucial to recognize that the Holy Spirit is the Father of Atma, and Atma is the Father of humans. The Quran affirms that both Paramatma and Atma are Gods, while the Bible distinguishes one as God and the other as the Father. It is essential to understand that the Father of humankind is Atma, and the Father of Atma is the Holy Spirit. The verse emphasizes that no human has seen the Father (Atma) and is ignorant of Atma’s nature. <b>However, Atma is the only one who originated from God and has therefore witnessed his Father, the Holy Spirit. In contrast, Jeevatma has never witnessed his Father, Atma.</b>
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 105,
-verse: `<b>(27)	The Gospel of John, 7th chapter, 37th and 38th verses.</b>`,
-meaning: ` <b>
-(37) On the last and greatest day of the festival, Jesus stood and said in a loud voice, “Let anyone who is thirsty come to me and drink.”
-<br><br>
-(38) Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.    </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The verse carries a subtle meaning. Just as a thirsty person naturally seeks water, the pursuit of those seeking wisdom is likened to thirst. The verse states, <b>“Whoever thirsts for wisdom should come to me and quench their thirst.</b> ” When someone approaches Jesus and receives divine wisdom, it is akin to satisfying their <b>thirst for wisdom</b> from Jesus. Those who believe in Jesus attain complete divine wisdom, becoming repositories of wisdom and sharing it with others. Jesus proclaimed that rivers of living water would flow from within them. In this context, <b>living water symbolizes divine wisdom,</b> which bestows moksham (liberation) upon humans and keeps them in a perpetual state. Hence, wisdom is referred to as living water. Just as humans satisfy their physical thirst by drinking water through their mouths, they should similarly <b>nourish their intellect(buddhi) with divine wisdom by listening through their ears.</b>
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 106,
-verse: `<b>(28)	The Gospel of John, 8th chapter, 12th verse.</b>`,
-meaning: ` <b>
-(12) When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness but will have the light of life.”  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  God, known as the Holy Spirit, created Atma to carry out His rule and work through others. He declared Atma to be his son and gave him the power to perform His tasks. Atma received the authority to take human lives, passing judgment based on their karma from previous births, and facilitating their rebirth. In the role of a judge, Atma acts in accordance with each individual’s karma. Human entanglement in karma influences their thoughts, and Atma, responding to this karma, imparts ignorance as sought by individuals. Consequently, over time, adharmas increase on Earth.
-
-  The Holy Spirit, or God, must incarnate on Earth in human form as Bhagavan to curb adharmas and promote dharmas when adharmas emerge due to human interests and Atma-induced ignorance. When God takes on the guise of a man, He is called Bhagavan. This incarnation teaches divine wisdom without revealing His divine identity, often being referred to as the Son of God, with God being His Father. According to this perspective, there is one God, the creator, who has two Sons—one as the permanent Atma within humans and another as a temporary Son in human form. When the first Son (Atma) within humans develops adharmas, the second temporary Son, incarnated as a human, imparts dharmas. Thus, there is only one God with two Sons. The Son in the form of Jesus proclaimed, <b>“I am the light of the world.</b> ” Wisdom transforms into a wisdom fire (Gnana Shakti), burning away human karma. Jesus, embodying the wisdom fire, is the light of wisdom. He came to teach wisdom to humanity, and those who follow and comprehend His wisdom will not dwell in ignorance but in wisdom. Hence, Jesus declared, “Whoever follows me will never walk in darkness but will have the light of life.” Only God, who incarnates in human form, can bestow the light of wisdom, and establish dharmas.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 107,
-verse: `<b>(29)	The Gospel of John, 8th chapter, 14th verse.</b>`,
-meaning: `<b>
-(14) Jesus answered, “Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Jesus, in His outward appearance, resembled an ordinary man without any distinct features. As individuals dwelling within bodies made of Prakruti, the external appearance of every being appears the same. Jesus, too, presented Himself as an ordinary human being. There’s a saying among elders that no one knows what kind of snake resides in a termite mound, drawing a parallel to the mysterious nature of the Jeeva within a body. Every born Jeeva comes into a body from somewhere, guided by the decisions of the Atma based on its karma. Upon completing karma and death, the Jeeva enters a new body under the judgment of the Atma. Despite residing in the body, the Jeeva remains unaware of its origin for each new birth. The manas (mind) is the organ responsible for remembering, but it, too, dies with each passing life, causing the loss of memory from previous births. Consequently, an individual, say, at the age of 40, only recalls the last 40 years of the current birth and not the numerous previous ones.
-
-  This process applies not only to humans but also to every living creature. Although Jesus may seem like an ordinary man, it is essential to consider whether the same cyclical process applies to Him. Jesus was born in Israel, signifying He came from elsewhere. But He was conscious of His origin, stating, <b>“I know where I came from.”</b> Unlike ordinary individuals who are unaware of their future births upon death, Jesus was acutely aware of His destination after death. This stark difference between Jesus and an ordinary man prompts one to inquire about the uniqueness of Jesus. The answer to this question holds the key to the best wisdom, revealing that Jesus was not an ordinary man but was born with a specific purpose.
-
-  An individual born with a predetermined purpose before birth is termed "born for a cause." No human being possesses such a pre-birth purpose. In contrast, God is born with the specific intent of establishing dharma on Earth. Only God, and not any human, has the capability to establish dharma. God remains eternal and unchanged, unaffected by birth or death, maintaining consistent memory. When God incarnates on Earth in the form of a disguised man, imparts teachings on dharma, and departs, He does not undergo rebirth after death, a fate common to ordinary humans. In death, a human’s manas (mind) is destroyed, but God neither dies nor is born elsewhere. He assumes a unique disguise as a man, fulfills His purpose, and then returns to His origin. Thus, in the verse, Jesus declared, <b>“I know where I am going,”</b> emphasizing the distinctive nature of God’s existence and purpose.
-
-  Humans lack knowledge of the whereabouts or nature of God. When God incarnates as a man, His origin remains unknown. Unlike a conventional human birth, God’s birth is distinct; He does not undergo rebirth elsewhere after dying in some other place. The omnipresent God, existing even in the womb, transforms His form and appears to be born as a baby. Given that God is present where He is born, it becomes challenging to pinpoint His origin. Those unaware that God is omnipresent remain oblivious to where Jesus originated. Moreover, the destination of God after assuming a different form remains unknown. Consequently, in the verse, Jesus stated, <b>“You have 115 no idea where I come from or where I am going,”</b> emphasizing the mysterious nature of God’s existence and movements.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 108,
-verse: `<b>(30)	The Gospel of John, 8th chapter, 19th verse.</b>`,
-meaning: `<b>
-(19) Then they asked him, “Where is your Father?” “You do not know me or my Father,” Jesus replied. “If you knew me, you would know my Father also.” </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Does God exist? If He does, how is He? Where is He? If you know the answers to these questions, you will understand who the Father and the Son are. There is only one God, but we should know where the Son came from. The words ‘Father’ and ‘Son’ are frequently used in the Bible. <b>One should understand that ‘Father’ means God; the term was used to refer to God in the Bible. In the Quran, God is called ‘Allah,’ and in the Bhagavad-Gita, God is referred to as ‘Paramatma.’</b> Although these words are different, they all signify God. The essence of God should be seen in the term ‘Father.’ When Jesus was on earth, the Pharisees asked Him about his Father. Jesus replied, <b>“You did not see me or my Father.”</b> The Pharisees did not inquire about Jesus, even though He was before them. They wanted to know about his physical father, not realizing that Jesus’ father was God. They might have been surprised when Jesus directly spoke about Himself and his Father. They thought they were seeing Jesus in person and asked him to find out about his unknown father. Then Jesus said, <b>“You did not see me or my Father.”</b> We need to understand the meaning of that word.
-
-  Jesus’ Father is the Holy Spirit. Atma, the Holy Spirit’s Son, is present in all bodies and governs their operations. The Holy Spirit, referred to as the Father, and Atma, known as the Son, are ever-present. The Holy Spirit, Paramatma, is eternal and has existed since before creation. Atma, the Holy Spirit’s Son, has been present in all bodies since after creation.
-
-  Besides the permanent Son, Atma, God (the Holy Spirit) has another Son called <b>‘the only begotten Son,’</b> who occasionally comes upon the earth. There are significant differences between the permanent Son (Atma) and the temporary Son (the only begotten Son). For example, when Atma comes with a normal human body, the body has a separate Jeevatma. Although the entire body belongs to Atma, and Atma is the body’s head, Jeevatma also resides with Atma in the body and thinks that the body is mine. If the temporary Son, the only begotten Son, comes upon the earth with a body, there is no Jeevatma in that body. In an ordinary person’s body, God and Atma are different. Atma performs every task in that body, and God does not work. But in the only begotten Son’s body, Paramatma (God) resides as Atma and performs tasks in Atma’s form. Because there is no Jeevatma in the only begotten Son’s body, the one who acts as Atma also acts as Jeevatma. Although the one in the only begotten Son’s body is God, He pretends to be Jeevatma. <b>The one who came in disguise as the only begotten Son is the Holy Spirit (God). That God is acting like Jeevatma.</b> There are many differences between God’s permanent Son and the temporary Son.
-
-  It can be said that most people are unaware that God has a permanent Son and the only begotten Son who comes occasionally. By acquiring wisdom, one can understand the existence of Atma and Atma’s wisdom, but recognizing the only begotten Son is challenging. Identifying the only begotten Son among so many humans is difficult. Therefore, no one identified the only begotten Son who came in Treta Yuga, Dvapara Yuga, and Kali Yuga. Although Jesus was the only begotten Son of God in the Kali Yuga, people could not recognize Him as the second Son of God. Despite His proclamation of being the Son of God, people could not identify Him and subjected Him to many insults and torture. People failed to recognize those who came in Dvapara Yuga and Kali Yuga as the Son of God, even though they declared, “I am the Son of God.” I hesitate to affirm that the one who came in Treta Yuga was the Son of God. On that day, God Himself came in disguise as the Son and imparted wisdom on earth. Even though He was known as a great gnani and taught wisdom, I am also hesitant to say that He was Bhagavan because He was portrayed as an evil man among the people. Yet, I do not fear to say, <b>“Ravana Brahma is the only begotten Son.”</b>
-
-  In the Dvapara Yuga, Krishna came as Bhagavan. Both Bhagavan and the only begotten Son are the same. However, because Krishna was portrayed as cunning, many people are still unaware of His greatness today. Even though God came in disguise as a man and taught divine dharmas, humans did not focus on the wisdom He imparted; instead, they mostly scrutinized His behavior during that time. Only a few, out of millions, recognized His wisdom and declared that Krishna was God, but the majority spoke ill of Him. Those who were unaware of Krishna’s incarnation in the Dvapara Yuga found it challenging to recognize Jesus as the Son of God in the Kali Yuga. Because Krishna and Jesus anticipated that humans might not recognize the wisdom they taught, they both stated, <b>“We are Gods,”</b> in the context of their words, believing that humans can recognize their wisdom by doing so. Similarly, Jesus said, <b>“You do not know me or my Father,”</b> with the intention of making people realize that God and Jesus are the same.
-
-  Those who claim to have devotion to God often speak sarcastically when they encounter others who possess more wisdom than themselves. The Pharisees spoke to Jesus with the same attitude. Knowing that Jesus was born to Mary without a father, they asked Him, “Where is your father?” Jesus understood that they were mocking Him and not asking with devotion. He replied with a mind-boggling answer, <b>“You do not know me or my Father.”</b> Those who comprehend His words correctly will understand that the visible Jesus and the invisible God are one and the same. Jesus also said, <b>“If you knew me, you would know my Father also.”</b> However, it can be said that those who heard His words did not understand what He was saying. If they had comprehended His message, they would have recognized who Jesus was on that day. They would have realized that He was not an ordinary man. Despite Jesus’ words, they treated Him as if He were an ordinary man. It seems they knew nothing remarkable about Jesus.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 109,
-verse: `  <b>(31)	The Gospel of John, 8th chapter, 21st verse.</b>`,
-meaning: ` <b>
-(21) Once more Jesus said to them, “I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.”  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus spoke many words to let people know about Himself, and the words above are one example. <b>“I am going away, and you will look for me. Where I go, you cannot come,”</b> Jesus said to the people. On the surface, this verse might not seem particularly profound. When someone goes somewhere without informing others, we don’t know where they have gone, and even if we search, we may not be able to find them. The lack of information means that we cannot go where they have gone. You might wonder what wisdom lies in this common occurrence. Let’s look at it from another angle. In our youth, we used to play the game of ‘Thief and Police.’ In this game, the thief hides, and after a couple of minutes, the police start searching to catch them. To catch the thief, the police must go to the place where the thief is hiding. If the police cannot reach the hiding place, they cannot find the thief even after searching elsewhere. One day, when I was ten, we played this game. I was the thief, and the others were the police. Before hiding, I said, “I am going, and you cannot find me.” They confidently replied, “We will find you in ten minutes.” Then I added, “Where I go, you cannot come,” and went to hide from them.
-
-  Two minutes later, the police started the chase but could not find me for half an hour. Despite searching all the places, they couldn’t reach where I was hiding. On that day, I was sitting in the pooja room in my house, and I had closed the doors. The others playing as police searched everywhere, including the house where I was hiding, but they didn’t come to the pooja room because the doors were closed, and they didn’t search inside. Initially, I thought there was nothing special in the above verse, as it resembled the game of ‘Thief and Police.’ However, I later realized that the phrase <b>“You will die in your sin”</b> in the verse held significant meaning. Although it resembled a game, I discovered that it contained profound wisdom. I then delved into a comprehensive understanding of the meaning of this word. Here is what it means.
-
-  Jesus was visible to everyone on earth for some time, but unfortunately, no one believed in Him. Despite performing many miracles to prove that He was not an ordinary man—giving sight to the blind, enabling the lame to walk, curing leprosy, and even bringing the dead back to life to demonstrate His ability to forgive sins—people failed to recognize His true greatness. Even those who did not recognize Jesus during His lifetime would later search for Him, seeking relief from their suffering. However, there will be no benefit in searching for Him once He is gone, as He will not be visible to anyone. People who die in their sins cannot have them forgiven by Jesus, as they do not know where He went. Even if those who denied Jesus during His lifetime later acknowledge Him as God, their sins will not be forgiven. Jesus had foretold all these things to the people in advance. When Jesus said, <b>“I am going away,”</b> no one asked Him to stay longer. Instead, people shouted for Him to be crucified, leading to His death on the cross.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 110,
-verse: `<b>(32)	The Gospel of John, 8th chapter, verses 23 and 24.</b>`,
-meaning: `<b>
-(23) But he continued, “You are from below; I am from above. You are of this world; I am not of this world.
-<br><br>
-(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.”   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In these two verses, the 24th verse seems similar to the 21st verse, but the 23rd verse is unique. Jesus gave the people a second chance to recognize that He was not an ordinary man and said, “You are from below; I am from above. You are of this world; I am not of this world.” This verse is divided into two parts: the first one is “You are from below; I am from above,” and the second one is “You are of this world; I am not of this world.” Based on the first part of the verse, “You are from below; I am from above,” there have been two kinds of people since Kruta Yuga – the lower people and the upper people. There is a reason behind how these two names – the lower and the upper – came into existence. This is how people are divided into the lower and upper categories.
-
-  The age of Kruta Yuga spans 1,728,000 years. During the first thousand years of Kruta Yuga, two tribes emerged among the people - the gnanis (those with wisdom) and the ignorant. There were very few gnanis on Earth during that time, while the ignorant were innumerable. In that yuga, the world population was only about 30 million, and the Indian population was not more than 300,000. The Sun descended upon the Earth and imparted divine wisdom to a person named Manu. Only two or three individuals learned the wisdom directly from Manu, and all other people held great respect for these gnanis, learning the divine wisdom from them. In those days, people held gnanis in high esteem, making them sit on the upper seat while they themselves sat on the floor, listening to the wisdom. It was customary for people to give the upper seat to gurus and sit on the floor. Based on this, Jesus said, “You are from below; I am from above.” This means, <b>“I am your teacher (Guru) to you all.”</b>
-
-  It was common for teachers to sit on the upper seat while people who sought wisdom sat on the floor. Teachers used to convey to the people that they were below the teachers who were above them. The teachers who imparted divine wisdom were known as teachers of Brahma Vidya. ‘Brahma’ means great, and ‘Brahma Vidya’ means great teaching. The teachers who possessed knowledge of Brahma Vidya were called Brahmins. In those days, Brahmins meant teachers. Only two or three teachers in the entire India were referred to as Brahmins. Those Brahmins used to categorize the rest of the people as ‘lower people.’ All those who lacked wisdom were designated as ‘lower people.’ This way, the entire country had ‘lower people.’ After some time, the caste system began based on this division. As the caste system took shape, those who knew Brahma Vidya began to say, “We are Brahmins.” Similarly, those who were ignorant were labeled “You are below us (Maa-diguvavaru in Telugu).” Thus, two tribes - <b>the upper (Eguvavaru in Telugu) and the lower (Diguvavaru in Telugu)</b> - formed. Although the word ‘lower (Maadiguva vaaru)’ exists even today, people may not fully understand its historical meaning. Over time, the term ‘Maadiguva vaaru’ transformed into the Madiga caste (scheduled caste), which is now counted as a lower caste.
-
-  When the caste system originated, there were two castes—the Brahmins and the Madiga (Scheduled Caste). The term ‘Madiga’ was initially used to refer to those who were considered ignorant and lacked wisdom. However, over time, even among those who lack wisdom, numerous castes emerged, and those who remained unclassified were still labeled as Madiga. Looking back into history, Madiga was not originally a caste but rather a name given to the ignorant by two or three teachers. Based on this, people from all castes who lack wisdom can be called Madiga. People are divided into castes due to an unknown history. It is unjust and ignorant to label the remaining people as Madiga. Over 2,000 years ago, Jesus also used the words ‘upper’ (Eguvavaru) and ‘lower’ (Diguvavaru). He said, <b>“You are from below; I am from above,”</b> referring to the ignorant. It should be understood that the words ‘upper’ and ‘lower’ are used to indicate, “I am a gnani, and you are ignorant.”
-
-  Jesus’ second word is, “You are of this world; I am not of this world.” ‘Loka’ (World) in Telugu means ‘having experiences.’ There are two types of people based on the experiences they have. Those with experiences belong to this world, and those without experiences do not belong to this world. Ordinary people enjoy every experience in the world, so they are the residents of this world. Jesus, who does not have any experience, said that He was not of this world. Although He looks like a man, He does not have any experiences like a man. Even though Jesus is in a human body, He is not a Jeevatma like others. When He is not a Jeevatma, there is no karma. Hence, He does not have experience based on karma. Paramatma specially sent Jesus. In other words, the Holy Spirit came in disguise as Jesus. According to spiritual dharma, we should not say that. Paramatma specially created and sent Jesus. Therefore, Jesus should be called the Son of the Holy Spirit. As Jesus is not a Jeevatma, it can be said that He does not have experiences. If Jesus were a Jeevatma, He should not be called the Son of the Holy Spirit. Jeevatma is the Son of Atma. Atma’s Father is the Holy Spirit. Hence, Jeevatma becomes the grandson of the Holy Spirit. Jesus is called God’s son because He is sent from God by God. Jesus was also explicitly called the only begotten Son. Atma is the Son of the Holy Spirit. The only begotten Son is the temporary Son who descends upon the earth in need. Therefore, the temporary Son becomes the Son of the Holy Spirit like Atma and will not become a grandson like Jeevatma. Jeevatma gets experience. Hence, Jeevatma, who has experiences, is from this world. Jesus, as Atma, who does not have experiences, is not of this world. He is from Paraloka.
-
-  Jesus gave the people a second chance to recognize Him as an extraordinary man and quoted these verses (John 8:23, 24). However, humans could not perceive Jesus’ greatness and considered Him an ordinary man. Therefore, they cannot be absolved of their sins by Jesus or His teachings. Jesus, the Son of the Holy Spirit, came among men and spoke many words to make Himself known. He reiterated for the second time that those who could not find and believe in Him would die in their sins, as He had mentioned earlier in John 8:21. He provided a third opportunity by speaking His final words. Jesus repeated three sets of verses to help people identify Him. He warned that those who did not recognize Him would not be forgiven of their sins. Let us examine the third set of verses to see what He said.
-
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 111,
-verse: `<b>(33)	The Gospel of John, 8th chapter, 24th verse.</b>`,
-meaning: `<b>
-(24) I told you that you would die in your sins; if you do not believe that I am He, you will indeed die in your sins.
-</b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It becomes known that this verse gave a third chance to know who Jesus was. In this verse, Jesus directly told the public who He was. He said, <b>“Those who do not believe that I am the Holy Spirit, and the Creator will die in their sin.”</b> Jesus Himself declared who He was. Initially, He said, <b>“I will go away; you cannot come to the place where I have gone,”</b> to give them some opportunity to understand Him. In the second verse, He said, <b>“You are of this world; I am not of this world,”</b> providing more details to help them understand who He was. It can be understood that Jesus is the Holy Spirit from the second verse. In the third verse, He said, <b>“One who does not believe that I am He is not able to get out of sin,”</b> providing greater clarity. In the third verse, Jesus declared, <b>“I am God.”</b> Despite this, people recognized Jesus as an ordinary man and were unable to realize that He was God. However, some were surprised by Jesus’ words. Although they did not believe it, they asked Him who He was. Jesus replied using these three verses (John 8:21, 22, 23) to help them understand that He was not an ordinary man. Nevertheless, they did not realize this and asked, “Who are you?” Jesus replied, <b>“Just what I have been telling you from the beginning.”</b>
-
-  In addition, He said, “He who sent me is trustworthy, and what I have heard from Him, I tell the world.” However, people did not realize that He was talking about his Father (the Holy Spirit). Although He said so much, people did not recognize Jesus. Some treated Him as an ordinary man, and others treated Him worse than an ordinary man. Jesus said something else about those people.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 112,
-verse: ` <b>(34)	The Gospel of John, 8th chapter, 28th verse.</b>`,
-meaning: ` <b>
-(28) So, Jesus said, “When you have lifted up the Son of Man, then you will know that I am He and that I do nothing on my own but speak just what the Father has taught me. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  There is some confusion in this verse regarding the phrase, <b>“You have lifted up the Son of Man. ”</b> One may not understand the phrase. To interpret this phrase correctly, one should read it as “When people lift Jesus over their heads” instead of “When you have lifted up Jesus.” Some may ask, “Why would people lift Jesus over their heads?” The answer is that <b>Jesus should be understood with the head</b> that is over our body. One who understands Jesus with their <b>intellect (buddhi)</b> will know that Jesus is the Holy Spirit. Furthermore, this verse reveals that the divine wisdom being taught by Jesus is not His own; instead, He is teaching as directed by the Holy Spirit.
-
-  Instead of stating that humans should understand Jesus with the buddhi in the head, the verse says that people have lifted Jesus up. It becomes known that Jesus is Paramatma (the Holy Spirit) if one understands Him <b>with the buddhi</b> in the body. As long as people have not understood that Jesus is God, <b>“the sins of the people are not forgiven, and they die in their sin, ”</b> as stated in the previous three verses. If they understand as Jesus said, it becomes known that Jesus is God. The secret that the Holy Spirit incarnates as a man to teach His wisdom becomes revealed. When it is learned that Jesus is God, some may think that Jesus Himself is saying all the wisdom that Jesus speaks. However, it is not possible to say as some people think. The reason is that after saying, <b>“I am He, ”</b> He spoke another word.
-
-  Jesus said, <b>“I do nothing on my own but speak just what the Father has taught me.”</b> This might create the impression that the Father and Jesus are distinct. The reason for expressing it in two ways is rooted in the fact that Jesus was a man. God, in His true form, is invisible and embodies power. When God takes on a human form, and if an individual perceives this truth with the intellect (buddhi), they will understand that the Holy Spirit and Jesus are one and the same. However, when God incarnates as a man, it is against <b>spiritual law</b> for the incarnation to openly declare, “I am God.” Even though one may recognize the visible person as God, this truth should not be openly revealed according to spiritual law. Following this spiritual rule, Jesus stated, <b>“I do nothing on my own but speak just what the Father has taught me,”</b> adhering to the principles of spiritual law.
-
-  Jesus said, “I am saying what the Father said.” Both phrases — “I do nothing on my own” and “God does everything'” — mean the same thing. When people recognize that Jesus is the Holy Spirit, their sins will be forgiven. While it is wise to understand that Jesus is the Holy Spirit, it is spiritually incorrect to say that the Holy Spirit is Jesus. Therefore, Jesus Himself said, <b>“Until you know that I am God, your sins will not be forgiven,”</b> and <b>“I am He,”</b> so that humans would understand who Jesus was. According to spiritual law, He ultimately said, “I am doing everything my Father told me to do.” Therefore, one should not assume that Jesus spoke in two ways in the verse. Although it is written in the verse that “I am God” and “I am doing what God says,” both convey the same meaning. One may think that Jesus spoke contradictory things if this is not understood. One who understands wisdom can recognize that God comes as a man but should not declare that a particular person is God. Therefore, Jesus also said, “I am God” in one word and “My Father is God” in another. Both are true. Additionally, Jesus said the following to the people.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 113,
-verse: `<b>(35)	The Gospel of John, 8th chapter, 29th verse.</b>`,
-meaning: ` <b>
-(29) The one who sent me is with me; He has not left me alone, for I always do what pleases Him.     </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse is said to indicate that Jesus and the Holy Spirit are one and the same. To support this, Jesus said, “The one who sent me is with me.” This means that the God who sent Jesus is in Him and that the Holy Spirit and Jesus are the same. There is something called ‘Will’ in the human body. Jesus said that He would always do things according to God’s will. In a different way, He said that God’s will is working in Him. It is a testimony to the fact that God is in Jesus. Jesus also said that the Holy Spirit had not left Him alone. It is as if Jesus said that God was with Him and that God was Him. Jesus himself spoke these words to recognize Him as God. Although God came as ‘Jesus’ in the Kali Yuga, people did not recognize Him. Therefore, it became necessary for Jesus to say these words to recognize His greatness. Otherwise, people would not grasp Jesus’ wisdom. When Jesus spoke these verses, some people believed Him.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 114,
-verse: ` <b>(36)	The Gospel of John, 8th chapter, 53rd and 54th verses.</b>`,
-meaning: ` <b>
-(53) Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?”
-<br><br>
-(54) Jesus replied, “If I glorify myself, my glory means nothing. My Father, whom you claim as your God, is the one who glorifies me. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Although Jesus provided detailed explanations for people to understand Him, they struggled to grasp His identity, leading them to inquire, “Who are you?” In response, Jesus stated, “If I glorify myself, my glory means nothing.” Having already spoken about Himself on five occasions, He recognized the potential for His words to be perceived as false if He were to repeat or elaborate further. Therefore, Jesus explained, “If I say something different one more time from what has been said so far, then My Father, whom you claim as your God, glorifies me.” This statement underscores the fundamental unity between Jesus and his Father, whom people claim as God. However, in adherence to spiritual rules, one should not directly claim to be God. Hence, Jesus declared, “I am God” initially to help people understand Him. Later, He clarified by stating that God was his Father. “Just because I told you two things differently, you should not be confused. You should understand me with the truth,” said Jesus, emphasizing the importance of comprehending His identity beyond the surface expressions.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 115,
-verse: `<b>(37)	The Gospel of John, 8th chapter, 55th verse. </b>`,
-meaning: `<b>
-(55) Though you do not know Him, I know Him. If I said I did not, I would be a liar like you, but I do know Him and obey His word.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus proclaimed, “You do not know God; I know God,” addressing the perception of many who regarded Him as an ordinary man. The need for such a statement arose to clarify Jesus’ distinct relationship with God. Some questioned how Jesus, being human like others, could claim to know God when others did not. To address this query, we can consider Jesus’ repeated declaration, “I am He,” in three distinct verses. According to this statement, Jesus does not possess Jeevatma in His body, even though He has a human form. Instead, the Holy Spirit serves as the sole Atma in His body, actively engaging in every action. The misconception arises when people assume that the Atma is the Jeevatma leading them to believe that Jesus may not know God. However, the truth is that Paramatma (the Holy Spirit) Himself resides in Jesus’ body, making God known to Him. As the Holy Spirit is the consciousness within Jesus, there is no need for a separate knowing; Jesus inherently possesses God as His consciousness. In contrast, ordinary humans have the mind (manas) as consciousness in their bodies but lack the consciousness of either Atma or Paramatma. The lack of Paramatma’s consciousness is the reason why humans do not know God, whereas Jesus, with God as His consciousness, inherently knows God.
-
-  If Jesus were to assert, “I do not know God,” it would suggest a lack of God’s consciousness in Him, akin to ordinary humans. Such a statement would be tantamount to falsehood. Therefore, Jesus declared, “If I said I did not know God, I would be a liar like you.” The uniqueness lies in the fact that the Holy Spirit is the sole inhabitant in Jesus’ body, eliminating the existence of a dual pair of souls – Atma, responsible for actions, and Jeevatma, for experiences. In Jesus’ body, where only the Holy Spirit resides, every uttered word originates from the Holy Spirit. Hence, when Jesus expressed, “I am conscious of Him. I know Him, and I obey His word,” these words emanated from the Holy Spirit, despite Jesus speaking in a manner akin to everyone else. Despite His outward appearance as an ordinary man, there was no aspect unknown to Him. An illustration of this profound knowledge unfolded when Jesus spoke about Abraham, a figure long deceased, evoking amazement and prompting a question from those around Him.
-</div></div>
-
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 116,
-verse: ` <b>(38)	The Gospel of John, 8th chapter, 57th and 58th verses.</b>`,
-meaning: `<b>
-(57) “You are not yet fifty years old,” they said to Him, “and You have seen Abraham!”.
-<br><br>
-(58) “Very truly I tell you,” Jesus answered, “before Abraham was born, I am!” </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When Jesus uttered these words, He was approximately 32 years old, on the verge of entering His 33rd year. Abraham, a historical figure, had lived centuries prior to Jesus, akin to a great-grandfather to the people of Jesus’ time. When Jesus referred to Abraham, the Jews present questioned how He could speak of a man who had long preceded Him, having been born and died in a different era. In response, Jesus made the enigmatic statement, “Before Abraham was born, I am.” This assertion appeared deceptive to those around Him, given the clear generational distinction between Jesus and Abraham. Nevertheless, what Jesus expressed was an absolute truth, even if it seemed paradoxical to His contemporaries.
-
-  Let’s explore the truth behind this statement. Jesus’ physical body was born approximately 32 years ago. However, only the Holy Spirit resides in His body, not the Jeevatma. If Jeevatma were present, Jesus wouldn’t have memories from previous births, as Jeevatma doesn’t retain such memories. In contrast, Paramatma (the Supreme Soul) is present in Jesus’ body and is eternal. It has existed since before the creation of the universe and is the creator of all living beings, including Abraham. Abraham, like any other human being, was born, lived, and died, with the Holy Spirit as a witness. While Atma gave life to Abraham, God (Paramatma) witnessed the entire journey. <b>God is the ultimate witness, Atma is the doer, and Jeevatma experiences life.</b> Although Abraham was born through Atma, God, as the ultimate witness, knows everything about Abraham. Paramatma knows how many times Abraham was born in the past and how many times he will be born in the future. Therefore, when Jesus said, “Before Abraham was born, I am,” He referred to His identity as the eternal Paramatma who has existed since before Abraham’s birth and will continue to exist after His death. This statement emphasizes Jesus’ timeless existence beyond the limitations of physical birth and death.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 117,
-verse: `<b>(39)	The Gospel of John, 9th chapter, 39th verse.</b>`,
-meaning: ` <b>
-(39) Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”   </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When some people accused Jesus of being a sinner, the individual whose karma had been removed by Jesus overheard their words and responded with the following information.
-
-  (John 9:25-38) He replied, <b>“Whether He is a sinner or not, I don’t know. One thing I do know. I was blind but now I see!”</b>. Then they asked him, <b>“What did He do to you? How did He open your eyes?”</b> He answered, <b>“I have told you already and you did not listen. Why do you want to hear it again? Do you want to become His disciples too?”</b> Then they hurled insults at him and said, <b>“You are this fellow’s disciple! We are disciples of Moses! We know that God spoke to Moses, but as for this fellow, we don’t even know where He came from.”</b> The man answered, <b>“Now that is remarkable! You do not know where He came from, yet He opened my eyes. We know that God does not listen to sinners. He listens to the godly person who does His will. Nobody has ever heard of opening the eyes of a man born blind. If this man were not from God, He could do nothing.”</b> To this they replied, <b>“You were steeped in sin at birth; how dare you lecture us!”</b> And they threw him out. Jesus heard that they had thrown him out, and when Jesus found him, He said, <b>“Do you believe in the Son of Man?” “Who is He, sir?”</b> the man asked. <b>“Tell me so that I may believe in Him.”</b> Jesus said, <b>“You have now seen Him; in fact, He is the one speaking with you.”</b> Then the man said, <b>“Lord, I believe,”</b> and he worshiped Him. After the events that had just occurred, Jesus said, <b>“For judgment, I have come into this world, so that the blind will see and those who see will become blind.”</b> This statement can be understood in light of the previous events.
-
-  The purpose of Jesus’ statement was to convey that <b>those who have faith in God can see me,</b> even if they don’t know who He is. Those who don’t believe in God may interact with Jesus daily and see His physical body, but they cannot recognize Him. Therefore, Jesus said that He came into the world to make unbelievers unaware that He is God. Despite God taking on human form and standing next to unbelievers, they cannot recognize the Son of God due to their ignorant blindness. This blindness is a type of ignorance that prevents them from knowing God, even when He appears in human form. When Jesus said that <b>a devotee who sees God’s incarnation (the Son of God) may not recognize Him based on the outward appearance, but instead, through intuition,</b> some of the people around Him asked if they were blind as well. Jesus replied to them like this.
-</div></div>
-
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 118,
-verse: `<b>(40)	The Gospel of John, 9th chapter, 41st verse.</b>`,
-meaning: `<b>
-(41) Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.  </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In verse 39, Jesus explained the distinction between those with faith and those without. He stated that a blind person with divine faith could see Him, while unbelievers could physically see Him but couldn’t perceive His true identity. In the 41st verse, Jesus delved further into the behavior of those operating with a <b>worldly perspective.</b> Individuals with a worldly mindset proclaim, “I am seeing,” attributing their actions to themselves and consequently accumulating karma for their deeds. God bestowed sight upon humans to comprehend His wisdom, yet not everyone employs their vision to recognize God. Some remain spiritually blind despite having physical eyes. Concerning worldly matters, every individual is, in essence, blind. The truth is no one autonomously engages in worldly activities. No one possesses sight or hearing. Despite their inherent lack, people claim, “I am seeing,” falsely assuming they have sight and consequently incurring sin for their actions. Even though humans are spiritually blind, they accumulate sin when they mistakenly believe they possess sight. Jesus emphasized that recognizing one’s spiritual blindness and acknowledging <b>the truth</b> of having seen nothing absolves them of sin. In essence, acknowledging one’s spiritual blindness prevents the accumulation of sin in worldly matters.
-
-  Those who lack divine wisdom are unaware of their lack of sight in mundane matters. Their inability to comprehend Jesus’ words stems from their ignorance that God has endowed sight only for understanding matters related to Him. To grasp the essence of the verse, each individual’s Jeeva (soul) must first recognize whether they are blind or possess insight in the body. In truth, the Jeeva in every person’s body is entirely blind in all aspects. Each Jeeva mistakenly believes that the body belongs to them and that they are the doer of all actions in the body. However, Jeevatma has no independent agency in the body; <b>Atma</b> is the true owner and controller. Atma continually operates within the body, and, in reality, Jeeva doesn’t perform any tasks in the body. Devoid of sight, hearing, and full functionality, Jeeva is blind, deaf, and disabled in every sense. Positioned next to the <b>buddhi</b> (intellect) in the body, Jeeva becomes aware of information that reaches the intellect, but Jeeva can’t independently know anything. Despite lacking direct knowledge, Jeeva erroneously believes that it has personally witnessed everything. Although Atma is the active force in the body, Jeeva wrongly attributes all actions to itself. When Jeeva falsely claims responsibility for a deed, it must endure the karmic consequences associated with that action.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 119,
-verse: `<b>(41)	The Gospel of John, 10th chapter, 18th verse.</b>`,
-meaning: `<b>
-(18) No one takes life from me, but I lay it down of my own accord. I have the authority to lay it down and authority to take it up again. This command I received from my Father. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  No one knows when an ordinary person will leave this life. Once someone dies, they will not return. This is evident in every death. <b>Jeeva also departs from the body in death. However, most people do not realize that Jeeva is separate from the life force in a person.</b> Many people think that Jeeva and the life force are the same. But in the verse, it is said, <b>“No one takes life from me,”</b> which shows that Jesus is different, and his force is different. Although everyone has their own life force in their body, like Jesus, they cannot set it aside or take it up again. Within the body are many internal organs, life, buddhi, and manas. Anything inside the body is under the control of Atma, not under the control of man. Hence, Atma decides whether to set aside a person’s life or send it where Atma wishes, as it is its task. Jeeva has no relation to the life force in their body, but Atma has a relationship with the life force in the body.
-
-  Jesus is not an ordinary Jeeva, but rather He is Atma. As such, He has the authority to lay aside His life, and no one can take it away from Him. This means that <b>Jesus does not die at anyone else’s hands;</b> if He were to die, He would choose to lay aside His life. Only Atma has the power to put life aside and then bring it back when desired. The Holy Spirit gave Jesus the authority to do this, as Jesus Himself declared, <b>“No one takes life from me, but I lay it down of my own accord. I have the authority to lay it down and take it up again. This command I received from my Father.”</b> As foretold, Jesus made His life (prana or breathing) hid in His body when He was crucified, appearing dead to those around him. Yet He emerged alive early on Sunday morning, having taken back His life. This demonstrates that Jesus, being Atma, has the power to lay down His life and then come back to life in the same body, and this authority was given to Him by His Father, the Holy Spirit. Additionally, Atma has the authority to take others’ lives and send them for reincarnation.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 120,
-verse: ` <b>(42)	The Gospel of John, 10th chapter, 30th verse.</b>`,
-meaning: ` <b>
-(30) I and the Father are one.    </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Atma is the Father of Jeeva, and correspondingly, Paramatma is accountable for the creation of Atma. Therefore, Atma is also the Father of human beings, while Paramatma is the Father of Atma. As Jesus is Atma, He is the Son of God. When <b>a son pays close attention to his father,</b> it signifies a state of union between the son and the father. This is the essence of Jesus’ statement, <b>“I and my Father are one,”</b> as He directed His focus towards His father, the Holy Spirit.
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 121,
-verse: ` <b>(43)	The Gospel of John, 11th chapter, 25th verse.</b>`,
-meaning: ` <b>
-(25) Jesus said to her, “I am the resurrection and the life. The one who believes in me will live, even though they die. </b>`,
-pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  In this context, ‘resurrection’ is indicative of birth, while ‘life’ signifies liberation (moksham), implying freedom from the cycle of rebirth. Since both birth and moksham are related to Atma, Jesus declared, “The one who believes in me will not be reborn after death but will attain <b>moksham.</b>”
-</div></div>
-</span>`
-},
-{
-chapterName: "The Gospel of John",
-chapterNumber: 5,
-pageNumber: 122,
-verse: `<b>(44)	The Gospel of John, 11th chapter, 26th verse.</b>`,
-meaning: `<b>
-(26) Whoever lives by believing in me will never die.     </b>`,
+(14:27) Noma ubani ongathwali isiphambano sabo futhi uyalandela ngingebe ngumfundi wami.     </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem"><div class="poemtext">
-The one who has attained moksham will experience eternal life and never face death again. Therefore, Jesus proclaimed, “Everyone who has faith in God will attain moksham and never die again.”
+  Lapho izinkuni zihlanganiswa, kuba lula ukuzitheza futhi baphathe amabanga amade; kwakungeke kwenzeke ukulithwala kungenjalo. Ngokufanayo, lapho izibhamu eziyi-108 ezisengqondweni yomuntu zikhona behlanganiswe ndawonye esimweni sokungasebenzi, baba abopha ezandleni zomuntu. Kunezinhlobo ezimbili zezibhamu - okuhle nokubi - emzimbeni womuntu.
+
+  <strong>Igunas embi eziyisithupha ukuhaha (kaama), intukuthelo (krodha), i-avarice (lobha), uthando (moha), ukuzidla (nkosikazi), kanye umona (matsara). Ngokufanayo, ama-guns ayisithupha amahle isisa (dana), isihe (daya), umusa (audarya), inkanuko (vairagya), ukuthobeka (vinaya), nothando (uma). </strong>Isibhamu ngasinye kweziyisithupha ezimbi nezinhle siphinde sihlukaniswe zibe izingxenye eziyisishiyagalolunye. Ngakho-ke, izibhamu ezimbi eziyisithupha zihlukaniswe zaba ngu-54 izingxenye, kanye nezibhamu ezinhle eziyisithupha zihlukaniswe izingxenye ezingama-54 futhi. Ngokuhlangene, izibhamu ezinhle nezimbi zenza isamba esingu-108.
+
+  Izingxenye ezingu-108 zezibhamu zibizwa ngokuthi ama<strong>Maya</strong> kunkulunkulu wokuqala umbhalo. Embhalweni wesibili waphezulu, babizwa ngokuthi <strong>uSathane. </strong>Embhalweni wokugcina waphezulu, lezi guna zibizwa ngokuthi ama-<strong>Iblis. </strong>uNkulunkulu Ngokwakhe wakhuluma ngoMaya ngokuthi &ldquo;Guna-mayi mama maya&rdquo; ekuqaleni umbhalo waphezulu. Kusho ukuthi iMaya, eyadalwa nguNkulunkulu, iphakathi uhlobo lwezibhamu emzimbeni womuntu. UNkulunkulu ngokuyinhloko wadala Maya ukuze avimbele abantu ukuba balandele indlela yaphezulu. UMaya ingenza umuntu ahlale eceleni kwayo esikhundleni sokulandela okukaNkulunkulu indlela. Kungashiwo ukuthi i-Maya i-guna, noma i-guna i-Maya. Ku IsiTelugu, isiMaya sisho &lsquo;ongabonakali.&rsquo; IsiMaya sikhona ekhanda ngaphandle kokubonwa. IMaya, ekhona emizimbeni yethu, nayo ikhona okuthiwa yiSiphambano. Ngomqondo ongokomoya, iMaya iqhathaniswa ne-a python, kuyilapho i-Atma iqhathaniswa nejuba.
+
+  Inhlwathi iyinyoka enamandla. Omunye obanjwe ngalo angeke akhululeke. Lokho kusho ukuthi iMaya inamandla. UJesu wathi ukuthi noma ubani olawulayo, ahlanganise, futhi abambe iMaya eqinile kangaka isandla sabo singumfundi wami. UJesu wathi umnqobi wamaMaya ngempela wayengumfundi wami. <strong>Noma ubani othumba iMaya (Isiphambano) futhi ulandela indlela kaNkulunkulu ngokuyithwala ungumfundi weqiniso we Nkulunkulu.</strong> Ophethe Isiphambano esikhuluma ngaso kakhulu namuhla futhi ulandela uJesu ungumfundi Wakhe, njengoba kushiwo kuleli vesi.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaLuka",
+chapterNumber: 4,
+pageNumber: 76,
+verse: `<b>(11)	IVangeli likaLuka, isahluko 18, ivesi 29.</b>`,
+meaning: `<b>
+(18:29) “Ngiqinisile ngithi kini,” kusho uJesu kubo, “akekho muntu oshiye ikhaya noma unkosikazi noma abafowabo noma odadewabo noma abazali noma abantwana ngenxa yombuso kaNkulunkulu uyohluleka ukwamukela okuphindwe kaningi kulenkathi, futhi enkathini ezayo ukuphila okuphakade.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Umbuso weUNkulunkulu ubhekisela kuMoksham, okungukuthi ukukhululwa emjikelezweni wokuzalwa kabusha. Uma umuntu ezuza Moksham (inkululeko), abazalwa kabusha emhlabeni futhi abakwenzi uhlushwa uSathane. I-Moksham isho ukukhululwa kuSathane nokuhlangana noNkulunkulu. Ngamanye amazwi, umuntu uba munye noNkulunkulu. Inyunyana yeJeeva, encane futhi ene- ifomu elithile, elinobubanzi obungenamkhawulo, obungenamkhawulo, kanye uNkulunkulu osendaweni yonke uyimpumelelo evelele. Ukuzuza lokhu isikhundla, umuntu kufanele alandele indlela yokuhlakanipha futhi abe bazimisele ukuyeka ukunamathela kwabashade nabo, izingane, abazali, izingane zakubo, kanye nekhaya uma lezi zinamathiselo zibavimbela uhambo olungokomoya. Umuntu onjalo uba gnani ngokuphelele lo mhlaba futhi ufinyelela uNkulunkulu eParaloka. Ukulahla umlingani, izingane, izingane zakini, nabazali kuyisinqumo esibalulekile ngoba AmaMaya azungeza umuntu futhi ambophe eduze kwakhe nabathandekayo eyodwa. UPrahlada akazange ambale uyise, uMirabai wamshiya umyeni nezihlobo, futhi uBuddha washiya unkosikazi osemusha, Indodana enonyaka owodwa ubudala, abazali, ikhaya, kanye nombuso ukuze uthole ukuhlakanipha. Nokho, labo abaziqhelelanisa nabathandekayo babo angasondela kuNkulunkulu. Ukuze uthole umuntu waphakade, ukushiya umuntu ohlala nawe isikhathi eside kuyinto isinqumo esihlakaniphile. Nokho, isinqumo esinjalo singase sibonakale siwubuwula emhlabeni. Akuvamile ukuthola umuntu ozimisele ukuhamba yonke into engemuva embusweni kaSathane ngenxa kaNkulunkulu. Ngoba lapho noma ubani ethola umqondo kaNkulunkulu engqondweni yakhe, ikakhulukazi uSathane igxile kuzo futhi iwaphambukise emcabangweni nasengqondweni indlela yokuhlakanipha. Akunakwenzeka ukuthi umuntu anqobe Amandla kaSathane futhi awunqobe, njengoba kushiwo kuBhagavad-Gita, Vignana Yogam, ivesi 14. Umuntu angase azibuze ukuthi kungenzeka kanjani ukuya kuNkulunkulu lapho amandla kaSathane emakhulu kangaka. Kungani uzame futhi uhlulekile? Nokho, uma umuntu ethembela ngokuphelele kuNkulunkulu futhi bayaqhubeka nemizamo yabo naphezu kokungakwazi ukumelana nabo USathane, uNkulunkulu uqobo Lwakhe uzobasusa kuSathane abayise ohlangothini Lwakhe. Ngakho-ke, ukuphela kwendlela yokuba umuntu omncane anqobe USathane kufanele azinikele ngokuphelele kuNkulunkulu. Bhagavad-Gita ithi, <strong>&ldquo;Maya metam tarantite,&rdquo; </strong>okusho ukuthi <strong>&ldquo;Ngizomkhipha kwaMaya,&rdquo; </strong>mayelana nalabo abathembela ngokuphelele kuNkulunkulu. Ngakho, uma umuntu ubeka ithemba lakhe eliphelele nomthwalo wakhe kuNkulunkulu, uNkulunkulu angabasindisa kuSathane.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaLuka",
+chapterNumber: 4,
+pageNumber: 77,
+verse: `<b>(12)	IVangeli likaLuka, isahluko 21, ivesi 15.</b>`,
+meaning: ` <b>
+(21:15) Ngizokunika amazwi nokuhlakanipha okungekho izitha zakho ziyokwazi ukumelana noma ukuphikisa.. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Lapho izingane ezincane, abanolwazi oluthile ukuhlakanipha, ukungabaza izimfundiso zabashumayeli abadumile kanye ama-gurus, abazitholi izimpendulo ezimfundisweni zabo. Ngakho-ke, abashumayeli benze umthetho wokuthi akekho umuntu okufanele abuze ababo izimfundiso. Isizathu esiyinhloko sokuntuleka kwezimpendulo kuzo izimfundiso ukuthi azisekelwe kwisayensi. Okungahambisani nesayensi ukufundisa akukwazi ukunikeza izimpendulo zemibuzo ephusile. Abashumayeli bayaqhubeka befundisa, kodwa abaphenduli ukuthi nini kubuza. Lapho iParamatma ithatha iBhagavan, Uyafundisa ukuhlakanipha kweqiniso kweParamatma. Ngakho-ke, labo abakwaziyo ukuhlakanipha okufundiswa nguBhagavan kungafundisa futhi kuphendule noma yikuphi umbuzo. Izitha ezibona abazinikele bakaBhagavan, abaziyo Ukuhlakanipha kweParamatma, woza kubo nge-ego abayikho gurus kanye ne-gnanis futhi ukhulume ngokuphikisana. Ukuhlakanipha lokho izitha abakwazi ukukhuluma ngokumelene kakade utshelwe abazinikele ngaleso sikhathi. Izwi likaNkulunkulu lithi abaningi abantu banomona futhi andisa umbango kulabo abaziyo ukuhlakanipha kweqiniso. Ngisho nalapho uNkulunkulu ehla, izitha babhekana naye wathi, “Awukakwazi ukuhlakanipha futhi kudingeka baye endaweni ethile ukuze bafunde ukuhlakanipha kwangempela.” Abanye abantu beza kimi bathi: “Awukwazi ukuhlakanipha.” Enjalo abantu bazoza kuwe. UNkulunkulu washo evesini elingenhla ukuthi Wayeyokunika ukuhlakanipha ukuze uwaphendule.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaLuka",
+chapterNumber: 4,
+pageNumber: 78,
+verse: ` <b>(13)	IVangeli likaLuka, isahluko 21, ivesi 17. </b>`,
+meaning: `<b>
+(21:17) Wonke umuntu uyonizonda ngenxa yami.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ubuhlakani obembulwa nguBhagavan, iNdodana kaNkulunkulu, ngokumelene nalabo abaphethwe uSathane. Likhona ithuba ukuze abantu abavamile bangakuqondi lokhu kuhlakanipha, njengoba kunjalo kubonakala kuphambene ngokuphelele nabashumayeli nama-gurus banokuhlakanipha okuthile. Ama-Pandits, abashumayeli, nama-gurus bavame ukwenza hayi njengamazwi alabo abashumayela igama likaNkulunkulu. Bona, futhi abantu ababalandelayo, baqala ukuzonda labo ababalandelayo bashumayela indlela kaNkulunkulu ngoba bathola amazwi kaNkulunkulu ephambene izimfundiso zabo. Ngakho, uNkulunkulu evesini elingenhla wathi, <strong>&ldquo;Wonke umuntu uzozonda ngenxa yami.&rdquo;</strong>
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 79,
+verse: `<b>(1)	IVangeli likaJohane, isahluko 1, ivesi 1.</b>`,
+meaning: `<b>(1:1) Ekuqaleni wayekhona uLizwi, uLizwi wayekhona noNkulunkulu, futhi uLizwi wayenguNkulunkulu.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  IVangeli likaJohane linezahluko ezingu-21. Kulokhu umbhalo, ngizonikeza izincazelo kwamanye amavesi ukuthi abantu behlulekile ukuqonda, ukungaqondi, noma amandla tolika ngokungeyikho. Ngikhethe la mavesi njengengxenye Inkonzo kaNkulunkulu, ngizizwa njengepeni nje uNkulunkulu angisebenzisela lona lomsebenzi. Ngaphambilini, ngichaze amavesi athile avela kuNkulunkulu wokuqala umbhalo, iBhagavad-Gita, nombhalo wesithathu waphezulu, I-Quran. Njengoba ngifisa ngokujulile ukuchaza wonke ama-divi amathathu nemibhalo, Manje ngizofanekisa amanye amavesi avela kuNkulunkulu wesibili umbhalo, i-Injeel (iBhayibheli). Ukuhlakanipha okunikezwa kulokhu umbhalo ungokwesayensi futhi uyiqiniso. Manje, ake sihlole eyokuqala ivesi lesahluko sokuqala seVangeli likaJohane, elithi iqukethe imisho emithathu emifushane okufanele ichazelwe ukuqonde ngokugcwele.
+
+  Manje ake sixoxe ngamazwi amathathu okuqala eVangeli lika Johane embhalweni wesibili waphezulu.
+<b>
+            ULizwi wayekhona ekuqaleni.
+            ULizwi wayenoNkulunkulu.
+            ULizwi wayenguNkulunkulu.
+</b>
+  Ezimfundisweni zeBhayibheli, ake sibhekisele kulezi zintathu amavesi njengamavesi okuqala eBhayibheli. Abanye bangase baphikisane ukuthi amavesi akuGenesise kufanele abizwe ngokuthi amagama okuqala ka iBhayibheli. Nokho, sesiyichazile kakade indlela yethu. Thina cabangela izimfundiso ezidingwa abantu njengemibhalo nentando xoxani ngamavesi okuqala kuyo. Ngokulandela lesi simiso, Bhagavan UJesu wafundisa amaVangeli amane. Nakuba i- IVangeli likaJohane kwaba ngelokugcina, laqala ngezimfundiso. Ngokufanayo, sithathe ivesi 11 lesahluko sesibili njenge ukuqala kweBhagavad-Gita ngoba ukuhlakanipha kukaNkulunkulu kwaqala kusukela lapho. Siphinde sathatha amavesi 11, 12, kanye ne-13 I-Sankhya-Yoga njengemisho emithathu yokuqala. Ngokufanayo, owokuqala amavesi athathwe esahlukweni 43 se-Injeel (IBhayibheli), futhi sathatha amavesi amathathu eTaurat (Bhagavad Gita) njengemisho emithathu yokuqala. Nokho, lapha sithathe ezintathu imisho evela evesini elilodwa eVangelini likaJohane njengelokuqala imisho emithathu, esikhundleni samavesi amathathu alandelanayo. ukulandelana kwemisho akubalulekile; sathatha labo ukuthi udlulise izincazelo ezintathu njengemisho emithathu. Nakuba lezi yimisho emithathu emifushane, ngamunye wabo ujulile incazelo.
+
+  Le misho emithathu idlulisa izincazelo ezicashile. Okokuqala imisho emithathu yeBhagavad-Gita ingena emiqondweni kweJeevatma kanye ne-Atma. Nokho, amazwi okuqala ka-IVangeli likaJohane lifundisa incazelo ekhethekile. Ukuqaliswa kwe I-Bhagavad-Gita ixoxa ngezingxenye ezintathu - Jeevatma, Atma, kanye nomzimba. Ngokuphambene, imisho emithathu yokuqala ye IVangeli likaJohane lihlola izici ezintathu - Ukuhlakanipha, Atma, kanye neParamatma. Noma kunjalo, le misho ayicacile cacisa izikhundla ze-Atma neParamatma. Nakuba i- Igama elithi 'Nkulunkulu' livela emishweni emibili, ukuhlakanipha no-Atma hlala ukhonjwa ngendlela engaqondakali. Manje, ake sihlolisise eyokuqala umusho wabathathu.
+
+  Umusho wokuqala uthi <b>&ldquo;ULizwi wayekuye iqala.&rdquo;</b> Igama liphinyiselwe enkulumweni, elakhiwe ngu umsindo ophuma emlonyeni. Umuntu angabona umsindo futhi babone ukuthi umusho mude noma mfushane ngokusekelwe ku- izimpawu zokuzwa. Ulimi lomusho akumele ajwayeleke futhi angahluka ngobude. Ikona okungenakunqunywa ukuthi igama (umusho) lalikhulumela phansi noma ngokuzwakalayo. Ake sihlaziye umusho <b>&ldquo;ULizwi wayekhona iqala.&rdquo; </b>Ngenkathi siqonda ukuthi izwi lakhulunywa ngalo ekuqaleni, abantu babengenawo amakhono olimi leso sigaba sokuqala. Ngakho-ke, kuphakama umbuzo ofanelekile mayelana ulimi okwakhulunywa ngalo igama. Ukubhekana nalokhu uphenyo, ake sicabangele izehlakalo ezenzeka lapho ukuqala.
+
+  Uma sibuza ngomsuka womsindo ekuqaleni, singasho ukuthi umsindo ozwakala indlebe yomuntu eya ePrakruti. I-Prakruti iqukethe amabhoota amahlanu amakhulu - Umhlaba, Amanzi, Umoya, Umlilo, Nesibhakabhaka - ngakunye kunempilo. Isibhakabhaka, ophiwe impilo, wakhiqiza umsindo ekuqaleni. Lokhu kuphakamisa umbuzo wokuthi isibhakabhaka siwukhiqiza kanjani umsindo uma sinjalo ebonakala ingenalutho. Lo mbuzo unengqondo, futhi uyawuqonda izimpendulo zikuguqula kube ukuhlola kwesayensi. Ngokuvumelana ne Brahma Vidya Shastra, ingabe isibhakabhaka ngokwaso sakha umsindo? Njengoba isibhakabhaka siyi-Jeeva, i-Jeevatma ayikwazi futhi ayikwazi ukwenza ngokwezimiso zesayensi; yi-dharma yaseJeevatma. I-Paramatma nayo ine-dharma eyodwa. I-Paramatma (uNkulunkulu) ayifuni unegama, ifomu, noma umsebenzi. Lena i-dharma eyinhloko ye uNkulunkulu. UNkulunkulu akayena ummeleli wesenzo; Akangeni emsebenzini. Ngokusho kwe-dharma kaJeevatma, iJeevatma ayikwazi futhi ayikwazi ukwenza noma yimuphi umsebenzi. Nakuba uNkulunkulu enamandla, uyakwazi ungazibandakanyi kunoma yiziphi izenzo. Ngakho-ke, uJeevatma noNkulunkulu banabo ama-dharmas aphikisanayo. Ekuqaleni, igama lavela ngeSibhakabhaka. Njengoba iSky futhi kuyiJeeva, ayizange ikhiqize lowo msindo. Umsindo ovela esibhakabhakeni uyiqiniso ukwenzeka, kodwa uJeeva we zulu ayikwazi futhi ayikwazi khiqiza noma yimuphi umsindo. Ngakho-ke, othile ngemuva kwe-Sky kungenzeka abe nakho kube ngumthombo womsindo. UNkulunkulu akazange adale umsindo ngoba Akahlanganyeli emsebenzini. Nakuba umsindo ovela isibhakabhaka siyiqiniso, iJeeva yesibhakabhaka noma uNkulunkulu akuyona imbangela yomsindo. Kungase kuphakame ukungabaza ukuthi ngabe ukhona yini umuntu ngaphandle kwakho kokubili.
+
+  Ukuqeda lokhu kungabaza, kubalulekile ukuqonda izinhlangano endaweni yonke. Ekuqaleni, uNkulunkulu wadala indawo yonke. Nkulunkulu, ngenkathi enguNkulunkulu, wadala uPrakruti evela Kuye. Waqala wadala I-Prakruti njengezingxenye ezinhlanu bese idala i-Atma ne-Jeevatma ukuze faka ubungqabavu ePrakruti, eyayingenakho ukuphila. Fana Ngokwakhe, uNkulunkulu wadala isilisa (Purusha) Atma kanye noJeevatma. Uqoke i-Jeevatma njengomgibeli kanye ne-Atma njenge-umshayeli, ephathisa u-Atma ukwenza yonke imisebenzi. Kuzo zonke Umuntu ngamunye, i-Atma yenza yonke imisebenzi ngaphakathi komzimba ngenkathi ukuhlala noJeevatma. Emibhalweni Yakhe, uNkulunkulu wakuqinisekisa lokho ngisho nezifundiswa ezinkulu zingase zingamqondi ngokugcwele u-Atma. Kuphela i-yogis ezinikele, njengoba kushiwo ku-Bhagavad-Gita I-Purushottama Prapti Yoga ivesi le-11, ingaqonda ngempela I-Atma, igcizelela ukuthi i-Atma ihlala ifihliwe ngaphakathi umzimba ngaphandle kokwaziwa.
+
+  Uma uNkulunkulu engasebenzi, abanye bangabuza ukuthi wenze kanjani Prakruti, Atma, futhi Jeevatma. Impendulo yami ithi kuyiqiniso ukuthi uNkulunkulu ayisebenzi. Lesi simiso sashiwo nguNkulunkulu ngemva kwe ukudalwa kwePrakruti, Atma, kanye neJeevatma. Ngaphambi kwesenzo sika Indalo, uNkulunkulu uyena yedwa futhi, ngaleso sikhathi, UNkulunkulu wahlanganyela emsebenzini. Kwakungekho muntu ngaphandle kukaNkulunkulu ngaphambi kokudalwa. Ngakho, uNkulunkulu wasebenza ngaphambi kwesenzo sika indalo. UNkulunkulu wadala iPrakruti, elandelwa ukudalwa kwe Atma ne-Jeevatma. Ngemva kwalokho, uNkulunkulu wasungula uMbuso wakhe e dharma. Ngenkathi uNkulunkulu egwema ukusebenza ngemva kokudala, Yena yayisebenza ngaphambi kwesenzo sokudala. UNkulunkulu wakuphathisa konke izibopho ku-Atma futhi wanquma ukuthi u-Atma wayezokwenza yenza yonke imisebenzi. Ngenxa yalokho, iParamatma yayeka ukuzibandakanya ezenzweni Ayevame ukuzenza ngemva kokudalwa kwe-Atma. Njengoba i-Atma ithatha imithwalo yemfanelo, iParamatma yaba isibukeli esingenzi lutho (ufakazi).
+
+  UNkulunkulu akazibandakanyi nomsebenzi; UJeeva akakwazi isenzo, futhi i-Atma iyona eyenza yonke imisebenzi. Ngakho-ke, kwakungu-Atma owakhipha umsindo ovela esibhakabhakeni ukuqala. I-Atma, efihliwe ngaphakathi kwe-Sky, ikhiqize i- umsindo. Umsindo owadalwa u-Atma waba ukuhlakanipha kukaNkulunkulu, ngakho-ke kubhekiselwa kulo ngokuthi &lsquo;igama,&rsquo; elisho umsindo one incazelo. Echaza isenzakalo sendalo, inkulumo ethi <b>&ldquo;Izwi lalikhona ekuqaleni&rdquo;</b> lisetshenziselwa ukuveza lokho okunenjongo umsindo uvela esibhakabhakeni. Sifunde ukuthi 'izwi' lithini ukhona nokuthi ubani owakuvezayo. &lsquo;Izwi&rsquo; lakhulunywa nelikaNkulunkulu ukuhlakanipha nge-Atma ngendlela yomsindo. Lokho u-Atma akushilo kusukela esibhakabhakeni kwaba ukuhlakanipha kokuqala emhlabeni. Nokho umsindo ovela esibhakabhakeni wawuphethe ukuhlakanipha, wawubonakala njengomsindo omkhulu umsindo ngendlela yokuduma, ngale kokuqonda kwe ulimi lomuntu. ILanga laqonda ukuduma umsindo esibhakabhakeni futhi, ebona ukungaqondakali kwawo abantu, wadlulisela umlayezo endodeni okuthiwa nguManu o Umhlaba ngolimi oluqondwa ngabantu.
+
+  Ukuhlakanipha kukaNkulunkulu kubonakaliswa ngesimo se msindo ongaqondakali ekuqaleni kwendalo. Lokhu ivezwe emushweni wokuqala wesahluko sokuqala sikaJohane IVangeli, lithi <b>&ldquo;uLizwi wayekhona ekuqaleni.&rdquo; </b>Vuliwe ngalolo suku, abantu babengazi ukuthi lowo msindo wawusho okaNkulunkulu ukuhlakanipha; Babeqonda kancane lapho iLanga wedlulisa umlayezo. UKrishna udlulise ukuhlakanipha okufanayo ku simo seBhagavad-Gita, esho ukuthi iyafana ukuhlakanipha okwakhulunywa ekuqaleni kwendalo. Nokho, umuntu ukunaka akuzange kugxile emsindweni wokuduma kwezulu ekuqaleni, futhi kuze kube yilolu suku, akekho oqaphela ukuthi umsindo we ukuduma kuhlanganisa ukuhlakanipha kweBhagavad-Gita. ILanga lidlulisele ukuhlakanipha okufanayo kuManu uKrishna ayenakho okukhulunywayo, ukuhumusha ukuhlakanipha okuvela esibhakabhakeni uhlobo lokuduma. Ukuhlakanipha okuvela emsindweni wesibhakabhaka wavela ku-Atma of the Sky. Ukuhlakanipha kuka-Atma kwaqala kusuka ku-Atma uqobo. I-Atma ngokwayo yaba ukuhlakanipha, futhi okufanayo ukuhlakanipha kwaphuma ku-Atma. Lokhu kuhlakanipha okuvela ku-Atma kuyinto kuqhathaniswa nendlela ukotini oguquka ngayo ube yintambo, kanye intambo iphuma ukotini. Nakuba ukotini nentambo kukhona ehlukile, ukotini uba intambo. Ngokufanayo, u-Atma no ukuhlakanipha kuhlukile, kodwa ukuhlakanipha kuka-Atma kuvela ku-Atma. Uma intambo ihlukaniswa, iqukethe imicu yekotini; ngokunjalo, uma ukuhlakanipha kwe-Atma kuhlakaziwe, kuqukethe ingqikithi ye-Atma.
+
+  Ekuqaleni, uNkulunkulu wadlulisela ukuhlakanipha Kwakhe ngoMoya umsindo wesibhakabhaka, njengoba kuchazwe kuQuran 42:51, lapho omunye we izindlela uNkulunkulu embula ngazo ukuhlakanipha Kwakhe kungesambulo evela esibhakabhakeni. UNkulunkulu wedlulisa ukuhlakanipha Kwakhe nge-Atma Yesibhakabhaka ngesikhathi sokuqala kwendalo. Ukuhlakanipha, eyethulwe ngendlela yokuduma, yayingaqondwa abantu njengoba bebengenalo ulimi abangaluqonda. Ngakho-ke, iLanga selibambe ukuhlakanipha ku-ukuduma, yasidlulisela kumuntu osemhlabeni ngolimi lwabantu. Ekugcineni, lokhu kuhlakanipha kwasakazekela emhlabeni wonke. Nokho, njengoba isikhathi siqhubeka, ama-adharmas athatha indawo ye-dharmas, okubangela ekuqaleni idlulisele ukuhlakanipha ukuze kunyamalale enkumbulweni yomuntu. Ku U-Dvapara Yuga, u-Bhagavan wathatha uhlobo lwe-Krishna kanye wazisa u-Arjuna ukuthi wayehlanganyela ukuhlakanipha okufanayo iLanga yayidlulisile. Naphezu kokuba nokuhlakanipha okufanayo okwethulwe kuyo isimo seBhagavad-Gita, umbhalo wokuqala waphezulu, abantu sebekhohliwe umsuka wayo.
+
+  Imisho emithathu yokuqala eVangelini likaJohane yayi eyabhalwa eminyakeni engu-3000 ngemva kokukhulunywa kweBhagavad-Gita, njenge abantu base bekhohliwe ukuhlakanipha okuvela kuNkulunkulu. Umusho <b>&ldquo;ULizwi wayekhona ekuqaleni&rdquo; </b>manje waqonda. Kuyaqashelwa ukuthi ukuhlakanipha ngesimo ukuduma kwavela ku-Atma of the Sky, njengoba kukhonjisiwe ku umusho wesibili. Ngakho-ke, kuyagonyelwa ukuthi <b>&ldquo;uLizwi wayenoNkulunkulu.&rdquo; </b>Ukuhlola okwengeziwe kuveza ukuthi umsindo we leli gama lazalwa ku-Atma. Njengomucu osontekile iphuma ku-cotton fiber, ukuhamba kuka-Atma kuguqulelwe amandla, kanye nokuhlakanipha emandleni abonakaliswa efomini yomsindo. Ngokufanayo nendlela intambo equkethe i-cotton fiber, umsindo wokuhlakanipha uhlanganisa amandla ka-Atma. Ukuhlakanipha kuka-Atma isesimweni samandla ka-Atma kanye ne-Atma uqobo. I-Atma ukuhlakanipha kanye ne-Atma kuyafana, futhi kungakho wathi: <b>&ldquo;ULizwi wayenguNkulunkulu.&rdquo;</b>
+
+  Kuze kube manje, sixoxile ukuthi uNkulunkulu wadala iJeevatma kanye ne-Atma, noNkulunkulu esebenza ngenkuthalo ngaphambi kokudala. Nokho, ngemva kwesenzo sokudala, uNkulunkulu wanika u-Atma amandla okwenza imisebenzi, ebonakala inyamalala nokwenza ubukhona Bakhe engaziwa. UNkulunkulu wayeka ukwenza noma yimiphi imisebenzi, futhi, phakathi lesi simo, Wafana nalowo owayengekho. Ngenxa yalokho, u-Atma wathatha umthwalo wemfanelo wokwenza Umsebenzi kaNkulunkulu. Nakuba i-Atma yenza imisebenzi yakho kokubili I-Jeevatma neParamatma, izenzo zayo zihlala zifihliwe abanye. Izitatimende ezishiwo ngenhla zichaza konke inqubo yokusebenza ye-Atma. Ekuqaleni, lapho Paramatma wadala indawo yonke, kwakukhona imiphefumulo emithathu, kodwa ngemva kokudalwa, imiphefumulo emibili kuphela&mdash;iJeevatma ne-Atma&mdash;eyaziwayo. Kwe ukungabikho kobukhona beParamatma, u-Atma wathatha indima yokuba I-Paramatma, yingakho i-Atma ingabizwa ngokuthi uNkulunkulu. Yize engeyena uNkulunkulu (Paramatma), u-Atma wenza okukaNkulunkulu imisebenzi futhi uthatha isikhundla sikaNkulunkulu.
+
+  Ukuhlakanipha kwe-Atma kuvela ku-Atma uqobo. Ngu egomela ngokuthi u-Atma unguNkulunkulu, kuyaqinisekiswa ukuthi <b>uLizwi (ukuhlakanipha) kwakunoNkulunkulu.</b> Lesi sitatimende sinembile uma thina bheka u-Atma njengoNkulunkulu. Nakuba u-Atma engeyena uNkulunkulu, kufanele kuthiwe unguNkulunkulu ngoba uNkulunkulu ukuphile Atma igunya lokwenza njengoNkulunkulu. Ngakho-ke, lapho iZwi (ukuhlakanipha) kubhekwa njenge-Atma, kungamenyezelwa ukuthi kuyafana ukuhlakanipha (Atma) nguNkulunkulu. Le ncazelo ihambisana ne-Vangelini likaJohane ukuthi <b>uLizwi wayenguNkulunkulu. </b>Ngemva kokuphendula imibuzo enjengokuthi &ldquo;Liyini Izwi?&rdquo;, &ldquo;Kanjani Ingabe iZwi lixhunywe ku-Atma?&rdquo; futhi &ldquo;Kungani kucatshangelwa i-Atma UNkulunkulu?&rdquo;, Ngicabanga ukuthi incazelo yemisho emithathu yokuqala kusukela eVangelini likaJohane 1:1 manje seliqondakala. Uma omunye ehluleka ukubamba lokhu ngemva kwencazelo enemininingwane enjalo, ukuhlakanipha kwe I-Atma ingase ihlale ingaqondakali. Ukuqonda ukuhlakanipha kuka-Atma kubalulekile ukuqonda isimiso sikaNkulunkulu. Ukuqonda izindlela zikaNkulunkulu, umuntu kufanele aqale ngokuqonda ukuhlakanipha kwe Izwi. Uma lokhu kuhlakanipha sekwaziwa, kuba sobala ukuthi Ukuhlakanipha kungu-Atma, futhi u-Atma unguNkulunkulu.
+
+<table style="width:100%">
+<tr>
+  <td>Ekudalweni</td>
+  <td>Unkulunkulu  (Paramatma)</td>
+  <td>iPrakruti</td>
+  <td>I-Atma</td>
+  <td>iJeevatma</td>
+</tr>
+<tr>
+  <td>Ngemva Kokudala</td>
+  <td>iParamatma</td>
+  <td>iPrakruti</td>
+  <td>I-Atma</td>
+  <td>iJeevatma</td>
+</tr>
+<tr>
+  <td>Ngemva Kokudala</td>
+  <td>I-Atma</td>
+  <td>iPrakruti</td>
+  <td>I-Atma</td>
+  <td>iJeevatma</td>
+</tr>
+</table>
+  Esenzweni sokudala, uNkulunkulu wasebenza ukuze adale kokubili I-Prakruti yesifazane kanye ne-Atma ne-Jeevatma yesilisa. Ekuqaleni, uNkulunkulu, njengePurusha (owesilisa), wadala imiphefumulo emibili, i-Atma kanye noJeevatma, ofana naYe. Ngemva kokudalwa kwe I-Prakruti, i-Atma, ne-Jeevatma, uNkulunkulu uguqule indima ye ukufakaza ngaphandle kokuhlanganyela ngokugcwele. Ngokusekelwe kuNkulunkulu ukungazibandakanyi emsebenzini, kungase kubonakale sengathi akukho UNkulunkulu, naphezu kokuba khona Kwakhe. Lapho ibhalansi ye-dharmas kuphazamiseke, futhi ama-adharma anqobe emhlabeni, uNkulunkulu uthumela umphefumulo Wakhe njengeBhagavan ukubuyisela i-dharmas. Ekusunguleni kabusha ama-dharma, Kuthunyelwe ummeleli kaNkulunkulu, esusa isidingo sokuba uNkulunkulu enze bahlanganyele ngqo emsebenzini. U-Atma, ngakolunye uhlangothi, uyacabanga isibopho sayo yonke eminye imisebenzi. Ngakho, ngemva kokudala, UNkulunkulu uba ongenzi lutho futhi abonakale engenamsebenzi. Kungashiwo ukuthi uNkulunkulu, kulesi simo, ubonakala engekho. U-Atma uyangena agcwalise okuyize okucatshangwayo kukaNkulunkulu futhi ngempumelelo abe nguNkulunkulu, kusenza singanaki ukungabikho kukaNkulunkulu. Ngakho-ke, umusho othi <strong>&ldquo;ULizwi wayenguNkulunkulu&rdquo; </strong>uvezwa kwesesibili saphezulu umbhalo, obonisa umehluko phakathi kukaNkulunkulu nezwi. Nakuba igama lingeyena uNkulunkulu ngokwemvelo, laguqulwa laba nguNkulunkulu. Inkulumo ethi <strong>&ldquo;ULizwi wayenguNkulunkulu&rdquo; </strong>iqokomisa ukuguqulwa kwezwi (ukuhlakanipha) libe nguNkulunkulu. Kusukela izwi (ukuhlakanipha) kuhlotshaniswa ne-Atma, futhi u-Atma uthathwa njengoNkulunkulu, kuthiwa u-Atma, okuyizwi, unguNkulunkulu. Wonke umuntu unjalo wenza iphutha ngokwazi ukuthi uNkulunkulu ungubani nokuthi ungubani u-Atma.
+
+  Eqinisweni, uNkulunkulu akasekho ngemva kwesenzo of indalo. Ngaphandle kokwazi ukuthi akekho uNkulunkulu emhlabeni, I-Atma ithatha indima kaNkulunkulu, yenza imisebenzi yabo bobabili Jeevatma futhi Prakruti. Ngesikhathi esifanayo, i-Atma ithatha isikhundla esifana noNkulunkulu. Ngemva kokudala, uNkulunkulu waguquka waba ibhizinisi elingenasimo, elingenagama elingenayo imisebenzi eyabelwe. Iyachaza uNkulunkulu onjengaye ongekho angase anembe kakhulu kunalokho eqinisekisa ubukhona Bakhe. Njengoba kungekho lutho endaweni kaNkulunkulu, U-Atma ungena endimeni kaNkulunkulu, ecaciswa yinkulumo ethi <strong>&ldquo;ULizwi wayenguNkulunkulu&rdquo;</strong> emshweni wesithathu. Naphezu kwabantu abaningi ukuzwa nokufunda le misho, imfihlo ewumsuka kuhlala kungaziwa.
+
+  Ukucacisa iqiniso nge-Atma, ehlanganisa indima kaNkulunkulu, kuthiwa <strong>&ldquo;uLizwi wayenguNkulunkulu.&rdquo; </strong>Lapho u-Atma, ukwenza samuntu uNkulunkulu, uhlanganyela kunoma yisiphi isenzo, kubonisa isenzo ukuthi &ldquo;uJeevatma wenzile&rdquo; noma &ldquo;uNkulunkulu wenzile,&rdquo; ekholisa wonke umuntu ngobukhona bukaNkulunkulu. Kungase kuphakame imibuzo mayelana nokuthi ubani ophethe igunya phezu kwendawo yonke uma uNkulunkulu engekho, noma ngabe lokhu umbono uhambisana nokuhlakanipha kukaNkulunkulu noma ukungakholelwa kuNkulunkulu. Impendulo kulemibuzo imi kanje: Sithi uNkulunkulu akekho indawo kaNkulunkulu, kodwa asisho ukuthi uNkulunkulu akekho kube bonke. Izenzo zikaNkulunkulu azikaziwa, futhi kuyagcizelelwa lokho Akanalo igama, umsebenzi, noma isimo, yingakho engenalo ngokuqondile ubudlelwano nabantu, kodwa asikaze sithi uNkulunkulu akazange zikhona nhlobo. Ezikhathini zosongo ku-dharmas, uNkulunkulu uthumela oKhe omele ukubuyisela ukuhleleka. Nakulesi simo, ummeleli uyakugwema ukusho ngokucacile ukuthi unguNkulunkulu, ukuthatha i-moniker &lsquo;Bhagavan.&rsquo; Imfihlakalo ezungezile Ubuyena nezimfanelo zikaNkulunkulu kuyaqhubeka. UNkulunkulu ukhona, nokho akekho uyazi ukuthi uNkulunkulu unjani. Akekho oke wabona noma ngokuqondile wakhuluma noNkulunkulu kusukela ekudalweni. Kungashiwo noma yini nganoma yini emhlabeni, kodwa akekho ongasho lutho okuqinisekile ngoNkulunkulu. Amagama anjengokuthi &lsquo;Allah&rsquo; ku-Kruta Yuga asho Isimo sikaNkulunkulu esingenamkhawulo, kanye neziqu ezinjengokuthi &lsquo;Parabrahma&rsquo; gcizelela ukuphakama kukaNkulunkulu phezu kuka-Atma, ogcwalisa okuhlukahlukene izindima. Ukwengeza, igama elithi &lsquo;Paramatma&rsquo; ligqamisa okukaNkulunkulu umehluko ku-Atma, futhi elithi &lsquo;Purushottama&rsquo; lisho ekaNkulunkulu ukuphakama uma kuqhathaniswa neJeevatma ne-Atma. Kungcono uku vuma ukuthi mina nawe asazi lutho ngoNkulunkulu.  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 80,
+verse: ` <b>(2) IVangeli likaJohane, isahluko 1, ivesi 9.</b>`,
+meaning: `<b>
+(1:9) Ukukhanya kweqiniso okukhanyisa wonke umuntu kwakungukukhanya eza emhlabeni.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Uma kukhona ukukhanya emhlabeni ongaphandle, kungenxa a umlilo ovuthayo. Nokho, kulo mongo, kukhulunywa ngokukhanya kweqiniso evesini. Ukukhanya kweqiniso kubaswe ngaphandle komlilo futhi kuyangena wonke umuntu, ekhanyisa umzimba wonke kusukela ekhanda kuye kuye uzwane. Kukhona ukukhanya okukodwa okunjalo ngaphandle komlilo, futhi lokho yi-Atma, evela kuNkulunkulu futhi ekhethwe uNkulunkulu (uMdali). I-Atma inikeza ukukhanya kokwazi kuwo wonke umzimba. Nini I-Atma ingena emzimbeni, amaseli angu-25 trillion emzimbeni womuntu agcwaliswe ukukhanya kwawo. Ingqamuzana ngalinye liba isibani esivuthayo ngaphandle komlilo. Ukukhanya kwesibani kunezinga lokushisa elithile. Umzimba womuntu unezinga lokushisa elingu-98.4 &deg;F ngenxa Ukukhanya kwe-Atma. Lapho i-Atma ishiya umzimba, umzimba uba kubanda ngaphandle kokushisa. Umzimba ongenakho ukukhanya kwe-Atma ubizwa ngokuthi isidumbu. Evesini 24:35 kuthiwa, <strong>&ldquo;U-Atma ungukukhanya, futhi umzimba uyisiphephelo.&rdquo; </strong>Kungashiwo ukuthi Atma, okuyinto ikhanyisa umzimba, ingabizwa ngokuthi ukukhanya kweqiniso.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 81,
+verse: ` <b>(3)	IVangeli likaJohane, isahluko 1, ivesi 10.</b>`,
+meaning: ` <b>
+(1:10) Wayesezweni, futhi nakuba izwe lalikhona owenziwe ngaye, izwe alimazanga.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Igama elithi ‘Loka (Umhlaba)’ ngesiTelugu libhekisela kokuthile lokho okuhlangenwe nakho. I-Atma ikhona kubantu abanjalo bhekana nesipiliyoni, futhi ingumdali wabo bonke abantu. Kodwa-ke, kubalulekile ukuqaphela umehluko phakathi kwe-Atma noNkulunkulu. UNkulunkulu wadala i-Atma, futhi u-Atma, naye, wadala abantu. Kubalulekile ukuqonda ukuthi uNkulunkulu akazange ngokuqondile dala abantu; esikhundleni salokho, Wakha yonke Prapancha, ekuqaleni ingenazo izinto eziphilayo. UNkulunkulu waqala waveza U-Prakruti wabe esenika i-Atma amandla okukhiqiza, ukubusa, kanye ukuqeda ukuphila komuntu. Kusukela lapho, i-Atma ibilokhu iqhubeka edala abantu, esebenza njengokukhanya okuqhubekayo komuntu ukuphila, kanye nokuhlela izinqubo zokufa nokuzalwa kabusha. Naphezu kwalokhu, abantu bavame ukuhlala benganakile ukuba khona kwe I-Atma, eseduze futhi ingaphakathi kubo futhi empeleni inguNkulunkulu. I-Atma izala abantu; ngakho-ke u-Atma unguBaba ku abantu. UNkulunkulu wadala i-Atma; ngakho unguBaba ku-Atma. Nakuba ngezinye izikhathi i-Atma ibizwa ngokuthi uNkulunkulu, uNkulunkulu weqiniso unguMoya oNgcwele, kanti u-Atma unguYise wabantu.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 82,
+verse: ` <b>(4)	IVangeli likaJohane, isahluko 1, ivesi 11.</b>`,
+meaning: `  <b>
+(1:11) Weza kokungokwakhe, kodwa okwakhe akamemukelanga.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Igama elithi “Okwakhe” lihlanganisa bonke labo Yena kudaliwe. Atma, esebenza ngomyalo oNgcwele Umoya, wenza abantu baba khona, futhi wabonakaliswa kubo ngesimo sokuhlakanipha kwaphezulu, okubhekiselwa kukho njengeZwi. Ngisho nakuba u-Atma weza kubantu ngendlela yokuhlakanipha, abantu bathambekele ekuboneni olwabo ulwazi njengolubalulekile, kaningi ukunganaki noma ukulahla ukuhlakanipha okunikezwayo.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 83,
+verse: `  <b>(5)	IVangeli likaJohane, isahluko 1, ivesi 12. </b>`,
+meaning: `<b>
+(1:12) Nokho kubo bonke abamamukelayo, kulabo wakholwa egameni lakhe, wanika ilungelo lokuba abantwana bakaNkulunkulu.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Labo abaqonda ukuhlakanipha okunikezwa u-Atma uzokwamukela u-Atma. Labo abajwayelene ne-Atma ukuhlakanipha futhi ubambe ukholo ku-Atma unethemba lokuba Izindlalifa zika-Atma. Ngakho-ke, leli vesi liyagomela, “Wanikela ilungelo lokuba ngabantwana bakaNkulunkulu.” Igama elithi “abantwana bakaNkulunkulu” lisho labo abajwayelene nokuhlakanipha kuka-Atma.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 84,
+verse: ` <b>(6)	IVangeli likaJohane, isahluko 1, ivesi 13.</b>`,
+meaning: `<b>
+(1:13) Abantu abazalwa ngokungewona wozalo lwemvelo, noma ngabantu isinqumo noma intando yendoda, kodwa ezelwe nguNkulunkulu.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Bonke abantu bavela ku-Atma. Abazalwa ngegazi labesifazane noma intando yabesilisa noma yabesifazane.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 85,
+verse: `<b>(7)	IVangeli likaJohane, isahluko 1, ivesi 14.</b>`,
+meaning: ` <b>
+(1:14) ULizwi waba yinyama futhi wakha indawo yakhe yokuhlala phakathi kwethu. Sabona inkazimulo yakhe, inkazimulo yalowo oyedwa neNdodana ezelwe yodwa, evela kuYise, egcwele umusa kanye neqiniso. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  UNkulunkulu u-Atma (Ukuhlakanipha) wathatha isimo somzimba, efana neyomuntu, futhi yahlala phakathi kwabantu, ekhazimula umusa nokuhlakanipha.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 86,
+verse: `  <b>(8)	IVangeli likaJohane, isahluko 1, ivesi 18.</b>`,
+meaning: ` <b>
+(1:18) Akekho umuntu oye wabona uNkulunkulu noma nini; okuodwa iNdodana ezelwe, esesifubeni sikaYise, wamembula.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Igama elithi &lsquo;Nkulunkulu&rsquo; lisetshenziselwa kokubili i-Atma neParamatma. Ku umbhalo wokugcina waphezulu, igama elithi &lsquo;Allah&rsquo; lisetshenziswa kubo bobabili oNkulunkulu I-Atma neParamatma. Ngakho, amaSulumane awakwazanga ukuqaphela oNkulunkulu ababili. Ukuze kugwenywe leli phutha, iBhayibheli lithi u-Atma unjalo uBaba, kanye neParamatma nguMoya oNgcwele. Igama &lsquo;iNdodana ezelwe&rsquo; ibhekisela <strong>endodaneni okuwukuphela kwayo eyadalwa uNkulunkulu</strong>. I-Paramatma (uMoya oNgcwele) ingunaphakade. Ngemuva kokudala i-Prakruti ku ekuqaleni, uParamatma wadala indodana ebizwa ngokuthi u-Atma ukuletha zonke izidalwa eziphilayo zibe khona. U-Atma wadala zonke izidalwa eziphilayo ngokwemiyalo kaMoya oNgcwele. Ngakho-ke, kukhona uBaba oyedwa (uNkulunkulu odaliwe) wabo bonke abaphilayo. Ubaba we-Atma edaliwe nguMoya oNgcwele. <strong>&ldquo;Akekho owake waba khona sabona uNkulunkulu (uMoya oNgcwele noma iParamatma),&rdquo; </strong>njengoba kushiwo encwadini ivesi. UNkulunkulu (uMoya oNgcwele) akanaso isimo, igama, noma umsebenzi; ngakho-ke, akekho owake wabona iParamatma. Atma, kuphela iNdodana ezelwe, yembula uNkulunkulu ongabonakali ngokuhlakanipha Kwakhe. U-Atma uyiNdodana ezelwe yodwa ehlukene nenhliziyo ye UNkulunkulu Omkhulu, Paramatma. Ngoba akekho oke wabona oNgcwele Moya, u-Atma kuphela ongakhuluma ngoYise, uMoya oNgcwele.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 87,
+verse: ` <b>(9)	IVangeli likaJohane, isahluko 1, ivesi 51.</b>`,
+meaning: `<b>
+(1:51) Wabe esenezela, “Ngiqinisile ngithi kini, nizobona izulu liyavuleka, nezingelosi zikaNkulunkulu zenyuka futhi yehlela phezu kweNdodana yomuntu.”  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Leli yizwi uJesu alikhuluma kuNathanayeli uqobo lwakhe. UJesu wathi uyiNdodana yoMuntu, nakuba uNathanayeli wayebize Yena njengeNdodana kaNkulunkulu. UJesu akazange akuphike ukuba khona iNdodana kaNkulunkulu kodwa esikhundleni salokho wazehlisa waba yiNdodana yoMuntu. Waqinisekisa uNathanayeli nabanye ukuthi babezofakaza izenzakalo ezingajwayelekile. Njengoba sike sagcizelela ngaphambili, ekaNkulunkulu izinceku, izingelosi, zikhonza njengababusi emhlabeni wabantu. Lezi izingelosi, ezivame ukubizwa ngokuthi amaBhuta namaplanethi (Grahas), ziyi eziningi esibhakabhakeni, eziyizigidigidi. Ngesikhathi sokuhlangana no UJesu, izinceku zikaNkulunkulu, zazi ukuthi ungubani, zehla ezulwini futhi bakhothama phambi Kwakhe. Nokho, abantu abaningi izidalwa zihlala zingazi ukuthi uJesu ungubani ngempela futhi azikhothami phansi phambi Kwakhe. Izikhombo ezifanayo ziyatholakala kwi-Quran, umbhalo wokugcina waphezulu, ikakhulukazi emavesini 15:28, 15:29 , kanye 15:30. Evesini okukhulunywe ngalo, kuprofethwe ukuthi uNathanayeli uzofakaza ukuba khona kweBhutas neGrahas ezungeze Ndodana yomuntu, sengathi iminyango yezulu ivuliwe. Isisho ‘ukwenyuka nokwehla’ kufanekisa ukuza nokuhamba, nge ‘ukwehla phezu kweNdodana yomuntu’ okusho ukufika kwezingelosi kuJesu. Lapho uNathanayeli evuma uJesu njengeNdodana kaNkulunkulu, uJesu, eqaphela umbono kaNathanayeli wokuhlakanipha, wamqinisekisa evesini 50 ukuthi wayezobona izehlakalo ezinkulu nakakhulu. Isiqephu 51 kulandela, eveza ukuthi uNathanayeli, ebona ngokuhlakanipha, bekwazi ukubona izinto ezingaphezu kokujwayelekile kwabanye. Izenzakalo ezichazwe evesini 51 zibonakala kuphela kulabo abane ukuhlakanipha kukaNkulunkulu, okwenza siqonde ukuthi uJesu ungubani ngempela.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 88,
+verse: `<b>(10)	IVangeli likaJohane, isahluko 3, ivesi 3.</b>`,
+meaning: ` <b>
+(3:3) UJesu waphendula wathi: “Ngiqinisile ngithi kini: Akakho ongabona umbuso kaNkulunkulu ngaphandle kokuthi bazalwe kabusha.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ivesi akufanele lihunyushwe njengoba lisho incazelo ejulile, engokomfanekiso. UNkulunkulu nombuso Wakhe kudlulele ukubonakala ngokomzimba kunoma ubani. UJesu wakuveza ngokucacile lokho ukuqonda nokubona umbuso kaNkulunkulu kudinga ukuzalwa kabusha okungokomoya. Lokhu akusho ukufa komzimba kanye ukuzalwa kabusha okulandelayo. Uma kuthathwa njengokungokoqobo, kungasho lokho noma ubani ofuna ukwazi uNkulunkulu kungadinga ukudlula umzimba ukufa, okuwukungaqondi. uNikodemu, owayebambe ukuhumusha ngokwezwi nezwi, kwaphakamisa umbuzo osekelwe kulokhu umbono oyiphutha.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 89,
+verse: `<b>(11)	IVangeli likaJohane, isahluko 3, 4, 5, 6, Ivesi lesi-7, nelesi-8.</b>`,
+meaning: `<b>
+(3:4) “Umuntu angazalwa kanjani esemdala?” Kubuza uNikodima. “Ngempela abakwazi ukungena ngomzuzwana isikhathi esizalweni sikanina ukuba bazalwe!”
+<br><br>
+(3:5) UJesu waphendula wathi: “Ngiqinisile ngithi kini: Akakho ongakwenza bangene embusweni kaNkulunkulu ngaphandle kokuthi bazalwe amanzi noMoya (Atma).
+<br><br>
+(3:6) Inyama izala inyama, kodwa uMoya (Atma) uzala umoya.
+<br><br>
+(3:7) Akufanele nimangale lapho ngithi, “Wena kufanele azalwe kabusha.”
+<br><br>
+(3:8) Umoya uphephetha nomaphi lapho uthanda khona. Uyakuzwa umsindo, kodwa awukwazi ukusho ukuthi uvelaphi noma lapho liya khona. Ngakho, kunjalo nawo wonke umuntu ozelwe ngu Umoya (Atma).” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Lapho umuntu efa futhi ezalwa kabusha, kubizwa ngokuthi ukuzalwa kabusha. Uma ukuzalwa kabusha kwenzeka ngokomzimba, zonke izitho zomuntu zizokwenza shintsha. Uma lokho kwenzeka, isifiso sokubona uNkulunkulu nokukaNkulunkulu umbuso nawo uzoshabalala. Umzimba akufanele ufe ukugcina izitho nezifiso njengoba zinjalo. Umzimba uqukethe kokubili ukuhlakanipha nokungazi, kepha ukungazi emzimbeni kufanele ukufa ngokuphelele. Lapho indoda isusa imicabango yokungazi futhi izifiso, uthathwa njengofile ngokungazi futhi ozelwe ukuhlakanipha. Umuntu osusa ukungazi futhi azuze ukuhlakanipha angakwazi kuthiwa uzalwa ngu-Atma<strong>. Umsebenzi womuntu ukwazi u-Atma</strong><strong>emzimbeni. </strong>Ukuze wazi i-Atma, umuntu kufanele azi ukuhlakanipha kuka-Atma. Lapho umuntu ekwazi ukuhlakanipha kwe-Atma, ubhekwa njengozelwe kwe-Atma. Lapho umzimba ufa, umuntu uthola umzimba omusha, kodwa ukushintsha intando yomuntu emzimbeni ofanayo ngaphandle kokuthola okusha umzimba ufana nokuzalwa okusha. Umoya uphephetha nomaphi lapho uthanda khona, futhi siyawuzwa umsindo wayo kuye ngokuthi ivuthela kuphi. Njengoba umoya ushintsha indlela yawo, uma umuntu eshintsha injongo yakhe, uyokwenza kube ukuzalwa okusha kuye. Umuntu ofisa u-Atma uyazi u-Atma ngaphakathi umzimba ofanayo nokuphila okufanayo. Asikho isidingo sokuya enye impilo ukwazi u-Atma.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 90,
+verse: `<b>(12)	IVangeli likaJohane, isahluko 3, ivesi 13. </b>`,
+meaning: `<b>
+(3:13) Akekho owake wangena eParaloka ngaphandle kwe owavela eParaloka—iNdodana yomuntu. </b>`,
+pageText: `
+<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ihaloka, Izulu (Swarga-Loka), Isihogo (Naraka-Loka), kanye I-Paraloka amagama emihlaba emine. Umhlaba (Loka) lapho esihlala khona sonke kubizwa ngokuthi Ihaloka. Izulu nesihogo akukhona imihlaba ehlukene; bobabili basemhlabeni. Loka akuwona umbuso noma insimu. Indawo kanye nesikhathi sokuhlangenwe nakho ndawonye ebizwa ngokuthi. Indawo lapho umuntu ehlangabezana nobunzima ibizwa ngokuthi Yamaloka, Naraka-Loka, noma isihogo. Ngokufanayo, indawo lapho eyodwa okuhlangenwe nakho kwenjabulo kubizwa ngokuthi i-Swarga-Loka noma izulu. Kusukela kokubili lokhu okuhlangenwe nakho kwenzeka emhlabeni, kungashiwo ukuthi lokhu umhlaba (Ihaloka) kokubili izulu nesihogo. Nokho, uParaloka ehlukile esihogweni nasezulwini. Ngenkathi kokubili isihogo nezulu zibandakanya okuhlangenwe nakho, uParaloka akanakho okuhlangenwe nakho. Isimo esingenaso isipiliyoni sibizwa ngokuthi iParaloka. Lapho umuntu edlula i-karma, akabi nakho injabulo noma usizi bese ungena eParaloka. Ibizwa ngokuthi isimo ukuba munye noNkulunkulu, uMukti, noma uMoksham. Umuntu e-Ihaloka njalo eboshwe isono kanye ne-punya karma. Noma ubani oseParaloka ayikho i-karma. Uma umuntu efa e-Ihaloka, bona awukwazi ukuya eParaloka kodwa ubuyele e-Ihaloka. Ngokolunye uhlangothi, umuntu eParaloka, lapho eza kulo mhlaba nganoma yisiphi isidingo, ubuyela eParaloka. Ngakho-ke, nakuba i- isakhamuzi saseParaloka esivela eParaloka sihlala kulokhu emhlabeni okwesikhathi esithile ngokwentando Yakhe, Uyongena kamuva I-Paraloka. Ngakho, ivesi elithi <strong>&ldquo;Akekho owake wangena kulo UParaloka ngaphandle kweNdodana yoMuntu eseParaloka&rdquo; </strong>kusho ukuthi lowo oseParaloka unguNkulunkulu. Noma ngabe ubani waba uNkulunkulu uzalwa njengomuntu, uzobuyela eParaloka. I into efanayo kuvezwe kuJohane 3:13.
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 91,
+verse: ` <b>(13)	IVangeli likaJohane, isahluko 3, ivesi 15.</b>`,
+meaning: `<b>
+(3:15) Ukuze yilowo nalowo okholwa kuYe akufanele abhubhe, kepha abe nokuphila okuphakade.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Wonke umuntu okholwa kuNkulunkulu uyozuza ukuphila okuphakade ngaphandle kokufa. Nokho, kulotshiwe ukuthi, &ldquo;Phakade ukuphila kungaye kuphela.&rdquo; I-Paramatma ikhona kokubili ngaphakathi nangaphakathi ngaphandle komzimba. <strong>Lapho i-Jeevatma ihlangana neParamatma, kuthiwa iJeevatma izuze iParaloka, nayo waziwa njengombuso kaNkulunkulu</strong>. Kungabuye kushiwo ukuthi iJeevatma ithole ukuphila okuphakade (moksham). Ivesi uthi, &ldquo;Lowo okholwa kuNkulunkulu uyokhululwa ekugcineni ku-karma futhi uthole ukuphila okuphakade.&rdquo; UParaloka, omele ukuphila okuphakade, kugcwele yonke indawo, kungakhathaliseki ukuthi umuntu unjani ngokomzimba indawo. Ngenxa yalokho, noma ubani ozuza i-moksham uyahlangana ngoMoya oNgcwele (Paramatma) emizimbeni yabo.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 92,
+verse: `<b>(14)	IVangeli likaJohane, isahluko 3, ivesi 17.</b>`,
+meaning: `<b>
+(3:17) Ngoba uNkulunkulu akayithumelanga iNdodana yakhe ezweni ahlulele umhlaba, kodwa ukusindisa umhlaba ngaye.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  UNkulunkulu wathumela iNdodana yakhe njengomuntu emhlabeni ukuze isindise abantu, hhayi ukwahlulela bona. Umthwalo wendoda owa evela kuNkulunkulu iwukufundisa abantu ukuhlakanipha kukaNkulunkulu nokusindisa kubo ezonweni zabo. Akazanga ukuzokwahlulela izono futhi i-punya yabantu. UNkulunkulu akazange athumele ummeleli Wakhe emhlabeni ngokwahlulela; kunalokho, Weza ukuzosindisa abantu. Lokhu Ivesi libalulekile eBhayibhelini. U-Atma wehlulela umuntu lapho efa. Lowo ovela kuNkulunkulu ufundisa abantu indlela yokuphunyuka kusukela ku-karma, kuyilapho i-Atma yenza umsebenzi wokubahlulela.
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 93,
+verse: `<b>(15)	IVangeli likaJohane, isahluko 3, ivesi 18. </b>`,
+meaning: `<b>
+(3:18) Lowo okholwa kuye akahlulelwa, kodwa ongakholwayo umi wahlulelwa ngoba bengakholwanga ebizweni likaNkulunkulu iNdodana eyodwa.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ivesi lithi, &ldquo;Lowo okholwa Kuye,&rdquo; elibhekisela kuNkulunkulu ongabonakali noma kummeleli kaNkulunkulu obonakalayo owavela kuNkulunkulu. Leli vesi libuye lithi, &ldquo;Abazange babekholelwa egameni leNdodana kaNkulunkulu ezelwe yodwa,&rdquo; okusho ukuthi ukuthi kufanele kuqondwe njengokubhekisela kokukaNkulunkulu ummeleli ovela kuNkulunkulu. UNkulunkulu ngokwakhe weza emhlabeni ekusithekeni komuntu ukufundisa abantu ukuhlakanipha. UJesu wathi, <strong>&ldquo;NgiyiNdodana kaNkulunkulu, noma iNdodana yoMuntu, noma iNdodana kaNkulunkulu iNdodana yodwa,&rdquo; </strong>ukuze angaqashelwa. EbuHindu, uNkulunkulu okuthiwa uBhagavani lapho Ezifihla futhi eza emhlabeni njengendoda. UKrishna uyena owafika kanjalo; ngakho Ukhona ebizwa ngeBhagavan eBhagavad-Gita. Nakuba uJesu, ngubani iNdodana kaNkulunkulu, yabonakala njengomuntu, kufanele futhi ibizwe Bhagavan. Lapho uNkulunkulu eba sesimweni somuntu emhlabeni, amaHindu abiza kanjalo Yena uBhagavan, namaKrestu ambiza ngeNdodana yoMuntu. Ngenkathi kunjalo kushiwo embhalweni wokugcina waphezulu ( 15:28, 29, 30 ) <strong>ukuthi uNkulunkulu uthumela ummeleli wakhe ngokuphefumulela umphefumulo Wakhe Kuye</strong>, AmaSulumane akholelwa ukuthi uNkulunkulu akezi njengomuntu. Noma ubani ayinalo ukholo kummeleli kaNkulunkulu, iNdodana kaNkulunkulu esehlulelwe.
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 94,
+verse: `<b>(16) IVangeli likaJohane, isahluko 3, 19, 20, Amavesi 21.</b>`,
+meaning: ` <b>
+(3:19) Lesi yisinqumo: Ukukhanya kungenile izwe, kepha abantu bathanda ubumnyama kunokukhanya ngoba izenzo zabo zazizimbi.
+<br><br>
+(3:20) Wonke umuntu owenza okubi uzonda ukukhanya futhi uyokwenza bangangeni ekukhanyeni, besaba ukuthi izenzo zabo ziyakwenzeka obala.
+<br><br>
+(3:21) Kodwa lowo ophila eqinisweni uyangena ukukhanya, ukuze kubonakale ngokusobala lokho abakwenzayo okwenziwayo kuye kwenziwa phambi kukaNkulunkulu. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  I-Paramatma, engaziwa muntu, ifanekisela ubumnyama. I-Atma, eyasungulwa ngu I-Paramatma, ihlanganisa ukukhanya kweqiniso. I-Paramatma idaliwe Amadodana amabili: i-Atma engabonakali, esebenza njengokukhanya ngaphakathi komzimba, kanye nenye i-Atma eba sesimweni somuntu phakathi kwabantu. Ngenkathi i-Atma, engabonakali futhi ekhanyisa umzimba, kubhekiselwa kuyo njengeNdodana, enye iNdodana kaNkulunkulu, ibonakalisa njengomuntu, iyiyo ngendlela ehlukile ebizwa ngokuthi <strong>iNdodana ezelwe yodwa</strong>. UJesu, yedwa iNdodana ezelwe, yehlela emhlabeni. Nokho, ngenxa yabo izenzo ezinonya, abantu babazisa ubumnyama babo futhi wagwema ukusondela kuJesu, ukukhanya kokuhlakanipha.
+
+  Wonke umuntu ongenalwazi unenzondo Ummeleli kaNkulunkulu oletha <strong>ukukhanya kokuhlakanipha </strong>ku umhlaba. Besaba ukuthi izenzo zabo ezimbi zizodalulwa ubukhona bommeleli kaNkulunkulu, okubenza bagweme ukukhanya futhi ufihle izenzo zabo. Labo abalindele lokho okukaNkulunkulu ukukhanya, okuthatha isimo somuntu emhlabeni, kuyokwembula izenzo zabo zobumnyama gwema ukuza eNdodaneni kaNkulunkulu lapho ibonakala. Labo aba babambelele ekuhlakanipheni kukaNkulunkulu baqonde ukuthi u-Atma uyaziphendulela kuzo zonke izenzo zabo ngaphakathi emzimbeni. Basondela eNdodaneni kaNkulunkulu ngoba zonke izenzo zabo zingaphakathi <strong>ukhanya kukaNkulunkulu, ziqondiswa ukuhlakanipha.</strong> Nokho, ingxenye encane kuphela yabantu emhlabeni uyaqaphela ukuthi u-Atma, onguNkulunkulu, unesibopho sakho konke izenzo. Ngenxa yalokho, inani elilinganiselwe kuphela elisondela INdodana kaNkulunkulu uma Ivela. Njengoba umhlaba ugcwele abantu abakholelwa ukuthi banesibopho sabo kuphela izenzo, bayakugwema ukufuna iNdodana kaNkulunkulu. Hhayi nje ukwenza bayayibalekela iNdodana kaNkulunkulu, kodwa futhi bayafukamela inzondo kanye nokufaka ubunzima kummeleli kaNkulunkulu, owathi ayibonakali njalo emhlabeni. Bayihleka usulu iNdodana kaNkulunkulu, emfaka ezinsizini eziningi.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 95,
+verse: ` <b>(17)	IVangeli likaJohane, isahluko 5, ivesi 19.</b>`,
+meaning: ` <b>
+(5:19) UJesu wabaphendula wathi: “Ngiqinisile ngithi wena, iNdodana ingenze lutho ngokwaYo; Angenza kuphela lokho abona uYise ekwenza, ngoba noma yini UBaba wenza neNdodana.</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kuleli vesi, kukhulunywa &lsquo;ngoBaba neNdodana&rsquo; okuhambisana namazwi athi &ldquo;iNdodana iyozenza izinto lokho uBaba akwenzayo.&rdquo; Kubalulekile ukuhlukanisa imininingwane uYise neNdodana, banikezwe ukuthi uMoya oNgcwele (uNkulunkulu) nguye yedwa eyodwa. Nakuba uNkulunkulu eneNdodana eyodwa yaphakade, kukhona nenye INdodana eyenzeka ngezikhathi ezithile eMhlabeni. Kubalulekile ukuthola ukuthi leli vesi likhuluma ngayiphi iNdodana. Johane 3:17 uyagcizelela, <strong>&ldquo;Ngokuba uNkulunkulu akayithumanga iNdodana yakhe ezweni alahle umhlaba, kodwa ukusindisa umhlaba ngoyena,&rdquo;</strong> ebhekise eNdodaneni kaNkulunkulu, ebonakalisa umhlaba. Leli vesi (5:19) libhekisela eNdodaneni, u-Atma, osebenza njengokukhanya ngaphakathi kwe umzimba womuntu. I-Atma ingunaphakade emhlabeni, inikeza <strong>&lsquo;ukukhanya wokuhamba&rsquo;</strong> emzimbeni wawo wonke umuntu. Ngokusekelwe kulokhu, ikakhulukazi lapho ngokufunda ivesi, umuntu kufanele anqume ukuthi iyiphi kumadodana amabili UNkulunkulu, uMoya oNgcwele, ukhulume ngaye evesini. Johane 5:19 uveza u-Atma njengendodana kaNkulunkulu yaphakade, esho ukuthi u-Atma sibukisa izenzo zikaMoya oNgcwele futhi sizibandakanya kuphela imisebenzi ezuzwe njengefa kuBaba, engenzi lutho ngokuzimela.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 96,
+verse: `<b>(18)	IVangeli likaJohane, isahluko 5, ivesi 20.</b>`,
+meaning: ` <b>
+(5:20) Ngoba uYise uyayithanda iNdodana futhi uyibonisa konke Uyakwenza. Yebo, futhi UzoMkhombisa okukhulu nakakhulu imisebenzi kunalena, ukuze nimangale. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Uma sibuza ukuthi ubani owathi, <strong>&ldquo;Paramatma (uMoya oNgcwele) ithanda iNdodana futhi iYikhombisa konke Ekwenzayo,&rdquo; </strong>sithola ukuthi uJesu, iNdodana kaNkulunkulu yesibili, yakhuluma la mazwi kubafundi Bayo ngenkathi Wayesemhlabeni. Akekho owakwazi ukuqaphela ngokugcwele iNdodana ka UNkulunkulu ngenkathi ehamba phakathi kwabantu njengomuntu. Naphezu Kwakhe izimfundiso nezimangaliso, abanye bamfaka ekuhluphekeni okukhulu kanye nokuthotshiswa, ekugcineni okuholela ekufeni Kwakhe. Nokho, INdodana kaNkulunkulu ezelwe yodwa, egama layo linguJesu, yayiphakathi kwabo futhi wathi, <strong>&ldquo;UBaba uzoMkhombisa (Atma) imisebenzi emikhulu kakhulu kunalezi ukuze nimangale.&rdquo; </strong>UNkulunkulu wayala I-Atma yokubusa phezu kwamaJeeva futhi ibonise izinto ezinkulu nakakhulu. Manje ake sihlole ukuthi ziyini lezo zinto ezinkulu.
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 97,
+verse: `<b>(19)	IVangeli likaJohane, isahluko 5, 21, 22, Amavesi 23. </b>`,
+meaning: `<b>
+(5:21) Ngoba njengoba nje uBaba evusa abafileyo futhi epha ukuphila kwabo, kanjalo neNdodana iyabaphilisa lowo enguye ngithokozile ukuyinika.
+<br><br>
+(5:22) Ngaphezu kwalokho, uBaba akahluleli muntu, kodwa umahluleli ukuphathise iNdodana konke ukwahlulela.
+<br><br>
+(5:23) Ukuze bonke badumise iNdodana njengoba nje bedumisa uBaba. Ongayihloniphi iNdodana akayihloniphi hlonipha uBaba owamthumayo.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kukhona okuphawulekayo lapha. Nakuba kukhona a kukhulunywa <strong>&lsquo;ngoAllah ababili</strong>&rsquo; eQur&rsquo;an, amaSulumane awakwazanga ukukuthola. Ngokufanayo, kukhulunywa &lsquo;<strong>ngamadodana Amabili</strong>&rsquo; eBhayibhelini, kodwa AmaKristu ayengenakuliqonda futhi akhulume ngeNdodana eyodwa kuphela. Womathathu la mavesi anegama elithi &lsquo;iNdodana.&rsquo; Umuntu udinga nquma ukuthi yimaphi amaDodana amabili okukhulunywa ngawo kula mavesi. Abaningi abakwazi ukuqonda ukuthi kukhona iNdodana yesibili ngoba iNdodana eyodwa kuphela ngesikhathi okukhulunywa ngayo emavesini. uNkulunkulu wathi: <strong>&ldquo;Ngokuba uNkulunkulu akayithumanga iNdodana yakhe ezweni ukuba yahlulele umhlaba kodwa ukusindisa umhlaba ngaye&rdquo; kuJohane 3:17. futhi &ldquo;uYise ukuphathise iNdodana konke ukwahlulela&rdquo; ku Johane 5:22 . </strong>Ngokusekelwe kulokhu, umuntu kufanele aqonde ukuthi uNkulunkulu unakho Amadodana amabili.
+
+  UNkulunkulu wathi ngo-Atma, &ldquo;NjengoBaba, uMoya oNgcwele, ivusa abafileyo futhi ibaphilise, neNdodana ivusa abafileyo futhi unikeza ukuphila.&rdquo; Njengoba nje uBaba evusa abafileyo futhi abaphilise. U-Atma unquma okuhlangenwe nakho komuntu okulandelayo kwempilo ngemva kokufa ngokusekelwe ezonweni zabo zesikhathi esidlule kanye ne-punya. Ngakho-ke, "Njengoba UBaba, iNdodana iyamphilisa lowo ethanda ukumnika ukuphila,&rdquo; kushiwo encwadini ivesi. <strong>&ldquo;Lowo Amthandayo&rdquo; </strong>kusho <strong>&ldquo;labo abazimisele nge-karma&rdquo; </strong>ngokombono ka-Atma. Njengoba i-Atma ingukukhanya okufihliwe emzimbeni onquma i-karma yempilo elandelayo yomuntu, &ldquo;Uyovusa lowo owamahlulela,&rdquo; kushiwo leli vesi. &ldquo;Ukuvusa&rdquo; kusho &ldquo;ukuzalwa kabusha.&rdquo;
+
+  UNkulunkulu wanika u-Atma amandla okwahlulela abafileyo futhi alethe babuyiselwe ekuphileni ukuze wonke umuntu akhazimulise iNdodana yakhe, u-Atma, njengoba nje wonke umuntu ekhazimulisa uMoya oNgcwele njengoNkulunkulu omkhulu. E- umzuzu wokufa komuntu, i-Atma, ukukhanya emzimbeni, inquma i-karma yabo yempilo yesibili ngokusekelwe esikhathini sabo esidlule izono zokuphila kanye ne-punya futhi ngokushesha iziyisa kwesibili ukuphila. U-Atma unquma impilo yesibili ngokusekelwe ku-karma yomuntu futhi abanike ukuphila futhi. Labo abangazi ukuthi Atma wenza izinto ezinkulu kangaka ungamboni u-Atma ngenkulu inhlonipho. Eyodwa ongamhloniphi u-Atma ngeke amhloniphe uNkulunkulu omthumileyo I-Atma. Ukungazi okunjalo akuhloniphi i-Atma, engaphakathi umzimba, noma iParamatma, engaphakathi nangaphandle komzimba.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 98,
+verse: `<b>(20)	IVangeli likaJohane, isahluko 5, ivesi 24.</b>`,
+meaning: ` <b>
+(5:24) Ngiqinisile, ngiqinisile ngithi kini: Yilowo nalowo ozwa izwi lami, futhi okholwa ngulowo ongithumileyo unokuphila okuphakade, kodwa kasoze wahlulelwa kodwa weqile ekufeni wangena ekuphileni. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ngaphambili, amavesi 5:21, 5:22, no-5:23 ayexoxa ngoMphefumulo. (Atma), ohambayo emzimbeni. Ivesi 5:24 lithi ngoMphefumulo, owaba sesimweni somuntu negama UJesu. Lowo okholwa nguMoya oNgcwele, owathuma uJesu, the iNdodana ezelwe yodwa, iyozuza moksham. Umuntu onjalo uyazuza moksham ngaphandle kokwahlulela ngokushesha ngemva kwalokho ukufa kwabo.
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 99,
+verse: ` <b>(21)	IVangeli likaJohane, isahluko 5, ivesi 26.</b>`,
+meaning: ` <b>
+(5:26) Ngokuba njengalokhu uBaba enokuphila kuye, unakho kanjalo wayinika iNdodana ukuthi ibe nokuphila kuyo ngokwayo.     </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  UNkulunkulu, uMoya oNgcwele, ungunaphakade. Njengoba kunje I-Paramatma ingunaphakade, u-Atma, indodana Yakhe, unikiwe igunya lokuhlala kuze kube phakade. UMoya oNgcwele, the Baba we Atma, wamnika lelogunya. Esaphezulu sokuqala umbhalo lapho uqhathanisa i-Jeevatma ne-Atma, i-Jeevatma ibizwa ngokuthi i-Kshara (umphefumulo Obhubhayo), kuyilapho i-Atma injalo ebizwa ngokuthi i-Akshara (umphefumulo ongenakonakala).
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 100,
+verse: ` <b>(22)	IVangeli likaJohane, isahluko 5, ivesi 37.</b>`,
+meaning: `<b>
+(5:37) Anikaze nizwe izwi Lakhe, nibone nelakhe ifomu.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kulo mongo, elithi ‘Okwakhe’ libhekisela kuParamatma (uMoya oNgcwele). UNkulunkulu, owaziwa ngokuthi iParamatma noma uMoya oNgcwele, akanawo igama, ifomu, noma imisebenzi ethile. Akekho owake wabona uNkulunkulu onjalo ngoba akanasimo esibonakalayo. Ngenxa yalokho, akekho umuntu useke wabeka amehlo kuNkulunkulu. UNkulunkulu akaxhumani naye noma ubani njengoba Ehlala engasebenzi. Ngakho-ke, kungagonyelwa ukuthi akekho umuntu ophilayo oke wabona uNkulunkulu ngempela. Noma yikuphi ukugomela kwe ukufakaza ngoNkulunkulu kungabhekwa njengamanga. UNkulunkulu akayena ebonakalayo noma ngezwi.
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 101,
+verse: `<b>(23)	IVangeli likaJohane, isahluko 5, ivesi 38. </b>`,
+meaning: `<b>
+(5:38) Futhi izwi lakhe alihlali kini, ngoba nina kholwani nguye amthumileyo.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Nakuba umdali wokuqala, uMoya oNgcwele, engakwenzi bahlanganyele ngenkuthalo emsebenzini, kunezibopho ezithile ukuthi awe ngaphansi kombuso waKhe. Noma kunjalo, Uyakugwema ngokuqondile isenzo. Kunalokho, uNkulunkulu, iParamatma, wabele izinceku zaKhe enze umsebenzi Wakhe. Lezi zigidi zezinceku zakha ezaKhe ukubusa nokwenza yonke imisebenzi emiselwe Yena. Ngenkathi UNkulunkulu Uqobo Lwakhe uhlala engenzi lutho, izinceku Zakhe zifeza indima ayiyo okufanele ngenze. I-Paramatma, nokho, inomsebenzi obalulekile umsebenzi osuseduze - ukunikezwa kokuhlakanipha kwaphezulu. UNkulunkulu Uqobo Lwakhe odingekayo kulo msebenzi, njengoba izinceku zakhe zingenakuwenza. Umbhalo wokugcina uthi, <strong>&ldquo;UNkulunkulu kufanele afundise ukuhlakanipha kukaNkulunkulu ngoba akekho owazi ukuhlakanipha kukaNkulunkulu ngaphandle kukaNkulunkulu.&rdquo; </strong>Ku uzifihle, uNkulunkulu uyeza ukuzofundisa ukuhlakanipha kukaNkulunkulu. Nakuba Yena ukhuluma ngokucasha, Isiqu Sakhe asaziwa, njengoba kungekho muntu angabona lowo ocashile. Naphezu kokuthi uNkulunkulu edlulisela owakhe ukuhlakanipha, ngokuvamile akubonakali njengamazwi Akhe. Njengoba uNkulunkulu enjalo uhlakaniphe, Uthatha isithunzi esithi '<strong>Bhagavan</strong>' futhi unikeza ukuhlakanipha.
+
+  Ngisho nalapho uNkulunkulu efika mathupha emhlabeni eguqulwe njenge umuntu wokufundisa ukuhlakanipha, Ubikezela futhi ukuthumela indoda ekhethekile obani bangempela bayohlala bengaziwa. &ldquo;Ofikayo kuNkulunkulu uyofundisa ukuhlakanipha kukaNkulunkulu,&rdquo; kusho uNkulunkulu uqobo Lwakhe imibhalo engcwele. Ngakho-ke, wonke umuntu ulindele ukuthi othunywe nguNkulunkulu uyodlulisa ukuhlakanipha kukaNkulunkulu. Ngakho, uNkulunkulu ukuzalwa komuntu kuhlala kugubuzele kubo bonke. Nakuba uNkulunkulu weza emhlabeni njengendoda ngesikhathi seTreta Yuga, akekho owamazi. Phakathi iDvapara Yuga, uNkulunkulu weza njengomuntu futhi wadlulisela Izimfundiso zeBhagavad-Gita, ngisho nokusho ukuthi <strong>&ldquo;NginguNkulunkulu&rdquo; </strong>kuyo iBhagavad-Gita, nokho akekho owamaziyo. Ngokufanayo, nini UNkulunkulu esesimweni somuntu njengoJesu eKali Yuga, akekho owabona Yena, ambangela izinselelo eziningi. Akekho owaqaphela ukuthi Yena wayenguNkulunkulu wangempela. Abanye ababethi bangamakholwa kaNkulunkulu bathi uJesu uyiNdodana yoMuntu, behluleka ukumvuma njengoNkulunkulu. Abanye bathi uJesu uyiNdodana kaNkulunkulu kodwa basawa ukuntula ukububona ubunkulunkulu Bakhe.
+
+  Nakuba uJesu ayenguNkulunkulu esesimweni somuntu, wathi, <strong>&ldquo;Ukwenzile ningakholwa nguye amthumileyo&rdquo; </strong>kuleli vesi ngaphandle kokwembula Ubuyena bangempela. Uveze ukuthi abantu abanalo ukholo ku umuntu othunywe nguNkulunkulu, ethi, &ldquo;Izwi likaNkulunkulu alihlalanga kini.&rdquo; Uma akukho ukukholwa kumuntu othunywe nguNkulunkulu, kungani izwi likaNkulunkulu lenza awuhambisani nabantu? Isizathu silele ekungakholwani isithunywa saphezulu, onguNkulunkulu uqobo Lwakhe kanye nomthwali we ukuhlakanipha. Ngakho-ke, izwi likaNkulunkulu liyehluleka ukugxila kulabo abangenalo ukholo kuye.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 102,
+verse: ` <b>(24)	IVangeli likaJohane, isahluko 6, 25, 26, Amavesi 27.</b>`,
+meaning: ` <b>
+(6:25) Lapho bemthola ngaphesheya komgwaqo echibini, bambuza bathi: “Rabi, ufike nini lapha na?”
+<br><br>
+(6:26) UJesu waphendula wathi: “Ngiqinisile, ngiqinisile ngithi kini: Ninjalo ningidinga, kungeyisikho ngoba nabona izibonakaliso zami kodwa ngenxa yokuthi ladla izinkwa, ladla ukugcwalisa kwakho.
+<br><br>
+(6:27) Ningasebenzeli ukudla okonakalayo, kodwa ukudla omi kuze kube-ngukuphila okuphakade, ekuthandayo iNdodana yomuntu ngikunike. Ngokuba uNkulunkulu uYise ubeke okwakhe phezu kwakhe uphawu lokuvunywa.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Leli vesi ligcizelela izinhlobo ezimbili zokudla: Okubolayo ukudla kanye nokudla Okungaboli. Abantu abaningi bafuna ukubhubha ukudla, njengoba kufanekiswa lapho isixuku sisondela kuJesu, simbuza, &ldquo;Ufike nini lapha?&rdquo; UJesu waphendula wathi: <strong>&ldquo;Awuyena ukufuna ukuhlakanipha kukaNkulunkulu; niyangifuna, niyethemba izinkwa.&rdquo;</strong>Wabuye wabaluleka, &ldquo;Ningakhandleki ukudla okonakalayo.&rdquo; Ukudla kwansuku zonke, okudliwayo, okugaywe, futhi yacekelwa phansi emahoreni amathathu, iwela esigabeni se ukudla okonakalayo. Ukugaya, empeleni, kuyinqubo ye ukubhujiswa, lapho konke ukudla okudliwe kuphulwa khona umgudu wokugaya ukudla bese uguqulwa ube yimfucuza, njengokusha izinkuni zibe umlotha.
+
+  Ngokuphambene, ukuhlakanipha umuntu akuthola ngokusebenzisa kwabo izindlebe, ezingena engqondweni yabo ngesimo samagama, kucatshangelwa ukudla okungaboli<strong>. Ukuhlakanipha kukaNkulunkulu kuwukuphela kokudla lokho ayikwazi ukuchithwa. Ukufunda noma ukuzwa ukuhlakanipha kukaNkulunkulu kufana nokudla g ukudla okungaboliyo kwengqondo</strong>. INdodana Yomuntu inikeza lokhu kudla okungenakubhubhiswa, okushiwo yivesi, <strong>&ldquo;Ngokuba uNkulunkulu uBaba ubeke uphawu lwakhe kuye imvume.&rdquo; </strong>&lsquo;Uphawu&rsquo; kusho ukwamukela noma isinqumo. UNkulunkulu, onakho wanquma, wathumela iNdodana Yakhe ezelwe ukuba yabelane ngokuhlakanipha Kwakhe. Igama &lsquo;uphawu lokuvunyelwa&rsquo; evesini lubonisa isinqumo sikaNkulunkulu noma imvume. Ku-Qur'an, kushiwo ukuthi uNkulunkulu akazange embule owakhe ukuhlakanipha kunoma yimuphi umuntu, eqokomisa ukuthi lowo onikeza ukuhlakanipha kukaNkulunkulu akayena umuntu ovamile. UNkulunkulu wakugomela lokho Ukuhlakanipha Kwakhe kwaziwa Nguye kuphela, okusho ukuthi INdodana ezelwe ezayo izokwembula ukuhlakanipha kukaNkulunkulu nguNkulunkulu Ngokwakhe. Inkulumo ethi &ldquo;iNdodana kaNkulunkulu&rdquo; ingase idukise abantu, kodwa lingaqondwa ngokuthi &lsquo;iNdodana&rsquo; okusho &ldquo;ukubonakala kukaNkulunkulu.&rdquo; UNkulunkulu, ekhetha ukungezi ngokuqondile njengoNkulunkulu ukuze akhulume nabantu, ethatha isithombe seNdodana. Le ncazelo ithola ukwesekwa evesini elilandelayo.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 103,
+verse: `  <b>(25)	IVangeli likaJohane, isahluko 6, ivesi 32. </b>`,
+meaning: ` <b>
+(6:32) UJesu wathi kubo: “Ngiqinisile, ngiqinisile ngithi kini: Akunjalo; uMose oninike isinkwa esivela ku-paraloka, kodwa nguBaba oninika isinkwa seqiniso esivela i-paraloka. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Evesini okukhulunywe ngalo, uJesu wathi, <strong>&ldquo;UMose akazange ngikunike isinkwa sokuhlakanipha esivela eParaloka.&rdquo; </strong>Lokhu kuphakamisa imibuzo: Ingabe i-Dharma Shastra efundiswa uMose ingamanga? Ingabe I-Dharma Shastra kaMose ayinakho ukuhlakanipha nama-dharmas? Uma kuthiwani UMose wafundisa akusona isinkwa seqiniso sikaNkulunkulu, kungani sibizwa I-Dharma Shastra kaMose? Le mibuzo iphendula imibuzo ehlukahlukene ukucatshangelwa. Ngakolunye uhlangothi, kungamanga ukusho ukuthi yini UMose wafundisa akuyona iDharma Shastra. Ngakolunye uhlangothi, kungokuvumelana nezwi likaNkulunkulu, kungagonyelwa ukuthi yini UMose wafundisa akuyona iDharma Shastra. Kunembile futhi lokho UMose akazange anikeze isinkwa esingaboli esivela eParaloka. Enjalo kuphakama imibuzo nokungabaza, okwenza kube nesidingo sezimpendulo ezifanele ukuqonda ukuhlakanipha kweqiniso kwaphezulu.
+
+  Umprofethi uMose waziwa kakhulu phakathi kwamaKristu, nokho AmaSulumane amaningi angase angaqapheli ukuthi igama elithi 'Mose' ku IBhayibheli laguqulwa laba &lsquo;uMusa&rsquo; ngaphezu kweminyaka eyi-1400. Kubalulekile uku qaphela ukuthi uMose noMusa ngempela igama elifanayo. Isitatimende sokuthi uMose akazange adlulise i-Dharma Shastra kube yiqiniso noma amanga, wethule ukudideka okuthakazelisayo nge isizathu esinamandla, esingaziwa. Lesi sambulo singabamangaza abanye futhi ubhekane nokungavumelani kwabanye, kodwa iqiniso lakho lihlala likhona ngaphandle kwemibono. Kuyiqiniso ukuthi umprofethi uMose yayikhona eminyakeni eyizinkulungwane ezimbalwa edlule. Cishe izinkulungwane ezinhlanu eminyakeni edlule, umprofethi uMose wabelana ngokuhlakanipha yena enomoya. Umprofethi, ngokwencazelo, ngumuntu ophanayo Ukuhlakanipha kukaNkulunkulu, futhi uMose wazuza lesi sikhundla ngoNkulunkulu imicabango kusukela esemncane. Lapho eneminyaka engu-20, u<strong>Bhagavan</strong>, owa wehlele emhlabeni, walungiselela uMose owokuqala umbhalo waphezulu, owaziwa ngokuthi <strong>&lsquo;iTaurath.&rsquo; </strong>UMose waqhubeka ehlanganyela ukuhlakanipha okukulowo mbhalo.
+
+  Njengoba yayisekelwe ku-dharmas, yaziwa ngokuthi UMose 'Dharma Shastra. UMose washona eneminyaka engu-54. Ngemva kokufa kukaMose, uBhagavan wangena emzimbeni wakhe futhi wahambisa dharmas uMose ayengakaze akhulume ngayo iminyaka eyisishiyagalolunye. Nakuba uBhagavan eshiya isidumbu sikaMose eneminyaka engu-63, leli qiniso kwasala kungaziwa, okwenza abantu bamkholelwe lowo Mprofethi UMose wayesephile iminyaka engu-63 futhi wafundisa i-dharmas ngokwakhe. Nakuba uNkulunkulu anikeza uMose umbhalo waphezulu, wamnikeza angamnikezi ngokuqondile ukuhlakanipha. Ngakho-ke, isitatimende, &ldquo;UMose akanikezwanga isinkwa esivela eParaloka, kuyiqiniso.Ukuhlakanipha okunikezwa ngomzimba kaMose nguNkulunkulu kwaziwa ngokuthi UMose 'Dharma Shastra. Kungakho leli vesi lithi, &ldquo;UBaba kaParaloka, uMoya oNgcwele, wanikeza isinkwa sangempela.&rdquo; KaMose Isikhathi sokuphila sangempela sasiyiminyaka engu-54, futhi akekho owayazi ukuthi uNkulunkulu wandisa ukuphila kukaMose kwaba iminyaka engu-63. Zonke lezi zimfihlakalo kucaciswe embhalweni wami, <strong>uKrishna Musa.</strong>
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 104,
+verse: ` <b>(26)	IVangeli likaJohane, isahluko 6, ivesi 46.</b>`,
+meaning: `<b>
+(6:46) Akakho oke wabona uBaba, kuphela lowo ivela kuNkulunkulu; nguye kuphela obone uBaba.. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ukuqonda leli vesi akuwona umsebenzi oyinselele. Phezu ukufunda iBhagavad-Gita, iBhayibheli, kanye neQur&rsquo;an kweyabo ngokuphelele, kuba sobala ukuthi amavesi kulezi zokugcina zaphezulu imibhalo inezincazelo ezicashile. Amavesi eQuran, ku ikakhulukazi, bamba ukujula okwedlula eminye imibhalo engcwele, okwenza izincazelo zabo zibe nzima kwabaningi. Ngenkathi amavesi ku IBhayibheli lingase libonakale liqondile, iqiniso lawo langempela kaningi ibalekela ukuqonda. Ngakho, uNkulunkulu unikeza ukuqonda okuphelele kwawo wonke amavesi ngathi.
+
+  UNkulunkulu, emelelwa njengoMoya oNgcwele, ukhona kokubili ngaphambili nangemva kokudalwa. UnguNkulunkulu oyinhloko. Ukubukeka kweqiniso noma ubunjalo bukaNkulunkulu buhlala bungaziwa kubantu. Kowamanqamu umbhalo waphezulu, i-Quran, uNkulunkulu oyinhloko ubizwa ngokuthi u-Allah, kanti uNkulunkulu wesibili, u-Atma, ubizwa nangokuthi u-Allah. Ngakho, I-Paramatma ingu-Allah wokuqala, futhi u-Atma ungu-Allah wesibili. Ku umbhalo waphezulu wesibili, iBhayibheli, Paramatma kuyinto eqokwe njengoNkulunkulu, futhi i-Atma iyisikhangiso egqoke njengoBaba. Ikona kubalulekile ukuqaphela ukuthi uMoya oNgcwele unguYise we-Atma, futhi u-Atma unguYise wabantu. I-Quran iqinisekisa lokho kokubili I-Paramatma ne-Atma zingoNkulunkulu, kuyilapho iBhayibheli lihlukanisa omunye njengoNkulunkulu omunye njengoBaba. Kubalulekile uku qonda ukuthi uYise wesintu ngu-Atma, kanye UBaba ka-Atma unguMoya oNgcwele. Leli vesi ligcizelela ukuthi cha Umuntu umbonile uBaba (Atma) futhi akazi lutho nge-Atma imvelo. <strong>Kodwa-ke, u-Atma nguyena kuphela ovela kuyo UNkulunkulu futhi ngenxa yalokho uye wafakaza ngoYise, oNgcwele Umoya. Ngokuphambene, uJeevatma akakaze abone eyakhe Baba, Atma.</strong>
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 105,
+verse: `<b>(27)	IVangeli likaJohane, isahluko 7, 37th kanye 38th amavesi.</b>`,
+meaning: ` <b>
+(7:37) Ngosuku lokugcina nolwedlulele lomkhosi, uJesu wema, wamemeza ngezwi elikhulu, wathi: “Lowo okhona makamyeke; owomile uze kimi, uphuze.
+<br><br>
+(7:38) Lowo okholwa kimi, njengoba nje umBhalo ushilo, kuyogeleza imifula yamanzi aphilayo phakathi kwabo.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Leli vesi linencazelo ecashile. Njengowomile nje ngokwemvelo umuntu ufuna amanzi, ukuphishekela abawafunayo ukuhlakanipha kufaniswa nokoma. Ivesi lithi<strong>, &ldquo;Noma ubani owomileyo ngokuba ukuhlakanipha kufanele kufike kimi, kucime ukoma kwabo.&rdquo; </strong>Lapho othile eza kuJesu futhi ethola ukuhlakanipha kwaphezulu, kufana nokwanelisa <strong>ukomela kwabo ukuhlakanipha </strong>okuvela kuJesu. Labo abakholelwa kuJesu bathola ukuhlakanipha okuphelele kwaphezulu, baba izinqolobane zokuhlakanipha nokwabelana ngakho nabanye. UJesu wamemezela ukuthi kuyogobhoza imifula yamanzi aphilayo phakathi bona. Kulo mongo, <strong>amanzi aphilayo afanekisela okwaphezulu ukuhlakanipha</strong>, okunikeza i-moksham (inkululeko) kubantu futhi uzigcina zisesimweni esiphakade. Ngakho-ke, kubhekiselwa kukuhlakanipha ukuze njengamanzi aphilayo. Njengoba nje abantu besuthisa ukoma kwabo okungokwenyama ukuphuza amanzi ngemilomo yabo, kufanele ngokufanayo <strong>bondla ingqondo yabo(buddhi) ngokuhlakanipha kwaphezulu ngokulalela ngezindlebe zabo.</strong></div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 106,
+verse: `<b>(28)	IVangeli likaJohane, isahluko 8, ivesi 12.</b>`,
+meaning: ` <b>
+(8:12) UJesu esephinda ekhuluma ebantwini, wathi: “Mina ngiwukukhanya kwezwe. Ongilandelayo uzongilandela ungahambi ebumnyameni, kodwa uyakuba nokukhanya kokuphila."  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  UNkulunkulu, owaziwa ngokuthi uMoya oNgcwele, wadala i-Atma ukuze ifeze Ukubusa Kwakhe nokusebenza ngabanye. Wamemezela ukuthi u-Atma ungowakhe wamnika amandla okwenza imisebenzi Yakhe. I-Atma wathola igunya lokuthatha ukuphila kwabantu, ekhipha isahlulelo ngokusekelwe ku-karma yabo kusukela ekuzalweni kwangaphambili, kanye nokwenza lula ukuzalwa kabusha kwabo. Endimeni yejaji, u-Atma wenza ngokuhambisana nge-karma yomuntu ngamunye. Ukuzibandakanya komuntu ku-karma ithonya imicabango yabo, futhi u-Atma, ephendula le karma, idlulisa ukungazi njengoba kufunwa abantu ngabanye. Ngenxa yalokho, kuphelile isikhathi, ama-adharma ayanda emhlabeni.
+
+  UMoya oNgcwele, noma uNkulunkulu, kumele abe sesimweni somuntu eMhlabeni isimo somuntu njenge-Bhagavan ukunqanda ama-adharma nokukhuthaza dharmas lapho ama-adharma evela ngenxa yezithakazelo zomuntu kanye Ukungazi okubangelwa i-Atma. Lapho uNkulunkulu ethatha isithombe sa umuntu, Ubizwa ngeBhagavan. Lesi simo somuntu sisifundisa ngokwaphezulu ukuhlakanipha ngaphandle kokuveza ubuyena Bakhe obungcwele, ezikhathini eziningi ebizwa ngokuthi iNdodana kaNkulunkulu, noNkulunkulu enguYise waKhe. Ngokwalo mbono, kukhona uNkulunkulu oyedwa, umdali, onamadodana amabili-enye njenge-Atma ehlala njalo ngaphakathi abantu kanti omunye uyiNdodana yesikhashana esesimweni somuntu. Nini iNdodana yokuqala (Atma) phakathi kwabantu yakha ama-adharma, iNdodana yesibili yesikhashana, esesimweni somuntu, idlulisela i-dharmas. Ngakho, munye kuphela uNkulunkulu onamadodana amabili. INdodana ngesimo sikaJesu wamemezela, <strong>&ldquo;Mina ngiwukukhanya kwezwe.&rdquo; </strong>Ukuhlakanipha kuguquka kube umlilo wokuhlakanipha (Gnana Shakti), ovuthayo kude ne-karma yomuntu. UJesu, efaka umlilo wokuhlakanipha, nguye ukukhanya kokuhlakanipha. Weza ukufundisa abantu ukuhlakanipha, futhi labo abalandela futhi baqonde ukuhlakanipha Kwakhe ngeke bahlale ukungazi kodwa ngokuhlakanipha. Ngakho, uJesu wathi, &ldquo;Noma ubani ongilandelayo akasoze ahamba ebumnyameni kodwa uyoba nokukhanya kwe impilo.&rdquo; UNkulunkulu kuphela, osesimweni somuntu, ongapha ukukhanya kokuhlakanipha, futhi amise dharmas.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 107,
+verse: `<b>(29)	IVangeli likaJohane, isahluko 8, ivesi 14.</b>`,
+meaning: `<b>
+(8:14) UJesu waphendula wathi: “Noma ngizifakaza ngokwami Ubufakazi bami buqinisile, ngokuba ngiyazi lapho ngafika khona ngisuka lalapho ngiya khona. Kodwa awazi lapho ngivela khona nalapho ngiya khona.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  UJesu, ekubonakaleni Kwakhe kwangaphandle, wayefana ne umuntu ojwayelekile ongenazo izici ezihlukile. Njengabantu ngabanye ukuhlala ngaphakathi kwemizimba eyenziwe ngePrakruti, yangaphandle ukubonakala kwazo zonke izidalwa kubonakala kufana. UJesu, futhi, wazethula njengomuntu ojwayelekile. Kukhona a esho phakathi kwabadala ukuthi akekho owaziyo ukuthi hlobo luni lwenyoka uhlala esidulini somuhlwa, udweba ukuhambisana ne imvelo engaqondakali ye-Jeeva ngaphakathi komzimba. Wonke uJeeva ozelwe ingena emzimbeni ivela endaweni ethile, iholwa izinqumo ye-Atma esekelwe ku-karma yayo. Ngemva kokuqeda i-karma futhi ukufa, i-Jeeva ingena emzimbeni omusha ngaphansi kokwahlulelwa I-Atma. Naphezu kokuhlala emzimbeni, iJeeva ihlala ingazi umsuka wako wokuzalwa okusha ngakunye. I-manas (ingqondo) ithi e isitho unesibopho sokukhumbula, kodwa, futhi, uyafa ngamunye ukuphila okudlulayo, okubangela ukulahlekelwa inkumbulo kusukela ekuzalweni kwangaphambili. Ngakho-ke, umuntu, uthi, eneminyaka engu-40, ukhumbula kuphela iminyaka engu-40 yokugcina yokuzalwa kwamanje hhayi eminingi edlule.
+
+  Le nqubo ayisebenzi kubantu kuphela kodwa futhi zonke izidalwa eziphilayo. Nakuba uJesu engase abonakale engumuntu ovamile indoda, kubalulekile ukucabangela ukuthi cyclical efanayo inqubo isebenza Kuye. UJesu wazalelwa kwa-Israyeli, okusho ukuthi Yena yavela kwenye indawo. Kodwa wayeyazi imvelaphi Yakhe, ethi, <strong>&ldquo;Ngiyazi lapho ngivela khona.&rdquo; </strong>Ngokungafani nezejwayelekile abantu abangazi ngokuzalwa kwabo okuzayo lapho befa, UJesu wayeyazi kahle indawo ayeya kuyo ngemva kokufa. Lokhu umehluko omkhulu phakathi kukaJesu nomuntu ojwayelekile omunye ukubuza ngobungqayizivele bukaJesu. Impendulo ethi lo mbuzo uphethe isihluthulelo sokuhlakanipha okungcono kakhulu, okuveza lokho UJesu wayengeyena umuntu ovamile kodwa wazalwa engumuntu oqondile inhloso.
+
+  Umuntu owazalwa enenjongo enqunyelwe ngaphambili ukuzalwa kubizwa ngokuthi "ukuzalwa ngesizathu." Akekho umuntu onalo inhloso enjalo ngaphambi kokuzalwa. Ngokuphambene, uNkulunkulu uzalwa ena- inhloso ethile yokusungula i-dharma Emhlabeni. UNkulunkulu kuphela, futhi hayi noma yimuphi umuntu, onekhono lokusungula i-dharma. uNkulunkulu ihlala ingunaphakade futhi ingaguquki, ayithinteki ngokuzalwa noma ukufa, ukugcina inkumbulo engaguquki. Lapho uNkulunkulu ethatha isimo somuntu Umhlaba ngesimo somuntu ozifihlile, udlulisela izimfundiso dharma, futhi uyahamba, Akatholi ukuzalwa kabusha ngemva kokufa, isiphetho esivamile kubantu abavamile. Ekufeni, imana yomuntu (ingqondo) iyachithwa, kepha uNkulunkulu akafi futhi akazalwa kwenye indawo. Uthatha ukuzifihla okuyingqayizivele njengomuntu, agcwalise Okwakhe inhloso, bese ebuyela emsuka Wakhe. Ngakho, evesini, UJesu wathi, <strong>&ldquo;Ngiyazi lapho ngiya khona,&rdquo; </strong>egcizelela ubukhona bukaNkulunkulu kanye nenjongo yakhe.
+
+  Abantu abanalo ulwazi lokuthi ukuphi noma imvelo kaNkulunkulu. Lapho uNkulunkulu ethatha isimo somuntu, imvelaphi Yakhe ihlala engaziwa. Ngokungafani nokuzalwa komuntu okuvamile, ukuzalwa kukaNkulunkulu kunjalo ezehlukene; Akaphinde azalwe kabusha kwenye indawo ngemva kokushona kwenye indawo. UNkulunkulu okhona yonke indawo, okhona ngisho nasezweni esibelethweni, uguqula isimo Sakhe futhi abonakale ezalwa njengomntwana. Njengoba uNkulunkulu ekhona lapho ezalelwa khona, kuba inselele ukukhomba umsuka Wakhe. Labo abangazi ukuthi uNkulunkulu ukhona abakhona yonke indawo bahlala benganakile ukuthi uJesu wavelaphi. Ngaphezu kwalokho, isiphetho sikaNkulunkulu ngemva kokuthatha okwehlukile ifomu alaziwa. Ngakho, evesini, uJesu wathi, <strong>&ldquo;Anazi ukuthi ngivelaphi nokuthi ngikuphi ehamba,&rdquo; </strong>egcizelela ubukhona bukaNkulunkulu obuyimfihlakalo kanye nokunyakaza.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 108,
+verse: `<b>(30)	IVangeli likaJohane, isahluko 8, ivesi 19.</b>`,
+meaning: `<b>
+(8:19) Khona-ke bambuza, “Uphi uYihlo na? “Anazi mina noma uBaba,” kuphendula uJesu. “Uma beningazi mina, beniyakumazi noBaba.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Ingabe uNkulunkulu ukhona? Uma Ekwenza, unjani? Ukuphi? Uma uyazazi izimpendulo zale mibuzo, uzoqonda ukuthi uBaba neNdodana bangobani. Munye kuphela uNkulunkulu, kodwa thina kufanele bazi lapho iNdodana yavela khona. Amagama 'Baba' kanye &lsquo;INdodana&rsquo; isetshenziswa kaningi eBhayibhelini. <strong>Umuntu kufanele aqonde ukuthi &lsquo;uBaba&rsquo; kusho uNkulunkulu; leli gama lalisetshenziselwa ukubhekisela kuNkulunkulu</strong><strong>eBhayibhelini. Ku-Qur'an, uNkulunkulu ubizwa ngokuthi 'Allah,' futhi IBhagavad-Gita, uNkulunkulu ubizwa ngokuthi &lsquo;iParamatma.&rsquo;</strong>Nakuba lawa mazwi ahlukile, wonke asho uNkulunkulu. Ingqikithi ye UNkulunkulu kufanele abonakale egameni elithi &lsquo;Baba.&rsquo; Lapho uJesu eqhubeka emhlabeni, abaFarisi bambuza ngoYise. UJesu waphendula wathi: <strong>&ldquo;Aningibonanga mina noBaba.&rdquo; </strong>AbaFarisi abazange buza ngoJesu, nakuba ayephambi kwabo. Bona wayefuna ukwazi ngoyise wenyama, engakuqapheli lokho Ubaba kaJesu wayenguNkulunkulu. Bangase bamangale lapho UJesu wakhuluma ngokuqondile ngaYe nangoYise. Bacabanga babebona uJesu mathupha futhi bamcela ukuba athole ngoyise ongaziwa. Khona-ke uJesu wathi: <strong>&ldquo;Anibonanga mina noma uBaba wami.&rdquo; </strong>Kudingeka siqonde incazelo yalokho izwi.
+
+  UYise kaJesu unguMoya oNgcwele. Atma, uMoya oNgcwele INdodana, ikhona kuyo yonke imizimba futhi ilawula ukusebenza kwayo. UMoya oNgcwele, obizwa ngokuthi uBaba, no-Atma, owaziwa ngokuthi Ndodana, bakhona njalo. UMoya oNgcwele, iParamatma, ungunaphakade futhi ukhona kusukela ngaphambi kokudalwa. Atma, uMoya oNgcwele INdodana, ibikhona kuyo yonke imizimba kusukela ngemva kokudalwa.
+
+  Ngaphandle kweNdodana yaphakade, u-Atma, uNkulunkulu (uMoya oNgcwele) unenye iNdodana ebizwa ngokuthi <strong>&lsquo;iNdodana ezelwe yodwa,&rsquo;</strong> yona ngezinye izikhathi ufika emhlabeni. Zikhona ezibalulekile umehluko phakathi kweNdodana ehlala njalo (Atma) kanye ne iNdodana yesikhashana (iNdodana ezelwe yodwa). Ngokwesibonelo, nini I-Atma iza nomzimba womuntu ojwayelekile, umzimba une- ahlukanise i-Jeevatma. Nakuba umzimba wonke ungoka-Atma, futhi i-Atma iyinhloko yomzimba, i-Jeevatma nayo ihlala ne-Atma emzimbeni futhi ucabanga ukuthi umzimba ungowami. Uma okwesikhashana Ndodana, incebi yodwa iNdodana ethandekayo, iza emhlabeni inomzimba, akukho Jeevatma kulowo mzimba. Emzimbeni womuntu ojwayelekile, UNkulunkulu no-Atma bahlukile. I-Atma yenza yonke imisebenzi kulokho umzimba, futhi uNkulunkulu akasebenzi. Kodwa eNdodaneni ezelwe yodwa umzimba, iParamatma (uNkulunkulu) ihlala njenge-Atma futhi yenza imisebenzi kuyo Ifomu le-Atma. Ngoba akukho Jeevatma kozelwe yedwa Umzimba weNdodana, lowo osebenza njengo-Atma naye usebenza njengoJeevatma. Nakuba osemzimbeni weNdodana ezelwe yodwa nguNkulunkulu, Yena uzenza iJeevatma. <strong>Owafika ezifihla ngokuthi iNdodana ezelwe yodwa nguMoya oNgcwele (uNkulunkulu). UNkulunkulu unjalo ukwenza njengoJeevatma</strong>. Kunomehluko omningi phakathi INdodana kaNkulunkulu yaphakade kanye neNdodana yesikhashana.
+
+  Kungashiwo ukuthi abantu abaningi abazi ukuthi uNkulunkulu uneNdodana engunaphakade neNdodana ezelwe yodwa ezayo ngezikhathi ezithile. Ngokuzuza ukuhlakanipha, umuntu angaqonda ubukhona bokuhlakanipha kuka-Atma no-Atma, kodwa ukuqaphela okuwukuphela kwayo iNdodana ezelwe iyinselele. Ukukhomba iNdodana ezelwe yodwa phakathi kwabantu abaningi kunzima. Ngakho-ke, akekho wakhomba iNdodana ezelwe yodwa eyafika eTreta Yuga, Dvapara Yuga, Kali Yuga. Nakuba uJesu kwakunguye yedwa iNdodana kaNkulunkulu ezelwe eKali Yuga, abantu abakwazanga baMqaphele njengeNdodana yesibili kaNkulunkulu. Naphezu Kwakhe isimemezelo sokuba yiNdodana kaNkulunkulu, abantu abakwazanga ukukukhomba Wamfaka ekuthukweni nasekuhlushweni okuningi. Abantu behlulekile ukubona labo abeza eDvapara Yuga naseKali Yuga njengeNdodana kaNkulunkulu, nakuba bathi, &ldquo;Mina nginguye iNdodana kaNkulunkulu.&rdquo; Ngiyangabaza ukuqinisekisa ukuthi lowo ongene eTreta U-Yuga wayeyiNdodana kaNkulunkulu. Ngalolo suku, uNkulunkulu Uqobo Lwakhe wangena uzifihle njengeNdodana futhi wanikeza ukuhlakanipha emhlabeni. Ngisho nakuba Ayaziwa njenge-gnani enkulu futhi efundisa ukuhlakanipha, Ingiyangabaza futhi ukusho ukuthi WayenguBhagavan ngoba Wayenjalo evezwe njengomuntu omubi phakathi kwabantu. Nokho, angesabi ukuthi, <strong>&ldquo;uRavana Brahma uyiNdodana ezelwe yodwa.&rdquo;</strong>
+
+  E-Dvapara Yuga, u-Krishna weza njengo-Bhagavan. Kokubili UBhagavan kanye neNdodana ezelwe yodwa bayafana. Nokho, ngenxa yokuthi uKrishna wayevezwe njengobuqili, abantu abaningi banjalo namanje ababazi ubukhulu Bakhe nanamuhla. Nakuba uNkulunkulu engenile wazifihla njengomuntu futhi wafundisa i-dharmas yaphezulu, abantu abazange gxila ekuhlakanipheni akunikezile; kunalokho, ikakhulukazi wahlolisisa ukuziphatha Kwakhe ngaleso sikhathi. Abambalwa kuphela, ngaphandle izigidi, waqaphela ukuhlakanipha Kwakhe futhi wamemezela ukuthi uKrishna wayenjalo UNkulunkulu, kodwa iningi lakhuluma kabi Ngaye. Labo ababekhona engazi ngokuzalwa kukaKrishna eDvapara Yuga wayithola kuyinselele yokwamukela uJesu njengeNdodana kaNkulunkulu eKali I-Yuga. Ngoba uKrishna noJesu babekulindele lokho abantu bangakwazi ukuhlakanipha ababekufundisa, bobabili bathi, <strong>&ldquo;SingoNkulunkulu,&rdquo;</strong>ngokwengqikithi yamazwi abo, bekholelwa lokho abantu bangakubona ukuhlakanipha kwabo ngokwenza kanjalo. Ngokufanayo, UJesu wathi: <strong>&ldquo;Anazi mina noma uBaba.&rdquo;</strong> ngenhloso yokwenza abantu babone ukuthi uNkulunkulu noJesu yibona okufanayo.
+
+  Labo abathi bazinikele kuNkulunkulu bavame ukukhuluma ngokubhuqa lapho behlangana nabanye abanokuningi ukuhlakanipha kunabo. AbaFarisi bakhuluma loJesu labanye isimo sengqondo esifanayo. Ukwazi ukuthi uJesu wazalwa nguMariya ngaphandle kwe uyise, bambuza bathi: &ldquo;Uphi uyihlo na?&rdquo; UJesu baqonda ukuthi babemklolodela futhi bengaceli kanye ukuzinikela. Waphendula ngempendulo emangazayo, <strong>&ldquo;Uyayenza kabangazi mina loba uBaba.&rdquo;</strong> Labo abaqonda baKhe amazwi ngendlela efanele bayoqonda ukuthi uJesu obonakalayo kanye uNkulunkulu ongabonakali uyefana. UJesu futhi wathi, <strong>&ldquo;Uma ukholwa beningazi mina, beniyakumazi noBaba.&rdquo; </strong>Nokho, kungaba kuthiwa labo abezwa amazwi Akhe abazange baqonde lokho Ayekusho. Ukube bebewuqondisile umlayezo waKhe. babeyobona ukuthi uJesu wayengubani ngalolo suku. Bona ngabe ubonile ukuthi ubengeyena umuntu ojwayelekile. Noma kunjalo Amazwi kaJesu, bamphatha njengokungathi ungumuntu ojwayelekile. Kubonakala sengathi babengazi lutho oluphawulekayo ngoJesu.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 109,
+verse: `  <b>(31)	IVangeli likaJohane, isahluko 8, ivesi 21.</b>`,
+meaning: ` <b>
+(8:21) UJesu waphinda wathi kubo: “Ngiyamuka; futhi niyongifuna, futhi niyofela esonweni senu. Lapho ngiya khona, ningeze nina." </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  UJesu wakhuluma amazwi amaningi ukuze atshele abantu Yena uqobo, namagama angenhla ayisibonelo esisodwa. <strong>"Ngiyahamba khatshana, njalo lizangidinga. Lapho ngiya khona, wena angeke eze,&rdquo; </strong>kusho uJesu kubantu. Empeleni, lokhu Ivesi lingase lingabonakali lijulile. Lapho umuntu iya ndawana thize ngaphandle kokwazisa abanye, asazi lapho beye khona, futhi noma sicinga, singase singabikho ngikwazi ukuzithola. Ukushoda kolwazi kusho ukuthi thina abakwazi ukuya lapho beye khona. Ungase uzibuze ukuthi yini ukuhlakanipha kutholakala kulokhu okwenzekayo. Ake sikubheke kusuka elinye i-engeli. Ebusheni bethu, sasivame ukudlala umdlalo othi &lsquo;Isela kanye namaPhoyisa.&rsquo; Kulo mdlalo, isela liyacasha, futhi ngemva kwemizuzwana embalwa imizuzu, amaphoyisa aqala ukucinga ukubamba. Ukuze ubambe isela, amaphoyisa kufanele aye lapho isela lihlala khona ding. Uma amaphoyisa engakwazi ukufinyelela lapho ecashe khona, awakwazi ukuyithola isela ngisho nangemva kokucinga kwenye indawo. Ngolunye usuku, lapho ngineminyaka eyishumi, siwudlalile lo mdlalo. Mina ngangiyisela, abanye babengabo amaphoyisa. Ngaphambi kokuba ngicashe, ngathi, &ldquo;Ngiyahamba, kodwa anikwazi ukungithola mina.&rdquo; Baphendula ngokuzethemba, &ldquo;Sizokuthola emizuzwini eyishumi.&rdquo; Ngabe senginezela, &ldquo;Lapho ngiya khona, ningeze nina,&rdquo; ngacasha kusuka kubo.
+
+  Ngemva kwemizuzu emibili, amaphoyisa aqala ukujaha kodwa akwazi ungangitholi isigamu sehora. Naphezu kokusesha zonke izindawo, abakwazanga ukufinyelela lapho bengicashe khona. Ngalolo suku, ngangihlezi ekamelweni le-pooja endlini yami, futhi ngase ngivale iminyango. Iabanye bedlala njengamaphoyisa basesha yonke indawo, kuhlanganise nabakwa- endlini engangicashe kuyo, kodwa abazange beze epooja ngoba iminyango yayivaliwe, futhi abazange bafune ngaphakathi. Ekuqaleni, ngangicabanga ukuthi akukho okukhethekile kulokhu okungenhla ivesi, njengoba lalifana nomdlalo othi &lsquo;Isela Namaphoyisa.&rsquo; Nokho, Kamuva ngabona ukuthi inkulumo ethi <strong>&ldquo;Uyofela esonweni sakho&rdquo;</strong> encwadini ivesi linencazelo ebalulekile. Nakuba kwakufana nomdlalo, Ngathola ukuthi iqukethe ukuhlakanipha okujulile. Ngase ngizama ekuqondeni okuphelele kwencazelo yalokhu izwi. Nakhu elikushoyo.
+
+  UJesu wabonakala kubo bonke abantu emhlabeni isikhathi esithile, kodwa ngeshwa, akekho owakholwa Kuye. Naphezu kokudlala izimangaliso eziningi ukufakazela ukuthi wayengeyena umuntu ojwayelekile&mdash;okwenza izimpumputhe zibone, izinyonga zihambe, zelapha uchoko, ngisho nokubuyisela abafileyo ekuphileni ukuze babonise Amandla akhe okuthethelela izono&mdash;abantu abakwazanga ukubona iqiniso Lakhe ubukhulu. Ngisho nalabo ababengamazi uJesu ngesikhathi Sakhe ukuphila kwabo kwakuzomfuna kamuva, befuna ukukhululeka kubo ukuhlupheka. Nokho, ngeke kube nenzuzo ekufuneni Naye uma esehambile, njengoba engeke abonakale kunoma ubani. Abantu abafela ezonweni zabo ngeke bathethelelwe nguJesu, njengoba abazi ukuthi wayaphi. Noma ngabe abaphikayo UJesu ngesikhathi sokuphila Kwakhe kamuva uyamamukela njengoNkulunkulu, wabo izono aziyikuthethelelwa. UJesu wayezibikezele zonke lezi zinto abantu kusengaphambili. Lapho uJesu ethi, <strong>&ldquo;Ngiyahamba,&rdquo; </strong>cha omunye wamcela ukuthi ahlale isikhathi eside. Kunalokho, abantu bammemeza ukubethelwa, okuholela ekufeni Kwakhe esiphambanweni.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 110,
+verse: `<b>(32)	IVangeli likaJohane, isahluko 8, amavesi 23 kanye 24.</b>`,
+meaning: `<b>
+(8:23) Kodwa waqhubeka, “Nina ningabaphansi; Nginguye kusuka phezulu. Nina ningabakalumhlaba; Mina angiyena owalokhu umhlaba.
+<br><br>
+(8:24) Nganitshela ukuthi niyakufela ezonweni zenu; uma u ningakholwa ukuthi mina nginguye, nizofela kini izono.”  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kula mavesi amabili, ivesi 24 libonakala lifana ne Ivesi 21, kodwa ivesi 23 lihlukile. UJesu wanika abantu ithuba lesibili lokubona ukuthi Wayengeyena umuntu ojwayelekile wathi: &ldquo;Nina ningabaphansi; ngivela phezulu. Ungowalokhu umhlaba; mina angisiye owaleli zwe. Leli vesi lihlukaniswe kabili izingxenye: eyokuqala ithi &ldquo;Nina ningabaphansi; ngingowaphezulu,&rdquo; owesibili uthi: &ldquo;Nina ningabalelizwe; Mina angiyena owalokhu emhlabeni.&rdquo; Ngokusekelwe engxenyeni yokuqala yevesi, &ldquo;Nina nivela ngezansi; mina ngingowaphezulu,&rdquo; kube nezinhlobo ezimbili zabantu kusukela ku-Kruta Yuga - abantu abaphansi kanye nabantu abaphezulu. Kunesizathu ngemuva kokuthi la magama amabili - aphansi futhi phezulu - kwaba khona. Bahlukaniswa kanje abantu ezigabeni eziphansi neziphezulu.
+
+  Ubudala bukaKruta Yuga buhlanganisa iminyaka eyi-1,728,000. Ngesikhathi se Eminyakeni eyinkulungwane yokuqala kaKruta Yuga, kwavela izizwe ezimbili phakathi abantu - ama-gnanis (labo abanobuhlakani) nabangenalwazi. Kwakukhona ama-gnani ambalwa kakhulu eMhlabeni ngaleso sikhathi, kuyilapho abangenalwazi babengenakubalwa. Kuleyo yuga, inani labantu emhlabeni babengaba izigidi ezingu-30 kuphela, kanti amaNdiya ayengekho ezingaphezu kuka-300,000. ILanga lehlela eMhlabeni futhi wadlulisela ukuhlakanipha kwaphezulu kumuntu ogama lakhe linguManu. Ababili kuphela noma abantu abathathu bafunda ukuhlakanipha ngokuqondile kuManu, kanye bonke abanye abantu babebahlonipha kakhulu la ma-gnani, befunda ukuhlakanipha kwaphezulu okuvela kubo. Ngalezo zinsuku, abantu babebamba gnanis ngokuhlonishwa okukhulu, okubenza bahlale esihlalweni esiphezulu ngenkathi bona bahlala phansi, belalela ukuhlakanipha. Bekuyi ngokwesiko ukuthi abantu banikeze isihlalo esiphezulu ku-gurus futhi bahlale kuso phansi. Ngokusekelwe kulokhu, uJesu wathi, &ldquo;Nina ningabaphansi; Nginguye kusuka phezulu.&rdquo; Lokhu kusho ukuthi<strong>, &ldquo;Nginguthisha wakho (iGuru) kini konke.&rdquo;</strong>
+
+  Kwakuvamile ukuthi othisha bahlale esihlalweni esiphezulu kuyilapho abantu abafuna ukuhlakanipha behlezi phansi. Othisha ejwayele ukudlulisela kubantu ukuthi bangaphansi kothisha ababengaphezu kwabo. Abafundisi abanikeza okwaphezulu ukuhlakanipha kwaziwa ngokuthi othisha bakaBrahma Vidya. 'Brahma' lisho okukhulu, futhi elithi &lsquo;Brahma Vidya&rsquo; lisho ukufundisa okukhulu. Iothisha abanolwazi lweBrahma Vidya babe ebizwa ngokuthi ama-Brahmins. Ngalezo zinsuku, amaBrahmin ayesho othisha. Kuphela othisha ababili noma abathathu kulo lonke elaseNdiya babebizwa ngokuthi Brahmins. Lawo ma-Brahmin ayejwayele ukuhlukanisa ingxenye esele abantu &lsquo;njengabantu abaphansi.&rsquo; Bonke labo ababentula ukuhlakanipha babenjalo abaqokwe &lsquo;njengabantu abaphansi.&rsquo; Ngalendlela, lonke izwe lalinakho &lsquo;abantu abaphansi.&rsquo; Ngemva kwesikhathi esithile, isimiso sokuhlukaniswa kwezigaba saqala ukusekela kulesi sigaba. Njengoba uhlelo lwezigaba luqala, labo ababe wayazi ukuthi uBrahma Vidya waqala ukuthi, "SingamaBrahmins." Ngokufanayo, labo ababengazi babebhalwe ukuthi &ldquo;Ungaphansi kwethu (Maadiguva vaaru ngesiTelugu). Ngakho, izizwe ezimbili - <strong>engenhla (Eguvavaru ngesiTelugu) kanye nephansi (Diguva</strong><strong> varu in I-Telugu) </strong>- yakhiwe. Nakuba igama elithi &lsquo;phansi (Maa Diguva vaaru)&rsquo; ikhona nanamuhla, abantu bangase bangawuqondi ngokugcwele umlando wayo incazelo. Ngokuhamba kwesikhathi, igama elithi 'Maa diguva vaaru' lashintsha esigabeni sikaMadiga (isigaba esihleliwe), osekubalwa manje njengomuntu ophansi.
+
+  Lapho uhlelo lwezigaba luqala, kwakukhona ezimbili izinhlaka&mdash;amaBrahmin namaMadiga (Isigaba Esihleliwe). Igama elithi &lsquo;Madiga&rsquo; ekuqaleni lalisetshenziselwa ukubhekisela kulabo ababekhona bebhekwa njengabangenalwazi nabantula ukuhlakanipha. Nokho, ngokuhamba kwesikhathi, ngisho naphakathi kwalabo abaswele ukuhlakanipha, izigaba eziningi kwavela, futhi labo abasala bengahlukaniswanga babesaqhubeka ebhalwe ukuthi Madiga. Uma sibheka emuva emlandweni, uMadiga wayengekho ekuqaleni uhlaka kodwa kunalokho igama elinikezwa abangenalwazi abafundisi ababili noma abathathu. Ngokusekelwe kulokhu, abantu abavela kuzo zonke izinhlaka abangenakuhlakanipha bangabizwa ngoMadiga. Abantu bahlukene phakathi izinhlaka ngenxa yomlando ongaziwa. Kuwukungalungi nokungazi ukwenza bhala abantu abasele ngoMadiga. Eminyakeni engaphezu kuka-2 000 edlule, UJesu futhi wasebenzisa igama elithi &lsquo;phezulu&rsquo; ( Eguva varu ) nelithi &lsquo;phansi&rsquo; (Diguva varu). Wathi, <strong>&ldquo;Nina ningabaphansi; ngisuka phezulu,&rdquo;</strong> ebhekise kwabangazi. Kufanele kuqondwe lokho Igama elithi &lsquo;phezulu&rsquo; nelithi &lsquo;phansi&rsquo; asetshenziselwa ukukhombisa ukuthi, &ldquo;I am a gnani, futhi aninalwazi.&rdquo;
+
+  Igama likaJesu lesibili lithi, &ldquo;Nina ningabalelizwe; angisiye owa lo mhlaba.&rdquo; &lsquo;Loka&rsquo; (Umhlaba) ngesiTelugu kusho &lsquo;ukuba nolwazi.&rsquo; Kunezinhlobo ezimbili zabantu ezisuselwa kokuhlangenwe nakho kwazo babe. Labo abanokuhlangenwe nakho bangabomhlaba, nalabo ngaphandle kokuhlangenwe nakho akukona okwaleli zwe. Okuvamile abantu bajabulela konke okuhlangenwe nakho emhlabeni, ngakho bangabo abahlali balo mhlaba. UJesu, ongenakho isipiliyoni, wathi Wayengeyena owaleli zwe. Nakuba Yena ubukeka njengomuntu, akanakho okuhlangenwe nakho njengendoda. Ngisho noma uJesu esemzimbeni womuntu, akayona i-Jeevatma efana abanye. Uma engeyena i-Jeevatma, ayikho i-karma. Ngakho, Akanalo ulwazi olusekelwe ku-karma. I-Paramatma ngokukhethekile wathumela uJesu. Ngamanye amazwi, uMoya oNgcwele wangena uzifihle njengoJesu. Ngokusho kwe-dharma engokomoya, akufanele usho lokho. I-Paramatma idalwe futhi yathumela uJesu ngokukhethekile. Ngakho-ke, uJesu kufanele abizwe ngeNdodana kaMoya oNgcwele. Njengoba UJesu akayona iJeevatma, kungathiwa akanayo okuhlangenwe nakho. Ukube uJesu ubeyiJeevatma, bekungafanele abizwe iNdodana kaMoya oNgcwele. UJeevatma uyiNdodana ka-Atma. I-Atma UBaba unguMoya oNgcwele. Ngakho-ke, i-Jeevatma iba yimzukulu kaMoya oNgcwele. UJesu ubizwa ngokuthi indodana kaNkulunkulu ngoba Uthunywe nguNkulunkulu. UJesu naye wayebizwa ngokusobala ngokuthi iNdodana ezelwe yodwa. U-Atma uyiNdodana kaMoya oNgcwele. Okuodwa iNdodana ezelwe iyiNdodana yesikhashana eyehlela phezu kwe umhlaba oswele. Ngakho-ke, iNdodana yesikhashana iba iNdodana kaMoya oNgcwele njengo-Atma futhi ngeke abe umzukulu njengaye I-Jeevatma. U-Jeevatma uthola ulwazi. Ngakho-ke, uJeevatma, onakho okuhlangenwe nakho, kuvela kulo mhlaba. UJesu, njengo-Atma, ongakwenzi abe nakho, akusilo okwaleli zwe. Ungowase Paraloka.
+
+  UJesu wanika abantu ithuba lesibili lokumazi njengendoda engavamile futhi wacaphuna la mavesi (Johane 8:23; 24). Nokho, abantu abakwazanga ukubona ubukhulu bukaJesu futhi wayeMthatha njengomuntu ojwayelekile. Ngakho-ke, ngeke babe bakhululwe ezonweni zabo ngoJesu noma ngezimfundiso Zakhe. UJesu, iNdodana kaMoya oNgcwele, weza phakathi kwabantu futhi wakhuluma amazwi amaningi kubo azenze Aziwe. Wakuphinda okwesibili lokho labo ababengenakumthola futhi bakholwe Kuye babeyofela ezinhliziyweni zabo izono, njengoba eshilo ekuqaleni kuJohane 8:21. Wanikeza ithuba lesithathu ngokukhuluma amazwi Akhe okugcina. UJesu waphinda amasethi amathathu amavesi ukusiza abantu ukuthi baMbone. Waxwayisa ukuthi labo abangamqapheliyo babengeke bathethelelwe izono zabo. Ake sihlole iqoqo lesithathu lamavesi ukuze sibone ukuthi Yena kusho.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 111,
+verse: `<b>(33)	IVangeli likaJohane, isahluko 8, ivesi 24.</b>`,
+meaning: `<b>
+(8:24) Nganitshela ukuthi niyakufela ezonweni zenu; uma u ningakholwa ukuthi mina nginguye, nizofela kini izono.
+</b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kuyaziwa ukuthi leli vesi linikeze ithuba lesithathu wazi ukuthi uJesu wayengubani. Kuleli vesi, uJesu watshela umphakathi ngokuqondile Wayengubani. Wathi: <strong>&ldquo;Labo abangakholwa ukuthi nginguye uMoya oNgcwele, futhi uMdali uyofela esonweni sabo.&rdquo; </strong>UJesu Yena uqobo wamemezela ukuthi Wayengubani. Ekuqaleni, Wathi, <strong>&ldquo;Ngizohamba; anikwazi ukuza endaweni engiye khona,&rdquo;</strong> ukunikeza bathole ithuba lokuMqonda. Kweyesibili ivesi, Wathi, <strong>&ldquo;Nina ningabalelizwe ; angisiye owalumhlaba,&rdquo;</strong> ukunikeza imininingwane eyengeziwe ukubasiza baqonde ukuthi Wayengubani. Kungaqondwa ukuthi uJesu unguMoya oNgcwele ovela ku ivesi lesibili. Evesini lesithathu, Wathi, <strong>&ldquo;Owenzayo ningakholwa ukuthi nginguye, akanakuphuma esonweni,&rdquo;</strong> enikeza ukucaca okukhulu. Evesini lesithathu, uJesu wathi, <strong>&ldquo; nginguNkulunkulu.&rdquo; </strong>Naphezu kwalokhu, abantu baqaphela uJesu njengomuntu ovamile umuntu futhi abakwazanga ukubona ukuthi WayenguNkulunkulu. Nokho, abanye bamangala ngamazwi kaJesu. Nakuba abazange bakholwe, bambuza ukuthi Ungubani. UJesu waphendula esebenzisa lamavesi amathathu ( Johane 8:21, 22, 23 ) ukuze abasize baqonde ukuthi Wayengeyena umuntu ojwayelekile. Noma kunjalo, abazange wakubona lokhu futhi wabuza, &ldquo;Ungubani na?&rdquo; UJesu waphendula, <strong>&ldquo;Yini nje Kade ngikutshela kwasekuqaleni.&rdquo;</strong>
+
+  Ngaphezu kwalokho, Wathi, &ldquo;Lowo ongithumileyo uthembekile, futhi lokho engikuzwile kuye ngikutshela umhlaba. Nokho, abantu wayengazi ukuthi wayekhuluma ngoYise (oNgcwele Umoya). Nakuba Asho okuningi, abantu abazange baqaphele uJesu. Abanye babemphatha njengomuntu ojwayelekile, kanti abanye wamphatha kabi kunomuntu ojwayelekile. UJesu washo okuthile okunye ngalabo bantu.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 112,
+verse: ` <b>(34)	IVangeli likaJohane, isahluko 8, ivesi 28.</b>`,
+meaning: ` <b>
+(8:28) Ngakho, uJesu wathi, “Lapho seniyiphakamisile iNdodana koMuntu, khona niyokwazi ukuthi nginguye nokuthi nginguye lutho ngokwami, kodwa ngikhulume lokho uBaba anakho wangifundisa. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kukhona ukudideka okuthile kuleli vesi mayelana amazwi athi, <strong>&ldquo;Uyiphakamisile iNdodana yomuntu.&rdquo; </strong>Omunye angeke qonda umusho. Ukuze uhumushe lesi sisho ngendlela efanele, eyodwa kufanele ifundeke ngokuthi &ldquo;Lapho abantu bephakamisa uJesu phezu kwamakhanda abo&rdquo; esikhundleni sokuthi &ldquo;Lapho usuphakamise uJesu.&rdquo; Abanye bangase babuze, &ldquo;Kungani ingabe abantu bazomphakamisa uJesu phezu kwamakhanda abo?&rdquo; Impendulo ithi ukuthi <strong>uJesu aqondwe ngekhanda </strong>eliphelile umzimba wethu. Lowo oqonda uJesu <strong>ngobuhlakani bakhe</strong><strong>(uBuddhi)</strong> uzokwazi ukuthi uJesu unguMoya oNgcwele. Ngaphezu kwalokho, leli vesi lembula ukuthi ukuhlakanipha kwaphezulu okufundiswa uJesu akusikho okwakhe; kunalokho, Ufundisa njengoba eqondiswa Umoya Oyincwele.
+
+  Esikhundleni sokusho ukuthi abantu kufanele baqonde uJesu ngobhuda ekhanda, ivesi lithi abantu banayo wamphakamisa uJesu. Kuyaziwa ukuthi uJesu uyiParamatma (UMoya oNgcwele) uma umuntu emqonda <strong>ngebuddhi</strong> ku umzimba. Uma nje abantu bengakaqondi ukuthi uJesu unguNkulunkulu, <strong>&ldquo;Izono zabantu azithethelelwa, futhi bayafa isono sabo,&rdquo; </strong>njengoba kushiwo emavesini amathathu adlule. Uma bona qonda njengoba uJesu asho, kuyaziwa ukuthi uJesu unguNkulunkulu. Imfihlo ukuthi uMoya oNgcwele uba sesimweni somuntu ukuze afundise Owakhe ukuhlakanipha kuyembulwa. Lapho kufundwa ukuthi uJesu unguNkulunkulu, abanye bangase bacabange ukuthi uJesu ngokwakhe usho konke ukuhlakanipha lokho UJesu uyakhuluma. Nokho, akunakwenzeka ukusho njengoba abanye abantu cabanga. Isizathu ukuthi emva kokuthi, <strong>&ldquo;Nginguye,&rdquo; </strong>Wakhuluma elinye igama.
+
+  UJesu wathi: <strong>&ldquo;Angenzi lutho ngokwami, kodwa ngikhuluma nje lokho uBaba angifundise khona.&rdquo; </strong>Lokhu kungase kudale umbono wokuthi uBaba noJesu bahlukene.
+
+  Isizathu sokuyiveza ngezindlela ezimbili sisuka ku-iqiniso lokuthi uJesu wayengumuntu. UNkulunkulu, esimweni Sakhe sangempela, akabonakali futhi ihlanganisa amandla. Lapho uNkulunkulu ethatha isimo somuntu, futhi uma Umuntu ngamunye ubona leli qiniso ngobuhlakani (buddhi), bona uzoqonda ukuthi uMoya oNgcwele noJesu bamunye futhi okufanayo. Nokho, lapho uNkulunkulu ethatha isimo somuntu, kuphambene umthetho kamoya ukuze ukuzalwa komuntu kumemezele ngokusobala, &ldquo;NginguNkulunkulu.&rdquo; Ngisho noma umuntu engabona umuntu obonakalayo njengoNkulunkulu, lokhu iqiniso akufanele lembulwe obala <strong>ngokomthetho kamoya. </strong>Ngemva kwalomthetho ongokomoya, uJesu wathi, <strong>&ldquo;Angenzi lutho kimi kodwa nikhulume lokho uBaba angifundisile ngakho,&rdquo; </strong>ukubambelela ezimisweni zomthetho kamoya.
+
+  UJesu wathi: &ldquo;Ngikhuluma lokho uBaba akushilo.&rdquo; Kokubili imishwana &mdash; &ldquo;Angenzi lutho ngokwami&rdquo; nokuthi &ldquo;UNkulunkulu uyakwenza konke'&rdquo; &mdash; kusho into efanayo. Lapho abantu beqaphela ukuthi uJesu unguMoya oNgcwele, bazothethelelwa izono zabo. Ngenkathi kunjalo kuwukuhlakanipha ukuqonda ukuthi uJesu unguMoya oNgcwele, kungokomoya akulungile ukusho ukuthi uMoya oNgcwele nguJesu. Ngakho-ke, uJesu Yena uqobo wathi, <strong>&ldquo;Nize nazi ukuthi nginguNkulunkulu, izona zenu ngingathethelelwa,&rdquo; </strong>futhi &ldquo;<strong>Nginguye,&rdquo; </strong>ukuze abantu benze kanjalo baqonde ukuthi uJesu wayengubani. Ngokomthetho womoya, Yena ekugcineni wathi, &ldquo;Ngenza konke uBaba angitshele kona yenzani.&rdquo; Ngakho-ke, umuntu akufanele acabange ukuthi uJesu wakhuluma kabili izindlela evesini. Nakuba kulotshiwe evesini ukuthi &ldquo;Nginguye UNkulunkulu&rdquo; nelithi &ldquo;Ngenza lokho uNkulunkulu akushoyo,&rdquo; womabili asho okufanayo incazelo. Omunye angase acabange ukuthi uJesu wakhuluma izinto eziphikisanayo uma lokhu kungaqondakali. Umuntu oqonda ukuhlakanipha angakwazi qaphela ukuthi uNkulunkulu uza njengomuntu kodwa akufanele akumemezele lokho umuntu othize nguNkulunkulu. Ngakho-ke, noJesu wathi, &ldquo;Nginguye UNkulunkulu&rdquo; kwelinye igama futhi &ldquo;uBaba wami unguNkulunkulu&rdquo; kwelinye. Zombili zikhona iqiniso. Ngaphezu kwalokho, uJesu washo okulandelayo ku abantu.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 113,
+verse: `<b>(35)	IVangeli likaJohane, isahluko 8, ivesi 29.</b>`,
+meaning: ` <b>
+(8:29) Lowo ongithumileyo unami; Akahambanga mina ngedwa, ngokuba ngenza njalo okuthokozisayo.   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Leli vesi kuthiwa libonisa ukuthi uJesu noMoya oNgcwele ziyafana. Ukuze asekele lokhu, uJesu wathi, “Lowo ongithumileyo unami.” Lokhu kusho ukuthi uNkulunkulu owathuma uJesu kuye nokuthi uMoya oNgcwele noJesu bayafana. Nakhu into ebizwa ngokuthi 'Intando' emzimbeni womuntu. UJesu wathi Yena ngaso sonke isikhathi uzokwenza izinto ngokwentando kaNkulunkulu. Kokwehlukile ngendlela, Wathi intando kaNkulunkulu isebenza Kuye. Kuwubufakazi eqinisweni lokuthi uNkulunkulu ukuJesu. UJesu futhi wathi oNgcwele UMoya wayengamshiyanga yedwa. Kunjengokungathi uJesu uthe uNkulunkulu ukhona kanye naYe nokuthi uNkulunkulu kwakunguYe. UJesu ngokwakhe wakhuluma lezi amazwi okumazi njengoNkulunkulu. Nakuba uNkulunkulu weza ‘njengoJesu’ eKali Yuga, abantu babengamazi. Ngakho-ke, kwadingeka ukuba uJesu akhulume la mazwi ukuze abone ukuthi Owakhe ubukhulu. Ngaphandle kwalokho, abantu bebengeke bakuqonde ukuhlakanipha kukaJesu. Lapho uJesu ekhuluma la mavesi, abanye abantu bamkholwa.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 114,
+verse: ` <b>(36)IVangeli likaJohane, isahluko 8, 53 kanye no-54 amavesi.</b>`,
+meaning: ` <b>
+(8:53) Wena umkhulu yini kunobaba wethu u-Abrahama? Yena bafa, kanjalo nabaprofethi. Ucabangani wena ziphi?”
+<br><br>
+(8:54) UJesu waphendula wathi: “Uma ngizikhazimulisa mina, udumo lwami lusho; lutho. UBaba wami, enithi unguNkulunkulu wenu ongidumisayo. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Nakuba uJesu anikeza izincazelo ezinemininingwane abantu ukuze bamqonde, bazabalaza ukubamba ubuyena, ebahola ukuba babuze, “Ningobani na?” Ephendula, uJesu wathi, “Uma ngizikhazimulisa mina, udumo lwami aluyilutho.” Ukuba esekhulume Ngaye izikhathi ezinhlanu, Wabona amandla okuthi amazwi Akhe athathwe njengangamanga ukube Wayenjalo ukuphinda noma ukuchaza kabanzi. Ngakho-ke, uJesu wachaza, “Uma mina sho okunye okwehlukile kulokhu obekwenzeka kuze kube manje, uBaba wami, enithi unguNkulunkulu wenu, uyangikhazimulisa.” Lesi sitatimende sigcizelela okuyisisekelo ubunye phakathi kukaJesu noYise, abantu abathi unguNkulunkulu. Nokho, ngokuhambisana nemithetho engokomoya, umuntu akufanele zisho ngokuqondile ukuthi unguNkulunkulu. Ngakho, uJesu wathi, “NginguNkulunkulu” ekuqaleni ukusiza abantu ukuthi bamqonde. Kamuva, Wacacisa ngokuthi ethi uNkulunkulu unguYise. “Ngoba nginitshele ezimbili izinto ngendlela ehlukile, akufanele udideke. Kumele ngiqonde ngeqiniso,” kusho uJesu, egcizelela ukubaluleka kokuqonda ubunjalo Bakhe ngale kokungaphandle izinkulumo.</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 115,
+verse: `<b>(37)	IVangeli likaJohane, isahluko 8, ivesi 55. </b>`,
+meaning: `<b>
+(8:55) Nakuba ningamazi, mina ngiyamazi. Uma ngi ngathi angizange ngibe ngumqambimanga njengani, kodwa ngiyazi Yena futhi ulalele izwi Lakhe.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  UJesu wamemezela, “Anazi uNkulunkulu; Ngiyamazi uNkulunkulu,” ekhuluma ngombono wabaningi ababemthatha njengo umuntu ojwayelekile. Isidingo sesitatimende esinjalo saphakama ukuze sicacise Ubuhlobo obuhlukile bukaJesu noNkulunkulu. Abanye babuza ukuthi kanjani UJesu, engumuntu njengabanye, wayengasho ukuthi umazi uNkulunkulu nini abanye abazange. Ukuze siphendule lo mbuzo, singacabanga ngoJesu isimemezelo esiphindaphindiwe, “Nginguye,” emavesini amathathu ahlukene. Ngokwalesi sitatimende, uJesu akanayo iJeevatma emzimbeni Wakhe, nakuba Enesimo somuntu. Kunalokho, UMoya oNgcwele usebenza njenge-Atma yedwa emzimbeni Wakhe, ngenkuthalo ukuzibandakanya kuzo zonke izenzo. Umbono oyiphutha uvela lapho abantu bacabanga ukuthi i-Atma yiJeevatma ebaholela kuyo kholwa ukuthi uJesu kungenzeka ukuthi akamazi uNkulunkulu. Nokho, iqiniso liwukuthi I-Paramatma (uMoya oNgcwele) uqobo uhlala emzimbeni kaJesu, benza uNkulunkulu aziwe kuYe. Njengoba uMoya oNgcwele ungu ukwazi ngaphakathi kuJesu, asikho isidingo sokuhlukanisa ukwazi; UJesu ngokwemvelo unoNkulunkulu njengokwazi Kwakhe. Ngokuphambene, abantu abajwayelekile banengqondo (manas) njenge emizimbeni yabo kodwa bentula ukwazi kungaba Atma noma Paramatma. Ukushoda kweParamatma ukwazi kuyisizathu esenza abantu bangamazi uNkulunkulu, kanti uJesu, enoNkulunkulu njengokwazi Kwakhe, ngokwemvelo uyamazi uNkulunkulu.
+
+  Ukube uJesu ubengagomela ngokuthi, “Angimazi uNkulunkulu,” bekuyoba njalo kusikisela ukuntula ukwazi kukaNkulunkulu Kuye, okufana nokujwayelekile abantu. Inkulumo enjalo ingafana namanga. Ngakho-ke, uJesu wathi, “Uma bengithi angimazi uNkulunkulu, bengiyakumazi ube ngumqambimanga njengawe.” Ubungqayizivele bukhona eqinisweni lokuthi oNgcwele Umoya uwukuphela komuntu ohlala emzimbeni kaJesu, ususa ubukhona bemiphefumulo emibili - i-Atma, enesibopho sezenzo, kanye ne-Jeevatma, ukuze uthole okuhlangenwe nakho. Emzimbeni kaJesu, lapho kuphela UMoya oNgcwele uhlala, wonke amazwi ashiwoyo asuka koNgcwele Umoya. Ngakho, lapho uJesu ethi, “Ngiyamazi.  niyamazi, futhi ngiyaligcina izwi Lakhe,” la mazwi aphuma kuwo uMoya oNgcwele, naphezu kokuthi uJesu ekhuluma ngendlela efuze bonke abanye. Naphezu kokubukeka Kwakhe kwangaphandle njengomuntu ojwayelekile umuntu, kwakungekho isici esasingaziwa Kuye. Umfanekiso we lolu lwazi olujulile lwembuleka lapho uJesu ekhuluma ngalo u-Abrahama , umuntu owashona kudala, evusa ukumangala futhi ephakamisa umbuzo kulabo abaseduze Naye.
+
+</div></div>
+
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 116,
+verse: ` <b>(38)	IVangeli likaJohane, isahluko 8, 57th kanye 58th amavesi.</b>`,
+meaning: `<b>
+(8:57) “Awukabi naminyaka engamashumi amahlanu,” besho kubo Wathi, “Umbonile u-Abrahama!”
+<br><br>
+(8:58) “Ngiqinisile ngiqinisile ngithi kini,” kuphendula uJesu, “ngaphambili U-Abrahama wazalwa, mina nginguye!” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Lapho uJesu esho la mazwi, wayesesondele Uneminyaka engama-32 ubudala, esezongena onyakeni Wakhe wama-33. Abrahama, umuntu ongokomlando, owaphila emakhulwini eminyaka ngaphambi kukaJesu, njengaku-a ukhokho kubantu besikhathi sikaJesu. Lapho uJesu kubhekiselwa ku-Abrahama, amaJuda ayekhona abuza ukuthi Yena kanjani wayengakhuluma ngomuntu osekunesikhathi eside amandulele, owayekhona wazalwa futhi wafa enkathini ehlukile. Ephendula, uJesu wenza Inkulumo eyindida, &ldquo;Ngaphambi kokuzalwa kuka-Abrahama, mina ngikhona.&rdquo; Lokhu ukugomela kwabonakala kuyinkohliso kulabo abaseduze Naye, kunikezwe umehluko ocacile wesizukulwane phakathi kukaJesu no-Abrahama. Noma kunjalo, lokho uJesu akusho kwakuyiqiniso eliphelele, noma ngabe kwakubonakala kuyindida kubantu besikhathi Sakhe.
+
+  Ake sihlole iqiniso ngemuva kwalesi sitatimende. uJesu' umzimba wenyama wazalwa cishe eminyakeni engama-32 edlule. Nokho, uMoya oNgcwele kuphela ohlala emzimbeni Wakhe, hhayi iJeevatma. Uma UJeevatma wayekhona, uJesu wayengeke abe nezinkumbulo ukuzalwa kwangaphambilini, njengoba i-Jeevatma ingagcini izinkumbulo ezinjalo. Ku Ngokuphambene, iParamatma (uMphefumulo Ophakeme) ikhona encwadini kaJesu. umzimba futhi ungunaphakade. Ikhona kusukela ngaphambi kokudalwa indawo yonke futhi ungumdali wazo zonke izinto eziphilayo, kuhlanganise u-Abrahama. U-Abrahama, njenganoma yimuphi omunye umuntu, wazalwa, waphila, futhi wafa, noMoya oNgcwele njengofakazi. Ngenkathi u-Atma wanika u-Abrahama ukuphila, uNkulunkulu (Paramatma) wabona konke uhambo. <strong>UNkulunkulu ungufakazi omkhulu, u-Atma ungumenzi, futhi Jeevatma uhlangabezana nokuphila</strong>. Nakuba u-Abrahama azalwa nge-Atma, uNkulunkulu, njengofakazi omkhulu, wazi konke ngo-Abrahama. UParamatma uyazi ukuthi u-Abrahama kangaki wazalwa esikhathini esidlule nokuthi uzozalwa kangaki ku esizayo. Ngakho, lapho uJesu ethi, &ldquo;Ngaphambi kokuba u-Abrahama azalwe, Nginguye,&rdquo; Wabhekisela ebuyena njengeParamatma yaphakade eyathi yayikhona kusukela ngaphambi kokuzalwa kuka-Abrahama futhi izoqhubeka ikhona zikhona emva kokufa Kwakhe. Le nkulumo igcizelela ukuthi uJesu akaphelelwa yisikhathi ubukhona obungaphezu kwemikhawulo yokuzalwa nokufa.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 117,
+verse: `<b>(39)	IVangeli likaJohane, isahluko 9, ivesi 39.</b>`,
+meaning: ` <b>
+(9:39) UJesu wathi: “Ngize ukwahlulela kulokhu; umhlaba, ukuze izimpumputhe zibone, nababonayo babone ube yizimpumputhe.”   </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Lapho abanye abantu besola uJesu ngokuthi uyisoni, ba Umuntu ogama lakhe lalisusiwe uJesu wezwa amazwi abo futhi baphendule ngolwazi olulandelayo.
+
+  ( Johane 9:25-38 ) Waphendula wathi: <strong>&ldquo;Ukuthi uyisoni noma hayi, angazi. Yinye into engiyaziyo. Ngangingaboni kodwa manje Ngiyabona!"</strong>. Base bembuza, bathi: <strong>&ldquo;Wenzeni kuwe na? Kanjani Wavula amehlo akho na?&rdquo;</strong> Waphendula wathi: <strong>&ldquo;Nginitshelile; kakade futhi anilalelanga. Kungani ufuna ukuyizwa</strong><strong>futhi? Niyafuna ukuba ngabafundi Bakhe nani na?&rdquo; </strong>Bese bethi wamthuka wathi: <strong>&ldquo;Wena ungumfundi walo muntu! Singabafundi bakaMose! Siyazi ukuthi uNkulunkulu wakhuluma naye UMose, kodwa lomfo, asazi nalapho Akhona kwavela.&rdquo;</strong>Indoda yaphendula yathi, <strong>&ldquo;Manje kuyamangaza lokho! Anazi lapho avela khona, kodwa yena wavula eyami amehlo. Siyazi ukuthi uNkulunkulu akazilaleli izoni. Yena ulalela umuntu owesaba uNkulunkulu owenza intando yaKhe. Akekho onayo owake wezwa ngokuvula amehlo omuntu owazalwa eyimpumputhe. Uma lokhu umuntu ubengaveli kuNkulunkulu, ubengenze lutho.&rdquo; </strong>Kulokhu waphendula, <strong>&ldquo;Wacwile esonweni ekuzalweni kwakho; unjani wena sifundise!&rdquo; </strong>Base bemkhiphela ngaphandle. UJesu wezwa ukuthi babenakho wamkhiphela ngaphandle, futhi lapho uJesu emthola, wathi<strong>: &ldquo;Yenza uyakholwa eNdodaneni yomuntu na? &ldquo;Ubani, mnumzane?&rdquo; </strong>indoda kubuza. <strong>&ldquo;Ngitshele ukuze ngikholwe kuye.&rdquo; </strong>UJesu wathi, <strong>&ldquo;Senimbonile manje; eqinisweni, Nguye okhulumayo nawe." </strong>Wayesethi lowo muntu: <strong>&ldquo;Nkosi, ngiyakholwa,&rdquo; </strong>wayesethi baMkhonza. Ngemva kwezenzakalo ezazisanda kwenzeka, uJesu wathi: <strong>&ldquo;Ngizele ukwahlulela kuleli zwe, ukuze abangcwele izimpumputhe ziyobona, nababonayo bayoba yizimpumputhe.&rdquo; </strong>Lokhu isitatimende singaqondwa uma kubhekwa izehlakalo ezedlule.
+
+  Injongo yamazwi kaJesu kwakuwukudlulisela ukuthi<strong> labo abanokholo kuNkulunkulu bangangibona</strong>, ngisho noma bengibona angazi ukuthi ungubani. Labo abangakholelwa kuNkulunkulu bangase bahlanganyele noJesu nsuku zonke futhi babone umzimba Wakhe wenyama, kodwa bona awukwazi ukuMbona. Ngakho-ke, uJesu wathi Wangena umhlaba ukwenza abangakholwa bangazi ukuthi unguNkulunkulu. Noma kunjalo UNkulunkulu ethatha isimo somuntu futhi emi eduze kwabangakholwa, abakwazi ukubona iNdodana kaNkulunkulu ngenxa yokungazi kwabo ubumpumputhe. Lobu bumpumputhe wuhlobo lokungazi oluvimbayo ekwazini uNkulunkulu, ngisho nalapho ebonakala engumuntu ifomu. Lapho uJesu ethi <strong>umuntu ozinikele obona okukaNkulunkulu enyameni (iNdodana kaNkulunkulu) angase angamboni esekelwe ekubukekeni kwangaphandle, kodwa esikhundleni salokho, </strong>ngokusebenzisa into abanye abantu ababemzungezile babuza ukuthi bakhona yini angaboni futhi. UJesu wabaphendula kanje.
+</div></div>
+
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 118,
+verse: `<b>(40)	IVangeli likaJohane, isahluko 9, ivesi 41.</b>`,
+meaning: `<b>
+(9:41) UJesu wathi: “Uma beniyizimpumputhe, ngabe anikho unecala lesono; kodwa manje njengoba uthi uyabona, yakho icala lihlala likhona.  </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Evesini 39, uJesu wachaza umehluko phakathi abanokholo nabangaphandle. Wathi impumputhe umuntu onokholo olungcwele wayekwazi ukumbona, kuyilapho abangakholwa babekwazi bambone ngokwenyama kodwa abakwazanga ukubona ubuyena bangempela. Kwe Evesini lama-41, uJesu waqhubeka ehlolisisa ukuziphatha kwalabo ukusebenza <strong>ngombono wezwe</strong>. Abantu abane-a Izingqondo zezwe zimemezela ukuthi, "Ngiyabona," zichaza ukuthi ziyini izenzo zabo futhi ngenxa yalokho baqongelela i-karma ngezenzo zabo. UNkulunkulu wanika abantu ukubona bayakuqonda ukuhlakanipha Kwakhe, nokho akusibo bonke abasebenzisa okwabo umbono wokubona uNkulunkulu. Abanye bahlala bezimpumputhe ngokomoya naphezu kwalokho ukuba namehlo enyama. Mayelana nezindaba zomhlaba, zonke umuntu ngamunye empeleni uyimpumputhe. Iqiniso alikho muntu uzenzela umathanda emisebenzini yezwe. Akekho onayo ukubona noma ukuzwa. Naphezu kokuntula kwabo ngokwemvelo, abantu bathi, &ldquo;Nginguye ababonayo,&rdquo; beqamba amanga becabanga ukuthi bayabona futhi ngenxa yalokho bazitholele isono ngezenzo zabo. Nakuba abantu benjalo abayizimpumputhe ngokomoya, baqongelela isono lapho benza iphutha bakholwe ukuthi bayakwazi ukubona. UJesu wakugcizelela lokho ubumpumputhe bomuntu obungokomoya kanye nokuvuma <strong>iqiniso</strong> lokuthi bengaboni lutho olubakhulula esonweni. Empeleni, ukuqaphela ubumpumputhe bomuntu obungokomoya kuvimbela ukunqwabelana kwesono ezindabeni zezwe.
+
+  Labo abangenalo ukuhlakanipha kwaphezulu abakwazi ukuntula kwabo ukubonwa ezindabeni zezwe. Ukungakwazi kwabo ukuqonda Amazwi kaJesu avela ekungazini kwabo uNkulunkulu abaphakele ukubona kuphela ukuqonda izindaba eziphathelene Naye. Ukuze ubambe ingqikithi yaleli vesi, iJeeva (umphefumulo) womuntu ngamunye kufanele kuqala bona ukuthi bayizimpumputhe noma benokuqondisisa umzimba. Eqinisweni, iJeeva emzimbeni wawo wonke umuntu iyimpumputhe ngokuphelele kuzo zonke izici. UJeeva ngamunye ukholelwa ngephutha ukuthi umzimba kungokwabo nokuthi bangabenzi bazo zonke izenzo ku umzimba. Kodwa-ke, iJeevatma ayinayo i-ejensi ezimele umzimba; I-<strong>Atma</strong> ingumnikazi nomlawuli wangempela. Atma njalo isebenza ngaphakathi emzimbeni, futhi, empeleni, i-Jeeva ayisebenzi noma yimiphi imisebenzi emzimbeni. Ababoni, bengezwa, futhi bagcwele ukusebenza, i-Jeeva iyimpumputhe, isithulu, futhi ikhubazekile ngayo yonke imiqondo. Ibekwe eduze kwe-<strong>buddhi </strong>(ubuhlakani) emzimbeni, u-Jeeva uyaqaphela ulwazi olufinyelela ekuhlakanipheni, kodwa UJeeva akakwazi ngokuzimela lutho. Naphezu kokuntula okuqondile ulwazi, uJeeva ukholelwa ngephutha ukuthi unalo mathupha wafakaza konke. Nakuba i-Atma ingamandla asebenzayo ku-umzimba, u-Jeeva ubeka ngokungalungile zonke izenzo kuyena. Lapho Jeeva ngamanga uthi unesibopho ngesenzo, kufanele sibekezelele imiphumela ye-karmic ehambisana naleso senzo.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 119,
+verse: `<b>(41)	IVangeli likaJohane, isahluko 10, ivesi 18.</b>`,
+meaning: `<b>
+(10:18) Akakho osusa ukuphila kimi, kepha mina ngikubeka phansi ngokuthanda kwami. Nginegunya lokuyibeka futhi igunya lokulithatha futhi. Lo myalo ngawuthola evela kuBaba. </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Akekho owaziyo ukuthi umuntu ojwayelekile uzoshiya nini lokhu ukuphila. Uma umuntu esefile, ngeke abuye. Lokhu kubonakala ku konke ukufa. I-Jeeva nayo iphuma emzimbeni ekufeni. Nokho, abantu abaningi abaqapheli ukuthi <strong>iJeeva ihlukene emandleni okuphila kumuntu</strong>. Abantu abaningi bacabanga ukuthi uJeeva namandla okuphila ayafana. Kodwa evesini kuthiwa, <strong>&ldquo;Cha umuntu uthatha ukuphila kimi,&rdquo;</strong> okubonisa ukuthi uJesu uhlukile, namandla akhe ahlukile. Nakuba wonke umuntu enempilo yakhe amandla emzimbeni wabo, njengoJesu, abakwazi ukuwabeka eceleni noma ukuwathatha phezulu futhi. Emzimbeni kunezitho eziningi zangaphakathi, ukuphila, i-buddhi, ne-manas. Noma yini engaphakathi emzimbeni ingaphansi ukulawula i-Atma, hhayi ngaphansi kokulawula komuntu. Ngakho, Atma enquma ukuthi abeke eceleni ukuphila komuntu noma akuthumele kuphi I-Atma ifisa, njengoba kungumsebenzi wayo. U<strong>Jeeva</strong>akahlobene nempilo amandla emzimbeni wabo, kepha u-<strong>Atma </strong>unobudlelwano nempilo amandla emzimbeni.
+
+  UJesu akayona iJeeva evamile, kodwa kunalokho Ungu-Atma. Njengoba kanjalo, unegunya lokubeka eceleni ukuphila Kwakhe, futhi akekho ongakwenza lisuse kuYe. Lokhu kusho ukuthi <strong>uJesu akafi izandla zomunye umuntu</strong>; uma Efa, Wayengakhetha ukulala eceleni kwempilo Yakhe. U-Atma kuphela onamandla okubeka impilo eceleni futhi bese uyibuyisela lapho uthanda. UMoya oNgcwele wanika uJesu amandla igunya lokwenza lokhu, njengoba uJesu uqobo asho, <strong>&ldquo;Akakho othathayo ukuphila kimi, kodwa ngikudela ngokwami. ngine- igunya lokuyibeka phansi, futhi iyithathe futhi. Lokhu umyalo ngawamukela kuBaba.&rdquo; </strong>Njengoba kwakubikezelwe, uJesu wenza ukuphila Kwakhe (i-prana noma ukuphefumula) kufihlwe emzimbeni Wakhe ngenkathi Esekhona ebethelwe esiphambanweni, ebonakala efile kwabaseduze kwakhe. Nokho Yena uvele ephila ngeSonto ekuseni, esethathile emuva Kwakhe ukuphila. Lokhu kubonisa ukuthi uJesu, engu-Atma, unamandla ukubeka phansi ukuphila kwaKhe futhi abuye aphile emzimbeni ofanayo, futhi leligunya walinikwa nguYise, oNgcwele Umoya. Ukwengeza, i-Atma inegunya lokuthatha izimpilo zabanye futhi uzithumele ukuphindukuzalwa.
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 120,
+verse: ` <b>(42)	IVangeli likaJohane, isahluko 10, ivesi 30.</b>`,
+meaning: ` <b>
+(10:30) Mina noBaba simunye.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  U-Atma unguBaba weJeeva, futhi ngokuhambisanayo, I-Paramatma inesibopho sokudalwa kwe-Atma. Ngakho-ke, U-Atma futhi unguBaba wabantu, kuyilapho iParamatma inguye uBaba ka-Atma. Njengoba uJesu eyi-Atma, uyiNdodana kaNkulunkulu. Uma <strong>indodana iqaphelisisa uyise</strong>, kusho a isimo sokuhlangana phakathi kwendodana noyise. Lena yi-Ingqikithi yamazwi kaJesu, <strong>&ldquo;Mina noBaba wami simunye,&rdquo; </strong>njengoba Yena waqondisa ukugxila Kwakhe kuyise, uMoya oNgcwele.
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 121,
+verse: ` <b>(43)	IVangeli likaJohane, isahluko 11, ivesi 25.</b>`,
+meaning: ` <b>
+(11:25) UJesu wathi kuye: “Mina ngingukuvuka nokuvuka; ukuphila. okholwa yimi uyakuphila, nokho bayafa.” </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Kulo mongo, &lsquo;uvuko&rsquo; luyinkomba yokuzalwa, kuyilapho 'impilo' isho ukukhululeka (moksham), okusho ukukhululeka ku- umjikelezo wokuzalwa kabusha. Njengoba kokubili ukuzalwa kanye ne-moksham kuhlobene Atma, uJesu wathi, &ldquo;Lowo okholwa kimi ngeke abe khona azalwe kabusha ngemva kokufa kodwa azothola i-<strong>moksham</strong>.&rdquo;
+  </div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
+chapterNumber: 5,
+pageNumber: 122,
+verse: `<b>(44)	IVangeli likaJohane, isahluko 11, ivesi 26.</b>`,
+meaning: `<b>
+(11:26) Lowo ophila ngokukholwa kimi kasoze afa naphakade.    </b>`,
+pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
+<div class="poem"><div class="poemtext">
+  Lowo othole i-moksham uzobhekana nakho ukuphila okuphakade futhi ungaphinde ubhekane nokufa. Ngakho-ke, uJesu wamemezela, “Wonke umuntu okholwa kuNkulunkulu uyozuza moksham futhi ungaphinde ufe.”
+</div></div>
+</span>`
+},
+{
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 123,
-verse: `<b>(45)	The Gospel of John, 12th chapter, 25th verse.</b>`,
+verse: `<b>(45)	IVangeli likaJohane, isahluko 12, ivesi 25.</b>`,
 meaning: `<b>
-(25) Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.  </b>`,
+(12:25) Noma ubani othanda ukuphila kwakhe uyolahlekelwa yikho, kuyilapho noma ubani ozonda ukuphila kwakhe kuleli zwe uyokugcina ukuze uthole ukuphila okuphakade.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus’s statement, “Anyone who loves their life will lose it,” can be explained as follows: Humans (Jeeva) require life to exist on earth, and those who become attached to their earthly life will inevitably lose it since they cannot live forever. A person’s life depends on the flow of Prana (life force) in their body, and once they die, their breathing ceases permanently. Once the final breath leaves the body and merges with outside air, it will never return. When someone moves from their first birth to their second, they receive a new breath (life), but the old one is never regained. Therefore, those who prioritize their earthly life and cling to it will eventually lose it. Despite this certainty, people naturally love their lives more than anything else and seek to prolong their time on earth.
+<div class="poem"><div class="poemtext">
+  Amazwi kaJesu athi: “Lowo othanda ukuphila kwakhe uyolahlekelwa yona,” ingachazwa ngale ndlela: Abantu (Jeeva) bafuna ukuphila ukuze emhlabeni, nalabo abanamathela emhlabeni wabo ukuphila kuyolahlekelwa nakanjani njengoba bengakwazi ukuphila phakade. Impilo yomuntu incike ekugelezeni kwePrana (amandla okuphila) emandleni abo umzimba, futhi uma sebefile, ukuphefumula kwabo kunqamuka unomphela. Lapho umoya wokugcina uphuma emzimbeni futhi uhlangana nengaphandle umoya, awusoze wabuya. Lapho umuntu ephuma kuqala ukuzalwa okwesibili kwabo, bathola umoya omusha (ukuphila), kodwa endala ayibuyi. Ngakho-ke, labo ababeka phambili zabo ukuphila kwasemhlabeni nokubambelela kukho kuyogcina kulahlekelwe yikho. Ngaphandle kwalokhu ngokuqinisekile, abantu bathanda ukuphila kwabo ngokwemvelo ngaphezu kwanoma yini okunye futhi bafune ukwandisa isikhathi sabo emhlabeni.
 
-  A person who desires moksham and does not wish to live in this world hates their own life, indicating a lack of interest in worldly affairs. Such a person abandons the cycle of birth and attains eternal life. This life is free from death, and the person who attains it will protect it. While those who attain moksham do not have a special life that is similar to that of an ordinary person, the term ‘eternal life’ is used to help us understand the concept. It is important to note that anyone who attains moksham will remain in a state of eternity forever, without birth or death.
+  Umuntu ofisa i-moksham futhi ongafisi abaphila kuleli zwe bazonda ukuphila kwabo siqu, okubonisa ukuntula isithakazelo ezindabeni zomhlaba. Umuntu onjalo uyawuyeka umjikelezo wokuzalwa futhi uthole ukuphila okuphakade. Lokhu kuphila kukhululekile ekufeni, futhi umuntu oyitholayo uzoyivikela. Ngenkathi labo abazuzayo i-moksham ayinayo impilo ekhethekile efana neye- umuntu ojwayelekile, igama elithi ‘ukuphila okuphakade’ lisetshenziselwa ukusisiza baqonde umqondo. Kubalulekile ukuqaphela ukuthi noma ubani ozuza e-moksham uyohlala esesimweni saphakade, ngaphandle kokuzalwa noma ukufa.
+
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 124,
-verse: `<b>(46)	The Gospel of John, 12th chapter, 40th verse.</b>`,
+verse: `<b>(46)	IVangeli likaJohane, isahluko 12, ivesi 40.</b>`,
 meaning: `<b>
-(40) He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn—and I would heal them. </b>`,
+(12:40) Uye waphuphuthekisa amehlo abo futhi wawenza lukhuni izinhliziyo, ukuze bangaboni ngamehlo abo, noma baqonde ngezinhliziyo zabo, futhi bangaphenduki—futhi bengingathanda balaphe. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When God came as a man and told the people the wisdom they needed, Atma, God in the body, blinded their eyes and hardened their hearts so that they could neither see nor understand with their hearts nor get rid of karma. Karma is the cause of their suffering. In this verse, what is important to note is that Atma, created by the Holy Spirit, is in everyone’s body, running everyone. Although Atma is the Son of the Holy Spirit, the Holy Spirit, the Creator, is born as a man to impart wisdom. Although the born is the Holy Spirit, He is called the Son of God instead of God. According to this, Atma, which is in the body, becomes the Son of the Holy Spirit. The Holy Spirit’s incarnation as a human being is also called the Son of the Holy Spirit. Atma in the body blinds the ignorant man’s eyes and hardens their heart so that they do not understand the Son of God’s words and cannot get rid of their karma.
+<div class="poem"><div class="poemtext">
+  Lapho uNkulunkulu efika njengomuntu futhi watshela abantu ukuthi ukuhlakanipha ababekudinga, u-Atma, uNkulunkulu enyameni, waphuphuthekisa amehlo abo futhi bazenza lukhuni izinhliziyo zabo ukuze bangaboni noma baqonde ngezinhliziyo zabo noma balahle i-karma. I-Karma yiyona imbangela yokuhlupheka kwabo. Kuleli vesi, yini ebalulekile ukuphawula ukuthi i-Atma, eyadalwa nguMoya oNgcwele, isemzimbeni wawo wonke umuntu, egijima wonke umuntu. Nakuba u-Atma eyiNdodana kaMoya oNgcwele, uMoya oNgcwele, uMdali, uzalwa engumuntu ukuze adlulisele ukuhlakanipha. Nakuba ozelwe enguMoya oNgcwele, ubizwa ngokuthi iNdodana kaNkulunkulu esikhundleni sikaNkulunkulu. Ngokusho kwalokhu, i-Atma, esemzimbeni, iba yiNdodana kaMoya oNgcwele. Ukuzalwa kukaMoya oNgcwele njengomuntu ubizwa nangokuthi iNdodana kaMoya oNgcwele. I-Atma emzimbeni uphuphuthekisa amehlo omuntu ongenalwazi futhi uqinise awo inhliziyo ukuze bangaqondi amazwi eNdodana kaNkulunkulu futhi abakwazi ukususa i-karma yabo.
 
-  The Holy Spirit, the Creator, created a son Atma and placed it in the human body. Additionally, the Holy Spirit created another Son in human form to impart wisdom to those who were ignorant. While Atma within the human body is ever-present, the human incarnation of <b>Atma</b> only appears on earth periodically to teach wisdom. Even when the human incarnation of Atma imparts wisdom to individuals who are disinterested and envious of the Holy Spirit, the Atma within the body causes their intellect (buddhi) to be unable to comprehend it. However, if an individual possesses <b>devotion and interest</b> in the Holy Spirit, the Atma within the body enables them to understand the words of the human incarnation of Atma. One must recognize both the Atma within the body and the second Son, embodied by a human form, <b>to truly comprehend the wisdom of the Holy Spirit.</b>
+  UMoya oNgcwele, uMdali, wadala indodana u-Atma kanye wakubeka emzimbeni womuntu. Ngaphezu kwalokho, uMoya oNgcwele wadala enye iNdodana esesimweni somuntu ukuze idlulisele ukuhlakanipha kulabo ababengazi. Ngenkathi i-Atma ngaphakathi komzimba womuntu ihlala njalo okwamanje, ukuzalwa komuntu kwe-Atma kubonakala kuphela emhlabeni ngezikhathi ezithile ukufundisa ukuhlakanipha. Ngisho nalapho umuntu Ukuzalwa kwe-Atma kunikeza ukuhlakanipha kubantu abanjalo abangathandi futhi banomona ngoMoya oNgcwele, i-Atma ngaphakathi umzimba udala ukuthi ubuhlakani babo (buddhi) bungakwazi ukuqonde. Kodwa-ke, uma umuntu ene-ukusimisela kanye nentshisekelo kuMoya oNgcwele, i-Atma engaphakathi komzimba ibenza baqonde amazwi omuntu ukuzalwa kwe-Atma. Umuntu kufanele abone kokubili i-Atma ngaphakathi umzimba kanye neNdodana yesibili, ifakwe isimo somuntu, ukuze ukuqonda ngempela ukuhlakanipha kukaMoya oNgcwele.
+
 </div></div>
   </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 125,
-verse: ` <b>(47)	The Gospel of John, 12th chapter, 47th and 48th verses.</b>`,
+verse: ` <b>(47)	IVangeli likaJohane, isahluko 12, 47 kanye 48 amavesi.</b>`,
 meaning: ` <b>
-(47) If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.
+(12:47) Uma umuntu ezwa amazwi ami kodwa angawagcini bona, angimahluleli lowo muntu. Ngoba angizange ngize ahlulele umhlaba, kodwa ukusindisa umhlaba.
 <br><br>
-(48) There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will judge them at the last day. `,
+(12:48) Kukhona umahluleli walowo ongalayo futhi akawemukeli amazwi ami; wona kanye amazwi enginawo okhulunyiweyo uyobahlulela ngosuku lokugcina. `,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  It can be said that the one who spoke these words is the Atma who is in the form of a human being. When anyone hears but neglects to comprehend the wisdom imparted by God when He comes in human form, the Atma in human form does not judge their next life based on sin and punya after death. The Atma, who came as a man to teach wisdom, did not come to judge humans’ next life. God (Atma) came as a man to reveal His wisdom to the people and save them. Someone else judges the subsequent life of a man who does not listen to the words of the Atma in human form and does not acknowledge Him as great. One should know that such a judge is the Atma, who is always present in the body. The Atma in the human body decides the next birth on the day of death based on the wisdom imparted by the Atma, who is in human form. <b>One cannot know the Holy Spirit unless they understand the work of the Atma in the body and the Atma (Bhagavan), who comes in human form.</b>
+<div class="poem"><div class="poemtext">
+  Kungashiwo ukuthi owakhuluma la mazwi nguye U-Atma osesimweni somuntu. Uma noma ubani ezwa kodwa badebeselela ukuqonda ukuhlakanipha okunikezwa nguNkulunkulu lapho Efika esesimweni somuntu, i-Atma esesimweni somuntu yenza bangahluleli ukuphila kwabo okulandelayo ngokusekelwe esonweni nasepunya ngemva kokufa. U-Atma, owafika njengomuntu ezofundisa ukuhlakanipha, akazange afike ukwahlulela impilo elandelayo yabantu. UNkulunkulu (Atma) weza njengomuntu ukuze embule Ukuhlakanipha kwakhe kubantu futhi abasindise. Omunye uyahlulela impilo eyalandela yomuntu ongawalaleli amazwi ye-Atma esesimweni somuntu futhi ayiMvumi njenge enkulu. Umuntu kufanele azi ukuthi ijaji elinjalo ngu-Atma, okhona njalo ekhona emzimbeni. I-Atma emzimbeni womuntu inquma ukuzalwa okulandelayo ngosuku lokufa ngokusekelwe ekuhlakanipheni inikezwa i-Atma, esesimweni somuntu. <strong>Umuntu akakwazi bazi uMoya oNgcwele ngaphandle uma beqonda umsebenzi ka i-Atma emzimbeni kanye ne-Atma (Bhagavan), ezayo ngesimo somuntu.</strong>
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 126,
-verse: ` <b>(48)	The Gospel of John, 12th chapter, 49th and 50th verses.</b>`,
+verse: ` <b>(48)	IVangeli likaJohane, isahluko 12, 49 kanye 50 amavesi.</b>`,
 meaning: ` <b>
-(49) For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.
+(12:49) Ngokuba angikhulumanga ngokwami, kodwa uBaba ongithumileyo wangilaya ukuthi ngikhulume konke engilakho kukhulunywa.
 <br><br>
-(50) I know that his command leads to eternal life. So, whatever I say is just what the Father has told me to say. </b>`,
+(12:50) Ngiyazi ukuthi umyalo wakhe uholela ekuphileni okuphakade. Ngakho-ke, noma yini engiyishoyo yilokho uBaba angitshele khona ukusho. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   One should understand that the <b>Atma (Bhagavan)</b>, who came as a human being, spoke these words. Jesus, God in the form of a human being, uttered this statement. Whenever God incarnates as a man, all of His wisdom comes from the Holy Spirit. The one who came in human form mentioned that the Holy Spirit prompted Him to convey this wisdom. The wisdom imparted by the Atma (Bhagavan) in human form leads to <b>eternal life (moksham).</b> Although the one who came in human form is not explicitly identified as God, He stated, <b>“Whatever I say is just what the Father has told me to say,”</b> revealing that the speaker is the Holy Spirit. With this, it becomes evident that the one speaking is the Holy Spirit. However, in accordance with spiritual doctrine, it should be emphasized that the Holy Spirit is the Father, and the Atma who came in human form is the Son.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Umuntu kufanele aqonde ukuthi i-<strong>Atma (Bhagavan), </strong>ngubani weza njengomuntu, wakhuluma lamazwi. Jesu, Nkulunkulu enhlitiyweni isimo somuntu, washo lesi sitatimende. Noma nini uNkulunkulu esesimweni somuntu, konke ukuhlakanipha Kwakhe kuvela koNgcwele Umoya. Lowo owafika esesimweni somuntu wakhuluma ngokuthi UMoya oNgcwele wamshukumisela ukuba adlulisele lokhu kuhlakanipha. Ukuhlakanipha inikezwe i-Atma (Bhagavan) ngesimo somuntu sihola ekuphileni <strong>okuphakade (moksham). </strong>Nakuba owangena isimo somuntu asicaciswanga ngokuthi uNkulunkulu, Wathi, <strong>&ldquo;Lokho engikushoyo yilokho uBaba angitshele khona,&rdquo; </strong>embula ukuthi okhulumayo unguMoya oNgcwele. Nalokhu, ukuba sobala ukuthi lowo okhulumayo unguMoya oNgcwele. Nokho, ngokuvumelana nemfundiso engokomoya, kufanele kube wagcizelela ukuthi uMoya oNgcwele unguBaba, kanye ne-Atma oweza esesimweni somuntu yiNdodana.
+  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 127,
-verse: ` <b>(49) The Gospel of John, 14th chapter, 7th verse.</b>`,
+verse: ` <b>(49) IVangeli likaJohane, isahluko 14, ivesi 7.</b>`,
 meaning: ` <b>
-(7) If you really know me, you will know my Father as well. From now on, you do know Him and have seen Him.
+(14:7) Uma beningazi ngempela, beniyakumazi uBaba njengo kahle. Kusukela manje kuya phambili, niyamazi futhi nimbonile.
 </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse is similar to the one mentioned earlier (John 12:49, 12:50). As I mentioned before, the Father and the Son are the same; yet, according to spiritual doctrine, it should be said that the Father and the Son are separate. Jesus said, <b>“If you really know me, you will also know my Father.”</b> Although God, when He came as a human, is called the Son of God, in fact, the Father Himself is in the form of the Son. Hence, the verse states, <b>“If you know the Son, you know the Father.”</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Leli vesi liyafana nalelo okukhulunywe ngalo ekuqaleni (John12:49, 12:50). Njengoba ngike ngasho ngaphambili, uBaba neNdodana ziyefana; nokho, ngokwemfundiso engokomoya, kufanele kube njalo wathi uYise neNdodana bahlukene. UJesu wathi, <strong>&ldquo;Uma niyangazi ngempela, niyakumazi noBaba.&rdquo; </strong>Nakuba uNkulunkulu, lapho efika njengomuntu, ubizwa ngokuthi iNdodana ka UNkulunkulu, empeleni, uYise uqobo usesimweni seNdodana. Ngakho, Ivesi lithi, <strong>&ldquo;Uma niyazi iNdodana, niyamazi uBaba.&rdquo;</strong></div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 128,
-verse: ` <b>(50)The Gospel of John, 14th chapter, 8th and 9th verses.</b>`,
+verse: ` <b>(50) IVangeli likaJohane, isahluko 14, amavesi 8 no-9.</b>`,
 meaning: ` <b>
-(8) Philip said, “Lord, show us the Father and that will be enough for us.”
+(14:8) UFiliphu wathi, “Nkosi, sibonise uYihlo futhi lokho kuyakuba khona kusanele thina.”
 <br><br>
-(9) Jesus answered: “Don’t you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, “show us the Father?” </b>`,
+(14:9) UJesu waphendula: “Awungazi yini, Filiphu, na? ngemva kokuba ngibe phakathi kwenu isikhathi eside kangaka? Noma ubani ongibonile mina umbonile uBaba. Ungasho kanjani ukuthi, “bonisa thina Baba?" </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  This verse reveals that the one with a visible form is the Holy Spirit. Therefore, Jesus said, <b>“Anyone who has seen me has seen the Father.”</b>
+<div class="poem"><div class="poemtext">
+Leli vesi lembula ukuthi onesimo esibonakalayo ngu UMoya oNgcwele. Ngakho-ke uJesu wathi: <b>“Noma ubani ongibonile umbonile uBaba.”</b>
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 129,
-verse: `<b>(51)	The Gospel of John, 14th chapter, 10th verse. </b>`,
+verse: `<b>(51)	IVangeli likaJohane, isahluko 14, ivesi 10. </b>`,
 meaning: `<b>
-(10) Don’t you believe that I am in the Father, and that the Father is in me? The words I say to you I do not speak with my own authority. Rather, it is the Father, living in me, who is doing His work.  </b>`,
+(14:10) Awukholwa yini ukuthi mina ngikuBaba, futhi ukuthi uBaba ukimi? Amazwi engiwasho kini ngiyawenza ngingakhulumi ngelami igunya. Kunalokho, uBaba, ophila kimi, owenza umsebenzi Wakhe.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When a person is in disguise, he and his disguise are inseparable. Therefore, when a rich man assumes the guise of a beggar, both the wealthy individual and the beggar coexist. The rich man takes on the appearance of a beggar during his disguise. Although the beggar ventures into a bazaar to beg, it is, in fact, the rich man who is carrying out this act. The unseen rich man is performing the role of a beggar. As the rich man resides within the beggar, and the beggar’s words originate from the rich man, it can be asserted that the rich man is within the beggar, and reciprocally, the beggar is within the rich man—they exist together. Since the inner persona holds greater significance than the external facade, all actions undertaken in disguise are executed by the inner self. Given that the person within is more crucial than the external appearance, it is accurate to state that all tasks carried out by the outwardly visible person belong to the internal individual. Despite the beggar’s outward appearance, he embodies the rich person within. In a sense, it can be affirmed that the beggar is, indeed, the rich person. The Holy Spirit, concealed in human form, holds significance. It is imperative to recognize that the disguise is temporary, while the soul within is eternal. It can be asserted that <b>the one within Jesus is the Holy Spirit.</b> Hence, Jesus proclaimed, “The Father is in me, and I am in the Father.”
-</div></div>
+<div class="poem"><div class="poemtext">
+  Uma umuntu ecashile, yena kanye nokuzifihla kwakhe engahlukaniseki. Ngakho-ke, lapho umuntu ocebile ethatha isithombe se isinxibi, kokubili umuntu ocebile nesinxibi bahlala ndawonye. Isicebi sithatha ukubonakala kwesinxibi ngesikhathi saso zifihle. Nakuba isinxibi singena esitolo sokuyocela, siyacela empeleni yindoda ecebile eyenza lesi senzo. Okungabonwayo isicebi sidlala indima yesinxibi. Njengesicebi uhlala ngaphakathi kwesinxibi, futhi amazwi esinxibi avela endodeni ecebile, kungagonyelwa ukuthi isicebi singaphakathi isinxibi, futhi ngokuphindaphindiwe, isinxibi singaphakathi kwabacebile umuntu&mdash;zikhona ndawonye. Njengoba i-inner persona ibamba ukubaluleka okukhulu kunongaphambili olungaphambili lwesonto, zonke izenzo okwenziwa ngokucasha abulawa umuntu ongaphakathi. Inikezwe ukuthi umuntu n ngaphakathi kubaluleke kakhulu kunokwangaphandle ukubukeka, kunembile ukusho ukuthi yonke imisebenzi eyenziwa ngu umuntu obonakala ngaphandle ungowomuntu wangaphakathi. Naphezu kokubonakala kwangaphandle kwesinxibi, sihlanganisa umuntu ocebile ngaphakathi. Ngomqondo othile, kungaqinisekiswa ukuthi isinxibi ngempela ungumuntu ocebile. UMoya oNgcwele, ufihliwe kumuntu ifomu, libamba ukubaluleka. Kubalulekile ukuqaphela ukuthi ukuzifihla kungokwesikhashana, kuyilapho umphefumulo ongaphakathi ungowaphakade. Kungaba njalo wagomela ngokuthi <strong>lowo ongaphakathi kuJesu unguMoya oNgcwele</strong>. Ngakho, UJesu wathi: &ldquo;UBaba ukimi, nami ngikuBaba.&rdquo;</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 130,
-verse: `<b>(52)	The Gospel of John, 14th chapter, 6th verse</b>`,
+verse: `<b>(52)	IVangeli likaJohane, isahluko 14, ivesi 6.</b>`,
 meaning: `<b>
-(6) Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me. </b>`,
+(14:6) UJesu waphendula: “Mina ngiyindlela neqiniso ne impilo. Akekho oza kuBaba ngaphandle kokuba eze mina. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Building on the previous example, the pathway to understanding the rich man is through the beggar. If the beggar is apprehended, the identity of the rich man becomes apparent. Once the rich man is recognized, one can access the wealth he possesses. Similarly, the avenue to comprehend God is through the incarnation as a human. If someone understands the one who took human form, they will also comprehend the God residing within Him. Acquaintance with God leads to gaining eternal life inherent in God. Hence, on one occasion, Jesus declared, <b>“I am the way and the truth and the life.”</b> When Jesus said, “I am the way,” it signifies <b>the route to understanding God through me.</b> He also stated, “I am the truth,” implying that He is the genuine manifestation of God. Furthermore, He proclaimed, <b>“I am eternal life.”</b> This assertion is grounded in the fact that the true God in the form of Jesus declared that anyone familiar with Him would attain paraloka (moksham) and experience eternal life without facing death in the paraloka.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Ukwakhela esibonelweni sangaphambilini, indlela eya ukuqonda isicebi kungesinxibi. Uma isinxibi siyabanjwa, ubunikazi besicebi buba sobala. Uma isicebi sesibonwa, umuntu angangena ingcebo anayo. Ngokufanayo, indlela yokuqonda uNkulunkulu kungenxa yokuba sesimweni somuntu. Uma umuntu uyamqonda lowo othathe isimo somuntu, nabo bayokwenza baqonde uNkulunkulu ohlala phakathi Kwakhe. Ukujwayelana UNkulunkulu uholela ekuzuzeni ukuphila okuphakade okuvela kuNkulunkulu. Ngakho, kwelinye Ngezikhathi ezithile, uJesu wathi, <strong>&ldquo;Mina ngiyindlela neqiniso ne impilo.&rdquo;</strong> Lapho uJesu ethi, &ldquo;Mina ngiyindlela,&rdquo; ubonisa <strong>indlela ukuqonda uNkulunkulu ngami. </strong>Wabuye wathi, &ldquo;NginguJehova iqiniso,&rdquo; okusho ukuthi uwukubonakaliswa kwangempela kukaNkulunkulu. Ngaphezu kwalokho, wamemezela, <strong>&ldquo;Mina ngingukuphila okuphakade.&rdquo; </strong>Lokhu kugomela kusekelwe eqinisweni lokuthi uNkulunkulu weqiniso osesimweni sikaJesu wamemezela ukuthi noma ubani ojwayelene Naye wayezothola i-paraloka (moksham) futhi uthole ukuphila okuphakade ngaphandle kokubhekana nokufa i-paraloka.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 131,
-verse: ` <b>(53)	The Gospel of John, 14th chapter, 16th verse.</b>`,
+verse: ` <b>(53)	IVangeli likaJohane, isahluko 14, ivesi 16.</b>`,
 meaning: `<b>
-(16) I will ask the Father, and He will give you another Advocate to help you and be with you forever.  </b>`,
+(14:16) Ngizocela kuBaba, futhi uyoninika omunye uMmeli ukuthi akusize futhi abe nawe kuze kube phakade.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> The Holy Spirit does not remain permanently in human form among the people. Occasionally, the Holy Spirit changes appearance and enters into the lives of people when needed. When the Holy Spirit took the form of Jesus, He lived among the people for only 33 years. Out of these 33 years, He imparted wisdom for only three years. Even before completing three years, He departed from the people after only two years and three months. Jesus said, “I will beg my Father to send another Advocate (Adaranakarta) a second time, who lives longer than me and teaches wisdom.” The one who is coming is the same person as the one who says He beseeches the one who comes. It is the same one who is coming. It is the same one who said that He would request the one who is coming. It is the same one who said He would send another Advocate (Comforter). <b>There is only one.</b> It is the same one who said, it is the same one who asked, and it is the same one who comes. If we do not understand that there is only one who is playing all the characters, the one who says, asks, and comes may appear different. Without recognizing that <b>there is only one orchestrating these roles,</b> we fail to comprehend the God in front of us in human form, the God who implores, and the God who arrives. It is crucial to understand that the one pleading with the Father as Jesus is the forthcoming Comforter. The arriving Advocate is the Holy Spirit.
+<div class="poem"><div class="poemtext">
+  UMoya oNgcwele awuhlali unomphela kumuntu isimo phakathi kwabantu. Ngezinye izikhathi, uMoya oNgcwele uyashintsha ukubukeka futhi ingena ezimpilweni zabantu uma kudingeka. Ngenkathi uMoya oNgcwele ethatha isimo sikaJesu, Waphila phakathi kwe abantu iminyaka engu-33 kuphela. Kule minyaka engama-33, Wapha ukuhlakanipha iminyaka emithathu kuphela. Nangaphambi kokuqeda ezintathu iminyaka, Wasuka kubantu ngemva kweminyaka emibili kuphela futhi izinyanga ezintathu. UJesu wathi: &ldquo;Ngizocela uBaba ukuba athumele omunye Ummeli (Adaranakarta) okwesibili, ophila isikhathi eside kune mina futhi ungifundise ukuhlakanipha.&rdquo; Ofikayo nguyena umuntu njengalowo othi Uyancenga ozayo. Nguye lo ozayo. Yilo kanye owathi ukuthi wayezacela kuye ozayo. Kuyafana owathi Uzothumela omunye uMmeli (UMduduzi). <strong>Kukhona eyodwa kuphela</strong>. Yilowo owathi, inguyena owabuzayo, futhi uyena ozayo. Uma singaqondi ukuthi munye kuphela odlalayo bonke abalingiswa, lowo othi, abuze, futhi afike kungenzeka abonakale ehlukile. Ngaphandle kokuqaphela <strong>ukuthi munye kuphela</strong><strong>ukuhlela lezi zindima</strong>, siyehluleka ukuqonda uNkulunkulu ngo phambi kwethu osesimweni somuntu, uNkulunkulu onxusayo, noNkulunkulu ofikayo.
+
+  Kubalulekile ukuqonda ukuthi lowo oncengayo UBaba njengoJesu unguMduduzi ozayo. Ukufika Ummeli unguMoya oNgcwele.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 132,
-verse: `<b>(54)	The Gospel of John, 14th chapter, 17th verse.</b>`,
+verse: `<b>(54)	IVangeli likaJohane, isahluko 14, ivesi 17.</b>`,
 meaning: `<b>
-(17) The world cannot accept Him because it neither sees Him nor knows Him. But you know Him, for He lives with you and will be in you.  </b>`,
+(14:17) Izwe alinakumamukela ngenxa yalo futhi abaMboni futhi abamazi. Kodwa uyamazi, ngoba uhlala lani njalo uzakuba kini.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The term ‘world (loka)’ can be understood to encompass those individuals who undergo the consequences of karma on earth. When God takes on human form, those bound by karma may not perceive or acknowledge Him. Those who fail to recognize Him are unable to receive His teachings or divine wisdom. Only those who have gained some wisdom through Jesus will be able to recognize the Comforter who comes after Jesus in human form. The Comforter dwells within those individuals, and those who are acquainted with Him will coexist with Him, realizing His presence within them as Atma.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Igama elithi ‘umhlaba (loka)’ lingaqondwa njengelihlanganisa labo bantu abathola imiphumela ye-karma umhlaba. Lapho uNkulunkulu ethatha isimo somuntu, labo ababoshwe yi-karma kungenzeka bangamboni noma bamamukele. Abahlulekayo bayamazi Yena abakwazi ukwamukela izimfundiso Zakhe noma ubuNkulunkulu ukuhlakanipha. Yilabo kuphela abaye bazuza ukuhlakanipha okuthile UJesu uyokwazi ukubona uMduduzi oza emva kwakhe UJesu esesimweni somuntu. UMduduzi uhlala phakathi kwalabo abantu ngabanye, futhi labo abajwayelene Naye bayohlala ndawonye naye, ebona ubukhona Bakhe phakathi kwabo njengo-Atma.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 133,
-verse: `<b>(55)	The Gospel of John, 14th chapter, 20th verse.</b>`,
+verse: `<b>(55)	IVangeli likaJohane, isahluko 14, ivesi 20.</b>`,
 meaning: ` <b>
-(20) On that day you will realize that I am in my Father, and you are in me, and I am in you.   </b>`,
+(14:20) Ngalolo suku niyokwazi ukuthi ngiphakathi kwami Baba, nawe ukimi, nami ngikini..   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext"> Before delving into this verse, one should grasp the true form of God. God is divided into three aspects, permeating the entire world. Although there is only one God, He is divided into three souls—Jeevatma, Atma, and Paramatma. <b>Jeevatma resides in a specific location within the bodies of all living beings, while Atma extends throughout the entirety of every living being’s body. Paramatma is present both inside and outside the body, existing within every molecule.</b> An individual who comprehends this concept is considered a complete gnani. Paramatma, the Creator, assumes human form to impart wisdom to people. During this manifestation, He asserts that He is the Son, and the Father is Paramatma. This terminology serves a purpose of distinction, but it can be affirmed that both the Son and the Father are inherently the same. God appears in the guise of the <b>‘Son’</b> and resides on earth throughout His entire life, imparting wisdom. This serves as a method for the dissemination of wisdom. Alternatively, God sent out an Atma from Himself to create, sustain, and kill Jeevas. The Atma, which governs the bodies of living beings, is also considered the Son of God. Atma resides within Paramatma, and Jeevatma exists within the realm of Atma. Consequently, the expression <b>“I am (Atma) in my Father”</b> is used instead of stating, <b>“I am (Atma) in my Father, the Paramatma.”</b> As Jeeva is present within the body governed by Atma, the verse emphasizes, “You (Jeevatmas) are in me (Atma).” Atma, diffused throughout the entire body, is also dispersed within you (Jeevatma), who is in a specific location. Therefore, the verse states, <b>“The day when you know the souls’ wisdom, you will know that I am in you.”</b> Those unfamiliar with the concept of the three souls fail to discern who resides within whom. Therefore, <b>it is crucial to comprehend the Thraitha Theorem, which elucidates how God is in the form of three souls.</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Ngaphambi kokungena kuleli vesi, umuntu kufanele abambe iqiniso isimo sikaNkulunkulu. UNkulunkulu uhlukaniswe waba izingxenye ezintathu, egcwele umhlaba wonke. Nakuba eyedwa uNkulunkulu, uhlukene phakathi imiphefumulo emithathu&mdash;iJeevatma, i-Atma, neParamatma<strong>. I-Jeevatma ihlala endaweni ethile ngaphakathi kwemizimba yabo bonke abaphilayo izidalwa, kuyilapho i-Atma inweba kulo lonke leli umzimba womuntu wonke. I-Paramatma ikhona kokubili ngaphakathi nangaphandle komzimba, ekhona phakathi kwazo zonke ingqamuzana. </strong>Umuntu owuqondayo lo mqondo kubhekwa njenge-gnani ephelele. Paramatma, uMdali, ithatha isimo somuntu ukuze idlulisele ukuhlakanipha kubantu. Phakathi nalokhu ukubonakaliswa, Uyagomela ukuthi uyiNdodana, noYise uyiyo I-Paramatma. Leli gama lamagama lisebenza inhloso yokwehlukanisa, kodwa kungaqinisekiswa ukuthi bobabili iNdodana noYise bayikho ngokwemvelo efanayo. UNkulunkulu ubonakala esesimweni <strong>&lsquo;seNdodana</strong>&rsquo; kanye uhlala emhlabeni kukho konke ukuphila Kwakhe, enikeza ukuhlakanipha. Lokhu kusebenza njengendlela yokusabalalisa ukuhlakanipha. Kungenjalo, uNkulunkulu wathumela i-Atma evela Kuye ukuze adale, sekela, futhi abulale Jeevas. I-Atma, elawula imizimba ye- izidalwa eziphilayo, futhi uthathwa njengeNdodana kaNkulunkulu. U-Atma uhlala ngaphakathi kweParamatma, futhi i-Jeevatma ikhona endaweni ye- I-Atma. Ngenxa yalokho, inkulumo ethi <strong>&ldquo;Ngingu (Atma) empilweni yami UBaba&rdquo;</strong> lisetshenziswa esikhundleni sokuthi, <strong>&ldquo;Ngi (Atma) kuBaba, iParamatma.&rdquo; </strong>Njengoba uJeeva ekhona ngaphakathi komzimba libuswa i-Atma, leli vesi liyagcizelela, &ldquo;Nina (Jeevatmas) ni kimi (Atma).&rdquo; I-Atma, isakazeke kuwo wonke umzimba, futhi bahlakazeka ngaphakathi kuwe (Jeevatma), ngubani in a ethize indawo. Ngakho-ke, leli vesi lithi, <strong>&ldquo;Ngosuku lapho uyazi ukuhlakanipha kwemiphefumulo, niyakwazi ukuthi ngiphakathi kwenu wena.&rdquo;</strong>Labo abangawazi umqondo wemiphefumulo emithathu bayahluleka ukubona ukuthi ubani ohlala phakathi kwakhe. Ngakho-ke<strong>, kubalulekile ukuqonda i-Thraitha Theorem, ecacisayo ukuthi uNkulunkulu usesimweni semiphefumulo emithathu.</strong>
+  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 134,
-verse: ` <b>(56)	The Gospel of John, 14th chapter, 25th and 26th verses.</b>`,
+verse: ` <b>(56)	IVangeli likaJohane, isahluko 14, 25th kanye 26 amavesi.</b>`,
 meaning: `<b>
-(25) All this I have spoken while still with you.
+(14:25) Konke lokhu ngikukhulumile ngisenani.
 <br><br>
-(26) But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. </b>`,
+(14:26) Kodwa uMmeli, uMoya oNgcwele, owathi UBaba uyakuthumela egameni lami, uzonifundisa zonke izinto futhi ngizonikhumbuza ngakho konke engikushilo kini. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  On one occasion, Jesus addressed His disciples, saying, “While I am still with you, I speak these words.” Additionally, He conveyed, “Another Advocate (Adaranakarta) would come to you after I pass away.” Furthermore, He explained, <b>“The Advocate, who comes like me, would remind you of everything I had spoken and teach everything I had not spoken.”</b> An important aspect to consider here is Jesus’ use of the name ‘Advocate.’ Clarifying the meaning of Advocate, He stated, <b>“Advocate is the Holy Spirit whom the Father will send in my name.”</b> A close examination of the verse reveals that it begins with ‘the Father’ and concludes with ‘the Holy Spirit.’ This sequence suggests that Jesus’ father is the Holy Spirit. It can be posited that the Son is the one in disguise, while the Father is the one not in disguise. In reality, they both are one and the same. <b>The one who imparts wisdom and removes karma is referred to as the Advocate (Comforter).</b> When Jesus asserted that God is the one who sends God in the name of the Advocate, He articulated, “The Father is the Holy Spirit who will send in my name.” This elucidates that <b>God assumes a form, adopts the guise of the Advocate, and imparts divine wisdom.</b> It is noteworthy that Jesus conveyed these words to ensure even those unaware of this matter could comprehend.
+<div class="poem"><div class="poemtext">
+  Ngesinye isikhathi, uJesu wakhuluma nabafundi bakhe, wathi "Ngisenani, ngikhuluma lamazwi." Ngaphezu kwalokho, Yena kudluliselwe, &ldquo;Omunye ummeli (Adaranakarta) uzofika wena emva kokushona kwami." Ngaphezu kwalokho, Wachaza<strong>, &ldquo;Ummeli oza njengami angakukhumbuza konke engangikukhulumile ngakufundisa konke engangingenakho kukhulunywa.&rdquo; </strong>Isici esibalulekile okufanele sicatshangelwe lapha ukusebenzisa kukaJesu igama elithi &lsquo;Mmeli.&rsquo; Ecacisa incazelo yoMmeli, wathi, <strong>&ldquo;UMmeli nguMoya oNgcwele uBaba azothanda thumela egameni lami.&rdquo; </strong>Ukuhlolisisa leli vesi kwembula ukuthi iqala &lsquo;ngoBaba&rsquo; futhi iphethe &lsquo;ngoNgcwele Umoya.&rsquo; Lokhu kulandelana kusikisela ukuthi uyise kaJesu uNgcwele Umoya. Kungabekwa ukuthi iNdodana iyona ecashile, kuyilapho uBaba nguye ongafihlwanga. Eqinisweni, bobabili banjalo eyodwa futhi efanayo.
+
+  <strong>Lowo onikeza ukuhlakanipha futhi asuse i-karma ebizwa ngokuthi uMmeli (uMduduzi). </strong>Lapho uJesu wagomela ngokuthi uNkulunkulu nguye othumela uNkulunkulu egameni le Ummeli, Washo, &ldquo;UBaba unguMoya oNgcwele ozokwenza thumela egameni lami.&rdquo; Lokhu kucacisa ukuthi <strong>uNkulunkulu uthatha isimo, athathe umfuziselo woMmeli, anikeze ubuNkulunkulu ukuhlakanipha. </strong>Kuyaphawuleka ukuthi uJesu wadlulisela la mazwi ku qinisekisa ukuthi nalabo abangazi ngalolu daba bangaluqonda.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 135,
-verse: ` <b>(57)	The Gospel of John, 15th chapter, 23rd verse. </b>`,
+verse: ` <b>(57)	IVangeli likaJohane, isahluko 15, ivesi 23. </b>`,
 meaning: `<b>
-(23) Whoever hates me hates my Father as well.   </b>`,
+(15:23) Lowo ozonda mina uzonda noBaba. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  I have been asserting from the beginning that God is concealed in the form of Jesus, and the name attributed to God’s disguise is Jesus. Indeed, no one else but the Holy Spirit has come in the name of Jesus. Consequently, anyone blaspheming Jesus is also blaspheming Paramatma. The Comforter (Advocate) is not the one who will come after Jesus. Jesus was also an Advocate. Whenever God assumes human form, He should consistently be called the Advocate. <b>The Advocate imparts wisdom that serves as a remedy for karma,</b> and God alone provides teachings that eradicate karma. Therefore, it can be affirmed that the Advocate is synonymous with the Holy Spirit. However, recognizing God when He takes on human form on Earth proves to be challenging. This challenge is underscored by individuals in Christianity who claim to be gnani and refer to Jesus as a brother. It is emphasized that Jesus is not a brother to anyone. Regardless of whether He appears as Jesus or under another name, He is identified as the Holy Spirit, making Him a Father, not a brother.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Bengilokhu ngigomela kwasekuqaleni ukuthi uNkulunkulu ukhona kufihlwe ngesimo sikaJesu, negama okuthiwe lilo Inkazimulo kaNkulunkulu nguJesu. Ngempela, akekho omunye ngaphandle kukaMoya oNgcwele ufikile ngegama likaJesu. Ngenxa yalokho, noma ubani ukuhlambalaza uJesu futhi ukuhlambalaza iParamatma. UMduduzi (uMmeli) akuyena ozofika emva kukaJesu. UJesu naye wayenguMmeli. Noma nini lapho uNkulunkulu ethatha umuntu ngesimo, Kufanele njalo abizwe ngoMmeli. <strong>Ummeli unikeza ukuhlakanipha okusebenza njengekhambi karma, </strong>futhi uNkulunkulu kuphela onikeza izimfundiso eziqedayo i-karma. Ngakho-ke, kungaqinisekiswa ukuthi uMmeli okufanayo noMoya oNgcwele. Nokho, ukuqaphela uNkulunkulu lapho Ethatha isimo somuntu Emhlabeni kufakazela ukuba inselele. Le nselelo igcizelelwa ngabantu ngabanye UbuKristu abathi ba-gnani futhi babhekise kuJesu njengo umfowethu. Kuyagcizelelwa ukuthi uJesu akayena umfowabo wanoma ubani. Kungakhathaliseki ukuthi uvela njengoJesu noma ngaphansi komunye Igama, Ukhonjwa njengoMoya oNgcwele, uMenza uBaba,hayi umfowethu.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 136,
-verse: `<b>(58)	The Gospel of John, 15th chapter, 24th and 25th verses. </b>`,
+verse: `<b>(58)	IVangeli likaJohane, isahluko 15, 24 kanye Amavesi 25. </b>`,
 meaning: ` <b>
-(24) If I had not done among them the works no one else did, they would not be guilty of sin. As it is, they have seen, and yet they have hated both me and my Father.
+(15:24) Uma bengingenzanga phakathi kwabo imisebenzi, akukho muntu uma kungenjalo, babengeke babe nesono. Njengoba kunjalo, bona babonile, kepha bayangizonda mina neyami Baba.
 <br><br>
-(25) But this is to fulfill what is written in their Law: ‘They hated me without reason.’</b>`,
+(15:25) Kodwa lokhu kwenzelwa ukugcwalisa okulotshiweyo emthethweni wabo ukuthi:'Bangizonda ngaphandle kwesizathu.’ </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   The task that no one can accomplish on earth is to forgive and remove the sins of a person. Jesus stated that sins would not have been incurred if He had not undertaken the work of forgiving the karma of others. When He publicly forgave the sins of certain individuals, those who were envious and ignorant of His greatness harbored hatred towards Him. Hating Jesus equates to hating the Holy Spirit. Those who harbored hatred toward Him <b>without a valid reason</b> incurred sin.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Umsebenzi ongeke ufezwe muntu emhlabeni owokuthi thethelela futhi ususe izono zomuntu. UJesu washo ukuthi izono bekungeke kwenzeke ukube Akawenzanga umsebenzi wokuthethelela i-karma yabanye. Lapho Esesidlangalaleni wathethelela izono zabantu abathile, labo ababenomona futhi ngokunganaki ubukhulu Bakhe bafukamela inzondo Ngaye. Ukuzonda uJesu kufana nokuzonda uMoya oNgcwele. Labo aba wafukamela inzondo Ngaye <strong>ngaphandle kwesizathu esizwakalayo</strong> isono.
+  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 137,
-verse: ` <b>(59)	The Gospel of John, 15th chapter, 26 and 27 verses. </b>`,
+verse: ` <b>(59)	IVangeli likaJohane, isahluko 15, 26 no-27 amavesi. </b>`,
 meaning: `<b>
-(26) When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—He will testify about me.
+(15:26) Lapho kufika uMmeli, engizomthuma kuye kini elivela kuBaba—uMoya weqiniso ophumayo evela kuBaba—Yena uzofakaza ngami.
 <br><br>
-(27) And you also must testify, for you have been with me from the beginning.   </b>`,
+(15:27) Futhi nawe kufanele ufakaze, ngoba ubulokhu nami kusukela ekuqaleni.   </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   Jesus came as the Advocate (Bhagavan) and mentioned that He would send another Advocate from the Father to the people. In accordance with spiritual law, He conveyed what He was supposed to say. However, there is no other Advocate with the Father; <b>there is only one God</b> who occasionally appears in the guise of an Advocate. No one else sends Him. When Jesus and the Holy Spirit are considered the same, both the sender and the coming one are identical. Jesus stated, <b>“The Spirit of truth comes as an Advocate, and He will testify about me.”</b> When the one who is coming and the one who is going are the same, it is unsurprising that the coming one will speak about the going one. As the coming Advocate discusses Jesus, His disciples will undoubtedly recall Him. Consequently, the disciples will affirm that Jesus came and imparted wisdom.
+<div class="poem"><div class="poemtext">
+  UJesu weza njengoMmeli (Bhagavan) wakhuluma ukuthi athumele omunye uMmeli ovela kuBaba eze kubo abantu. Ngokuvumelana nomthetho komoya He dlulisa lokho bekufanele asho. Nokho, akekho omunye uMmeli onaye uBaba; <strong>munye kuphela uNkulunkulu </strong>ovela kuye ngezikhathi ezithile isithunzi soMmeli. Akekho omunye oMthumayo. Lapho uJesu noMoya oNgcwele uthathwa njengofanayo, kokubili umthumeli naleyo ezayo iyafana. UJesu wathi, <strong>&ldquo;UMoya we iqiniso liza njengoMmeli, futhi uzofakaza ngami."</strong> Lapho ozayo nohambayo yibo okufanayo, akumangalisi ukuthi ozayo uzokhuluma ngakho ohambayo. Njengoba uMmeli ozayo exoxa ngoJesu, Wakhe abafundi ngokungangabazeki bayomkhumbula. Ngenxa yalokho, abafundi bazoqinisekisa ukuthi uJesu weza futhi wanikeza ukuhlakanipha.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 138,
-verse: ` <b>(60)	The Gospel of John, 16th chapter, 7th verse. </b>`,
+verse: ` <b>(60)	IVangeli likaJohane, isahluko 16, ivesi 7. </b>`,
 meaning: `<b>
-(7) But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send Him to you.</b>`,
+(16:7) Kodwa ngiqinisile ngithi kini: Kungokuhle nina ngiyahamba. Ngaphandle kokuthi ngihambe, uMmeli angeke woza kuwe; kepha uma ngimuka, ngiyakumthumela kini.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   In the analogy of a single person playing two characters in a play, the second character appears on stage after the first character exits. Since it is the same person playing both roles, the first character must go behind the scenes for the person in the first character to assume the second role. It’s not possible for the second character to emerge unless the first character goes backstage. This transition occurs because the same person is portraying both characters. Similarly, the one who came in Jesus’ role is expected to return to earth in a second character. Therefore, when Jesus departs from the people, the one who played the role of Jesus will return in a second role. The Holy Spirit took on the role of Jesus. If He were to come again to be with the people, He would have to relinquish His role as Jesus and reappear in a new role, with a new name, and a new appearance. Thus, Jesus stated, <b>“It is for your good that I am going away. Unless I go away, the Advocate will not come to you.”</b> While not explicitly mentioning that He would return as an Advocate, He conveyed, “I will send Him to you when I leave.” From these words, anyone with intelligence will easily discern that the one departing and the one returning are the same.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Esifanisweni somuntu oyedwa odlala abalingisi ababili emdlalweni, umlingiswa wesibili uvela esiteji ngemva kwesokuqala uhlamvu luyaphuma. Njengoba kungumuntu oyedwa odlala izindima zombili, umlingiswa wokuqala kufanele ahambe ngemuva kumuntu okuye umlingiswa wokuqala ukuthatha indima yesibili. Akwenzeki ukuze umlingiswa wesibili avele ngaphandle uma umlingiswa wokuqala uya ngemuva kwesiteji. Lolu shintsho lwenzeka ngenxa efanayo umuntu uveza bobabili abalingisi. Ngokufanayo, lowo weza endimeni kaJesu kulindeleke ukuthi abuyele emhlabeni ngomzuzwana uhlamvu. Ngakho-ke, lapho uJesu emuka kubantu, ilowo owadlala indima kaJesu uzobuya endimeni yesibili. UMoya oNgcwele wathatha indima kaJesu. Uma Wayezofika futhi ukuze abe nabantu, kuzofanele alahle abaKhe indima njengoJesu futhi avele endimeni entsha, negama elisha, futhi ukubukeka okusha. Ngakho-ke, uJesu wathi, <strong>&ldquo;Kulungele nina ngiyahamba. Ngaphandle kokuthi ngihambe, uMmeli angeke woza kuwe.&rdquo; </strong>Nakuba engasho ngokucacile ukuthi Wayezokwenza buya njengoMmeli, Wedlulisela, &ldquo;NgizoMthumela kini uma ngihamba.&rdquo; Kusukela kulawa mazwi, noma ubani onobuhlakani uzokwazi qondani kalula ukuthi omukayo nobuyayo okufanayo.
+  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 139,
-verse: `<b>(61)	The Gospel of John, 16th chapter, 8th verse.  </b>`,
+verse: `<b>(61)	IVangeli likaJohane, isahluko 16, ivesi 8  </b>`,
 meaning: ` <b>
-(8) When He comes, He will prove the world to be in the wrong about sin and righteousness and judgment.</b>`,
+16:8) Lapho efika, uyofakazela ukuthi izwe likuwo okungalungile ngesono nokulunga nokwahlulela.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  After Jesus’ role disappears behind the scenes, the Advocate (Bhagavan) will come in the second role and second incarnation. The term ‘Advocate’ represents God’s incarnation, but it is not God’s name. The one who comes as the Advocate could have any name in the world. Therefore, no one can determine if this person is the incarnation of God. While no one knows the Advocate’s form or name, there is some chance of recognizing Him through His actions. When the <b>Advocate</b> comes to the earth, He discusses sin, revealing how a person acquires sin, where it is stored until the time of death, and the consequences of sin. <b>He explains that divine wisdom is necessary to rid oneself of acquired sins,</b> as sins are like firewood and wisdom is like fire. Only through wisdom can one escape experiencing sin and gain divine wisdom. The sin of a person who does not attain divine wisdom in life persists until death. Such a person must be reborn on the same day, minute, and moment after death. The day of death is known as the last day. The last day of life becomes the first day of the next life. The person must be reborn within a second of their death. It can be said that the time difference between death and rebirth is only one-tenth of a second. In that short time, <b>Atma</b> judges the deceased based on their sin and punya. Atma then decides what the person must eat, drink, and experience at every moment of the second birth. The life of the born is determined by the judgment made in death. How a person will live their next life is decided based on the judgment of their last day. Atma, which is with the deceased person, judges them correctly based on their deeds from childhood. The actions to be taken in the next life are decided according to existing karma. No one can override this decision, and everyone must accept the judgment.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Ngemva kokunyamalala kwendima kaJesu ngokusobala, U-Advocate (Bhagavan) uzongena endimeni yesibili neyesibili ukuzalwa komuntu. Igama elithi &lsquo;uMmeli&rsquo; limelela ukuba senyameni kukaNkulunkulu, kodwa akusilo igama likaNkulunkulu. Lowo oza njengoMmeli angaba negama emhlabeni. Ngakho-ke, akekho ongakwazi nquma ukuthi lo muntu ungumuntu kaNkulunkulu yini. Nakuba kungekho muntu uyalazi ifomu noma igama loMmeli, maningi amathuba okuthi eqaphela Yena ngokusebenzisa Okwakhe izenzo. Nini <strong>uMmeli </strong>uyeza emhlabeni, Uxoxa ngesono, embula ukuthi umuntu uzuza kanjani isono, lapho sigcinwa kuze kufike isikhathi ukufa, nemiphumela yesono. <strong>Uyakuchaza lokho kwaphezulu ukuhlakanipha kuyadingeka ukuze uzikhulule ezonweni ezizuziwe</strong>, njengezono banjengezinkuni, nokuhlakanipha kunjengomlilo. Ngokuhlakanipha kuphela umuntu angaphunyula ekubhekaneni nesono futhi azuze ukuhlakanipha kwaphezulu. Isono somuntu ongakutholi ukuhlakanipha kwaphezulu empilweni iphikelela kuze kube sekufeni. Umuntu onjalo kufanele azalwe kabusha ngaso leso sikhathi usuku, umzuzu, nomzuzu ngemva kokufa. Usuku lokufa eyaziwa ngokuthi usuku lokugcina. Usuku lokugcina lokuphila luba usuku lokuqala wempilo elandelayo. Umuntu kumele azalwe kabusha kungakapheli umzuzwana ukufa kwabo. Kungashiwo ukuthi umehluko wesikhathi phakathi ukufa nokuzalwa kabusha kuyingxenye eyodwa kweshumi yomzuzwana. Ngamafuphi isikhathi, u-<strong>Atma</strong> wehlulela umufi ngokusekelwe esonweni sabo kanye ne-punya. U-Atma ube esenquma ukuthi yini umuntu okufanele ayidle, ayiphuze, futhi isipiliyoni ngaso sonke isikhathi sokuzalwa kwesibili. Impilo ye ozelwe kunqunywa ukwahlulelwa okwenziwa ekufeni. Kanjani umuntu uzophila impilo yakhe elandelayo kunqunywa ngokusekelwe ekwahluleleni ngosuku lwabo lokugcina. I-Atma, ekanye nomuntu oshonile, ubahlulela ngendlela efanele ngokusekelwe ezenzweni zabo kusukela ebuntwaneni. Izenzo ezizothathwa empilweni elandelayo zinqunywa ngokusho ku-karma ekhona. Akekho ongakwazi ukweqa lesi sinqumo, futhi wonke umuntu kufanele amukele ukwahlulelwa.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 140,
-verse: `<b>(62)	The Gospel of John, 16th chapter, 12th verse. </b>`,
+verse: `<b>(62)	IVangeli likaJohane, isahluko 16, ivesi 12. </b>`,
 meaning: `<b>
-(12) I have much more to say to you, more than you can now bear. </b>`,
+(16:12) Nginokuningi engingakusho kini, ngaphezu kwenu; manje angathwala. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  When God incarnates as a human, it is crucial to carefully impart wisdom, considering people’s moods, and the teachings should be tailored based on the time and context. Divine wisdom needs to be conveyed with sensitivity to the audience’s readiness to receive the truth. Comparatively, if you inform a woman engaged to you that she is already your wife, she may not accept it before the wedding, leading to potential conflict. However, sharing the same information after the wedding would bring happiness without contention. Similarly, when presenting divine wisdom to those who may not tolerate the truth, there is a risk of misunderstanding and opposition. Therefore, even when God takes on human form, the truth must be shared judiciously. For example, if one were to assert that Ravana Brahma is an incarnation of God, contemporary audiences might grasp the concept to some extent. However, had the same statement been made 50 years ago, there may have been disagreement, with people viewing Ravana as evil and monstrous. Hence, there are instances where wisdom that is meant to be shared earlier must be deferred. In this context, Jesus acknowledged this principle when He stated, <b>“I have much more to say to you, more than you can now bear,”</b> to His disciples. Recognizing that it was time for Him to depart from humanity, He informed His disciples that the coming Advocate would convey what He had not spoken.
-</div></div>
+<div class="poem"><div class="poemtext">
+  Lapho uNkulunkulu ethatha isimo somuntu, kubalulekile ukuqaphela nikeza ukuhlakanipha, ucabangela imizwa yabantu, nezimfundiso kufanele ihambisane nesikhathi nesimo. Okwaphezulu ukuhlakanipha kudinga ukuhanjiswa ngokuzwela kwabalaleli ukulungela ukuthola iqiniso. Ngokuqhathanisa, uma wazisa a owesifazane osethembisene umshado ukuthi usengumkakho, kungenzeka ungakwemukeli ngaphambi komshado, okuholela ekungqubuzaneni okungenzeka. Nokho, ukwabelana ngolwazi olufanayo ngemva komshado kungaletha injabulo ngaphandle kokuxabana. Ngokufanayo, nini ethula ukuhlakanipha kwaphezulu kulabo abangase bangakubekezeleli iqiniso, kunengozi yokungaqondi nokuphikiswa. Ngakho-ke, ngisho nalapho uNkulunkulu ethatha isimo somuntu, iqiniso kufanele kwabelwane ngobuhlakani. Isibonelo, uma umuntu egomela ukuthi uRavana Brahma ungumzimba kaNkulunkulu, wesimanje izethameli zingase ziwubambe umqondo ngezinga elithile. Nokho, ngabe kwashiwo isitatimende esifanayo eminyakeni engu-50 edlule, kungenzeka bebelokhu bengavumelani, nabantu bebheka iRavana njengobubi futhi esabekayo. Ngakho, kunezimo lapho ukuhlakanipha lokho okuhloswe ukuthi kwabiwe ngaphambi kwesikhathi kumele kuhlehliswe. Kulo mongo, UJesu wasivuma lesi simiso lapho ethi, <strong>&ldquo;Sengikwenzile okuningi engingakusho kini, okungaphezu kwalokho eningakuthwala manje,&rdquo; </strong>ku Abafundi bakhe. Ebona ukuthi kwase kuyisikhathi sokuthi ahambe esintwini, Wazisa abafundi Bakhe ukuthi ukuza Ummeli wayezodlulisela lokho Angazange akukhulume.</div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 141,
-verse: `<b>(63)	The Gospel of John, 16th chapter, 13th verse. </b>`,
+verse: `<b>(63)	IVangeli likaJohane, isahluko 16, ivesi 13. </b>`,
 meaning: `<b>
-(13) But when He, the Spirit of truth, comes, He will guide you into all the truth. He will not speak on His own; He will speak only what He hears, and He will tell you what is yet to come. </b>`,
+(16:13) Kodwa lapho Yena, uMoya weqiniso, efika, Uyokwenza aniqondise kulo lonke iqiniso. Akayikukhuluma ngeyaKhe okwakho; Uzokhuluma kuphela lokho Akuzwayo, futhi Uyokusho wena lokho okuseza. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus prophesied about the forthcoming Advocate. The term ‘Spirit of truth’ signifies the <b>‘God of wisdom.’</b> Jesus conveyed that the God who would come after Him would lead everyone into the truth and communicate only the truth. Despite God taking on human form, behaving in a human manner, Jesus mentioned, “As a human, He teaches nothing on His own; He speaks only what He hears.” If one wonders who informed the Advocate, there is only one source. Since there is only one who is coming, He is the same one conveying the wisdom. Consequently, it is evident that the visible person can also articulate what God has spoken. Only God can communicate God’s wisdom. Rather than stating that humans are incapable of conveying God’s wisdom, it is phrased that the Advocate will speak only what He has heard.
+<div class="poem"><div class="poemtext">
+  UJesu waprofetha ngoMmeli ozayo. Igama elithi &lsquo;uMoya weqiniso&rsquo; lisho <strong>&lsquo;uNkulunkulu wokuhlakanipha.&rsquo; </strong>UJesu waveza ukuthi uNkulunkulu owayezakuza emva Kwakhe wayezohola wonke umuntu eqinisweni futhi akhulume iqiniso kuphela. Naphezu kokuthi uNkulunkulu ethathe isimo somuntu, eziphatha njengomuntu Ngendlela, uJesu wathi, &ldquo;Njengomuntu, akafundisi lutho Okwakhe; Ukhuluma kuphela lokho Akuzwayo.&rdquo; Uma umuntu ezibuza ukuthi ubani kwazisa uMmeli, munye umthombo. Njengoba kukhona munye kuphela ozayo, nguyena odlulisa ivangeli ukuhlakanipha. Ngenxa yalokho, kusobala ukuthi umuntu obonakalayo angakwazi futhi chaza lokho uNkulunkulu akukhulumile. UNkulunkulu kuphela ongakwazi khuluma ngokuhlakanipha kukaNkulunkulu. Kunokuba asho ukuthi abantu abakwazi ukudlulisa ukuhlakanipha kukaNkulunkulu, kubekwe ukuthi Ummeli uzokhuluma kuphela lokho Akuzwile.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 142,
-verse: ` <b>The Gospel of John, 16th chapter, 14th and 15th verses. </b>`,
+verse: ` <b>(64) IVangeli likaJohane, isahluko 16, 14 kanye Amavesi 15. </b>`,
 meaning: ` <b>
-(14) He will glorify me because it is from me that He will receive what He will make known to you.
+(16:14) Uzongikhazimulisa ngoba uvela kimi uyakwemukela lokho Azakunazisa khona.
 <br><br>
-(15) All that belongs to the Father is mine. That is why I said the Spirit will receive from me that He will make known to you.</b>`,
+(16:15) Konke okungokukaBaba kungokwami. Leyo kungani ngithe uMoya uyakwamukela kimi ukuthi uyakwamukela kwazisa wena.</b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   If you look at this verse, some parts make sense while others do not. This verse is like playing a game of hide and seek with people. Earlier, Jesus mentioned that the newly coming Spirit of truth would teach what He hears. Subsequently, in the next verse, He stated that the Advocate would take what He received from Jesus and convey it to the people. Additionally, Jesus asserted that the Advocate would express things that Jesus had not said. However, in the current statement, Jesus mentions that the Advocate would inform the people about what He had received from Jesus. The apparent inconsistency in Jesus’ statements may lead to confusion. Yet, there is a deliberate reason for this ambiguity. Jesus chose to express Himself in a way that <b>those genuinely interested in His wisdom would comprehend, while those lacking interest would not.</b> He further stated that the coming Advocate would share what Jesus had said to glorify Him. Jesus then affirmed that all that belongs to the Father is His, with the Father referring to the Holy Spirit or God. By emphasizing that God’s wisdom is His and that the Advocate would convey what He had received from Jesus, it becomes evident that Jesus and the Holy Spirit are synonymous. Instead of explicitly stating, <b>“I am God,”</b> Jesus phrased it as, <b>“All the words of God are mine.”</b>
-</div></div>
+<div class="poem"><div class="poemtext">
+  Uma ubheka leli vesi, ezinye izingxenye zinengqondo ngenkathi abanye abakwenzi. Leli vesi lifana nokudlala umdlalo wokucasha nabantu. Ngaphambili, uJesu washo ukuthi abasanda kufika Umoya weqiniso wawuyofundisa lokho Akuzwayo. Ngemva kwalokho, ku-vesi elilandelayo, Wathi uMmeli uyothatha lokho Yena wamukele kuJesu futhi wakudlulisela kubantu. Ngaphezu kwalokho, UJesu wagomela ngokuthi uMmeli wayeyoveza izinto ezinjalo UJesu wayengashongo. Nokho, esitatimendeni samanje, uJesu isho ukuthi uMmeli uzokwazisa abantu lokho ayekuthole kuJesu. Ukungahambisani okusobala emazwini kaJesu kungase kubangele ukudideka. Nokho, kukhona isizathu samabomu salokhu kungaqondakali. UJesu wakhetha ukuveza Yena ngokwakhe ngendlela <strong>labo abanesithakazelo ngobuqotho Kwakhe ukuhlakanipha bekuyoqonda, kuyilapho abangenasithakazelo ngeke. </strong>Uqhube wathi u-Advocate ozayo uzofika wabelane ngalokho uJesu ayekushilo ukuze amkhazimulise. UJesu wabe eseqinisekisa ukuthi konke okungokukaBaba kungokwaKhe, kuYise ebhekise kuMoya oNgcwele noma uNkulunkulu. Ngokugcizelela ukuthi okukaNkulunkulu ukuhlakanipha kungokwaKhe nokuthi uMmeli adlulise lokho Anakho etholwe kuJesu, kuba sobala ukuthi uJesu noNgcwele Umoya ziyafana. Esikhundleni sokusho ngokucacile, &ldquo;NginguNkulunkulu,&rdquo; UJesu wathi, <strong>&ldquo;Onke amazwi kaNkulunkulu angawami.&rdquo;</strong>
+  </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 143,
-verse: ` <b>(65)	The Gospel of John, 16th chapter, 16th verse. </b>`,
+verse: ` <b>(65)	IVangeli likaJohane, isahluko 16, ivesi 16. </b>`,
 meaning: `<b>
-(16) Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.” </b>`,
+(16:16) UJesu waqhubeka wathi: “Kuseyisikhashana nizokwazi ningabe nisangibona, bese kuthi emva kwesikhashana nibone ngibone.” </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  Jesus conveyed to His disciples that they would see Him no more after a while, indicating His departure from among the people and the cessation of His appearance to them. He also mentioned that they would see Him again after a little while, implying that He would leave His physical form, not to reappear in the same bodily manifestation. This statement perplexed the disciples, leading them to question why Jesus spoke of seeing Him again after a little while. When Jesus stated, “In a little while, you will see me no more, and then after a little while, you will see me,” some might have wondered if He would temporarily hide and then reappear. However, in a previous instance, Jesus had explained, “I will go. The Advocate will not come to you unless I go. I will go and send Him.” Thus, Jesus was suggesting that He would fulfill His promise to depart, and after some time, they would see Him again through the coming Advocate, who was also Jesus. In this context, the verse becomes coherent when one realizes that the one (Jesus) departing and the one (Advocate) returning are identical. Jesus emphasized that seeing either one of them is equivalent to seeing only one, as Jesus and the Advocate are one and the same.
+<div class="poem"><div class="poemtext">
+  UJesu watshela abafundi bakhe ukuthi bazombona kungabe kusaba khona emva kwesikhashana, ekhombisa ukumuka Kwakhe phakathi abantu kanye nokuphela kokubonakala Kwakhe kubo. Naye futhi wathi bazophinde bambone emva kwesikhashana. okusho ukuthi wayezoshiya isimo Sakhe senyama, angaphinde avele ekubonakalisweni komzimba ofanayo. Lesi sitatimende sabadidayo abafundi, ebaholela ekubuzeni ukuthi kungani uJesu ekhuluma ngokubona Naye futhi emva kwesikhashana. Lapho uJesu ethi, “Kancane Kuseyisikhashana, anisayikungibona, futhi emva kwesikhashana nibe nani uzongibona,” abanye bangase bazibuze ukuthi Uyongibona yini fihla okwesikhashana bese uvela futhi. Nokho, ekuqaleni Ngokwesibonelo, uJesu wayechazile, “Ngizohamba. Ngeke uMmeli ngize kuwe ngaphandle kokuthi ngihambe. ngizohamba ngiMthume.” Ngakho, uJesu wayephakamisa ukuthi wayezofeza isithembiso Sakhe sokumuka, futhi ngemva kwesikhathi esithile, babezobona u-Hngiphinde ngokuza Ummeli, owayenguJesu futhi. Kulo mongo, ivesi kuyahambisana lapho umuntu ebona ukuthi lowo (uJesu) ezisukayo kanye (uMmeli) obuyayo ziyefana. UJesu ugcizelele ukuthi ukubona eyodwa yazo kuyalingana ebona munye kuphela, njengoba uJesu noMmeli bemunye futhi okufanayo.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 144,
-verse: ` <b>The Gospel of John, 16th chapter, 17th, 18th, 19th, 20th, 21st and 22nd verses. </b>`,
+verse: ` <b>(66) IVangeli likaJohane, isahluko 16, 17, 18, Ivesi 19, 20, 21 kanye 22. </b>`,
 meaning: `<b>
-(17) At this, some of his disciples said to one another, “What does He mean by saying, ‘In a little while you will see me no more, and then after a little while you will see me,’ and ‘Because I am going to the Father’?”
+(16:17) Kulokhu, abanye babafundi bakhe bathi komunye omunye, “Usho ukuthini ngokuthi, ‘Kancane kanti anisayikungibona, futhi emva kwesikhashana kuyilapho nizongibona,’ futhi ‘Ngoba ngiya kini Ubaba?"
 <br><br>
-(18) They kept asking, “What does He mean by ‘a little while’? We don’t understand what He is saying.”
+(16:18) Babelokhu bebuza, “Usho ukuthini ngokuthi ‘ isikhathi esincane'? Asiqondi ukuthi uthini.”
 <br><br>
-(19) Jesus saw that they wanted to ask Him about this, so He said to them, “Are you asking one another what I meant when I said, ‘In a little while you will see me no more, and then after a little while you will see me’?
+(16:19) UJesu wabona ukuthi babefuna ukumbuza mayelana lokhu, ngakho wathi kubo: “Niyabuzana na? engangikuqondile lapho ngithi, ‘Kuseyisikhashana nizobona ningasangiboni, kuthi emva kwesikhashana nibone mina'?
 <br><br>
-(20) Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.
+(16:20) Ngiqinisile, ngiqinisile ngithi kini: Niyokhala nilile kuyilapho izwe lijabula. Uzakuba lusizi, kodwa usizi lwakho izophenduka intokozo.
 <br><br>
-(21) A woman giving birth to a child has pain because her time has come; but when her baby is born, she forgets the anguish because of her joy that a child is born into the world.
+(16:21) Owesifazane obeletha umntwana uba nobuhlungu ngoba isikhathi sakhe sesifikile; kodwa uma ingane yakhe ezelwe, uyakhohlwa usizi ngenxa yentokozo yakhe ukuthi umntwana uzelwe emhlabeni.
 <br><br>
-(22) So, with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy. </b>`,
+(16:22) Ngakho, nawe: Manje yisikhathi sakho sosizi, kodwa ngizo futhi niyokubona futhi niyojabula, futhi akekho oyokwamukela susa injabulo yakho. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">   When Jesus uttered the words, “In a little while, you will see me no more, and then after a little while you will see me,” people found it challenging to comprehend. In response, Jesus illustrated the concept using a parable of a woman giving birth. He conveyed that, just as the woman experiences pain during childbirth, the disciples would undergo some distress due to His departure. However, He reassured them that they would experience joy and gladness akin to the woman who forgets the pain once the child is born. Jesus addressed those present, acknowledging that there would be a period of pain caused by His leaving, but emphasized that this sorrow would be eclipsed by the joy upon His return.
+<div class="poem"><div class="poemtext">
+  Lapho uJesu esho la mazwi, “Kuseyisikhashana nizokwazi ningabe nisangibona, kuthi emva kwesikhashana nibone. abantu bakuthola kuyinselele ukuqonda. Ephendula, uJesu wafanekisa lo mqondo esebenzisa umfanekiso wowesifazane obeletha. Wakudlulisa lokho, njengoba nje owesifazane ezwa ubuhlungu phakathi ekubelethweni komntwana, abafundi babezahlupheka ngenxa yoku Ukuhamba kwakhe. Nokho, wabaqinisekisa ukuthi babeyokwenza thola intokozo nenjabulo njengowesifazane okhohlwayo ubuhlungu lapho umntwana esezelwe. UJesu wakhuluma nababekhona, ukuvuma ukuthi kuzoba nenkathi yobuhlungu obubangelwa Ukushiya kwakhe, kodwa wagcizelela ukuthi lolu sizi luzodlula ngenjabulo ekubuyeni Kwakhe.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Gospel of John",
+chapterName: "IVangeli likaJohane",
 chapterNumber: 5,
 pageNumber: 145,
-verse: ` <b>(67)	The Gospel of John, 16th chapter, 25th verse. </b>`,
+verse: ` <b>(67)	IVangeli likaJohane, isahluko 16, ivesi 25. </b>`,
 meaning: `<b>
-(25) Though I have been speaking figuratively, a time is coming when I will no longer use this kind of language but will tell you plainly about my Father.   </b>`,
+(16:25) Nakuba bengikhuluma ngomfanekiso, siyeza isikhathi lapho ngingabe ngisalusebenzisa lolu hlobo kodwa ngizalitshela ngokusobala ngoBaba.  </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"><div class="poemtext">  The words of Jesus, as mentioned earlier, were acknowledged to be obscure, causing difficulty for people to understand and leading to confusion. Jesus Himself admitted to speaking figuratively to prevent immediate understanding. He also asserted, “I will not say figuratively in the future. I will tell you everything clearly.” However, even this statement appears somewhat ambiguous. Jesus declared that He would depart soon, and the Advocate with the Holy Spirit would come to elucidate everything. He clarified that the Advocate would only come if He left and that the disciples would be saddened by His departure but would rejoice upon seeing Him again. Now, He adds, <b>“So far, I said obscurely. When I come back, I will tell you everything clearly.”</b> This statement introduces a degree of uncertainty regarding whether the one coming is a different Advocate or if Jesus Himself will return.
+<div class="poem"><div class="poemtext">
+  Amazwi kaJesu, njengoba kushiwo ngaphambili, ayenjalo okuvunywa ukuthi akucacile, okubangela ubunzima kubantu ukuqonda nokuholela ekudidekeni. UJesu uqobo wavuma ukukhuluma ngomfanekiso ukuvimbela ukuqonda ngokushesha. Uphinde wagomela wathi, &ldquo;Ngeke ngisho ngendlela engokomfanekiso esikhathini esizayo. ngizokwenza ngikutshele konke ngokucacile.&rdquo; Nokho, ngisho lesi sitatimende kubonakala kungaqondakali. UJesu wamemezela ukuthi wayeyokwenza sukani masinyane, futhi uMmeli ngoMoya oNgcwele wayezofika ukucacisa konke. Wacacisa ukuthi uMmeli uzoyenza woza kuphela uma Ehamba nokuthi abafundi bazodabuka ngokuhamba Kwakhe kodwa wayezojabula lapho embona futhi. Manje, Uyanezela<strong>, &ldquo;Kuze kube manje, ngishilo ngokungacacile. Lapho ngibuya, ngiuzokutshela konke ngokucacile." </strong>Lesi sitatimende sethula izinga lokungaqiniseki mayelana nokuthi lowo ozayo uMmeli ohlukile noma ngabe uJesu uqobo uzobuya.
 </div></div>
 </span>`
 },
 {
-chapterName: "The Scripture of John Revelation",
+chapterName: "ISambulo sikaJohane",
 chapterNumber: 6,
 pageNumber: 146,
-verse: ` <b>(14)	The John Revelation, 9th chapter, 4th, 5th and 6th verses.</b>`,
+verse: ` <b>1) ISambulo sikaJohane, isahluko 9, 4, 5, kanye 6 amavesi.</b>`,
 meaning: `<b>
-(4) They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads.
+(9:4) Zatshelwa ukuba zingalimazi utshani bomhlaba noma yisiphi isitshalo noma isihlahla, kodwa kuphela labo bantu abangazange banophawu lukaNkulunkulu emabunzini abo.
 <p>
 <div class="container">
           <img src="assets/img/Devunimudra_inside.png"   style="width:100%;">
           <div class="top-left">
-           <u> The Seal Of God</u>
+           <u>UPhawu lukaNkulunkulu</u>
           </div>
           <div class="top-right1">
-            Nature
+            Imvelo
            </div>
            <div class="top-right2">
-           Holy Spirit
+          UMoya oNgcwele
           </div>
           <div class="dm-top-right3">
-           Father
+           Baba
           </div>
           <div class="dm-top-right4">
-           Son
+           Indodana
           </div>
           <div class="dm-bottom-left2">
-            Body
+            Umzimba
            </div>
           <div class="bottom-left">
-            <u> For All Religions</u>
+            <u>Okwazo Zonke Izinkolo</u>
            </div>
         </div>
 </p>
-(5) They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes.
+(9:5) Babengavunyelwe ukubabulala kodwa kuphela babahlukuluze izinyanga ezinhlanu. Nobuhlungu babo ukuhlupheka kwakunjengodosi lukafezela lapho kuyagadla.
 <br><br>
-(6) During those days people will seek death but will not find it; they will long to die, but death will elude them. </b>`,
+(9:6) Ngalezozinsuku abantu bayofuna ukufa kodwa bayokufuna ungakutholi; bayofisa ukufa, kodwa ukufa kuyophunyuka bona. </b>`,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"> <div class="poemtext">  The third verse preceding these verses, Revelation 9:3, states, <b>“Out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth.”</b> This verse indicates that the locusts emerged from the smoke. However, the smoke referred to here is not produced by burning wood or other materials. Instead, it is a dense cloud that appears at dawn on a winter day when the sun has not yet risen. This cloud reduces sunlight and creates darkness. The locust swarms come from this dark cloud. As they arrive on the earth in large groups like an army, they are known as “locust swarms.” No one knows exactly where the locusts come from, but they are believed to originate from the sky’s cloudy mist. Their birth and growth remain a mystery, and they emerge from the smoke in the void without any clear origin. Locust swarms can number in the hundreds, thousands, or even millions.
+<div class="poem"> <div class="poemtext">
+  Ivesi lesithathu elandulele la mavesi, isAmbulo 9:3; uthi, <strong>&ldquo;Kuphuma emsini isikhonyane sehlela emhlabeni</strong><strong>futhi sanikwa amandla afana nawawofezela bomhlaba.&rdquo; </strong>Leli vesi libonisa ukuthi isikhonyane saphuma emsini. Nokho, intuthu okukhulunywa ngayo lapha ayikhiqizwa izinkuni ezivuthayo noma ezinye izinto. Kunalokho, liyifu eliminyene okubonakala ekuntweleni kokusa ngosuku lwasebusika ilanga lingakafiki uvukile. Leli fu linciphisa ukukhanya kwelanga futhi lidale ubumnyama. Izintethe ziphuma kulelifu elimnyama. Njengoba befika emgwaqeni umhlaba ngamaqembu amakhulu njengebutho, aziwa ngokuthi &ldquo;isikhonyane izinkumbi.&rdquo; Akekho owazi kahle ukuthi isikhonyane sivelaphi. kodwa kukholakala ukuthi zisuka enkungu yesibhakabhaka esiguqubele. Ukuzalwa nokukhula kwazo kuhlala kuyimfihlakalo, futhi ziyavela kusukela entuthuni esikhaleni ngaphandle kwanoma iyiphi imvelaphi ecacile. Isikhonyane izinkumbi zingaba ngamakhulu, izinkulungwane, noma ngisho izigidi.
 
-  The locusts carry numerous diseases that afflict people. Though they may appear as ordinary locusts, they constitute an army of angels, serving as God’s servants, dispatched by His command. God ordered the locusts to afflict humans, and through His command, this army of locusts affects humanity. Emerging from an invisible realm, they hide and inflict bites on people, entering their bodies in the form of diseases and causing torment. God endowed them with as much poison as scorpions on the ground. Humans suffer considerably due to the arrival of locusts from the invisible world, serving as agents of suffering for human sins. They were instructed not to harm the grass of the earth, any plants, or trees except for humans. While the common assumption is that locusts harm grass, plants, and trees, the verse clarifies that these locusts do not harm vegetation but target humans. The origin of locusts, their sustenance, and their mission remain unknown to humans.
+  Isikhonyane sithwala izifo eziningi ezihlupha abantu. Nakuba zingase zibonakale njengezintethe ezivamile, zakha ibutho lezingelosi, ezikhonza njengezinceku zikaNkulunkulu, zithunywe nguye umyalo. UNkulunkulu wayala isikhonyane ukuba sihluphe abantu, futhi ngomyalo waKhe, Ibutho lesikhonyane lithinta isintu. Njengoba zivela endaweni engabonakali, ziyacasha futhi zilume abantu, abangena emizimbeni yabo ngesimo sezifo kanye ebanga ukuhlushwa. UNkulunkulu wabapha ubuthi obungango ofezela phansi. Abantu bahlupheka kakhulu ngenxa ukufika kwesikhonyane esivela ezweni elingabonakali, sisebenza njengamanxusa lokuhlushwa ngenxa yezono zabantu. Bayalwa ukuthi bangalimazi utshani bomhlaba, noma yiziphi izitshalo, noma izihlahla ngaphandle kwabantu. Nakuba umcabango ovamile uwukuthi isikhonyane silimaza utshani, izitshalo, nezihlahla, leli vesi licacisa ukuthi lezi sikhonyane azikwenzi lokho zilimaza izitshalo kodwa zibhekiswe kubantu. Umsuka wesikhonyane, sazo ukudla, futhi umsebenzi wabo uhlala ungaziwa kubantu.
 
-  It is evident from the four verses mentioned here that the army of angels in the form of locusts comes to afflict humans. The army of God’s servants, taking the form of locusts, possesses the power to torment humans for up to five months, yet they lack the authority to cause death. When the locusts invisibly bite humans, they induce a disease that inflicts pain akin to the sting of a scorpion. The intensity of suffering varies based on individual karma, ranging from mild discomfort to the level of a scorpion sting. As no one can evade this pain, humans must endure it. The verse indicates that during severe suffering, people may wish for death as an escape, but they are not permitted to end their own lives. Hence, humans must endure the pain. The verse further conveys that even death eludes them, signifying that humans cannot escape the suffering caused by the locusts.
+  Kusobala emavesini amane ashiwo lapha ukuthi ibutho lezingelosi lisesimweni sesikhonyane liyafika lizohlupha abantu. Ibutho lezinceku zikaNkulunkulu, lithatha isimo sesikhonyane, unamandla okuhlupha abantu kuze kube yizinyanga ezinhlanu, nokho abanalo igunya lokubangela ukufa. Lapho isikhonyane ziluma abantu ngokungabonakali, zidala isifo esibanga izinhlungu njengodosi lukafezela. Amandla okuhlupheka ayahluka ngokusekelwe ku-karma yomuntu ngamunye, kusukela ekungaphatheki kahle okuncane kuya ku-izinga lodosi lukafezela. Njengoba kungekho muntu ongabalekela lobu buhlungu, abantu kufanele ikubekezelele. Ivesi libonisa ukuthi ngesikhathi ezinzima ukuhlupheka, abantu bangase bafise ukufa njengendlela yokubalekela, kodwa kunjalo bengavunyelwe ukuzibulala. Ngakho-ke, abantu kufanele ubekezelele ubuhlungu. Leli vesi liqhubeka liveza ukuthi ngisho nokufa iyababalekela, okusho ukuthi abantu abanakubalekela ukuhlupheka okubangelwa yisikhonyane.
 
-  If the locusts, originating from invisible smoky clouds, come a hundred times, they may only become visible once. Remaining unseen, they can have various effects on humans, causing harm in the form of disease or through other means. The verse indicates that their harm is directed solely at humans and can manifest in any form. It is stated that humans will endure this harm because the locusts are commanded to inflict it. Even if humans seek death due to unbearable suffering, it remains elusive as death runs away from them. Although humans suffer in various ways from the “invisible locusts (servants)” that God has sent, they do not contemplate the causes of their suffering. They are unable to escape their suffering through God’s words.
+  Uma isikhonyane esivela emafwini ashunqayo angabonakali, ziza izikhathi eziyikhulu, zingase zibonakale kanye kuphela. Ngokuhlala engabonakali, angaba nemiphumela ehlukahlukene kubantu, ukulimaza ngendlela yesifo noma ngezinye izindlela. Leli vesi libonisa ukuthi ukulimala kwabo kubhekiswe kubantu kuphela futhi ingabonakalisa nganoma yiluphi uhlobo. Kuthiwa abantu bayokwenza lokho nibekezelele lokhu kubi, ngokuba kuyalwa isikhonyane yona. Ngisho noma abantu befuna ukufa ngenxa yokuhlupheka okungabekezeleleki, kodwa akulula njengoba ukufa kubabalekela. Nakuba abantu bahlushwa ngezindlela ezihlukahlukene ngenxa &ldquo;yesikhonyane esingabonakali (izinceku)&rdquo; ezithunywe nguNkulunkulu, azicabangi izinkinga zabo. Abakwazi ukuphunyuka kwabo ukuhlupheka ngamazwi kaNkulunkulu.
 
-  Many new diseases are emerging worldwide, yet humans often do not contemplate their origins. Identifying a new disease takes time, and finding a cure can be even more prolonged. Just as a cure is discovered for one ailment, another elusive one may surface. Alongside diseases, there are undiagnosable ailments and suffering. While some people acknowledge that invisible forces contribute to suffering, no one knows how to effectively address them. <b>The only way to avoid suffering caused by invisible angels is to wear the Seal of God, a symbol of God’s power. God commanded His servants to persecute only those who do not wear the Seal of God.</b> Though some believe that visible locusts can harm plants and trees, <b>God directed His invisible locusts to inflict harm solely upon those who lack the Seal of God on their foreheads.</b> In the final divine scripture, verses 5:22 and 22:32 mention the Seal of God. The Akshara Parabrahma Yoga of the first divine scripture, Bhagavad-Gita, hints at the Seal of God. In my scripture, <b>“The Seal of God,”</b> we detail how the Seal of God looks. Instead of questioning others, have faith in God and wear the Seal of God, as it is not tied to any particular religion. The Seal of God is mentioned in three divine scriptures. The Revelation of the Bible explains the disasters caused by not wearing the Seal of God. Christians should not hesitate to wear God’s seal; it is a matter of faith. <b>Regardless of your religion, protect yourself from suffering. Listen to me and wear “The Seal of God,” which was previously unknown. Protect yourself from suffering.</b>
+  Izifo eziningi ezintsha ziyavela emhlabeni wonke, nokho abantu ngokuvamile abacabangi ngemvelaphi yabo. Ukukhomba isifo esisha kuthatha isikhathi, futhi ukuthola ikhambi kungaba ngisho nangokwengeziwe isikhathi eside. Njengoba nje kutholakala ikhambi lesifo esisodwa, esinye okungase kuvele okungajwayelekile. Eceleni kwezifo, kukhona izifo ezithathelwanayo nokuvuvukala. Ngenkathi abanye abantu bavuma ukuthi amandla angabonakali anesandla ekuhluphekeni, cha umuntu uyazi ukuthi angabhekana kanjani nazo ngempumelelo. <strong>Okuwukuphela kwendlela ukugwema ukuhlupheka okubangelwa izingelosi ezingabonakali kuwukwembatha Uphawu lukaNkulunkulu, uphawu lwamandla kaNkulunkulu. UNkulunkulu wayala abaKhe izinceku ukushushisa kuphela labo abangalufaki uPhawu kaNkulunkulu. </strong>Nakuba abanye bekholelwa ukuthi isikhonyane esibonakalayo singalimaza izitshalo nezihlahla, <strong>uNkulunkulu waqondisa isikhonyane saKhe esingabonakali ukulimaza kuphela labo abangenalo uPhawu lukaNkulunkulu phezu kwabo emabunzini. </strong>Embhalweni wokugcina waphezulu, amavesi 5:22 no 22:32 khuluma ngoPhawu lukaNkulunkulu. I-Akshara Parabrahma Yoga ye umbhalo wokuqala waphezulu, iBhagavad-Gita, ubonisa uphawu lukaNkulunkulu. Ku umbhalo wami, <strong>&ldquo;uPhawu lukaNkulunkulu,</strong>&rdquo; sichaza kabanzi ukuthi uPhawu lukaNkulunkulu kanjani ubukeka. Esikhundleni sokubuza abanye, yiba nokholo kuNkulunkulu futhi gqoka uPhawu lukaNkulunkulu, njengoba lungaboshiwe kunoma iyiphi inkolo ethile. UPhawu lukaNkulunkulu kukhulunywa ngalo emibhalweni emithathu yaphezulu. Isambulo seBhayibheli sichaza izinhlekelele ezibangelwa ukungenzi egqoke uPhawu lukaNkulunkulu. AmaKristu akufanele angabaze ukugqoka uphawu lukaNkulunkulu; kuyindaba yokholo. <strong>Noma ngabe uyiyiphi inkolo, zivikele ekuhluphekeni. Lalela kimi ugqoke &ldquo;UPhawu lukaNkulunkulu,&rdquo; olwalungaziwa ngaphambili. Vikela ngokwakho ekuhluphekeni.</strong>
 </div></div>
 </span>`
 },
 {
-chapterName: "Three Fingers",
+chapterName: "Iminwe Emithathu",
 chapterNumber: 7,
 pageNumber: 147,
 verse: ``,
 meaning: ``,
 pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"> <div class="poemtext">  The portrait of Jesus seldom appears to people. Upon closer examination, <b> Jesus can be seen showing three fingers with His right hand.</b> Jesus imparted divine wisdom for approximately three years, and even after His death, His portrait appears to convey teachings to the people. While interpretations may vary, my understanding upon seeing the picture is that it contains a crucial message from Jesus’ teachings. In the first divine scripture, God is depicted in three parts - <b> Kshara, Akshara, and Purushottama.</b> Similarly, in the last divine scripture, God is described as having three aspects - <b> Passenger, Driver, and Witness.</b> In the second divine scripture, God is said to be in three parts - <b> Son, Father, and the Holy Spirit.</b> The three aspects of God are expounded in the Bhagavad-Gita, the Bible, and the Quran as the same wisdom. The fundamental wisdom in these three scriptures lies in understanding the three aspects of God. Once one comprehends the three aspects of God, complete understanding of God’s wisdom becomes possible.
+<div class="poem"> <div class="poemtext">
+  Umfanekiso kaJesu awuvamile ukuvela kubantu. Phezu ukuhlolisisa, <strong>uJesu angabonakala ebonisa iminwe emithathu ngesandla saKhe sokunene</strong>. UJesu wanikeza ukuhlakanipha kwaphezulu ukuze cishe iminyaka emithathu, futhi ngisho nangemva kokufa Kwakhe, Kwakhe isithombe sibonakala sidlulisela izimfundiso kubantu. Ngenkathi izincazelo zingahluka, ukuqonda kwami lapho ngibona isithombe siwukuthi iqukethe umlayezo obalulekile ovela kuJesu izimfundiso. Embhalweni wokuqala waphezulu, uNkulunkulu uvezwe ngabathathu izingxenye - <strong>Kshara, Akshara, futhi Purushottama</strong>. Ngokufanayo, kumbhalo wokugcina waphezulu, uNkulunkulu uchazwa njengonezici ezintathu - <strong>Umgibeli, Umshayeli, kanye noFakazi.</strong> Esaphezulu wesibili umbhalo, uNkulunkulu kuthiwa unezingxenye ezintathu - <strong>iNdodana, uYise, kanye</strong><strong>uMoya oNgcwele</strong>. Izingxenye ezintathu zikaNkulunkulu zichazwe encwadini IBhagavad-Gita, iBhayibheli, neQuran njengokuhlakanipha okufanayo. Ukuhlakanipha okuyisisekelo kule mibhalo emithathu kulele ukuqonda izingxenye ezintathu zikaNkulunkulu. Kanye eyodwa uyaqonda izici ezintathu zikaNkulunkulu, ziphelele ukuqonda ukuhlakanipha kukaNkulunkulu kuyenzeka.
 
-  However, Hindus reading the Bhagavad-Gita do not know who <b>Jeevatma (Kshara)</b> and <b> Atma (Akshara)</b> are. Similarly, Christians do not know who the Son and the Father are. Muslims do not know who <b> the Passenger and the Driver are.</b> In the Bhagavad-Gita that I wrote, I mentioned that Hindus are unaware of the perishable Jeeva, and the eternal God present in the body. In the Bible, I also noted that Christians do not understand the details of the two sons - <b> the Son and the Father.</b> Similarly, in the scripture <b> “The Diamond Verses in the Final Divine Scripture,”</b> I mentioned that Muslims do not know about the <b> two Allahs.</b> People of these three religions may have no idea about the other two parts of God, which are the main essence of their respective scriptures. The only term everyone recognizes is ‘God.’ Unknowingly, all of them are worshipping the third part, known as Purushottama in Bhagavad-Gita, the Holy Spirit in the Bible, and the Witness in the Quran. God Himself stated that it is not right to worship the third part of God (the Holy Spirit), who is beyond all worship and all dharmas. Yet, everyone worships <b> “the God who does not need anything.”</b> It can be said that human ignorance lies in not knowing that God does not need our worship.
+  Nokho, amaHindu afunda iBhagavad-Gita awakwenzi lokho yazi ukuthi obani <strong>uJeevatma (Kshara) </strong>no-<strong>Atma (Akshara).</strong> Ngokufanayo, amaKristu akazi ukuthi ubani iNdodana noYise kukhona. AmaSulumane akazi ukuthi ubani <strong>umgibeli nomshayeli kukhona. </strong>Encwadini ethi Bhagavad-Gita engayibhala, ngikhulume ngamaHindu abaqapheli iJeeva ebhubhayo, noNkulunkulu waphakade ekhona emzimbeni. EBhayibhelini, ngaphawula nokuthi amaKristu enza kanjalo ungaqondi imininingwane yamadodana amabili - <strong>iNdodana kanye Baba</strong>. Ngokufanayo, embhalweni othi <strong>&ldquo;Amavesi wezi Dayimane UmBhalo Wokugcina Waphezulu,&rdquo; </strong>ngasho ukuthi amaSulumane awawazi mayelana <strong>noAllah ababili</strong>. Abantu balezi zinkolo ezintathu bangase babe nakho akukho mbono ngezinye izingxenye ezimbili zikaNkulunkulu, okuyizona eziyinhloko ingqikithi yemibhalo yabo. Igama kuphela wonke umuntu uyaqaphela ukuthi &lsquo;unguNkulunkulu.&rsquo; Ngokungazi, bonke bayakhulekela ingxenye yesithathu, eyaziwa ngokuthi Purushottama in Bhagavad-Gita, UMoya oNgcwele eBhayibhelini, kanye noFakazi eQuran. uNkulunkulu Ngokwakhe wathi akulungile ukukhulekela ingxenye yesithathu se UNkulunkulu (uMoya oNgcwele), ongaphezu kwakho konke ukukhulekelwa nakho konke i-dharmas. Nokho, wonke umuntu ukhulekela <strong>&ldquo;uNkulunkulu ongamkhonzi</strong><strong>ongadingi noma yini.&rdquo; </strong>Kungashiwo ukuthi ukungazi komuntu akukona ukwazi ukuthi uNkulunkulu akakudingi ukukhulekelwa kwethu.
 
-  Regarding Christians, they are unaware of the <b> “two Sons”</b> mentioned in their scripture. Although the Bible mentions two Sons, Christians believe there is only one Son and are not familiar with the wisdom of two Sons. They may not know that there are two Sons – <b>the Permanent Son and the Temporary Son.</b> The Bible refers to them as <b>the Son and the only begotten Son,</b> but Christians do not know who these two Sons are. Similarly, no one in any religion may know that there are two Gods - <b>the God, who is the Father, and the God, who is the Grandfather.</b> Even though this truth is scientifically presented in the scripture, some people may not believe it, and others deny the existence of two Gods altogether. Although the scriptures state that there is only one God to be worshipped, it is unclear whether this God is the Father or the Grandfather.
+  Ngokuphathelene namaKristu, abawazi <strong>&ldquo;ababili Amadodana&rdquo;</strong> okukhulunywa ngawo embhalweni wabo. Nakuba iBhayibheli ikhuluma ngamaDodana amabili, amaKrestu akholelwa ukuthi kuneNdodana eyodwa kuphela futhi abajwayelene nokuhlakanipha kwamadodana amabili. Bangase abazi ukuthi kukhona amadodana amabili - <strong>iNdodana Engunaphakade kanye iNdodana Yesikhashana</strong>. IBhayibheli libabiza ngokuthi <strong>iNdodana futhi iNdodana ezelwe yodwa,</strong> kodwa amaKristu akazi ukuthi ngobani laba Amadodana amabili. Ngokufanayo, akekho kunoma iyiphi inkolo ongase akwazi lokho kukhona oNkulunkulu ababili - <strong>uNkulunkulu, onguYise, kanye Unkulunkulu, onguBabamkhulu. </strong>Nakuba lokhu kuyiqiniso okwethulwe ngokwesayensi embhalweni, abanye abantu bangase bangabi kholwa, futhi abanye bayaphika ukuba khona koNkulunkulu ababili ngokuphelele. Nakuba imibhalo isho ukuthi munye kuphela UNkulunkulu okufanele akhulekelwe, akucaci noma lo Nkulunkulu nguyena Ubaba noma uBabamkhulu.
 
-  Those who possess divine wisdom and those who read the scriptures worship only one God based on their understanding. They may worship the <b>Grandfather-God</b>, who should not be worshipped, instead of the <b>Father-God</b>, who should be worshipped. The terms Father-God and Grandfather-God may seem new, but this matter is actually in their scriptures. People often fail to comprehend truthful wisdom. When someone shares the truth with them, they may react angrily and reject it. In my Bible, I read that there are two Sons - the Son of Man and the Son of God - and that the Holy Spirit, who is in the Grandfather position, should not be worshipped. Those who consider the Holy Spirit to be God and have been worshipping Him as such may now be in a state of confusion. Jesus taught significantly about the two Sons and the Holy Spirit. He even portrayed <b>“The two Sons and their Father, the Holy Spirit,”</b> using his fingers. Jesus used His right hand to show the two fingers - the index finger and the middle finger - and also the thumb. I understood that the thumb is an indication of the Holy Spirit in the portrait. Since God is the one who grants perceptive power to the intellect (buddhi), according to truthful wisdom, Jesus showed both the Father (Atma) and the Son (Bhagavan) with two fingers (index and middle). It is understood that they represent the permanent Son and the temporary Son. The scripture summarizes that <b>the Holy Spirit will not be known until those two Sons are known.</b> Everyone should know that the spiritual secret which should be known to the entire human society is <b>the matter of the two Sons.</b> If you look at Jesus’s three fingers in the picture on the next page, they remind us of the Holy Spirit and the two Sons - Atma and the only begotten Son.
+  Labo abanokuhlakanipha kwaphezulu nalabo abafundayo imibhalo ikhonza uNkulunkulu oyedwa kuphela ngokusekelwe kweyabo ukuqonda. Bangase bakhulekele <strong>uMkhulu-uNkulunkulu</strong>, lowo akufanele akhulekelwe, esikhundleni <strong>sikaBaba-uNkulunkulu</strong>, ngubani kufanele akhulekelwe. Amagama athi uBaba-uNkulunkulu kanye UBabamkhulu-uNkulunkulu angase abonakale emusha, kodwa lolu daba empeleni luphakathi imibhalo yabo. Abantu ngokuvamile bayehluleka ukuqonda iqiniso ukuhlakanipha. Lapho othile ehlanganyela nabo iqiniso, bangase bahlanganyele nabo asabele ngokucasuka anqabe. EBhayibhelini lami, ngafunda ukuthi zimbili Amadodana - iNdodana yoMuntu neNdodana kaNkulunkulu - nokuthi oNgcwele UMoya, osesikhundleni sikaMkhulu, akufanele abe bakhonzwa. Labo ababheka uMoya oNgcwele njengoNkulunkulu futhi kade bemkhulekela kanjalo kungenzeka manje basesimweni ukudideka. UJesu wafundisa ngokuphawulekayo ngamadodana amabili kanye uMoya oNgcwele. Waze waveza <strong>&ldquo;Amadodana amabili kanye nawo Baba, uMoya oNgcwele,&rdquo; </strong>esebenzisa iminwe yakhe. UJesu wasebenzisa ilungelo lakhe isandla ukukhombisa iminwe emibili - umunwe wokukhomba nophakathi umunwe - kanye nesithupha. Ngaqonda ukuthi isithupha siyisibonakaliso sikaMoya oNgcwele esithombeni. Njengoba uNkulunkulu enguye onikeza amandla okuqonda kungqondongqondo (buddhi), ngokuhlakanipha kweqiniso, uJesu wabonisa kokubili uYise (Atma) kanye neNdodana (Bhagavan) eneminwe emibili (inkomba kanye phakathi). Kuyaqondwa ukuthi bamele unomphela Indodana neNdodana yesikhashana. Umbhalo ufingqa ukuthi <strong>Umoya oNgcwele ngeke waziwe kuze kube yilawo maDodana amabili eyaziwayo</strong>. Wonke umuntu kufanele azi ukuthi imfihlo kamoya okuyinto Indaba okufanele yaziwe yiwo wonke <strong>umphakathi wesintu wamadodana amabili. </strong>Uma ubheka iminwe emithathu kaJesu kusithombe ekhasini elilandelayo, basikhumbuza uMoya oNgcwele kanye Amadodana amabili - u-Atma neNdodana ezelwe yodwa.
 </div></div>
 <ion-row><ion-col class="ion-text-center">
 <img src="assets/img/jesus.png"/>
@@ -2616,30 +2731,32 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 </span>`
 },
 {
-chapterName: "Good Friday! - Bad Friday!",
+chapterName: "ULwesihlanu Oluhle noma uLwesihlanu Olubi?",
 chapterNumber: 8,
 pageNumber: 148,
 verse: ``,
 meaning: ``,
 pageText: ` <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
-<div class="poem"> <div class="poemtext"> Certain events in life bring happiness, while others bring sorrow to a person. During moments of joy, an individual is cheerful and enjoys good food and clothing. Conversely, when faced with sorrow, one loses appetite and interest in various aspects of life. The Diwali festival in India, for example, is celebrated with firecrackers to commemorate the defeat of the wicked demon Narakasura on that day. In ancient times, the scribes, Pharisees, and scholars who brought Jesus before the court and orchestrated His execution rejoiced over His death. They annually celebrated Jesus’ death anniversary as Good Friday, considering it a day of happiness. Since then, the festival has been known as ‘Good Friday.’
+<div class="poem"> <div class="poemtext">
+  Izenzakalo ezithile ekuphileni ziletha injabulo, kuyilapho ezinye ziletha usizi kumuntu. Ngezikhathi zenjabulo, umuntu ngamunye ujabule futhi ujabulele ukudla okuhle nezingubo. Ngokuphambene, nini ebhekene nosizi, umuntu ulahlekelwa isifiso sokudla nesithakazelo ezintweni ezihlukahlukene izici zokuphila. Umkhosi we-Diwali eNdiya, isibonelo, igujwe ngeziqhumane ukukhumbula ukunqotshwa kwe-idemoni elibi uNarakasura ngalolo suku. Ezikhathini zasendulo, ababhali, nabaFarisi, nezazi baletha uJesu phambi kwebandla enkantolo futhi wahlela ukubulawa Kwakhe wajabula ngokufa Kwakhe. Njalo ngonyaka babegubha unyaka wokufa kukaJesu njengoMuhle NgoLwesihlanu, silubheka njengosuku lwenjabulo. Kusukela lapho, umkhosi bekwaziwa ngokuthi &lsquo;Good Friday.&rsquo;
 
-In the early days, individuals who were unaware of Jesus’ greatness, along with the scribes and scholars, celebrated the festival. This occurred when Jesus’ value and wisdom were unknown. In the present time, even those who are familiar with Jesus’ wisdom are celebrating the day of Jesus’ death as Good Friday. While it is customary to celebrate joyfully on a good day, the day Jesus died is expected to be a painful day for His devotees. It is surprising to witness Christians, who profess Jesus as their God, happily wearing new clothes and eating good food without expressing grief over Jesus’death on that day.
+  Ezinsukwini zokuqala, abantu ababengazi ngoJesu. ubukhulu, kanye nababhali nezazi, bagubha umkhosi. Lokhu kwenzeka lapho ukubaluleka nokuhlakanipha kukaJesu kwaba engaziwa. Esikhathini samanje, ngisho nalabo who abajwayele Ukuhlakanipha kukaJesu bagubha usuku lokufa kukaJesu njengoluhle NgoLwesihlanu. Nakuba kuwumkhuba ukugubha ngenjabulo ngosuku oluhle, usuku uJesu afa ngalo kulindeleke ukuba lube usuku olubuhlungu kuKhe abazinikele. Kuyamangaza ukubona amaKristu, abathi UJesu njengoNkulunkulu wabo, ngenjabulo egqoke izingubo ezintsha futhi edla ukudla okuhle ngaphandle kokuzwakalisa ukudabuka ngokufa kukaJesu kulokho usuku.
 
-Indeed, the day when Jesus was killed should be labeled as a ‘Bad Day.’ Jesus’ devotees should express sorrow and refrain from eating on that day. It is perplexing to celebrate the day as a festival and name it ‘Good Friday’ as if it were a day of goodness. Even those who consider Jesus their family God participate in the celebration, revealing their lack of understanding of Jesus’ value. Those who deeply revere Jesus should regard that day as a ‘Bad Friday.’ Preachers bear the responsibility of educating people about the significance of Bad Friday and discouraging them from celebrating it. Individuals who fail to distinguish between a death day and a birthday lack an understanding of the greatness of God’s wisdom. When the head of a family passes away, the entire family mourns, and the same reverence should be given when Jesus, who should be esteemed more than a family member, dies. Celebrating Jesus’ death as a festival without grief is a mistake, assuming it to be an auspicious day. Jesus said, <b>“Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.”</b> When people mourn the death of a family member but do not mourn Jesus’ death and instead celebrate it as a festival, how can they be worthy of Jesus’ mercy? Therefore, let us refer to Good Friday as a ‘Bad Friday’ to honor Jesus. It becomes an act of reverence to Jesus when we consider that day as an evil day and mourn without celebrating it. Otherwise, <b>we express admiration for Jesus only with our words, not in our hearts.</b> If you honor, love, worship, and pray to Jesus, then propagate the notion of Good Friday as Bad Friday and help everyone understand it. Then you will become a true devotee of Jesus. When you forsake Good Friday, nothing bad happens to you; only good things occur.
+  Ngempela, usuku uJesu abulawa ngalo kufanele lubhalwe phansi &lsquo;njengosuku Olubi.&rsquo; Abazinikele bakaJesu kufanele babonise ukudabuka kanye yekani ukudla ngalolo suku. Kuyaxaka ukugubha usuku njengomkhosi futhi ulubize ngokuthi 'uLwesihlanu Oluhle' njengokungathi usuku lwo buhle. Ngisho nalabo ababheka uJesu njengomkhaya wabo njengoNkulunkulu bahlanganyele emkhosini, beveza ukuntula kwabo ukuqonda ukubaluleka kukaJesu. Labo abamhlonipha ngokujulile uJesu kufanele babheke lolo suku &lsquo;njengoLwesihlanu Olubi.&rsquo; Abashumayeli bathwala isibopho sokufundisa abantu ngokubaluleka Kokubi NgoLwesihlanu nokungabakhuthazi ukuthi bawugubhe. Abantu ngabanye abehluleka ukuhlukanisa phakathi kosuku lokufa kanye nokuntuleka kosuku lokuzalwa ukuqonda ubukhulu bokuhlakanipha kukaNkulunkulu. Lapho inhloko yomndeni iyashona, wonke umndeni uyalila, futhi inhlonipho efanayo kufanele inikezwe lapho uJesu, okufanele ahlonishwe ngaphezu kwelunga lomndeni, liyashona. Ukubungaza Ukufa kukaJesu njengomkhosi ongenalo usizi kuyiphutha, uma sicabanga kanjalo kube usuku oluhle. UJesu wathi <strong>&ldquo;Noma ubani othanda umphefumulo wakhe uyise noma unina ngaphezu kwami akangifanele mina; noma ubani othanda indodana noma indodakazi yakhe ngaphezu kwami akangifanele.&rdquo; </strong>Lapho abantu belilela ukufa ilungu lomndeni kodwa ungakulileli ukufa kukaJesu futhi esikhundleni salokho uwugubhe njengomkhosi, bangawufanelekela kanjani uJesu? isihe? Ngakho-ke, ake sibhekisele kuLwesihlanu Oluhle ngokuthi 'uLwesihlanu Olubi' ukudumisa uJesu. Kuba isenzo senhlonipho kuJesu lapho lolo suku silubheka njengolubi, silile ngaphandle ukuyibungaza. Kungenjalo, <strong>sibonisa ukuthi siyamhlonipha uJesu ngamazwi ethu kuphela, hayi ezinhliziyweni zethu. </strong>Uma uhlonipha, thanda, khuleka, futhi uthandaze kuJesu, bese usakaza umbono weGood NgoLwesihlanu njengoLwesihlanu Olubi futhi usize wonke umuntu ukuthi aluqonde. Kunawo uzoba umkhohlisi weqiniso kaJesu. Lapho ulahla Okuhle NgoLwesihlanu, akukho okubi okwenzeka kuwe; kwenzeka izinto ezinhle kuphela.
+
 </div></div>
 <ion-row><ion-col class="ion-text-center">
-Yours
-The Only Guru of Three Religions<br>
-<b>Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu</b><br><br>
+Ngu<br>
+I-Guru Kuphela Yezinkolo Ezintathu<br>
+<b>ESri. ESri. ESri. Acharya Prabodhananda Yogeeswarlu</b><br><br>
 
-Although one thousand persons support - a lie cannot become truth. <br>
-Although one thousand persons negate - truth cannot become a lie.
+Nakuba abantu abayinkulungwane besekela - amanga awakwazi abe iqiniso.<br>
+Nakuba abantu abayinkulungwane bephika - iqiniso alikwazi abe amanga.
 </ion-col></ion-row>
 </span>`
 },
 {
-chapterName: "A Letter From A Hindu",
+chapterName: "Incwadi evela kumHindu",
 chapterNumber: 9,
 pageNumber: 149,
 verse: ``,
@@ -2648,62 +2765,65 @@ pageText: `
 <span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
 <div class="poem">
 <div class="poemtext">
-<i>First, prostrations to Swami.... </i>
+<i>Okokuqala, ukukhuleka ku-Swami…. </i>
+  Jai Srirama! Igama lami nginguPittala Thirumalesha, oneminyaka engama-36, Isigodi saseNalgonda, esifundeni saseTelangana. Umsebenzi: Umsebenzi, uCaste: Mudiraju (Boya caste), Inkolo: Inkolo yamaHindu, ekaBaba umsebenzi: Umlimi wokuqala kamuva owadonsa urisho, umama umsebenzi: umthengisi wezithelo, Imfundo yami: <strong>M.Sc., B.Ed. (Izibalo).</strong>
 
-Jai Srirama! My name is Pittala Thirumalesha, age 36, Nalgonda village, Telangana district. Occupation: Job, Caste: Mudiraju (Boya caste), Religion: Hindu religion, Father’s occupation: First farmer later rickshaw puller, Mother’s occupation: fruit seller, My education: <b>M.Sc., B.Ed. (Mathematics). </b>.
+  Mnumzane, ngibhala le ncwadi ngenhloso yami isingeniso esingokomoya sizokwenza okuthile okuhle kulo mphakathi. Ngemva kokufunda umbhalo wakho, <strong>&ldquo;Amagugu EbuNkulunkulu Besibili UmBhalo,&rdquo;</strong> ngangifuna ukubhala le ncwadi. Kubonakala sengathi ukubhala umbhalo weBhayibheli uyisenzo sobuqili kunazo zonke somHindu (Indhu) Swamiji. Abaningi bacabanga ukuthi iSwamiji ingabhala Bhagavad-Gita kodwa hhayi iBhayibheli. Sengikufundile eyakho imibhalo engcwele, iBhagavad-Gita, kanye neQuran. Manje nami nginakho wafunda ukuhlakanipha kweBhayibheli ngokubhala kwakho. waqonda ukuhlakanipha kwaphezulu emibhalweni emithathu ye zinkolo ezintathu ngawe. Ukwazi isimo samanje se mphakathini, ngiveza eminye yemibono yami ngezinhloso ezinhle ngale ncwadi.
 
-Sir, I am writing this letter with the intent that my spiritual introduction will do something good for this society. After reading your scripture,  <b>“Gems in the Second Divine Scripture,” </b> I wanted to write this letter. It seems that writing scripture on the Bible is the most audacious act of a Hindu (Indhu) Swamiji. Many think that a Swamiji may write Bhagavad-Gita but not Bible. I have already read your scriptures, the Bhagavad-Gita, and the Quran. Now I have also learned the wisdom of the Bible through your writing. I understood the divine wisdom in the three scriptures of the three religions through you. Knowing the current state of society, I am expressing some of my views with good intentions through this letter.
+  Umbhalo wokuqala engawufunda uthi <strong>&ldquo;Imfihlo YeBermuda Unxantathu.&rdquo; </strong>Ngalo mbhalo, ngafunda imfihlo yokuthi kungani izindiza nemikhumbi kuyanyamalala eBermuda Triangle. nginjalo ngiyajabula ukuqaphela leli qiniso eliyinqaba elalifana neHollywood imuvi. Bese ufunda umbhalo othi <strong>&ldquo;Izipoki - Bhutas (Okwangempela Izehlakalo)&rdquo; </strong>futhi ngathola ulwazi lwesayensi mayelana "umhlaba ongabonakali (ocashile)." Ngaphandle kwalokho, ngamangala kakhulu lapho ngiwayazi indlela uhulumeni kaNkulunkulu noMthetho Waphezulu ngisebenze, futhi ngibonga uNkulunkulu wami ngokwazi imfihlakalo enkulu kakhulu. Ibese ufunda imibhalo ethi <strong>&ldquo;Indaba Yeqiniso</strong><strong>Olifunayo&rdquo; </strong>kanye <strong>&ldquo;noSri Krishna God noma Bhagavan?&rdquo; </strong>Ngajabula kakhulu ukufunda imfihlo enkulu embhalweni othi &ldquo;Sri Krishna God noma Bhagavan?" Manje njengoba sengiyitholile indawo yokuphila kwami, ngiyajabula ukuthi ngivakashele ithempeli laseKrishna Prabodhashramamu, Chinna Podamala, futhi wakhonza iNkosi Krishna. Selokhu ngavakashela iPrabodhashramam ngoJulayi 2012, ngikhona ngijabule ngenjabulo nsuku zonke ngokumunca ukuhlakanipha okuvela kuwe Imibhalo engama-93 nezinkulumo eziyi-150.
 
-The first scripture that I read is <b>“The Secret of Bermuda Triangle.”</b> Through this scripture, I learned the secret of why planes and ships disappear into the Bermuda Triangle. I am so glad to have realized this strange fact that was like a Hollywood movie. Then read the scripture <b> “Ghosts - Bhutas (The Real Incidents)”</b> and came to know scientific information about the  <b> “invisible(subtle) world.”</b> Besides, I was so surprised when I came to know how God’s government and the Divine Law operate, and I thank my God for knowing the greatest mystery. I then read the scriptures <b> “The Story of a Truth Seeker”</b> and  <b> “Sri Krishna God or Bhagavan?”</b> I was so happy to learn a great secret from the scripture  <b> “Sri Krishna God or Bhagavan?”</b> Now that I have found a destination for my life, I am happy to have visited Krishna temple at Prabodhashramamu, Chinna Podamala, and worshipped Lord Krishna. Since visiting the Prabodhashramam in July 2012, I am thrilled with joy every day for absorbing the wisdom from your 93 scriptures and 150 lectures.
+  Ngemibhalo engcwele <strong>&ldquo;Amasiko Ethempeli (Afihliwe Amaqiniso),&rdquo;</strong> ngafunda ngokubaluleka kwamathempeli. Nginayo wathola incazelo yangempela yamasiko acindezelwe kusukela <strong>&ldquo;Indu Sampradayas (Amasiko).&rdquo; </strong>Kusuka umbhalo othi <strong>&ldquo;Mana Pandugalu (Imikhosi Yethu)&rdquo; </strong>Anginayo nje kuphela waqonda incazelo yegama elithi &lsquo;Pandu (fruit)&rsquo; ku-&ldquo;Panduga (festival)&rdquo; kodwa futhi waqonda injongo ebalulekile yemikhosi kanye ne inhloso yomcabango ohlelwe ngaphambili wabadala bethu. Njengoba ushilo kulokhu umbhalo, kuyiqiniso ngamaphesenti ayikhulu ukuthi owokuqala ongokomoya ukuthuthukiswa bese kuba ukuthuthukiswa komuntu siqu futhi kamuva kwezenhlalo intuthuko iyenzeka. Yonke imibhalo evela kuwe iyimayini yokuhlakanipha. Konke ukushumayela kuyingcebo ye-dharma. Eyakho amazwi awazuzisi nje abantu kuphela kodwa nakubo bonke abaphilayo izinto. Leli iqiniso engilikhulumayo ngemuva kokuzwana nalo iminyaka eyisithupha edlule.
 
-Through the scripture <b>“Temple Traditions (Hidden Truths),”</b> I learned about the significance of temples. I have grasped the true meaning of the suppressed traditions from <b> “Indu Sampradayas (Traditions).”</b> From the scripture <b> “Mana Pandugalu (Our Festivals)”</b> I have not only understood the meaning of <b> ‘Pandu (fruit)’</b> in <b> “Panduga (festival)”</b> but also understood the essential purpose of festivals and the intent of our elders’ pre-planned thought. As you said in this scripture, it is a hundred percent true that first spiritual development and then personal development and later social development take place. Every scripture that comes from you is a wisdom mine. Every preaching is a dharma treasure. Your words are beneficial not only to humans but also to all living things. This is the truth that I am telling after experiencing over the past six years.
+  Ngadumala lapho inkolo yenu yamaHindu ithi amazwi ayinhlamba ngawe nkosi enkulu. Kodwa mina ukwabelana ngolwazi oluthile ngale ncwadi ukwenza wonke umuntu uyawazi amaqiniso.
 
-I was despondent when your religion Hindus said derogatory words against you, the great emperor. But I am sharing some information through this letter to make everyone aware of the facts.
+  U-Thraitha Theorem Bhagavad-Gita udlulisele okwangempela umyalezo weNkosi Krishna. Imibhalo kaSwami <strong>&ldquo;Amazwi okuhlakanipha emBhalweni Wokugcina Waphezulu (amakhasi angu-704)&rdquo; </strong>kanye <strong>&ldquo;Nedayimane ku UmBhalo Wokugcina Waphezulu&rdquo; </strong>wenza umhlaba waqonda ukuhlakanipha kwaphezulu uGabriyeli (ILanga) akuthumele kuMprofethi Mohammed. Umbhalo weYogeeswarlu <strong>&ldquo;Amagugu ku I-Second Divine Scripture (amakhasi angu-352)&rdquo; </strong>yayidlulisela okwangempela umyalezo wamaVangeli kaJesu.
 
-Thraitha Theorem Bhagavad-Gita conveyed the real message of Lord Krishna. Swami’s scriptures <b> “Wisdom words in the Last Divine Scripture (704 pages)”</b> and <b> “Diamonds in the Last Divine Scripture”</b> made the world understand the divine wisdom which Gabriel (The Sun) sent to Prophet Mohammed. The scripture of the Yogeeswarlu <b> “Gems in the Second Divine Scripture (352 pages)”</b> conveyed the real message of Jesus’ Gospels.
+  Nasi isikhalo sami kongqondongqondo abancane inzondo engokwenkolo, amademoni enkolo angenasihawu, angaphelele gnanis abahlanya ngenkolo, izilo zezombusazwe ngubani abalazi inani le-ashram, abaprofethi bamanga abadukisayo umphakathi onotwayi bezinhlanga kanye nobuhlanya benkolo, ama-rationalists abangasazi isizathu, imiphakathi ethola iqiniso lokho abalazi iqiniso, nabadala abaphushayo umphakathi ungene enkolelo-ze usebenzisa amagama athi Nkulunkulu, uMphefumulo, ukukhonza, kanye nokuhlakanipha. Sicela ufunde okungenani umbhalo owodwa kaSwami ngokuphelele ukwazi ubukhulu be <strong>&ldquo;Thraitha Theorem&rdquo;</strong> futhi ukunakisise lokho elikushoyo. Asibheka elinye lamazwi kaSwami.
 
-Here is my appeal to the intellectuals dwarfed with religious hatred, merciless religious demons, incomplete gnanis who are mad about the religion, political monsters who do not know the value of ashram, false prophets who mislead society with caste scabies and religious madness, rationalists who do not know the reason, truth-finding communities that are not aware of the truth, and elders who are pushing the society into superstition using the words God, Soul, worship, and wisdom. Please read at least one of Swami’s scriptures thoroughly to know the greatness of the <b>“Thraitha Theorem”</b> and pay close attention to what it says. Let us observe one of Swami’s words.
+  <strong>&ldquo;Izinkolo azivunyelwe. Ama-castes awanangqondo. Konke ezintathu - IBhagavad-Gita, iBhayibheli, kanye Quran - kukhona izingxenye zombhalo ofanayo waphezulu. Uma umuzwa wakho uhamba ngale kwe-caste, ngokushesha ujoyine i-Prabodha Seva Samithi. UNkulunkulu ufuna ube gnani - Sri. ESri. ESri. Acharya Prabodhananda Yogeeswarlu&rdquo;</strong>
 
-<b>“Religions are prohibited. Castes are irrational. All three - The Bhagavad-Gita, the Bible, and the Quran - are parts of the same divine scripture. If your feeling goes beyond caste, immediately join the Prabodha Seva Samithi. God wants you to be gnani – Sri. Sri. Sri. Acharya Prabodhananda Yogeeswarlu”</b>
+  I-Swamiji ayishongo amagama angenhla kuphela kodwa futhi yenziwe imishado phakathi kwezigaba nezinkolo. Naye washada omunye wesifazane weqembu. Ingabe inzondo engokwenkolo nobuthi ubhala ku-Swami enkulu kangaka? Madoda, ucabanga kanye ukuqonda.
 
-Swamiji not only said above words but also performed inter-caste and inter-religion marriages. He also married another caste woman. Is it religious hatred and poisonous writing on such a great Swami? Men, you think once with discretion.
+  Imibhalo ka Swami idlulisa ukuhlakanipha kwangempela kweVemana izinkondlo. Basho incazelo yangempela yezinkondlo zefilosofi ka Veerabrahmam. I-Atmalinga Shatakam idlulisele ngokomoya ulwazi. Unikeze izimfihlo eziningi ezinkulu engaziwa emhlabeni kanye nolwazi lwaphezulu ukuthi inomthelela ekuchumeni okungokomoya kwabantu. Abaningi abangakholelwa kuNkulunkulu abaye babamba ukuhlakanipha emibhalweni yakhe engcwele baba amakholwa eqiniso. Ngisho neziwula zaphenduka ama-rationalists. Izimpumputhe amakholwa aba ososayensi abangokomoya kanye nesayensi sondela. Ngisho namaphekula aseshintshile aphenduka ama-gnanis.
 
-Swami’s scriptures conveyed the real wisdom of Vemana poems. They tell the real meaning of philosophical poems of Veerabrahmam. The Atmalinga Shatakam conveyed spiritual information. He has provided many of the greatest secrets unknown to the world and the divine information that contributes to humanity’s spiritual prosperity. Many atheists who have grasped wisdom from his scriptures have become true believers. Even the fools became rationalists. Blind believers became spiritual scientists with the scientific approach. Even terrorists have changed and became gnanis.
-<b>
-  A Hindu who knows his wisdom is a true Indu (true gnani).<br>
-  A Christian who knows his wisdom is a true Christian (true believer of God).<br>
-  A Muslim who knows his wisdom is a true Muslim (truly obedient to God).
-  </b>
+  <strong>UmHindu owazi ukuhlakanipha kwakhe uyi-Indu yeqiniso (i-gnani yeqiniso).</strong>
 
-His scriptures eradicate karma and forgive sin. If you put His scripture on the body where you have pain with devotion and belief, it will cling without any support until it destroys the karma that caused it and provides relief. While this may come as a surprise, it is a blatant truth told based on my experience.
+  <strong>UmKristu owazi ukuhlakanipha kwakhe ungumKristu weqiniso (weqiniso okholwayo kaNkulunkulu).</strong>
 
-It is through His writings that the world has come to know the truth about ‘Bhagavan Ravana Brahma,’ the incarnation of God in Thraitha Yuga. Even Sita Devi, who everyone claims to be the victim, did not accuse Ravana Brahma. Why couldn't the Aryans who wrote the Ramayana tell the age of Ravana Brahma at the time of Sita's kidnap? If this question were answered, the original hidden stories of the Ramayana would come out. Ravana Brahma visited Sita Devi in Ashokavana with wife Mandodari and Meghnaad, but why was he portrayed as a vicious man? Even though the elderly Ravana Brahma did not attend Sita’s swayamvara, is it not a shame to write that he was unable to lift the Shiva’s bow in Sita’s swayamvara? When he took Sita, his daughter, without touching her to his kingdom Sri Lanka, would you falsely write that he was a lustful man? Some selfish people have planned conspiracies against him, saying that he took her with lust; how is this possible based on what you said that anyone who touched Sita would be burnt to death? At least for now, this community should know the truth in Ramayana. Mandodari Devi, who knew the secret that Sita’s suffering, and incarnation of Bhagavan Ravana Brahma would end soon, used to tell people of her kingdom that Ravana Brahma brought Sita to Lanka for the welfare of Sita. We wish to see the portraits of the great Sri Bhagavan Ravana Brahma and Srimati Mandodari Devi.
+  <strong>UmSulumane owazi ukuhlakanipha kwakhe ungumSulumane weqiniso (ngempela olalela uNkulunkulu).</strong>
 
-You do not really know who you are. Do not put unnecessary junk messages on Facebook and YouTube, and when you blaspheme, you will accumulate years of karma. Do not listen if you do not have to. When you do not know dharma’s definition and how many dharmas, do not call gnanis for debate on the public TV.
+  Imibhalo yakhe iqeda i-karma futhi ithethelele isono. Uma ubeka Umbhalo wakhe emzimbeni lapho unezinhlungu ngokuzinikela futhi inkolelo, izobambelela ngaphandle kokusekela ize ibhubhise i-karma eyabangela futhi inikeza impumuzo. Nakuba lokhu kungase kufike ngokumangazayo, kuyiqiniso elisobala elishiwo ngokusekelwe kokuhlangenwe nakho kwami.
 
-Thraitha Theorem is the real standard. This standard is used to measure the level of religious hatred. The world will come to know how much wisdom there is in religions, and how much hatred there is in religions through wisdom in Thraitha Theorem. Thraitha Theorem wisdom reveals to this world how much wisdom there is in religions, and how much hatred there is in religions. Prabodha Seva Samiti and its five affiliates firmly believe that whatever happens will happen with God’s permission.
+  Kungemibhalo Yakhe umhlaba uze kuyo ukwazi iqiniso mayelana 'neBhagavan Ravana Brahma,' isimo sikaNkulunkulu eThraitha Yuga. Ngisho noSita Devi, ubani wonke umuntu uthi uyisisulu, akazange asole uRavana Brahma. Kungani ama-Aryans abhala iRamayana engakwazi ukusho iminyaka kaRavana Brahma ngesikhathi sokuthunjwa kukaSita? Uma lokhu umbuzo waphendulwa, izindaba ezifihliwe zokuqala ze Ramayana wayezophuma. U-Ravana Brahma uvakashele eSita Devi U-Ashokavana nonkosikazi uMadoda noMeghnaad, kodwa kungani kwakunjalo waveza njengendoda enonya? Nakuba Ravana asebekhulile UBrahma akazange ahambele i-swayamvara kaSita, akulona ihlazo lokho bhala ukuthi akakwazanga ukuphakamisa umnsalo kaShiva kuSita swayamvara? Ngenkathi ethatha uSita, indodakazi yakhe, ngaphandle ukumthinta embusweni wakhe eSri Lanka, ungabhala ngamanga ukuthi ubengumuntu ohahayo? Abanye abantu abanobugovu bahlelile bakha uzungu ngaye, bethi wamthatha ngokukhanuka; Kanjani kungenzeka yini lokhu ngokusekelwe kulokho okushilo ukuthi noma ubani wathinta uSita uzoshiswa afe? Okungenani okwamanje, lokhu umphakathi kufanele wazi iqiniso eRamayana. Amadodari UDevi, owayazi imfihlo yokuthi ukuhlupheka kukaSita, nokuba sesimweni somuntu kaBhagavan Ravana Brahma izophela maduze, wayevame ukutshela abantu bombuso wakhe ukuthi uRavana Brahma alethe uSita kubo Lanka enhlalakahleni ye Sita. Sifisa ukubona izithombe ze- omkhulu uSri Bhagavan Ravana Brahma noSrimati Mandodari I-Devi.
 
-<b>Prabodhashramam is the only organization that brings spiritual development.</b> All other organizations work for personality development and a better society. But everyone should recognize that if spiritual development does not happen, personality and social development will not occur.
+  Awunaqiniso ngiyazi ukuthi ungubani. Ungabeki imiyalezo engadingekile ku-Facebook naku-YouTube, kanye lapho uhlambalaza, uzoqongelela iminyaka ye-karma. Yenza ungalaleli uma ungadingi. Lapho ungazi incazelo ye-dharma nokuthi mangaki ama-dharma, ungabizi ama-gnanis ngenkulumo-mpikiswano kumabonakude womphakathi.
 
-The wisdom of Yogeeswarlu is caste-free and religion-free. That is why people of ll religions - Hindus, Muslims, and Christians - come to him with harmony and are happy to know the real divine wisdom. As Veerabrahmam said, His wisdom is uniting all three religions. Brahmam said in Kalagnanam (prophecy), <b>“All the great demi-gods (devatas) are at Anandashramam.”</b> Devatas came and spoke with joy to learn the wisdom of their father. He also said, <b>“Prabodhashramam has the highest level of wisdom. Those in Prabodhashramam consist of attributes of Almighty. That almighty was only Ananda Guru. Ananda Guru is Guru to you and me as well.”</b> Such messages of words spoken by Brahmam himself are found in Swami’s scriptures. You should grasp God’s wisdom with discretion and diligence.
+  I-Thraitha Theorem iyindinganiso yangempela. Lokhu kujwayelekile esetshenziswa ukukala izinga lenzondo engokwenkolo. Umhlaba uyokwenza ukwazi ukuthi kungakanani ukuhlakanipha ezinkolweni, nokuthi kanjani inzondo eningi ikhona ezinkolweni ngobuhlakani eThraitha Ithiyori. Ukuhlakanipha kuka-Thraitha Theorem kwembula kulo mhlaba ukuthi kanjani kungakanani ukuhlakanipha okukhona ezinkolweni, nenzondo engakanani lapho usezinkolweni. I-Prabodha Seva Samiti kanye nezinhlanu zayo ezinhlanu ngokuqinile kholwa ukuthi konke okwenzekayo kuzokwenzeka ngokukaNkulunkulu imvume.
 
-Are those who do not read Bhagavad-Gita are saviors of Hindu dharmas? Will the fools, who do not know the injustice in history, uphold the Hindu religion? Can you build an equal society without knowing the “Secret of the beginning” and “Secret of creation?” Recognize the goodness in the scriptures by reading with patience and without religious hatred. If you feel bad, leave it. There is no rule that everyone should believe it. <b>The Thraitha Siddantha scriptures and teachings,</b> which are so beneficial to humanity and have a rational scientific and spiritual consciousness and reveal the secrets of <b>Brahma, Karma, and Bhakti Yogams</b> in detail with Jeevatma, Atma and Paramatma, are essential to the present society.
+  <strong>I-Prabodhashramam ukuphela kwenhlangano leyo kuletha ukukhula ngokomoya. </strong>Zonke ezinye izinhlangano ziyasebenza ukuthuthukisa ubuntu kanye nomphakathi ongcono. Kodwa wonke umuntu kufanele uqaphele ukuthi uma ukukhula ngokomoya akukwenzi kwenzeke, ubuntu kanye nokuthuthukiswa komphakathi ngeke kwenzeke.
 
-The organizations - UNO, World Peace Council, Police Act, IPC, CrPC, Prison Acts, CBI, CBCID, Intelligence Reports, ACB, Human Rights Watch, Woman Rights, SC ST Atrocities Act, Indian Trusts Act, Muslim Law, Christian Law, Labor Acts, Central Government GOs, State Government GOs, Election Commission, Indian Constitution, Indian Courts, RTI Act, Information Technology Act 2000 – exist, in fact, for the sake of human welfare. Spiritual institutions have a responsibility for telling people what kind of wisdom is suitable for their welfare. Prabodhashramam and its affiliates take first place in such responsible institutions. Above all, we must not forget that there is also <b>“Divine Law and Divine Administration.”</b>
+  Ukuhlakanipha kwe-Yogeeswarlu akuna-caste nenkolo mahhala. Yingakho abantu bazo zonke izinkolo - amaHindu, amaSulumane, kanye AmaKristu - eze kuye ngokuvumelana futhi bayajabula ukwazi ukuhlakanipha kwangempela kwaphezulu. Njengoba uVeerabrahmam asho, ubuhlakani Bakhe bunjalo ukuhlanganisa zontathu izinkolo. Kusho uBrahmam ngesiKalagnanam (isiprofetho), <strong>&ldquo;Bonke onkulunkulu abakhulu (ama-devatas) bakhona Anandashramam.&rdquo; </strong>Ama-Devatas afika futhi akhuluma ngenjabulo yokufunda ukuhlakanipha kukayise. Ubuye wathi, <strong>&ldquo;Prabodhashramam inezinga eliphezulu lokuhlakanipha. Abaphakathi I-Prabodhashramam iqukethe izimfanelo zikaSomandla. Lokho uSomandla kwakungu-Ananda Guru kuphela. U-Ananda Guru unguGuru mina nawe futhi.&rdquo; </strong>Imilayezo enjalo yamagama akhulunywa ngayo UBrahmam ngokwakhe utholakala emibhalweni kaSwami. Kumele bamba ukuhlakanipha kukaNkulunkulu ngokukhalipha nangenkuthalo.
 
-The essence of the three divine scriptures is to explain about the three souls. Life without divine wisdom is a waste. God gave life to man only to know God’s wisdom. God’s wisdom is beyond caste and religion. Yogeeswarlu provided the true meaning of Lord Krishna’s wisdom through the ‘first divine scripture Bhagavad-Gita.’ He gave us the Quran wisdom, which came to Prophet Muhammad through Gabriel, in the scriptures ‘Wisdom words in the Last Divine Scripture’ and ‘Diamonds in the Last Divine Scripture.’ He told us Jesus’ Gospel wisdom in ‘Gems in the Second Divine Scripture.’ He is giving us practical real divine wisdom through scriptures and teachings. Know the wisdom that He said and wear the Seal of God and receive forgiveness of sins. If you listen carefully and practice it, you are lucky. If you do not listen, that is your karma. Everything is happening according to God’s will, and God knows it.
-<b>
-Hindus should know which God to worship. Muslims need to know who the
-two Allahs (the two creators) are. Christians need to know who the two sons are.</b>
+  Ingabe labo abangayifundi iBhagavad-Gita bangabasindisi I-dharma yamaHindu? Ingabe iziwula, abangazi nabulungisa emlandweni, basekele inkolo yobuHindu? Ungakwazi yini ukwakha elinganayo umphakathi ngaphandle kokwazi &ldquo;Imfihlo yokuqala&rdquo; kanye&ldquo;Imfihlo yendalo?&rdquo; Qaphela ubuhle emibhalweni ngokufunda ngesineke nangaphandle kwenzondo engokwenkolo. Uma uphatheke kabi, shiya. Awukho umthetho okufanele wonke umuntu awukholelwe yona. <strong>The Thraitha Siddantha imibhalo kanye nezimfundiso, </strong>okuyinto zizuzisa kakhulu esintwini futhi zinesayensi enengqondo futhi ukwazi okungokomoya futhi uveze izimfihlo <strong>zeBrahma, I-Karma, ne-Bhakti Yogams </strong>ngokuningiliziwe ne-Jeevatma, i-Atma kanye I-Paramatma, ibalulekile emphakathini wamanje.
 
-A man never becomes God, but God can come as a man. To recognize the God who is in human form, we must first have his wisdom in us. To recognize God, we need to know these two principles that elders said. As Vemana yogi said his poems can be understood in 1000 ways, and similarly, the Thraitha theorem wisdom can be understood in 9000 ways. According to the saying “Shraddhavan labhate gnanam (Those who have interest will attain wisdom)”, those who are thoughtful and intellectual can understand the wisdom of Thraitha.
+  Izinhlangano - UNO, World Peace Council, Police Act, IPC, CrPC, Prison Acts, CBI, CBCID, Intelligence Reports, ACB, Human Rights Watch, Woman Rights, SC ST Atrocities Act, I-Indian Trusts Act, Umthetho WamaSulumane, Umthetho WamaKristu, Izenzo Zabasebenzi, I-Central Government GOs, I-State Government GOs, Ukhetho Ikhomishini, uMthethosisekelo waseNdiya, Izinkantolo zaseNdiya, uMthetho we-RTI, I-Information Technology Act 2000 - ikhona, empeleni, ngenxa inhlalakahle yabantu. Izikhungo zomoya zinesibopho ukutshela abantu ukuthi hlobo luni lokuhlakanipha olufanele inhlalakahle yabo. I-Prabodhashramam kanye nabasebenzisana nayo bathatha indawo yokuqala kulokho izikhungo ezinomthwalo wemfanelo. Ngaphezu kwakho konke, akumelwe sikukhohlwe lokho kukhona futhi <strong>&ldquo;UMthetho Waphezulu Nokuphatha Kwaphezulu.&rdquo;</strong>
 
-At least now, quit the thought of caste and religion and know the real divine wisdom. If you do not know now, you will never know. Time is Short. Do it Now.
+  Ingqikithi yemibhalo emithathu yaphezulu iwukuchaza mayelana nemiphefumulo emithathu. Ukuphila ngaphandle kokuhlakanipha kukaNkulunkulu kuyize. UNkulunkulu wanika umuntu ukuphila ukuze azi ukuhlakanipha kukaNkulunkulu kuphela. Ukuhlakanipha kukaNkulunkulu kungaphezu kwesigaba nenkolo. I-Yogeeswarlu inikeze iqiniso incazelo yokuhlakanipha kweNkosi Krishna &lsquo;ngoNkulunkulu wokuqala umbhalo Bhagavad-Gita.&rsquo; Wasinika ukuhlakanipha kweQuran, okuyikhona weza kuMprofethi uMuhammad ngoGabriyeli, emibhalweni &lsquo;Amazwi Ahlakaniphile EmBhalweni Wokugcina Waphezulu&rsquo; kanye &lsquo;Nedayimane Elithi umBhalo Wokugcina Waphezulu.&rsquo; Wasitshela ukuhlakanipha kweVangeli likaJesu ngo &lsquo;Amagugu EmBhalweni Wesibili Waphezulu.&rsquo; Usinika okuwusizo ukuhlakanipha kwangempela kwaphezulu ngemibhalo nezimfundiso. Yazi ukuhlakanipha Akushilo futhi wembathe uPhawu lukaNkulunkulu futhi wemukele ukuthethelelwa kwezono. Uma ulalelisisa futhi uzilolonge, unjalo unenhlanhla. Uma ungalaleli, leyo karma yakho. Konke kuyikho okwenzeka ngokwentando kaNkulunkulu, futhi uNkulunkulu uyakwazi.
 
-I offer fragrance flowers to Yogeeswarlu feet to give us more divine wisdom. I offer unlimited salutations with all my heart and all my soul and mind.
+  <strong>AmaHindu kufanele azi ukuthi yimuphi uNkulunkulu okufanele amkhulekele.</strong>
+
+  <strong>AmaSulumane adinga ukwazi ukuthi ngobani oAllah ababili (laba ababili abadali).</strong>
+
+  <strong>AmaKristu kudingeka azi ukuthi obani la madodana amabili.</strong>
+
+  Umuntu akalokothi abe nguNkulunkulu, kodwa uNkulunkulu angafika njengomuntu. Ukuze siqaphele uNkulunkulu osesimweni somuntu, kumelwe siqale sibe naye ukuhlakanipha kwakhe kithi. Ukuze sazi uNkulunkulu, sidinga ukwazi laba ababili izimiso ezashiwo abadala. Njengoba uVemana yogi eshilo izinkondlo zakhe kuqondwe ngezindlela eziyi-1000, futhi ngokufanayo, i-Thraitha Ukuhlakanipha kwe-theorem kungaqondwa ngezindlela ezingu-9000. Ngokusho ethi &ldquo;Shraddhavan labhate gnanam (Labo abanayo inzalo izozuza ukuhlakanipha)&rdquo;, labo abacabangayo futhi ongqondongqondo bangaqonda ubuhlakani bukaThraitha.
+
+  Okungenani manje, wuyeke umcabango wesigaba nenkolo kanye wazi ukuhlakanipha kwangempela kwaphezulu. Uma ungazi manje, uzokwazi ungazi. Isikhathi Sifishane. Kwenze Manje.
+
+  Nginikeza izimbali zephunga elimnandi ezinyaweni ze-Yogeeswarlu ukuze zisinike ukuhlakanipha kwaphezulu okwengeziwe. Nginikeza ukubingelela okungenamkhawulo ngakho konke okwami inhliziyo nomphefumulo wami wonke nengqondo yami.
 </div></div>
 <ion-row><ion-col class="ion-text-center">
-Your Obedient Servant <br>
+Inceku Yakho Elalelayo <br>
 <b>Thirumalesu </b>
 </ion-col></ion-row>
 </span>
@@ -2720,16 +2840,16 @@ pageText: `
 <div class="container">
 <img src="assets/img/1.png"   style="width:100%;">
 <div class="img1-title1">
-  Gems in
+   Amagugu Aphakathi
 </div>
 <div class="img1-title2">
- The Second Divine Scripture
+UbuNkulunkulu besibili Umbhalo
 </div>
 <div class="img1-title3">
- (Gospels in the Thraitha Theorem)
+ (Ivangeli ku Thraitha Theorem)
 </div>
 <div class="img1-title4">
- Writer: The only Guru of three religions(Hindu, Muslim, Christian), The Emperor of Spiritual Kingdom, The writer of more than hundred divine holy books, Indu Gnana Dharma Pradata, The Sensational Writer, Adi Karta of Traita Doctrine
+ Umbhali: Okuwukuphela kweGuru yezinkolo ezintathu (amaHindu, amaSulumane, amaKrestu), uMbusi Wombuso Kamoya, Umbhali wezincwadi ezingcwele ezingaphezu kwekhulu, u-Indu Gnana Dharma Pradata, Umlobi Omangalisayo, u-Adi Karta weTraita Doctrine
 </div>
 <div class="img1-title5">
 Sri Sri Sri Acharya Prabodhananda Yogeeswarulu
@@ -2825,7 +2945,7 @@ pageText: `
 </div>`
 },
 {
-chapterName: "Videos",
+chapterName: "Ividiyo",
 chapterNumber: 12,
 pageNumber: 152,
 verse: `
@@ -2884,483 +3004,483 @@ verse: `
 
   chapters: any = [
 
-    { title: "God's Path", component: 0, chapterNumber: 0, subs: null, icon: 'information' },
-    { title: 'The Secret of Creation', component: 1, chapterNumber: 1, subs: null, icon: 'information' },
+    { title: "Indlela kaNkulunkulu", component: 0, chapterNumber: 0, subs: null, icon: 'information' },
+    { title: 'Imfihlo Yendalo', component: 1, chapterNumber: 1, subs: null, icon: 'information' },
     {
-      title: 'The Gospel Of Mathew', component: null, chapterNumber: 2, icon: 'book',
+      title: 'IVangeli likaMathewu', component: null, chapterNumber: 2, icon: 'book',
       subs: [
         {
-          shloka: "3-7. You brood of vipers...",
+          shloka: "(3:7) Nina nzalo yezinyoka! Ubani owakuxwayisa ukuba ubalekele ulaka oluzayo?",
           component: 2,
           subs: null
         },
         {
-          shloka: "3-11. I baptize you with water...",
+          shloka: "(3:11) Mina nginibhapathiza ngamanzi okushintsha imana (ingqondo). Kodwa emva kwami kuza omunye onamandla amakhulu kunami, engingafanele ukuthwala izimbadada zami. Uzokwenza anibhapathize ngoMoya oNgcwele nangomlilo.",
           component: 3,
           subs: null
         },
         {
-          shloka: "3-12. His winnowing fork...",
+          shloka: "(3:12) Imfoloko Yakhe yokwela isesandleni Sakhe, futhi Uyokwenza hlambulula isibuya Sakhe, ubuthela amabele akhe phakathi isibaya nokushiswa kwamakhoba ngokungacimekiyo umlilo.",
           component: 4,
           subs: null
         },
         {
-          shloka: "3-16. As soon as Jesus was...",
+          shloka: "(3:16) Ngokushesha nje lapho uJesu ebhapathizwa, waphuma emanzini. Ngaso leso sikhathi izulu lavuleka, futhi Wabona uMoya kaNkulunkulu wehla njengejuba futhi ehlela kuYe.",
           component: 5,
           subs: null
         },
         {
-          shloka: "3-17. And a voice from the sky...",
+          shloka: "(3:17) Kwavela izwi ezulwini, lathi: “Lo uyindodana yami; engimthandayo; naye, ngiyajabula.”",
           component: 5,
           subs: null
         },
         {
-          shloka: "4-10. Jesus said to him, “Away from me...",
+          shloka: "(4:10) UJesu wathi kuye: Suka kimi, Sathane; Ngoba kulotshiwe ukuthi: Wokhuleka eNkosini uNkulunkulu wakho, umkhonze kuphela.”",
           component: 6,
           subs: null
         },
         {
-          shloka: "5-10. Blessed are those who are persecuted...",
+          shloka: "(5:10) Babusisiwe abashushiswa ngenxa lokulunga (ukuhlakanipha), ngoba umbuso ungowabo we paraloka. ",
           component: 7,
           subs: null
         },
         {
-          shloka: "5-17. Do not think that I have come to abolish...",
+          shloka: "(5:17) Ningacabangi ukuthi ngize ukuchitha uMthetho (Dharma Shastra) noma abaProfethi; angizange ngize aziqede kodwa azigcwalise.",
           component: 8,
           subs: null
         },
         {
-          shloka: "5-18. For truly I tell you, until sky and earth...",
+          shloka: "(5:18) Ngokuba ngiqinisile ngithi kini: Kuze kudlule izulu nomhlaba, hhayi uhlamvu oluncane kunazo zonke, hhayi nokushaywa okuncane kwepeni, uzonyamalala nganoma iyiphi indlela eMthethweni (Dharma Shastra) kuze kube yilapho konke sekufeziwe.",
           component: 9,
           subs: null
         },
         {
-          shloka: "5-19. Therefore, anyone who sets aside...",
+          shloka: "(5:19) Ngakho-ke, noma ubani obeka eceleni omunye we emincane yale miyalo, afundise abanye kanjalo uyakuthiwa omncinyane embusweni we paraloka, kodwa loba ngubani ozenzayo lezifundisayo imiyalo iyothiwa mikhulu embusweni ka i-paraloka.",
           component: 10,
 
           subs: null
         },
         {
-          shloka: "5-20. For I tell you that unless...",
+          shloka: "(5:20) Ngoba ngithi kini ngaphandle kokuba ukulunga kwenu udlula owabaFarisi nabafundisi umthetho, aniyikungena embusweni ka i-paraloka.",
           component: 11,
           subs: null
         },
         {
-          shloka: "5-28. But I tell you that anyone...",
+          shloka: "(5:28) Kodwa ngiyanitshela ukuthi noma ubani obheka owesifazane ngokukhanuka usephingile naye phakathi inhliziyo yakhe.",
           component: 12,
           subs: null
         },
         {
-          shloka: "5-29. If your right eye causes you...",
+          shloka: "(5:29) Uma iso lakho lokunene likukhubekisa, likhiphe; awukhiphe awulahle. Kungcono kuwe ukulahlekelwa eyodwa ingxenye yomzimba wakho kunokuba wonke umzimba wakho ube uphonswe esihogweni.",
           component: 13,
 
           subs: null
         },
         {
-          shloka: "5-30. And if your right hand causes...",
+          shloka: "(5:30) Futhi uma isandla sakho sokunene sikukhubekisa e, yinqume, uyilahle. Kungcono ukuthi ulahlekelwe sinye somzimba wakho kunokuba wonke umzimba wakho uhambe esihogweni.",
           component: 13,
 
           subs: null
         },
         {
-          shloka: "6-3. But when you do dharma...",
+          shloka: "(6:3) Kodwa lapho wenza i-dharma, ungavumeli kwesokunxele sakho isandla sakho sazi esikwenzayo esokunene.",
           component: 14,
 
           subs: null
         },
         {
-          shloka: "6-4. So that your giving may be in...",
+          shloka: "(6:4) Ukuze ukupha kwakho kube ngasese. Bese eyakho ubaba obona okwenziwa ngasese uyovuza wena.",
           component: 14,
 
           subs: null
         },
         {
-          shloka: "6-6. But when you pray, go into your...",
+          shloka: "(6:6) Kodwa nxa ukhuleka, ngena ekamelweni lakho, ulivale; emnyango, nikhuleke kuYihlo ongabonwayo. Khona-ke uyihlo obona okwenziwa ngasese uzokubona ukuklomelisa.",
           component: 15,
 
           subs: null
         },
         {
-          shloka: "6-7. When you pray, do not keep...",
+          shloka: "(6:7) Lapho nithandaza, ningaqhubeki nibhibhidla kanjalo abezizwe, ngokuba bacabanga ukuthi bayakuzwiwa ngenxa yakho amazwi abo amaningi.",
           component: 16,
 
           subs: null
         },
         {
-          shloka: "6-8. Do not be like them, for your...",
+          shloka: "(6:8) Ningafani nabo, ngokuba uyihlo uyakwazi; udinga ngaphambi kokuthi umcele.",
           component: 16,
 
           subs: null
         },
         {
-          shloka: "7-7. Ask and it will be given to you...",
+          shloka: "(7:7) Buzani futhi niyophiwa; funa futhi uzothola; Qoqoza kanye nomnyango kuzovulelwa.",
           component: 18,
           subs: null
         },
         {
-          shloka: "7-8. For everyone who asks receives...",
+          shloka: "(7:8) Kuwo wonke umuntu ocelayo uyamukela; lowo o Ifuna ukuthola; nakulowo ongqongqozayo, umnyango uzokwazi kuvulwe.",
           component: 18,
           subs: null
         },
         {
-          shloka: "7-13. Enter through the narrow gate...",
+          shloka: "(7:13) Ngenani ngesango elincane. Ngokuba ububanzi buyisihluthulelo isango futhi ibanzi indlela eholela ekubhujisweni; baningi abangena ngalo.",
           component: 17,
           subs: null
         },
         {
-          shloka: "7-14. But small is the gate and...",
+          shloka: "(7:14) Kodwa isango lincane futhi liwumngcingo indlela leyo kuholela ekuphileni, futhi bambalwa kuphela abayitholayo.",
           component: 17,
           subs: null
         },
 
         {
-          shloka: "7-15. Watch out for false prophets...",
+          shloka: "(7:15) Qaphela abaprofethi bamanga. Beza kuwe ezembathweni zezimvu, kodwa ngaphakathi balolaka izimpisi.",
           component: 19,
           subs: null
         },
         {
-          shloka: "7-21. Not everyone who says to me...",
+          shloka: "(7:21) Akubona bonke abathi kimi, ‘Nkosi, Nkosi,’ abayokwenza ngena embusweni weparaloka, kodwa lowo kuphela owenza intando kaBaba oseparaloka.",
           component: 20,
           subs: null
         },
         {
-          shloka: "7-22. Many will say to me on that day...",
+          shloka: "(7:22) Abaningi bayokuthi kimi ngalolo suku, ‘Nkosi, Nkosi, yenze asiprofethi ngegama lakho nangegama lakho siqhube sikhipha amademoni, senze amaningi ngegama lakho izimangaliso?",
           component: 21,
           subs: null
         },
         {
-          shloka: "7-23. Then I will tell them plainly...",
+          shloka: "(7:23) Khona-ke ngizobatshela ngokucacile, ‘Angizange nginazi. sukani kimi nina benzi bokubi!’",
           component: 21,
           subs: null
         },
         {
-          shloka: "8-22. Jesus told him, “Follow me...",
+          shloka: "(8:22) UJesu wamtshela, 'Ngilandele, bese kubafile ukungcwaba abafa babo. '",
           component: 22,
 
           subs: null
         },
         {
-          shloka: "9-12. On hearing this, Jesus said...",
+          shloka: "(9:12) Lapho ezwa lokhu, uJesu wathi, 'Akuyena ophilile abadinga udokotela, kepha abagulayo. '",
           component: 23,
 
           subs: null
         },
         {
-          shloka: "9-13. For I have not come to cal...",
+          shloka: "(9:13) Ngoba angizanga ukubiza olungile, kepha Izoni.",
           component: 23,
 
           subs: null
         },
         {
-          shloka: "8-23. Then he got into the boat... ",
+          shloka: "(8:23) Wabe esengena esikebheni kanye nabafundi bakhe wamlandela.8-23. Then he got into the boat... ",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-24. Suddenly a furious storm...",
+          shloka: "(8:24) Ngokuphazima kwengqondo kwaqhamuka isivunguvungu esithukuthele echibini, Ukuze amagagasi akhukhule phezu kwesikebhe. Kepha uJesu wayekhona ukulala.",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-25. The disciples went and wok...",
+          shloka: "(8:25) Abafundi baya bamvusa, bathi: 'Nkosi, Sisindise! Sizominza!'",
           component: 24,
           subs: null
         },
         {
-          shloka: "8-26. He replied, “You of little faith...",
+          shloka: "(8:26) Waphendula wathi: 'Wena nokholo oluncane, kungani unjalo kanjalo wesaba?' Wabe esesukuma wakhuza imimoya futhi Amagagasi, futhi kwakuzolile ngokuphelele.",
           component: 24,
           subs: null
         },
         {
-          shloka: "9-6. I want you to know that the Son...",
+          shloka: "(9:6) Ngifuna wazi ukuthi iNdodana yomuntu inayo igunya emhlabeni lokuthethelela izono. Ngakho-ke, wathi ku ndoda ekhubazekile, 'vuka, thatha umati wakho uhambe uye ekhaya.' Uwesilisa wasukuma waya ekhaya.",
           component: 25,
 
           subs: null
         },
         {
-          shloka: "10-20. For it will not be you speaking...",
+          shloka: "(10:20) Ngoba ngeke kube ukhuluma, kepha umoya we Uyihlo ekhuluma ngawe.",
           component: 26,
 
           subs: null
         },
         {
-          shloka: "10-30. Even the very hairs of your...",
+          shloka: "(10:30) Ngisho nezinwele zekhanda lakho konke kubaliwe.",
           component: 27,
 
           subs: null
         },
         {
-          shloka: "10-34. Do not suppose that I have...",
+          shloka: "(10:34) Ungasho ukuthi sengize ukuletha ukuthula emhlabeni. Angizelanga ukuzoletha ukuthula, kepha a inkemba.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-35. For I have come to turn...",
+          shloka: "(10:35) Ngoba ngizele 'umuntu ngokumelene naye Ubaba, indodakazi emelene nonina, indodakazi Umthetho ngokumelene noninazala wakhe.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-36. A man’s enemies will be...",
+          shloka: "(10:36) Izitha zomuntu kuzoba amalungu akhe Ungumnikazi wendlu.",
           component: 28,
 
           subs: null
         },
         {
-          shloka: "10-37. Anyone who loves their father...",
+          shloka: "(10:37) Noma ngubani othanda uyise noma umama wake waba ngaphezulu kunami ukungangifanele; noma ngubani othanda indodana noma indodakazi engaphezu kwami ayingifanele.",
           component: 29,
           subs: null
         },
         {
-          shloka: "10-38. Whoever does not take up... ",
+          shloka: "(10:38) Noma ngubani ongathathi isiphambano sawo futhi ngilandela angingifanele.",
           component: 30,
           subs: null
         },
         {
-          shloka: "10-40. Anyone who welcomes (receives)...",
+          shloka: "(10:40) Noma ngubani otholile uyamukela, futhi noma ngubani ongemukelayo ethola lowo othunyelwe mina.",
           component: 31,
           subs: null
         },
         {
-          shloka: "11-9. What did you go out to see?...",
+          shloka: "(11:9) Uphume wabonani? Umprofethi? Yebo, ngiyasho Wena, futhi (ngikhona) ngaphezu komprofethi.",
           component: 32,
           subs: null
         },
         {
-          shloka: "11-28. Come to me, all you who are...",
+          shloka: "(11:28) Wozani kimi, nina nonke enikhathele futhi Sisindwa, futhi ngizokunika ukuphumula.",
           component: 33,
           subs: null
         },
         {
-          shloka: "12-17. This was to fulfill what was...",
+          shloka: "(12:17) Lokhu bekungukufeza lokho okwakhulunywa ngayo umprofethi u-Isaya.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-18. Here is my servant whom...",
+          shloka: "(12:18) Nansi inceku yami engiyikhethile, Engikuthandayo, engijabulisa engijabulisa ngakho; Ngizofaka umoya wami yena.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-19. He will proclaim justice (wisdom)...",
+          shloka: "(12:19) Uzomemezela ubulungiswa (ukuhlakanipha) ku izizwe; Ngeke axabane noma amemeze; akekho ozozwa izwi lakhe emigwaqweni.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-20. A bruised reed he will not break...",
+          shloka: "(12:20) Umhlanga olimele ungeke aphule, futhi u-wick oshayayo ngeke aphume, aze aze ukuletha ubulungiswa (ukuhlakanipha) kuya ekunqobeni.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-21. In his name the nations wil...",
+          shloka: "(12:21) Ngegama lakhe izizwe zizobeka ithemba lazo.",
           component: 34,
           subs: null
         },
         {
-          shloka: "12-31. So, I tell you, every kind of sin...",
+          shloka: "(12:31) Ngakho-ke, ngithi kuwe, zonke izinhlobo zesono nokunyundela kungakwazi Uxolelwe, kepha ukuhlambalaza umoya (Atma) ngeke uthethelelwe.",
           component: 35,
           subs: null
         },
         {
-          shloka: "12-32. Anyone who speaks a word against...",
+          shloka: "(12:32) Noma ngubani okhuluma izwi ngokumelene nendodana ka Umuntu uzothethelelwa, kepha noma ngubani okhuluma ngokumelene UMoya oNgcwele ngeke uthethelelwe, kungaba kulo nyaka (yuga) noma eminyakeni yobudala (Yuga) ezayo.",
           component: 36,
 
           subs: null
         },
         {
-          shloka: "12-36. But I tell you that everyone...",
+          shloka: "(12:36) Kepha ngithi kuwe wonke umuntu kuzofanele anikeze a akhawunti ngosuku lokwahlulela kuwo wonke amagama angenalutho bakhulumile.",
           component: 37,
           subs: null
         },
         {
-          shloka: "12-37. For by your words you...",
+          shloka: "(12:37) Ngoba ngamazwi akho uzotholwa, futhi Amagama akho uzolahlwa.",
           component: 37,
           subs: null
         },
         {
-          shloka: "12-40. For as Jonah was three days...",
+          shloka: "(12:40) Ngoba njengoba uJona ayesezinsuku ezintathu nobusuku obuthathu Isisu senhlanzi enkulu, kanjalo neNdodana yomuntu iyoba ngabathathu izinsuku nobusuku obuthathu enhliziyweni yomhlaba.",
           component: 38,
 
           subs: null
         },
         {
-          shloka: "13-13. Though seeing, they do not...",
+          shloka: "(13:13) Yize bebona, ababoni; nokho Ukuzwa, abazwayo noma baqonde.",
           component: 39,
           subs: null
         },
         {
-          shloka: "13-14. In them is fulfilled the prophecy...",
+          shloka: "(13:14) Kubo kugcwaliseka isiprofetho se-IUSaiya: Wena uzohlala ezwa kodwa angalokothi aqonde; uzokwenza kanjalo hlala njalo kodwa ungalokothi ubone.",
           component: 39,
           subs: null
         },
         {
-          shloka: "13-15. For this people’s heart has become...",
+          shloka: "(13:15) Ukuze inhliziyo yale nto isibizelwe; Azizwa nezindlebe zabo, futhi zivale amehlo abo. Ngaphandle kwalokho, bangase babone ngamehlo abo, Yizwa ngezindlebe zabo, uqonde ngezinhliziyo zabo, Futhi phenduka, futhi ngangibaphilisa.",
           component: 39,
           subs: null
         },
         {
-          shloka: "15-7. You hypocrites! Isaiah was...",
+          shloka: "(15:7) Nina bazenzisi! U-Isaya wayeqinisile lapho yena waprofeta ngawe.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-8. These people honor me with their lips...",
+          shloka: "(15:8) Laba bantu bangihlonipha ngezindebe zabo, kodwa babo izinhliziyo zikude nami.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-9. They worship me in vain;...",
+          shloka: "(15:9) Bangikhonza ngeze; izimfundiso zabo imithetho yabantu nje.",
           component: 40,
           subs: null
         },
         {
-          shloka: "15-11. What goes into someone’s mouth...",
+          shloka: "(15:11) Okungena emlonyeni womuntu akukwenzi zingcolise, kepha okuphuma emlonyeni wazo, ukuthi yilokho okungcolisayo.",
           component: 41,
           subs: null
         },
         {
-          shloka: "15-12. Then the disciples came to...",
+          shloka: "(15:12) Kube sekufika abafundi kuye, bambuza bathi: 'Yenza Uyazi ukuthi abaFarisi bakhungathekile lapho Bezwa lokhu? '",
           component: 42,
           subs: null
         },
         {
-          shloka: "15-13. He replied, “Every plant that...",
+          shloka: "(15:13) Waphendula wathi, 'Zonke izitshalo ezazisezulwini Ubaba akakatshalanga uzodonswa yizimpande. '",
           component: 42,
           subs: null
         },
         {
-          shloka: "15-14. Leave them; they are blind...",
+          shloka: "(15:14) Bayeke; Bangabaqondisi abayizimpumputhe. Uma izimpumputhe zihola izimpumputhe, zombili zizowela emgodini.",
           component: 43,
           subs: null
         },
         {
-          shloka: "16-21. From that time on Jesus began...",
+          shloka: "(16:21) Kulesosikhathi kuJesu waqala ukuchaza okwakhe abafundi ukuthi kumele aye eJerusalema futhi ahlupheke izinto eziningi ezandleni zabadala, induna abapristi, kanye nabafundisi bomthetho, nokuthi kufanele Ukubulawa kwathi ngosuku lwesithathu kuvuselelwa empilweni. (Okokuqala Isikhathi)",
           component: 44,
           subs: null
         },
         {
-          shloka: "16-22. Peter took him aside and began...",
+          shloka: "(16:22) UPhetro wamthatha eceleni waqala ukumkhuza. 'Qha, Nkosi!' uthe. 'Lokhu ngeke kwenzekele Wena! '",
           component: 44,
           subs: null
         },
         {
-          shloka: "17-22. When they came together...",
+          shloka: "(17:22) Lapho behlangene eGalile, wathi kuyo zona, 'iNdodana yomuntu izohanjiswa ku izandla zabantu. '",
           component: 44,
           subs: null
         },
         {
-          shloka: "17-23. They will kill him, and on the...",
+          shloka: "(17:23) Bazakumbulala, nangosuku lwesithathu ukhuliswe empilweni. 'Futhi abafundi bagcwala usizi. (Okwesibili)",
           component: 44,
           subs: null
         },
         {
-          shloka: "19-23. Then Jesus said to his disciples...",
+          shloka: "(19:23) Khona-ke uJesu wathi kubafundi bakhe: 'Ngiqinisile ngithi kini; Kunzima kothile ocebile ukungena eMbusweni we-paraloka.",
           component: 45,
           subs: null
         },
         {
-          shloka: "19-24. Again, I tell you, it is easier...",
+          shloka: "(19:24) Futhi, ngithi kuwe, kulula ukuthi ikamela lihambe ngokusebenzisa iso lenaliti kunomuntu onjalo Ucebile ukungena embusweni kaNkulunkulu.",
           component: 45,
           subs: null
         },
         {
-          shloka: "20-17. Now Jesus was going up...",
+          shloka: "(20:17) Manje uJesu wayekhuphukela eJerusalema. Use Wathatha eceleni, wathatha abayishumi nambili eceleni wathi kubo.",
           component: 44,
           subs: null
         },
         {
-          shloka: "20-18. We are going up to Jerusalem...",
+          shloka: "(20:18) We wenyukela eJerusalema, nendodana ka Umuntu uzokhululwa kubaphristi abakhulu naku abafundisi boMthetho. Bazomlahla ngokufa.",
           component: 44,
           subs: null
         },
         {
-          shloka: "20-19. They will hand him over to...",
+          shloka: "(20:19) Bazomnika abeZizwe ukuba babe kugcotshwe futhi kushayelwe futhi kubethelwe. Ngosuku lwesithathu yena uzovuselwa empilweni!  (Okwesithathu)",
           component: 44,
           subs: null
         },
         {
-          shloka: "22-36. Teacher, which is the greatest...",
+          shloka: "(22:36) Mfundisi, okuwumyalo omkhulu kunayo yonke Emthethweni (Dharma Shastra)?",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-37. Jesus replied: “Love the Lord...",
+          shloka: "(22:37) UJesu waphendula: Thandani uJehova uNkulunkulu wakho ngakho konke inhliziyo yakho nangayo yonke imiphefumulo yakho nangayo yonke eyakho ingqondo. ",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-38. This is the first and greatest...",
+          shloka: "(22:38) Lo ngumyalo wokuqala nowokuqala omkhulu.",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-39. And the second is like it...",
+          shloka: "(22:39) Futhi owesibili unjengokuthi: 'Thanda umakhelwane wakho njengoba ngokwakho. '",
           component: 46,
           subs: null
         },
         {
-          shloka: "22-40. All the Law and the Prophets...",
+          shloka: "(22:40) Wonke umthetho nabaprofethi balenga kulezi ezimbili imiyalo.",
           component: 46,
           subs: null
         },
         {
-          shloka: "23-8. But you are not to be called...",
+          shloka: "(23:8) Kepha akufanele ubizwa ngokuthi 'Rabi,' kuwe ube nothisha oyedwa, futhi nina ningabafowethu.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-9. And do not call anyone on earth...",
+          shloka: "(23:9) Futhi ungabizi muntu kuyise emhlabeni, 'ngawe babe nobaba oyedwa, futhi usebaphathekayo.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-10. Nor are you to be called instructors...",
+          shloka: "(23:10) Futhi futhi awubizwa ngokuthi abafundisi, kuwe Unomfundisi oyedwa, uMesiya.",
           component: 47,
           subs: null
         },
         {
-          shloka: "23-15. Woe to you, teachers of the law...",
+          shloka: "(23:15) 'Maye kuwe, othisha bomthetho nabaFarisi, Nina bazenzisi! Uhamba phezu komhlaba nolwandle ukunqoba a ukuguqula okukodwa, nalapho usuphumelele, wena Zenzele ingane ephindwe kabili yesihogo njengoba unjalo.",
           component: 48,
           subs: null
         },
         {
-          shloka: " 24-35. Sky and earth will pass away...",
+          shloka: "(24:35) Isibhakabhaka nomhlaba kuzodlula, kepha amazwi ami azovuma ungalokothi udlule.",
           component: 49,
           subs: null
         },
         {
-          shloka: "24-42. Therefore, keep watch, because...",
+          shloka: "(24:42) Ngakho-ke, hlala ubukele, ngoba awukwenzi yazini ukuthi iNkosi yenu izofika ngaluphi usuku.",
           component: 50,
           subs: null
         },
         {
-          shloka: "26-26. While they were eating, Jesus ...",
+          shloka: "(26:26) Ngenkathi bedla, uJesu wathatha isinkwa, futhi lapho ebonge, wayiphula wayinika yona Abafundi bakhe, bathi: 'Thatha udle; Lo mzimba wami. '",
           component: 51,
           subs: null
         },
         {
-          shloka: "26-27. Then he took a cup, and when...",
+          shloka: "(26:27) Wabe esethatha inkomishi, kwathi lapho enikele Ngiyabonga, Wabanika, bathi, 'Phuzani kuso, konke kuwe.",
           component: 51,
           subs: null
         },
         {
-          shloka: "26-28. This is my blood of the covenant...",
+          shloka: "(26: 28) Leli yigazi lami lesivumelwano (ukuhlakanipha kukaNkulunkulu ngaphandle kwezibopho zokungazi), okukhona wathululela abaningi ukuze intethelelo yezono.",
           component: 51,
           subs: null
         },
         {
-          shloka: "28-18. Then Jesus came to them and...",
+          shloka: "(28:18) Khona-ke uJesu weza kubo wathi: 'Bonke igunya efenina nasemhlabeni linikezwe mina.",
           component: 52,
           subs: null
         },
         {
-          shloka: "28-19. Therefore, go and make disciples...",
+          shloka: "(28:19) Ngakho-ke, hambani nifundise zonke izizwe. bababhapathiza egameni likaYise nowe Indodana nangoMoya oNgcwele.",
           component: 53,
           subs: null
         },
         {
-          shloka: "28-20. Teaching them to obey everything...",
+          shloka: "(28:20) Bafundise ukuba balalele konke enginakho uyakuyala. Futhi impela, nginawe njalo, ukuze ukuphela kweminyaka yobudala (Yuga).",
           component: 53,
           subs: null
         },
@@ -3368,279 +3488,277 @@ verse: `
       ]
     },
     {
-      title: 'The Gospel of Mark', component: null, chapterNumber: 3, icon: 'book',
+      title: 'IVangeli likaMarku', component: null, chapterNumber: 3, icon: 'book',
       subs: [
         {
-          shloka: "2-19. How can the guests of the...",
+          shloka: "(2:19) Izimenywa zoMyeni zingashesha kanjani lapho Unabo? Ngeke, isikhathi eside njengathi banaye nabo.",
           component: 54,
           subs: null
         },
         {
-          shloka: "2-20. But the time will come when...",
+          shloka: "(2:20) Kepha isikhathi siyofika lapho umkhwenyana ethanda Kuthathwe kubo, futhi ngalolo suku bayozila.",
           component: 54,
           subs: null
         },
         {
-          shloka: "4t-38. Jesus was in the stern,...",
+          shloka: "(4:38) UJesu wayesemuva, elele emjuka. Le khasi abafundi bamvusa, bathi kuye: 'Mfundisi, musani Unakekela uma siminza? '",
           component: 55,
           subs: null
         },
         {
-          shloka: "4-39. He got up, rebuked the wind...",
+          shloka: "(4:39) Wasukuma, wakhuza umoya, wathi ku Amagagasi, 'ethule! Yiba! 'Khona-ke umoya wawufa phansi Kwakuzolile ngokuphelele.",
           component: 55,
           subs: null
         },
         {
-          shloka: "5-38. When they came to the home...",
+          shloka: "(5:38) Lapho befika ekhaya lesinagoge umholi, uJesu wabona isiyaluyalu, nabantu abakhala futhi ekhala kakhulu.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-39. He went in and said to them...",
+          shloka: "(5:39) Wangena wathi kubo: 'Okwenza konke lokhu Isiphithiphithi kanye nokukhala? Ingane ayifile kepha ulele. '",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-40. But they laughed at him...",
+          shloka: "(5:40) Kepha bamhleka usulu. Ngemuva kokuba ababeke bonke ukuphuma, wathatha uyise nonina wengane kanye nonina abafundi ababenaye bangena lapho ingane yayikhona.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-41. He took her by the hand...",
+          shloka: "(5:41) Wamthatha ngesandla wathi kuye: 'Talitha Koum! ' (okusho ukuthi 'ntombazane encane, ngithi kuwe, vuka!').",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-42. Immediately the girl stood...",
+          shloka: "(5:42) Ngokushesha le ntombazane yasukuma yaqala ukuhamba azungeze (wayeneminyaka eyishumi nambili). Kulokhu babekhona emangele ngokuphelele.",
           component: 56,
           subs: null
         },
         {
-          shloka: "5-43. He gave strict orders not to...",
+          shloka: "(5:43) Wanikeza ama-oda aqinile ukuba angavumeli muntu azi ngalokhu futhi wabatshela ukuthi bamnikeze okuthile abangakudla.",
           component: 56,
           subs: null
         },
         {
-          shloka: "7-15. Nothing outside a person...",
+          shloka: "(7:15) Lutho ngaphandle komuntu ongawangcolisa ngalo ukuya kubo.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-16. Rather, it is what comes out of a...",
+          shloka: "(7:16) Esikhundleni salokho, yilokho okuphuma kumuntu ukuthi uyamngcolisa.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-17. After he had left the crowd and ...",
+          shloka: "(7:17) Ngemuva kokuba eseshiye isixuku wangena indlu, abafundi bakhe bambuza ngalo mfanekiso.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-18. “Are you so dull?” he asked...",
+          shloka: "(7:18) 'Ingabe uthambile kangaka?' ebuza. 'Awukuboni lokho akukho lutho olungena umuntu kusuka ngaphandle olungaphandle zingcolise?",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-19. For it does not go into their...",
+          shloka: "(7:19) Ngoba ayingeni enhliziyweni yabo kepha baye kwabo isisu, bese uphuma emzimbeni. '",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-20. He went on: “What comes out...",
+          shloka: "(7:20) Waqhubeka: 'Okuphuma kumuntu yilokho uyamngcolisa.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-21. For it is from within, out of a...",
+          shloka: "(7:21) Ngoba kuvela ngaphakathi, enhliziyweni yomuntu, ukuthi Imicabango emibi yaphela - ukweba okubi, ukweba, ukubulala,",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-22. dultery, greed, malice, deceit...",
+          shloka: "(7:22) Ukuphinga, ukuhaha, ububi, inkohliso, amanyala, umona, Ukunyundela, ukuzikhukhumeza, nobuwula.",
           component: 57,
           subs: null
         },
         {
-          shloka: "7-23. All these evils come from inside...",
+          shloka: "(7:23) Zonke lezi zinto zobubi zivela ngaphakathi futhi zingcolisa a umuntu.",
           component: 57,
           subs: null
         },
         {
-          shloka: "3-35. Whoever does God’s will is my...",
+          shloka: "(3:35) Noma ngubani owenza intando kaNkulunkulu ungumfowethu nodadewethu nomama.",
           component: 58,
           subs: null
         },
         {
-          shloka: "4-17. But since they have no root...",
+          shloka: "(4:17) Kepha njengoba bengenampande, bagcina kuphela a isikhathi esifushane. Lapho kuvela ubunzima noma ukushushiswa Ngenxa yeZwi, ngokushesha bawa.",
           component: 59,
           subs: null
         },
         {
-          shloka: "4-21. He said to them, “Do you...",
+          shloka: "(4:21) Wathi kubo: 'Uyakubeka isibani ukuze usibeke phansi Ngaphansi kwesitsha noma embhedeni? Esikhundleni salokho, awukubeki ukuma kwalo?",
           component: 60,
           subs: null
         },
         {
-          shloka: "4-22. For whatever is hidden is meant...",
+          shloka: "(4:22) Noma yini efihliwe kuye kwenziwa ukuthi ivezwe, futhi noma yini efihliwe yenzelwe ukukhishwa kuvulekile.",
           component: 60,
           subs: null
         },
         {
-          shloka: "6-4. Jesus said to them, “A prophet...",
+          shloka: "(6:4) UJesu wathi kubo: 'Umprofethi akwenzi Hlonipha ngaphandle kwedolobha lakubo, phakathi kwezihlobo zakhe futhi ekhaya lakhe. '",
           component: 61,
           subs: null
         },
         {
-          shloka: "8-38. If anyone is ashamed of me and...",
+          shloka: "(8:38) Uma umuntu enamahloni ngami namazwi ami kulokhu Isizukulwane esiphingayo nesona, iNdodana yomuntu intando babe namahloni ngabo lapho efika kuYise Udumo ngezingelosi ezingcwele.",
           component: 62,
 
           subs: null
         },
 
         {
-          shloka: ` 9-7. Then a cloud appeared and covered ...`,
+          shloka: `(9:7) Khona-ke kwavela ifu labasibekela, futhi kwavela izwi efwini, lithi: “Lo yiNdodana yami engiyiyo uthando. Mlaleleni!”`,
           component: 63,
 
           subs: null
         },
         {
-          shloka: `10-17. As Jesus started on his way...`,
+          shloka: `(10:17) Njengoba uJesu eqala indlela yakhe, indoda ethile yagijimela kuye wawa ngamadolo phambi kwakhe. "Mfundisi omuhle" wabuza: “Yini okufanele ngiyenze ukuze ngidle ifa lokuphila okuphakade na?”`,
           component: 64,
 
           subs: null
         },
         {
-          shloka: `10-18. “Why do you call me good?”...`,
+          shloka: `(10:18) “Kungani ungibiza ngokuthi ngimuhle?” UJesu waphendula. “Akakho omuhle,ngaphandle kukaNkulunkulu yedwa.`,
           component: 64,
 
           subs: null
         },
-
+        {
+          shloka: `(16:15) Wathi kubo: “Hambani niye ezweni lonke shumayelani ivangeli kuyo yonke indalo.`,
+          component: 65,
+          subs: null
+        },
+        {
+          shloka: `16:16) Okholwayo abhapathizwe uyakusindiswa; kodwa ongakholwayo uzalahlwa.`,
+          component: 65,
+          subs: null
+        }
 
       ]
     },
     {
-      title: 'The Gospel of Luke', component: null, chapterNumber: 4, icon: 'book',
+      title: 'IVangeli likaLuka', component: null, chapterNumber: 4, icon: 'book',
       subs: [
 
-
         {
-          shloka: `16-15. He said to them, “Go into...`,
-          component: 65,
-          subs: null
-        },
-        {
-          shloka: `16-16. Whoever believes and is...`,
-          component: 65,
-          subs: null
-        },
-        {
-          shloka: `2-49. “Why were you searching for me?”...`,
+          shloka: `(2:49) “Beningifunelani na?” wabuza. “Beningazi yini ukuthi kufanele ngibe semhlanganweni kaBaba na?”`,
           component: 66,
           subs: null
         },
         {
-          shloka: `11-37. As Jesus was speaking, one...`,
+          shloka: `(11:37) Njengoba uJesu ekhuluma, omunye wabaFarisi wammemela ekhaya ukuze adle. Ngakho, wangena wathatha indawo yakhe etafuleni.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-38. His host was amazed to see...`,
+          shloka: `(11:38) Umninimzi wakhe wamangala lapho ebona ehlala phansi udle ungakagezi izandla kuqala umkhosi odingwa isiko lamaJuda.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-39. Then the Lord said to him, “You...`,
+          shloka: `(11:39) Khona-ke iNkosi yathi kuye: “Nina baFarisi qaphela kakhulu ukuhlanza ingaphandle lendebe nesitsha, kodwa ngaphakathi ungcolile—ugcwele ukuhaha kanye ububi!`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-40. Fools! Didn’t God make the...`,
+          shloka: `(11:40) Ziwula! UNkulunkulu akawenzanga yini ingaphakathi nengaphakathi ngaphandle?`,
           component: 67,
           subs: null
         },
         {
-          shloka: `11-41. So, clean the inside by giving...`,
+          shloka: `(11:41) Ngakho, hlanza ingaphakathi ngokunikeza izipho (dharmas) ku ompofu, futhi uyakuba ohlanzekile yonke indawo.`,
           component: 67,
           subs: null
         },
         {
-          shloka: `12-4. I tell you, my friends, do not...`,
+          shloka: `(12:4) Ngithi kini, bangane bami: Ningabesabi labo ababulala umzimba, emva kwalokho bangabi nakwenza okunye.`,
           component: 68,
 
           subs: null
         },
         {
-          shloka: `12-5. But I will show you whom you...`,
+          shloka: `(12:5) Kodwa ngizonibonisa okufanele nesabe: Yesabani lowo othi esebulewe umzimba wakho unaye igunya lokukuphonsa esihogweni. Yebo, ngithi kini: Yesabani yena.`,
           component: 68,
 
           subs: null
         },
         {
-          shloka: `12-25. Which of you by worrying can...`,
+          shloka: `12:25) Yimuphi kini ngokukhathazeka anganezela ekukhuleni kwakhe ingalo eyodwa?`,
           component: 69,
 
           subs: null
         },
         {
-          shloka: "12-33. Sell your possessions and give...",
+          shloka: "(12:33) Thengisani ngempahla yenu niyinike aba mpofu. Ziphekeleni izikhwama ezingagqoki out, umcebo paraloka ongasoze wehluleka, lapho alikho isela elingasondeli, alinanundu elichithayo.",
           component: 70,
           subs: null
         },
         {
-          shloka: "12-34. For where your treasure is,...",
+          shloka: "(12:34) Ngokuba lapho kukhona ingcebo yakho, kulapho inhliziyo yakho kuzoba njalo.",
           component: 70,
           subs: null
         },
         {
-          shloka: "12-49. I have come to bring fire...",
+          shloka: "(12:49) Ngize ukuletha umlilo emhlabeni, futhi kanjani Sengathi ngabe sekubasiwe.",
           component: 71,
           subs: null
         },
         {
-          shloka: "12-51. Do you think I came to bring...",
+          shloka: "(12:51) Ingabe nicabanga ukuthi ngizele ukuletha ukuthula emhlabeni Qha, ngithi kini, kodwa ukwahlukana.",
           component: 72,
           subs: null
         },
         {
-          shloka: "12-52. From now on there will be five...",
+          shloka: "(12:52) Kusukela manje kuqhubeke kuyoba nabahlanu emkhayeni owodwa bahlukene phakathi, abathathu nababili, nababili ngokumelene nabathathu.",
           component: 72,
           subs: null
         },
         {
-          shloka: "12-53. They will be divided, father against...",
+          shloka: "(12:53) Bayohlukana, uyise emelene nendodana nendodana noyise, unina nendodakazi nendodakazi ngokumelene nonina, umamezala ngokumelene nomalokazana umalokazana ngokumelene nomamezala.",
           component: 72,
           subs: null
         },
         {
-          shloka: "13-3. Unless you change your mind...",
+          shloka: "(13:3) Ngaphandle kokuba ushintshe umqondo wakho, nani nonke niyokwenza bhubha.",
           component: 73,
           subs: null
         },
         {
-          shloka: "14-26. If anyone comes to me and does...",
+          shloka: "(14:26) Uma umuntu eza kimi futhi engazondi ubaba nomama, unkosikazi nabantwana, abafowabo, kanye odade—yebo, ngisho nokuphila kwabo siqu—umuntu onjalo angeke abe ngumfundi wami.",
           component: 74,
 
           subs: null
         },
         {
-          shloka: "14-27. Whoever does not carry their...",
+          shloka: "(14:27) Noma ubani ongathwali isiphambano sabo futhi uyalandela ngingebe ngumfundi wami.",
           component: 75,
           subs: null
         },
         {
-          shloka: "18-29. “Truly I tell you,” Jesus said to them...",
+          shloka: "(18:29) 'Ngiqinisile ngithi kini,' kusho uJesu kubo, 'akekho muntu oshiye ikhaya noma unkosikazi noma abafowabo noma odadewabo noma abazali noma abantwana ngenxa yombuso kaNkulunkulu uyohluleka ukwamukela okuphindwe kaningi kulenkathi, futhi enkathini ezayo ukuphila okuphakade.'",
           component: 76,
           subs: null
         },
         {
-          shloka: "21-15. I will give you words and wisdom...",
+          shloka: "(21:15) Ngizokunika amazwi nokuhlakanipha okungekho izitha zakho ziyokwazi ukumelana noma ukuphikisa.",
           component: 77,
 
           subs: null
         },
         {
-          shloka: "21-17. Everyone will hate you...",
+          shloka: "(21:17) Wonke umuntu uyonizonda ngenxa yami.",
           component: 78,
           subs: null
         }
@@ -3651,472 +3769,472 @@ verse: `
 
     },
     {
-      title: 'The Gospel Of John ', component: null, chapterNumber: 5, icon: 'book',
+      title: 'IVangeli likaJohane ', component: null, chapterNumber: 5, icon: 'book',
       subs: [
         {
-          shloka: "1-1. In the beginning was the Word...",
+          shloka: "(1:1) Ekuqaleni wayekhona uLizwi, uLizwi wayekhona noNkulunkulu, futhi uLizwi wayenguNkulunkulu.",
           component: 79,
           subs: null
         },
         {
-          shloka: "1-9. The true light that gives light...",
+          shloka: "(1:9) Ukukhanya kweqiniso okukhanyisa wonke umuntu kwakungukukhanya eza emhlabeni.",
           component: 80,
           subs: null
         },
         {
-          shloka: "1-10. He was in the world, and though...",
+          shloka: "(1:10) Wayesezweni, futhi nakuba izwe lalikhona owenziwe ngaye, izwe alimazanga.",
           component: 81,
           subs: null
         },
         {
-          shloka: "1-11. He came to that which was his...",
+          shloka: "(1:11) Weza kokungokwakhe, kodwa okwakhe akamemukelanga.",
           component: 82,
           subs: null
         },
         {
-          shloka: "1-12. Yet to all who did receive him...",
+          shloka: "(1:12) Nokho kubo bonke abamamukelayo, kulabo wakholwa egameni lakhe, wanika ilungelo lokuba abantwana bakaNkulunkulu.",
           component: 83,
           subs: null
         },
         {
-          shloka: "1-13. Men born not of natural descent...",
+          shloka: "(1:13) Abantu abazalwa ngokungewona wozalo lwemvelo, noma ngabantu isinqumo noma intando yendoda, kodwa ezelwe nguNkulunkulu.",
           component: 84,
           subs: null
         },
         {
-          shloka: "1-14. The Word became flesh and made...",
+          shloka: "(1:14) ULizwi waba yinyama futhi wakha indawo yakhe yokuhlala phakathi kwethu. Sabona inkazimulo yakhe, inkazimulo yalowo oyedwa neNdodana ezelwe yodwa, evela kuYise, egcwele umusa kanye neqiniso.",
           component: 85,
           subs: null
         },
         {
-          shloka: "1-18. No man has seen God at any...",
+          shloka: "(1:18) Akekho umuntu oye wabona uNkulunkulu noma nini; okuodwa iNdodana ezelwe, esesifubeni sikaYise, wamembula.",
           component: 86,
           subs: null
         },
         {
-          shloka: "1-51. He then added, “Very truly...",
+          shloka: "(1:51) Wabe esenezela, 'Ngiqinisile ngithi kini, nizobona izulu liyavuleka, nezingelosi zikaNkulunkulu zenyuka futhi yehlela phezu kweNdodana yomuntu.'",
           component: 87,
           subs: null
         },
         {
-          shloka: "3-3. Jesus replied, “Very truly...",
+          shloka: "(3:3) UJesu waphendula wathi: 'Ngiqinisile ngithi kini: Akakho ongabona umbuso kaNkulunkulu ngaphandle kokuthi bazalwe kabusha.",
           component: 88,
           subs: null
         },
         {
-          shloka: "3-4. “How can someone be...",
+          shloka: "(3:4) 'Umuntu angazalwa kanjani esemdala?' Kubuza uNikodima. 'Ngempela abakwazi ukungena ngomzuzwana isikhathi esizalweni sikanina ukuba bazalwe!'",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-5. Jesus answered, “Very truly...",
+          shloka: "(3:5) UJesu waphendula wathi: 'Ngiqinisile ngithi kini: Akakho ongakwenza bangene embusweni kaNkulunkulu ngaphandle kokuthi bazalwe amanzi noMoya (Atma).",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-6. Flesh gives birth to flesh, but...",
+          shloka: "(3:6) Inyama izala inyama, kodwa uMoya (Atma) uzala umoya.",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-7. You should not be surprise...",
+          shloka: "(3:7) Akufanele nimangale lapho ngithi, 'Wena kufanele azalwe kabusha.'",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-8. The wind blows wherever it...",
+          shloka: "(3:8) Umoya uphephetha nomaphi lapho uthanda khona. Uyakuzwa umsindo, kodwa awukwazi ukusho ukuthi uvelaphi noma lapho liya khona. Ngakho, kunjalo nawo wonke umuntu ozelwe ngu Umoya (Atma).'",
           component: 89,
           subs: null
         },
         {
-          shloka: "3-13. No one has ever gone into...",
+          shloka: "(3:13) Akekho owake wangena eParaloka ngaphandle kwe owavela eParaloka—iNdodana yomuntu.",
           component: 90,
           subs: null
         },
         {
-          shloka: "3-15. That whosoever believes in him...",
+          shloka: "(3:15) Ukuze yilowo nalowo okholwa kuYe akufanele abhubhe, kepha abe nokuphila okuphakade.",
           component: 91,
           subs: null
         },
         {
-          shloka: "3-17. For God did not send his Son...",
+          shloka: "(3:17) Ngoba uNkulunkulu akayithumelanga iNdodana yakhe ezweni ahlulele umhlaba, kodwa ukusindisa umhlaba ngaye.",
           component: 92,
           subs: null
         },
         {
-          shloka: "3-18. Whoever believes in him is...",
+          shloka: "(3:18) Lowo okholwa kuye akahlulelwa, kodwa ongakholwayo umi wahlulelwa ngoba bengakholwanga ebizweni likaNkulunkulu iNdodana eyodwa.",
           component: 93,
           subs: null
         },
         {
-          shloka: "3=19. This is the verdict: Light has...",
+          shloka: "(3:19) Lesi yisinqumo: Ukukhanya kungenile izwe, kepha abantu bathanda ubumnyama kunokukhanya ngoba izenzo zabo zazizimbi.",
           component: 94,
           subs: null
         },
         {
-          shloka: "3-20. Everyone who does evil hate...",
+          shloka: "(3:20) Wonke umuntu owenza okubi uzonda ukukhanya futhi uyokwenza bangangeni ekukhanyeni, besaba ukuthi izenzo zabo ziyakwenzeka obala.",
           component: 94,
           subs: null
         },
         {
-          shloka: "3-21. But whoever lives by the truth...",
+          shloka: "(3:21) Kodwa lowo ophila eqinisweni uyangena ukukhanya, ukuze kubonakale ngokusobala lokho abakwenzayo okwenziwayo kuye kwenziwa phambi kukaNkulunkulu.",
           component: 94,
           subs: null
         },
         {
-          shloka: "5-19. Jesus gave them this answer:...",
+          shloka: "(5:19) UJesu wabaphendula wathi: “Ngiqinisile ngithi wena, iNdodana ingenze lutho ngokwaYo; Angenza kuphela lokho abona uYise ekwenza, ngoba noma yini UBaba wenza neNdodana.",
           component: 95,
           subs: null
         },
         {
-          shloka: "5-20. For the Father loves the Son and...",
+          shloka: "(5:20) Ngoba uYise uyayithanda iNdodana futhi uyibonisa konke Uyakwenza. Yebo, futhi UzoMkhombisa okukhulu nakakhulu imisebenzi kunalena, ukuze nimangale.",
           component: 96,
           subs: null
         },
         {
-          shloka: "5-21. For just as the Father raises...",
+          shloka: "(5:21) Ngoba njengoba nje uBaba evusa abafileyo futhi epha ukuphila kwabo, kanjalo neNdodana iyabaphilisa lowo enguye ngithokozile ukuyinika.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-22. Moreover, the Father judges no...",
+          shloka: "(5:22) Ngaphezu kwalokho, uBaba akahluleli muntu, kodwa umahluleli ukuphathise iNdodana konke ukwahlulela.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-23. That all may honor the Son...",
+          shloka: "(5:23) Ukuze bonke badumise iNdodana njengoba nje bedumisa uBaba. Ongayihloniphi iNdodana akayihloniphi hlonipha uBaba owamthumayo.",
           component: 97,
           subs: null
         },
         {
-          shloka: "5-24. Very truly I tell you, whoever...",
+          shloka: "(5:24) Ngiqinisile, ngiqinisile ngithi kini: Yilowo nalowo ozwa izwi lami, futhi okholwa ngulowo ongithumileyo unokuphila okuphakade, kodwa kasoze wahlulelwa kodwa weqile ekufeni wangena ekuphileni.",
           component: 98,
           subs: null
         },
         {
-          shloka: "5-26. For as the Father has life...",
+          shloka: "(5:26) Ngokuba njengalokhu uBaba enokuphila kuye, unakho kanjalo wayinika iNdodana ukuthi ibe nokuphila kuyo ngokwayo.",
           component: 99,
           subs: null
         },
         {
-          shloka: "5-37. You have never heard his voice...",
+          shloka: "(5:37) Anikaze nizwe izwi Lakhe, nibone nelakhe ifomu.",
           component: 100,
           subs: null
         },
         {
-          shloka: "5-38. Nor does his word dwell in...",
+          shloka: "(5:38) Futhi izwi lakhe alihlali kini, ngoba nina kholwani nguye amthumileyo.",
           component: 101,
 
           subs: null
         },
         {
-          shloka: "6-25. When they found him on the...",
+          shloka: "(6:25) Lapho bemthola ngaphesheya komgwaqo echibini, bambuza bathi: 'Rabi, ufike nini lapha na?'",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-26. Jesus answered, “Very truly...",
+          shloka: "(6:26) UJesu waphendula wathi: 'Ngiqinisile, ngiqinisile ngithi kini: Ninjalo ningidinga, kungeyisikho ngoba nabona izibonakaliso zami kodwa ngenxa yokuthi ladla izinkwa, ladla ukugcwalisa kwakho.",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-27. Do not work for food that spoils...",
+          shloka: "(6:27) Ningasebenzeli ukudla okonakalayo, kodwa ukudla omi kuze kube-ngukuphila okuphakade, ekuthandayo iNdodana yomuntu ngikunike. Ngokuba uNkulunkulu uYise ubeke okwakhe phezu kwakhe uphawu lokuvunywa.",
           component: 102,
           subs: null
         },
         {
-          shloka: "6-32. Jesus said to them, “Very truly...",
+          shloka: "(6:32) UJesu wathi kubo: 'Ngiqinisile, ngiqinisile ngithi kini: Akunjalo; uMose oninike isinkwa esivela ku-paraloka, kodwa nguBaba oninika isinkwa seqiniso esivela i-paraloka.",
           component: 103,
           subs: null
         },
         {
-          shloka: "6-47. No one has seen the Father...",
+          shloka: "(6:46) Akakho oke wabona uBaba, kuphela lowo ivela kuNkulunkulu; nguye kuphela obone uBaba.",
           component: 104,
           subs: null
         },
         {
-          shloka: "7-37. On the last and greatest da...",
+          shloka: "(7:37) Ngosuku lokugcina nolwedlulele lomkhosi, uJesu wema, wamemeza ngezwi elikhulu, wathi: 'Lowo okhona makamyeke; owomile uze kimi, uphuze.",
           component: 105,
           subs: null
         },
         {
-          shloka: "7-38. Whoever believes in me, as...",
+          shloka: "(7:38) Lowo okholwa kimi, njengoba nje umBhalo ushilo, kuyogeleza imifula yamanzi aphilayo phakathi kwabo.",
           component: 105,
           subs: null
         },
         {
-          shloka: "8-12. When Jesus spoke again to the...",
+          shloka: "(8:12) UJesu esephinda ekhuluma ebantwini, wathi: 'Mina ngiwukukhanya kwezwe. Ongilandelayo uzongilandela ungahambi ebumnyameni, kodwa uyakuba nokukhanya kokuphila.'",
           component: 106,
           subs: null
         },
         {
-          shloka: "8-14. Jesus answered, “Even if I testify...",
+          shloka: "(8:14) UJesu waphendula wathi: “Noma ngizifakaza ngokwami Ubufakazi bami buqinisile, ngokuba ngiyazi lapho ngafika khona ngisuka lalapho ngiya khona. Kodwa awazi lapho ngivela khona nalapho ngiya khona.",
           component: 107,
           subs: null
         },
         {
-          shloka: "8-19t. Then they asked him, “Where...",
+          shloka: "(8:19) Khona-ke bambuza, 'Uphi uYihlo na? 'Anazi mina noma uBaba,' kuphendula uJesu. “Uma beningazi mina, beniyakumazi noBaba.'",
           component: 108,
           subs: null
         },
         {
-          shloka: "8-21. Once more Jesus said to them...",
+          shloka: "(8:21) UJesu waphinda wathi kubo: 'Ngiyamuka; futhi niyongifuna, futhi niyofela esonweni senu. Lapho ngiya khona, ningeze nina.'",
           component: 109,
           subs: null
         },
         {
-          shloka: "8-23. But he continued, “You are from...",
+          shloka: "(8:23) Kodwa waqhubeka, 'Nina ningabaphansi; Nginguye kusuka phezulu. Nina ningabakalumhlaba; Mina angiyena owalokhu umhlaba.",
           component: 110,
           subs: null
         },
 
         {
-          shloka: "8-24. I told you that you would die...",
+          shloka: "(8:24) Nganitshela ukuthi niyakufela ezonweni zenu; uma u ningakholwa ukuthi mina nginguye, nizofela kini izono.",
           component: 111,
           subs: null
         },
         {
-          shloka: "8-28.  So, Jesus said, “When you...",
+          shloka: "(8:28) Ngakho, uJesu wathi, 'Lapho seniyiphakamisile iNdodana koMuntu, khona niyokwazi ukuthi nginguye nokuthi nginguye lutho ngokwami, kodwa ngikhulume lokho uBaba anakho wangifundisa.",
           component: 112,
           subs: null
         },
         {
-          shloka: "8-29. The one who sent me is with...",
+          shloka: "(8:29) Lowo ongithumileyo unami; Akahambanga mina ngedwa, ngokuba ngenza njalo okuthokozisayo.",
           component: 113,
           subs: null
         },
         {
-          shloka: "8-53. Are you greater than our...",
+          shloka: "(8:53) Wena umkhulu yini kunobaba wethu u-Abrahama? Yena bafa, kanjalo nabaprofethi. Ucabangani wena ziphi?",
           component: 114,
           subs: null
         },
         {
-          shloka: "8-54. Jesus replied, “If I glorify...",
+          shloka: "(8:54) UJesu waphendula wathi: 'Uma ngizikhazimulisa mina, udumo lwami lusho; lutho. UBaba wami, enithi unguNkulunkulu wenu ongidumisayo.",
           component: 114,
           subs: null
         },
         {
-          shloka: "8-55. Though you do not know ...",
+          shloka: "(8:55) Nakuba ningamazi, mina ngiyamazi. Uma ngi ngathi angizange ngibe ngumqambimanga njengani, kodwa ngiyazi Yena futhi ulalele izwi Lakhe.",
           component: 115,
           subs: null
         },
         {
-          shloka: "8-57. You are not yet fifty years old...",
+          shloka: "(8:57) 'Awukabi naminyaka engamashumi amahlanu,'besho kubo Wathi, 'Umbonile u-Abrahama!'",
           component: 116,
 
           subs: null
         },
         {
-          shloka: "8-58. Very truly I tell you,” Jesus answered...",
+          shloka: "8:58) 'Ngiqinisile ngiqinisile ngithi kini,'kuphendula uJesu, 'ngaphambili U-Abrahama wazalwa, mina nginguye!'",
           component: 116,
 
           subs: null
         },
         {
-          shloka: "9-39. Jesus said, “For judgment I have...",
+          shloka: "(9:39) UJesu wathi: 'Ngize ukwahlulela kulokhu; umhlaba, ukuze izimpumputhe zibone, nababonayo babone ube yizimpumputhe.'",
           component: 117,
           subs: null
         },
         {
-          shloka: "9-41. Jesus said, “If you were blind,...",
+          shloka: "(9:41) UJesu wathi: 'Uma beniyizimpumputhe, ngabe anikho unecala lesono; kodwa manje njengoba uthi uyabona, yakho icala lihlala likhona.",
           component: 118,
 
           subs: null
         },
         {
-          shloka: "10-18. No one takes life from me...",
+          shloka: "(10:18) Akakho osusa ukuphila kimi, kepha mina ngikubeka phansi ngokuthanda kwami. Nginegunya lokuyibeka futhi igunya lokulithatha futhi. Lo myalo ngawuthola evela kuBaba.",
           component: 119,
 
           subs: null
         },
         {
-          shloka: "10-30.  I and the Father are one...",
+          shloka: "(10:30) Mina noBaba simunye.",
           component: 120,
           subs: null
         },
         {
-          shloka: "11-25. Jesus said to her, “I am the...",
+          shloka: "(11:25) UJesu wathi kuye: 'Mina ngingukuvuka nokuvuka; ukuphila. okholwa yimi uyakuphila, nokho bayafa.'",
           component: 121,
           subs: null
         },
         {
-          shloka: "11-26. Whoever lives by believing in...",
+          shloka: "(11:26) Lowo ophila ngokukholwa kimi kasoze afa naphakade.",
           component: 122,
           subs: null
         },
         {
-          shloka: "12-25. Anyone who loves their lif...",
+          shloka: "(12:25) Noma ubani othanda ukuphila kwakhe uyolahlekelwa yikho, kuyilapho noma ubani ozonda ukuphila kwakhe kuleli zwe uyokugcina ukuze uthole ukuphila okuphakade.",
           component: 123,
           subs: null
         },
         {
-          shloka: "12-40. He has blinded their eyes...",
+          shloka: "(12:40) Uye waphuphuthekisa amehlo abo futhi wawenza lukhuni izinhliziyo, ukuze bangaboni ngamehlo abo, noma baqonde ngezinhliziyo zabo, futhi bangaphenduki—futhi bengingathanda balaphe.",
           component: 124,
           subs: null
         },
         {
-          shloka: "12-47. If anyone hears my words...",
+          shloka: "(12:47) Uma umuntu ezwa amazwi ami kodwa angawagcini bona, angimahluleli lowo muntu. Ngoba angizange ngize ahlulele umhlaba, kodwa ukusindisa umhlaba.",
           component: 125,
           subs: null
         },
         {
-          shloka: "12-48. There is a judge for the one...",
+          shloka: "(12:48) Kukhona umahluleli walowo ongalayo futhi akawemukeli amazwi ami; wona kanye amazwi enginawo okhulunyiweyo uyobahlulela ngosuku lokugcina.",
           component: 125,
           subs: null
         },
         {
-          shloka: "12-49. For I did not speak on my own...",
+          shloka: "(12:49) Ngokuba angikhulumanga ngokwami, kodwa uBaba ongithumileyo wangilaya ukuthi ngikhulume konke engilakho kukhulunywa.",
           component: 126,
           subs: null
         },
         {
-          shloka: "12-50. I know that his command leads...",
+          shloka: "(12:50) Ngiyazi ukuthi umyalo wakhe uholela ekuphileni okuphakade. Ngakho-ke, noma yini engiyishoyo yilokho uBaba angitshele khona ukusho.",
           component: 126,
           subs: null
         },
         {
-          shloka: "14-7. If you really know me, you wi...",
+          shloka: "(14:7) Uma beningazi ngempela, beniyakumazi uBaba njengo kahle. Kusukela manje kuya phambili, niyamazi futhi nimbonile.",
           component: 127,
           subs: null
         },
         {
-          shloka: "14-8. Philip said, “Lord, show us the...",
+          shloka: "(14:8) UFiliphu wathi, 'Nkosi, sibonise uYihlo futhi lokho kuyakuba khona kusanele thina.",
           component: 128,
           subs: null
         },
         {
-          shloka: "14-9. Jesus answered: “Don’t you know...",
+          shloka: "(14:9) UJesu waphendula: 'Awungazi yini, Filiphu, na? ngemva kokuba ngibe phakathi kwenu isikhathi eside kangaka? Noma ubani ongibonile mina umbonile uBaba. Ungasho kanjani ukuthi, 'bonisa thina Baba?'",
           component: 128,
           subs: null
         },
         {
-          shloka: "14-10. Don’t you believe that I am in...",
+          shloka: "(14:10) Awukholwa yini ukuthi mina ngikuBaba, futhi ukuthi uBaba ukimi? Amazwi engiwasho kini ngiyawenza ngingakhulumi ngelami igunya. Kunalokho, uBaba, ophila kimi, owenza umsebenzi Wakhe",
           component: 129,
           subs: null
         },
         {
-          shloka: "14-6. Jesus answered, “I am the way...",
+          shloka: "(14:6) UJesu waphendula: 'Mina ngiyindlela neqiniso ne impilo. Akekho oza kuBaba ngaphandle kokuba eze mina.",
           component: 130,
           subs: null
         },
         {
-          shloka: "14-16. I will ask the Father, and he will...",
+          shloka: "(14:16) Ngizocela kuBaba, futhi uyoninika omunye uMmeli ukuthi akusize futhi abe nawe kuze kube phakade.",
           component: 131,
           subs: null
         },
         {
-          shloka: "14-17. The world cannot accept him...",
+          shloka: "(14:17) Izwe alinakumamukela ngenxa yalo futhi abaMboni futhi abamazi. Kodwa uyamazi, ngoba uhlala lani njalo uzakuba kini.",
           component: 132,
           subs: null
         },
 
         {
-          shloka: "14-20. On that day you will realize...",
+          shloka: "(14:20) Ngalolo suku niyokwazi ukuthi ngiphakathi kwami Baba, nawe ukimi, nami ngikini.",
           component: 133,
           subs: null
         },
         {
-          shloka: "14-25. All this I have spoken while...",
+          shloka: "(14:25) Konke lokhu ngikukhulumile ngisenani.",
           component: 134,
           subs: null
         },
         {
-          shloka: "14-26. But the Advocate, the Holy Spirit...",
+          shloka: "(14:26) Kodwa uMmeli, uMoya oNgcwele, owathi UBaba uyakuthumela egameni lami, uzonifundisa zonke izinto futhi ngizonikhumbuza ngakho konke engikushilo kini.",
           component: 134,
           subs: null
         },
         {
-          shloka: " 15-23. Whoever hates me hates...",
+          shloka: "(15:23) Lowo ozonda mina uzonda noBaba",
           component: 135,
           subs: null
         },
         {
-          shloka: "15-24. If I had not done among them the...",
+          shloka: "(15:24) Uma bengingenzanga phakathi kwabo imisebenzi, akukho muntu uma kungenjalo, babengeke babe nesono. Njengoba kunjalo, bona babonile, kepha bayangizonda mina neyami Baba. ",
           component: 136,
           subs: null
         },
         {
-          shloka: "15-25. But this is to fulfill what is...",
+          shloka: "(15:25) Kodwa lokhu kwenzelwa ukugcwalisa okulotshiweyo emthethweni wabo ukuthi:'Bangizonda ngaphandle kwesizathu.’",
           component: 136,
           subs: null
         },
         {
-          shloka: "15-26. When the Advocate comes... ",
+          shloka: "(15:26) Lapho kufika uMmeli, engizomthuma kuye kini elivela kuBaba—uMoya weqiniso ophumayo evela kuBaba—Yena uzofakaza ngami.",
           component: 137,
           subs: null
         },
         {
-          shloka: "15-27. And you also must testify...",
+          shloka: "(15:27) Futhi nawe kufanele ufakaze, ngoba ubulokhu nami kusukela ekuqaleni.",
           component: 137,
           subs: null
         },
         {
-          shloka: "16-7. But very truly I tell you, it is for...",
+          shloka: "(16:7) Kodwa ngiqinisile ngithi kini: Kungokuhle nina ngiyahamba. Ngaphandle kokuthi ngihambe, uMmeli angeke woza kuwe; kepha uma ngimuka, ngiyakumthumela kini.",
           component: 138,
           subs: null
         },
         {
-          shloka: "16-8. When he comes, he will prov...",
+          shloka: "(16:8) Lapho efika, uyofakazela ukuthi izwe likuwo okungalungile ngesono nokulunga nokwahlulela.",
           component: 139,
           subs: null
         },
         {
-          shloka: "16-12. I have much more to say...",
+          shloka: "(16:12) Nginokuningi engingakusho kini, ngaphezu kwenu; manje angathwala.",
           component: 140,
           subs: null
         },
         {
-          shloka: "16-13. But when he, the Spirit of truth...",
+          shloka: "(16:13) Kodwa lapho Yena, uMoya weqiniso, efika, Uyokwenza aniqondise kulo lonke iqiniso. Akayikukhuluma ngeyaKhe okwakho; Uzokhuluma kuphela lokho Akuzwayo, futhi Uyokusho wena lokho okuseza.",
           component: 141,
           subs: null
         },
         {
-          shloka: "16-14. He will glorify me because...",
+          shloka: "(16:14) Uzongikhazimulisa ngoba uvela kimi uyakwemukela lokho Azakunazisa khona.",
           component: 142,
           subs: null
         },
         {
-          shloka: "16t-15. All that belongs to the Father...",
+          shloka: "(16:15) Konke okungokukaBaba kungokwami. Leyo kungani ngithe uMoya uyakwamukela kimi ukuthi uyakwamukela kwazisa wena.",
           component: 142,
           subs: null
         },
         {
-          shloka: "16-16. Jesus went on to say, “In a...",
+          shloka: "(16:16) UJesu waqhubeka wathi: 'Kuseyisikhashana nizokwazi ningabe nisangibona, bese kuthi emva kwesikhashana nibone ngibone.'",
           component: 143,
           subs: null
         },
         {
-          shloka: "16-17. At this, some of his disciple...",
+          shloka: "(16:17) Kulokhu, abanye babafundi bakhe bathi komunye omunye, 'Usho ukuthini ngokuthi, ‘Kancane kanti anisayikungibona, futhi emva kwesikhashana kuyilapho nizongibona,’ futhi ‘Ngoba ngiya kini Ubaba?'",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-18. They kept asking, “What does...",
+          shloka: "(16:18) Babelokhu bebuza, 'Usho ukuthini ngokuthi ‘ isikhathi esincane'? Asiqondi ukuthi uthini.'",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-19. Jesus saw that they wanted...",
+          shloka: "(16:19) UJesu wabona ukuthi babefuna ukumbuza mayelana lokhu, ngakho wathi kubo: 'Niyabuzana na? engangikuqondile lapho ngithi, ‘Kuseyisikhashana nizobona ningasangiboni, kuthi emva kwesikhashana nibone mina'?",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-20. Very truly I tell you, you wil...",
+          shloka: "(16:20) Ngiqinisile, ngiqinisile ngithi kini: Niyokhala nilile kuyilapho izwe lijabula. Uzakuba lusizi, kodwa usizi lwakho izophenduka intokozo.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-21. A woman giving birth to a child...",
+          shloka: "(16:21) Owesifazane obeletha umntwana uba nobuhlungu ngoba isikhathi sakhe sesifikile; kodwa uma ingane yakhe ezelwe, uyakhohlwa usizi ngenxa yentokozo yakhe ukuthi umntwana uzelwe emhlabeni.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-22. So, with you: Now is your time...",
+          shloka: "(16:22) Ngakho, nawe: Manje yisikhathi sakho sosizi, kodwa ngizo futhi niyokubona futhi niyojabula, futhi akekho oyokwamukela susa injabulo yakho.",
           component: 144,
           subs: null
         },
         {
-          shloka: "16-25. Though I have been speaking...",
+          shloka: "(16:25) Nakuba bengikhuluma ngomfanekiso, siyeza isikhathi lapho ngingabe ngisalusebenzisa lolu hlobo kodwa ngizalitshela ngokusobala ngoBaba.",
           component: 145,
 
           subs: null
@@ -4127,28 +4245,28 @@ verse: `
 
     },
     {
-      title: 'The Revelations ', component: 146, chapterNumber: 6, subs: null, icon: 'information'
+      title: 'ISambulo sikaJohane', component: 146, chapterNumber: 6, subs: null, icon: 'information'
     },
     {
-      title: 'The Three Fingers', component: 147, chapterNumber: 7, subs: null, icon: 'information'
+      title: 'The Iminwe Emithathu', component: 147, chapterNumber: 7, subs: null, icon: 'information'
 
     },
     {
-      title: 'Good Friday - Bad Friday', component: 148, chapterNumber: 8, subs: null, icon: 'information'
+      title: 'ULwesihlanu Oluhle noma uLwesihlanu Olubi?', component: 148, chapterNumber: 8, subs: null, icon: 'information'
 
     },
     {
-      title: 'A Letter From A Hindu', component: 149, chapterNumber: 9, subs: null, icon: 'information'
-
-    },
-
-    {
-      title: 'Glossary', component: 151, chapterNumber: 11, subs: null, icon: 'information'
+      title: 'Incwadi evela kumHindu', component: 149, chapterNumber: 9, subs: null, icon: 'information'
 
     },
 
     {
-      title: 'Videos', component: 152, chapterNumber: 12, subs: null, icon: 'videocam'
+      title: 'Uhlu lwamagama', component: 151, chapterNumber: 11, subs: null, icon: 'information'
+
+    },
+
+    {
+      title: 'Ividiyo', component: 152, chapterNumber: 12, subs: null, icon: 'videocam'
 
     }
     // ,
