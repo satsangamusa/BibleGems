@@ -369,46 +369,46 @@ pageText: `<span  [ngStyle] = "{'font-size':this.globaldata.fontSize+'px'}">
           <div class="io-jeeva">
             IJeeva
           </div>
-          <div class="io-mind">
+          <div class="io-mind" style="font-size:6px">
             Inqondo
           </div>
-          <div class="io-chittam">
+          <div class="io-chittam" style="font-size:6px">
             IChittam
           </div>
-          <div class="io-intellect">
+          <div class="io-intellect" style="font-size:6px">
             Ubuhlakani
           </div>
-          <div class="io-ego">
+          <div class="io-ego" style="font-size:6px">
             I-ego
           </div>
-          <div class="so-eye">
+          <div class="so-eye" style="font-size:6px">
             Iso
           </div>
-          <div class="so-nose">
+          <div class="so-nose" style="font-size:6px">
             Ikhala
           </div>
-          <div class="so-ear">
+          <div class="so-ear" style="font-size:6px">
             Indlebe
           </div>
-          <div class="so-tongue">
+          <div class="so-tongue" style="font-size:6px">
             Ulimi
           </div>
-          <div class="so-skin">
+          <div class="so-skin" style="font-size:6px">
             Isikhumba
           </div>
-          <div class="ao-hands">
+          <div class="ao-hands" style="font-size:6px">
             Izandla
           </div>
-          <div class="ao-legs">
+          <div class="ao-legs" style="font-size:6px">
             Imilenze
           </div>
-          <div class="ao-mouth">
+          <div class="ao-mouth" style="font-size:6px">
             Umlomo
           </div>
-          <div class="ao-anus">
+          <div class="ao-anus" style="font-size:6px">
              I-Anus
           </div>
-          <div class="ao-sex-organ">
+          <div class="ao-sex-organ" style="font-size:6px">
             Isitho Socansi
           </div>
         </div>
